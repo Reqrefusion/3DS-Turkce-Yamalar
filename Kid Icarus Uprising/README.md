@@ -1,5 +1,7 @@
 # Kid Icarus Uprising Türkçe Yama
 
+https://gamebanana.com/mods/648202
+
 Yama avrupa sürümü içindir. 0004000000030200 dosyasında sadece menüler vardır tüm altyazılar ile birlikte tüm yamayı gamebananadan indirebilirsiniz.
 
 Çeviride hatalar bulursanız tr klasörlerinden düzeltebilir veya issue açabilirsiniz. Yardımcı olması adına ingilizceyide bırakıyorum.
