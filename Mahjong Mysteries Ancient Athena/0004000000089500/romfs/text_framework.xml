@@ -1,0 +1,1173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<language>
+	<general>
+		<standardterms>
+			<close>
+				<EN>Kapat</EN>
+				<DE>Schliessen</DE>
+				<NL>Afsluiten</NL>
+				<FR>Fermer</FR>
+				<ES>Cerrar</ES>
+				<IT>Chiudi</IT>
+				<BR>Fechar</BR>
+				<SE>Stäng</SE>
+			</close>
+			<back>
+				<EN>Geri</EN>
+				<DE>Zurück</DE>
+				<FR>Annuler</FR>
+				<IT>Indietro</IT>
+				<ES>Volver</ES>
+				<NL>Terug</NL>
+			</back>
+			<next>
+				<EN>Ileri</EN>
+				<DE>Weiter</DE>
+				<FR>Continuer</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</next>
+			<ok>
+				<EN>Tamam</EN>
+				<DE>OK</DE>
+				<FR>OK</FR>
+				<IT>OK</IT>
+				<ES>OK</ES>
+				<NL>OK</NL>
+			</ok>
+			<yes>
+				<EN>Evet</EN>
+				<DE>Ja</DE>
+				<FR>Oui</FR>
+				<IT>Sì</IT>
+				<ES>Sí</ES>
+				<NL>Ja</NL>
+			</yes>
+			<no>
+				<EN>Hayir</EN>
+				<DE>Nein</DE>
+				<FR>Non</FR>
+				<IT>No</IT>
+				<ES>No</ES>
+				<NL>Nee</NL>
+			</no>
+			<play>
+				<EN>Oyna</EN>
+				<DE>Spielen</DE>
+				<FR>Jouer</FR>
+				<IT>Giocare</IT>
+				<ES>Jugar</ES>
+				<NL>Spelen</NL>
+			</play>
+			<menu>
+				<EN>Menü</EN>
+				<DE>Menü</DE>
+				<FR>Menu</FR>
+				<IT>Menu</IT>
+				<ES>Menú</ES>
+				<NL>Menu</NL>
+			</menu>
+			<play>
+				<DE>Spielen</DE>
+				<EN>Oyna</EN>
+				<ES>Jugar</ES>
+				<FR>Jouer</FR>
+				<IT>Giocare</IT>
+				<NL>Spelen</NL>
+			</play>
+			<continue>
+				<DE>Weiter</DE>
+				<NL>Verder</NL>
+				<FR>Continuer</FR>
+				<ES>Continuar</ES>
+				<EN>Devam</EN>
+				<IT>Avanti</IT>
+			</continue>
+			<skip>
+				<DE>Überspringen</DE>
+				<EN>Atla</EN>
+				<ES>Saltar</ES>
+				<FR>Passer</FR>
+				<IT>Salta</IT>
+				<NL>Overslaan</NL>
+			</skip>
+			<delete>
+				<DE>Löschen</DE>
+				<EN>Sil</EN>
+				<ES>Borrar</ES>
+				<FR>Supprimer</FR>
+				<IT>Cancellare</IT>
+				<NL>Wissen</NL>
+			</delete>
+			<credits>
+				<EN>Emegi Geçenler</EN>
+				<DE>Credits</DE>
+				<FR>Crédits</FR>
+				<IT>Credits</IT>
+				<ES>Créditos</ES>
+				<NL>Credits</NL>
+			</credits>
+			<continue>
+				<EN>Devam</EN>
+				<DE>Weiter</DE>
+				<FR>Continuer</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</continue>
+			<settings>
+				<EN>Ayarlar</EN>
+				<DE>Einstellungen</DE>
+				<FR>Réglages</FR>
+				<IT>Impostazioni</IT>
+				<ES>Ajustes</ES>
+				<NL>Instellingen</NL>
+			</settings>
+			<instructions>
+				<EN>Nasil oynanir</EN>
+				<DE>Anleitung</DE>
+				<FR>Instructions</FR>
+				<IT>Istruzioni</IT>
+				<ES>Instrucciones</ES>
+				<NL>Speluitleg</NL>
+			</instructions>
+			<score>
+				<EN>Skor</EN>
+				<DE>Punkte</DE>
+				<FR>Points</FR>
+				<IT>Punti</IT>
+				<ES>Puntuación</ES>
+				<NL>Punten</NL>
+			</score>
+			<level>
+				<EN>Seviye</EN>
+				<DE>Level</DE>
+				<FR>Niveau</FR>
+				<IT>Livello</IT>
+				<ES>Nivel</ES>
+				<NL>Level</NL>
+			</level>
+			<easy>
+				<EN>Kolay</EN>
+				<IT>Facile</IT>
+				<DE>Einfach</DE>
+				<ES>Fácil</ES>
+				<FR>Facile</FR>
+				<NL>Makkelijk</NL>
+			</easy>
+			<normal>
+				<EN>Orta</EN>
+				<IT>Normale</IT>
+				<DE>Normal</DE>
+				<ES>Normal</ES>
+				<FR>Normal</FR>
+				<NL>Normaal</NL>
+			</normal>
+			<hard>
+				<EN>Zor</EN>
+				<IT>Difficile</IT>
+				<DE>Schwer</DE>
+				<ES>Difícil</ES>
+				<FR>Difficile</FR>
+				<NL>Moeilijk</NL>
+			</hard>
+			<time>
+				<EN>Süre</EN>
+				<IT>Tempo</IT>
+				<DE>Zeit</DE>
+				<ES>Tiempo</ES>
+				<FR>Temps</FR>
+				<NL>Tijd</NL>
+			</time>
+		</standardterms>
+		<numeric_separator EN="," DE="." FR="." IT="." ES="." NL="."/>
+	</general>
+	<!--instr ???? FW <>PRJ-->
+	<adventure_message>
+		<EN>Mevcut oyununuzdan devam etmek istiyor musunuz?</EN>
+		<DE>Möchtest du das aktuelle Spiel fortsetzen?</DE>
+		<NL>Wil je doorgaan met je huidige spel?</NL>
+		<ES>¿Quieres continuar con la partida actual?</ES>
+		<FR>Veux-tu continuer la partie en cours ?</FR>
+		<IT>Vuoi continuare il gioco attuale?</IT>
+	</adventure_message>
+	<new_game_message>
+		<EN>Macerayi yeniden baslatirsaniz eski skorunuz kaybolacak. Devam etmek istiyor musunuz?</EN>
+		<DE>Wenn du das Abenteuer neu beginnst, geht dein alter Spielstand verloren. Möchtest du fortsetzen?</DE>
+		<NL>Als je het avontuur opnieuw start, gaat je score verloren. Wil je verdergaan?</NL>
+		<ES>Si reinicias la aventura, tu puntuación anterior se perderá. ¿Quieres continuar?</ES>
+		<FR>Si tu redémarres l'aventure, ton score précédent sera effacé. Veux-tu vraiment continuer ?</FR>
+		<IT>Se ricominci l'avventura di nuovo, perdi il tuo vecchio punteggio. Vuoi continuare?</IT>
+	</new_game_message>
+	<main_menu>
+		<adventure>
+			<EN>Macera</EN>
+			<DE>Adventure</DE>
+			<FR>Aventure</FR>
+			<ES>Aventura</ES>
+			<NL>Avontuur</NL>
+			<IT>Avventura</IT>
+		</adventure>
+		<freeplay>
+			<EN>Rahat Mod</EN>
+			<DE>Relax-Modus</DE>
+			<FR>Mode Libre</FR>
+			<ES>Modo Relax</ES>
+			<NL>Vrij Spelen</NL>
+			<IT>Relax</IT>
+		</freeplay>
+		<new_game>
+			<DE>Neues Spiel</DE>
+			<NL>Nieuw Spel</NL>
+			<FR>Nouveau Jeu</FR>
+			<ES>Nueva Partida</ES>
+			<EN>Yeni Oyun</EN>
+			<IT>Nuova Partita</IT>
+		</new_game>
+		<continue>
+			<EN>Devam</EN>
+			<DE>Weiter</DE>
+			<FR>Continuer</FR>
+			<IT>Avanti</IT>
+			<ES>Continuar</ES>
+			<NL>Verder</NL>
+		</continue>
+		<adventure_message>
+			<EN>Mevcut oyununuzdan devam etmek istiyor musunuz?</EN>
+			<DE>Möchtest du das aktuelle Spiel fortsetzen?</DE>
+			<NL>Wil je verder gaan met je huidige spel?</NL>
+			<ES>¿Quieres continuar con la partida actual?</ES>
+			<FR>Veux-tu continuer la partie en cours ?</FR>
+			<IT>Vuoi continuare il gioco attuale?</IT>
+		</adventure_message>
+		<new_game_message>
+			<EN>Macerayi yeniden baslatirsaniz eski skorunuz kaybolacak. Devam etmek istiyor musunuz?</EN>
+			<DE>Wenn du das Abenteuer neu beginnst, geht dein alter Spielstand verloren. Möchtest du fortsetzen?</DE>
+			<NL>Als je het avontuur opnieuw start, gaat je score verloren. Wil je verder gaan?</NL>
+			<ES>Si reinicias la aventura, tu puntuación anterior se perderá. ¿Quieres continuar?</ES>
+			<FR>Si tu redémarres l'aventure, ton score précédent sera effacé. Veux-tu vraiment continuer ?</FR>
+			<IT>Se ricominci l'avventura di nuovo, perdi il tuo vecchio punteggio. Vuoi continuare?</IT>
+		</new_game_message>
+	</main_menu>
+	<credits>
+		<slide01>
+			<EN>- cerasus.media -
+
+YAPIM VE OYUN TASARIMI:
+Holger Neitsch</EN>
+			<DE>- cerasus.media -
+
+PRODUKTION UND GAMEDESIGN:
+Holger Neitsch</DE>
+			<FR>- cerasus.media -
+
+PRODUCTION ET CONCEPTION DU JEU:
+Holger Neitsch</FR>
+			<ES>- cerasus.media -
+
+PRODUCCIÓN Y DISEÑO DEL JUEGO:
+Holger Neitsch</ES>
+			<IT>- cerasus.media -
+
+PRODUZIONE E PROGETTAZIONE GIOCO:
+Holger Neitsch</IT>
+			<NL>- cerasus.media -
+
+PRODUCTIE EN GAMEDESIGN:
+Holger Neitsch</NL>
+		</slide01>
+		<slide02>
+			<EN>GRAFIK:
+Annika Wächtler
+Christian Bernhardt</EN>
+			<DE>GRAFIK:
+Annika Wächtler
+Christian Bernhardt</DE>
+			<NL>GRAFIEK:
+Annika Wächtler
+Christian Bernhardt</NL>
+			<FR>GRAPHISME :
+Annika Wächtler
+Christian Bernhardt</FR>
+			<ES>DISEÑO GRÁFICO:
+Annika Wächtler
+Christian Bernhardt</ES>
+			<IT>GRAFICA:
+Annika Wächtler
+Christian Bernhardt</IT>
+		</slide02>
+		<slide03>
+			<EN>SES EFEKTLERI + MÜZIK:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</EN>
+			<DE>SOUNDEFFEKTE + MUSIK:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</DE>
+			<FR>EFFETS SONORES + MUSIQUE:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</FR>
+			<ES>EFECTOS DE SONIDO + MÚSICA:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</ES>
+			<IT>PROGETTISTI DEL SUONO + MUSICA:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</IT>
+			<NL>GELUIDSEFFECTEN + MUZIEK:
+Strategic Music
+Geronimo Komp
+Sounddogs Inc.
+Soundrangers</NL>
+		</slide03>
+		<slide04>
+			<EN>MÜZIK:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</EN>
+			<DE>MUSIK:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</DE>
+			<FR>MUSIQUE:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</FR>
+			<IT>MUSICA:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</IT>
+			<ES>MÚSICA:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</ES>
+			<NL>MUZIEK:
+Brilliant idea - John Judd (ASCAP)
+Control - Denis Woods (IMRO)
+Magic Park - Ori Vidislavski
+A perfect accompaniment - Elliot Simons
+Triumphant Stinger - Dimitris Plagiannis (AEPI)</NL>
+		</slide04>
+		<slide05>
+			<EN>TEST EDENLER:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</EN>
+			<DE>TESTER:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</DE>
+			<FR>TESTEURS:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</FR>
+			<ES>REALIZADORES DE PRUEBAS:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</ES>
+			<IT>TESTER:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</IT>
+			<NL>TESTER:
+Christian Baumgarten
+Benjamin Berndt
+Christian Bernhardt
+Cornelie Brandt</NL>
+		</slide05>
+		<slide06>
+			<EN>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</EN>
+			<DE>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</DE>
+			<FR>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</FR>
+			<ES>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</ES>
+			<IT>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</IT>
+			<NL>Anika Heinz
+Stefan Jülke
+Christoph Klesser
+Oksana Pik
+Annika Wächtler</NL>
+		</slide06>
+		<slide07>
+			<EN>- Lvivmedia -
+
+PROGRAMLAMA:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</EN>
+			<DE>- Lvivmedia -
+
+PROGRAMMIERUNG:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</DE>
+			<FR>- Lvivmedia -
+
+PROGRAMMEURS:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</FR>
+			<ES>- Lvivmedia -
+
+PROGRAMACIÓN:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</ES>
+			<IT>- Lvivmedia -
+
+PROGRAMMATORI:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</IT>
+			<NL>- Lvivmedia -
+
+PROGRAMMERING:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk</NL>
+		</slide07>
+		<slide08>
+			<EN>GRAFIK:
+Andriy Romin</EN>
+			<DE>GRAFIK:
+Andriy Romin</DE>
+			<NL>GRAFIEK:
+Andriy Romin</NL>
+			<FR>GRAPHISME :
+Andriy Romin</FR>
+			<ES>DISEÑO GRÁFICO:
+Andriy Romin</ES>
+			<IT>GRAFICA:
+Andriy Romin</IT>
+		</slide08>
+		<slide09>
+			<EN>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+Tüm haklari saklidir.</EN>
+			<DE>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+All rights reserved.</DE>
+			<FR>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+All rights reserved.</FR>
+			<ES>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+All rights reserved.</ES>
+			<IT>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+All rights reserved.</IT>
+			<NL>© 2012 Avanquest Software Publishing Ltd
+© 2012 cerasus.media GmbH
+All rights reserved.</NL>
+		</slide09>
+	</credits>
+	<instruction>
+		<rule01>
+			<!--nintendo-->
+			<DE>Bewege den Cursor, indem du den Touchpen über den Touchscreen ziehst. Bewege den Cursor über einen Stein und hebe dann den Touchpen vom Touchscreen, um den Stein auszuwählen.</DE>
+			<EN>Imleci, kalemi 
+Dokunmatik Ekran üzerinde hareket ettirerek tasiyin. Imleci bir tasin üzerine getirin ve seçmek için kalemi 
+Dokunmatik Ekran'dan uzaklastirin.</EN>
+			<ES>Puedes mover el cursor tocando con el lápiz táctil sobre la pantalla inferior. Mueve el cursor sobre una ficha y levánta el lápiz táctil de la pantalla inferior para seleccionar la ficha.</ES>
+			<FR>Déplace le curseur afin de voir le stylet sur 
+l'écran tactile. Déplace le curseur sur un pion et soulève-le pour libérer le pion.</FR>
+			<IT>Muovi il cursore trascinando lo stilo sullo 
+schermo inferiore. Sposta il cursore su una pietra e solleva lo stilo dallo 
+schermo inferiore per selezionare la pietra.</IT>
+			<NL>Beweeg de cursor, zodat je de stylus over de onderste scherm trekt. Beweeg de cursor over een steen en haal dan de stylus van de onderste scherm, om de steen uit te kiezen.</NL>
+		</rule01>
+		<rule02>
+			<!--nintendo-->
+			<DE>Du musst den Stein nicht noch einmal antippen, um ihn auszuwählen. Finde zwei passende freie Steine, um sie aufzulösen.</DE>
+			<EN>Tasi seçmek için yeniden dokunmaniz gerekmez. Tahtadan kaldirmak için iki es tas bulun.</EN>
+			<ES>No tienes que pulsar otra vez sobre la ficha para seleccionarla. Encuentra dos fichas libres iguales para combinarlas.</ES>
+			<FR>Tu ne dois pas pointer le pion pour le libérer. Trouve 2 pions libres combinables pour les libérer.</FR>
+			<IT>Non devi ritoccare la pietra per selezionarlo. Trova due tessere libere e corrispondenti per disolverle.</IT>
+			<NL>Je moet de steen niet nog een keer aantikken, om hem uit te kiezen. Vind twee gelijkende vrije stenen, om ze op te laten lossen.</NL>
+		</rule02>
+		<rule03>
+			<DE>Bei Stein-Familien passen auch unterschiedliche Steine einer Familie zueinander. Ein Stein ist dann frei, wenn links oder rechts kein anderer angrenzt.</DE>
+			<EN>Ayni setten farkli taslar da eslestirilebilir. Bir tas, sag ya da sol tarafi baska bir tasa degmiyorsa seçilebilir.</EN>
+			<ES>Las distintas fichas de una familia también son compatibles entre sí.</ES>
+			<FR>Tu peux également combiner des pions différents d'une même famille. Un pion est libre lorsqu'aucun autre ne se trouve à sa gauche ou à sa droite.</FR>
+			<IT>Con tessere della stessa famiglia sono adattabili anche diverse tessere di una famiglia all'altra. Una pietra è libera, quando a sinistra o a destra non ha tessere confinanti.</IT>
+			<NL>In Steenfamilies passen ook verschillende stenen van één familie samen. Een steen is dan vrij, wanneer er links of rechts geen andere aan grenst.</NL>
+		</rule03>
+		<rule04>
+			<DE>Entferne zuerst die Steine, durch die möglichst viele neue Steine frei werden. Du kannst die Kameraperspektive ändern, indem du das Schiebepad bewegst.</DE>
+			<EN>Mümkün oldugunca çok tasi serbest birakacak taslari kaldirmaya odaklanin. Kamera açilarini Circle Pad ile degistirebilirsiniz.</EN>
+			<ES>Elimina primero las fichas que dejen libres el mayor número de fichas posibles. Puedes cambiar la perspectiva de la cámara moviendo el botón deslizante.</ES>
+			<FR>Dégage d'abord les pions qui te permettent de libérer d'autres pions. Tu peux modifier l'angle de vue en déplaçant le pad circulaire.</FR>
+			<IT>Per prima rimuovi le pietre, dando la possibilità alle tante nuove pietre di essere libere. Poi cambiare la prospetiva della camera muovendo il pad.</IT>
+			<NL>Verwijder eerst de stenen, waardoor zoveel mogelijk nieuwe stenen vrijkomen. Je kan de cameraperspectieven veranderen, als je de draaiknop beweegt.</NL>
+		</rule04>
+		<rule05>
+			<DE>Wenn drei gleiche Steine frei sind, lass den liegen, der die unwichtigsten Steine blockiert. Kümmere dich früh um die hohen Stapel und plane möglichst viele Züge im Voraus. Je schneller du bist, desto mehr Punkte bekommst du.</DE>
+			<EN>Ayni türden üç tas serbestse, en az önemli taslari engelleyenini birakin. Yüksek tas kuleleriyle ne kadar erken ilgilenirseniz o kadar iyi. Mümkün oldugunca çok hamleyi önceden planlamaya çalisin. Ne kadar hizli olursaniz o kadar çok puan kazanirsiniz.</EN>
+			<FR>Lorsque trois pions identiques sont libres, ne déplace pas ceux qui bloquent les pions les moins importants. Occupe-toi le plus tôt possible des piles les plus hautes et planifie autant que possible les tours à venir.</FR>
+			<IT>Quando tre tasselli uguali sono liberi, lascia quello che blocca gli altri che al momento non sono importanti. Occupati prima dei tasselli più in alto e cerca di pianificare le mosse in anticipo.</IT>
+			<NL>Als drie dezelfde stenen vrij zijn, laat dan degenen liggen die de minst belangrijke stenen blokkeert. Hoe eerder je hoge stapels wegspeelt, hoe beter. Probeer zoveel mogelijk zetten vooruit te plannen. Hoe sneller je alle stenen wegspeelt, hoe meer punten je krijgt.</NL>
+			<ES>Si hay tres fichas iguales libres, deja aquella que bloquee las fichas menos importantes. Dedícate primero a retirar la pila más elevada y planea en lo posible tus movimientos con antelación.</ES>
+		</rule05>
+		<rule06>
+			<DE>Pro Level hast du anfangs 20 Minuten, später immer weniger Zeit, um alle Steine abzuräumen. Versuche, möglichst schnell zu sein, um Bonuspunkte zu bekommen.</DE>
+			<EN>Basta bir bölümü tamamlamak için 20 dakikaniz olacak; ancak oyun ilerledikçe size giderek daha az süre verilecek. Bonus puan kazanmak için olabildigince hizli olmaya çalisin.</EN>
+			<FR>Au début, tu as 20 minutes par niveau, le temps accordé pour dégager les pions diminue ensuite graduellement. Essaie d'être encore plus rapide pour obtenir des points bonus.</FR>
+			<IT>Per ogni livello hai inizialmente 20 minuti, poi il tempo va diminuendo per eliminare i restanti tasselli. Cerca di essere il più veloce possibile per guadagnare dei punti bonus.</IT>
+			<NL>In het begin krijg je 20 minuten per level, maar de tijd wordt steeds krapper. Speel zo snel mogelijk voor bonuspunten.</NL>
+			<ES>Al principio tienes 20 minutos por nivel, más tarde tendrás menos tiempo para retirar todas las fichas. Intenta hacerlo lo más rápido posible para ganar puntos extra.</ES>
+		</rule06>
+		<rule07>
+			<DE>Mit diesem Bonus spielst du ein neues Stein-Design frei, welches du in den Einstellungen für neue Spiele auswählen kannst.</DE>
+			<EN>Bu bonusla yeni bir tas tasariminin kilidini açabilir ve Ayarlar'dan seçerek yeni oyunlarda kullanabilirsiniz.</EN>
+			<NL>Met deze bonus speel je een nieuw steenmotief vrij voor nieuwe spellen, die je bij de instellingen kunt uitkiezen.</NL>
+			<FR>Grâce à ce bonus, tu peux jouer avec de nouveaux pions, à choisir dans le menu installation.</FR>
+			<IT>Con questo Bonus ottieni un nuovo design per i tasselli, che comparirà poi nella gamma dei set.</IT>
+			<ES>Con esta bonificación desbloquearás un nuevo diseño de ficha que podrás seleccionar en el área de selección para nuevas partidas.</ES>
+		</rule07>
+		<rule08>
+			<DE>Den Joker-Stein kannst du mit jedem beliebigen anderen Stein kombinieren.</DE>
+			<EN>Joker tasi herhangi bir tasla eslestirebilirsiniz.</EN>
+			<ES>Puedes combinar la ficha comodín con cualquier otra ficha.</ES>
+			<FR>Le pion joker peut être combiné avec n'importe quel autre pion.</FR>
+			<IT>Puoi combinare la tessera Jolly con qualsiasi altra tessera.</IT>
+			<NL>Je kunt de joker-steen combineren met elke andere steen.</NL>
+		</rule08>
+		<rule09>
+			<DE>Tippe jetzt nacheinander zwei Steine an und ihre Position wird vertauscht.</DE>
+			<EN>Iki tasa dokunun; yerleri degistirilecektir.</EN>
+			<ES>Toca ahora dos fichas y sus posiciones se intercambiarán.</ES>
+			<FR>Touche successivement deux pions et leur position sera intervertie.</FR>
+			<IT>Toccando due tessere una dopo l'altra, la loro posizione verrà scambiata.</IT>
+			<NL>Tik op twee stenen om ze te verwisselen.</NL>
+		</rule09>
+		<rule10>
+			<DE>Der nächste Stein, den du antippst, wird vom Magneten angezogen.</DE>
+			<EN>Bir sonraki dokundugunuz tas, bir miknatisla çekilip çikarilacak.</EN>
+			<ES>La próxima ficha que toques será atraída por imanes.</ES>
+			<FR>Le prochain pion que tu touches sera attiré par l'aimant.</FR>
+			<IT>La prossima tessera che verrà toccata sarà attratta dal magnete.</IT>
+			<NL>De volgende steen die je aantikt, wordt door magneten weggetrokken.</NL>
+		</rule10>
+		<rule11>
+			<DE>Dieser Bonus löscht alle sichtbaren Steine des Typs, den du als nächstes antippst.</DE>
+			<EN>Bu bonus, bir sonraki dokundugunuz türdeki tüm görünen taslari siler.</EN>
+			<ES>Este bonus borra todas las fichas visibles iguales a la siguiente ficha que toques.</ES>
+			<FR>Ce bonus supprime toutes les versions visibles du pion que tu toucheras la prochaine fois.</FR>
+			<IT>Questo bonus elimina tutte le abbinabili tessere visibili alla prossima tessera che toccherai.</IT>
+			<NL>Deze bonus verwijdert alle zichtbare stenen van het type dat je nu aantikt.</NL>
+		</rule11>
+		<rule12>
+			<DE>Für 25 Sekunden leuchten alle passenden Steine, nachdem du einen Stein angetippt hast.</DE>
+			<EN>Bir tasa dokunduktan sonra uygun tüm taslar 25 saniye boyunca aydinlanir.</EN>
+			<ES>Después de tocar una ficha, todas las fichas combinables se iluminan durante 25 segundos.</ES>
+			<FR>Après avoir touché un pion, tous les pions pouvant être combinés sont mis en surbrillance pendant 25 secondes.</FR>
+			<IT>Dopo aver toccato una tessera, tutte le tessere ad essa abbinabili si illuminano per 25 secondi.</IT>
+			<NL>Alle combineerbare stenen lichten 25 seconden op, nadat je op een steen hebt getikt.</NL>
+		</rule12>
+		<rule13>
+			<DE>Bringe beide Steine zusammen und der Level ist sofort gelöst.</DE>
+			<EN>Bu taslari bir araya getirerek bölümü hemen çözün.</EN>
+			<ES>Si tocas dos fichas de estas consecutivamente, completarás el nivel inmediatamente.</ES>
+			<FR>Réunis les deux pions et tu auras réussi le niveau.</FR>
+			<IT>Abbinando le due tessere il livello sarà immediatamente superato.</IT>
+			<NL>Breng deze stenen bij elkaar om het level direct uit te spelen.</NL>
+		</rule13>
+		<rule14>
+			<DE>Dieser Bonus ändert für 30 Sekunden die Regeln: In dieser Zeit sind jene Steine frei, an die oben und unten kein anderer angrenzt.</DE>
+			<EN>Bu bonus kurallari 30 saniyeligine degistirir: Bu süre boyunca, üstünde ya da altinda baska tas olmayan taslar serbest sayilir.</EN>
+			<ES>Este bonus cambia las reglas durante 30 segundos: En ese tiempo las fichas que no tengan otras arriba y abajo, están libres.</ES>
+			<FR>Ce bonus modifie les règles pendant 30 secondes: durant cette période, les pions qui n'ont aucun autre pion adjacent au-dessus et en dessous sont libres.</FR>
+			<IT>Questo Bonus cambia le regole per 30 secondi: in questo arco di tempo alcune pietre sono libere, se nessun'altra confina sopra o sotto di loro.</IT>
+			<NL>Deze bonus verandert 30 seconden lang de spelregels: gedurende deze periode zijn die stenen vrij waar boven en onder geen andere stenen aan grenzen.</NL>
+		</rule14>
+		<rule15>
+			<DE>Du kannst auch in das Mikrofon deines 
+Nintendo 3DS pusten, um die Spielsteine neu zu mischen. In den Einstellungen kannst du diese Funktion auch deaktivieren.</DE>
+			<EN>Taslari karistirmak için Nintendo 3DS'in mikrofonuna üfleyebilirsiniz. Bu islevi Ayarlar'dan devre disi birakabilirsiniz.</EN>
+			<ES>También puedes soplar en el micrófono de tu 
+Nintendo 3DS, para mezclar de nuevo las fichas restantes. Puedes desactivar esta función en ajustes.</ES>
+			<FR>Tu peux aussi souffler dans le microphone de ta 
+Nintendo 3DS pour mélanger à nouveau les pions. Cette fonction peut être désactivée dans les options.</FR>
+			<IT>Puoi anche soffiare nel microfono del tuo 
+Nintendo 3DS per mischiare di nuovo le pietre. Nelle impostazioni puoi disattivare questa funzione.</IT>
+			<NL>Je kunt ook in de microfoon van je 
+Nintendo 3DS blazen, om je stenen opnieuw te schudden. Deze functie kun je deactiveren via de instellingen.</NL>
+		</rule15>
+	</instruction>
+	<instruction_old>
+		<header_rule1>
+			<EN>Kombinasyonlar</EN>
+			<DE>Kombinationen</DE>
+			<ES>Combinaciones</ES>
+			<IT>Combinazioni</IT>
+			<FR>Combinaisons</FR>
+			<NL>Combinaties</NL>
+		</header_rule1>
+		<header_rule2>
+			<EN>Mavi Taslar</EN>
+			<DE>Blaue Kacheln</DE>
+			<ES>Azulejos azules</ES>
+			<IT>Tassello blu</IT>
+			<FR>Carreaux bleus</FR>
+			<NL>Blauwe tegels</NL>
+		</header_rule2>
+		<header_rule3>
+			<EN>Süper Kombinasyonlar</EN>
+			<DE>Super-Kombinationen</DE>
+			<ES>Super Combinaciones</ES>
+			<IT>Super combinazione</IT>
+			<FR>Super Combinaisons</FR>
+			<NL>Supercombinaties</NL>
+		</header_rule3>
+		<header_rule4>
+			<EN>Bonus</EN>
+			<DE>Bonus</DE>
+			<ES>Bonus</ES>
+			<IT>Bonus</IT>
+			<FR>Bonus</FR>
+			<NL>Bonus</NL>
+		</header_rule4>
+		<header_rule5>
+			<EN>Süre</EN>
+			<DE>Zeit</DE>
+			<ES>Tiempo</ES>
+			<IT>Tempo</IT>
+			<FR>Temps</FR>
+			<NL>Tijd</NL>
+		</header_rule5>
+		<header_rule6>
+			<EN>Binalar</EN>
+			<DE>Gebäude</DE>
+			<ES>Edificios</ES>
+			<IT>Edificio</IT>
+			<FR>Bâtiments</FR>
+			<NL>Gebouwen</NL>
+		</header_rule6>
+		<header_rule7>
+			<EN>Vatandaslar</EN>
+			<DE>Einwohner</DE>
+			<ES>Habitantes</ES>
+			<IT>Abitante</IT>
+			<FR>Habitants</FR>
+			<NL>Inwoners</NL>
+		</header_rule7>
+		<header_rule8>
+			<EN>Duraklat</EN>
+			<DE>Pause</DE>
+			<ES>Pausa</ES>
+			<IT>Pausa</IT>
+			<FR>Pause</FR>
+			<NL>Pauze</NL>
+		</header_rule8>
+		<rule1>
+			<EN>Üç veya daha fazla ayni tasi yan yana getirecek sekilde bitisik taslarin yerini degistirin.</EN>
+			<DE>Vertauscht benachbarte Symbole, um Kombinationen von drei oder mehr gleichen Symbolen zu bilden.</DE>
+			<ES>Intercambiad símbolos adyacentes para formar combinaciones de tres o más símbolos iguales.</ES>
+			<IT>Scambia figure vicine per formare file di 3 o più figure uguali.</IT>
+			<FR>Intervertissez les symboles voisins afin de former des combinaisons de trois symboles identiques ou plus.</FR>
+			<NL>Verwissel aangrenzende symbolen, zodat een rij van drie of meer identieke symbolen ontstaat.</NL>
+		</rule1>
+		<rule2>
+			<EN>Mavi taslarin üzerinden gruplar olusturarak onlari yok edin. Hiç mavi tas kalmadiginda bölüm tamamlanir.</EN>
+			<DE>Bildet Gruppen über den blauen Kacheln, um sie zu zerstören. Wenn keine blauen Kacheln mehr übrig sind, ist der Level gelöst.</DE>
+			<ES>Formad grupos sobre los azulejos azules de mármol para destruirlas. Cuando ya no existan más azulejos azules, el nivel estará completado.</ES>
+			<IT>Forma file tasselliblu per eliminarli. Quando tutti i tasselli blu saranno distrutti il livello sarà superato.</IT>
+			<FR>Formez des combinaisons sur les carreaux bleus afin de les détruire. Lorsqu'il ne reste plus de dalles bleues, le niveau est résolu.</FR>
+			<NL>Maak combinaties op de blauwe tegels om ze te vernietigen. Als er geen blauwe tegels meer over zijn, is het level voltooid.</NL>
+		</rule2>
+		<rule3>
+			<EN>Yan yana 4 veya 5 ayni tas, size daha da fazla kaynak kazandirir!</EN>
+			<DE>4 oder 5 gleiche Felder nebeneinander verschaffen Euch noch mehr Ressourcen!</DE>
+			<ES>4 o 5 campos adyacentes iguales os procuran aún más recursos.</ES>
+			<IT>La combinazione di 4 o 5 figure uguali fornirà ancora più risorse!</IT>
+			<FR>4 ou 5 cases identiques placées côte à côte vous procurent encore plus de ressources!</FR>
+			<NL>4 of 5 gelijke symbolen op een rij leveren nog meer voorraden op!</NL>
+		</rule3>
+		<rule4>
+			<EN>Bonuslar yardimci araçlardir. Sarj etmek için ilgili sembolleri eslestirin.</EN>
+			<DE>Boni sind hilfreiche Werkzeuge. Kombiniert entsprechende Symbole und ladet sie so auf.</DE>
+			<ES>Los bonus son herramientas útiles. Combinad los respectivos símbolos y cargadlos.</ES>
+			<IT>I bonus sono risorse importanti. Combina i simboli corrispondenti per ricaricarli.</IT>
+			<FR>Les bonus sont des outils très utiles. Combinez les symboles correspondants pour les obtenir.</FR>
+			<NL>Bonussen zijn hulpvol gereedschap. Combineer ze met bijpassende symbolen en laad ze zo op.</NL>
+		</rule4>
+		<rule5>
+			<EN>Sürahinin içindeki su seviyesi, ne kadar sürenizin kaldigini gösterir. Süre dolmadan tüm plakalari kirin! Ne kadar hizli olursaniz, süre bonusunuz o kadar büyük olur. Süre bonusu en degerli kaynaklarinizi yeniler.</EN>
+			<DE>Der Wasserstand im Krug zeigt die verbleibende Zeit an. Zerbrecht alle Kacheln, bevor die Zeit abgelaufen ist! Je schneller Ihr seid, desto größer ist Euer Zeitbonus. Der Zeitbonus erhöht Eure am dringendsten benötigten Ressourcen.</DE>
+			<ES>El nivel de agua en la jarra indica el tiempo restante. Romped todos los azulejos antes de que se termine el tiempo. Cuanto más rápidos seáis, mayor será vuestro bonus de tiempo y más aumentarán vuestros recursos disponibles.</ES>
+			<IT>Il livello dell'acqua nella brocca indica quanto tempo rimane. Elimina tutti i tasselli prima che scada. Più sei veloce e maggiore sarà il tuo tempo bonus. Il bonus aumenta la risorsa di cui hai più urgentemente bisogno.</IT>
+			<FR>Le niveau d'eau de la cruche indique le temps restant. Détruisez tous les carreaux avant que le temps ne soit écoulé! Plus vous êtes rapide, plus votre bonus temps sera important. Le bonus temps augmente les ressources dont vous avez le plus besoin.</FR>
+			<NL>Het waterpeil in de kruik geeft aan hoeveel tijd je nog hebt. Vernietig alle tegels voor de tijd om is! Hoe sneller je het level voltooid, hoe groter je tijdbonus. Tijdbonussen leveren de voorraden op die je het hardst nodig hebt.</NL>
+		</rule5>
+		<rule6>
+			<EN>Yeni binalar size daha degerli taslar, altin, kaynak ve yiyecek saglar.</EN>
+			<DE>Neue Gebäude bringen Euch Spielfelder, die mehr wert sind und Euch mehr Gold, Baumaterial und Nahrung verschaffen.</DE>
+			<ES>Los nuevos edificios suponen pantallas del juego que tienen más valor y os procurarán más oro, existencias y provisiones.</ES>
+			<IT>Nuovi edifici procurano figure di maggior valore, che daranno più oro, riserve e viveri.</IT>
+			<FR>Les nouveaux bâtiments correspondent à de nouveaux territoires de jeu vous rapportant plus d'or, de matériaux de construction et de nourriture.</FR>
+			<NL>Nieuwe gebouwen zorgen voor speelvelden die meer waard zijn en meer goudstukken, bouwmaterialen en voedsel opleveren.</NL>
+		</rule6>
+		<rule7>
+			<EN>Bazi binalar vatandaslara kiralanabilir. Oyunda yapacaginiz akilli hamlelerle sehrinize insan çekebilirsiniz. Vatandaslar, hedefinize daha hizli ulasmaniz için bazi avantajlar saglar.</EN>
+			<DE>In bestimmte Gebäude können Einwohner ziehen. Durch gute Spielzüge könnt Ihr die Einwohner in Eure Stadt locken. Einwohner verschaffen Euch bestimmte Vorteile und helfen Euer Ziel schneller zu erreichen.</DE>
+			<FR>Les habitants peuvent occuper certains bâtiments. En jouant bien, vous pouvez les assigner dans votre ville. Les habitants vous rapportent de nombreux avantages et vous aident à atteindre vos buts plus rapidement.</FR>
+			<IT>Gli abitanti possono andare a vivere in alcuni edifici. Grazie a buone manovre puoi far trasferire gli abitanti nella tua città. Portano con sé alcuni vantaggi che ti aiuteranno a raggiungere i tuoi obiettivi più velocemente.</IT>
+			<ES>Los habitantes se pueden mudar a los edificios. Mediante buenas jugadas podéis atraer a los habitantes a vuestra ciudad. Los habitantes os proporcionan unas determinadas ventajas y os ayudan aconseguir vuestra meta más rápido.</ES>
+			<NL>In hiervoor bestemde gebouwen kunnen inwoners wonen. Door middel van goede speltactiek kun je de inwoners in je stad lokken. Inwoners leveren specifieke voordelen en helpen je je doel sneller te bereiken.</NL>
+		</rule7>
+		<rule8>
+			<!--nintendo-->
+			<EN>Istediginiz zaman oyunu duraklatabilirsiniz. Basariyla tamamladiginiz son bölüm otomatik olarak kaydedilir. Oyun sirasinda Nintendo DS'inizde START tusuna basmak sizi menüye götürür.</EN>
+			<DE>Ihr könnt das Spiel jederzeit unterbrechen. Der letzte Level, den Ihr abgeschlossen habt, wird automatisch gespeichert. Über START auf dem Nintendo DS kommt Ihr innerhalb des Spiels zum Menü.</DE>
+			<FR>Vous pouvez interrompre le jeu à tout moment. Le dernier niveau terminé est enregistré automatiquement. Pendant le jeu, appuyez sur START sur la Nintendo DS pour revenir au menu.</FR>
+			<IT>Potete interrompere il gioco in qualsiasi momento. L'ultimo livello superato verrà salvato automaticamente. Premendo START sul Nintendo DS tornerete al menu principale.</IT>
+			<ES>Podéis interrumpir el juego siempre que queráis. El último nivel que hayáis superado quedará grabado automáticamente. Pulsad START en la Nintendo DS para acceder al menú durante el juego.</ES>
+			<NL>Je kunt het spel op elk moment pauzeren. Het laatst voltooide level wordt automatisch opgeslagen. Druk op de START-knop van je Nintendo DS om naar het menu te gaan.</NL>
+		</rule8>
+	</instruction_old>
+	<language>
+		<EN>
+			<EN>Ingilizce</EN>
+			<DE>English</DE>
+			<FR>English</FR>
+			<IT>English</IT>
+			<ES>English</ES>
+			<NL>English</NL>
+		</EN>
+		<DE>
+			<EN>Almanca</EN>
+			<DE>Deutsch</DE>
+			<FR>Deutsch</FR>
+			<IT>Deutsch</IT>
+			<ES>Deutsch</ES>
+			<NL>Deutsch</NL>
+		</DE>
+		<FR>
+			<EN>Fransizca</EN>
+			<DE>Français</DE>
+			<FR>Français</FR>
+			<IT>Français</IT>
+			<ES>Français</ES>
+			<NL>Français</NL>
+		</FR>
+		<ES>
+			<EN>Ispanyolca</EN>
+			<DE>Español</DE>
+			<FR>Español</FR>
+			<IT>Español</IT>
+			<ES>Español</ES>
+			<NL>Español</NL>
+		</ES>
+		<IT>
+			<EN>Italyanca</EN>
+			<DE>Italiano</DE>
+			<FR>Italiano</FR>
+			<IT>Italiano</IT>
+			<ES>Italiano</ES>
+			<NL>Italiano</NL>
+		</IT>
+		<NL>
+			<EN>Hollandaca</EN>
+			<DE>Nederlands</DE>
+			<FR>Nederlands</FR>
+			<IT>Nederlands</IT>
+			<ES>Nederlands</ES>
+			<NL>Nederlands</NL>
+		</NL>
+	</language>
+	<new_player>
+		<button_caps1>
+			<EN>abc</EN>
+			<DE>abc</DE>
+			<FR>abc</FR>
+			<IT>abc</IT>
+			<ES>abc</ES>
+			<NL>abc</NL>
+		</button_caps1>
+		<button_caps2>
+			<EN>ABC</EN>
+			<DE>ABC</DE>
+			<FR>ABC</FR>
+			<IT>ABC</IT>
+			<ES>ABC</ES>
+			<NL>ABC</NL>
+		</button_caps2>
+		<button_mode1>
+			<EN>Äöü</EN>
+			<DE>Äöü</DE>
+			<FR>Äöü</FR>
+			<IT>Äöü</IT>
+			<ES>Äöü</ES>
+			<NL>Äöü</NL>
+		</button_mode1>
+		<button_mode2>
+			<EN>Abc</EN>
+			<DE>Abc</DE>
+			<FR>Abc</FR>
+			<IT>Abc</IT>
+			<ES>Abc</ES>
+			<NL>Abc</NL>
+		</button_mode2>
+		<button_space>
+			<EN>Bosluk</EN>
+			<DE>Leerzeichen</DE>
+			<FR>Espace</FR>
+			<IT>Spazio</IT>
+			<ES>Espacio</ES>
+			<NL>Spatie</NL>
+		</button_space>
+		<modes>
+			<mode1>
+				<EN>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</EN>
+				<DE>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</DE>
+				<FR>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</FR>
+				<IT>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</IT>
+				<ES>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</ES>
+				<NL>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</NL>
+			</mode1>
+			<mode2>
+				<EN>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</EN>
+				<DE>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</DE>
+				<FR>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</FR>
+				<IT>ÀÁÂÃÄÅÆÇÐÈèÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</IT>
+				<ES>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</ES>
+				<NL>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</NL>
+			</mode2>
+			<mode3>
+				<EN>1234567890qwertyuiopasdfghjklzxcvbnm</EN>
+				<DE>1234567890qwertyuiopasdfghjklzxcvbnm</DE>
+				<FR>1234567890qwertyuiopasdfghjklzxcvbnm</FR>
+				<IT>1234567890qwertyuiopasdfghjklzxcvbnm</IT>
+				<ES>1234567890qwertyuiopasdfghjklzxcvbnm</ES>
+				<NL>1234567890qwertyuiopasdfghjklzxcvbnm</NL>
+			</mode3>
+			<mode4>
+				<EN>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</EN>
+				<DE>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</DE>
+				<FR>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</FR>
+				<IT>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</IT>
+				<ES>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</ES>
+				<NL>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</NL>
+			</mode4>
+		</modes>
+		<cursor_char>
+			<EN>_</EN>
+			<DE>_</DE>
+			<FR>_</FR>
+			<IT>_</IT>
+			<ES>_</ES>
+			<NL>_</NL>
+		</cursor_char>
+		<backspace>
+			<EN>---</EN>
+			<DE>---</DE>
+			<FR>---</FR>
+			<IT>---</IT>
+			<ES>---</ES>
+			<NL>---</NL>
+		</backspace>
+		<statuses>
+			<avatar>
+				<EN>Bir avatar seçin.</EN>
+				<DE>Wähle deinen Avatar.</DE>
+				<FR>Sélectionne ton image.</FR>
+				<IT>Scegli il tuo Avatar.</IT>
+				<ES>Por favor, selecciona una imagen.</ES>
+				<NL>Selecteer uw afbeeling.</NL>
+			</avatar>
+			<name>
+				<EN>Adinizi girin.</EN>
+				<DE>Bitte gib deinen Namen ein.</DE>
+				<FR>Entre ton nom s'il te plait.</FR>
+				<IT>Inserisci il tuo nome.</IT>
+				<ES>Por favor, introduce tu nombre.</ES>
+				<NL>Voer je naam alsjeblieft in!</NL>
+			</name>
+		</statuses>
+	</new_player>
+	<savedata>
+		<message>
+			<DE>Die Speicherdaten sind fehlerhaft.
+Die Daten werden jetzt zurückgesetzt.</DE>
+			<EN>Kayit verisi bozulmus.
+Veriler simdi sifirlanacak.</EN>
+			<FR>Les données de sauvegarde sont corrompues et vont être réinitialisées.</FR>
+			<IT>I dati salvati sono danneggiati e verranno eliminati.</IT>
+			<NL>De opgeslagen gegevens zijn beschadigd.
+De gegevens worden nu hersteld.</NL>
+			<ES>Los datos guardados están dañados y no se pueden usar.
+Se crearán datos nuevos.</ES>
+		</message>
+		<status>
+			<DE>Speicherdaten werden zurückgesetzt...</DE>
+			<EN>Kayit verisi sifirlaniyor...</EN>
+			<FR>Réinitialisation des données de sauvegarde...</FR>
+			<IT>Eliminazione dei dati salvati in corso...</IT>
+			<NL>Bezig de opgeslagen gegevens te herstellen...</NL>
+			<ES>Creando datos nuevos...</ES>
+		</status>
+	</savedata>
+	<savegame>
+		<status>
+			<!--nintendo-->
+			<DE>Tippe eines der Symbole an und du kannst dein Spiel später dort fortsetzen, wo du zuletzt aufgehört hast.</DE>
+			<EN>Yeni bir profil olusturmak veya kaldiginiz yerden devam etmek için simgelerden birine dokunun.</EN>
+			<FR>Touche un des symboles pour pouvoir plus tard continuer là où tu t'es arrêté.</FR>
+			<IT>Tocca uno dei simboli per continuare il gioco più tardi, da dove l'hai lasciato l'ultima volta.</IT>
+			<NL>Als je op een van de symbolen tikt, kun je het spel later voortzetten vanaf het punt waarop je bent gestopt.</NL>
+			<ES>Toca uno de los símbolos y podrás continuar tu juego más tarde donde hayas concluido la última vez.</ES>
+		</status>
+		<button_empty>
+			<EN>Yeni</EN>
+			<DE>Neu</DE>
+			<FR>Nouveau</FR>
+			<IT>Nuovo</IT>
+			<ES>Nuevo</ES>
+			<NL>Nieuw</NL>
+		</button_empty>
+	</savegame>
+	<settings>
+		<status>
+			<DE>Hier nimmst du Spieleinstellungen vor. Für weitere Optionen tippe auf einen der Reiter am oberen Rand.</DE>
+			<EN>Oyun ayarlarini burada degistirebilirsiniz. Daha fazla seçenek için üst taraftaki sekmeye dokunun.</EN>
+			<FR>Tu peux modifier ici les paramètres du jeu. Pour accéder aux autres options, touche un des onglets du bord supérieur.</FR>
+			<IT>Qui puoi impostare le modalità di gioco. Per ulteriori opzioni vai alla sezione corrispondente.</IT>
+			<NL>Hier kun je de spelinstellingen wijzigen. Tik voor meer opties op de bovenste tab.</NL>
+			<ES>Aquí cambias los ajustes del juego. Para ver más opciones, toca una de las pestañas en el borde superior.</ES>
+		</status>
+		<messages>
+			<want_delete_saved_data>
+				<DE>Möchtest du wirklich deinen Spielstand löschen?</DE>
+				<NL>Weet je zeker dat je je opgeslagen spel wilt wissen?</NL>
+				<FR>Veux-tu vraiment supprimer ton profil ?</FR>
+				<ES>¿De verdad quieres borrar vuestro perfil?</ES>
+				<EN>Profilinizi silmek istediginizden emin misiniz?</EN>
+				<IT>Vuoi davvero cancellare il tuo punteggio?</IT>
+			</want_delete_saved_data>
+			<want_delete_all_saved_data>
+				<DE>Möchtest du wirklich sämtliche Einstellungen und Spielstände unwiderruflich löschen?</DE>
+				<NL>Weet je zeker dat je alle instellingen en opgeslagen spellen definitief wilt wissen?</NL>
+				<FR>Veux-tu vraiment supprimer définitivement tous les réglages et tous les profils ?</FR>
+				<ES>¿De verdad quieres borrar de forma definitiva todos los perfiles y preferencias?</ES>
+				<EN>Tüm ayarlari ve kayitli oyunlari kalici olarak silmek istediginizden emin misiniz?</EN>
+				<IT>Volete davvero cancellare definitivamente le impostazioni e i profili?</IT>
+			</want_delete_all_saved_data>
+			<usebonuses>
+				<DE>Soll der Level neu gestartet werden, damit deine Änderungen an den Bonus-Einstellungen sofort wirksam werden?</DE>
+				<EN>Bonus ayarlarindaki degisikliklerin uygulanmasi için bu bölümü yeniden baslatmak ister misiniz?</EN>
+				<FR>Veux-tu redémarrer le niveau pour que les modifications des paramètres bonus soient prises en compte immédiatement ?</FR>
+				<IT>Deve ricominciare il livello, in modo che le variazioni alle impostazioni dei bonus vengano subito utilizzate?</IT>
+				<NL>Wil je dit level opnieuw starten om de wijzigingen in je bonusinstellingen toe te passen?</NL>
+				<ES>¿Quieres empezar de nuevo el nivel para que los cambios se hagan efectivos?</ES>
+			</usebonuses>
+		</messages>
+		<tab1>
+			<name>
+				<DE>Effekte</DE>
+				<EN>Efektler</EN>
+				<FR>Effets</FR>
+				<IT>Effetti</IT>
+				<NL>Effekten</NL>
+				<ES>Efectos</ES>
+			</name>
+		</tab1>
+		<tab2>
+			<name>
+				<DE>Helfer</DE>
+				<EN>Ipuçlari</EN>
+				<FR>Assistant</FR>
+				<IT>Aiuto</IT>
+				<NL>Hints</NL>
+				<ES>Asistente</ES>
+			</name>
+			<checktips>
+				<DE>Tipps automatisch geben</DE>
+				<EN>Ipuçlarini otomatik göster</EN>
+				<ES>Consejos automáticos</ES>
+				<FR>Astuces automatiques</FR>
+				<IT>Suggerimenti in automatico</IT>
+				<NL>Automatisch tips geven</NL>
+			</checktips>
+			<checkbonus>
+				<DE>Bonussteine im Relax-Modus</DE>
+				<EN>Rahat modda bonus taslari</EN>
+				<ES>Fichas bonus en el modo relax</ES>
+				<FR>Pions bonus en mode libre</FR>
+				<IT>Bonus in modalità relax</IT>
+				<NL>Bonusstenen in de modus Vrij</NL>
+			</checkbonus>
+			<checkblow>
+				<DE>Mischen durch Pusten</DE>
+				<EN>Üfleyerek karistir</EN>
+				<FR>Souffler pour mélanger</FR>
+				<ES>Soplar para mezclar</ES>
+				<NL>Blaas om te schudden</NL>
+				<IT>Mischiare soffiando</IT>
+			</checkblow>
+			<radiofreestone>
+				<DE>Freistehende Steine hervorheben</DE>
+				<EN>Tek taslari vurgula</EN>
+				<ES>Resaltar las fichas libres</ES>
+				<FR>Mettre en évidence les pions libres</FR>
+				<IT>Evidenziare le tessere libere</IT>
+				<NL>Enkele stenen markeren</NL>
+			</radiofreestone>
+			<radiopaire>
+				<DE>Paare hervorheben</DE>
+				<EN>Esleri vurgula</EN>
+				<ES>Resaltar las parejas</ES>
+				<FR>Mettre en évidence les paires</FR>
+				<IT>Evidenziare le coppie</IT>
+				<NL>Paren markeren</NL>
+			</radiopaire>
+		</tab2>
+		<tab3>
+			<name>
+				<DE>Profil</DE>
+				<EN>Profil</EN>
+				<FR>Profil</FR>
+				<IT>Profilo</IT>
+				<NL>Profiel</NL>
+				<ES>Perfil</ES>
+			</name>
+			<button1>
+				<DE>Profil löschen</DE>
+				<NL>Profiel wissen</NL>
+				<FR>Supprimer le profil</FR>
+				<ES>Borrar Perfil</ES>
+				<EN>Profili Sil</EN>
+				<IT>Cancellare Profilo</IT>
+			</button1>
+			<button2>
+				<DE>Alles löschen</DE>
+				<NL>Alles wissen</NL>
+				<FR>Tout supprimer</FR>
+				<ES>Borrar Todo</ES>
+				<EN>Her Seyi Sil</EN>
+				<IT>Cancellare Tutto</IT>
+			</button2>
+			<button3>
+				<DE>Sprache wählen</DE>
+				<NL>Taal kiezen</NL>
+				<FR>Sélectionner la langue</FR>
+				<ES>Seleccionar Idioma</ES>
+				<EN>Dil Seç</EN>
+				<IT>Selezionare Lingua</IT>
+			</button3>
+		</tab3>
+		<tab4>
+			<name>
+				<DE>Statistik</DE>
+				<EN>Istatistikler</EN>
+				<ES>Estadís.</ES>
+				<FR>Stats</FR>
+				<IT>Facts</IT>
+				<NL>Overzicht</NL>
+			</name>
+			<layouts>
+				<DE>Layouts:</DE>
+				<EN>Dizilimler:</EN>
+				<FR>Dispositions:</FR>
+				<IT>Layout:</IT>
+				<NL>Ontwerp:</NL>
+				<ES>Diseños:</ES>
+			</layouts>
+			<besttime>
+				<DE>Bestzeit:</DE>
+				<EN>En iyi süre</EN>
+				<ES>Mejor tiempo:</ES>
+				<FR>Meilleur temps:</FR>
+				<IT>Miglior tempo:</IT>
+				<NL>Toptijd:</NL>
+			</besttime>
+			<hints>
+				<DE>Tipps:</DE>
+				<EN>Ipuçlari</EN>
+				<ES>Sugerencias:</ES>
+				<IT>Consigli:</IT>
+				<NL>Tips:</NL>
+				<FR>Astuces:</FR>
+			</hints>
+			<shuffles>
+				<DE>Mischen:</DE>
+				<EN>Karistirmalar</EN>
+				<ES>Mezclar:</ES>
+				<FR>Mélanger:</FR>
+				<IT>Mescolare:</IT>
+				<NL>Schudden:</NL>
+			</shuffles>
+			<stones>
+				<DE>Steine:</DE>
+				<EN>Taslar</EN>
+				<ES>Fichas:</ES>
+				<FR>Pions:</FR>
+				<IT>Tessere:</IT>
+				<NL>Stenen:</NL>
+			</stones>
+			<alltime>
+				<DE>Gesamtzeit:</DE>
+				<EN>Toplam süre</EN>
+				<ES>Tiempo total:</ES>
+				<FR>Temps total:</FR>
+				<IT>Tempo totale:</IT>
+				<NL>Totale tijd:</NL>
+			</alltime>
+		</tab4>
+	</settings>
+</language>

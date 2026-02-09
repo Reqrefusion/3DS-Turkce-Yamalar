@@ -1,0 +1,3023 @@
+<?xml version='1.0' encoding='utf-8'?>
+<language>
+	<game>
+		<displays>
+			<stones_left>
+				<DE>Steine</DE>
+				<EN>Taslar</EN>
+				<ES>Fichas</ES>
+				<FR>Pions</FR>
+				<IT>Tessere</IT>
+				<NL>Stenen</NL>
+			</stones_left>
+			<available_moves>
+				<DE>Passend</DE>
+				<EN>Eslesmeler</EN>
+				<ES>Libres</ES>
+				<FR>Libres</FR>
+				<IT>Adatto</IT>
+				<NL>Gelijken</NL>
+			</available_moves>
+		</displays>
+		<bottom_results>
+			<no_moves>
+				<DE>Die Spielsteine liegen so, dass der Level nicht lösbar ist. Was möchtest du tun?</DE>
+				<EN>Taslarin dizilimi bu seviyenin tamamlanmasini engelliyor. Ne yapmak istersin?</EN>
+				<FR>La disposition des pions rend le niveau insoluble. Que veux-tu faire ?</FR>
+				<IT>I tasselli sono disposti in modo tale che il livello non è risolvibile. Cosa vuoi fare?</IT>
+				<NL>Door de huidige ligging van de stenen kan dit level niet worden voltooid. Wat wil je doen?</NL>
+				<ES>Las fichas del juego están colocadas de un modo que no se puede acabar el nivel.</ES>
+			</no_moves>
+			<score>
+				<DE>Punkte</DE>
+				<EN>Skor</EN>
+				<ES>Puntos</ES>
+				<FR>Points</FR>
+				<IT>Punti</IT>
+				<NL>Score</NL>
+			</score>
+			<time>
+				<DE>Zeit</DE>
+				<EN>Süre</EN>
+				<ES>Tiempo</ES>
+				<FR>Temps</FR>
+				<IT>Tempo</IT>
+				<NL>Tijd</NL>
+			</time>
+			<time_bonus>
+				<DE>Zeit-Bonus</DE>
+				<EN>Süre Bonusu</EN>
+				<ES>Bonus de tiempo</ES>
+				<FR>Bonus temps</FR>
+				<IT>Bonus tempo</IT>
+				<NL>Tijdbonus</NL>
+			</time_bonus>
+			<stone_bonus>
+				<DE>Stein-Bonus</DE>
+				<EN>Tas Bonusu</EN>
+				<ES>Bonus de ficha</ES>
+				<FR>Bonus pion</FR>
+				<IT>Tessere bonus</IT>
+				<NL>Stenenbonus</NL>
+			</stone_bonus>
+			<total_score>
+				<DE>Total</DE>
+				<EN>Toplam</EN>
+				<ES>Total</ES>
+				<FR>Total</FR>
+				<IT>Totale</IT>
+				<NL>Totaal</NL>
+			</total_score>
+			<button_next_layout>
+				<DE>Nächstes Layout</DE>
+				<EN>Sonraki Yerlesim</EN>
+				<NL>Volgend ontwerp</NL>
+				<FR>Disposition suivante</FR>
+				<IT>Prossimo Layout</IT>
+				<ES>Siguiente diseño</ES>
+			</button_next_layout>
+			<button_select_layout>
+				<DE>Layout-Auswahl</DE>
+				<EN>Yerlesim Seç</EN>
+				<NL>Ontwerp kiezen</NL>
+				<FR>Choix disposition</FR>
+				<IT>Scelta del layout</IT>
+				<ES>Selección del diseño</ES>
+			</button_select_layout>
+			<button_shuffle>
+				<DE>Mischen</DE>
+				<EN>Karistir</EN>
+				<ES>Mezclar</ES>
+				<FR>Mélanger</FR>
+				<IT>Mescolare</IT>
+				<NL>Schudden</NL>
+			</button_shuffle>
+			<button_restart>
+				<DE>Level neustarten</DE>
+				<EN>Seviyeyi Yeniden Baslat</EN>
+				<NL>Level opnieuw starten</NL>
+				<FR>Recommencer</FR>
+				<IT>Ricominciare</IT>
+				<ES>Reiniciar</ES>
+			</button_restart>
+			<button_exit>
+				<DE>Beenden</DE>
+				<EN>Çik</EN>
+				<ES>Finalizar</ES>
+				<FR>Quitter</FR>
+				<IT>Esci</IT>
+				<NL>Stoppen</NL>
+			</button_exit>
+		</bottom_results>
+		<hints>
+			<hint01>
+				
+				<DE>Tippe auf einen zweiten freien Stein, der genauso aussieht.</DE>
+				<EN>Ayni görünen baska bir serbest tasa dokun.</EN>
+				<ES>Toca dos fichas libres que sea exactamente iguales.</ES>
+				<FR>Touche un autre pion libre et identique.</FR>
+				<IT>Tocca un'altra tessera libera e identica.</IT>
+				<NL>Tik op een andere vrije steen die er hetzelfde uitziet.</NL>
+			</hint01>
+			<hint02>
+				
+				<DE>Tippe zwei passende freie Steine an, um sie aufzulösen. Ein Stein ist dann frei, wenn links oder rechts kein anderer angrenzt.</DE>
+				<EN>Iki uygun serbest tasa dokunarak onlari kaldir. Bir tasin serbest sayilmasi için saginda ya da solunda tas olmamali.</EN>
+				<ES>Toca dos fichas libres iguales, para combinarlas. Una ficha está libre cuando no tiene ninguna otra a su izquierda o a su derecha.</ES>
+				<FR>Touche deux pions libres combinables pour les libérer. Un pion est libre lorsqu'aucun autre ne se trouve à sa gauche ou à sa droite.</FR>
+				<IT>Tocca due tessere libere per abbinarle. Una tessera è libera quando a destra o a sinistra non ha tessere confinanti.</IT>
+				<NL>Tik op twee bij elkaar passende vrije stenen om ze weg te spelen. Een steen is vrij als er links en rechts geen stenen aan grenzen.</NL>
+			</hint02>
+			<hint03>
+				<DE>Bei Stein-Familien passen auch unterschiedliche Steine einer Familie zueinander.</DE>
+				<EN>Tas setlerinde, setin farkli taslari da eslestirilebilir.</EN>
+				<ES>Las distintas fichas de una familia también son compatibles entre sí.</ES>
+				<FR>Tu peux également combiner des pions différents d'une même famille.</FR>
+				<IT>Con tessere della stessa famiglia sono adattabili anche diverse tessere di una famiglia all'altra.</IT>
+				<NL>Binnen dezelfde stenenfamilie kun je verschillende stenen combineren.</NL>
+			</hint03>
+			<hint04>
+				<DE>Mit diesem Bonus spielst du ein neues Stein-Design frei, welches du in den Einstellungen für neue Spiele auswählen kannst.</DE>
+				<EN>Bu bonusla, Ayarlar'dan seçerek yeni oyunlarda kullanabilecegin yeni bir tas tasariminin kilidini açabilirsin.</EN>
+				<NL>Met deze bonus speel je een nieuw steenmotief vrij, die je bij de instellingen voor nieuwe spellen kunt uitkiezen.</NL>
+				<FR>Grâce à ce bonus, tu peux jouer avec de nouveaux pions, à choisir dans le menu installation.</FR>
+				<IT>Con questo Bonus ottieni un nuovo design per i tasselli, che comparirà poi nella gamma dei set.</IT>
+				<ES>Con esta bonificación desbloquearás un nuevo diseño de ficha que podrás seleccionar en el área de configuraciones para nuevas partidas.</ES>
+			</hint04>
+			<hint05>
+				<DE>Dieser Bonus löscht alle sichtbaren Steine des Typs, den du als nächstes antippst.</DE>
+				<EN>Bu bonus, bir sonraki dokundugun türdeki tüm görünür taslari siler.</EN>
+				<ES>Este bonus borra todas las fichas iguales a la siguiente ficha que toques.</ES>
+				<FR>Ce bonus supprime toutes les versions visibles du pion que tu toucheras la prochaine fois.</FR>
+				<IT>Questo bonus elimina tutte le abbinabili tessere visibili alla prossima tessera che toccherai.</IT>
+				<NL>Deze bonus verwijdert alle zichtbare stenen van het type dat je nu aantikt.</NL>
+			</hint05>
+			<hint06>
+				<DE>Den Joker-Stein kannst du mit jedem beliebigen anderen Stein kombinieren.</DE>
+				<EN>Joker tasi herhangi bir tasla eslestirebilirsin.</EN>
+				<ES>Puedes combinar la ficha comodín con cualquier otra ficha.</ES>
+				<FR>Le pion joker peut être combiné avec n'importe quel autre pion.</FR>
+				<IT>Puoi combinare la tessera Jolly con qualsiasi altra tessera.</IT>
+				<NL>Je kunt de joker-steen combineren met elke andere steen.</NL>
+			</hint06>
+			<hint07>
+				<DE>Tippe jetzt nacheinander zwei Steine an und ihre Position wird vertauscht.</DE>
+				<EN>Yerlerini degistirmek için iki tasa dokun.</EN>
+				<ES>Toca ahora dos fichas y sus posiciones se intercambiarán.</ES>
+				<FR>Touche successivement deux pions et leur position sera intervertie.</FR>
+				<IT>Toccando due tessere una dopo l'altra, la loro posizione verrà scambiata.</IT>
+				<NL>Tik op twee stenen om ze te verwisselen.</NL>
+			</hint07>
+			<hint08>
+				<DE>Für 25 Sekunden leuchten alle passenden Steine, nachdem du einen Stein angetippt hast.</DE>
+				<EN>Bir tasa dokunduktan sonra uygun tüm taslar 25 saniye boyunca parlayacak.</EN>
+				<ES>Después de tocar una ficha, todas las fichas combinables se iluminan durante 25 segundos.</ES>
+				<FR>Après avoir touché un pion, tous ceux pouvant être combinés sont mis en surbrillance pendant 25 secondes.</FR>
+				<IT>Dopo aver toccato una tessera, tutte le tessere ad essa abbinabili si illuminano per 25 secondi.</IT>
+				<NL>Alle combineerbare stenen lichten 25 seconden op, nadat je op een steen hebt getikt.</NL>
+			</hint08>
+			<hint09>
+				<DE>Der nächste Stein, den du antippst, wird vom Magneten angezogen.</DE>
+				<EN>Dokundugun bir sonraki tas bir miknatis tarafindan disari çekilecek.</EN>
+				<ES>La próxima ficha que toques será atraída por imanes.</ES>
+				<FR>Le prochain pion que tu toucheras sera attiré par l'aimant.</FR>
+				<IT>La prossima tessera che verrà toccata sarà attratta dal magnete.</IT>
+				<NL>De volgende steen die je aantikt wordt door magneten weggetrokken.</NL>
+			</hint09>
+			<hint10>
+				<DE>Bringe beide Steine zusammen und der Level ist sofort gelöst.</DE>
+				<EN>Bu taslari bir araya getir ve seviye aninda çözülsün.</EN>
+				<ES>Si tocas dos fichas de estas consecutivamente, completarás el nivel inmediatamente.</ES>
+				<FR>Réunis ces pions et tu auras réussi le niveau.</FR>
+				<IT>Abbinando le due tessere il livello sarà immediatamente superato.</IT>
+				<NL>Breng deze stenen bij elkaar om het level direct uit te spelen.</NL>
+			</hint10>
+			<hint11>
+				<DE>Dieser Bonus ändert für 30 Sekunden die Regeln: In dieser Zeit sind jene Steine frei, an die oben und unten kein anderer angrenzt.</DE>
+				<EN>Bu bonus kurallari 30 saniyeligine degistirir: bu süre içinde, üzerinde veya altinda tas olmayan taslar serbest sayilir.</EN>
+				<ES>Este bonus cambia las reglas durante 30 segundos: En ese tiempo, las fichas que no tengan otras arriba y abajo, están libres.</ES>
+				<FR>Ce bonus modifie les règles pendant 30 secondes. Les pions qui n'ont aucun autre pion au-dessus et en dessous sont alors libres.</FR>
+				<IT>Questo Bonus cambia le regole per 30 secondi: in questo arco di tempo alcune pietre sono libere, se nessun'altra confina sopra o sotto di loro.</IT>
+				<NL>Deze bonus verandert 30 seconden lang de spelregels: gedurende deze tijd zijn die stenen vrij waar boven en onder geen andere stenen aan grenzen.</NL>
+			</hint11>
+			<hint12>
+				<DE>Versuche, so schnell wie möglich zu spielen, denn jede Sekunde werden dir fünf Punkte abgezogen.</DE>
+				<EN>Mümkün oldugunca hizli oyna; her saniye 5 puan düser.</EN>
+				<ES>Procura jugar lo más rápido posible, porque por cada segundo se te descontarán cinco puntos.</ES>
+				<FR>Essaie de jouer aussi rapidement que possible, car tu perds 5 points toutes les secondes.</FR>
+				<IT>Cerca di essere il più veloce possibile, perché ad ogni secondo ti vengono tolti cinque punti.</IT>
+				<NL>Probeer zo snel mogelijk te spelen, elke seconde kost je 5 punten.</NL>
+			</hint12>
+			<hint13>
+				<DE>Du musst innerhalb von 20 Sekunden ein Paar finden, sonst wird das Spielfeld neu aufgebaut und du musst dich neu orientieren.</DE>
+				<EN>20 saniye içinde bir çift bulmalisin; aksi halde tahta yeniden karistirilir ve yeniden odaklanman gerekir.</EN>
+				<ES>Debes encontrar una pareja en 20 segundos, de lo contrario se cambiará la ubicación de las fichas y deberás orientarte de nuevo.</ES>
+				<FR>Tu dois trouver une paire en 20 secondes, sinon le terrain de jeu se réorganise et tu devras retrouver tes marques.</FR>
+				<IT>Devi trovare entro 20 secondi una coppia, altrimenti il campo di gioco verrà ricostruito e devi orientarti nuovamente.</IT>
+				<NL>Je moet binnen 20 seconden een paar vinden, daarna verandert het speelveld en moet je je opnieuw oriënteren.</NL>
+			</hint13>
+			<hint14>
+				<DE>Du musst mindestens alle 10 Sekunden ein Paar finden. Jedes Mal, wenn du es nicht schaffst, werden dir 50 Punkte abgezogen.</DE>
+				<EN>Her 10 saniyede bir çift bulmalisin. Aksi halde 50 puan düser.</EN>
+				<ES>Debes encontrar como mínimo un par cada 10 segundos. Cada vez que no lo consigas, se te descontarán 50 puntos.</ES>
+				<FR>Tu dois trouver une paire toutes les 10 secondes. Tu perds 50 points chaque fois que tu échoues.</FR>
+				<IT>Devi trovare una coppia almeno ogni 10 secondi. Ogni volta che non riesci ti vengono detratti 50 punti.</IT>
+				<NL>Je moet elke 10 seconden een paar vinden. Elke keer dat het je niet lukt, kost je 50 punten.</NL>
+			</hint14>
+			<hint15>
+				<DE>Versuche, innerhalb von 10 Sekunden den eingeblendeten Spielstein auf dem Spielfeld zu finden, damit er verschwindet.</DE>
+				<EN>Gösterilen tasi tahtada 10 saniye içinde bul ki kaybolsun.</EN>
+				<ES>Intenta encontrar en 10 segundos la ficha indicada en la parte izquierda de la pantalla superior, para que así desaparezca.</ES>
+				<FR>Essaie de trouver en 10 secondes le pion affiché sur le terrain de jeu afin qu'il disparaisse.</FR>
+				<IT>Cerca di trovare entro 10 secondi nel campo da gioco la tessera indicata, affinché non scompaia.</IT>
+				<NL>Probeer de getoonde steen binnen 10 seconden op het bord te vinden, zodat die verdwijnt.</NL>
+			</hint15>
+			<hint16>
+				<DE>Du kannst auch in das Mikrofon deines Nintendo 3DS pusten, um die Spielsteine neu zu mischen.</DE>
+				<EN>Taslari karistirmak için Nintendo 3DS'inin mikrofonuna üfleyebilirsin.</EN>
+				<ES>También puedes soplar en el micrófono de tu Nintendo 3DS, para mezclar de nuevo las fichas.</ES>
+				<FR>Vous pouvez aussi souffler dans le microphone de votre Nintendo 3DS pour mélanger à nouveau les pierres.</FR>
+				<IT>Puoi soffiare nel microfono del tuo Nintendo 3DS per mischiare le pietre.</IT>
+				<NL>Je kunt ook in de microfoon van je Nintendo 3DS blazen, om je stenen opnieuw te schudden.</NL>
+			</hint16>
+		</hints>
+		<layout_warning>
+			<DE>Das Layout ist für diesen Spielmodus zu groß und wird eventuell Teile des Bedienfelds überdecken. Möchtest du es dennoch starten?</DE>
+			<EN>Bu yerlesim bu oyun modu için çok büyük ve Dokunmatik Ekran ile çakisabilir. Yine de bu yerlesimi baslatmak istiyor musun?</EN>
+			<FR>Cette disposition est trop étendue pour ce mode de jeu: elle risque de recouvrir une partie du tableau de commande. Veux-tu quand même démarrer ?</FR>
+			<IT>Questo layout è troppo grande per questa modalità di gioco e potrebbe andare oltre i margini. Vuoi comunque iniziare?</IT>
+			<NL>Het ontwerp is te groot voor dit speltype. Sommige delen vallen misschien buiten het speelveld. Wil je dit ontwerp toch uitproberen?</NL>
+			<ES>El diseño para este modo de juego es demasiado grande y puede que cubra partes del campo de mando. ¿Quieres iniciar de todos modos?</ES>
+		</layout_warning>
+		<fly_points>
+			<ordinary_decrement>
+				<DE>-50</DE>
+				<EN>-50</EN>
+				<FR>-50</FR>
+				<IT>-50</IT>
+				<NL>-50</NL>
+				<ES>-50</ES>
+			</ordinary_decrement>
+			<speed_bonus1>
+				<DE>Speed bonus: +75</DE>
+				<EN>Hiz Bonusu: +75</EN>
+				<FR>Bonus de vitesse: +75</FR>
+				<IT>Speed bonus: +75</IT>
+				<NL>Snelheidsbonus: +75</NL>
+				<ES>Speed bonus: +75</ES>
+			</speed_bonus1>
+			<speed_bonus1_hl>
+				<DE>Speed bonus: +150</DE>
+				<EN>Hiz Bonusu: +150</EN>
+				<FR>Bonus de vitesse: +150</FR>
+				<IT>Speed bonus: +150</IT>
+				<NL>Snelheidsbonus: +150</NL>
+				<ES>Speed bonus: +150</ES>
+			</speed_bonus1_hl>
+			<speed_bonus2>
+				<DE>Speed bonus: +100</DE>
+				<EN>Hiz Bonusu: +100</EN>
+				<FR>Bonus de vitesse: +100</FR>
+				<IT>Speed bonus: +100</IT>
+				<NL>Snelheidsbonus: +100</NL>
+				<ES>Speed bonus: +100</ES>
+			</speed_bonus2>
+			<speed_bonus2_hl>
+				<DE>Speed bonus: +250</DE>
+				<EN>Hiz Bonusu: +250</EN>
+				<FR>Bonus de vitesse: +250</FR>
+				<IT>Speed bonus: +250</IT>
+				<NL>Snelheidsbonus: +250</NL>
+				<ES>Speed bonus: +250</ES>
+			</speed_bonus2_hl>
+		</fly_points>
+	</game>
+	<gamesettings>
+		<stepmodes>
+			<mode01>
+				<name>
+					<DE>Standard</DE>
+					<EN>Standart</EN>
+					<ES>Estándar</ES>
+					<FR>Standard</FR>
+					<IT>Standard</IT>
+					<NL>Standaard</NL>
+				</name>
+				<hint>
+					<DE>Spiele nach den bekannten Regeln: Je schneller du alle Spielsteine abräumst, desto mehr Punkte bekommst du.</DE>
+					<EN>Bildik kurallarla oyna: taslari ne kadar hizli temizlersen o kadar çok puan kazanirsin.</EN>
+					<ES>Juega según las reglas ya conocidas: cuanto más rápido elimines todas las fichas del juego, más puntos obtendrás.</ES>
+					<FR>Joue selon les règles: plus tu dégages les pions rapidement, plus tu obtiens de points.</FR>
+					<IT>Gioca secondo le regole conosciute: più rapidamente togli tutte le tessere, più punti guadagnerai.</IT>
+					<NL>Speel volgens de gebruikelijke regels: hoe sneller je de stenen wegspeelt, hoe meer punten je scoort.</NL>
+				</hint>
+			</mode01>
+			<mode02>
+				<name>
+					<DE>Countdown</DE>
+					<EN>Geri Sayim</EN>
+					<ES>Cuenta atrás</ES>
+					<FR>Vs. la montre</FR>
+					<IT>Countdown</IT>
+					<NL>Aftellen</NL>
+				</name>
+				<hint>
+					<DE>Du hast 20 Minuten Zeit, um alle Steine abzuräumen. Versuche, noch schneller zu sein, um Bonuspunkte zu bekommen.</DE>
+					<EN>Tüm taslari temizlemek için 20 dakikan var. Bonus puan için daha da hizli bitirmeye çalis.</EN>
+					<ES>Tienes 20 minutos para eliminar todas las fichas. Sé aún más rápido para ganar más bonus.</ES>
+					<FR>Tu disposes de 20 minutes pour dégager tous les pions. Essaie d'être encore plus rapide pour obtenir des points bonus.</FR>
+					<IT>Hai 20 minuti di tempo per togliere tutte le tessere. Cerca di essere ancora più veloce per ottenere punti bonus.</IT>
+					<NL>Je hebt 20 minuten om alle stenen weg te spelen. Probeer het sneller te doen voor bonuspunten.</NL>
+				</hint>
+			</mode02>
+			<mode03>
+				<name>
+					<DE>Punkterennen</DE>
+					<EN>Puan Yarisi</EN>
+					<ES>Carrera</ES>
+					<FR>Course</FR>
+					<IT>Corsa ai punti</IT>
+					<NL>Puntenrace</NL>
+				</name>
+				<hint>
+					<DE>Versuche, so schnell wie irgend möglich zu spielen, denn jede Sekunde werden dir fünf Punkte abgezogen.</DE>
+					<EN>Mümkün oldugunca hizli oyna; her saniye 5 puan düser.</EN>
+					<ES>Procura jugar lo más rápido posible, porque por cada segundo que pasa se te descontarán cinco puntos.</ES>
+					<FR>Essaie de jouer aussi rapidement que possible, car tu perds cinq points par seconde.</FR>
+					<IT>Cerca di essere il più veloce possibile perché ad ogni secondo ti vengono tolti cinque punti.</IT>
+					<NL>Probeer zo snel mogelijk te spelen, elke seconde kost je 5 punten.</NL>
+				</hint>
+			</mode03>
+			<mode04>
+				<name>
+					<DE>Merken</DE>
+					<EN>Hatirla</EN>
+					<ES>Memorizar</ES>
+					<FR>Mémoriser</FR>
+					<IT>Ricorda</IT>
+					<NL>Onthouden</NL>
+				</name>
+				<hint>
+					
+					<DE>In diesem Spielmodus siehst du die Symbole auf den Steinen nur kurz, wenn du sie vorher antippst.</DE>
+					<EN>Bu oyun modunda, bir tasa dokunduktan sonra üzerindeki sembolü sadece kisa bir süre görürsün.</EN>
+					<ES>Sólo ves los símbolos de las fichas brevemente si las tocas. Fíjate bien donde está ubicado cada símbolo.</ES>
+					<FR>Dans ce mode de jeu, tu ne vois les symboles sur les pions que brièvement en les pointant.</FR>
+					<IT>In questa modalità di gioco potrai visualizzare i simboli sulle tessere solo brevemente dopo averle toccate.</IT>
+					<NL>In dit speltype zie je korte tijd het symbool op een steen nadat je er op getikt hebt.</NL>
+				</hint>
+			</mode04>
+			<mode05>
+				<name>
+					<DE>Tauschen</DE>
+					<EN>Degisim</EN>
+					<ES>Intercambiar</ES>
+					<FR>Échanger</FR>
+					<IT>Scambio</IT>
+					<NL>Wisselen</NL>
+				</name>
+				<hint>
+					<DE>Alle fünf Sekunden werden die Symbole zweier Steine miteinander vertauscht. Versuche, den Überblick zu behalten!</DE>
+					<EN>Her bes saniyede bir iki tasin sembolleri yer degistirir. Takibi kaybetme!</EN>
+					<ES>Los símbolos de dos fichas se intercambian cada cinco segundos. ¡Procura mantener la visión de conjunto!</ES>
+					<FR>Toutes les cinq secondes, les symboles de deux pions sont intervertis. Essaie de les mémoriser!</FR>
+					<IT>Ogni cinque secondi i simboli di due tessere vengono scambiati tra loro. Cerca di mantenere una visione generale .</IT>
+					<NL>Elke vijf seconden wisselen de symbolen van twee stenen. Probeer het overzicht te behouden!</NL>
+				</hint>
+			</mode05>
+			<mode06>
+				<name>
+					<DE>Shuffle</DE>
+					<EN>Karistir</EN>
+					<ES>Mezcla</ES>
+					<FR>Mélanger</FR>
+					<IT>Shuffle</IT>
+					<NL>Schudden</NL>
+				</name>
+				<hint>
+					<DE>Du musst innerhalb von 20 Sekunden ein Paar finden, sonst wird das Spielfeld neu aufgebaut und du musst dich neu orientieren.</DE>
+					<EN>20 saniye içinde bir çift bulmalisin; aksi halde tahta yeniden karistirilir ve yeniden odaklanman gerekir.</EN>
+					<ES>Debes encontrar una pareja en 20 segundos, de lo contrario cambiará la ubicación de las fichas y deberás orientarte de nuevo.</ES>
+					<FR>Tu dois trouver une paire dans un délai de 20 secondes, sinon le terrain de jeu se réorganise et tu dois retrouver tes marques.</FR>
+					<IT>Entro 20 secondi devi trovare una coppia, altrimenti il campo di gioco verrà ricostruito e devi orientarti nuovamente.</IT>
+					<NL>Je moet binnen 20 seconden een paar vinden, daarna verandert het speelveld en moet je je opnieuw oriënteren.</NL>
+				</hint>
+			</mode06>
+			<mode07>
+				<name>
+					<DE>10 Sekunden</DE>
+					<EN>10 saniye</EN>
+					<ES>10 segundos</ES>
+					<FR>10 secondes</FR>
+					<IT>10 secondi</IT>
+					<NL>10 seconden</NL>
+				</name>
+				<hint>
+					<DE>Du musst mindestens alle 10 Sekunden ein Paar finden. Jedes Mal, wenn du es nicht schaffst, werden dir 50 Punkte abgezogen.</DE>
+					<EN>Her 10 saniyede bir çift bulmalisin. Aksi halde 50 puan düser.</EN>
+					<ES>Debes encontrar un par como mínimo cada 10 segundos. Cada vez que no lo consigas, se te descontarán 50 puntos.</ES>
+					<FR>Tu dois trouver une paire au moins toutes les 10 secondes. Tu perds 50 points chaque fois que tu échoues.</FR>
+					<IT>Devi trovare una coppia almeno ogni 10 secondi. Ogni volta che non riesci ti vengono detratti 50 punti.</IT>
+					<NL>Je moet elke 10 seconden een paar vinden. Elke keer dat het je niet lukt, kost je 50 punten.</NL>
+				</hint>
+			</mode07>
+			<mode08>
+				<name>
+					<DE>Match</DE>
+					<EN>Eslesme</EN>
+					<ES>Buscar</ES>
+					<FR>Jumeaux</FR>
+					<IT>Match</IT>
+					<NL>Combineren</NL>
+				</name>
+				<hint>
+					<DE>Versuche, innerhalb von 10 Sekunden den eingeblendeten Spielstein auf dem Spielfeld zu finden, damit er verschwindet.</DE>
+					<EN>Gösterilen tasi tahtada 10 saniye içinde bul ki kaybolsun.</EN>
+					<ES>Intenta encontrar en 10 segundos la ficha indicada en la parte izquierda del campo de juego, para que desaparezca.</ES>
+					<FR>Essaie de trouver en 10 secondes le pion affiché sur le terrain de jeu afin qu'il disparaisse.</FR>
+					<IT>Cerca di trovare entro 10 secondi nel campo da gioco la tessera indicata, affinché non scompaia.</IT>
+					<NL>Probeer de getoonde steen binnen 10 seconden op het bord te vinden zodat die verdwijnt.</NL>
+				</hint>
+			</mode08>
+			<mode09>
+				<name>
+					<DE>Freecell</DE>
+					<EN>Serbest Hücre</EN>
+					<ES>Casilla Libre</ES>
+					<FR>Freecell</FR>
+					<IT>Freecell</IT>
+					<NL>Vrij veld</NL>
+				</name>
+				<hint>
+					<DE>Du kannst auf einem speziellen Feld ein oder zwei Spielsteine zwischenlagern, um so schneller an andere Steine zu gelangen.</DE>
+					<EN>Diger taslara daha hizli ulasmak için bir veya iki tasi özel bir alanda saklayabilirsin.</EN>
+					<FR>Tu peux entreposer un ou deux pions sur un champ spécial pour atteindre plus rapidement d'autres pions.</FR>
+					<NL>Bewaar één of twee stenen op een speciaal veld om sneller bij andere stenen te komen.</NL>
+					<IT>Puoi posizionare temporaneamente uno o due tasselli in un campo speciale, in modo da aver accesso più velocemente ad altri tasselli.</IT>
+					<ES>Puedes dejar temporalmente una o dos fichas apartadas para acceder rápidamente a otras fichas.</ES>
+				</hint>
+			</mode09>
+		</stepmodes>
+		<stepdifficulty>
+			<easy>
+				<EN>Kolay</EN>
+				<DE>Einfach</DE>
+				<ES>Fácil</ES>
+				<FR>Facile</FR>
+				<IT>Semplice</IT>
+				<NL>Gemakkelijk</NL>
+			</easy>
+			<medium>
+				<EN>Orta</EN>
+				<DE>Normal</DE>
+				<ES>Normal</ES>
+				<FR>Normal</FR>
+				<IT>Normale</IT>
+				<NL>Normaal</NL>
+			</medium>
+			<hard>
+				<EN>Zor</EN>
+				<DE>Schwer</DE>
+				<ES>Difícil</ES>
+				<FR>Difficile</FR>
+				<IT>Difficile</IT>
+				<NL>Moeilijk</NL>
+			</hard>
+			<status>
+				<DE>Bitte tippe einen Schwierigkeitsgrad und ein Steinset an und tippe dann auf "Weiter".</DE>
+				<EN>Lütfen "Ileri"ye dokunmadan önce bir zorluk seviyesi ve bir tas seti seç.</EN>
+				<FR>Choisis un niveau de difficulté et un type de pion, pointe ensuite sur "Continuer".</FR>
+				<IT>Seleziona un grado di difficoltà e un set di tasselli, poi tocca con lo stilo "Avanti".</IT>
+				<NL>Tik op een moeilijkheidslevel en een stenenset voor je op "Volgende" tikt.</NL>
+				<ES>Selecciona un grado de dificultad y un diseño de ficha y pulsa "Continuar".</ES>
+			</status>
+		</stepdifficulty>
+		<steplayouts>
+			<status>
+				<DE>Bitte tippe das Layout an, das du spielen möchtest. Mit den Pfeilen kannst du blättern.</DE>
+				<EN>Lütfen oynamak istedigin yerlesime dokun. Oklari kullanarak göz atabilirsin.</EN>
+				<FR>Choisis la disposition sur laquelle tu veux jouer. Tu peux faire défiler les pages avec la flèche.</FR>
+				<IT>Seleziona il layout con cui vuoi giocare. Puoi scorrere con la freccia.</IT>
+				<NL>Tik op het ontwerp dat je wilt spelen. Je kunt bladeren met de pijltjes.</NL>
+				<ES>Selecciona el diseño al que quieres jugar. Puedes pasar hojas con las flechas.</ES>
+			</status>
+		</steplayouts>
+	</gamesettings>
+	<map>
+		<levelnumber>
+			<DE>Level</DE>
+			<EN>Seviye</EN>
+			<ES>Nivel</ES>
+			<FR>Niveau</FR>
+			<IT>Livello</IT>
+			<NL>Level</NL>
+		</levelnumber>
+		<score>
+			<DE>Punkte</DE>
+			<EN>Skor</EN>
+			<ES>Puntos</ES>
+			<FR>Points</FR>
+			<IT>Punti</IT>
+			<NL>Score</NL>
+		</score>
+	</map>
+	<story>
+		<intro>
+			<part01>
+				<DE>Im antiken Griechenland wurde Athene als Göttin der Weisheit, der Strategie und des Kampfes verehrt. Man errichtete Tempel zu ihren Ehren und brachte Athene Opfer, um ihre Hilfe im Kampf zu erbitten.</DE>
+				<EN>Antik Yunan'da Athena, bilgelik, strateji ve savas tanriçasi olarak tapinilirdi. Onun onuruna tapinaklar insa edilir, savasta savasçilara yardim etmesi için ona kurbanlar sunulurdu.</EN>
+				<FR>Dans la Grèce antique, Athéna était vénérée comme la déesse de la raison, de la stratégie et du combat. On érigeait des temples en son honneur, et on lui apportait des sacrifices pour solliciter son aide dans le combat.</FR>
+				<IT>Nella antica Grecia, Atena veniva adorata come Dea della saggezza, della strategia e della battaglia. Templi erano stati innalzati in suo onore e sacrifici furono fatti per chiedere il suo aiuto in battaglia.</IT>
+				<NL>In het antieke Griekenland werd Athene vereerd als godin van de wijsheid, de strategie en het gevecht. Men verrichtte tempels ter ere van haar en bracht haar offers, om haar hulp in de strijd te winnen.</NL>
+				<ES>En la Antigua Grecia se rendía culto a Atenea, la diosa de la sabiduría, la estratégia y la guerra. Se le erigió un templo para adorarla y ofrecerle sacrificios, a cambio de pedirle ayuda en la batalla.</ES>
+			</part01>
+			<part02>
+				<DE>Athene erhörte ihre menschlichen Bewunderer und schenkte ihnen ihren Schild, auf dass er sie im Kampfe schützen sollte. Über die Jahrhunderte ging der Schild der Athene jedoch verloren und heute können wir nur noch spekulieren, ob er überhaupt existiert, geschweige denn, wo er zu finden ist. Doch das sollte sich bald ändern:</DE>
+				<EN>Athena, takipçilerini dinledi ve onlari savasta korumak için kalkanini verdi. Yüzyillar içinde Athena'nin kalkani kayboldu. Bugün var olup olmadigina, hele nerede olduguna dair ancak tahmin yürütebiliyoruz. Ama bu birazdan degisecek.</EN>
+				<FR>Athéna exauçait ses adorateurs et leurs offrit son bouclier protecteur lors des combats. Cependant, au fil des siècles, le bouclier d'Athéna s'est perdu, et on ne peut aujourd'hui que spéculer sur le fait qu'il ait existé ou non, sans parler du lieu où il pourrait se trouver. Mais cela pourrait bientôt changer.</FR>
+				<IT>Atena esaudì i desideri dei suoi seguaci terreni regalando loro il suo scudo, che avrebbe dovuto difenderli in battaglia. Tuttavia, nei secoli lo scudo andò perso e oggi possiamo solo ipotizzare che sia esistito e dove si possa trovare. Al più presto tutto dovrebbe cambiare.</IT>
+				<NL>Athene luisterde naar haar menselijke bewonderaars en schonk hen haar schild, zodat het hen in het gevecht zou beschermen. In de loop der eeuwen ging het schild echter verloren. Daarom kunnen we er nu  alleen nog maar over speculeren of het überhaupt bestaat en waar het zich zou kunnen bevinden. Maar dat zou binnenkort veranderen:</NL>
+				<ES>Atenea escuchó a sus adoradores mortales y les regaló su escudo que les protegería en la batalla. Sin embargo, a lo largo de los siglos el escudo de Atenea se perdió y ahora sólo podemos especular sobre si es verdad que existió, o dónde podríamos encontrarlo. Aunque eso pronto cambiaría:</ES>
+			</part02>
+			<part03>
+				<DE>Eines Tages stand ich im Museum vor einer antiken Steinstatue der Athene und stritt mich mit Professor MacMurdoch, meinem wissenschaftlichen Erzrivalen, über die Existenz des Schildes, als Dr. Deanfield und Miss Mosley hineinstürmten und uns unterbrachen.</DE>
+				<EN>Bir gün müzedeydim; Athena'nin antik bir heykelinin önünde duruyordum. Büyük bilimsel rakiplerimden Profesör MacMurdoch'la Athena'nin kalkaninin varligi üzerine tartisiyordum ki birden Dr. Deanfield ve Bayan Mosley içeri daldi ve bizi böldü.</EN>
+				<FR>Un jour, je me trouvais au musée devant une antique statue de pierre d'Athéna, et je me disputais avec le Professeur MacMurdoch, mon pire rival scientifique, à propos de l'existence du bouclier, lorsque le Dr. Deanfield et Miss Mosley nous rejoignirent précipitamment et nous interrompirent.</FR>
+				<IT>Un giorno stavo al museo davanti ad una antica statua di pietra di Atena e iniziai a discutere con il Professor MacMurdoch, mio acerrimo rivale scientifico, sull'esistenza dello scudo, quando il Dr.Deanfield e Miss Mosley hanno fatto irruzione e ci hanno interrotto.</IT>
+				<NL>Op een dag stond ik in het museum voor een antiek beeld van Athene te discussiëren met professor MacMurdoch, mijn wetenschappelijke aartsrivaal, over het bestaan van het schild. Plotseling stormden Dr. Deanfield en Miss Mosley binnen en onderbraken ons gesprek.</NL>
+				<ES>Un día yo estaba en el museo, de pie ante una antigua estatua de piedra de Atenea. Estaba discutiendo con el profesor MacMurdoch, mi mayor rival en mi campo, acerca de la existencia del escudo, cuando el Dr. Deanfield y la Srta. Mosley llegaron y nos interrumpieron.</ES>
+			</part03>
+			<part04>
+				<DE>In einem antiken und längst vergessenen Buch über Athene fanden sie den entscheidenden Hinweis - die Lagerungsstätte des Schildes vor dem Spartanisch-persischen Krieg, in dem es für immer verschwand. Dr. Deanfield und Miss Mosley begaben sich sofort nach Griechenland, um ihre Suche dort zu beginnen.</DE>
+				<EN>Athena hakkinda eski ve uzun zamandir unutulmus bir kitapta, kalkanin Sparta-Pers Savasi'ndan önce bilinen son konumunu bulmuslardi — sonsuza dek kayboldugu savas. Dr. Deanfield ve Bayan Mosley aramalarina baslamak için hemen Yunanistan'a yola çiktilar.</EN>
+				<FR>Dans un livre antique et longtemps oublié sur Athéna, ils avaient trouvé un indice décisif indiquant l'endroit où se trouvait le bouclier avant la guerre entre Sparte et la Perse, lors de laquelle il avait disparu pour toujours. Dr. Deanfield et Miss Mosley s'étaient aussitôt rendus en Grèce, afin d'y commencer leurs recherches.</FR>
+				<IT>In un libro su Atena molto antico e lungo dimenticato, trovarono una preziosa indicazione sul luogo dove lo scudo sarebbe stato conservato prima della guerra spartano-persiana nella quale sparì per sempre. Il Dr. Deanfield e Miss Mosley si recarono immediatamente in Grecia, per iniziare la loro ricerca.</IT>
+				<NL>In een eeuwenoud en lang vergeten boek over Athene hadden ze de doorslaggevende aanwijzing gevonden, namelijk de opslagplaats van het schild voor de Spartaans-Perzische oorlog, de oorlog waarin het voor altijd verdween. Dr. Deanfield en Miss Mosley gingen meteen naar Griekenland, om daar te beginnen met hun zoektocht.</NL>
+				<ES>En un antiguo libro sobre Atenea, hace mucho tiempo olvidado, encontraron la pista definitiva acerca del lugar donde se guardó el escudo antes de las Guerras Médicas, lugar donde desapareció para siempre. El Dr. Deanfield y la Srta. Mosley se trasladaron en seguida a Grecia para empezar allí su búsqueda.</ES>
+			</part04>
+			<part05>
+				<DE>Kaum angekommen bemerkten sie, dass sie nicht alleine bei ihrer Suche nach dem Schild waren. MacMurdoch, der skrupellose Pseudowissenschaftler, versuchte unsere Entdeckung zu stehlen. Der Wettlauf mit der Zeit beginnt ...</DE>
+				<EN>Yunanistan'a varir varmaz, kalkani arayan tek kisilerin kendileri olmadigini fark etmeleri uzun sürmedi. O ise yaramaz sözde bilim insani MacMurdoch kesfimizi çalmaya çalisiyordu. Zamana karsi yaris basliyor...</EN>
+				<FR>A peine arrivés, ils remarquèrent qu'ils n'étaient pas les seuls à rechercher le bouclier. MacMurdoch, le pseudo-scientifique sans scrupules, tenta de dérober notre découverte. La course contre la montre commence alors…</FR>
+				<IT>Appena arrivati si resero conto che non erano i soli a cercare lo scudo. MacMurdoch, lo scrupoloso pseudo scienziato, cercò di rubare la nostra scoperta. La gara con il tempo ebbe inizio...</IT>
+				<NL>Maar nauwelijks aangekomen ontdekten zij, dat ze niet als enigen op zoek waren naar het schild. MacMurdoch, de gewetenloze pseudo-wetenschapper, probeerde hun ontdekking te stelen. Een wedloop met de tijd begint...</NL>
+				<ES>Apenas habían llegado, se dieron cuenta que no estaban solos en su búsqueda del escudo. MacMurdoch, el pseudocientífico sin escrúpulos, intentó robar nuestro descubrimiento. Empieza la carrera contra el tiempo...</ES>
+			</part05>
+		</intro>
+		<outro>
+			<part01>
+				<DE>Dr. Deanfield und Miss Mosley hatten es geschafft, sie waren dank ihrer wissenschaftlichen Genialität zuerst am Fundort. Ein Mechanismus, in den sie den Schild einsetzten, versprach noch weitere Geheimnisse zu lüften...</DE>
+				<EN>Dr. Deanfield ve Bayan Mosley basardi! Bilimsel dehalari sayesinde kalkani ilk onlar kesfetti. Kalkanin yaninda bir mekanizma vardi — kalkan onun içine oturuyor gibiydi. Daha fazla sirin ortaya çikacagi kesindi...</EN>
+				<FR>Dr. Deanfield et Miss Mosley avaient réussi! Ils furent, grâce à leur génie scientifique, les premiers à découvrir le lieu tant convoité. Un mécanisme dans lequel ils posèrent le bouclier promettait en outre de leur révéler d'autres secrets...</FR>
+				<IT>Il Dr. Deanfield e Miss Mosley ce l' avevano fatta, grazie alla loro genialità scientifica arrivarono per primi sul luogo del ritrovamento. Un meccanismo nel quale inserirono lo scudo, permise loro di svelare altri misteri...</IT>
+				<NL>Het was Dr. Deanfield en Miss Mosley gelukt. Dankzij hun wetenschappelijke genialiteit waren zij het eerst bij de vindplaats. Een deurmechanisme, waar ze het schild in plaatsten, beloofde nog meer geheimen te onthullen...</NL>
+				<ES>El Dr. Deanfield y la Srta. Mosley lo consiguieron. Su genialidad científica hizo que llegaran primero al lugar del hallazgo. Un mecanismo que introdujeron en el escudo, les prometió desvelarles más secretos...</ES>
+			</part01>
+			<part02>
+				<DE>Der Schild öffnete eine Kammer voller Schätze der antiken Reiche, versteckt vor den persischen Plünderern, vergessen in den Wirren des Krieges. Eine archäologische Sensation! Das änderte alles!</DE>
+				<EN>Kalkan, antik imparatorluklardan kalma hazinelerle dolu bir odayi açti. Pers yagmacilarindan saklanmis ve savasin kargasasinda unutulmustu. Arkeolojik bir sansasyon! Her seyi degistiriyor!</EN>
+				<FR>Le bouclier ouvrait une chambre pleine de trésors des royaumes antiques, mis à l'écart des pilleurs perses puis oubliés dans les troubles de la guerre. Une révolution en matière archéologique! Cela changeait tout!</FR>
+				<IT>Lo scudo aprì una camera piena di tesori appartenenti ad antichi imperi, nascosti prima dei saccheggi persiani e dimenticati nei disordini della guerra. Una sensazione archeologica! Questo cambiò tutto!</IT>
+				<NL>Het schild opende een kamer vol met schatten van het antieke rijk, goed verstopt voor de Perzische plunderaars, vergeten in de chaos van de oorlog. Een archeologische sensatie! Dat veranderde alles!</NL>
+				<ES>El escudo abrió una cámara llena de tesoros pertenecientes al antiguo imperio. Los escondieron de los saqueadores persas y con la confusión de la guerra, los olvidaron. ¡Un magnífico hallazgo arqueológico! ¡Eso lo cambia todo!</ES>
+			</part02>
+		</outro>
+	</story>
+	<game_menu>
+		<want_exit>
+			<DE>Möchtest du wirklich abbrechen und zum Menü zurückkehren?</DE>
+			<NL>Weet je zeker dat je wilt stoppen en terug wilt keren naar het menu?</NL>
+			<FR>Veux-tu vraiment arrêter et retourner au menu ?</FR>
+			<ES>¿De verdad quieres finalizar y regresar al menú?</ES>
+			<EN>Gerçekten durup menüye dönmek istiyor musun?</EN>
+			<IT>Vuoi davvero interrompere e tornare al menu?</IT>
+		</want_exit>
+		<want_exit_freeplay>
+			<DE>Möchtest du wirklich abbrechen und zur Auswahl zurückkehren?</DE>
+			<NL>Weet je zeker dat je wilt stoppen en terug wilt keren naar het keuzemenu?</NL>
+			<FR>Veux-tu vraiment arrêter et retourner à la sélection ?</FR>
+			<ES>¿De verdad quieres finalizar y volver al menú de selección?</ES>
+			<EN>Gerçekten durup seçim ekranina dönmek istiyor musun?</EN>
+			<IT>Vuoi davvero interrompere e tornare alla selezione?</IT>
+		</want_exit_freeplay>
+		<button2>
+			<DE>Level neustarten</DE>
+			<NL>Opnieuw</NL>
+			<FR>Redémarrer</FR>
+			<ES>Comenzar de nuevo</ES>
+			<EN>Seviyeyi Yeniden Baslat</EN>
+			<IT>Ricominciare il livello</IT>
+		</button2>
+		<button5>
+			<DE>Beenden</DE>
+			<NL>Stoppen</NL>
+			<FR>Quitter</FR>
+			<ES>Finalizar</ES>
+			<EN>Oyundan Çik</EN>
+			<IT>Terminare</IT>
+		</button5>
+	</game_menu>
+	<layouts>
+		<L00001>
+			<DE>Markt von Beresan</DE>
+			<EN>Berezan Pazari</EN>
+			<FR>Marché de Beresan</FR>
+			<IT>Mercato di Beresan</IT>
+			<NL>Markt van Beresan</NL>
+			<ES>Mercado de Berezan.</ES>
+		</L00001>
+		<L00002>
+			<DE>Fischerboote</DE>
+			<EN>Balikçi Tekneleri</EN>
+			<FR>Bâteaux de pêcheurs</FR>
+			<IT>Barche da pesca</IT>
+			<NL>Vissersboten</NL>
+			<ES>Barco pesquero</ES>
+		</L00002>
+		<L00003>
+			<DE>Altar des Hektor</DE>
+			<EN>Hector'un Sunagi</EN>
+			<FR>Autel d'Hector</FR>
+			<IT>Altare di Ettore</IT>
+			<NL>Altaar van Hektor</NL>
+			<ES>Altar de Héctor</ES>
+		</L00003>
+		<L00006>
+			<DE>Der Angelplatz</DE>
+			<EN>Balik Tutma Noktasi</EN>
+			<FR>Place de la canne à pêche</FR>
+			<IT>Il posto degli Angeli</IT>
+			<NL>De visplek</NL>
+			<ES>Plaza del Ángel</ES>
+		</L00006>
+		<L00009>
+			<DE>Blitze des Xhantos</DE>
+			<EN>Xanthus'un Simsegi</EN>
+			<FR>Éclairs de Xhante</FR>
+			<IT>Fulmini di Xanthos</IT>
+			<NL>Bliksem van Xanthus</NL>
+			<ES>Rayo de Janto</ES>
+		</L00009>
+		<L00010>
+			<DE>Krone von Myus</DE>
+			<EN>Myus'un Taci</EN>
+			<FR>Couronne de Myonte</FR>
+			<IT>Corona di Myus</IT>
+			<NL>Kroon van Myus</NL>
+			<ES>Corona de Miunte</ES>
+		</L00010>
+		<L00013>
+			<DE>Buch des Daidalos</DE>
+			<EN>Daedalus'un Kitabi</EN>
+			<FR>Livre de Dédale</FR>
+			<IT>Libro di Dedalo</IT>
+			<NL>Boek van Daedalus</NL>
+			<ES>Libro de Dédalo</ES>
+		</L00013>
+		<L00022>
+			<DE>Haus von Deukalion
+</DE>
+			<EN>Deucalion'un Evi</EN>
+			<FR>Maison de Deucalion</FR>
+			<IT>Casa di Deucalion</IT>
+			<NL>Huis van Deukalion</NL>
+			<ES>Casa de Deucalión</ES>
+		</L00022>
+		<L00027>
+			<DE>Tritons Krone</DE>
+			<EN>Triton'un Taci</EN>
+			<FR>Couronne de Triton</FR>
+			<IT>Corona di Tritone</IT>
+			<NL>Triton's kroon</NL>
+			<ES>Corona de Tritón</ES>
+		</L00027>
+		<L00028>
+			<DE>Der Fischkutter</DE>
+			<EN>Balikçi Kotra</EN>
+			<FR>Chalutier</FR>
+			<IT>Il peschereccio</IT>
+			<NL>De viskotter</NL>
+			<ES>Barco pesquero</ES>
+		</L00028>
+		<L00029>
+			<DE>Europas Marktplatz</DE>
+			<EN>Europe'nin Pazaryeri</EN>
+			<FR>Place du marché d'Europe</FR>
+			<IT>Piazza del mercato europeo</IT>
+			<NL>Europa's marktplaats</NL>
+			<ES>Plaza del mercado Europa</ES>
+		</L00029>
+		<L00035>
+			<DE>Mythos der Kalilope</DE>
+			<EN>Calliope'nin Efsanesi</EN>
+			<FR>Mythe de Calliope</FR>
+			<IT>Mito di Calliope</IT>
+			<NL>Mythe van Calliope</NL>
+			<ES>Mito de Calíope</ES>
+		</L00035>
+		<L00037>
+			<DE>Die Anlegestelle</DE>
+			<EN>Çikarma Yeri</EN>
+			<FR>Embarcadère</FR>
+			<IT>Banchina di approdo</IT>
+			<NL>De aanlegsteiger</NL>
+			<ES>Embarcadero</ES>
+		</L00037>
+		<L00041>
+			<DE>Das Sammelboot</DE>
+			<EN>Cankurtaran Botu</EN>
+			<FR>Barque</FR>
+			<IT>Barca collettrice</IT>
+			<NL>De verzamelboot</NL>
+			<ES>Barco colector</ES>
+		</L00041>
+		<L00043>
+			<DE>Uranias Juwel</DE>
+			<EN>Urania'nin Mücevheri</EN>
+			<FR>Joyau d'Uranie</FR>
+			<IT>Gioielli di Urania</IT>
+			<NL>Urania's juweel</NL>
+			<ES>Joya de Uranio</ES>
+		</L00043>
+		<L00044>
+			<DE>Calydons Ruinen</DE>
+			<EN>Calydon'un Harabeleri</EN>
+			<FR>Ruines de Calydon</FR>
+			<IT>Le rovine di Calidone</IT>
+			<NL>Calydon's ruïnes</NL>
+			<ES>Ruinas de Calidón</ES>
+		</L00044>
+		<L00046>
+			<DE>Der Hafenbasar</DE>
+			<EN>Liman Pazari</EN>
+			<FR>Bazar du port</FR>
+			<IT>Il bazar del porto</IT>
+			<NL>De havenbazaar</NL>
+			<ES>Bazar del puerto</ES>
+		</L00046>
+		<L00052>
+			<DE>Tor von Alt-Thera</DE>
+			<EN>Ancient Thera'nin Kapisi</EN>
+			<FR>Porte de l'ancienne Théra</FR>
+			<IT>Porta di Alt-Thera</IT>
+			<NL>Poort van Oud-Thera</NL>
+			<ES>Puerta de la antigua Thera</ES>
+		</L00052>
+		<L00053>
+			<DE>Schrein von Crotone</DE>
+			<EN>Crotone'nin Tapinagi</EN>
+			<FR>Reliquaire de Crotone</FR>
+			<IT>Scrigno di Crotone</IT>
+			<NL>Schrijn van Crotone</NL>
+			<ES>Santuario de Crotona</ES>
+		</L00053>
+		<L00055>
+			<DE>Tronsaal des Nemesis</DE>
+			<EN>Nemesis'in Taht Odasi</EN>
+			<FR>Salle du trône de Némésis</FR>
+			<IT>Sala del Trono di Nemesi</IT>
+			<NL>Troonzaal van Nemesis</NL>
+			<ES>Sala del trono de Némesis</ES>
+		</L00055>
+		<L00057>
+			<DE>Der Weg zum Dorf</DE>
+			<EN>Köye Giden Yol</EN>
+			<FR>Chemin vers le village</FR>
+			<IT>La via al paese</IT>
+			<NL>De weg naar het dorp</NL>
+			<ES>Camino hacia la aldea</ES>
+		</L00057>
+		<L00058>
+			<DE>Der Olivenhain</DE>
+			<EN>Zeytinlik</EN>
+			<FR>Oliveraie</FR>
+			<IT>Il boschetto di ulivi</IT>
+			<NL>De olijfboomgaard</NL>
+			<ES>El Olivar</ES>
+		</L00058>
+		<L00060>
+			<DE>Büste der Hestia</DE>
+			<EN>Hestia'nin Büstü</EN>
+			<FR>Buste d'Hestia</FR>
+			<IT>Busto di Hestia</IT>
+			<NL>Buste van Hestia</NL>
+			<ES>Busto de Hestia</ES>
+		</L00060>
+		<L00062>
+			<DE>Markt von Herat</DE>
+			<EN>Herat'in Pazari</EN>
+			<FR>Marché d'Hérat</FR>
+			<IT>Mercato di Herat</IT>
+			<NL>Markt van Herat</NL>
+			<ES>Mercado de Herat</ES>
+		</L00062>
+		<L00065>
+			<DE>Nektar von Silenos</DE>
+			<EN>Silenus'un Nektari</EN>
+			<FR>Nectar de Silène</FR>
+			<IT>Nettare di Silenos</IT>
+			<NL>Nectar van Silenus</NL>
+			<ES>Néctar de Sileno</ES>
+		</L00065>
+		<L00066>
+			<DE>Der Eingang</DE>
+			<EN>Giris</EN>
+			<FR>Entrée</FR>
+			<IT>L'entrata</IT>
+			<NL>De ingang</NL>
+			<ES>La Entrada</ES>
+		</L00066>
+		<L00067>
+			<DE>Pegasos von Herakles</DE>
+			<EN>Heracles'in Pegasus'u</EN>
+			<FR>Pégase d'Héraclès</FR>
+			<IT>Pegaso di Ercole</IT>
+			<NL>Pegasus van Herakles</NL>
+			<ES>Pegaso de Heracles</ES>
+		</L00067>
+		<L00070>
+			<DE>Die Bäume der Götter</DE>
+			<EN>Tanrilarin Agaçlari</EN>
+			<FR>Arbres des Dieux</FR>
+			<IT>Gli alberi degli Dei</IT>
+			<NL>De bomen van de goden</NL>
+			<ES>Los árboles de los dioses</ES>
+		</L00070>
+		<L00076>
+			<DE>Tal des Chaos</DE>
+			<EN>Kaosun Vadisi</EN>
+			<FR>Vallée du Chaos</FR>
+			<IT>Valle del Caos</IT>
+			<NL>Dal van de Chaos</NL>
+			<ES>El Valle del Caos</ES>
+		</L00076>
+		<L00077>
+			<DE>Der Marktplatz</DE>
+			<EN>Pazaryeri</EN>
+			<FR>Place du marché</FR>
+			<IT>La piazza del Mercato</IT>
+			<NL>De marktplaats</NL>
+			<ES>Plaza del mercado</ES>
+		</L00077>
+		<L00080>
+			<DE>Bunte Stände</DE>
+			<EN>Renkli Stantlar</EN>
+			<FR>Étals multicolores</FR>
+			<IT>Banchetti colorati</IT>
+			<NL>Bonte kraampjes</NL>
+			<ES>Puestos coloridos</ES>
+		</L00080>
+		<L00081>
+			<DE>Brücke des Kameiros</DE>
+			<EN>Kameiros'un Köprüsü</EN>
+			<FR>Pont de Camiros</FR>
+			<IT>Ponti di Camiro</IT>
+			<NL>Brug van Kameiros</NL>
+			<ES>Puente de Cámiros</ES>
+		</L00081>
+		<L00082>
+			<DE>Heras Büste</DE>
+			<EN>Hera'nin Büstü</EN>
+			<FR>Buste d'Héra</FR>
+			<IT>Busto di Era</IT>
+			<NL>Hera's buste</NL>
+			<ES>Busto de Hera</ES>
+		</L00082>
+		<L00084>
+			<DE>Der Basar der Künste</DE>
+			<EN>Sanat Pazari</EN>
+			<FR>Bazar des Arts</FR>
+			<IT>Il basar delle Arti</IT>
+			<NL>De bazaar van de kunsten</NL>
+			<ES>Bazar del arte</ES>
+		</L00084>
+		<L00086>
+			<DE>Der Pfad des Weisen</DE>
+			<EN>Filozofun Yolu</EN>
+			<FR>Sentier des sages</FR>
+			<IT>Il sentiero della saggezza</IT>
+			<NL>Het pad van de wijzen</NL>
+			<ES>Senda del Sabio</ES>
+		</L00086>
+		<L00090>
+			<DE>Orions Pegasos</DE>
+			<EN>Orion'un Pegasus'u</EN>
+			<FR>Pégase d'Orion</FR>
+			<IT>Pegaso di Orione</IT>
+			<NL>Orion's Pegasus</NL>
+			<ES>Pegaso de Orión</ES>
+		</L00090>
+		<L00091>
+			<DE>Palast des Xhantos</DE>
+			<EN>Xanthus'un Sarayi</EN>
+			<FR>Palais de Xhante</FR>
+			<IT>Palazzo del Xanthos</IT>
+			<NL>Paleis van Xanthus</NL>
+			<ES>Palacio de Janto</ES>
+		</L00091>
+		<L00093>
+			<DE>Die Wiesen des Lichts</DE>
+			<EN>Isigin Tarlalari</EN>
+			<FR>Prairies de lumière</FR>
+			<IT>I prati della luce</IT>
+			<NL>De weilanden van het licht</NL>
+			<ES>Prados de la Luz</ES>
+		</L00093>
+		<L00102>
+			<DE>Orraons Labyrinth</DE>
+			<EN>Orraon'un Labirenti</EN>
+			<FR>Labyrinthe d'Orraon</FR>
+			<IT>Il labirinto di Orraon</IT>
+			<NL>Orraon's labyrinth</NL>
+			<ES>Laberinto de Oraón</ES>
+		</L00102>
+		<L00104>
+			<DE>Markt von Echiledais</DE>
+			<EN>Echiledais'in Pazari</EN>
+			<FR>Marché d'Echiledais</FR>
+			<IT>Mercato di Echiledais</IT>
+			<NL>Markt van Echiledais</NL>
+			<ES>Mercado de Echiledais</ES>
+		</L00104>
+		<L00105>
+			<DE>Rheas Nektar</DE>
+			<EN>Rhea'nin Nektari</EN>
+			<FR>Nectar de Rhéa</FR>
+			<IT>Nettare di Rhea</IT>
+			<NL>Rhea's nectar</NL>
+			<ES>Néctar de Rhea</ES>
+		</L00105>
+		<L00108>
+			<DE>Neapels Brücke</DE>
+			<EN>Naple'in Köprüsü</EN>
+			<FR>Pont de Naples</FR>
+			<IT>Ponti di Napoli</IT>
+			<NL>De brug van Napels</NL>
+			<ES>Puente de Nápoles</ES>
+		</L00108>
+		<L00113>
+			<DE>Bogen des Odysseus</DE>
+			<EN>Odysseus'un Kemeri</EN>
+			<FR>Arc de l'Odyssée</FR>
+			<IT>Arco di Odisseo</IT>
+			<NL>Boog van Odysseus</NL>
+			<ES>Arco de Odiseo</ES>
+		</L00113>
+		<L00123>
+			<DE>Marktplatz von Barce</DE>
+			<EN>Barca'nin Pazaryeri</EN>
+			<FR>Place du marché de Barqa</FR>
+			<IT>Piazza del mercato di Barce</IT>
+			<NL>Markt van Barce</NL>
+			<ES>Plaza del mercado de Barca</ES>
+		</L00123>
+		<L00124>
+			<DE>Mauern von Deqis</DE>
+			<EN>Deqis'in Surlari</EN>
+			<FR>Murs de Deqis</FR>
+			<IT>Mura di Deqis</IT>
+			<NL>Muren van Deqis</NL>
+			<ES>Muros de Tebas</ES>
+		</L00124>
+		<L00125>
+			<DE>Horens Pegasos</DE>
+			<EN>Horae'nin Pegasus'u</EN>
+			<FR>Pégase d'Horens</FR>
+			<IT>Horae di Pegasus</IT>
+			<NL>Horens van Pegasus</NL>
+			<ES>Pegaso de Horas</ES>
+		</L00125>
+		<L00126>
+			<DE>Asows Schrein</DE>
+			<EN>Azov'un Tapinagi</EN>
+			<FR>Reliquaire d'Azov</FR>
+			<IT>Lo scrigno di Assos</IT>
+			<NL>Asow's schrijn</NL>
+			<ES>Santuario de Azóv</ES>
+		</L00126>
+		<L00134>
+			<DE>Statuette von Barce</DE>
+			<EN>Barca'nin Idolü</EN>
+			<FR>Statuette de Barqa</FR>
+			<IT>Statuetta di Barce</IT>
+			<NL>Beeldje van Barce</NL>
+			<ES>Ídolo de Barca</ES>
+		</L00134>
+		<L00140>
+			<DE>Boreas Straße</DE>
+			<EN>Boreas Sokagi</EN>
+			<FR>Rue de Borée</FR>
+			<IT>La strada di Borea</IT>
+			<NL>Borea's straat</NL>
+			<ES>Calle Boreas</ES>
+		</L00140>
+		<L00142>
+			<DE>Schrein der Aphrodite</DE>
+			<EN>Aphrodite'nin Tapinagi</EN>
+			<FR>Reliquaire d'Aphrodite</FR>
+			<IT>Scrigno di Afrodite</IT>
+			<NL>Schrijn van Aphrodite</NL>
+			<ES>Santuario de Afrodita</ES>
+		</L00142>
+		<L00143>
+			<DE>Tempel des Elysion</DE>
+			<EN>Elysium'un Tapinagi</EN>
+			<FR>Temple de l'Elysée</FR>
+			<IT>Tempio di Elysion</IT>
+			<NL>Tempel van Elysion</NL>
+			<ES>Templo de los Campos Elíseos</ES>
+		</L00143>
+		<L00149>
+			<DE>Palamons Tronsaal</DE>
+			<EN>Palamon'un Taht Odasi</EN>
+			<FR>Salle du trône de Palémon</FR>
+			<IT>Sala del trono di Palamone</IT>
+			<NL>Palamon's troonzaal</NL>
+			<ES>Sala del trono de Palamón</ES>
+		</L00149>
+		<L00154>
+			<DE>Buch des Olymp</DE>
+			<EN>Olimpos Dagi'nin Kitabi</EN>
+			<FR>Livre de l'Olympe</FR>
+			<IT>Libro dell'Olimpo</IT>
+			<NL>Boek van de Olympus</NL>
+			<ES>Libro del Olimpo</ES>
+		</L00154>
+		<L00164>
+			<DE>Denkmal von Korinth</DE>
+			<EN>Corinth'in Aniti</EN>
+			<FR>Monument de Corinthe</FR>
+			<IT>Monumento di Corinto</IT>
+			<NL>Monument van Korinthe</NL>
+			<ES>Monumento de Corinto</ES>
+		</L00164>
+		<L00166>
+			<DE>Büste der Paris</DE>
+			<EN>Paris'in Büstü</EN>
+			<FR>Buste de Paris</FR>
+			<IT>Busto di Paride</IT>
+			<NL>Buste van Paris</NL>
+			<ES>Busto de Paris</ES>
+		</L00166>
+		<L00170>
+			<DE>Die Ruinen des Rhizenias</DE>
+			<EN>Prinias'in Harabeleri</EN>
+			<FR>Ruines de Rizinia</FR>
+			<IT>Le rovine di Rhizenia</IT>
+			<NL>De ruïnes van Rhizenias</NL>
+			<ES>Ruinas de Rhizenia</ES>
+		</L00170>
+		<L00178>
+			<DE>Pegasos der Eilethyia</DE>
+			<EN>Eileithyia'nin Pegasus'u</EN>
+			<FR>Pégase d'Ilithyie</FR>
+			<IT>Pegaso di Eilethyia</IT>
+			<NL>Pegasus van Eilethyia</NL>
+			<ES>Pegaso de Ilitía</ES>
+		</L00178>
+		<L00181>
+			<DE>Juwel der Sphinx</DE>
+			<EN>Sfenksin Mücevheri</EN>
+			<FR>Joyau du sphinx</FR>
+			<IT>Gioielli della Sfinge</IT>
+			<NL>Juweel van de Sfinx</NL>
+			<ES>Joya de la Esfinge</ES>
+		</L00181>
+		<L00182>
+			<DE>Labyrinth der Selene</DE>
+			<EN>Selene'nin Labirenti</EN>
+			<FR>Labyrinthe de Séléné</FR>
+			<IT>Labirinto di Selene</IT>
+			<NL>Labyrint van Selene</NL>
+			<ES>Laberinto de Selene</ES>
+		</L00182>
+		<L00193>
+			<DE>Orthos Pfeil</DE>
+			<EN>Ortho'nun Oku</EN>
+			<FR>Flèche d'Orthos</FR>
+			<IT>Il dardo di Ortro</IT>
+			<NL>Ortho's pijl</NL>
+			<ES>Flecha de Ortro</ES>
+		</L00193>
+		<L00194>
+			<DE>Die Krone von Notion</DE>
+			<EN>Notion'un Taci</EN>
+			<FR>Couronne de Notium</FR>
+			<IT>La corona di Notion</IT>
+			<NL>De kroon van Notion</NL>
+			<ES>Corona de Notio</ES>
+		</L00194>
+		<L00196>
+			<DE>Ruinen des Kaunos</DE>
+			<EN>Kaunos'un Harabeleri</EN>
+			<FR>Ruines de Caunos</FR>
+			<IT>Rovine di Kaunos</IT>
+			<NL>Ruïnes van Kaunus</NL>
+			<ES>Ruinas de Caunos</ES>
+		</L00196>
+		<L00198>
+			<DE>Koios Haus</DE>
+			<EN>Koio'nun Evi</EN>
+			<FR>Maison de Coéos</FR>
+			<IT>Casa di Kos</IT>
+			<NL>Koio's huis</NL>
+			<ES>Casa de Ceo</ES>
+		</L00198>
+		<L00199>
+			<DE>Tal Von Nichoria</DE>
+			<EN>Nichoria'nin Vadisi</EN>
+			<FR>Vallée de Nichoria</FR>
+			<IT>Valle di Nichoria</IT>
+			<NL>Dal van Nichoria</NL>
+			<ES>Valle de Nicoria</ES>
+		</L00199>
+		<L00200>
+			<DE>Meletes Maske</DE>
+			<EN>Melete'nin Maskesi</EN>
+			<FR>Masque de Mélété</FR>
+			<IT>Maschera di Melete</IT>
+			<NL>Melete's masker</NL>
+			<ES>Máscara de Meletea</ES>
+		</L00200>
+		<L00207>
+			<DE>Maske des Uranos</DE>
+			<EN>Uranus'un Maskesi</EN>
+			<FR>Masque d'Ouranos</FR>
+			<IT>Maschera di Urano</IT>
+			<NL>Masker van Uranus</NL>
+			<ES>Máscara de Urano</ES>
+		</L00207>
+		<L00212>
+			<DE>Schrein der Hybris</DE>
+			<EN>Kibirin Tapinagi</EN>
+			<FR>Reliquaire d'Hybris</FR>
+			<IT>Scrigno di Hybris</IT>
+			<NL>Schrijn van de Hybris</NL>
+			<ES>Santuario de Hibris</ES>
+		</L00212>
+		<L00218>
+			<DE>Molpa Mythos</DE>
+			<EN>Molpa'nin Efsanesi</EN>
+			<FR>Mythe de Molpa</FR>
+			<IT>Mito di Molpa</IT>
+			<NL>Mythe van Molpa</NL>
+			<ES>Mito de Molpa</ES>
+		</L00218>
+		<L00225>
+			<DE>Lappas Labyrinth</DE>
+			<EN>Lappa'nin Labirenti</EN>
+			<FR>Labyrinthe de Lappa</FR>
+			<IT>Labirinto di Lappa</IT>
+			<NL>Lappa's labyrint</NL>
+			<ES>Laberinto de Lappa</ES>
+		</L00225>
+		<L00228>
+			<DE>Die Weinberge</DE>
+			<EN>Baglar</EN>
+			<FR>Vignobles</FR>
+			<IT>Le vigne</IT>
+			<NL>De wijnbergen</NL>
+			<ES>El viñedo</ES>
+		</L00228>
+		<L00232>
+			<DE>Smaragd-Katzenauge</DE>
+			<EN>Zümrüt Kedi Gözü</EN>
+			<FR>Emeraude Oeil-de-chat</FR>
+			<IT>Smeraldo catarifrangente</IT>
+			<NL>Smaragd-kattenoog</NL>
+			<ES>Esmeralda Ojo de gato</ES>
+		</L00232>
+		<L00234>
+			<DE>Grabkammer Echnatons</DE>
+			<EN>Akhenaten'in Mezar Odasi</EN>
+			<FR>Chambre funéraire d'Akhénaton</FR>
+			<IT>Tomba di Echnaton</IT>
+			<NL>Grafkamer van Echnaton</NL>
+			<ES>Cámara funeraria de Ajenatón</ES>
+		</L00234>
+		<L00235>
+			<DE>Bogen von Tantalos</DE>
+			<EN>Tantalus'un Kemeri</EN>
+			<FR>Arc de Tantale</FR>
+			<IT>Arco di Tantalo</IT>
+			<NL>Boog van Tantalus</NL>
+			<ES>Arco de Tántalo</ES>
+		</L00235>
+		<L00241>
+			<DE>Mauern der Giganten</DE>
+			<EN>Devlerin Surlari</EN>
+			<FR>Murs des Géants</FR>
+			<IT>Mura dei Giganti</IT>
+			<NL>Muren van de giganten</NL>
+			<ES>Muros de los Gigantes</ES>
+		</L00241>
+		<L00243>
+			<DE>Tor des Odysseus</DE>
+			<EN>Odysseus'un Kapisi</EN>
+			<FR>Porte de l'Odyssée</FR>
+			<IT>Porta di Odisseo</IT>
+			<NL>Poort van Odysseus</NL>
+			<ES>Puerta de Odiseo</ES>
+		</L00243>
+		<L00244>
+			<DE>Der endlose Pfad</DE>
+			<EN>Sonsuz Yol</EN>
+			<FR>Sentier sans fin</FR>
+			<IT>Il sentiero infinito</IT>
+			<NL>Het eindeloze pad</NL>
+			<ES>La Senda Interminable</ES>
+		</L00244>
+		<L00246>
+			<DE>Vase von Nekromanteion</DE>
+			<EN>Necromanteion'un Vazosu</EN>
+			<FR>Vase de Nékromanteion</FR>
+			<IT>Vaso di Necromanteion</IT>
+			<NL>Vaas van Nekromanteion</NL>
+			<ES>Vasija de Necromanteion</ES>
+		</L00246>
+		<L00250>
+			<DE>Pfeil des Kronos</DE>
+			<EN>Kornos'un Oku</EN>
+			<FR>Flèche de Cronos</FR>
+			<IT>Freccia di Crono</IT>
+			<NL>Pijl van Kronos</NL>
+			<ES>Flecha de Crono</ES>
+		</L00250>
+		<L00251>
+			<DE>Sosopols Toga</DE>
+			<EN>Sozopol'un Togasi</EN>
+			<FR>Toge de Sozopol</FR>
+			<IT>La Toga di Sosopol</IT>
+			<NL>Sosopol's toga</NL>
+			<ES>Toga de Sozopol</ES>
+		</L00251>
+		<L00256>
+			<DE>Der Brunnen der Neugier</DE>
+			<EN>Meragin Çesmesi</EN>
+			<FR>Source de curiosité</FR>
+			<IT>La Fontana della Curiostà</IT>
+			<NL>De bron van Nieuwsgierigheid</NL>
+			<ES>Fuente de los Curiosos</ES>
+		</L00256>
+		<L00260>
+			<DE>Statuette der Chiimaira</DE>
+			<EN>Chimera'nin Idolü</EN>
+			<FR>Statuette de Chimère</FR>
+			<IT>Statuetta di Chimera</IT>
+			<NL>Beeldje van Chiimaira</NL>
+			<ES>Ídolo de Quimera</ES>
+		</L00260>
+		<L00263>
+			<DE>Das Dorf</DE>
+			<EN>Köy</EN>
+			<FR>Village</FR>
+			<IT>Il paese</IT>
+			<NL>Het dorp</NL>
+			<ES>El Poblado</ES>
+		</L00263>
+		<L00269>
+			<DE>Schwert von Paris</DE>
+			<EN>Paris'in Kilici</EN>
+			<FR>Epée de Paris</FR>
+			<IT>Spada di Paride</IT>
+			<NL>Zwaard van Paris</NL>
+			<ES>Espada de Paris</ES>
+		</L00269>
+		<L00276>
+			<DE>Die Kammer der Gorgonen</DE>
+			<EN>Gorgonlarin Odasi</EN>
+			<FR>Chambre des Gorgonnes</FR>
+			<IT>La camera dei Gorgoni</IT>
+			<NL>De kamer van de Gorgonen</NL>
+			<ES>Cámara de las Gorgonas</ES>
+		</L00276>
+		<L00277>
+			<DE>Die Schiffswerft</DE>
+			<EN>Tersane</EN>
+			<FR>Chantier naval</FR>
+			<IT>Il cantiere navale</IT>
+			<NL>De scheepswerf</NL>
+			<ES>El Astillero</ES>
+		</L00277>
+		<L00279>
+			<DE>Das Tal des Zelos</DE>
+			<EN>Zelus'un Vadisi</EN>
+			<FR>Vallée de Zélos</FR>
+			<IT>La Valle di Zelo</IT>
+			<NL>Het dal van Zelos</NL>
+			<ES>Valle de Zelo</ES>
+		</L00279>
+		<L00280>
+			<DE>Das Tor der Freiheit</DE>
+			<EN>Özgürlügün Kapisi</EN>
+			<FR>Porte de la liberté</FR>
+			<IT>La Porta della Libertà</IT>
+			<NL>De poort van de vrijheid</NL>
+			<ES>La Puerta de la Libertad</ES>
+		</L00280>
+		<L00281>
+			<DE>Der Sandstrand</DE>
+			<EN>Kumlu Plaj</EN>
+			<FR>Plage de sable</FR>
+			<IT>La spiaggia</IT>
+			<NL>Het zandstrand</NL>
+			<ES>La Playa de arena</ES>
+		</L00281>
+		<L00285>
+			<DE>Altar von Eloro</DE>
+			<EN>Helorus'un Sunagi</EN>
+			<FR>Autel d'Hélorus</FR>
+			<IT>Altare di Eloro</IT>
+			<NL>Altaar van Eloro</NL>
+			<ES>Altar de Heloros</ES>
+		</L00285>
+		<L00289>
+			<DE>Das Haus von Hyperion</DE>
+			<EN>Hyperion'un Evi</EN>
+			<FR>Maison d'Hypérion</FR>
+			<IT>La casa di Iperione</IT>
+			<NL>Het huis van Hyperion</NL>
+			<ES>Casa de Hiperión</ES>
+		</L00289>
+		<L00290>
+			<DE>Amulett der Amazone</DE>
+			<EN>Amazonlarin Muskasi</EN>
+			<FR>Amulette des Amazones</FR>
+			<IT>Amuleto delle Amazzoni</IT>
+			<NL>Amulet van de amazone</NL>
+			<ES>Amuleto de la amazona</ES>
+		</L00290>
+		<L00292>
+			<DE>Büste der Hestia</DE>
+			<EN>Hestia'nin Büstü</EN>
+			<FR>Buste d'Hestia</FR>
+			<IT>Busto di Estia</IT>
+			<NL>Buste van Hestia</NL>
+			<ES>Busto de Hestia</ES>
+		</L00292>
+		<L00293>
+			<DE>Der Nektar von Eos</DE>
+			<EN>Eos'un Nektari</EN>
+			<FR>Nectar d'Eos</FR>
+			<IT>Il Nettare di Eos</IT>
+			<NL>De nectar van Eos</NL>
+			<ES>Néctar de Eos</ES>
+		</L00293>
+		<L00294>
+			<DE>Himeras Karaffe</DE>
+			<EN>Himera'nin Sürahisi</EN>
+			<FR>Carafe d'Himère</FR>
+			<IT>Caraffa di Imera</IT>
+			<NL>Himera's karaf</NL>
+			<ES>Garrafa de Hímera</ES>
+		</L00294>
+		<L00299>
+			<DE>Kaulons Mythos</DE>
+			<EN>Kaulon'un Myth</EN>
+			<FR>Mythe de Kaulon</FR>
+			<IT>Mito di Caulone</IT>
+			<NL>Kaulon's mythe</NL>
+			<ES>Mito de Caulonia</ES>
+		</L00299>
+		<L00300>
+			<DE>Gärten von Abai</DE>
+			<EN>Abae'nin Bahçeleri</EN>
+			<FR>Jardins d'Abaé</FR>
+			<IT>Giardini di Abai</IT>
+			<NL>Tuinen van Abai</NL>
+			<ES>Jardín de Abai</ES>
+		</L00300>
+		<L00308>
+			<DE>Brücke von Dardamos</DE>
+			<EN>Dardanus'un Köprüsü</EN>
+			<FR>Pont de Dardanos</FR>
+			<IT>Ponti dei Dardani</IT>
+			<NL>Brug van Dardamos</NL>
+			<ES>Puente de Dárdano</ES>
+		</L00308>
+		<L00315>
+			<DE>Seichte Gewässer</DE>
+			<EN>Sig Sular</EN>
+			<FR>Eaux peu profondes</FR>
+			<IT>Acque poco profonde</IT>
+			<NL>Ondiepe wateren</NL>
+			<ES>Aguas poco profundas</ES>
+		</L00315>
+		<L00319>
+			<DE>Daphnes Nektar</DE>
+			<EN>Daphne'nin Nektari</EN>
+			<FR>Nectar de Daphné</FR>
+			<IT>Nettare di Dafne</IT>
+			<NL>Daphne's nectar</NL>
+			<ES>Néctar de Dafne</ES>
+		</L00319>
+		<L00320>
+			<DE>Die Mauern von Byzantion</DE>
+			<EN>Byzantium'un Surlari</EN>
+			<FR>Murs de Byzance</FR>
+			<IT>Le Mura Bizantine</IT>
+			<NL>De muren van Byzantium</NL>
+			<ES>Muros de Bizancio</ES>
+		</L00320>
+		<L00325>
+			<DE>Riff der Verzweiflung</DE>
+			<EN>Umutsuzlugun Resifi</EN>
+			<FR>Récif du désespoir</FR>
+			<IT>La scogliera della disperazione</IT>
+			<NL>Rif van vertwijfeling</NL>
+			<ES>Arrecife de la duda</ES>
+		</L00325>
+		<L00326>
+			<DE>Die Straßen von Epidauros</DE>
+			<EN>Epidaurus'un Sokaklari</EN>
+			<FR>Rues d'Epidaure</FR>
+			<IT>Le strade di Epidauro</IT>
+			<NL>De straten van Epidaurus</NL>
+			<ES>Calles de Epidauro</ES>
+		</L00326>
+		<L00328>
+			<DE>Mythos des Morpheus</DE>
+			<EN>Morpheus'un Efsanesi</EN>
+			<FR>Mythe de Morphée</FR>
+			<IT>Mito di Morfeo</IT>
+			<NL>Mythe van Morpheus</NL>
+			<ES>Mito de Morfeo</ES>
+		</L00328>
+		<L00330>
+			<DE>Nektar von Eos</DE>
+			<EN>Eos'un Nektari</EN>
+			<FR>Nectar d'Eos</FR>
+			<IT>Nettare di Eos</IT>
+			<NL>Nectar van Eos</NL>
+			<ES>Néctar de Eos</ES>
+		</L00330>
+		<L00333>
+			<DE>Altar von Kassandria</DE>
+			<EN>Cassandria'nin Sunagi</EN>
+			<FR>Autel de Cassandre</FR>
+			<IT>Altare di Cassandra</IT>
+			<NL>Altaar van Cassandra</NL>
+			<ES>Altar de Casandrea</ES>
+		</L00333>
+		<L00336>
+			<DE>Das Schiff</DE>
+			<EN>Gemi</EN>
+			<FR>Bateau</FR>
+			<IT>La nave</IT>
+			<NL>Het schip</NL>
+			<ES>El navío</ES>
+		</L00336>
+		<L00337>
+			<DE>Tiefe Gewässer</DE>
+			<EN>Derin Sular</EN>
+			<FR>Eaux profondes</FR>
+			<IT>Acque profonde</IT>
+			<NL>Diepe wateren</NL>
+			<ES>Aguas profundas</ES>
+		</L00337>
+		<L00341>
+			<DE>Kapitän der Meere</DE>
+			<EN>Denizlerin Kaptani</EN>
+			<FR>Capitaine des mers</FR>
+			<IT>Capitano dei Mari</IT>
+			<NL>Kapitein van de zeeën</NL>
+			<ES>Capitán de los mares</ES>
+		</L00341>
+		<L00343>
+			<DE>Die Toga aus Abdera</DE>
+			<EN>Abdera'dan Toga</EN>
+			<FR>Toge d'Abdère</FR>
+			<IT>La Toga di Abdera</IT>
+			<NL>De toga uit Abdera</NL>
+			<ES>La toga de Abdera</ES>
+		</L00343>
+		<L00344>
+			<DE>Kreuzende Wasserwege</DE>
+			<EN>Kesisen Su Yollari</EN>
+			<FR>Croisement de voies d'eau</FR>
+			<IT>Sentieri marini incrociati</IT>
+			<NL>Kruisende waterwegen</NL>
+			<ES>Vías fluviales que se cruzan</ES>
+		</L00344>
+		<L00345>
+			<DE>Ruinen von Kyzikos</DE>
+			<EN>Cyzikus'un Harabeleri</EN>
+			<FR>Ruines de Cyzique</FR>
+			<IT>Rovine di Kyzikos</IT>
+			<NL>Ruïne van Kyzidos</NL>
+			<ES>Ruinas de Cícico</ES>
+		</L00345>
+		<L00346>
+			<DE>Maske der Thalia</DE>
+			<EN>Thalia'nin Maskesi</EN>
+			<FR>Masque de Thalie</FR>
+			<IT>Maschera di Talia</IT>
+			<NL>Masker van Thalia</NL>
+			<ES>Máscara de Talía</ES>
+		</L00346>
+		<L00347>
+			<DE>Krone des Thetis</DE>
+			<EN>Thetis'in Taci</EN>
+			<FR>Couronne de Thétis</FR>
+			<IT>Corona di Teti</IT>
+			<NL>Kroon van Thetis</NL>
+			<ES>Corona de Tetiso</ES>
+		</L00347>
+		<L00351>
+			<DE>Am Schiffsruder</DE>
+			<EN>Geminin Dümeninde</EN>
+			<FR>Au gouvernail</FR>
+			<IT>Al timone navale</IT>
+			<NL>Aan het scheepsroer</NL>
+			<ES>En el timón</ES>
+		</L00351>
+		<L00352>
+			<DE>Tempel des Hades</DE>
+			<EN>Hades'in Tapinagi</EN>
+			<FR>Temple d'Hadès</FR>
+			<IT>Tempio di Ade</IT>
+			<NL>Tempel van Hades</NL>
+			<ES>Templo de Hades</ES>
+		</L00352>
+		<L00353>
+			<DE>Chimairas Maske</DE>
+			<EN>Chimera'nin Maskesi</EN>
+			<FR>Masque de Chimère</FR>
+			<IT>Maschera di Chimera</IT>
+			<NL>Chimaira's masker</NL>
+			<ES>Máscara de Quimera</ES>
+		</L00353>
+		<L00355>
+			<DE>Tempel der Rinderställe des Augias</DE>
+			<EN>Augeas'in Ahirlari Tapinagi</EN>
+			<FR>Temple des écuries d'Augias</FR>
+			<IT>Tempio delle stalle bovine di Augia</IT>
+			<NL>Tempel van de runderstallen van Augias</NL>
+			<ES>Templo del establo de Augías</ES>
+		</L00355>
+		<L00358>
+			<DE>Amulett des Orthos</DE>
+			<EN>Orthos'un Muskasi</EN>
+			<FR>Amulette d'Orthos</FR>
+			<IT>Amuleto di Olinto</IT>
+			<NL>Amulet van Orthos</NL>
+			<ES>Amuleto de Ortro</ES>
+		</L00358>
+		<L00363>
+			<DE>Mythos von Olynth</DE>
+			<EN>Olynthus'un Efsanesi</EN>
+			<FR>Mythe d'Olynthe</FR>
+			<IT>Mito di Olinto</IT>
+			<NL>Mythe van Olynth</NL>
+			<ES>Mito del Olimpo</ES>
+		</L00363>
+		<L00366>
+			<DE>Unterwasserruinen</DE>
+			<EN>Sualti Harabeleri</EN>
+			<FR>Ruines sous-marines</FR>
+			<IT>Rovine sottomarine</IT>
+			<NL>Onderwater-ruïnes</NL>
+			<ES>Ruinas submarinas</ES>
+		</L00366>
+		<L00368>
+			<DE>Skulptur des Ajax dem Großen</DE>
+			<EN>Ajax the Great'in Heykeli</EN>
+			<FR>Sculpture d'Ajax Le Grand</FR>
+			<IT>Scultura di Aiace il Grande</IT>
+			<NL>Sculptuur van Ajax de Grote</NL>
+			<ES>Escultura de Ájax el Grande</ES>
+		</L00368>
+		<L00371>
+			<DE>Juwel der Hydra</DE>
+			<EN>Hidranin Mücevheri</EN>
+			<FR>Joyau de l'Hydre</FR>
+			<IT>Gioielli di Idra</IT>
+			<NL>Juweel van de Hydra</NL>
+			<ES>Joya de la Hidra</ES>
+		</L00371>
+		<L00372>
+			<DE>Brücke des Hermes</DE>
+			<EN>Hermes'in Köprüsü</EN>
+			<FR>Pont d'Hermès</FR>
+			<IT>Ponti di Ermes</IT>
+			<NL>Brug van Hermes</NL>
+			<ES>Puente de Hermes</ES>
+		</L00372>
+		<L00379>
+			<DE>Land in Sicht!</DE>
+			<EN>Kara Göründü!</EN>
+			<FR>Terre en vue!</FR>
+			<IT>Terra in vista!</IT>
+			<NL>Land in zicht!</NL>
+			<ES>¡Tierra a la vista!</ES>
+		</L00379>
+		<L00384>
+			<DE>Poseidons Macht</DE>
+			<EN>Poseidon'un Gücü</EN>
+			<FR>Puissance de Poséidon</FR>
+			<IT>Potere di Poseidone</IT>
+			<NL>Poseidon's macht</NL>
+			<ES>Poder de Poseidón</ES>
+		</L00384>
+		<L00388>
+			<DE>Schwert des Perseus</DE>
+			<EN>Perseus'un Kilici</EN>
+			<FR>Epée de Persée</FR>
+			<IT>Spada di Perseo</IT>
+			<NL>Zwaard van Perseus</NL>
+			<ES>Espada de Perseo</ES>
+		</L00388>
+		<L00390>
+			<DE>Maske von Priamos</DE>
+			<EN>Priam'in Maskesi</EN>
+			<FR>Masque de Priam</FR>
+			<IT>Maschera di Priamo</IT>
+			<NL>Masker van Priamus</NL>
+			<ES>Mascara de Príamo</ES>
+		</L00390>
+		<L00393>
+			<DE>Der Hafen</DE>
+			<EN>Liman</EN>
+			<FR>Port</FR>
+			<IT>Il porto</IT>
+			<NL>De haven</NL>
+			<ES>El puerto</ES>
+		</L00393>
+		<L00394>
+			<DE>Große Schiffsflotte</DE>
+			<EN>Büyük Filo</EN>
+			<FR>Grande flotte navale</FR>
+			<IT>Grande flotta navale</IT>
+			<NL>Grote scheepsvloot</NL>
+			<ES>Gran flota de barcos</ES>
+		</L00394>
+		<L00395>
+			<DE>Büste von Ephyra</DE>
+			<EN>Kichyro'nun Büstü</EN>
+			<FR>Buste d'Ephyra</FR>
+			<IT>Busto di Efira</IT>
+			<NL>Buste van Ephyra</NL>
+			<ES>Busto de Éfira</ES>
+		</L00395>
+		<L00396>
+			<DE>Denkmal des Sisyphos</DE>
+			<EN>Sisyphus'un Aniti</EN>
+			<FR>Monument de Sisyphe</FR>
+			<IT>Monumento di Sisifo</IT>
+			<NL>Monument van Sisyphos</NL>
+			<ES>Monumento de Sísifo</ES>
+		</L00396>
+		<L00398>
+			<DE>Altar des Hektor</DE>
+			<EN>Hector'un Sunagi</EN>
+			<FR>Autel d'Hector</FR>
+			<IT>Altare di Ettore</IT>
+			<NL>Altaar van Hektor</NL>
+			<ES>Altar de Héctor</ES>
+		</L00398>
+		<L00400>
+			<DE>Einsame Pfade</DE>
+			<EN>Yalniz Patika</EN>
+			<FR>Sentiers isolés</FR>
+			<IT>Sentieri isolati</IT>
+			<NL>Eenzame paden</NL>
+			<ES>Senda Solitaria</ES>
+		</L00400>
+		<L00404>
+			<DE>Schild von Oknos</DE>
+			<EN>Ocnus'un Kalkani</EN>
+			<FR>Bouclier d'Oknos</FR>
+			<IT>Scudo di Oknos</IT>
+			<NL>Schild van Oknos</NL>
+			<ES>Escudo de Ocnos</ES>
+		</L00404>
+		<L00409>
+			<DE>Tal des Zelos</DE>
+			<EN>Zelus'un Vadisi</EN>
+			<FR>Vallée de Zélos</FR>
+			<IT>Valle di Zelo</IT>
+			<NL>Dal van Zelos</NL>
+			<ES>Valle de Zelo</ES>
+		</L00409>
+		<L00417>
+			<DE>Statuette der Chimaira</DE>
+			<EN>Chimera'nin Idolü</EN>
+			<FR>Statuette de Chimère</FR>
+			<IT>Statuetta di Chimera</IT>
+			<NL>Beeldje van Chimaira</NL>
+			<ES>Estatuilla de Quimera</ES>
+		</L00417>
+		<L00420>
+			<DE>Klippen des Wahnsinns</DE>
+			<EN>Deliligin Uçurumlari</EN>
+			<FR>Ecueils de la folie</FR>
+			<IT>Scogliere della Follia</IT>
+			<NL>Klippen van de waanzin</NL>
+			<ES>Risco de la Locura</ES>
+		</L00420>
+		<L00421>
+			<DE>Skulptur der Maia</DE>
+			<EN>Maia'nin Heykeli</EN>
+			<FR>Sculpture de Maia</FR>
+			<IT>Scultura di Maia</IT>
+			<NL>Sculptuur van Maia</NL>
+			<ES>Escultura de Maya</ES>
+		</L00421>
+		<L00423>
+			<DE>Schrein der Hybris</DE>
+			<EN>Kibirin Tapinagi</EN>
+			<FR>Reliquaire d'Hybris</FR>
+			<IT>Scrigno di Hybris</IT>
+			<NL>Schrijn van de Hybris</NL>
+			<ES>Santuario de Hibris</ES>
+		</L00423>
+		<L00424>
+			<DE>Die Schatzkammer</DE>
+			<EN>Hazine Odasi</EN>
+			<FR>Salle du trésor</FR>
+			<IT>La camera dei tesori</IT>
+			<NL>De schatkamer</NL>
+			<ES>La cámara del tesoro</ES>
+		</L00424>
+		<L00425>
+			<DE>Gold und Juwelen</DE>
+			<EN>Altin ve Mücevherler</EN>
+			<FR>Or et joyaux</FR>
+			<IT>Oro e Gioielli</IT>
+			<NL>Goud en juwelen</NL>
+			<ES>Oro y joyas</ES>
+		</L00425>
+		<L00429>
+			<DE>Pheneos Vase</DE>
+			<EN>Pheneo'nun Vazosu</EN>
+			<FR>Vase de Phénéos</FR>
+			<IT>Vaso di Feneo</IT>
+			<NL>Pheneos' vaas</NL>
+			<ES>Vasija de Feneo</ES>
+		</L00429>
+		<L00438>
+			<DE>Straße des Asopos</DE>
+			<EN>Asopus'un Sokagi</EN>
+			<FR>Rue d'Asopos</FR>
+			<IT>Strada di Asopos</IT>
+			<NL>Straat van Asopos</NL>
+			<ES>Calle de Asopo</ES>
+		</L00438>
+		<L00453>
+			<DE>Ein steiniger Weg</DE>
+			<EN>Kayalik Bir Patika</EN>
+			<FR>Chemin rocailleux</FR>
+			<IT>Un sentiero pietrificato</IT>
+			<NL>Een stenige weg</NL>
+			<ES>Un camino pedregoso</ES>
+		</L00453>
+		<L00465>
+			<DE>Statuette des Heros</DE>
+			<EN>Heros'un Idolü</EN>
+			<FR>Statuette de Héro</FR>
+			<IT>Statuetta di Eros</IT>
+			<NL>Beeldje van Heros</NL>
+			<ES>Ídolo de Eros</ES>
+		</L00465>
+		<L00466>
+			<DE>Skulptur des Ares</DE>
+			<EN>Ares'in Heykeli</EN>
+			<FR>Sculpture d'Arès</FR>
+			<IT>Scultura di Ares</IT>
+			<NL>Sculptuuur van Ares</NL>
+			<ES>Escultura de Ares</ES>
+		</L00466>
+		<L00470>
+			<DE>Haus von Oaxos</DE>
+			<EN>Oaxos'un Evi</EN>
+			<FR>Maison d'Oaxos</FR>
+			<IT>Casa di Oaxos</IT>
+			<NL>Huis van Oaxos</NL>
+			<ES>Casa de Oaxos</ES>
+		</L00470>
+		<L00477>
+			<DE>Tal von Nichoria</DE>
+			<EN>Nichoria'nin Vadisi</EN>
+			<FR>Vallée de Nichoria</FR>
+			<IT>Valle di Nichoria</IT>
+			<NL>Dal van Nichoria</NL>
+			<ES>Valle de Nicoria</ES>
+		</L00477>
+		<L00484>
+			<DE>Labyrinth von Iskenderun</DE>
+			<EN>Iskenderun'un Labirenti</EN>
+			<FR>Labyrinthe d'Alexandrette</FR>
+			<IT>Labirinto di Iskenderun</IT>
+			<NL>Labyrint van Iskenderun</NL>
+			<ES>Laberinto de Alejandreta</ES>
+		</L00484>
+		<L00486>
+			<DE>Straße von Gortya</DE>
+			<EN>Gortyn'un Sokagi</EN>
+			<FR>Rue de Gortyne</FR>
+			<IT>Strada di Gortya</IT>
+			<NL>Straat van Gortya</NL>
+			<ES>Calle de Gortina</ES>
+		</L00486>
+		<L00490>
+			<DE>Pfeil des Ixion</DE>
+			<EN>Ixion'un Oku</EN>
+			<FR>Flèche d'Ixion</FR>
+			<IT>Dardo di Issione</IT>
+			<NL>Pijl van Ixion</NL>
+			<ES>Flecha de Ixión</ES>
+		</L00490>
+		<L00510>
+			<DE>Tore des Atlas</DE>
+			<EN>Atlas'in Kapilari</EN>
+			<FR>Portes d'Atlas</FR>
+			<IT>Porte di Atlas</IT>
+			<NL>Poorten van Atlas</NL>
+			<ES>Puertas de Atlas</ES>
+		</L00510>
+		<L00511>
+			<DE>Statue des Atlas</DE>
+			<EN>Atlas'in Heykeli</EN>
+			<FR>Statue d'Atlas</FR>
+			<IT>Statua di Atlas</IT>
+			<NL>Beeld van Atlas</NL>
+			<ES>Estatua de Atlas</ES>
+		</L00511>
+		<L00516>
+			<DE>Die Inschrift des Sockels</DE>
+			<EN>Kaide Üzerindeki Yazit</EN>
+			<FR>Épigraphe du socle</FR>
+			<IT>L'epigrafe del piedistallo</IT>
+			<NL>Het opschrift van de sokkel</NL>
+			<ES>La inscripción del zócalo</ES>
+		</L00516>
+		<L00519>
+			<DE>Nektar von Eos</DE>
+			<EN>Eos'un Nektari</EN>
+			<FR>Nectar d'Eos</FR>
+			<IT>Nettare di Eos</IT>
+			<NL>Nectar van Eos</NL>
+			<ES>Néctar de Eos</ES>
+		</L00519>
+		<L00534>
+			<DE>Der Weg zur Stadt</DE>
+			<EN>Sehre Giden Yol</EN>
+			<FR>Chemin vers la ville</FR>
+			<IT>La via alla città</IT>
+			<NL>De weg naar de stad</NL>
+			<ES>Camino de la ciudad</ES>
+		</L00534>
+		<L00541>
+			<DE>Mythos der Titanen</DE>
+			<EN>Titanlarin Efsanesi</EN>
+			<FR>Mythe des Titans</FR>
+			<IT>Mito dei Titani</IT>
+			<NL>Mythen van de Titanen</NL>
+			<ES>Mito de los Titanes</ES>
+		</L00541>
+		<L00546>
+			<DE>Szenen eines Kampfes</DE>
+			<EN>Bir Savasin Sahnesi</EN>
+			<FR>Scènes d'une bataille</FR>
+			<IT>Scene di una battaglia</IT>
+			<NL>Scènes van een gevecht</NL>
+			<ES>Escenas de una batalla</ES>
+		</L00546>
+		<L00548>
+			<DE>Gärten der Irene</DE>
+			<EN>Irene'nin Bahçeleri</EN>
+			<FR>Jardins d'Irène</FR>
+			<IT>Giardini di Irene</IT>
+			<NL>Tuinen van Irene</NL>
+			<ES>Jardines de Irene</ES>
+		</L00548>
+		<L00557>
+			<DE>Blühende Felder</DE>
+			<EN>Çiçek Açan Tarlalar</EN>
+			<FR>Champs en fleurs</FR>
+			<IT>Campi rigogliosi</IT>
+			<NL>Bloeiende velden</NL>
+			<ES>Campos florecientes</ES>
+		</L00557>
+		<L00600>
+			<DE>Tempel des Vergessens</DE>
+			<EN>Unutulusun Tapinagi</EN>
+			<FR>Temple de l'oubli</FR>
+			<IT>Tempio dell' Oblio</IT>
+			<NL>Tempel van de vergetelheid</NL>
+			<ES>Templo del Olvido</ES>
+		</L00600>
+		<L00601>
+			<DE>Weggabelungen</DE>
+			<EN>Yol Ayrimi</EN>
+			<FR>Bifurcations</FR>
+			<IT>Crocevia</IT>
+			<NL>Wegsplitsingen</NL>
+			<ES>Bifurcaciones</ES>
+		</L00601>
+		<L00602>
+			<DE>Büste der Elektra</DE>
+			<EN>Electra'nin Büstü</EN>
+			<FR>Buste d'Elèctre</FR>
+			<IT>Busto di Elettra</IT>
+			<NL>Buste van Elektra</NL>
+			<ES>Busto de Electra</ES>
+		</L00602>
+		<L00603>
+			<DE>Die Stadt</DE>
+			<EN>Sehir</EN>
+			<FR>Ville</FR>
+			<IT>La città</IT>
+			<NL>De stad</NL>
+			<ES>La ciudad</ES>
+		</L00603>
+		<L00604>
+			<DE>Die Stadtbibliothek</DE>
+			<EN>Sehir Kütüphanesi</EN>
+			<FR>Bibliothèque de la ville</FR>
+			<IT>La Biblioteca Comunale</IT>
+			<NL>De stadsbibliotheek</NL>
+			<ES>La Biblioteca de la ciudad</ES>
+		</L00604>
+		<L00606>
+			<DE>Hochtempel des Hephaistos</DE>
+			<EN>Hephaestus'un Yüce Tapinagi</EN>
+			<FR>Temple haut d'Héphaïstos</FR>
+			<IT>Alto Tempio di Efesto</IT>
+			<NL>Hoge tempel van Hephaistos</NL>
+			<ES>Templo Supremo de Hefesto</ES>
+		</L00606>
+		<L00608>
+			<DE>Straße von Angele</DE>
+			<EN>Angele'nin Sokagi</EN>
+			<FR>Rue d'Angel</FR>
+			<IT>Strada degli Angeli</IT>
+			<NL>Straat van Angele</NL>
+			<ES>Calle de Angele</ES>
+		</L00608>
+		<L00609>
+			<DE>Palast von Alt-Thera</DE>
+			<EN>Old Thera'nin Sarayi</EN>
+			<FR>Palais de l'ancienne Théra</FR>
+			<IT>Palazzo di Thera antica</IT>
+			<NL>Paleis van Oud-Thera</NL>
+			<ES>Palacio de la antigua Thera</ES>
+		</L00609>
+		<L00610>
+			<DE>Brücke von Dardanos</DE>
+			<EN>Dardanus'un Köprüsü</EN>
+			<FR>Pont de Dardanos</FR>
+			<IT>Ponti dei Dardani</IT>
+			<NL>Brug van Dardanos</NL>
+			<ES>Puente de Dárdano</ES>
+		</L00610>
+		<L00611>
+			<DE>Skulptur des Zeus</DE>
+			<EN>Zeus'un Heykeli</EN>
+			<FR>Sculpture de Zeus</FR>
+			<IT>Scultura di Zeus</IT>
+			<NL>Sculptuur van Zeus</NL>
+			<ES>Escultura de Zeus</ES>
+		</L00611>
+		<L00612>
+			<DE>Pegasos der Eilethyia</DE>
+			<EN>Eileithyia'nin Pegasus'u</EN>
+			<FR>Pégase d'Ilithyie</FR>
+			<IT>Pegaso di Eilethyia</IT>
+			<NL>Pegasus van Eilethyia</NL>
+			<ES>Pegaso de Ilitía</ES>
+		</L00612>
+		<L00613>
+			<DE>Tritons Thronsaal</DE>
+			<EN>Triton'un Taht Odasi</EN>
+			<FR>Salle du trône de Triton</FR>
+			<IT>Sala del Trono di Tritone</IT>
+			<NL>Triton's troonzaal</NL>
+			<ES>Sala del Trono de Tritón</ES>
+		</L00613>
+		<L00614>
+			<DE>Helenas Statuette</DE>
+			<EN>Helena'nin Idolü</EN>
+			<FR>Statuette d'Hélène</FR>
+			<IT>Statuetta di Elena</IT>
+			<NL>Helena's beeldje</NL>
+			<ES>Ídolo de Helena</ES>
+		</L00614>
+		<L00615>
+			<DE>Das Tor zum Himmel</DE>
+			<EN>Cennetin Kapisi</EN>
+			<FR>Porte du ciel</FR>
+			<IT>La Porta al Cielo</IT>
+			<NL>De poort naar de hemel</NL>
+			<ES>La puerta del Cielo</ES>
+		</L00615>
+		<L00616>
+			<DE>Die Spitze des Bergs</DE>
+			<EN>Dagin Zirvesi</EN>
+			<FR>Sommet de la montagne</FR>
+			<IT>Le cime della montagna</IT>
+			<NL>De top van de berg</NL>
+			<ES>La Cima de la montaña</ES>
+		</L00616>
+		<L00618>
+			<DE>Flure der Weisheit</DE>
+			<EN>Bilgeligin Koridorlari</EN>
+			<FR>Couloirs de la sagesse</FR>
+			<IT>Corridoi della saggezza</IT>
+			<NL>Vloeren van de wijsheid</NL>
+			<ES>Corredores de la Sabiduría</ES>
+		</L00618>
+		<L00619>
+			<DE>Rätselhafte Gewissheit</DE>
+			<EN>Gizemli Kesinlik</EN>
+			<FR>Mystérieuse certitude</FR>
+			<IT>Certezza enigmatica</IT>
+			<NL>Raadselachtige zekerheid</NL>
+			<ES>Certeza enigmática</ES>
+		</L00619>
+		<L00620>
+			<DE>Das Orakel</DE>
+			<EN>Kâhin</EN>
+			<FR>Oracle</FR>
+			<IT>L'Oracolo</IT>
+			<NL>Het orakel</NL>
+			<ES>El Oráculo</ES>
+		</L00620>
+		<L00621>
+			<DE>Der Pfad nach Süden</DE>
+			<EN>Güneye Giden Yol</EN>
+			<FR>Sentier vers le Sud</FR>
+			<IT>Il sentiero verso sud</IT>
+			<NL>Het pad naar het zuiden</NL>
+			<ES>La Senda del Sur</ES>
+		</L00621>
+		<L00622>
+			<DE>Am Fuße der Säulen</DE>
+			<EN>Sütunlarin Eteginde</EN>
+			<FR>Aux pieds des colonnes</FR>
+			<IT>Ai piedi delle colonne</IT>
+			<NL>Aan de voet van de zuilen</NL>
+			<ES>A los pies de las columnas</ES>
+		</L00622>
+		<L00623>
+			<DE>Endlose Stufen</DE>
+			<EN>Sonsuz Basamaklar</EN>
+			<FR>Marches sans fin</FR>
+			<IT>Gradini infiniti</IT>
+			<NL>Eindeloze treden</NL>
+			<ES>Escalones interminables</ES>
+		</L00623>
+		<L00625>
+			<DE>Labyrinth von Erebos</DE>
+			<EN>Erebus'un Labirenti</EN>
+			<FR>Labyrinthe d'Erèbe</FR>
+			<IT>Labirinto di Erebos</IT>
+			<NL>Labyrint van Erebos</NL>
+			<ES>Laberinto de Érebo</ES>
+		</L00625>
+		<L00626>
+			<DE>Juwel der Arachne</DE>
+			<EN>Arachne'nin Mücevheri</EN>
+			<FR>Joyau d'Arachné</FR>
+			<IT>Gioielli di Aracne</IT>
+			<NL>Juweel van Arachne</NL>
+			<ES>Joya de Aracne</ES>
+		</L00626>
+		<L00627>
+			<DE>Schrein von Aptera</DE>
+			<EN>Aptera'nin Tapinagi</EN>
+			<FR>Reliquaire d'Aptera</FR>
+			<IT>Scrigno di Aptera</IT>
+			<NL>Schrijn van Aptera</NL>
+			<ES>Santuario de Aptera</ES>
+		</L00627>
+		<L00629>
+			<DE>Harmonias Büste</DE>
+			<EN>Harmonia'nin Büstü</EN>
+			<FR>Buste d'Harmonie</FR>
+			<IT>Busto di Armonia</IT>
+			<NL>Harmonia's buste</NL>
+			<ES>Busto de Harmonía</ES>
+		</L00629>
+		<L00630>
+			<DE>Tempel des Hades</DE>
+			<EN>Hades'in Tapinagi</EN>
+			<FR>Temple d'Hadès</FR>
+			<IT>Tempio dell' Ade</IT>
+			<NL>Tempel van Hades</NL>
+			<ES>Templo de Hades</ES>
+		</L00630>
+		<L00631>
+			<DE>Gärten von Athene</DE>
+			<EN>Athena'nin Bahçeleri</EN>
+			<FR>Jardins d'Athéna</FR>
+			<IT>Giardini di Atene</IT>
+			<NL>Tuinen van Athene</NL>
+			<ES>Jardín de Atenas</ES>
+		</L00631>
+		<L00633>
+			<DE>Karaffe des Typhon</DE>
+			<EN>Typhon'un Sürahisi</EN>
+			<FR>Carafe de Typhon</FR>
+			<IT>Caraffa di Tifone</IT>
+			<NL>Karaf van Typhon</NL>
+			<ES>Garrafa del Tifón</ES>
+		</L00633>
+		<L00634>
+			<DE>Tal des Chaos</DE>
+			<EN>Kaosun Vadisi</EN>
+			<FR>Vallée du Chaos</FR>
+			<IT>Valle del Caos</IT>
+			<NL>Dal van de Chaos</NL>
+			<ES>Valle del Caos</ES>
+		</L00634>
+		<L00635>
+			<DE>Schild des Ikaros</DE>
+			<EN>Icarus'un Kalkani</EN>
+			<FR>Bouclier d'Icare</FR>
+			<IT>Scudo di Icaro</IT>
+			<NL>Schild van Ikarus</NL>
+			<ES>Escudo de Ícaro</ES>
+		</L00635>
+		<L00637>
+			<DE>Thronsaal des Hephaistos</DE>
+			<EN>Hephaestus'un Taht Odasi</EN>
+			<FR>Salle du trône d'Héphaïstos</FR>
+			<IT>Sala del Trono di Efesto</IT>
+			<NL>Troonzaal van Hephaistos</NL>
+			<ES>Sala del Trono de Hefesto</ES>
+		</L00637>
+		<L00638>
+			<DE>Tempel des Hephaistos</DE>
+			<EN>Hephaestus'un Tapinagi</EN>
+			<FR>Temple d'Héphaïstos</FR>
+			<IT>Tempio di Efesto</IT>
+			<NL>Tempel van Hephaistos</NL>
+			<ES>Templo de Hefesto</ES>
+		</L00638>
+		<L00639>
+			<DE>Die goldene Statue</DE>
+			<EN>Altin Heykel</EN>
+			<FR>Statue en or</FR>
+			<IT>La Statua dorata</IT>
+			<NL>Het gouden beeld</NL>
+			<ES>La estatua de oro</ES>
+		</L00639>
+		<L00641>
+			<DE>Boreas Straße</DE>
+			<EN>Boreas Sokagi</EN>
+			<FR>Rue de Borée</FR>
+			<IT>Strada di Borea</IT>
+			<NL>Borea's straat</NL>
+			<ES>Calle Boreas</ES>
+		</L00641>
+		<L00642>
+			<DE>Säulen der Gnade</DE>
+			<EN>Merhamedin Sütunlari</EN>
+			<FR>Colonnes de la grâce</FR>
+			<IT>Colonne della Grazia</IT>
+			<NL>Zuilen van genade</NL>
+			<ES>Columnas de la Misericordia</ES>
+		</L00642>
+		<L00643>
+			<DE>Nektar des Herakles</DE>
+			<EN>Heracles'in Nektari</EN>
+			<FR>Nectar d'Héraclès</FR>
+			<IT>Nettare di Eracle</IT>
+			<NL>Nectar van Herakles</NL>
+			<ES>Néctar de Heracles</ES>
+		</L00643>
+		<L00644>
+			<DE>Latos Gärten</DE>
+			<EN>Lato'nun Bahçesi</EN>
+			<FR>Jardins de Lato</FR>
+			<IT>Giardini di Latios</IT>
+			<NL>Lato's tuinen</NL>
+			<ES>Jardín de Latos</ES>
+		</L00644>
+		<L00645>
+			<DE>Calydons Skulptur</DE>
+			<EN>Calydon'un Heykeli</EN>
+			<FR>Sculpture de Calydon</FR>
+			<IT>Scultura di Calidone</IT>
+			<NL>Calydon's sculptuur</NL>
+			<ES>Escultura de Calidón</ES>
+		</L00645>
+		<L00647>
+			<DE>Ruinen von Aulis</DE>
+			<EN>Avlida'nin Harabeleri</EN>
+			<FR>Ruines d'Aulis</FR>
+			<IT>Rovine di Aulis</IT>
+			<NL>Ruïnes van Aulis</NL>
+			<ES>Ruinas de Áulide</ES>
+		</L00647>
+		<L00648>
+			<DE>Uranias Juwel</DE>
+			<EN>Urania'nin Mücevheri</EN>
+			<FR>Joyau d'Uranie</FR>
+			<IT>Gioielli di Uranio</IT>
+			<NL>Urania's juweel</NL>
+			<ES>Joya de Uranio</ES>
+		</L00648>
+		<L00649>
+			<DE>Der Weg zum Theater</DE>
+			<EN>Tiyatroya Giden Yol</EN>
+			<FR>Chemin vers le théâtre</FR>
+			<IT>La via al teatro</IT>
+			<NL>De weg naar het theater</NL>
+			<ES>El camino hacia el teatro</ES>
+		</L00649>
+		<L00650>
+			<DE>Maske des Uranos</DE>
+			<EN>Uranus'un Maskesi</EN>
+			<FR>Masque d'Ouranos</FR>
+			<IT>Maschera di Uranio</IT>
+			<NL>Masker van Uranus</NL>
+			<ES>Máscara de Urano</ES>
+		</L00650>
+		<L00651>
+			<DE>Die Halle der Künste</DE>
+			<EN>Sanatlarin Salonu</EN>
+			<FR>Salle des arts</FR>
+			<IT>La Sala delle Arti</IT>
+			<NL>De hal van de kunst</NL>
+			<ES>El pabellón del Arte</ES>
+		</L00651>
+		<L00652>
+			<DE>Statue des Dyonisos</DE>
+			<EN>Dionysus'un Heykeli</EN>
+			<FR>Statue de Dionysos</FR>
+			<IT>Statua di Dioniso</IT>
+			<NL>Beeld van Dionysos</NL>
+			<ES>Estatua de Dionisio</ES>
+		</L00652>
+		<L00653>
+			<DE>Die runde Tribüne</DE>
+			<EN>Yuvarlak Tribün</EN>
+			<FR>Tribune ronde</FR>
+			<IT>La tribuna tonda</IT>
+			<NL>De ronde tribune</NL>
+			<ES>La tribuna redonda</ES>
+		</L00653>
+		<L00654>
+			<DE>Heras Büste</DE>
+			<EN>Hera'nin Büstü</EN>
+			<FR>Buste d'Héra</FR>
+			<IT>Busto di Era</IT>
+			<NL>Hera's buste</NL>
+			<ES>Busto de Hera</ES>
+		</L00654>
+		<L00655>
+			<DE>Straße des Asopos</DE>
+			<EN>Asopus'un Sokagi</EN>
+			<FR>Rue d'Asopos</FR>
+			<IT>Strada di Asopos</IT>
+			<NL>Straat van Asopos</NL>
+			<ES>Calle de Asopo</ES>
+		</L00655>
+		<L00656>
+			<DE>Tor von Kavala</DE>
+			<EN>Kavala'nin Kapisi</EN>
+			<FR>Porte de Kavala</FR>
+			<IT>Porta di Kavala</IT>
+			<NL>Poort van Kavala</NL>
+			<ES>Puerta de Cábala</ES>
+		</L00656>
+		<L00657>
+			<DE>Apollons Schwert</DE>
+			<EN>Apollo'nun Kilici</EN>
+			<FR>Epée d'Apollon</FR>
+			<IT>Spada di Apollo</IT>
+			<NL>Apollo's zwaard</NL>
+			<ES>Espada de Apolo</ES>
+		</L00657>
+		<L00658>
+			<DE>Entlang des Wassers</DE>
+			<EN>Suyun Boyunca</EN>
+			<FR>Le long de l'eau</FR>
+			<IT>Lungo l'acqua</IT>
+			<NL>Langs het water</NL>
+			<ES>A lo largo del agua</ES>
+		</L00658>
+		<L00659>
+			<DE>Neapels Brücke</DE>
+			<EN>Naples Köprüsü</EN>
+			<FR>Pont de Naples</FR>
+			<IT>Ponti di Napoli</IT>
+			<NL>Napels' brug</NL>
+			<ES>Puente de Nápoles</ES>
+		</L00659>
+		<L00660>
+			<DE>Tal des Zelos</DE>
+			<EN>Zelus'un Vadisi</EN>
+			<FR>Vallée de Zélos</FR>
+			<IT>Valle di Zelos</IT>
+			<NL>Dal van Zelos</NL>
+			<ES>Valle de Zelo</ES>
+		</L00660>
+		<L00661>
+			<DE>Toga aus Abdera</DE>
+			<EN>Abdera'dan Toga</EN>
+			<FR>Toge d'Abdère</FR>
+			<IT>Toga di Abdera</IT>
+			<NL>Toga uit Abdera</NL>
+			<ES>Toga de Abdera</ES>
+		</L00661>
+		<L00662>
+			<DE>Kammer der Kassandra</DE>
+			<EN>Cassandra'nin Odasi</EN>
+			<FR>Chambre de Cassandre</FR>
+			<IT>Camera di Cassandra</IT>
+			<NL>Kamer van Cassandra</NL>
+			<ES>Cámara de Casandra</ES>
+		</L00662>
+		<L00663>
+			<DE>Skulptur der Maia</DE>
+			<EN>Maia'nin Heykeli</EN>
+			<FR>Scuplture de Maia</FR>
+			<IT>Scultura di Maia</IT>
+			<NL>Sculptuur van Maia</NL>
+			<ES>Escultura de Maya</ES>
+		</L00663>
+		<L00664>
+			<DE>Eleas Mauern</DE>
+			<EN>Velia'nin Surlari</EN>
+			<FR>Murs d'Elée</FR>
+			<IT>Mura di Elea</IT>
+			<NL>Eleas' muren</NL>
+			<ES>Muros de Eleas</ES>
+		</L00664>
+		<L00665>
+			<DE>Straße des Asopos</DE>
+			<EN>Asopus'un Sokagi</EN>
+			<FR>Rue d'Asopos</FR>
+			<IT>Strada di Asopos</IT>
+			<NL>Straat van Asopos</NL>
+			<ES>Calle de Asopo</ES>
+		</L00665>
+		<L00666>
+			<DE>Toga des Pluto</DE>
+			<EN>Pluto'nun Togasi</EN>
+			<FR>Toge de Pluton</FR>
+			<IT>Toga di Plutone</IT>
+			<NL>Toga van Pluto</NL>
+			<ES>Toga de Plutón</ES>
+		</L00666>
+		<L00667>
+			<DE>Nikes Tempel</DE>
+			<EN>Nike'nin Tapinagi</EN>
+			<FR>Temple de Niké</FR>
+			<IT>Tempio di Nike</IT>
+			<NL>Nike's tempel</NL>
+			<ES>Templo de Atenea Niké</ES>
+		</L00667>
+		<L00668>
+			<DE>Mauern von Al-Minya</DE>
+			<EN>Al-Minya'nin Surlari</EN>
+			<FR>Murs d'Al-Minya</FR>
+			<IT>Mura di Al-Minya</IT>
+			<NL>Muren van Al-Minya</NL>
+			<ES>Muros de Menia</ES>
+		</L00668>
+		<L00669>
+			<DE>Buch der Nike</DE>
+			<EN>Nike'nin Kitabi</EN>
+			<FR>Livre de Niké</FR>
+			<IT>Libro di Nike</IT>
+			<NL>Boek van Nike</NL>
+			<ES>Libro de Atenea Niké</ES>
+		</L00669>
+		<L00670>
+			<DE>Statue der Nike</DE>
+			<EN>Nike'nin Heykeli</EN>
+			<FR>Statue de Niké</FR>
+			<IT>Statua di Nike</IT>
+			<NL>Beeld van Nike</NL>
+			<ES>Estatua de Atenea Niké</ES>
+		</L00670>
+		<L00671>
+			<DE>Denkmal des Sisyphos</DE>
+			<EN>Sisyphus'un Aniti</EN>
+			<FR>Monument de Sisyphe</FR>
+			<IT>Monumento di Sisifo</IT>
+			<NL>Monument van Sisyphos</NL>
+			<ES>Monumento de Sísifo</ES>
+		</L00671>
+		<L00672>
+			<DE>Gärten von Konstantinopel</DE>
+			<EN>Constantinople'nin Bahçeleri</EN>
+			<FR>Jardins de Constantinople</FR>
+			<IT>Giardini di Costantinopoli</IT>
+			<NL>Tuinen van Constantinopel</NL>
+			<ES>Jardín de Constantinopla</ES>
+		</L00672>
+		<L00673>
+			<DE>Krone von Myos</DE>
+			<EN>Myos'un Taci</EN>
+			<FR>Couronne de Myos</FR>
+			<IT>Corona di Myos</IT>
+			<NL>Kroon van Myos</NL>
+			<ES>Corona de Myos</ES>
+		</L00673>
+		<L00674>
+			<DE>Labyrinth der Selene</DE>
+			<EN>Selene'nin Labirenti</EN>
+			<FR>Labyrinthe de Séléné</FR>
+			<IT>Labirinto di Selene</IT>
+			<NL>Labyrint van Selene</NL>
+			<ES>Laberinto de Selene</ES>
+		</L00674>
+		<L00675>
+			<DE>Bogen der Giganten</DE>
+			<EN>Devlerin Kemeri</EN>
+			<FR>Arc des Géants</FR>
+			<IT>Arco dei Giganti</IT>
+			<NL>Boog van de Giganten</NL>
+			<ES>Arco de los Gigantes</ES>
+		</L00675>
+		<L00676>
+			<DE>Der Weg nach Osten</DE>
+			<EN>Doguya Giden Yol</EN>
+			<FR>Chemin vers l'Est</FR>
+			<IT>Il sentiero verso est</IT>
+			<NL>De weg naar het oosten</NL>
+			<ES>El Camino hacia el Este</ES>
+		</L00676>
+		<L00677>
+			<DE>Tor von Chaironeia</DE>
+			<EN>Chaironeia'nin Kapisi</EN>
+			<FR>Porte de Chéronée</FR>
+			<IT>Porta di Chaironeia</IT>
+			<NL>Poort van Chaironeia</NL>
+			<ES>Puerta de Queronea</ES>
+		</L00677>
+		<L00678>
+			<DE>Stauette des Acheron</DE>
+			<EN>Acheron'un Idolü</EN>
+			<FR>Statuette d'Achéron</FR>
+			<IT>Statuetta di Acheron</IT>
+			<NL>Beeldje van Acheron</NL>
+			<ES>Ídolo de Aqueronte</ES>
+		</L00678>
+		<L00679>
+			<DE>Palamons Thronsaal</DE>
+			<EN>Palaemon'un Taht Odasi</EN>
+			<FR>Salle du trône de Palémon</FR>
+			<IT>Sala del Trono di Palamone</IT>
+			<NL>Palamon's troonzaal</NL>
+			<ES>Sala del Trono de Palamon</ES>
+		</L00679>
+		<L00680>
+			<DE>Labyrinth von Lestrona</DE>
+			<EN>Lestrona'nin Labirenti</EN>
+			<FR>Labyrinthe de Lestrona</FR>
+			<IT>Labirinto di Lestrona</IT>
+			<NL>Labyrint van Lestrona</NL>
+			<ES>Laberinto de Lestrona</ES>
+		</L00680>
+		<L00681>
+			<DE>Tartaros Tempel</DE>
+			<EN>Tartaros Tapinagi</EN>
+			<FR>Temple de Tartare</FR>
+			<IT>Tempio di Tartaro</IT>
+			<NL>Tartaros' tempel</NL>
+			<ES>Templo de Tártaro</ES>
+		</L00681>
+		<L00682>
+			<DE>Pfeil der Megara</DE>
+			<EN>Megara'nin Oku</EN>
+			<FR>Flèche de Mégare</FR>
+			<IT>Freccia di Megara</IT>
+			<NL>Pijl van Megara</NL>
+			<ES>Flecha de Megara</ES>
+		</L00682>
+		<L00683>
+			<DE>Altar der Lethe</DE>
+			<EN>Lethe'nin Sunagi</EN>
+			<FR>Autel de Léthé</FR>
+			<IT>Altare di Lethe</IT>
+			<NL>Altaar van Lethe</NL>
+			<ES>Altar de Lete</ES>
+		</L00683>
+		<L00684>
+			<DE>Das siebente Weltwunder</DE>
+			<EN>Dünyanin Yedinci Harikasi</EN>
+			<FR>Septième merveille du monde</FR>
+			<IT>Il settimo prodigio</IT>
+			<NL>Het zevende wereldwonder</NL>
+			<ES>La séptima Maravilla del Mundo</ES>
+		</L00684>
+		<L00685>
+			<DE>Die Statue aus Bronze</DE>
+			<EN>Bronzdan Yapilmis Heykel</EN>
+			<FR>Statue de bronze</FR>
+			<IT>La Statua di Bronzo</IT>
+			<NL>Het bronzen beeld</NL>
+			<ES>Estatua de bronce</ES>
+		</L00685>
+		<L00686>
+			<DE>Die Hafeneinfahrt</DE>
+			<EN>Liman Girisi</EN>
+			<FR>Entrée du port</FR>
+			<IT>L'entrata al porto</IT>
+			<NL>De havenmond</NL>
+			<ES>Entrada del puerto</ES>
+		</L00686>
+		<L00687>
+			<DE>Brücke des Triton</DE>
+			<EN>Triton'un Köprüsü</EN>
+			<FR>Pont de Triton</FR>
+			<IT>Ponti di Tritone</IT>
+			<NL>Brug van Triton</NL>
+			<ES>Puente de Tritón</ES>
+		</L00687>
+		<L00688>
+			<DE>Maske des Bellerophon</DE>
+			<EN>Bellerophon'un Maskesi</EN>
+			<FR>Masque de Bellérophon</FR>
+			<IT>Maschera di Bellerofonte</IT>
+			<NL>Masker van Bellerophon</NL>
+			<ES>Máscara de Belerofonte</ES>
+		</L00688>
+		<L00689>
+			<DE>Palast von Elaia</DE>
+			<EN>Elaea'nin Sarayi</EN>
+			<FR>Palais d'Elaïa</FR>
+			<IT>Palazzo di Elaia</IT>
+			<NL>Paleis van Elaia</NL>
+			<ES>Palacio de Elaea</ES>
+		</L00689>
+		<L00690>
+			<DE>Tor des Odysseus</DE>
+			<EN>Odysseus'un Kapisi</EN>
+			<FR>Porte de l'Odyssée</FR>
+			<IT>Porta di Odisseo</IT>
+			<NL>Poort van Odysseus</NL>
+			<ES>Puerta de Odiseo</ES>
+		</L00690>
+		<L00691>
+			<DE>Der Pfad nach Norden</DE>
+			<EN>Kuzeye Giden Yol</EN>
+			<FR>Sentier vers le Nord</FR>
+			<IT>Il sentiero verso nord</IT>
+			<NL>Het pad naar het noorden</NL>
+			<ES>Senda hacia el Norte</ES>
+		</L00691>
+		<L00692>
+			<DE>Statuette von Barce</DE>
+			<EN>Barca'nin Idolü</EN>
+			<FR>Statuette de Barqa</FR>
+			<IT>Statuetta di Barce</IT>
+			<NL>Beeldje van Barce</NL>
+			<ES>Ídolo de Barca</ES>
+		</L00692>
+		<L00693>
+			<DE>Schwert des Herakles</DE>
+			<EN>Heracles'in Kilici</EN>
+			<FR>Epée d'Héraclès</FR>
+			<IT>Spada di Eracle</IT>
+			<NL>Zwaard van Herakles</NL>
+			<ES>Espada de Heracles</ES>
+		</L00693>
+		<L00694>
+			<DE>Denkmal des Helios</DE>
+			<EN>Helios'un Aniti</EN>
+			<FR>Monument d'Hélios</FR>
+			<IT>Monumento di Elio</IT>
+			<NL>Monument van Helios</NL>
+			<ES>Monumento de Helios</ES>
+		</L00694>
+		<L00695>
+			<DE>Tal von Kamarina</DE>
+			<EN>Kamarina'nin Vadisi</EN>
+			<FR>Vallée de Camarina</FR>
+			<IT>Valle di Kamarina</IT>
+			<NL>Dal van Kamarina</NL>
+			<ES>Valle de Camarina</ES>
+		</L00695>
+		<L00696>
+			<DE>Kammer des Theseus</DE>
+			<EN>Theseus'un Odasi</EN>
+			<FR>Chambre de Thésée</FR>
+			<IT>Camera di Teseo</IT>
+			<NL>Kamer van Theseus</NL>
+			<ES>Cámara de Teseo</ES>
+		</L00696>
+		<L00697>
+			<DE>Der Weg zum Parthenon</DE>
+			<EN>Parthenon'a Giden Yol</EN>
+			<FR>Chemin vers le Parthénon</FR>
+			<IT>La via al Partenone</IT>
+			<NL>De weg naar het Parthenon</NL>
+			<ES>Camino hacia el Partenón</ES>
+		</L00697>
+		<L00698>
+			<DE>Martkplatz von Locri</DE>
+			<EN>Lokri Pazaryeri</EN>
+			<FR>Place du marché de Locres</FR>
+			<IT>Piazza del Mercato di Locri</IT>
+			<NL>Marktplaats van Locri</NL>
+			<ES>Plaza del mercado de Locri</ES>
+		</L00698>
+		<L00699>
+			<DE>Schrein von Crotone</DE>
+			<EN>Crotone'nin Tapinagi</EN>
+			<FR>Reliquaire de Crotone</FR>
+			<IT>Scrigno di Crotone</IT>
+			<NL>Schrijn van Crotone</NL>
+			<ES>Santuario de Crotona</ES>
+		</L00699>
+		<L00700>
+			<DE>Die Säulen des Naos</DE>
+			<EN>Naos'un Sütunlari</EN>
+			<FR>Colonnes de Naos</FR>
+			<IT>Le Colonne di Naos</IT>
+			<NL>De zuilen van Naos</NL>
+			<ES>Columnas de Naos</ES>
+		</L00700>
+		<L00701>
+			<DE>Turiner Papyrus</DE>
+			<EN>Turin Papirüsü</EN>
+			<FR>Papyrus de Turin</FR>
+			<IT>Il Papiro di Torino</IT>
+			<NL>Turijnse papyrus</NL>
+			<ES>Papiro de Turín</ES>
+		</L00701>
+		<L00702>
+			<DE>Das Parthenon</DE>
+			<EN>Parthenon</EN>
+			<FR>Parthénon</FR>
+			<IT>Il Partenone</IT>
+			<NL>Het Parthenon</NL>
+			<ES>El Partenón</ES>
+		</L00702>
+		<L00703>
+			<DE>Die Ringhalle</DE>
+			<EN>Peripteros</EN>
+			<FR>Salle circulaire</FR>
+			<IT>L'Arena</IT>
+			<NL>De zuilengang</NL>
+			<ES>La Nave del Anillo</ES>
+		</L00703>
+		<L00704>
+			<DE>Eine lange Fahrt</DE>
+			<EN>Uzun Bir Yolculuk</EN>
+			<FR>Un long voyage</FR>
+			<IT>Un lungo tragitto</IT>
+			<NL>Een lange rit</NL>
+			<ES>Un largo viaje</ES>
+		</L00704>
+		<L00705>
+			<DE>Ruinen des Kaunos</DE>
+			<EN>Kaunos'un Harabeleri</EN>
+			<FR>Ruines de Caunos</FR>
+			<IT>Rovine di Kaunos</IT>
+			<NL>Ruïnes van Kaunos</NL>
+			<ES>Ruinas de Caunos</ES>
+		</L00705>
+		<L00706>
+			<DE>Tempel des Elysion</DE>
+			<EN>Elysium'un Tapinagi</EN>
+			<FR>Temple de l'Elysée</FR>
+			<IT>Tempio di Elysion</IT>
+			<NL>Tempel van Elysion</NL>
+			<ES>Templo de los Campos Elíseos</ES>
+		</L00706>
+		<L00707>
+			<DE>Auf den Spuren von Zeus</DE>
+			<EN>Zeus'un Izinde</EN>
+			<FR>Sur les traces de Zeus</FR>
+			<IT>Sulle orme di Zeus</IT>
+			<NL>Op de sporen van Zeus</NL>
+			<ES>Tras la pista de Zeus</ES>
+		</L00707>
+		<L00708>
+			<DE>Denkmal von Lyktos</DE>
+			<EN>Lyctus'un Aniti</EN>
+			<FR>Monument de Lyttos</FR>
+			<IT>Monumento di Lyktos</IT>
+			<NL>Monument van Lyktos</NL>
+			<ES>Monumento de Lictos</ES>
+		</L00708>
+		<L00709>
+			<DE>Mauern von Byzantion</DE>
+			<EN>Byzantium'un Surlari</EN>
+			<FR>Murs de Byzance</FR>
+			<IT>Mura Bizantine</IT>
+			<NL>Muren van Byzantium</NL>
+			<ES>Muros de Bizancio</ES>
+		</L00709>
+		<L00710>
+			<DE>Amulett des Chaos</DE>
+			<EN>Kaosun Muskasi</EN>
+			<FR>Amulette du Chaos</FR>
+			<IT>Amuleto del Caos</IT>
+			<NL>Amulet van de Chaos</NL>
+			<ES>Amuleto de Caos</ES>
+		</L00710>
+		<L00711>
+			<DE>Laokoons Pfeil</DE>
+			<EN>Laokoon'un Oku</EN>
+			<FR>Flèche de Laocoon</FR>
+			<IT>Dardo di Laokoon</IT>
+			<NL>Laocoön's pijl</NL>
+			<ES>Flecha de Laocoonte</ES>
+		</L00711>
+		<L00712>
+			<DE>Vase der Themis</DE>
+			<EN>Themis'in Vazosu</EN>
+			<FR>Vase de Thémis</FR>
+			<IT>Vaso di Temi</IT>
+			<NL>Vaas van de Themis</NL>
+			<ES>Vasija de Temis</ES>
+		</L00712>
+		<L00713>
+			<DE>Blitze des Perseus</DE>
+			<EN>Perseus'un Simsegi</EN>
+			<FR>Eclairs de Persée</FR>
+			<IT>Tuono di Perseo</IT>
+			<NL>Bliksem van Perseus</NL>
+			<ES>Rayo de Perseo</ES>
+		</L00713>
+		<L00714>
+			<DE>Gärten von Molpa</DE>
+			<EN>Molpa'nin Bahçeleri</EN>
+			<FR>Jardins de Molpa</FR>
+			<IT>Giardini di Molpa</IT>
+			<NL>Tuinen van Molpa</NL>
+			<ES>Jardines de Molpa</ES>
+		</L00714>
+		<L00715>
+			<DE>Juwel von Medjena</DE>
+			<EN>Messene'nin Mücevheri</EN>
+			<FR>Joyau de Medjena</FR>
+			<IT>Gioielli di Medea</IT>
+			<NL>Juweel van Medjena</NL>
+			<ES>Joya de Mesene</ES>
+		</L00715>
+		<L00716>
+			<DE>Statue des Heros</DE>
+			<EN>Heros'un Heykeli</EN>
+			<FR>Statue de Héro</FR>
+			<IT>Statua di Eros</IT>
+			<NL>Beeld van Heros</NL>
+			<ES>Estatua de Eros</ES>
+		</L00716>
+		<L00717>
+			<DE>Lousois Krone</DE>
+			<EN>Lousoi'nin Taci</EN>
+			<FR>Couronne de Lousoi</FR>
+			<IT>Corona di Lousoi</IT>
+			<NL>Lousoi's kroon</NL>
+			<ES>Corona de Lousoi</ES>
+		</L00717>
+		<L00718>
+			<DE>Heilige Urne</DE>
+			<EN>Kutsal Urna</EN>
+			<FR>Urne sacrée</FR>
+			<IT>Urna Sacra</IT>
+			<NL>Heilige urn</NL>
+			<ES>Urna Sagrada</ES>
+		</L00718>
+		<L00719>
+			<DE>Denkmal von Lyktos</DE>
+			<EN>Lyctus'un Aniti</EN>
+			<FR>Monument de Lyttos</FR>
+			<IT>Monumento di Lyktos</IT>
+			<NL>Monument van Lyktos</NL>
+			<ES>Monumento de Lictos</ES>
+		</L00719>
+		<L00720>
+			<DE>Ruinen von Abu Mena</DE>
+			<EN>Abu Mena'nin Harabeleri</EN>
+			<FR>Ruines d'Abou Mena</FR>
+			<IT>Rovine di Abu Mena</IT>
+			<NL>Ruïnes van Abu Mena</NL>
+			<ES>Ruinas de Abu Mena</ES>
+		</L00720>
+		<L00721>
+			<DE>Schild von Oknos</DE>
+			<EN>Oknos'un Kalkani</EN>
+			<FR>Bouclier d'Oknos</FR>
+			<IT>Scudo di Oknos</IT>
+			<NL>Schild van Oknos</NL>
+			<ES>Escudo de Ocnos</ES>
+		</L00721>
+		<L00722>
+			<DE>Tor der Korybanten</DE>
+			<EN>Korybantesin Kapisi</EN>
+			<FR>Porte des Korybantes</FR>
+			<IT>Porta dei Coribanti</IT>
+			<NL>Poort van de Korybanten</NL>
+			<ES>Puerta de los Coribantes</ES>
+		</L00722>
+		<L00723>
+			<DE>Laokoons Pfeil</DE>
+			<EN>Laokoon'un Oku</EN>
+			<FR>Flèche de Laocoon</FR>
+			<IT>Freccia di Laokoon</IT>
+			<NL>Laocoön's pijl</NL>
+			<ES>Flecha de Laocoonte</ES>
+		</L00723>
+		<L00724>
+			<DE>Tor des Artemis</DE>
+			<EN>Artemis'in Kapisi</EN>
+			<FR>Porte d'Artémis</FR>
+			<IT>Porta di Artemide</IT>
+			<NL>Poort van Artemis</NL>
+			<ES>Puerta de Artemisa</ES>
+		</L00724>
+		<L00725>
+			<DE>Lousois Krone</DE>
+			<EN>Lousoi'nin Taci</EN>
+			<FR>Couronne de Lousoi</FR>
+			<IT>Corona di Lousoi</IT>
+			<NL>Lousoi's kroon</NL>
+			<ES>Corona de Lousoi</ES>
+		</L00725>
+		<L00726>
+			<DE>Bogen der Nyx</DE>
+			<EN>Nyx'in Kemeri</EN>
+			<FR>Arc de Nyx</FR>
+			<IT>Arco della Notte</IT>
+			<NL>Bogen van de Nyx</NL>
+			<ES>Arco de Nix</ES>
+		</L00726>
+		<L00727>
+			<DE>Marktplatz von Nafplio</DE>
+			<EN>Nafplio'nun Pazaryeri</EN>
+			<FR>Place du marché de Nauplie</FR>
+			<IT>Piazza del mercato di Nauplia</IT>
+			<NL>Marktplaats van Nafplio</NL>
+			<ES>Plaza del mercado de Nauplio</ES>
+		</L00727>
+		<L00728>
+			<DE>Karaffe der Heilung</DE>
+			<EN>Sifanin Sürahisi</EN>
+			<FR>Carafe de la guérison</FR>
+			<IT>Caraffa della salvezza</IT>
+			<NL>Karaf van genezing</NL>
+			<ES>Garrafa de la Curación</ES>
+		</L00728>
+		<L00729>
+			<DE>Heros Buch</DE>
+			<EN>Hero'nun Kitabi</EN>
+			<FR>Livre d'Héro</FR>
+			<IT>Libro di Eros</IT>
+			<NL>Hero's boek</NL>
+			<ES>Busto de Eros</ES>
+		</L00729>
+		<L00730>
+			<DE>Das Athenaheiligtum</DE>
+			<EN>Athena'nin Kutsal Mekâni</EN>
+			<FR>La relique d'Athéna</FR>
+			<IT>Il Santuario di Atena</IT>
+			<NL>Het heiligdom van Athena</NL>
+			<ES>Santuario de Atenea</ES>
+		</L00730>
+		<L00731>
+			<DE>Schwert des Leander</DE>
+			<EN>Leander'in Kilici</EN>
+			<FR>Epée de Léandre</FR>
+			<IT>Spada di Leandro</IT>
+			<NL>Zwaard van Leander</NL>
+			<ES>Espada de Leandro</ES>
+		</L00731>
+		<L00732>
+			<DE>Die Akropolis von Pergamon</DE>
+			<EN>Pergamon'un Akropolü</EN>
+			<FR>Acropole de Pergame</FR>
+			<IT>Acropoli di Pergamo</IT>
+			<NL>De Akropolis van Pergamon</NL>
+			<ES>El Acrópolis de Pérgamo</ES>
+		</L00732>
+		<L00733>
+			<DE>Tor des Korybanten</DE>
+			<EN>Korybantenin Kapisi</EN>
+			<FR>Porte des Korybantes</FR>
+			<IT>Porta dei Coribanti</IT>
+			<NL>Poort van de Korybanten</NL>
+			<ES>Puerta de los Coribantes</ES>
+		</L00733>
+		<L00734>
+			<DE>Die rote Halle</DE>
+			<EN>Kizil Salon</EN>
+			<FR>Salle rouge</FR>
+			<IT>La sala rossa</IT>
+			<NL>De rode hal</NL>
+			<ES>El Pabellón Rojo</ES>
+		</L00734>
+		<L00735>
+			<DE>Gärten der Iris</DE>
+			<EN>Iris'in Bahçeleri</EN>
+			<FR>Jardins d'Iris</FR>
+			<IT>Giardini di Iris</IT>
+			<NL>Tuinen van Iris</NL>
+			<ES>Jardines de Iris</ES>
+		</L00735>
+		<L00736>
+			<DE>Mauer des Hades</DE>
+			<EN>Hades'in Duvari</EN>
+			<FR>Mur d'Hadès</FR>
+			<IT>Mura di Ade</IT>
+			<NL>Muren van de Hades</NL>
+			<ES>Muros del Hades</ES>
+		</L00736>
+		<L00737>
+			<DE>Am Fuße des Olymp</DE>
+			<EN>Olimpos Dagi'nin Eteginde</EN>
+			<FR>Aux pieds de l'Olympe</FR>
+			<IT>Ai piedi dell'Olimpo</IT>
+			<NL>Aan de voet van de Olympus</NL>
+			<ES>A los pies del Olimpo</ES>
+		</L00737>
+		<L00738>
+			<DE>Vase von Prometheus</DE>
+			<EN>Prometheus'un Vazosu</EN>
+			<FR>Vase de Prométhée</FR>
+			<IT>Vaso di Prometeo</IT>
+			<NL>Vaas van Prometheus</NL>
+			<ES>Vasija de Prometeo</ES>
+		</L00738>
+		<L00739>
+			<DE>Straße von Assos</DE>
+			<EN>Assos'un Sokagi</EN>
+			<FR>Rue d'Assos</FR>
+			<IT>Strada di Assos</IT>
+			<NL>Straat van Assos</NL>
+			<ES>Calle de Assos</ES>
+		</L00739>
+		<L00740>
+			<DE>Tor des Artemis</DE>
+			<EN>Artemis'in Kapisi</EN>
+			<FR>Porte d'Artémis</FR>
+			<IT>Porta di Artemide</IT>
+			<NL>Poort van Artemis</NL>
+			<ES>Puerta de Artemisa</ES>
+		</L00740>
+		<L00741>
+			<DE>Das Buch der Maia</DE>
+			<EN>Maia'nin Kitabi</EN>
+			<FR>Livre de Maia</FR>
+			<IT>Il Libro di Maia</IT>
+			<NL>Het boek van de Maia</NL>
+			<ES>El libro de Maya</ES>
+		</L00741>
+		<L00742>
+			<DE>Hochtempel von Atropos</DE>
+			<EN>Atropos'un Yüce Tapinagi</EN>
+			<FR>Temple haut d'Atropos</FR>
+			<IT>Alto Tempio di Atropos</IT>
+			<NL>Hoge Tempel van Atropos</NL>
+			<ES>Templo Supremo de Átropos</ES>
+		</L00742>
+		<L00743>
+			<DE>Die goldenen Stufen</DE>
+			<EN>Altin Basamaklar</EN>
+			<FR>Les marches d'or</FR>
+			<IT>I gradini dorati</IT>
+			<NL>De gouden treden</NL>
+			<ES>Los escalones de oro</ES>
+		</L00743>
+		<L00745>
+			<DE>Tor des Artemis</DE>
+			<EN>Artemis'in Kapisi</EN>
+			<FR>Porte d'Artémis</FR>
+			<IT>Porta di Artemide</IT>
+			<NL>Poort van Artemis</NL>
+			<ES>Puerta de Artemisa</ES>
+		</L00745>
+		<L00747>
+			<DE>Die Flügel des Hermes</DE>
+			<EN>Hermes'in Wings</EN>
+			<FR>Ailes d'Hermès</FR>
+			<IT>Le ali di Ermes</IT>
+			<NL>De vleugel van Hermes</NL>
+			<ES>Las alas de Hermes</ES>
+		</L00747>
+		<L00749>
+			<DE>Blitze des Zeus</DE>
+			<EN>Zeus'un Simsegi</EN>
+			<FR>Eclairs de Zeus</FR>
+			<IT>Tuono di Zeus</IT>
+			<NL>Bliksems van Zeus</NL>
+			<ES>Rayo de Zeus</ES>
+		</L00749>
+		<L00750>
+			<DE>Tempel des Zeus</DE>
+			<EN>Zeus'un Tapinagi</EN>
+			<FR>Temple de Zeus</FR>
+			<IT>Tempio di Zeus</IT>
+			<NL>Tempel van Zeus</NL>
+			<ES>Templo de Zeus</ES>
+		</L00750>
+		<L00751>
+			<DE>Der Thron des Zeus</DE>
+			<EN>Zeus'un Tahti</EN>
+			<FR>Trône de Zeus</FR>
+			<IT>Il Trono di Zeus</IT>
+			<NL>De troon van Zeus</NL>
+			<ES>El trono de Zeus</ES>
+		</L00751>
+	</layouts>
+</language>
