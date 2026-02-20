@@ -1,0 +1,44 @@
+
+#0090
+<MNA<CMU0012<FAI0000<END
+#0091
+<MNA<CMU0012<FAI0001<END
+#0092
+<MNA<CMU0012<FAI0002<END
+#0093
+<MNA<CMU0012<FAI0003<END
+#0094
+<MNA<CMU0012<FAI0004<END
+
+#0100
+<PRI<FAO0000<TRA0011:0090:0056:0033
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002
+<FAO0004<TRA0083:0094:0007:0010
+
+
+#0200
+<PRI
+<FLJ1371:0201
+<MSG
+Bir sey mi istiyorsun?<NOD<END
+#0201
+<PRI<MSG
+Karim beni mi ariyormus?!?<NOD<CLR
+Herhalde ondandir, ben
+uzun zamandir eve gitmedim.<NOD
+Peki, eve gidiyorum.<NOD<GIT1032<DNP0200<IT+0032<CLR
+Tabii, beni oraya goturursun, degil
+mi?<NOD<END
+
+#0300
+<CNP0300:0000:0000
+<PRI<MSG
+Arthur'un mezari.<NOD
+Mezar tasinda bir sey yaziyor,<NOD<CLR<MSG<TUR
+Burada gercek Mimiga kahramani
+Arthur yatiyor.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001Arthur'un Anahtarini buldun.<WAI0160<NOD<CLO
+<RMU<END
+

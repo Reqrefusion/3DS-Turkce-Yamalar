@@ -1,0 +1,96 @@
+
+#0090
+<MNA<CMU0000<FAI0000<END
+#0091
+<MNA<CMU0000<FAI0001<END
+#0092
+<MNA<CMU0000<FAI0002<END
+#0093
+<MNA<CMU0000<FAI0003<END
+#0094
+<MNA<CMU0000<FAI0004<END
+
+#0095
+<MNA<MYD0002<PRI
+<CMU0039<FAI0002<KEY
+<ANP0100:0000:0000<WAS<END
+
+<CMP0001:0007:0018<SOU0012
+
+#0400
+#0401
+#0402
+
+
+
+
+#0500
+<DNP0500<MYD0002
+<0CS<KEY<MSG
+Hos geldin!<NOD<CLR
+<FAC0029Ben Ballos'um.<NOD<CLR
+Cok, cok once, buyu gucune
+olan hirsimin
+cezasindan korkmadan<NOD 
+kontrolsuzce buyumesine izin verdim.<NOD<CLR
+Oyle guclu bir buyuydu ki
+kendi efendisi bile
+onu dizginleyemedi...<NOD<CLR
+Bu guc oylesine azgin ve
+durdurulamazdi ki...<NOD
+...atesi yuttu
+beni seven cocugu,<NOD ve
+beni seven karimi...<NOD<CLR
+Onlar alevlerinde boguldu
+ve korkunc aci cekti.<NOD
+...Hepsi bencil
+hatam yuzunden.<NOD
+Gozlerim acik kaldi ve
+o alevli dehsetten
+bakisimi ceviremedim...<NOD 
+Kendi buyumun eseri.<NOD<CLR
+O an sadece gulebildim...<NOD<CLR
+Jenka beni muhurledi. Ama
+buyum her dakika
+daha da kudurdu.<NOD<CLR
+Bunu uzun zamandir bekledim...<NOD<CLR
+Bu muazzam buyu ofkesine
+son verecek kisiyi
+bekledim...<NOD<CLR
+Simdi, oldur beni!<NOD
+Yoksa--<NOD<CLR
+SENI OLDURURUM!!!<NOD<CLO
+<0CE<CMU0004
+<ANP0402:0100:0900<FON0402:0016
+<BSL0900<ANP0900:0010:0000<END
+
+
+
+
+#0900
+<ANP0900:1000:0005
+<FON0900:0016
+<CNP0400:0339:0002
+<CNP0401:0339:0000
+<CMU0000<WAI0300
+<FOM0016<WAI0050
+<BOA0100<WAI0200
+<ANP0402:0100:0000
+<FON0402:0016
+<BOA0200
+<CMU0007<BSL0000
+<END
+
+
+#1000
+<FLJ1600:1001
+<FL+1600
+<CMU0000<BOA0220<WAI0200
+<CMU0032<BOA0300<WAI0050
+<BOA0311<BSL0000<END
+
+#1001
+<KEY<FOB0000:0016
+<BOA1000<WAI0200
+<STC<TRA0091:0110:0000:0000
+

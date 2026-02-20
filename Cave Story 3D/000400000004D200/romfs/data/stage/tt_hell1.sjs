@@ -1,0 +1,75 @@
+
+#0090
+<MNA<CMU0036<FAI0000<END
+#0091
+<MNA<CMU0036<FAI0001<END
+#0092
+<MNA<CMU0036<FAI0002<END
+#0093
+<PRI<CMU0000<ZAM<ITJ0022:0095<EVE0096
+
+#0094
+<MNA<CMU0036<FAI0004<END
+
+#0095
+<EQ+0256<MS2<TUR
+<SOU0043<GIT1022290 Sayaci etkinlestirildi.<NOD<GIT0000<EVE0096
+
+#0096
+<MSG
+Kara bir ruzgar vucudunun icinden
+geciyor.<NOD<CLR
+Tum silahlar Seviye 1'e dustu!<NOD<CLO
+<FRE<MNA<CMU0036<FAI0003<END
+
+
+#0100
+<KEY<FAO0002<TRA0100:0090:0018:0097
+
+#0110
+<KEY<FLJ1531:0111
+<FOM0016<FAO0002<TRA0101:0092:0002:0013
+#0111
+<WAI0010<HMC<WAI0050
+<MYD0000<SMC<END
+
+#0200
+<PRI<MSG<TUR
+Cehenneme hos geldin!<NOD<END
+
+
+#0400
+<PRI<SOU0022<DNP0400
+<MSG<GIT1006
+Can Kapsulu alindi.<NOD<ML+0005
+Maksimum can 5 artti.<NOD<END
+
+#0420
+<DNP0420
+<ANP0430:0030:0000<FON0430:0016
+<ANP0500:0032:0000<END
+#0430
+
+
+#0500
+<PRI<FL-1531<FL+1532<MS3<FAC0020
+Oooof...<NOD<CLR<FAC0000
+<CNP0500:0259:0000<GIT1030Curly'ye Cekme Halati kullandin.<NOD<END
+
+
+#0900
+<DNP0900<SKJ0020:0000<SK+0020
+<0CS<PRI<MS3
+Jenka adindaki kadinin
+bir kucuk erkek kardesi varmis?<NOD
+Adi Ballos'tu.<NOD
+Ve ablasi gibi o da
+hicbir insanda olmayan buyusu vardi.<NOD<0CE<END
+
+#0901
+<DNP0901<SKJ0021:0000<SK+0021
+<0CS<PRI<MS3
+Buyulu gucuyle halki
+yonetip korudu.<NOD
+Onu sever, guvenirlerdi,<NOD<CLR
+Kendi krallarindan bile fazla.<NOD<0CE<END

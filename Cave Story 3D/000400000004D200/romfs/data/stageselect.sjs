@@ -1,0 +1,18 @@
+#1000
+<KEY<MSG<TUR
+Isinlanma iznin yok.<WAI9999<END
+#1001
+<KEY<MSG<TUR
+Yumurta Koridoru<WAI9999<END
+#1002
+<KEY<MSG<TUR
+Caliliklar<WAI9999<END
+#1003
+<KEY<MSG<TUR
+Kum Bolgesi<WAI9999<END
+#1004
+<KEY<MSG<TUR
+Labirent<WAI9999<END
+#1005
+<KEY<MSG<TUR
+Plantasyon<WAI9999<END

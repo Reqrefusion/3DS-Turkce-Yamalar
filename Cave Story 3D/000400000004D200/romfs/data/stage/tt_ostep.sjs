@@ -1,0 +1,38 @@
+
+#0090
+<MNA<FAI0000<END
+#0091
+<MNA<FAI0001<END
+#0092
+<MNA<FAI0002<END
+#0093
+<MNA<FAI0003<END
+#0094
+<MNA<FAI0004<END
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002
+<FAO0000<TRA0103:0096:0019:0029
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002
+<FAO0002<TRA0105:0095:0004:0011
+
+
+
+#0200
+#0201
+
+
+#0900
+<DNP0900
+<0CS<KEY<MYD0002<MSG
+Lutfen efendimi oldur.<NOD
+Bunu yaparsan Misery'yi
+sonsuz lanetinden kurtarirsin.<NOD<CLR
+Trajedinin yeniden
+yasanmasini durdurmanin tek yolu bu.<NOD<CLR
+Efendimin adi Ballos.<NOD<CLR
+O, olmeyen bir adam...
+Buyusu kontrol edilemez.<NOD<ANP0201:0010:0000<FL+1620<0CE<END
+
