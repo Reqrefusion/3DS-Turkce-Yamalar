@@ -1,0 +1,2927 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- edited with XML Spy v2.5 NT  - http://www.xmlspy.com --><language>
+	<award>
+		<!--trophies from trophy.trophy01 ...-->
+		<trophies>
+			<!--NEW!-->
+			<status>
+				<EN>Yeni Kupa!</EN>
+				<DE>Neue Trophäe!</DE>
+				<ES>¡Nuevo trofeo!</ES>
+				<FR>Nouveau trophée!</FR>
+				<NL>Nieuwe trofeeën!</NL>
+				<IT>Nuovo trofeo!</IT>
+			</status>
+			<trophy01>
+				<name>
+					<EN>Kusursuz Kalp</EN>
+					<DE>Makelloses Herz</DE>
+					<ES>Corazón puro</ES>
+					<IT>Cuore immacolato</IT>
+					<FR>Cœur immaculé</FR>
+					<NL>Onschuldig hart</NL>
+				</name>
+				<description>
+					<EN>Tek bir bölüm bile kaybetmeden 20 seviye tamamladiginiz için</EN>
+					<DE>Für das Lösen von 20 Levels ohne Niederlage</DE>
+					<ES>Por superar 20 niveles seguidos sin perder ni una sola vez</ES>
+					<IT>Per aver completato 20 livelli, senza aver perso mai</IT>
+					<FR>Pour la résolution de 20 niveaux sans une seule défaite</FR>
+					<NL>Voor het oplossen van twintig levels zonder te verliezen</NL>
+				</description>
+			</trophy01>
+			<trophy02>
+				<name>
+					<EN>Alçakgönüllülük Madalyasi</EN>
+					<DE>Orden der Bescheidenheit</DE>
+					<ES>Insignia de la modestia</ES>
+					<IT>Medaglia della Modestia</IT>
+					<FR>Médaille de la modestie</FR>
+					<NL>Orde van Bescheidenheid</NL>
+				</name>
+				<description>
+					<EN>Hiç bonus kullanmadan iki seviye tamamladiginiz için</EN>
+					<DE>Für das Lösen zweier Levels ohne Nutzung eines Bonus</DE>
+					<ES>Por superar dos niveles sin usar ni un bono</ES>
+					<IT>Per aver completato due livelli senza l'utilizzo di un bonus</IT>
+					<FR>Pour la résolution de deux niveaux sans utiliser de bonus</FR>
+					<NL>Voor het oplossen van twee levels zonder een bonus te gebruiken</NL>
+				</description>
+			</trophy02>
+			<trophy03>
+				<name>
+					<EN>Bastet'in Lütfu</EN>
+					<DE>Segen der Bastet</DE>
+					<ES>Bendición de Bastet</ES>
+					<IT>Benedizione di Bastet</IT>
+					<FR>Bénédiction de Bastet</FR>
+					<NL>Bastets zegen</NL>
+				</name>
+				<description>
+					<EN>Bir seviyeyi bir dakikadan kisa sürede tamamladiginiz için</EN>
+					<DE>Für das Lösen eines Levels in weniger als einer Minute</DE>
+					<ES>Por superar un nivel en menos de un minuto</ES>
+					<IT>Per aver completato un livello in meno di un minuto</IT>
+					<FR>Pour la résolution d'un niveau en moins d'une minute</FR>
+					<NL>Voor het oplossen van een level in minder dan een minuut</NL>
+				</description>
+			</trophy03>
+			<trophy04>
+				<name>
+					<EN>Nefertiti Heykeli</EN>
+					<DE>Büste der Nofretete</DE>
+					<ES>Busto de Nefertiti</ES>
+					<IT>Scultura di Nefertiti</IT>
+					<FR>Buste de Néfertiti</FR>
+					<NL>Buste van Nefertiti</NL>
+				</name>
+				<description>
+					<EN>Süre uyarisi almadan on seviye tamamladiginiz için</EN>
+					<DE>Für das Lösen von zehn Levels ohne Zeitwarnung</DE>
+					<ES>Por superar diez niveles sin que salte la alerta de tiempo</ES>
+					<IT>Per aver completato dieci livelli senza ottenere un avviso di tempo</IT>
+					<FR>Pour la résolution de dix niveaux sans alerte de temps</FR>
+					<NL>Voor het oplossen van tien levels zonder tijdwaarschuwing</NL>
+				</description>
+			</trophy04>
+			<trophy05>
+				<name>
+					<EN>Aton'un Hazinesi</EN>
+					<DE>Schatz des Aton</DE>
+					<ES>Tesoro de Atón</ES>
+					<IT>Tesoro di Aton</IT>
+					<FR>Trésor D'Aton</FR>
+					<NL>Schat van Aton</NL>
+				</name>
+				<description>
+					<EN>Tüm bonuslarin kilidini açtiginiz için</EN>
+					<DE>Für das Freischalten aller Boni</DE>
+					<ES>Por desbloquear todos los bonos</ES>
+					<IT>Per aver sbloccato tutti i bonus</IT>
+					<FR>Pour le déverrouillage de tous les bonus</FR>
+					<NL>Voor het vrijspelen van alle bonussen</NL>
+				</description>
+			</trophy05>
+			<trophy06>
+				<name>
+					<EN>Ra'nin Zarlari</EN>
+					<DE>Würfel des Ra</DE>
+					<ES>Dados de Ra</ES>
+					<IT>Dado di Ra</IT>
+					<FR>Dé de Ra</FR>
+					<NL>Dobbelsteen van Ra</NL>
+				</name>
+				<description>
+					<EN>Tüm mini oyunlari oynadiginiz için</EN>
+					<DE>Für das Spielen aller Minigames</DE>
+					<ES>Por jugar a todos los minijuegos</ES>
+					<IT>Per aver giocato tutti i mini giochi</IT>
+					<FR>Pour avoir joué tous les mini-jeux</FR>
+					<NL>Voor het spelen van alle minigames</NL>
+				</description>
+			</trophy06>
+			<trophy07>
+				<name>
+					<EN>Vatandas Madalyasi</EN>
+					<DE>Bürgermedaille</DE>
+					<ES>Medalla de ciudadano</ES>
+					<IT>Medaglia del cittadino</IT>
+					<FR>Médaille de citoyen</FR>
+					<NL>Burgermedaille</NL>
+				</name>
+				<description>
+					<EN>Tüm vatandaslari topladiginiz için</EN>
+					<DE>Für das Sammeln aller Bürger!</DE>
+					<ES>Por reunir a todos los ciudadanos</ES>
+					<IT>Per aver radunato tutti i cittadini</IT>
+					<FR>Pour avoir rassemblé tous les citoyens</FR>
+					<NL>Voor het verzamelen van alle burgers</NL>
+				</description>
+			</trophy07>
+			<trophy08>
+				<name>
+					<EN>Ihtisam Kadehi</EN>
+					<DE>Kelch der Herrlichkeit</DE>
+					<ES>Cáliz de la gloria</ES>
+					<IT>Calice della Gloria</IT>
+					<FR>Calice de la gloire</FR>
+					<NL>Kelk der Glorie</NL>
+				</name>
+				<description>
+					<EN>Tek bir seviye bile kaybetmeden oyunu tamamladiginiz için!</EN>
+					<DE>Für das Lösen des Spiels, ohne ein Level zu verlieren!</DE>
+					<ES>¡Por superar el juego sin perder en ningún nivel!</ES>
+					<IT>Per aver completato il gioco senza aver perso neanche un livello</IT>
+					<FR>Pour avoir terminé le jeu sans perdre un seul niveau !</FR>
+					<NL>Voor het oplossen van het spel, zonder een level te verliezen!</NL>
+				</description>
+			</trophy08>
+			<trophy09>
+				<name>
+					<EN>Sadakat Madalyasi</EN>
+					<DE>Orden der Loyalität</DE>
+					<ES>Insignia de la lealtad</ES>
+					<IT>Medaglia della Fedeltà</IT>
+					<FR>Médaille de la loyauté</FR>
+					<NL>Loyaliteitsmedaille</NL>
+				</name>
+				<description>
+					<EN>Iki saat araliksiz oynadiginiz için</EN>
+					<DE>Für zwei Stunden spielen am Stück</DE>
+					<ES>Por jugar durante dos horas seguidas</ES>
+					<IT>Per aver giocato due ore di fila</IT>
+					<FR>Pour avoir joué deux heures d'affilée</FR>
+					<NL>Voor het twee uur achter elkaar spelen</NL>
+				</description>
+			</trophy09>
+			<trophy10>
+				<name>
+					<EN>Emek Madalyasi</EN>
+					<DE>Orden der Arbeit</DE>
+					<ES>Insignia del trabajo</ES>
+					<IT>Medaglia del lavoro</IT>
+					<FR>Médaille du travail</FR>
+					<NL>Arbeitsmedaille</NL>
+				</name>
+				<description>
+					<EN>Tek turda iki bina insa ettiginiz için</EN>
+					<DE>Für das Errichten zweier Gebäude in einer Runde</DE>
+					<ES>Por construir dos edificios en una ronda</ES>
+					<IT>Per aver costruito due edifici in un unico round</IT>
+					<FR>Pour avoir construit deux bâtiments en un seul tour</FR>
+					<NL>Voor het bouwen van twee gebouwen in één ronde</NL>
+				</description>
+			</trophy10>
+			<trophy11>
+				<name>
+					<EN>Milyoner</EN>
+					<DE>Millionär</DE>
+					<ES>Millonario</ES>
+					<IT>Milionario</IT>
+					<FR>Millionnaire</FR>
+					<NL>Miljonair</NL>
+				</name>
+				<description>
+					<EN>1.000.000 kaynak topladiginiz için</EN>
+					<DE>Für das Sammeln von 1.000.000 Ressourcen</DE>
+					<ES>Por reunir 1.000.000 de recursos</ES>
+					<IT>Per la raccolta di 1.000.000 di risorse</IT>
+					<FR>Pour avoir collecté 1.000.000 de ressources</FR>
+					<NL>Voor het verzamelen van 1.000.000 grondstoffen</NL>
+				</description>
+			</trophy11>
+			<trophy12>
+				<name>
+					<EN>Ra Madalyasi</EN>
+					<DE>Orden des Ra</DE>
+					<ES>Insignia de Ra</ES>
+					<IT>Medaglia di Ra</IT>
+					<FR>Médaille de Ra</FR>
+					<NL>Orde van Ra</NL>
+				</name>
+				<description>
+					<EN>Ra Aniti'ni insa ettiginiz için!</EN>
+					<DE>Das Monument des Ra!</DE>
+					<ES>Por alzar el monumento a Ra</ES>
+					<IT>Per aver costruito il monumento di Ra!</IT>
+					<FR>Pour avoir construit le monument de Ra</FR>
+					<NL>Het monument van Ra!</NL>
+				</description>
+			</trophy12>
+		</trophies>
+		<citizens>
+			<citizen01>
+				<!--NEW!-->
+				<name>
+					<EN>Ekici</EN>
+					<DE>Sämann</DE>
+					<ES>Sembrador</ES>
+					<IT>Seminatore</IT>
+					<FR>Semeur</FR>
+					<NL>Zaaiman</NL>
+				</name>
+				<locked_desc>
+					<EN>Tarla insa ettikten sonra tek seviyede {amount} birim yiyecek topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Nahrung in einem Level, nachdem Ihr den Acker gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de comida en un nivel, tras haber construido el campo.</ES>
+					<IT>Per la raccolta di {amount} unità di cibo in un unico livello dopo aver dissodato un campo.</IT>
+					<FR>Pour la collecte de {amount} unités de nourriture en un niveau après avoir construit le champ.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden voedsel in één level, na het bouwen van de akker.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim yiyecek</EN>
+					<DE>+{amount} Nahrung in jedem Level</DE>
+					<ES>+{amount} provisiones en cada nivel</ES>
+					<IT>+{amount} unità di viveri in ogni livello</IT>
+					<FR>+{amount} nourriture dans chaque niveau</FR>
+					<NL>+{amount} Voedsel in elk level</NL>
+				</unlocked_desc>
+			</citizen01>
+			<citizen02>
+				<!--NEW!-->
+				<name>
+					<EN>Çiftçi</EN>
+					<DE>Bauer</DE>
+					<ES>Granjero</ES>
+					<IT>Contadino</IT>
+					<FR>Paysan</FR>
+					<NL>Boer</NL>
+				</name>
+				<locked_desc>
+					<EN>Kulübeyi insa ettikten sonra tek hamlede bes tasi eslestirdiginiz için.</EN>
+					<DE>Für das Bilden einer Fünfergruppe, nachdem Ihr die Hütte gebaut habt.</DE>
+					<ES>Por formar un grupo de cinco, tras haber construido la cabaña.</ES>
+					<IT>Per aver plasmato cinque tessere in una sola mossa, dopo aver costruito la capanna.</IT>
+					<FR>Pour la formation d'un groupe de cinq après avoir construit la hutte.</FR>
+					<NL>Voor het vormen van een groep van vijf, na het bouwen van de hut.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Çekiç bonusunuz daha hizli dolar.</EN>
+					<DE>Hammer-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Martillo se carga más rápido.</ES>
+					<IT>Bonus Martello: Ricarica più velocemente.</IT>
+					<FR>Le bonus marteau se recharge plus vite.</FR>
+					<NL>Hamerbonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen02>
+			<citizen03>
+				<name>
+					<EN>Marangoz</EN>
+					<DE>Tischler</DE>
+					<ES>Carpintero</ES>
+					<IT>Falegname</IT>
+					<FR>Menuisier</FR>
+					<NL>Meubelmaker</NL>
+				</name>
+				<locked_desc>
+					<EN>Hizari insa ettikten sonra tek seviyede {amount} birim kaynak topladiginiz için!</EN>
+					<DE>Für das Sammeln von {amount} Rohstoffe in einem Level, nachdem Ihr das Sägewerk gebaut habt.</DE>
+					<ES>Para reunir {amount} materias primas en un nivel después de que hayáis construido el aserradero.</ES>
+					<IT>Per {amount} unità di materie prime in un livello, dopo aver costruito una segheria.</IT>
+					<FR>Pour la collecte de {amount} matières premières en un niveau après avoir construit la scierie.</FR>
+					<NL>Voor het verzamelen van {amount} grondstoffen in een level, nadat je de zaagmolen gebouwd hebtt.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim kaynak</EN>
+					<DE>+{amount} Rohstoffe in jedem Level</DE>
+					<ES>+{amount} materias primas en cada nivel</ES>
+					<IT>+{amount} unità di materie prime in un livello</IT>
+					<FR>+{amount} matières premières en un niveau</FR>
+					<NL>+{amount} grondstoffen in elk level</NL>
+				</unlocked_desc>
+			</citizen03>
+			<citizen04>
+				<name>
+					<!--ev_brewer_02_cd-->
+					<EN>Bira Ustasi</EN>
+					<DE>Braumeister</DE>
+					<ES>Cervecero</ES>
+					<FR>Brasseur</FR>
+					<IT>Birraio</IT>
+					<NL>Brouwer</NL>
+				</name>
+				<locked_desc>
+					<EN>Köyü insa ettikten sonra art arda 10 hamlede tas kirdiginiz için!</EN>
+					<DE>Für das Zerstören von Kacheln in 10 Zügen hintereinander, nachdem Ihr das Dorf gebaut habt.</DE>
+					<ES>Para la destrucción de azulejos en diez jugadas seguidas después de que hayáis construido la aldea.</ES>
+					<IT>Per la distruzione di tasselli in 10 manovre consecutive, dopo aver costruito il villaggio.</IT>
+					<FR>Pour la destruction de  carreaux en 10 coups d'affilée après avoir construit le village.</FR>
+					<NL>Voor het vernietigen van tegels in 10 rijen achter elkaar, nadat je het dorp gebouwd hebt.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Bomba bonusunuz daha hizli dolar.</EN>
+					<DE>Bomben-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Bomba se carga más rápido</ES>
+					<IT>Bonus Bomba: ricarica piú velocemente.</IT>
+					<FR>Le bonus bombe se recharge plus vite.</FR>
+					<NL>Bommenbonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen04>
+			<citizen05>
+				<name>
+					<!--ev_apiarist_02_cd-->
+					<EN>Arici</EN>
+					<DE>Imker</DE>
+					<ES>Apicultor</ES>
+					<FR>Apiculteur</FR>
+					<IT>Apicoltore</IT>
+					<NL>Bijenhouder</NL>
+				</name>
+				<locked_desc>
+					<EN>Bal çiftligini insa ettikten sonra tek seviyede {amount} birim yiyecek topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Nahrung in einem Level, nachdem Ihr die Imkerei gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de comida en un nivel, tras haber construido el colmenar.</ES>
+					<IT>Per la raccolta di {amount} unità di cibo in un unico livello dopo aver costruito un'arnia per le api.</IT>
+					<FR>Pour la collecte de {amount} unités de nourriture en un niveau après avoir construit la ferme apicole.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden voedsel in één level, na het bouwen van de imkerij.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim yiyecek</EN>
+					<DE>+{amount} Nahrung in jedem Level</DE>
+					<ES>+{amount} provisiones en cada nivel</ES>
+					<IT>+{amount} unità di viveri in ogni livello</IT>
+					<FR>+{amount} nourriture dans chaque niveau</FR>
+					<NL>+{amount} voedsel in elk level</NL>
+				</unlocked_desc>
+			</citizen05>
+			<citizen06>
+				<!--ev_potter_02_cd-->
+				<name>
+					<EN>Çömlekçi</EN>
+					<DE>Töpfer</DE>
+					<ES>Alfarero</ES>
+					<FR>Potier</FR>
+					<IT>Vasaio</IT>
+					<NL>Pottenbakker</NL>
+				</name>
+				<locked_desc>
+					<EN>Çömlekçiyi insa ettikten sonra tek seviyede {amount} birim kaynak topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Rohstoffe in einem Level, nachdem Ihr the Pottery gebaut habt.</DE>
+					<ES>Por reunir {amount} materias primas en un nivel, tras haber construido la alfarería.</ES>
+					<IT>Per aver raccolto {amount} materie prime in un unico livello dopo aver costruito il laboratorio di ceramica</IT>
+					<FR>Pour la collecte de {amount} matières premières après avoir construit la poterie.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden voedsel in één level, na het bouwen van de pottenbakkerij.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim kaynak</EN>
+					<DE>+{amount} Rohstoffe in jedem Level</DE>
+					<ES>+{amount} materias primas en cada nivel</ES>
+					<IT>+{amount} unità di materie prime in ogni livello.</IT>
+					<FR>+{amount} matières premières dans chaque niveau</FR>
+					<NL>+{amount} grondstoffen in elk level</NL>
+				</unlocked_desc>
+			</citizen06>
+			<citizen07>
+				<name>
+					<!--NEW - female!-->
+					<EN>Firinci</EN>
+					<DE>Bäckerin</DE>
+					<ES>Panadera</ES>
+					<IT>Fornaia</IT>
+					<FR>Boulangère</FR>
+					<NL>Bakker</NL>
+				</name>
+				<locked_desc>
+					<EN>Firini insa ettikten sonra tek seviyede {amount} birim yiyecek topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Nahrung in einem Level, nachdem Ihr die Bäckerei gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de comida en un nivel, tras haber construido la panadería.</ES>
+					<IT>Per aver raccolto {amount} unità di cibo in un unico livello dopo aver costruito il panificio.</IT>
+					<FR>Pour la collecte de {amount} unités de nourriture en un niveau après avoir construit la boulangerie.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden voedsel in één level, na het bouwen van de bakkerij.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim yiyecek</EN>
+					<DE>+{amount} Nahrung in jedem Level</DE>
+					<ES>+{amount} provisiones en cada nivel</ES>
+					<IT>+{amount} unità di viveri in ogni livello.</IT>
+					<FR>+{amount} nourriture dans chaque niveau</FR>
+					<NL>+{amount} voedsel in elk level</NL>
+				</unlocked_desc>
+			</citizen07>
+			<citizen08>
+				<name>
+					<!--NEW - singular!-->
+					<EN>Kapi Bekçisi</EN>
+					<DE>Tempelwächter</DE>
+					<ES>Guardián del templo</ES>
+					<IT>Guardiano del tempio</IT>
+					<FR>Gardien du temple</FR>
+					<NL>Tempelwachter</NL>
+				</name>
+				<locked_desc>
+					<EN>Osiris Tapinagi'ni insa ettikten sonra tek seviyede bes adet besli eslesme yaptiginiz için.</EN>
+					<DE>Für das Bilden von 5 Fünfergruppen, nachdem Ihr den Osiristempel gebaut habt.</DE>
+					<ES>Por formar un grupo de cinco, tras haber construido el Templo de Osiris.</ES>
+					<IT>Per aver formato 5 gruppi da 5 dopo aver edificato il Tempio di Osiride.</IT>
+					<FR>Pour la réunion de 5 groupes de cinq après avoir construit le temple d'Osiris.</FR>
+					<NL>Voor het bouwen van vijf groepen van vijf, na het bouwen van de Osiristempel.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Ates topu bonusunuz daha hizli dolar.</EN>
+					<DE>Feuerball-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Bola de Fuego se carga más rápido.</ES>
+					<IT>Bonus Calcio: ricarica piú velocemente.</IT>
+					<FR>Le bonus boule de feu recharge plus vite.</FR>
+					<NL>Vuurbalbonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen08>
+			<citizen09>
+				<name>
+					<!--NEW!-->
+					<EN>Hasatçi</EN>
+					<DE>Erntearbeiter</DE>
+					<ES>Cosechador</ES>
+					<IT>Mietitore</IT>
+					<FR>Cueilleur</FR>
+					<NL>Oogster</NL>
+				</name>
+				<locked_desc>
+					<EN>Ambari insa ettikten sonra tek seviyede {amount} birim yiyecek topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Nahrung in einem Level, nachdem Ihr den Getreidespeicher gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de comida en un nivel, tras haber construido el granero.</ES>
+					<IT>Per aver raccolto {amount} unità di cibo in un unico livello dopo aver costruito il granaio.</IT>
+					<FR>Pour la collecte de {amount} unités de nourriture en un niveau après avoir construit le grenier à blé.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden voedsel in één level, na het bouwen van de graanopslag.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim yiyecek</EN>
+					<DE>+{amount} Nahrung in jedem Level</DE>
+					<ES>+{amount} provisiones en cada nivel</ES>
+					<IT>+{amount} unità di viveri in ogni livello</IT>
+					<FR>+{amount} nourriture dans chaque niveau</FR>
+					<NL>+{amount} voedsel in elk level</NL>
+				</unlocked_desc>
+			</citizen09>
+			<citizen10>
+				<name>
+					<!--NEW!-->
+					<EN>Muhafizlar</EN>
+					<DE>Leibgarde</DE>
+					<ES>Guardias</ES>
+					<IT>Guardie del corpo</IT>
+					<FR>Gardes</FR>
+					<NL>Lijfwacht</NL>
+				</name>
+				<locked_desc>
+					<EN>Kaleyi insa ettikten sonra tek seviyede {amount} birim altin topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Gold in einem Level, nachdem Ihr die Festung gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de oro en un nivel, tras haber construido la fortaleza.</ES>
+					<IT>Per aver raccolto {amount} unità di oro in un unico livello dopo aver costruito della Fortezza.</IT>
+					<FR>Pour la collecte de {amount} unités d'or en un niveau après avoir construit la forteresse.</FR>
+					<NL>Voor het verzamelen van 2.000 eenheden goud in één level, na het bouwen van de vesting.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim altin</EN>
+					<DE>+{amount} Gold in jedem Level</DE>
+					<ES>+{amount} de oro en cada nivel</ES>
+					<IT>+{amount} unità d'oro in un livello</IT>
+					<FR>+{amount} or dans chaque niveau</FR>
+					<NL>+{amount} goudstukken in elk level</NL>
+				</unlocked_desc>
+			</citizen10>
+			<citizen11>
+				<name>
+					<!--ev_cavalery_02_cd-->
+					<EN>Süvari</EN>
+					<DE>Kavallerist</DE>
+					<ES>Caballero</ES>
+					<FR>Cavalier</FR>
+					<NL>Wagenmenner</NL>
+					<IT>Cavaliere</IT>
+				</name>
+				<locked_desc>
+					<EN>Karnak Tapinaklari'ni insa ettikten sonra art arda iki besli eslesme yaptiginiz için.</EN>
+					<DE>Für das Bilden von 2 Fünfergruppen hintereinander, nachdem Ihr die Tempel von Karnak gebaut habt.</DE>
+					<ES>Por formar 2 grupos de cinco seguidos, tras haber construido el templo de Karnak.</ES>
+					<IT>Per aver formato 2 gruppi da cinque in fila, dopo aver costruito il tempio di Karnak</IT>
+					<FR>Pour la formation de 2 groupes de cinq d'affilée après avoir construit les temples de Karnak.</FR>
+					<NL>Voor het vormen van twee groepen van vijf achter elkaar, na het bouwen van de Tempel van Karnak.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Yildirim bonusunuz daha hizli dolar.</EN>
+					<DE>Blitzstrahl-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Rayo se carga más rápido.</ES>
+					<IT>Bonus Fulmine: ricarica piú velocemente</IT>
+					<FR>Le bonus éclair se recharge plus vite.</FR>
+					<NL>Bliksemschichtbonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen11>
+			<citizen12>
+				<name>
+					<!--NEW!-->
+					<EN>Tapinak Hizmetkâri</EN>
+					<DE>Tempeldiener</DE>
+					<ES>Servidor del templo</ES>
+					<IT>Servitore del tempio</IT>
+					<FR>Serviteur du temple</FR>
+					<NL>Tempeldienaar</NL>
+				</name>
+				<locked_desc>
+					<EN>Isis Tapinagi'ni insa ettikten sonra 20 saniye içinde 15 hamle yaptiginiz için</EN>
+					<DE>Für 15 Züge in 20 Sekunden, nachdem Ihr den Tempel der Isis gebaut habt.</DE>
+					<ES>Por realizar 15 movimientos en 20 segundos, tras haber construido el Templo de Isis.</ES>
+					<IT>Per aver effettuato in meno di 20 secondi 15 mosse dopo la costruzione del tempio di Iside</IT>
+					<FR>Pour 15 coups en 20 secondes après avoir construit le temple d'Isis.</FR>
+					<NL>Voor vijftien zetten binnen 20 seconden, na het bouwen van de Tempel van Isis.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Süper bomba bonusunuz daha hizli dolar.</EN>
+					<DE>Superbomben-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Superbomba se carga más rápido.</ES>
+					<IT>Bonus Superbomba: ricarica piú velocemente.</IT>
+					<FR>Le bonus super-bombe se recharge plus vite.</FR>
+					<NL>Superbombonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen12>
+			<citizen13>
+				<name>
+					<!--ev_sculptor_02_cd-->
+					<EN>Heykeltiras</EN>
+					<DE>Bildhauer</DE>
+					<ES>Escultor</ES>
+					<FR>Sculpteur</FR>
+					<IT>Scultore</IT>
+					<NL>Beeldhouwer</NL>
+				</name>
+				<locked_desc>
+					<EN>Abu Simbel'i insa ettikten sonra tek seviyede {amount} birim altin topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Gold in einem Level, nachdem Ihr Abu Simbel gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de oro en un nivel, tras haber construido Abu Simbel.</ES>
+					<IT>Per aver raccolto {amount} unità di oro in un unico livello dopo aver costruito Abu Simbel.</IT>
+					<FR>Pour la collecte de {amount} unités d'or en un niveau après avoir construit Abou Simbel.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden goud in éen level, na het bouwen van Abu Simbel.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim altin</EN>
+					<DE>+{amount} Gold in jedem Level</DE>
+					<ES>+{amount} de oro en cada nivel</ES>
+					<IT>+{amount} unità d'oro in ogni livello.</IT>
+					<FR>+{amount} or dans chaque niveau</FR>
+					<NL>+{amount} goudstukken in elk level</NL>
+				</unlocked_desc>
+			</citizen13>
+			<citizen14>
+				<name>
+					<!--NEW! NOT "WISEMAN" from CoE PC-->
+					<EN>Bilge</EN>
+					<DE>Gelehrter</DE>
+					<ES>Erudito</ES>
+					<IT>Saggio di corte</IT>
+					<FR>Érudit</FR>
+					<NL>Geleerde</NL>
+				</name>
+				<locked_desc>
+					<EN>Büyük Sfenks'i insa ettikten sonra tek seviyede {amount} birim kaynak topladiginiz için!</EN>
+					<DE>Für das Sammeln von {amount} Rohstoffe in einem Level, nachdem Ihr die Große Sphinx gebaut habt.</DE>
+					<ES>Por reunir {amount} materias primas en un nivel, tras haber construido la Gran Esfinge.</ES>
+					<IT>Per la raccolta di {amount} materie prime in un unico livello dopo aver costruito la Grande Sfinge.</IT>
+					<FR>Pour la collecte de {amount} matières premières après avoir construit le Grand Sphinx.</FR>
+					<NL>Voor het verzamelen van {amount} grondstoffen in één level, na het bouwen van de Grote Sfinx.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Karistirici bonusunuz daha hizli dolar.</EN>
+					<DE>Wirbel-Bonus lädt schneller auf</DE>
+					<ES>El Bonus Torbellino se carga más rápido</ES>
+					<IT>Bonus Vortice: ricarica piú velocemente.</IT>
+					<FR>Le bonus tourbillon se recharge plus vite.</FR>
+					<NL>Wervelbonus laadt sneller op</NL>
+				</unlocked_desc>
+			</citizen14>
+			<citizen15>
+				<name>
+					<!--ev_wiseman_02_cd (!!!)-->
+					<EN>Mumyalayici</EN>
+					<DE>Einbalsamierer</DE>
+					<ES>Embalsamador</ES>
+					<FR>Embaumeur</FR>
+					<IT>Imbalsamatore</IT>
+					<NL>Balsemer</NL>
+				</name>
+				<locked_desc>
+					<EN>Memnon Heykelleri'ni insa ettikten sonra tek seviyede {amount} birim altin topladiginiz için.</EN>
+					<DE>Für das Sammeln von {amount} Einheiten Gold in einem Level, nachdem Ihr die Memnonstatuen gebaut habt.</DE>
+					<ES>Por reunir {amount} unidades de oro en un nivel, tras haber construido las estatuas de Memnón.</ES>
+					<IT>Per la raccolta di {amount} unità d'oro in un unico livello dopo aver costruito il Colosso di Memnone.</IT>
+					<FR>Pour la collecte de {amount} unités d'or en un niveau après avoir construit les statues de Memnon.</FR>
+					<NL>Voor het verzamelen van {amount} eenheden goud in één level, na het bouwen van de Kolossen van Memnon.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Her yeni seviyede +{amount} birim altin</EN>
+					<DE>+{amount} Gold in jedem Level</DE>
+					<ES>+{amount} de oro en cada nivel</ES>
+					<IT>+{amount} unità d'oro in ogni livello.</IT>
+					<FR>+{amount} or dans chaque niveau</FR>
+					<NL>+{amount} goudstukken in elk level</NL>
+				</unlocked_desc>
+			</citizen15>
+			<citizen16>
+				<name>
+					<!--NEW!-->
+					<EN>Rahip</EN>
+					<DE>Priester</DE>
+					<ES>Sacerdote</ES>
+					<IT>Sacerdote</IT>
+					<FR>Prêtre</FR>
+					<NL>Priester</NL>
+				</name>
+				<locked_desc>
+					<EN>Hatsepsut Tapinagi'ni insa ettikten sonra art arda 15 tas kirdiginiz için.</EN>
+					<DE>Für das Zerstören von 15 Kacheln hintereinander, nachdem Ihr den Tempel der Hatshepsut gebaut habt.</DE>
+					<ES>Por destruir 15 baldosas seguidas, tras haber construido el Templo de Hatshepsut.</ES>
+					<IT>Per aver distrutto di 15 piastrelle di fila, dopo aver costruito il tempio di Hatshepsut.</IT>
+					<FR>Pour la destruction de 15 carreaux d'affilée après avoir construit le temple Hatchepsout.</FR>
+					<NL>Voor het vernietigen van 15 tegels achter elkaar, na het bouwen van de Tempel van Hatsjepsoet.</NL>
+				</locked_desc>
+				<unlocked_desc>
+					<EN>Yildiz bonusunuz daha hizli dolar.</EN>
+					<DE>Stern-Bonus lädt schneller auf.</DE>
+					<ES>El Bonus Estrella se carga más rápido.</ES>
+					<IT>Bonus Stella: ricarica più velocemente.</IT>
+					<FR>Le bonus étoile se recharge plus vite.</FR>
+					<NL>Sterbonus laadt sneller op.</NL>
+				</unlocked_desc>
+			</citizen16>
+		</citizens>
+		<medals>
+			<medal01>
+				<name>
+					<EN>Bronz madalya</EN>
+					<DE>Bronzene Medaille</DE>
+					<ES>Medalla de bronce</ES>
+					<IT>Medaglia di bronzo</IT>
+					<FR>Médaille de bronze</FR>
+					<NL>Bronzen medaille</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Bronz madalyayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt die Bronzene Medaille gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la medalla de bronce.</ES>
+					<IT>Complimenti! Hai vinto la medaglia di bronzo.</IT>
+					<FR>Félicitations! Vous avez remporté la médaille de bronze.</FR>
+					<NL>Gefeliciteerd! Je hebt de bronzen medaille gewonnen</NL>
+				</description>
+			</medal01>
+			<medal02>
+				<name>
+					<EN>Gümüs madalya</EN>
+					<DE>Silberne Medaille</DE>
+					<ES>Medalla de plata</ES>
+					<IT>Medaglia d'argento</IT>
+					<FR>Médaille d'argent</FR>
+					<NL>Zilveren medaille</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Gümüs madalyayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt die Silberne Medaille gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la medalla de plata.</ES>
+					<IT>Complimenti! Hai vinto la medaglia d'argento.</IT>
+					<FR>Félicitations! Vous avez remporté la médaille d'argent.</FR>
+					<NL>Gefeliciteerd! je hebt de zilveren medaille gewonnen.</NL>
+				</description>
+			</medal02>
+			<medal03>
+				<name>
+					<EN>Altin madalya</EN>
+					<DE>Goldene Medaille</DE>
+					<ES>Medalla de oro</ES>
+					<IT>Medaglia d'oro</IT>
+					<FR>Médaille d'or</FR>
+					<NL>Gouden medaille</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Altin madalyayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt die Goldene Medaille gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la medalla de oro.</ES>
+					<IT>Complimenti! Hai vinto la medaglia d'oro.</IT>
+					<FR>Félicitations! Vous avez remporté la médaille d'or.</FR>
+					<NL>Gefeliciteerd! Je hebt de gouden medaille gewonnen.</NL>
+				</description>
+			</medal03>
+		</medals>
+		<cups>
+			<cup01>
+				<name>
+					<EN>Bronz Kupa</EN>
+					<DE>Bronze-Kelch</DE>
+					<ES>Copa de bronce</ES>
+					<IT>Coppa di bronzo</IT>
+					<FR>Calice de bronze</FR>
+					<NL>Bronzen kelk</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Bronz kupayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt den bronzenen Kelch gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de bronce.</ES>
+					<IT>Complimenti! Hai vinto la coppa di bronzo.</IT>
+					<FR>Félicitations! Vous avez remporté le calice de bronze.</FR>
+					<NL>Gefeliciteerd! Je hebt de bronzen kelk gewonnen.</NL>
+				</description>
+			</cup01>
+			<cup02>
+				<name>
+					<EN>Gümüs Kupa</EN>
+					<DE>Silber-Kelch</DE>
+					<ES>Copa de plata</ES>
+					<IT>Coppa d'argento</IT>
+					<FR>Calice d'argent</FR>
+					<NL>Zilveren kelk</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Gümüs kupayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt den silbernen Kelch gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de plata.</ES>
+					<IT>Complimenti! Hai vinto la coppa d'argento.</IT>
+					<FR>Félicitations! Vous avez remporté le calice d'argent.</FR>
+					<NL>Gefeliciteerd! Je hebt de zilveren kelk gewonnen.</NL>
+				</description>
+			</cup02>
+			<cup03>
+				<name>
+					<EN>Altin Kupa</EN>
+					<DE>Gold-Kelch</DE>
+					<ES>Copa de oro</ES>
+					<IT>Coppa d'oro</IT>
+					<FR>Calice d'or</FR>
+					<NL>Gouden kelk</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Altin kupayi kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt den goldenen Kelch gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de oro.</ES>
+					<IT>Complimenti! Hai vinto la coppa d'oro</IT>
+					<FR>Félicitations! Vous avez remporté le calice d'or.</FR>
+					<NL>Gefeliciteerd! Je hebt de gouden kelk gewonnen.</NL>
+				</description>
+			</cup03>
+			<cup04>
+				<name>
+					<!--blitz_cup_07_dialog_02-->
+					<EN>Erdem Kupasi</EN>
+					<DE>Kelch der Tugend</DE>
+					<ES>Copa de la Virtud</ES>
+					<FR>Coupe de vertu</FR>
+					<IT>Coppa virtù</IT>
+					<NL>Deugdcup</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Erdem Kupasi'ni kazandiniz.</EN>
+					<DE>Glückwunsch! Ihr habt den Kelch der Tugend gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de la virtud.</ES>
+					<FR>Felicitations! Vous avez gagné la coupe de vertu.</FR>
+					<IT>Congratulazioni!</IT>
+					<NL>Gefeliciteerd! Je hebt de deugdcup gewonnen.</NL>
+				</description>
+			</cup04>
+			<cup05>
+				<name>
+					<!--blitz_cup_09_dialog_02-->
+					<EN>Cesaret Kupasi</EN>
+					<DE>Kelch der Tapferkeit</DE>
+					<ES>Copa del valor</ES>
+					<FR>Coupe de courage</FR>
+					<IT>Coppa coraggio</IT>
+					<NL>Heldencup</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Cesaret Kupasi'ni kazandiniz</EN>
+					<DE>Glückwunsch! Ihr habt den Kelch der Tapferkeit gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa del valor.</ES>
+					<FR>Felicitations! Vous avez gagné la coupe de courage.</FR>
+					<IT>Congratulazioni!</IT>
+					<NL>Gefeliciteerd! Je hebt de heldencup gewonnen.</NL>
+				</description>
+			</cup05>
+			<cup06>
+				<name>
+					<!--blitz_cup_11_dialog_02-->
+					<EN>Bilgelik Kupasi</EN>
+					<DE>Kelch der Weisheit</DE>
+					<ES>Copa de la sabiduría</ES>
+					<FR>Coupe de sagesse</FR>
+					<IT>Coppa saggezza</IT>
+					<NL>Kenniscup</NL>
+				</name>
+				<description>
+					<EN>Tebrikler! Bilgelik Kupasi'ni kazandiniz</EN>
+					<DE>Glückwunsch! Ihr habt den Kelch der Weisheit gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de la sabiduría.</ES>
+					<FR>Felicitations! Vous avez gagné la coupe de sagesse.</FR>
+					<IT>Congratulazioni!</IT>
+					<NL>Gefeliciteerd! Je hebt de kenniscup gewonnen.</NL>
+				</description>
+			</cup06>
+			<cup07>
+				<name>
+					<!--blitz_cup_12_dialog_02-->
+					<EN>Ihtisam Kupasi</EN>
+					<DE>Kelch der Herrlichkeit</DE>
+					<DE>Copa de la gloria</DE>
+					<FR>Coupe de gloire</FR>
+					<IT>Coppa gloria</IT>
+					<NL>Gloriecup</NL>
+					<ES>Copa de la gloria</ES>
+				</name>
+				<description>
+					<EN>Tebrikler! Ihtisam Kupasi'ni kazandiniz</EN>
+					<DE>Glückwunsch! Ihr habt den Kelch der Herrlichkeit gewonnen.</DE>
+					<ES>¡Enhorabuena! Habéis ganado la copa de la gloria.</ES>
+					<FR>Felicitations! Vous avez gagné la coupe de gloire.</FR>
+					<IT>Congratulazioni!</IT>
+					<NL>Gefeliciteerd! Je hebt de gloriecup gewonnen.</NL>
+				</description>
+			</cup07>
+		</cups>
+	</award>
+	<blitz>
+		<mode>
+			<EN>Hiz Modu</EN>
+			<DE>Blitz Modus</DE>
+			<FR>Mode éclair</FR>
+			<ES>Modo relámpago</ES>
+			<IT>Modalitá fulminiea</IT>
+			<NL>Bliksem modus</NL>
+		</mode>
+		<best_level>
+			<EN>En Yüksek Seviye</EN>
+			<DE>Bestes Level</DE>
+			<FR>Meilleur niveau</FR>
+			<ES>Máximo nivel</ES>
+			<IT>Miglior livello</IT>
+			<NL>Beste level</NL>
+		</best_level>
+		<best_score>
+			<EN>En Yüksek Skor</EN>
+			<DE>Beste Punkte</DE>
+			<FR>Meilleur score</FR>
+			<ES>Máxima puntuación</ES>
+			<IT>Miglior punteggio</IT>
+			<NL>Beste punten</NL>
+		</best_score>
+	</blitz>
+	<construction>
+		<buttons>
+			<detail>
+				<EN>DETAYLAR</EN>
+				<DE>DETAILS</DE>
+				<ES>DETALLES</ES>
+				<IT>DETTAGLI</IT>
+				<FR>DÉTAILS</FR>
+				<NL>DETAILS</NL>
+			</detail>
+			<buy>
+				<EN>SATIN AL</EN>
+				<DE>KAUFEN</DE>
+				<ES>COMPRAR</ES>
+				<FR>ACHETER</FR>
+				<IT>COMPRARE</IT>
+				<NL>KOPEN</NL>
+			</buy>
+			<play>
+				<EN>OYNA</EN>
+				<DE>SPIELEN</DE>
+				<ES>JUGAR</ES>
+				<IT>GIOCARE</IT>
+				<FR>JOUER</FR>
+				<NL>SPELEN</NL>
+			</play>
+			<show>
+				<EN>GÖSTER</EN>
+				<DE>ANSICHT</DE>
+				<ES>VISTA</ES>
+				<IT>VISUALIZZA</IT>
+				<FR>AFFICHAGE</FR>
+				<NL>BEKIJKEN</NL>
+			</show>
+		</buttons>
+		<buildings>
+			<build01>
+				<name>
+					<!--NEW!-->
+					<EN>Tarla</EN>
+					<DE>Acker</DE>
+					<FR>Champ</FR>
+					<IT>Campo</IT>
+					<ES>Campo</ES>
+					<NL>Veld</NL>
+				</name>
+				<details>
+					<!--ct_ds_field_01-->
+					<EN>Tarla, vatandaslarinizi beslemek için yiyecek üretir. Misirlilar tarlalarini Nil Nehri kiyisindaki verimli kara topraga eker; bu topraklar saglikli ürünler yetistirmek için idealdir.</EN>
+					<DE>Auf dem Feld wächst die Nahrung für deine Bürger. Die Ägypter beackern vor allem die fruchtbaren schlammigen Böden an den Ufern des Nils, aus denen die gesündesten Pflanzen sprießen.</DE>
+					<FR> Les champs produisent la nourriture pour vos citoyens. Les égyptiens cultivent la terre noire et riche des rives du Nil, qui est idéale pour obtenir de belles récoltes.</FR>
+					<IT>  Dal campo si otteneva il cibo per nutrire la popolazione. Gli egizi piantavano le colture lungo le fertili sponde del Nilo.</IT>
+					<ES>En el huerto crece la comida que alimenta a tus vecinos. Los egipcios plantan los cultivos en el fértil y negro terreno junto a las orillas del río Nilo.</ES>
+					<NL>Op de akker groeit het voedsel voor je onderdanen. De Egyptenaren leggen hun akkers aan op de rijke zwarte grond langs de oevers van de Nijl, waarop gewassen geweldig groeien.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim yiyecek alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Nahrung.</DE>
+					<FR>Vous obtenez {amount} unités de nourriture.</FR>
+					<IT>Ricevi {amount} unità di viveri.</IT>
+					<ES>Recibís {amount} unidades de provisiones.</ES>
+					<NL>Dit levert {amount} eenheden voedsel op.</NL>
+				</benefit>
+			</build01>
+			<build02>
+				<name>
+					<EN>Kulübe</EN>
+					<DE>Bauernhaus</DE>
+					<FR>Cabane de chasse</FR>
+					<IT>Capanna del cacciatore.</IT>
+					<ES>Cabaña de caza</ES>
+					<NL>Jachthut</NL>
+				</name>
+				<details>
+					<!--ct_ds_hut_01-->
+					<EN>Çiftçi kulübesi, çiftçilerinize barinak saglar ve esyalarini koyabilecekleri güzel bir yer sunar.</EN>
+					<DE>Im Bauernhaus finden deine Bauern ein gemütliches und sicheres Zuhause.</DE>
+					<FR>La hutte de fermier abrite vos fermiers et ils peuvent y mettre leurs affaires.</FR>
+					<IT>  La capanna forniva riparo ai contadini consentendo di riporvi le proprie cose. L'agricoltura era una delle occupazioni principali nell'antico Egitto.</IT>
+					<ES>Esta choza sirve de refugio para tus granjeros y les permite guardar sus cosas. La agricultura es una de las ocupaciones principales en Egipto.</ES>
+					<NL>De boerenhut biedt onderdak aan je boeren en geeft hen een plek om hun spulletjes op te bergen. Akkerbouw is een van de belangrijkste beroepen in Egypte. Mannen en jongens geven de gewassen op het land water, terwijl de vrouwen koken en katoen spinnen om draad te maken.</NL>
+				</details>
+				<benefit>
+					<EN>Bu bonus herhangi bir tasi kirabilir!</EN>
+					<DE>Dieser Bonus kann jede beliebige Kachel zerbrechen!</DE>
+					<FR>Ce bonus peut détruire n'importe quel carreau!</FR>
+					<IT>Questo Bonus può eliminare qualsiasi tassello!</IT>
+					<ES>Este bonus puede romper cualquier azulejo.</ES>
+					<NL>Met deze bonus breek je een willekeurige tegel!</NL>
+				</benefit>
+			</build02>
+			<build03>
+				<name>
+					<EN>Hizar</EN>
+					<DE>Sägewerk</DE>
+					<FR>Scierie</FR>
+					<IT>Segheria</IT>
+					<ES>Aserradero</ES>
+					<NL>Houtzagerij</NL>
+				</name>
+				<details>
+					<EN>Ahsap, dünyanin dört bir yanindaki yapilarda kullanilan en eski malzemelerden biridir.</EN>
+					<DE>Holz ist eines der ältesten Materialien, das in allen Teilen der Welt genutzt wird.</DE>
+					<FR>Le bois est un des matériaux les plus anciens utilisés  dans le monde entier.</FR>
+					<IT>Il legno è un materiale antico, che viene utilizzato in tutti gli angoli del mondo.</IT>
+					<ES>La madera es uno de los materiales más antiguos utilizado a lo largo y ancho del mundo.</ES>
+					<NL>Hout is een van de oudste materialen, dat in alle delen van de wereld gebruikt werd.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim kaynak alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Baumaterial.</DE>
+					<FR>Vous obtenez {amount} unités de matériaux de construction.</FR>
+					<IT>Ricevi {amount} unità di materiale da costruzione.</IT>
+					<ES>Recibís {amount} unidades de material de construcción.</ES>
+					<NL>Dit levert {amount} eenheden bouwmateriaal op.</NL>
+				</benefit>
+			</build03>
+			<build04>
+				<name>
+					<EN>Köy</EN>
+					<DE>Dorf</DE>
+					<FR>Village</FR>
+					<IT>Villaggio</IT>
+					<ES>Aldea</ES>
+					<NL>Dorp</NL>
+				</name>
+				<details>
+					<EN>Yerlesiminizin nüfusu her gün artar. Köy, vatandaslara el sanatlari, tarim ve hayvancilik yapabilecekleri bir yer saglar.</EN>
+					<DE>Die Bevölkerung Eures Dorfes steigt jeden Tag an. Das Dorf gibt seinen Bürgern die Möglichkeit, Handwerk auszuüben sowie Ackerbau und Viehzucht zu betreiben.</DE>
+					<FR>La population de votre village augmente de jour en jour. Les citoyens y ont la possibilité de pratiquer l'artisanat, l'élevage ou encore l'agriculture.</FR>
+					<IT>La popolazione del tuo villaggio cresce ogni giorno di più. Il villaggio fornisce ai suoi cittadini tutto ciò che è necessario allo sviluppo dell'artigianato, dell'agricoltura e dell'allevamento.</IT>
+					<ES>La población de vuestra aldea crece cada día. La aldea da a sus habitantes la posibilidad de realizar trabajos artesanales, agricultura y ganadería.</ES>
+					<NL>Het bevolkingsaantal van je dorp loopt elke dag op. Het dorp geeft zijn burgers de mogelijkheid, ambachten uit te oefenen zoals akkerbouw and veehouderij.</NL>
+				</details>
+				<benefit>
+					<EN>Bomba sahadaki en fazla 9 tasi yok eder!</EN>
+					<DE>Die Bombe zerstört bis zu 9 Kacheln auf dem Feld!</DE>
+					<FR>La bombe détruit jusqu'à 9 carreaux sur le terrain!</FR>
+					<IT>La bomba elimina fino a 9 tasselli dal campo!</IT>
+					<ES>¡La bomba destruye hasta 9 azulejos en el campo!</ES>
+					<NL>De bom blaast maximaal 9 tegels op!</NL>
+				</benefit>
+			</build04>
+			<build05>
+				<name>
+					<!--ct_tt_apiary-->
+					<EN>Bal Çiftligi</EN>
+					<DE>Imkerei</DE>
+					<FR>Rucher</FR>
+					<IT>Arnia</IT>
+					<ES>Abejar</ES>
+					<NL>Bijenkorf</NL>
+				</name>
+				<details>
+					<!--ct_ds_apiary_01-->
+					<EN>Ari, Misir'in sembollerinden biridir. Misirlilar bali yiyecek, tanrilara sunu ve makyaj ile ilaç üretiminde kullanir. Balmumunu ise tekne yapiminda, mumyalamada ve boya için baglayici madde olarak kullanirlar.</EN>
+					<DE>Die Biene ist eines der Symboltiere der Ägypter. Honig wird nicht nur gegessen, sondern auch den Göttern geopfert oder zu Kosmetik und Medizin verarbeitet. Bienenwachs nutzen die Ägypter für den Schiffbau, die Mumifizierung und als Bindemittel für Farbe.</DE>
+					<FR>L'abeille est l'un des symboles de l'Égypte. Les égyptiens utilisent le miel dans la cuisine, en offrandes pour les dieux, pour faire du maquillage et se soigner. Ils utilisent la cire d'abeille pour la construction de bateaux, la momification et comme liant pour la peinture.</FR>
+					<IT>L'ape è uno dei simboli dell'Egitto. Gli egizi usavano il miele come alimento, per offrirlo agli dèi, per la cosmesi e la medicina. Utilizzavano la cera d'api nella costruzione delle navi, per la mummificazione e come amalgama per le tinture.</IT>
+					<ES>La abeja es uno de los símbolos de Egipto. Los egipcios usan la miel como alimento, ofrenda a los dioses y para producir medicinas y maquillaje. También usan la cera para fabricar barcos, momificar a los muertos y como espesante para la pintura.</ES>
+					<NL>  De bij is een van de symbolen van Egypte. De Egyptenaren gebruiken honing als voedsel, als offer voor de goden en in make-up en medicijnen. Ze gebruiken bijenwas om boten te bouwen, doden te mummificeren en verf te binden.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim yiyecek alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Nahrung.</DE>
+					<FR>Vous obtenez {amount} unités de nourriture.</FR>
+					<IT>Ricevi {amount} unità di viveri.</IT>
+					<ES>Recibís {amount} unidades de provisiones.</ES>
+					<NL>Dit levert {amount} eenheden voedsel op.</NL>
+				</benefit>
+			</build05>
+			<build06>
+				<name>
+					<!--ct_tt_pottery-->
+					<EN>Çömlekçi</EN>
+					<DE>Töpferei</DE>
+					<FR>Poterie</FR>
+					<IT>Vasellame</IT>
+					<ES>Alfarería</ES>
+					<NL>Pottenbakkerij</NL>
+				</name>
+				<details>
+					<!--ct_ds_pottery_01_02-->
+					<EN>Çömlekçilik en mucizevi üretimlerden biridir. Misirlilar çömlek yapan ilk halklardan biridir. Kil, Misir yasaminda temel bir rol oynar. Içinde yasarlar, ondan içerler, onda yemek pisirirler, ondan yerler ve sivilari onunla tasirlar.</EN>
+					<DE>Ton ist eine wundervolle Erfindung! Seitdem die Ägypter die Töpferei für sich entdeckten, spielt Ton eine wichtige Rolle im ägyptischen Alltag. Man trinkt daraus, kocht darin, isst davon und bewahrt Lebensmittel darin auf.</DE>
+					<FR>La poterie est une création miraculeuse. Les égyptiens furent l'un des premiers peuples à faire de la poterie. L'argile joue un rôle essentiel dans leur vie de tous les jours. Elle permet de s'abriter, de cuisiner, de manger et de transporter des liquides.</FR>
+					<IT>La terracotta fu una scoperta miracolosa. Gli egizi furono tra i primi a produrla e a farne largo uso. Le abitazioni erano di terracotta, così come le pentole e il vasellame per cucinare, bere, mangiare e trasportare liquidi.</IT>
+					<ES>La alfarería es asombrosa. Los egipcios fueron uno de los primeros pueblos en practicarla. La arcilla juega un papel fundamental en sus vidas. Se usa en las viviendas, para beber, comer, cocinar y transportar cosas.</ES>
+					<NL>Aardewerk is een wonderbaarlijke uitvinding. De Egyptenaren hebben het als een van de eersten ontdekt. Klei speelt een belangrijke rol in het leven van de Egyptenaren. Ze wonen erin, drinken eruit, koken erin en bewaren er vloeistoffen in.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim kaynak alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Baumaterial.</DE>
+					<FR>Vous obtenez {amount} unités de matériaux de construction.</FR>
+					<IT>Ricevi {amount} unità di materiale da costruzione.</IT>
+					<ES>Recibís {amount} unidades de material de construcción.</ES>
+					<NL>Dit levert {amount} eenheden bouwmateriaal op.</NL>
+				</benefit>
+			</build06>
+			<build07>
+				<name>
+					<!--ct_tt_bakery-->
+					<EN>Firin</EN>
+					<DE>Bäckerei</DE>
+					<FR>Boulangerie</FR>
+					<IT>Forno</IT>
+					<ES>Panadería</ES>
+					<NL>Bakkerij</NL>
+				</name>
+				<details>
+					<!--ct_ds_bakery_01_02-->
+					<EN>Firin yalnizca bir çalisma yeri degil, ayni zamanda firinci ve ailesinin evidir. Satilik taze ekmekler disaridaki raflarda durur. Firinlar her Misir sehrinde bulunur.</EN>
+					<DE>Die Bäckerei ist nicht nur Arbeitsplatz, sondern auch Wohnstätte für den Bäcker und seine Familie. Das frische Brot wird direkt an der Straße zum Verkauf angeboten. Bäckereien finden sich in jeder ägyptischen Stadt.</DE>
+					<FR>La boulangerie est non seulement un lieu de travail, mais aussi une maison pour le boulanger et sa famille. Le pain frais à vendre est placé sur des grilles à l'extérieur. Il y a des boulangeries dans toutes les villes d'Égypte.</FR>
+					<IT>Il forno non era solo un luogo di lavoro ma era anche l'abitazione del fornaio e della sua famiglia. Il pane fresco era esposto in vendita all'esterno. In ogni città egizia c'era un forno.</IT>
+					<ES>La panadería no solo es un lugar de trabajo, sino el hogar del panadero y su familia. El pan recién hecho se expone en las estanterías de afuera. Todas las ciudades egipcias tienen panaderías.</ES>
+					<NL>De bakkerij is niet alleen een werkplaats, maar ook het huis van de bakker en zijn gezin. Het versgebakken brood ligt in rekken buiten. In elke Egyptische stad zijn bakkerijen te vinden.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim yiyecek alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Nahrung.</DE>
+					<FR>Vous obtenez {amount} unités de nourriture.</FR>
+					<IT>Ricevi {amount} unità di viveri.</IT>
+					<ES>Recibís {amount} unidades de provisiones.</ES>
+					<NL>Dit levert {amount} eenheden voedsel op.</NL>
+				</benefit>
+			</build07>
+			<build08>
+				<name>
+					<!--NEW!-->
+					<EN>Osiris Tapinagi</EN>
+					<DE>Tempel des Osiris</DE>
+					<FR>Temple d'Osiris</FR>
+					<IT>Tempio di Osiride</IT>
+					<ES>Templo de Osiris</ES>
+					<NL>Osiristempel</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Osiris; öteki dünyanin, yeraltinin ve ölülerin tanrisidir. O, yalnizca öteki dünyada ölülerin merhametli yargici degil, ayni zamanda filizlenen bitkiler ve Nil Nehri'nin bereketli taskinlari dâhil tüm yasama güç veren yeralti kudretidir.</EN>
+					<DE>Osiris ist der Gott des Lebens nach dem Tod und der Unterwelt. Er ist sowohl ein gnädiger Richter über die Toten, als auch verantwortlich für das Wachstum der Pflanzen und das Wasser des Nils.</DE>
+					<FR>Osiris est le Dieu de la vie après la mort et de l'au-delà. Il n'est pas seulement le juge clément qui accueille les morts dans l'au-delà. Il est aussi responsable de la croissance de la végétation et des eaux du Nil.</FR>
+					<IT>Osiride è il dio dell'aldilà e degli inferi. Egli oltre ad essere il giudice misericordioso dei morti è anche il responsabile della crescita delle piante, grazie alle fertili inondazioni del Nilo.</IT>
+					<ES>Osiris es el dios de la vida después de la muerte y del inframundo. Es un juez compasivo con los muertos y es el responsable de la fertilidad y el crecimiento de las plantas y de las aguas del Nilo.</ES>
+					<NL>Osiris is de god van het hiernamaals, de dood en de onderwereld. Hij is een genadige rechter voor de doden en verantwoordelijk voor de plantengroei en het water van de Nijl.</NL>
+				</details>
+				<benefit>
+					<EN>Bu bonus, yolundaki tüm taslari X seklinde yok eder.</EN>
+					<DE>Dieser Bonus zerstört X-förmig alle Kacheln in seiner Flugbahn.</DE>
+					<FR>Ce bonus permet de détruire sous forme de X tous les carreaux sur sa trajectoire.</FR>
+					<IT>Questo bonus distrugge tutti i tasselli a forma di  X sulla sua traiettoria.</IT>
+					<ES>Con este bonus se destruyen durante la trayectoria todos los azulejos en forma de X.</ES>
+					<NL>Met deze bonus kun je alle tegels in een diagonaal kruis vernietigen.</NL>
+				</benefit>
+			</build08>
+			<build09>
+				<name>
+					<!--NEW!-->
+					<EN>Ambar</EN>
+					<DE>Kornkammer</DE>
+					<FR>Grenier</FR>
+					<IT>Granaio</IT>
+					<ES>Granero</ES>
+					<NL>Graanschuur</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Limanin yanindaki ambar, büyük miktarlarda tahili depolamaya ve bunlari Misir Imparatorlugu'nun tüm bölgelerine göndermeye olanak tanir.</EN>
+					<DE>In der Kornkammer am Hafen können große Mengen Getreide bevorratet und von hier aus in alle Regionen Ägyptens transportiert werden.</DE>
+					<FR>Dans les greniers à blé du port peuvent être stockées de grandes quantités de céréales destinées à être expédiées dans tout l'empire égyptien.</FR>
+					<IT>Nel granaio del porto possono essere accumulate grandi quantità di grano, in attesa di essere trasportate da qui a tutte le regioni d'Egitto.</IT>
+					<ES>En el granero del puerto, se pueden almacenar grandes cantidades de cereales y desde aquí transportarlas a todas las regiones de Egipto.</ES>
+					<NL>In de graanopslag bij de haven kunnen grote hoeveelheden graan worden opgeslagen en van daaruit naar alle regio's in Egypte worden getransporteerd.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim yiyecek alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Nahrung.</DE>
+					<FR>Vous obtenez {amount} unités de nourriture.</FR>
+					<IT>Ricevi {amount} unità di viveri.</IT>
+					<ES>Recibís {amount} unidades de provisiones.</ES>
+					<NL>Dit levert {amount} eenheden voedsel op.</NL>
+				</benefit>
+			</build09>
+			<build10>
+				<name>
+					<!--NEW!-->
+					<EN>Konut</EN>
+					<DE>Wohnhaus</DE>
+					<FR>Maison</FR>
+					<IT>Abitazione</IT>
+					<ES>Casa</ES>
+					<NL>Woonhuis</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Özellikle Firavun'un en üst düzey görevlileri olmak üzere bazi ayricalikli vatandaslar, yüksek yasam standartlarinin keyfini çikararak bu tür evlerde yasardi.</EN>
+					<DE>Einige privilegierte Bürger, vor allem die höchsten Beamten des Pharao, lebten in luxuriösen Häusern wie diesem und genossen einen hohen Lebensstandard.</DE>
+					<FR>Certains citoyens privilégiés, parmi lesquels les hauts fonctionnaires du Pharaon, habitent des maisons luxueuses comme celle-ci, profitant d'une qualité de vie très élevée.</FR>
+					<IT>Alcuni cittadini privilegiati, in particolare i più alti funzionari del Faraone, vivono in case lussuose come questa e godono di un elevato tenore di vita.</IT>
+					<ES>Algunos ciudadanos privilegiados, sobre todo los oficiales superiores del faraón, viven en lujosas casas como estas y disfrutan de un nivel de vida elevado.</ES>
+					<NL>Enige bevoorrechte burgers, vooral de hoogste ambtenaren van de farao, leven in luxueuze huizen als deze en genieten een hoge levensstandaard.</NL>
+				</details>
+				<benefit>
+					<EN>Ilave süre kazanirsiniz.</EN>
+					<DE>Ihr erhaltet dafür zusätzliche Zeit!</DE>
+					<FR>Vous obtenez du temps supplémentaire!</FR>
+					<IT>Ricevi del tempo supplementare!</IT>
+					<ES>Recibís tiempo adicional.</ES>
+					<NL>Dit levert extra tijd op!</NL>
+				</benefit>
+			</build10>
+			<build11>
+				<name>
+					<!--NEW!-->
+					<EN>Kale</EN>
+					<DE>Festung</DE>
+					<FR>Forteresse</FR>
+					<IT>Fortezza</IT>
+					<ES>Fortaleza</ES>
+					<NL>Vesting</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Bir kale, bir bölgenin askerî ve idarî merkeziydi. Bazilari binlerce askere ve görevliye ev sahipligi yapiyordu.</EN>
+					<DE>Eine Festung war militärisches und administratives Zentrum einer Region. Manche von ihnen beherbergten mehrere tausend Beamte und Soldaten.</DE>
+					<FR>La forteresse est le centre militaire et administratif d'une région. Certaines d'entre elles abritent plusieurs milliers de fonctionnaires et de soldats.</FR>
+					<IT>Il centro amministrativo e militare di una regione è una fortezza. Alcune di esse arrivano ad ospitare diverse migliaia di ufficiali e soldati.</IT>
+					<ES>Una fortaleza es el centro militar y administrativo de una región. Algunas de ellas son el hogar de miles de oficiales y soldados.</ES>
+					<NL>Een vesting is het militair en administratief centrum van een regio. Sommige herbergen duizenden ambtenaren en soldaten.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità di oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build11>
+			<build12>
+				<name>
+					<!--NEW!-->
+					<EN>Karnak Tapinaklari</EN>
+					<DE>Tempel von Karnak</DE>
+					<FR>Temple de Karnak</FR>
+					<IT>Tempio di Karnak</IT>
+					<ES>Templo de Karnak</ES>
+					<NL>Tempel van Karnak</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Karnak Tapinak Kompleksi; tapinaklar, sapeller, pilonlar ve diger kutsal yapilardan olusan devasa bir bütündür. Tanrilar bundan hosnut olur. Sizi her türlü zarardan korurlar!</EN>
+					<DE>Im Tempelkomplex von Karnak befinden sich zahlreiche Tempel, Kapellen, Pylonen und andere heilige Gebäude. Den Götter gefällt dies, sie halten ihre schützende Hand über euch!</DE>
+					<FR>Le complexe du temple de Karnak comprend de nombreux temples, chapelles, pylônes et autres monuments sacrés. Les dieux, reconnaissants, vous protègeront du mauvais œil !</FR>
+					<IT>Il grande tempio di Karnak comprende molti templi, cappelle ed altri edifici sacri. Gli Dei per dimostrare la loro riconoscenza ti terranno al riparo da qualsiasi male!</IT>
+					<ES>El complejo del Templo de Karnak alberga un gran número de templos, capillas, pilonos y otros edificios sagrados. A los dioses les gusta esto ¡Os mantendrán protegidos!</ES>
+					<NL>In het Tempelcomplex van Karnak bevinden zich talrijke tempels, kapellen, pylonen en andere heilige gebouwen. De goden waarderen dit, ze houden je de hand boven het hoofd!</NL>
+				</details>
+				<benefit>
+					<EN>Oyun alanindaki herhangi 20 tasi ve zinciri kirar!</EN>
+					<DE>Zerbricht 20 beliebige Kacheln, einschließlich grüner und blauer, sowie Ketten auf dem Spielfeld!</DE>
+					<FR>Détruisez 20 carreaux, n'importe lesquels, y compris les  bleus et verts, et les chaînes sur le terrain de jeu!</FR>
+					<IT>Elimina 20 tasselli a scelta dal campo da gioco, oltre ai tasselli   blu e verdi e le catene!</IT>
+					<ES>¡Romped 20 azulejos cualesquiera, incluidos azulejos de mármol y cadenas!</ES>
+					<NL>Vernietig 20 willekeurige tegels, inclusief groene en blauwe, en kettingen op het speelveld!</NL>
+				</benefit>
+			</build12>
+			<build13>
+				<name>
+					<!--NEW!-->
+					<EN>Nekropol</EN>
+					<DE>Nekropolis</DE>
+					<FR>Nécropole</FR>
+					<IT>Necropoli</IT>
+					<ES>Necrópolis</ES>
+					<NL>Necropolis</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Nekropol, her antik sehrin mezarligiydi. Insanlar burada sevdikleri ölüleri anmak ve ölüm tanrisi Anubis'e kurban sunmak için toplanirdi.</EN>
+					<DE>Die Nekropole war der Begräbnisort einer jeden antiken Stadt. Die Bürger gedachten hier ihrer Toten und brachten Anubis, dem Gott der Totenriten, Opfergaben dar.</DE>
+					<FR>La nécropole fait fonction de cimetière dans toutes les villes antiques. Les citoyens viennent y rendre hommage à leurs  morts et apporter des sacrifices à Anubis, dieu de la mort.</FR>
+					<IT>La Necropoli è il luogo di sepoltura dei morti di ogni città antica. Le persone vengono qui per commemorare i loro cari defunti e per fare sacrifici in onore di Anubis, il dio della morte.</IT>
+					<ES>La necrópolis es el cementerio de toda ciudad antigua. Aquí los ciudadanos rememoran a sus muertos y le traen ofrendas a Anubis, el dios de los ritos funerarios.</ES>
+					<NL>De necropolis is de begraafplaats van elke antieke stad. De burgers herdenken hier hun doden en brengen Anubis - de god van de dood - offers</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità di oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build13>
+			<build14>
+				<name>
+					<!--NEW!-->
+					<EN>Isis Tapinagi</EN>
+					<DE>Tempel der Isis</DE>
+					<FR>Temple d'Isis</FR>
+					<IT>Tempio di Iside</IT>
+					<ES>Templo de Isis</ES>
+					<NL>Tempel van Isis</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Isis, ideal anne ve esin yani sira doganin ve büyünün koruyucusu olarak tapinilan bir tanriçaydi. Kölelerin, günahkârlarin, zanaatkârlarin ve ezilenlerin dostuydu; ayrica zenginlerin, genç kizlarin, aristokratlarin ve yöneticilerin dualarini da dinlerdi.</EN>
+					<DE>Isis wurde als ideale Mutter und Frau verehrt und galt als Göttin der Natur und der Magie. Sie war gleichermaßen Freundin der Sklaven, Sünder, Handwerker und Geknechteten, erhörte jedoch auch die Gebete der Reichen, Jungfrauen, Aristokraten und Mächtigen</DE>
+					<FR>Isis est vénérée à la fois comme mère et épouse idéale et comme déesse de la nature et de la magie. Elle est tout autant l'amie des esclaves, des pécheurs, des artisans et des opprimés que des riches, des vierges, des aristocrates et des puissants.</FR>
+					<IT>Iside è venerata come madre e moglie ideale, nonché dea della natura e della magia. E' amica degli schiavi e dei peccatori, degli artigiani e degli sguatteri, ma ascolta anche le preghiere dei ricchi, delle fanciulle, dei nobili e dei potenti.</IT>
+					<ES>A Isis se le rinde culto como madre, mujer ideal y como diosa de la naturaleza y la magia. Es amiga de esclavos, pecadores, artesanos y oprimidos, también escucha las plegarias de ricos, doncellas, aristócratas y poderosos.</ES>
+					<NL>Isis wordt geëerd als ideale moeder en vrouw en geldt als godin van de natuur en magie. Ze is een vriendin van slaven, zondaars, ambachtslui en onderdrukten, maar hoort ook de gebeden van de rijken, maagden, aristocraten en machtigen.</NL>
+				</details>
+				<benefit>
+					<EN>Bomba sahadaki en fazla 25 tasi yok eder!</EN>
+					<DE>Die Bombe zerstört bis zu 25 Kacheln auf dem Feld!</DE>
+					<FR>La bombe détruit jusqu'à 25 carreaux sur le terrain!</FR>
+					<IT>La bomba elimina fino a 25 caselle dal campo!</IT>
+					<ES>¡La bomba destruye hasta 25 azulejos en el campo!</ES>
+					<NL>De bom blaast maximaal 25 tegels op!</NL>
+				</benefit>
+			</build14>
+			<build15>
+				<name>
+					<EN>Abu Simbel</EN>
+					<DE>Abu Simbel</DE>
+					<FR>Abou Simbel</FR>
+					<IT>Abu Simbel</IT>
+					<ES>Abu Simbel</ES>
+					<NL>Aboe Simbel</NL>
+				</name>
+				<details>
+					<!--NEW!-->
+					<EN>Tapinak öyle bir konumda yer alir ki, yilda iki gün günes isinlari kutsal bölüme girer ve arka duvardaki heykelleri aydinlatir; ancak Yeralti Tanrisi Ptah'in heykeli her zaman karanlikta kalir.</EN>
+					<DE>Dieser Tempel ist so gebaut, dass an zwei bestimmten Tagen im Jahr die Sonnenstrahlen in den Altarraum dringen und die Statuen an dessen Rückseite bestrahlen. Nur Ptah, der Gott der Unterwelt, bleibt stets im Dunkeln.</DE>
+					<FR>Le temple est positionné de telle sorte que, deux jours par an, les rayons du soleil pénètrent dans le sanctuaire pour éclairer les statues situées sur le mur du fond. Seule la statue de Ptah, le dieu de l'au-delà, reste toujours dans les ténèbres.</FR>
+					<IT>Il tempio è stato costruito in modo tale che, due giorni all'anno, i raggi del sole penetrino nel santuario e illuminino la parte posteriore delle statue, ma tranne quella di Ptah, il dio degli inferi, che rimane sempre al buio.</IT>
+					<ES>La construcción de este templo permite que en dos días concretos del año, los rayos de sol penetren en la sala del altar e iluminen las estatuas del muro trasero. Sólo Ptah, el dios del Infierno, permanece sumido en la oscuridad.</ES>
+					<NL>De tempel is zo gebouwd, dat de zonnestralen op twee bepaalde dagen per jaar naar binnen schijnen en precies op de beelden aan de achterste muur van de altaarruimte schijnen. Alleen Ptah, de god van de onderwereld, blijft altijd in het duister.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità di oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build15>
+			<build16>
+				<name>
+					<EN>Büyük Sfenks</EN>
+					<DE>Die Große Sphinx</DE>
+					<FR>Sphinx de Gizeh</FR>
+					<IT>Sfinge di Giza</IT>
+					<ES>La Gran Esfinge</ES>
+					<NL>Sfinx van Gizeh</NL>
+				</name>
+				<details>
+					<!--ct_ds_sphinx_01-->
+					<EN>Gize'nin Büyük Sfenksi; aslan gövdeli, firavun basligi takan insan basli bir varliktir ve tek bir tastan yapilmis en büyük yapidir. Misirlilar sfenksi, kralin mezarini kötü ruhlardan koruyan bir bekçi olarak görürdü.</EN>
+					<DE>Die große Sphinx von Gizeh, mit dem Körper eines Löwen und dem Kopf eines Menschen, ist die gewaltigste Skulptur, die je aus einem einzigen Stein gefertigt wurde. Die Ägypter verehren sie als Beschützerin der Gräber ihrer Könige.</DE>
+					<FR>Le grand sphinx de Gizeh, avec son corps de lion et sa tête humaine portant la coiffe du pharaon, est la plus grande structure jamais créée à partir d'une seule et même pierre. Les égyptiens considèrent le sphinx comme un gardien qui protège le tombeau du roi des esprits maléfiques.</FR>
+					<IT>La grande sfinge di Giza, la creatura dal corpo di leone e il volto umano ricoperto dal copricapo dei faraoni, è la più grande statua monolitica al mondo. Secondo gli egizi era posta a guardia della tomba del re per proteggerlo dagli spiriti maligni.</IT>
+					<ES>La Gran Esfinge de Guiza, la criatura con cuerpo de león y cabeza humana sobre la cual porta el tocado de un faraón, es la mayor estructura creada a partir de una sola roca. Los egipcios creen que la esfinge protege la tumba del rey de los espíritus malignos.</ES>
+					<NL>De grote sfinx van Gizeh, het wezen met een leeuwenlichaam, een mensenhoofd en een faraokroon, is het grootste bouwwerk dat is opgetrokken uit één steen. De Egyptenaren beschouwen de sfinx als een wachter die de tombe van de koning beschermt tegen kwade geesten.</NL>
+				</details>
+				<benefit>
+					<EN>Bu, sahadaki tüm taslari karistirir!</EN>
+					<DE>Er vermischt alle Kacheln auf dem Feld!</DE>
+					<FR>Il mélange tous les carreaux sur le terrain!</FR>
+					<IT>Questo bonus rimescola i tasselli  sul campo!</IT>
+					<ES>¡Está mezclando todos los azulejosen el campo!</ES>
+					<NL>Husselt alle tegels door elkaar!</NL>
+				</benefit>
+			</build16>
+			<build17>
+				<!--ct_ds_anubis_01-->
+				<name>
+					<EN>Anubis Heykeli</EN>
+					<DE>Statue des Anubis</DE>
+					<FR>Anubis</FR>
+					<IT>Statua di Anubi</IT>
+					<ES>Anubis</ES>
+					<NL>Anubisbeeld</NL>
+				</name>
+				<details>
+					<EN>Misirlilar, çakal basli ölüler tanrisi Anubis'i mumyalama ve öteki yasamla iliskilendirirdi. Anubis mumyalama sürecini yönetir ve ölüleri öteki dünyaya yolculuklarinda korur.</EN>
+					<DE>Der schakalköpfige Anubis, Gott der Toten, repräsentiert die Mumifizierung und das Jenseits. Anubis begleitet den Prozess der Mumifizierung und beschützt die Verstorbenen auf ihrem Weg in die Welt der Toten.</DE>
+					<FR>Les égyptiens associent le dieu des morts à tête de chacal, Anubis, à la momification et à la vie après la mort. Anubis supervise le processus d'embaumement et protège les morts dans leur ultime voyage.</FR>
+					<IT>Gli egizi associavano il dio dei morti Anubi dalla testa di sciacallo alla mummificazione e all'aldilà. Anubi sovrintendeva al processo di imbalsamazione e proteggeva i morti lungo il viaggio nell'aldilà. </IT>
+					<ES>Los egipcios asocian al dios con cabeza de chacal, Anubis, con la momificación y el otro mundo. Por algo es el dios de los muertos. Anubis supervisa el proceso de embalsamamiento y protege a los muertos en su viaje a la otra vida.</ES>
+					<NL>De Egyptenaren associëren Anubis, de god van de doden met het jakhalshoofd, met mummificatie en het dodenrijk. Anubis ziet toe op het balsemproces en beschermt de doden op weg naar het hiernamaals.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità di oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build17>
+			<build18>
+				<!--ct_ds_colossi_01-->
+				<name>
+					<EN>Memnon Heykelleri</EN>
+					<DE>Memnonstatuen</DE>
+					<FR>Colosses de Memnon</FR>
+					<IT>Colossi di Memnon</IT>
+					<ES>Colosos de Memnón</ES>
+					<NL>Kolossen van Memnon</NL>
+				</name>
+				<details>
+					<EN>Firavun III. Amenhotep'in iki dev tas heykeli olan Memnon Heykelleri, Amenhotep'in anit mezar tapinaginin girisini korur. 60 fit yüksekligindeki heybetli tas heykeller Nil Nehri'nin karsisinda yükselir.</EN>
+					<DE>Die Kolosse von Memnon, zwei gewaltige, an die 20 Meter hohen Steinstatuen von Pharao Amenhotep III, bewachen den Eingang zum Tempel, in dem sich Amenhoteps Grabstätte befindet.</DE>
+					<FR>Les colosses de Memnon, deux énormes statues de pierre du pharaon Amenhotep III, gardent l'entrée du temple mortuaire d'Amenhotep.</FR>
+					<IT>I Colossi di Memnone sono due enormi statue di pietra del faraone Amenhotep III a guardia dell'ingresso del tempio funerario di Amenhotep.</IT>
+					<ES>Los Colosos de Memnón, dos estatuas enormes de piedra del faraón Amenhotep III, protegen la entrada al templo funerario de Amenhotep. Las estatuas miden 18 metros de altura y miran en dirección al río Nilo.</ES>
+					<NL>De kolossen van Memnon zijn twee enorme stenen beelden van farao Amenhotep III die de ingang van Amenhoteps dodentempel bewaken. De imposante standbeelden zijn 20 meter hoog en staan langs de Nijl.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità di oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build18>
+			<build19>
+				<name>
+					<EN>Hatsepsut Tapinagi</EN>
+					<DE>Tempel der Hatshepsut</DE>
+					<FR>Temple d'Hatchepsout</FR>
+					<IT>Tempio di Hatshepsut</IT>
+					<ES>Templo de Hatshepsut</ES>
+					<NL>Tempel van Hatsjepsoet</NL>
+				</name>
+				<details>
+					<!--ct_ds_hatshepsut_01_02-->
+					<EN>Hatsepsut Tapinagi, çarpici tasarimi ve kabartmalari sayesinde kraliyet anit mezar tapinaklarinin en güzellerinden biridir. Kraliçe Hatsepsut'un anit mezar tapinagi, Nil'in bati kiyisinda üç terasli seviyede yükselir.</EN>
+					<DE>Der Tempel der Hatschepsut zählt mit seinen kunstvollen Verzierungen zu den schönsten aller königlichen Grabanlagen. Königin Hatschepsut Grabstätte erstreckt sich über drei große Terrassen am Westufer des Nil.</DE>
+					<FR>Le temple d'Hatchepsout est l'un des plus beaux temples mortuaires royaux en raison de sa conception et de ses gravures magnifiques. Le temple d'Hatchepsout apparaît sur trois niveaux en terrasse sur la rive ouest du Nil.</FR>
+					<IT>Per la sua monumentalità e i rilievi che contiene, il tempio della regina Hatshepsut è uno dei più splendidi templi funerari dell'Antico Egitto. Situato sulla sponda sinistra del Nilo, è formato da tre terrazze a colonnati.</IT>
+					<ES>El templo de Hatshepsut, con su impresionante diseño y tallados, es uno de los templos funerarios reales más hermosos. El templo de la reina Hatshepsut dispone de tres niveles con terraza y se encuentra en el margen oeste del Nilo.</ES>
+					<NL>De tempel van Hatsjepsoet is een van de mooiste koninklijke dodentempels vanwege het prachtige ontwerp en de reliëfs. Koningin Hatsjepsoets dodentempel is gebouwd op drie terrassen aan de westoever van de Nijl.</NL>
+				</details>
+				<benefit>
+					<EN>Bu, sahadaki tüm ayni taslari kirar!</EN>
+					<DE>Er zerbricht alle gleichartigen Kacheln auf dem Feld!</DE>
+					<FR>Il détruit tous les carreaux identiques sur le terrain!</FR>
+					<IT>Questo bonus elimina dal campo tutti i tasselli dello stesso tipo</IT>
+					<ES>¡Está rompiendo todos los azulejos del mismo tipo en el campo!</ES>
+					<NL>Vernietig alle tegels van dezelfde soort!</NL>
+				</benefit>
+			</build19>
+			<build20>
+				<!--ct_ds_pyramids_01_02-->
+				<name>
+					<EN>Büyük Piramitler</EN>
+					<DE>Die Großen Pyramiden</DE>
+					<FR>Grandes pyramides Gizeh</FR>
+					<IT>Le Grandi Piramidi</IT>
+					<ES>Piràmides de Guiza</ES>
+					<NL>Piramides van Gizeh</NL>
+				</name>
+				<details>
+					<EN>Gize'nin Büyük Piramitleri, Misir'daki mezar anitlari olan üç büyük piramitten olusan bir komplekstir. Gize Nekropolü'ndeki bu üç piramidin en eski ve en büyügü, Keops ya da Khufu Piramidi olarak da bilinen Büyük Piramit'tir.</EN>
+					<DE>Die großen Pyramiden sind drei gewaltige Grabstätten in der Totenstadt von Giseh. Die größte und älteste von ihnen, die Große Pyramide, ist auch bekannt als Cheops- oder Chufu-Pyramide.</DE>
+					<FR>Les grandes pyramides de Gizeh sont un complexe de trois pyramides, qui sont des tombeaux en Égypte. La plus grande et la plus ancienne pyramide de la nécropole de Gizeh est la pyramide de Khéops.</FR>
+					<IT>Monumenti funerari dell'Antico Egitto, le grandi piramidi di Giza sono un complesso di tre grandi piramidi. La più grande e più antica delle tre piramidi della necropoli di Giza è conosciuta come Grande Piramide, altrimenti denominata Piramide di Cheope o Khufu.</IT>
+					<ES>Se trata de un complejo de tres pirámides funerarias enormes. La más antigua y de mayor tamaño de las tres pirámides de la Necrópolis de Guiza es la Gran Pirámide, también conocida como la Pirámide de Keops o Jufu.</ES>
+					<NL>De grote piramides van Gizeh zijn drie grote piramides die samen een grafmonumentcomplex vormen. De oudste en grootste van de drie in de necropolis is de Grote Piramide, ook wel de piramide van Cheops genoemd.</NL>
+				</details>
+				<benefit>
+					<EN>{amount} birim altin alirsiniz.</EN>
+					<DE>Ihr erhaltet dafür {amount} Einheiten Gold.</DE>
+					<FR>Vous obtenez {amount} unités d'or.</FR>
+					<IT>Ricevi {amount} unità d'i oro.</IT>
+					<ES>Recibís {amount} unidades de oro.</ES>
+					<NL>Dit levert {amount} goudstukken op.</NL>
+				</benefit>
+			</build20>
+			<build21>
+				<!--ct_ds_ra_01-->
+				<name>
+					<EN>Tanri Ra</EN>
+					<DE>Der Gott Ra</DE>
+					<FR>Dieu Ra</FR>
+					<IT>Dio Ra</IT>
+					<ES>Dios Ra</ES>
+					<NL>De God Ra</NL>
+				</name>
+				<details>
+					<EN>Misirlilar, günes diski basligi takan sahin basli tanriyi tanrilarin ve firavunlarin atasi olarak görür ve ona genis ölçüde taparlardi. Inanca göre Misir'in Günes Tanrisi her gün diger tanrilarla birlikte iki günes teknesiyle yolculuk eder. Gece teknesi Ra'yi yeralti dünyasindan geçirir ve yeniden dogusu için doguya döndürür.</EN>
+					<DE>Die Ägypter verehren Ra, den Gott mit dem Kopf eines Falken und einer Sonnenscheibe als Kopfbedeckung, als Vater aller Götter und Pharaos. Sie glauben, dass der Sonnengott Ra jeden Tag auf seiner Sonnenbarke den Himmel überquert. In der Nacht reist Ra durch die Unterwelt, um am Morgen neu geboren zu werden.</DE>
+					<FR>  Le dieu à tête de faucon coiffé du disque solaire est vénéré dans toute l'Égypte et les égyptiens le considèrent comme le père des dieux et des pharaons. Ils croient que le dieu Soleil de l'Égypte voyage chaque jour avec d'autres dieux sur deux bateaux solaires. Le bateau nocturne mène Ra dans les enfers puis repart à l'est pour sa renaissance.</FR>
+					<IT>Gli egizi veneravano profondamente il dio dalla testa di falco sormontata dal disco solare e lo consideravano il padre degli dèi e dei faraoni. Essi ritenevano che il dio del sole egizio percorresse ogni notte il mondo degli inferi su una nave per riemergere nuovamente all'alba a oriente.</IT>
+					<ES>Adorado por todo el país, los egipcios consideran al dios de cabeza de halcón, sobre la que porta un disco solar, el padre de todos los dioses y faraones. Creen que el dios del sol de Egipto viaja todos los días con otros dioses en dos barcos solares. El barco nocturno lleva a Ra al otro mundo y luego regresa al Este para renacer.</ES>
+					<NL>De Egyptenaren beschouwen deze god, met het hoofd van een havik en een zonneschijf als kroon, als de vader van de goden en farao's, en hij wordt door iedereen vereerd. Ze geloven dat de zonnegod van Egypte elke dag met de goden heen en weer reist in twee zonneboten. De nachtboot brengt Ra naar de onderwereld en vaart dan oostwaarts voor zijn wedergeboorte.</NL>
+				</details>
+				<benefit>
+					<EN/>
+					<DE/>
+					<FR/>
+					<IT/>
+					<ES/>
+					<NL/>
+				</benefit>
+			</build21>
+		</buildings>
+		<defaultmode>
+			<era>
+				<EN>Çag</EN>
+				<DE>Epoche</DE>
+				<ES>Época</ES>
+				<IT>Epoca</IT>
+				<FR>Époque</FR>
+				<NL>Periode</NL>
+			</era>
+			<cost>
+				<EN>Fiyat:</EN>
+				<DE>Preis:</DE>
+				<ES>Precio:</ES>
+				<IT>Prezzo:</IT>
+				<FR>Prix:</FR>
+				<NL>Prijs:</NL>
+			</cost>
+			<money>
+				<EN>Altin:</EN>
+				<DE>Gold:</DE>
+				<ES>Dinero:</ES>
+				<IT>Denaro:</IT>
+				<FR>Or:</FR>
+				<NL>Geld:</NL>
+			</money>
+			<resources>
+				<EN>Kaynak:</EN>
+				<DE>Baumaterial:</DE>
+				<ES>Recursos</ES>
+				<IT>Risorse:</IT>
+				<FR>Matériau :</FR>
+				<NL>Materiaal:</NL>
+			</resources>
+			<food>
+				<EN>Yiyecek:</EN>
+				<DE>Nahrung:</DE>
+				<ES>Provisiones:</ES>
+				<FR>Nourriture:</FR>
+				<IT>Viveri:</IT>
+				<NL>Voedsel:</NL>
+			</food>
+			<profit>
+				<EN>Kâr:</EN>
+				<DE>Profit:</DE>
+				<ES>Beneficio:</ES>
+				<IT>Profitto:</IT>
+				<FR>Profit:</FR>
+				<NL>Winst:</NL>
+			</profit>
+			<bonus>
+				<EN>Bonus</EN>
+				<DE>Bonus</DE>
+				<ES>Bonus</ES>
+				<IT>Bonus</IT>
+				<FR>Bonus</FR>
+				<NL>Bonus</NL>
+			</bonus>
+			<resource>
+				<EN>Kaynak</EN>
+				<DE>Ressource</DE>
+				<ES>Recurso</ES>
+				<FR>Ressource</FR>
+				<IT>Risorse</IT>
+				<NL>Voorraad</NL>
+			</resource>
+		</defaultmode>
+	</construction>
+	<credits>
+		<slide01>
+			<EN>- cerasus.media -
+
+YAPIM VE OYUN TASARIMI:
+Christoph Klesser</EN>
+			<DE>- cerasus.media -
+
+PRODUKTION UND GAMEDESIGN:
+Christoph Klesser</DE>
+			<FR>- cerasus.media -
+
+PRODUCTION ET CONCEPTION DU JEU:
+Christoph Klesser</FR>
+			<ES>- cerasus.media -
+
+PRODUCCIÓN Y DISEÑO DEL JUEGO:
+Christoph Klesser</ES>
+			<IT>- cerasus.media -
+
+PRODUZIONE E PROGETTAZIONE GIOCO:
+Christoph Klesser</IT>
+			<NL>- cerasus.media -
+
+PRODUCTIE EN GAMEDESIGN:
+Christoph Klesser</NL>
+		</slide01>
+		<slide02>
+			<EN>SANAT YÖNETMENI:
+Annika Wächtler</EN>
+			<DE>ART DIRECTOR:
+Annika Wächtler</DE>
+			<FR>DIRECTRICE ARTISTIQUE:
+Annika Wächtler</FR>
+			<ES>DIRECTORA ARTÍSTICA:
+Annika Wächtler</ES>
+			<IT>DIRETTORE GRAFICA:
+Annika Wächtler</IT>
+			<NL>ART DIRECTOR:
+Annika Wächtler</NL>
+		</slide02>
+		<slide03>
+			<EN>SES EFEKTLERI + MÜZIK:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</EN>
+			<DE>SOUNDEFFEKTE + MUSIK:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</DE>
+			<FR>EFFETS SONORES + MUSIQUE:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</FR>
+			<ES>EFECTOS DE SONIDO + MÚSICA:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</ES>
+			<IT>PROGETTISTI DEL SUONO + MUSICA:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</IT>
+			<NL>GELUIDSEFFECTEN + MUZIEK:
+Geronimo Komp
+Artem Galitsyn
+Nikolay Sivkov
+Maxim Dudko</NL>
+		</slide03>
+		<slide04>
+			<EN>TEST EKIBI:
+Geronimo Komp
+Benjamin Berndt</EN>
+			<DE>TESTER:
+Geronimo Komp
+Benjamin Berndt</DE>
+			<FR>TESTEURS:
+Geronimo Komp
+Benjamin Berndt</FR>
+			<ES>REALIZADORES DE PRUEBAS:
+Geronimo Komp
+Benjamin Berndt</ES>
+			<IT>TESTER:
+Geronimo Komp
+Benjamin Berndt</IT>
+			<NL>TESTER:
+Geronimo Komp
+Benjamin Berndt</NL>
+		</slide04>
+		<slide05>
+			<EN>- Lvivmedia -
+
+PROGRAMLAMA:
+
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</EN>
+			<DE>- Lvivmedia -
+
+PROGRAMMIERUNG:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</DE>
+			<FR>- Lvivmedia -
+
+PROGRAMMEURS:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</FR>
+			<ES>- Lvivmedia -
+
+PROGRAMACIÓN:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</ES>
+			<IT>- Lvivmedia -
+
+PROGRAMMATORI:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</IT>
+			<NL>- Lvivmedia -
+
+PROGRAMMERING:
+Max Kravchuk
+Roman Shlapak
+Gennadiy Brich
+Marian Chulyk
+Oleksandr Dyedyk
+Yaroslav Stetsyk</NL>
+		</slide05>
+		<slide06>
+			<EN>- AWEM STUDIO -
+
+YAPIMCI:
+Oleg Rogovenko</EN>
+			<DE>- AWEM STUDIO -
+
+PRODUCER:
+Oleg Rogovenko</DE>
+			<FR>- AWEM STUDIO -
+
+PRODUCER:
+Oleg Rogovenko</FR>
+			<ES>- AWEM STUDIO -
+
+PRODUCER:
+Oleg Rogovenko</ES>
+			<IT>- AWEM STUDIO -
+
+PRODUCER:
+Oleg Rogovenko</IT>
+			<NL>- AWEM STUDIO -
+
+PRODUCER:
+Oleg Rogovenko</NL>
+		</slide06>
+		<slide07>
+			<EN>BAS TASARIMCI:
+Olga Krutalevich
+
+TASARIMCILAR:
+Alexander Danejko
+Pavel Korbut</EN>
+			<DE>LEAD DESIGNER:
+Olga Krutalevich
+
+DESIGNERS:
+Alexander Danejko
+Pavel Korbut</DE>
+			<FR>LEAD DESIGNER:
+Olga Krutalevich
+
+DESIGNERS:
+Alexander Danejko
+Pavel Korbut</FR>
+			<ES>LEAD DESIGNER:
+Olga Krutalevich
+
+DESIGNERS:
+Alexander Danejko
+Pavel Korbut</ES>
+			<IT>LEAD DESIGNER:
+Olga Krutalevich
+
+DESIGNERS:
+Alexander Danejko
+Pavel Korbut</IT>
+			<NL>LEAD DESIGNER:
+Olga Krutalevich
+
+DESIGNERS:
+Alexander Danejko
+Pavel Korbut</NL>
+		</slide07>
+		<slide08>
+			<EN>SANATÇILAR:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFEKTLER VE ANIMASYONLAR
+Vasylij Korolev
+Dmitrij Laguta</EN>
+			<DE>ARTISTS:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFFECTS AND ANIMATIONS
+Vasylij Korolev
+Dmitrij Laguta</DE>
+			<FR>ARTISTS:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFFECTS AND ANIMATIONS
+Vasylij Korolev
+Dmitrij Laguta</FR>
+			<ES>ARTISTS:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFFECTS AND ANIMATIONS
+Vasylij Korolev
+Dmitrij Laguta</ES>
+			<IT>ARTISTS:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFFECTS AND ANIMATIONS
+Vasylij Korolev
+Dmitrij Laguta</IT>
+			<NL>ARTISTS:
+Natalia Abramovich
+Nadezhda Korotkevich
+Gennadiy Abramovich
+
+EFFECTS AND ANIMATIONS
+Vasylij Korolev
+Dmitrij Laguta</NL>
+		</slide08>
+		<slide09>
+			<EN>© 2012 cerasus.media GmbH
+Tüm haklari saklidir.</EN>
+			<DE>© 2012 cerasus.media GmbH
+All rights reserved.</DE>
+			<FR>© 2012 cerasus.media GmbH
+All rights reserved.</FR>
+			<ES>© 2012 cerasus.media GmbH
+All rights reserved.</ES>
+			<IT>© 2012 cerasus.media GmbH
+All rights reserved.</IT>
+			<NL>© 2012 cerasus.media GmbH
+All rights reserved.</NL>
+		</slide09>
+	</credits>
+	<era>
+		<new_city_warning>
+			<EN>Bu profili silip yeni bir oyuna baslamak istediginizden emin misiniz?</EN>
+			<DE>Möchtet Ihr diesen Spielstand wirklich löschen und eine neue Runde beginnen?</DE>
+			<ES>¿Seguro que queréis borrar este perfil y empezar una nueva ronda?</ES>
+			<IT>Vuoi davvero cancellare la partita e ricominciare da capo?</IT>
+			<FR>Souhaitez-vous vraiment effacer votre score et recommencer la partie?</FR>
+			<NL>Weet je zeker dat je dit opgeslagen spel wilt wissen en een nieuwe ronde wilt starten?</NL>
+		</new_city_warning>
+		<status_text>
+			<!--nintendo-->
+			<EN>Yeni oyununuzu baslatmak istediginiz çagi seçin.</EN>
+			<DE>Tippt die Epoche an, in der Ihr Euer neues Spiel starten möchtet.</DE>
+			<ES>Tocad la época en la que deseáis iniciar la nueva partida.</ES>
+			<IT>Toccate sull'epoca con cui volete iniziare la nuova partita.</IT>
+			<FR>Touche l'époque à laquelle tu veux démarrer un nouveau jeu.</FR>
+			<NL>Tik op de periode waarin je je nieuwe spel wilt starten.</NL>
+		</status_text>
+	</era>
+	<eraend>
+		<era1>
+			<label>
+				<!--g_ep_1_status-->
+				<EN>Köylü</EN>
+				<DE>Bauer</DE>
+				<ES>Granjero</ES>
+				<IT>Contadino</IT>
+				<FR>Paysan</FR>
+				<NL>Boer</NL>
+			</label>
+			<info>
+				<!--g_ep_1_complete-->
+				<EN>Tarim en akillica ugrastir; çünkü ülkenize zenginlik ve ihtisam getirir!</EN>
+				<DE>Die Landwirtschaft ist des Rückgrat deiner Zivilisation und bringt dir Reichtum und Ruhm!</DE>
+				<ES>La agricultura es una ocupación admirable, ya que aporta riquezas y gloria a tu país.</ES>
+				<IT>Coltivare la terra è il cammino più saggio da prendere poiché reca salute e prosperità al tuo paese!</IT>
+				<FR>Il est sage de choisir l'agriculture comme métier, car elle apporte de la richesse et fait la gloire de votre pays !</FR>
+				<NL>Akkerbouw is van onschatbare waarde, want het geeft je land rijkdom en roem!</NL>
+			</info>
+		</era1>
+		<era2>
+			<label>
+				<!--g_ep_2_status-->
+				<EN>Mimar</EN>
+				<DE>Architekt</DE>
+				<ES>Arquitecto</ES>
+				<IT>Architetto</IT>
+				<FR>Architecte</FR>
+				<NL>Architect</NL>
+			</label>
+			<info>
+				<!--g_ep_2_complete-->
+				<EN>Tasarladiginiz her binada ruhunuzdan bir parça birakirsiniz. Zamaninizin büyük mimarlarindan birisiniz!</EN>
+				<DE>In jedem eurer Gebäude steckt ein Stück eurer Seele. Ihr seid der größte Architekt Eurer Zeit!</DE>
+				<ES>Dejas una parte de tu alma en cada edificio que construyes. ¡Eres uno de los mejores arquitectos de tu época!</ES>
+				<IT>In ogni edificio che progetti lasci una parte della tua anima. Sei uno dei più grandi architetti del tuo tempo! </IT>
+				<FR>Vous laissez une partie de votre âme dans chaque bâtiment que vous concevez. Vous êtes l'un des plus grands architectes de votre temps !</FR>
+				<NL>In elk gebouw dat je ontwerpt, zit een stukje van je ziel. Je bent de grootste architect van je tijd!</NL>
+			</info>
+		</era2>
+		<era3>
+			<label>
+				<!--g_ep_3_status-->
+				<EN>Vezir</EN>
+				<DE>Wesir</DE>
+				<ES>Visir</ES>
+				<IT>Visir</IT>
+				<FR>Vizir</FR>
+				<NL>Vizier</NL>
+			</label>
+			<info>
+				<!--g_ep_3_complete-->
+				<EN>Bilginiz ve bilgeliginizle ilgili ününüz herkesçe bilinir. Firavun sizi en güvendigi danismani olarak atadi!</EN>
+				<DE>Du bist weithin für Wissen und Weisheit bekannt. Der Pharao hat dich zu seinem wichtigsten Berater ernannt!</DE>
+				<ES>Te has labrado una gran reputación por tu sabiduría y conocimientos. El faraón te ha nombrado su asesor de mayor confianza.</ES>
+				<IT>Sei profondamente stimato per la tua saggezza e la tua sapienza. Il faraone ti considera il suo consigliere più fidato!</IT>
+				<FR>Vous êtes connu pour votre sagesse et votre savoir. Vous êtes le conseiller du pharaon le plus fiable !</FR>
+				<NL>Je bent beroemd om je kennis en wijsheid. De farao heeft je benoemd tot zijn meest vertrouwelijke adviseur!</NL>
+			</info>
+		</era3>
+		<era4>
+			<label>
+				<!--g_ep_4_status-->
+				<EN>Basrahip</EN>
+				<DE>Hohepriester</DE>
+				<ES>Sacerdote</ES>
+				<IT>Sacerdote</IT>
+				<FR>Prêtre</FR>
+				<NL>Priester</NL>
+			</label>
+			<info>
+				<!--g_ep_4_complete-->
+				<EN>Dünyanin uyumunu ve düzenini korurken tanrilara tapinaklarinda hizmet edersiniz!</EN>
+				<DE>Im Tempel huldigst du den allmächtigen Göttern, während du in der Welt für Frieden und Harmonie sorgst!</DE>
+				<ES>Sirves a los dioses en sus templos y mantienes la armonía y el orden en el mundo.</ES>
+				<IT>Servendo gli dèi presso i loro templi conservi l'armonia e l'ordine del mondo!</IT>
+				<FR>Vous servez les dieux dans leurs temples tout en préservant l'harmonie et l'ordre du monde !</FR>
+				<NL>Je vereert de goden in hun tempels terwijl je vrede en harmonie in de wereld sticht!</NL>
+			</info>
+		</era4>
+		<era5>
+			<label>
+				<!--g_ep_5_status-->
+				<EN>Firavun</EN>
+				<DE>Pharao</DE>
+				<ES>Faraón</ES>
+				<IT>Farao</IT>
+				<FR>Pharaon</FR>
+				<NL>Farao</NL>
+			</label>
+			<info>
+				<!--g_ep_5_complete-->
+				<EN>Içgüdülerinize güvenin. Vatandaslar sizi destekleyecek ve size en büyük inanci duyacaktir!</EN>
+				<DE>Vertrau deinen Eingebungen. Deine Bürger werden dich unterstützen; sie wissen, dass sie dir blind vertrauen können!</DE>
+				<ES>Sigue tus instintos. Los vecinos te apoyarán y confiarán plenamente en ti.</ES>
+				<IT>Confida nel tuo istinto. I cittadini ti sosterranno riponendo grande fiducia in te!</IT>
+				<FR>Fiez-vous à votre instinct. Les citoyens vous soutiendront et auront la plus grande foi en vous !</FR>
+				<NL>Vertrouw op je intuïtie. De onderdanen steunen je en hebben vertrouwen in je!</NL>
+			</info>
+		</era5>
+		<build_statue>
+			<EN>Harika! Tüm binalari insa ettiniz; simdi oyunu tamamen kazanmak için sadece Ra Heykeli'ni insa etmeniz kaldi!</EN>
+			<DE>Großartig! Du hast alle Gebäude erbaut und kannst nun eine Statue zu Ehren von Ra errichten.</DE>
+			<ES>¡Enhorabuena! Has construido todos los edificios y ahora puedes erigir una estatua en honor a Ra.</ES>
+			<IT>Fantastico! Hai costruito tutti gli edifici e adesso puoi erigere una statua in onore di Ra.</IT>
+			<FR>Fantastique! Tu as construit tous les bâtiments, et tu peux maintenant ériger une statue en l'honneur de Ra.</FR>
+			<NL>Gefeliciteerd! Je hebt alle gebouwen gebouwd en kan nu het standbeeld ter ere van Ra oprichten.</NL>
+		</build_statue>
+	</eraend>
+	<freeplay>
+		<mode>
+			<EN>Turnuva Modu</EN>
+			<DE>Turnier Modus</DE>
+			<FR>Mode tournoi</FR>
+			<ES>Modo torneo</ES>
+			<IT>Modalitá a premi</IT>
+			<NL>Toernooi modus</NL>
+		</mode>
+		<status>
+			<EN>Buradan, macera modunda daha önce oynadiginiz her seviyeye erisebilirsiniz.</EN>
+			<DE>Hier könnt Ihr bereits gespielte Levels aus dem Adventure-Modus nochmals einzeln aufrufen.</DE>
+			<FR>Vous pouvez ici rejouer les niveaux que vous avez déjà joués en mode aventure.</FR>
+			<ES>Aquí podéis volver a acceder a cada uno de los niveles del modo aventura que ya habéis superado.</ES>
+			<IT>Qui puoi giocare liberamente ai livelli già superati nella modalità avventura.</IT>
+			<NL>Hier kun je levels die je al voltooid hebt in de avonturenfunctie nog een keer spelen.</NL>
+		</status>
+		<bonus>
+			<EN>Seviyeyi daha hizli bitirmek için bir bonus seçin.</EN>
+			<DE>Wählt einen verfügbaren Bonus zum schnelleren Lösen des Levels.</DE>
+			<FR>Choisissez un des bonus disponibles pour résoudre le niveau plus vite.</FR>
+			<ES>Escoged un bonus disponible para pasar rápidamente de nivel.</ES>
+			<IT>Scegli un bonus disponibile per risolvere il livello più in fretta.</IT>
+			<NL>Kies een van de beschikbare bonussen om een level sneller op te lossen.</NL>
+		</bonus>
+	</freeplay>
+	<game>
+		<top_score>
+			<EN>Skor</EN>
+			<DE>Punkte</DE>
+			<FR>Points</FR>
+			<IT>Punti</IT>
+			<ES>Puntuación</ES>
+			<NL>Punten</NL>
+		</top_score>
+		<top_level>
+			<EN>Seviye</EN>
+			<DE>Level</DE>
+			<FR>Niveau</FR>
+			<IT>Livello</IT>
+			<ES>Nivel</ES>
+			<NL>Level</NL>
+		</top_level>
+		<combo>
+			<x2>
+				<EN>x2</EN>
+				<DE>x2</DE>
+				<FR>x2</FR>
+				<IT>x2</IT>
+				<ES>x2</ES>
+				<NL>x2</NL>
+			</x2>
+			<x4>
+				<EN>x4</EN>
+				<DE>x4</DE>
+				<FR>x4</FR>
+				<IT>x4</IT>
+				<ES>x4</ES>
+				<NL>x4</NL>
+			</x4>
+			<x8>
+				<EN>x8</EN>
+				<DE>x8</DE>
+				<FR>x8</FR>
+				<IT>x8</IT>
+				<ES>x8</ES>
+				<NL>x8</NL>
+			</x8>
+		</combo>
+		<plus1000>
+			<EN>+1000 puan</EN>
+			<DE>+1000 Punkte</DE>
+			<FR>+1000 Points</FR>
+			<IT>+1000 punti</IT>
+			<ES>+1000 puntos</ES>
+			<NL>+1000 punten</NL>
+		</plus1000>
+		<minigame>
+			<EN>Bonus Seviye</EN>
+			<DE>Bonuslevel</DE>
+			<ES>Nivel de bonus</ES>
+			<IT>Livello bonus</IT>
+			<FR>Niveau bonus</FR>
+			<NL>Bonuslevel</NL>
+		</minigame>
+		<freeplay>
+			<EN>Seviye: %i / %i</EN>
+			<DE>Level: %i von %i</DE>
+			<ES>Nivel: %i de %i</ES>
+			<IT>Livello: %i di %i</IT>
+			<FR>Niveau: %i de %i</FR>
+			<NL>Level: %i from %i</NL>
+		</freeplay>
+		<hints>
+			<item05>
+				<EN>Her para size {amount} birim altin verir.</EN>
+				<DE>Je Münze erhaltet Ihr {amount} Einheiten Gold.</DE>
+				<ES>Cada moneda os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni moneta fornisce {amount} unità d'oro.</IT>
+				<FR>Chaque pièce vous rapporte {amount} unités d'or.</FR>
+				<NL>Per munt ontvang je {amount} goudstukken.</NL>
+			</item05>
+			<item06>
+				<EN>Her odun parçasi size {amount} birim insaat malzemesi verir.</EN>
+				<DE>Je Bauholz erhaltet Ihr {amount} Einheiten Baumaterial.</DE>
+				<FR>Chaque morceau de bois vous rapporte {amount}  unités de matériau.</FR>
+				<IT>Ogni pezzo di legno da costruzione fornisce {amount} unità di materiale da costruzione.</IT>
+				<ES>Cada madera de construcción os brinda {amount} unidades de material de construcción.</ES>
+				<NL>Per stuk timmerhout ontvang je {amount} eenheden bouwmateriaal.</NL>
+			</item06>
+			<item07>
+				<EN>Her kova size {amount} birim yiyecek verir.</EN>
+				<DE>Jeder Eimer bringt Euch {amount} Einheiten Nahrung.</DE>
+				<ES>Cada cubo os brinda {amount} unidades de víveres.</ES>
+				<IT>Ogni secchio fornisce {amount} unità di viveri.</IT>
+				<FR>Chaque sceau vous rapporte {amount} unités de nourriture.</FR>
+				<NL>Per emmer krijg je {amount} eenheden voedsel.</NL>
+			</item07>
+			<item08>
+				<!--formerly Meat-->
+				<EN>Her domates size {amount} birim yiyecek verir.</EN>
+				<DE>Jede Tomate bringt Euch {amount} Einheiten Nahrung.</DE>
+				<ES>Cada tomate os proporciona {amount} unidades de comida.</ES>
+				<IT>Ogni pomodoro ti fornisce {amount} unità di cibo.</IT>
+				<FR>Chaque tomate vous rapporte {amount} unités de nourriture.</FR>
+				<NL>Voor elke tomaat krijg je {amount} eenheden voedsel.</NL>
+			</item08>
+			<item09>
+				<EN>Her ekmek size {amount} birim yiyecek verir.</EN>
+				<DE>Jedes Brot bringt Euch {amount} Einheiten Nahrung.</DE>
+				<ES>Cada trozo de pan os brinda {amount} unidades de víveres.</ES>
+				<IT>Ogni pezzo di pane fornisce  {amount}  unità di viveri.</IT>
+				<FR>Chaque pain vous rapporte {amount} unités de nourriture.</FR>
+				<NL>Voor elk brood krijg je  {amount} eenheden voedsel.</NL>
+			</item09>
+			<item10>
+				<EN>Her tas size {amount} birim kaynak verir.</EN>
+				<DE>Jeder Stein bringt Euch {amount} Vorratseinheiten.</DE>
+				<ES>Cada piedra os brinda {amount} unidades de provisiones.</ES>
+				<IT>Ogni pietra fornisce {amount} unità di riserva.</IT>
+				<FR>Chaque pierre vous rapporte {amount} unités de provision.</FR>
+				<NL>Voor elke steen krijg je {amount} goedereneenheden.</NL>
+			</item10>
+			<item11>
+				<!--formerly Helmet-->
+				<EN>Her yüzük size {amount} birim altin verir.</EN>
+				<DE>Je Ring erhaltet Ihr {amount} Einheiten Gold.</DE>
+				<ES>Cada anillo os proporciona {amount} unidades de oro.</ES>
+				<IT>Ogni anello ti fornisce {amount} unità di oro.</IT>
+				<FR>Chaque bague vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke ring krijg je {amount} eenheden goud.</NL>
+			</item11>
+			<item12>
+				<!--formerly Shrimp-->
+				<EN>Her bira size {amount} birim yiyecek verir.</EN>
+				<DE>Jedes Bier bringt Euch {amount} Einheiten Nahrung.</DE>
+				<ES>Cada cerveza os proporciona {amount} unidades de comida.</ES>
+				<IT>Ogni birra ti fornisce {amount} unità di cibo.</IT>
+				<FR>Chaque bière vous rapporte {amount} unités de nourriture.</FR>
+				<NL>Voor elk biertje krijg je {amount} eenheden voedsel.</NL>
+			</item12>
+			<item13>
+				<EN>Her yüzük size {amount} birim altin verir.</EN>
+				<DE>Jeder Ring bringt Euch {amount} Einheiten Gold.</DE>
+				<ES>Cada anillo os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni anello fornisce {amount} unità d'oro.</IT>
+				<FR>Chaque anneau vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke ring krijg je {amount} goudstukken.</NL>
+			</item13>
+			<item14>
+				<EN>Her elmas size {amount} birim altin verir.</EN>
+				<DE>Jeder Diamant bringt Euch {amount} Einheiten Gold.</DE>
+				<ES>Cada diamante os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni diamante fornisce {amount} unità d'oro.</IT>
+				<FR>Chaque diamant vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke diamant krijg je {amount} goudstukken.</NL>
+			</item14>
+			<item15>
+				<EN>Her inci size {amount} birim altin verir.</EN>
+				<DE>Jede Perle bringt Euch {amount} Einheiten Gold.</DE>
+				<ES>Cada perla os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni perla fornisce {amount} unità d'oro.</IT>
+				<FR>Chaque perle vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke parel krijg je {amount} goudstukken.</NL>
+			</item15>
+			<item16>
+				<EN>Her Ankh size {amount} birim altin verir.</EN>
+				<DE>Jedes Anch bringt Euch {amount} Einheiten Gold.</DE>
+				<ES>Cada Anj os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni Ankh fonisce {amount} unità d'oro.</IT>
+				<FR>Chaque Ânkh vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke Ankh krijg je {amount} goudstukken.</NL>
+			</item16>
+			<item17>
+				<EN>Her sandik size {amount} birim altin verir.</EN>
+				<DE>Jede Truhe bringt Euch {amount} Einheiten Gold.</DE>
+				<ES>Cada cofre os brinda {amount} unidades de oro.</ES>
+				<IT>Ogni cofano fonisce {amount} unità d'oro.</IT>
+				<FR>Chaque coffre vous rapporte {amount} unités d'or.</FR>
+				<NL>Voor elke kist krijg je {amount} eenheden goud.</NL>
+			</item17>
+			<bonus1>
+				<EN>BONUS HAZIR! Herhangi bir tasi, mermer tasi ya da zinciri kirmak için kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Mit diesem Bonus zerstört Ihr eine beliebige Kachel oder eine Kette.</DE>
+				<ES>¡BONUS DISPONIBLE! Con este bonus destruiréis el azulejo o cadena que prefiráis.</ES>
+				<IT>BONUS DISPONIBILE! Con questo bonus distruggi un tassello o una catena a piacere.</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire un carreau ou une chaîne de votre choix.</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus vernietig je een uitgekozen steen of een ketting.</NL>
+			</bonus1>
+			<bonus2>
+				<EN>BONUS HAZIR! 9 tastan olusan bir kareyi kirmak için kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Mit diesem Bonus zerstört Ihr ein Quadrat aus neun Kacheln!</DE>
+				<ES>¡BONUS DISPONIBLE! ¡Con este bonus destruiréis un cuadrado de nueve azulejos!</ES>
+				<IT>BONUS DISPONIBILE! Con questo bonus distruggi un quadrato di nove tasselli!</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire un carré de neuf carreaux!</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus vernietig je een vierkant van negen tegels!</NL>
+			</bonus2>
+			<bonus3>
+				<EN>BONUS HAZIR! Bu bonus, yolundaki taslari X seklinde yok eder.</EN>
+				<DE>BONUS VERFÜGBAR! Dieser Bonus zerstört X-förmig alle Kacheln in seiner Flugbahn.</DE>
+				<ES>¡BONUS DISPONIBLE! Con este bonus se destruyen en trayectoria todos los azulejos en forma de X.</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus distrugge a tutti i tasselli a forma diX sulla sua traiettoria.</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire en X tous les carreaux sur sa trajectoire.</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus kun je alle tegels in een diagonaal kruis vernietigen.</NL>
+			</bonus3>
+			<bonus4>
+				<EN>BONUS HAZIR! Seviyeyi bitirmek için ilave süre kazanmakta kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Dieser Bonus verleiht Euch mehr Zeit für Eure Aufgabe!</DE>
+				<ES>¡BONUS DISPONIBLE! ¡Este bonus os proporciona tiempo para realizar vuestra tarea!</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus concede maggior tempo per completare il lavoro!</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus vous donne plus de temps pour votre mission!</FR>
+				<NL>BONUS BESCHIKBAAR! Deze bonus geeft je meer tijd voor de opgave!</NL>
+			</bonus4>
+			<bonus5>
+				<EN>BONUS HAZIR! Sahadaki herhangi 20 tasi kirmak için kullanin.</EN>
+				<DE>BONUS VERFÜGBAR! Mit diesem Bonus zerstört Ihr 20 zufällige Kacheln.</DE>
+				<ES>¡BONUS DISPONIBLE! Con este bonus se destruyen 20 azulejos al azar.</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus distrugge 20 tasselli a caso.</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire 20 carreaux au hasard.</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus vernietig je 20 willekeurige tegels.</NL>
+			</bonus5>
+			<bonus6>
+				<EN>BONUS HAZIR! 25 tastan olusan bir kareyi kirmak için kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Mit diesem Bonus zerstört Ihr ein Quadrat aus 25 Kacheln!</DE>
+				<ES>¡BONUS DISPONIBLE! ¡Con este bonus se destruye un cuadrado de 25 azulejos!</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus distrugge un quadrato di 25 tasselli!</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire un carré de 25 carreaux!</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus vernietig je een vierkant van 25 tegels!</NL>
+			</bonus6>
+			<bonus7>
+				<EN>BONUS HAZIR! Oyun alanindaki taslari karistirmak için kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Dieser Bonus ordnet die Symbole auf dem Spielfeld neu an.</DE>
+				<ES>¡BONUS DISPONIBLE! Este bonus reordena los símbolos en la pantalla de juego.</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus rimescola l'ordine dei simboli sul terreno di gioco.</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus redistribue les symboles sur le terrain de jeu.</FR>
+				<NL>BONUS BESCHIKBAAR! Deze bonus verdeelt de symbolen op het speelveld opnieuw.</NL>
+			</bonus7>
+			<bonus8>
+				<EN>BONUS HAZIR! Oyun alanindaki tüm ayni taslari kirmak için kullanin!</EN>
+				<DE>BONUS VERFÜGBAR! Mit diesem Bonus zerstört Ihr alle gleichartigen Symbole auf dem Spielfeld!</DE>
+				<ES>¡BONUS DISPONIBLE! ¡Con este bonus se destruyen todos los símbolos del mismo tipo!</ES>
+				<IT>BONUS DISPONIBILE! Questo bonus distrugge tutti i simboli identici sul terreno di gioco.</IT>
+				<FR>BONUS DISPONIBLE! Ce bonus permet de détruire tous les symboles similaires du terrain de jeu!</FR>
+				<NL>BONUS BESCHIKBAAR! Met deze bonus vernietig je alle identieke symbolen op het speelveld!</NL>
+			</bonus8>
+			<cyan_marble>
+				<EN>Mavi taslari, üzerlerinde iki kombinasyon olusturarak kaldirin.</EN>
+				<DE>Beseitigt blaue Kacheln indem Ihr zwei Kombinationen darauf bildet.</DE>
+				<FR>Éliminez les carreaux bleus en formant deux combinaisons.</FR>
+				<IT>Elimina i tasselli blu formando con essi due combinazioni.</IT>
+				<ES>Eliminad los azulejos azules para formar así dos combinaciones.</ES>
+				<NL>Verwijder de blauwe tegels wanneer je hier twee combinaties mee kan maken.</NL>
+			</cyan_marble>
+			<single_lock>
+				<EN>Altlarinda eslesen tas gruplari olusturarak zincirleri kirin.</EN>
+				<DE>Zerbrecht die Ketten, indem Ihr mit dem Symbol darunter eine Kombination bildet.</DE>
+				<ES>Romped las cadenas para formar una combinación debajo con el símbolo.</ES>
+				<IT>Rompi le catene formando una combinazione con la figura sottostante.</IT>
+				<FR>Détruisez les chaînes en combinant les symboles ci-dessous.</FR>
+				<NL>Doorbreek de kettingen door met het symbool eronder een combinatie te maken.</NL>
+			</single_lock>
+			<double_lock>
+				<EN>Altlarinda iki eslesen grup olusturarak çift zincirleri kirin.</EN>
+				<DE>Zerbrecht die Doppelketten, indem Ihr mit dem Symbol darunter zwei Kombinationen bildet.</DE>
+				<ES>Romped las cadenas dobles para formar dos combinaciones con el símbolo debajo.</ES>
+				<IT>Rompi le catene doppie formando due combinazioni con la figura sottostante.</IT>
+				<FR>Détruisez les double-chaînes en combinant les symboles  en dessous en deux  combinaisons.</FR>
+				<NL>Breek de dubbele kettingen door met het symbool eronder twee combinaties te maken.</NL>
+			</double_lock>
+			<item_ice>
+				<EN>Üstünde dikey bir kombinasyon olusturarak buzu eritin.</EN>
+				<DE>Taut das Eis, indem Ihr vertikal darüber eine Kombination bildet.</DE>
+				<ES>Derretid el hielo para formar una combinación vertical.</ES>
+				<IT>Sciogli il ghiaccio costruendo una combinazione verticale su di esso.</IT>
+				<FR>Faites fondre la glace en formant au-dessus une combinaison verticale.</FR>
+				<NL>Smelt het ijs, door verticaal erboven combinatie te maken.</NL>
+			</item_ice>
+			<item_skull>
+				<EN>Kafatasi sembollerini eslestirmekten kaçinin; çünkü tahtaya mavi ve yesil taslar eklerler.</EN>
+				<DE>Vermeide Kombinationen mit Totenköpfen. Sie erzeugen blaue und grüne Kacheln.</DE>
+				<ES>Evitad las combinaciones con calaveras, pues generan azulejos azules y verdes.</ES>
+				<IT>Evita le combinazioni con le teste di morto, esse generano tasselli blu e verdi.</IT>
+				<FR>Évitez de combiner les têtes de mort - elles produisent des  carreaux bleus et verts.</FR>
+				<NL>Vermijdt combinaties met doodskoppen. Zij genereren blauwe en groene tegels.</NL>
+			</item_skull>
+			<item_superarrow>
+				<EN>Bes veya daha fazla sembol içeren bir kombinasyonla Joker kazanin.</EN>
+				<DE>Für eine Kombination aus fünf Symbolen erhaltet Ihr einen Joker.</DE>
+				<ES>Por una combinación de cinco símbolos obtenéis un comodín.</ES>
+				<IT>Per una combinazione di 5 o più simboli ricevi un jolly.</IT>
+				<FR>Vous recevrez un joker en formant une combinaison de cinq symboles.</FR>
+				<NL>Voor een combinatie van vijf symbolen ontvang je een joker.</NL>
+			</item_superarrow>
+			<ordinary_level>
+				<!--Nintendo Terminology!!!-->
+				<EN>Üç ya da daha fazla ayni tasi bir sira hâline getirmek için kalemi kullanarak yan yana duran iki tasi yer degistirin!</EN>
+				<DE>Vertauscht mit dem Touchpen zwei benachbarte Symbole so, dass eine Reihe aus drei oder mehr gleichen Symbolen entsteht!</DE>
+				<ES>Intercambiad con el lápiz táctil dos símbolos adyacentes, de manera que se forme una fila de tres o más símbolos iguales.</ES>
+				<IT>Usa lo stilo per spostare i simboli in modo da formare una fila di tre o più simboli uguali!</IT>
+				<FR>Avec le stylet, intervertissez 2 symboles voisins  de manière à créer une rangée de 3 symboles identiques ou plus!</FR>
+				<NL>Verwissel met de stylus twee aangrenzende symbolen, zodat een rij van drie of meer identieke symbolen ontstaat!</NL>
+			</ordinary_level>
+			<normal_marble>
+				<EN>Bu seviyeyi bitirmek için tüm renkli taslari kirmaniz gerekir. Üzerlerinde gruplar olusturun.</EN>
+				<DE>Um diese Ebene abzuschließen, müsst Ihr alle farbigen Kacheln zerbrechen.</DE>
+				<FR>Pour conclure ce niveau, vous devez détruire tous les carreaux colorés.</FR>
+				<IT>Per completare la sfida, distruggi tutti i tasselli colorati.</IT>
+				<ES>Para terminar este nivel debéis partir todos los azulejos de mármol de color azul y verde.</ES>
+				<NL>Om dit niveau af te sluiten, moet je alle gekleurde tegels vernietigen.</NL>
+			</normal_marble>
+		</hints>
+	</game>
+	<game_end>
+		<lost>
+			<EN>Oyunu tamamladiniz, ancak tüm sehri insa etmediniz. Firavun olmak istiyorsaniz çagi yeniden oynamalisiniz.</EN>
+			<DE>Ihr habt das Spiel abgeschlossen, jedoch nicht die gesamte Stadt errichtet. Um Pharao zu werden, müsst Ihr die Epoche wiederholen.</DE>
+			<ES>Habéis terminado el juego pero la ciudad no está del todo construida. Para llegar a ser el faraón debéis repetir la época.</ES>
+			<IT>Hai finito il gioco, ma non hai sviluppato tutte le potenzialità della città. Per diventare faraone devi ripetere l'epoca.</IT>
+			<FR>Vous avez terminé le jeu. Cependant vous n'avez pas construit la ville dans sa totalité. Pour devenir pharaon, vous devez recommencer l'époque.</FR>
+			<NL>Je hebt het spel afgesloten, maar nog niet de totale stad gesticht. Om de Farao te worden, moet je de periode opnieuw spelen.</NL>
+		</lost>
+		<win>
+			<EN>Tebrikler! Ra Heykeli'ni insa ettiniz! Imparatorlugunuz gelisiyor! Siz efsanevi Firavun'sunuz!</EN>
+			<DE>Glückwunsch! Ihr habt die Ra-Statue errichtet. Euer Reich erstrahlt im vollen Glanz! Ihr seid der legendäre Pharao!</DE>
+			<ES>¡Enhorabuena! Habéis levantado la estatua de Ra. ¡Vuestro reino resplandece! ¡Sois el legendario Faraón!</ES>
+			<IT>Complimenti! Hai ottenuto la statua di Ra. Il tuo regno prospera! Sei il leggendario faraone!</IT>
+			<FR>Félicitations! Vous avez érigé la statue de Rê. Votre empire rayonne dans toute sa gloire! Vous êtes le légendaire pharaon!</FR>
+			<NL>Gefeliciteerd! Je hebt het Ra-beeld opgericht. Je rijk straalt in al zijn glans! Je bent de legendarische Farao!</NL>
+		</win>
+	</game_end>
+	<game_result>
+		<bottom_header>
+			<EN>Sonuçlar</EN>
+			<DE>Auswertung</DE>
+			<ES>Puntuación</ES>
+			<IT>Valutazione</IT>
+			<FR>Évaluation</FR>
+			<NL>Analyse</NL>
+		</bottom_header>
+		<time_bonus>
+			<EN>Süre Bonusu</EN>
+			<DE>Zeit-Bonus</DE>
+			<FR>Bonus Temps</FR>
+			<IT>Bonus Tempo</IT>
+			<ES>Bonus de tiempo</ES>
+			<NL>Tijdbonus</NL>
+		</time_bonus>
+		<message_fail>
+			<EN>Üzgünüz, süreniz doldu. Bu seviyeyi yeniden baslatmak istiyor musunuz?</EN>
+			<DE>Die Zeit ist vorbei! Möchtet Ihr diesen Level erneut spielen?</DE>
+			<ES>¡Se acabó el tiempo! ¿Queréis jugar de nuevo este nivel?</ES>
+			<IT>Il tempo è scaduto! Vuoi giocare di nuovo?</IT>
+			<FR>Le temps est écoulé! Voulez-vous rejouer ce niveau?</FR>
+			<NL>De tijd is voorbij! Wil je dit level opnieuw spelen?</NL>
+		</message_fail>
+		<message_blitz_fail>
+			<EN>Üzgünüz, süreniz doldu. {level}. seviyeden yeniden baslatmak istiyor musunuz?</EN>
+			<DE>Die Zeit ist vorbei! Möchtet Ihr von Level {level} neustarten?</DE>
+			<ES>¡Se acabó el tiempo! ¿Queréis reiniciar desde el {level}?</ES>
+			<IT>Il tempo è scaduto! Vuoi ripartire dal livello {level}?</IT>
+			<FR>Le temps est écoulé! Voulez-vous recommencer à niveau {level}?</FR>
+			<NL>De tijd is voorbij! Wil je {level} opnieuw starten?</NL>
+		</message_blitz_fail>
+	</game_result>
+	<game_menu>
+		<want_exit>
+			<EN>Iptal edip seçim ekranina dönmek istediginizden emin misiniz?</EN>
+			<DE>Möchtet Ihr wirklich abbrechen und zur Auswahl zurückkehren?</DE>
+			<ES>¿Estáis seguros de querer abandonar y volver al menú de opciones?</ES>
+			<IT>Vuoi davvero interrompere e tornare alla selezione?</IT>
+			<FR>Voulez-vous vraiment arrêter et retourner à la sélection?</FR>
+			<NL>Weet je zeker dat je wilt stoppen en terug wilt keren naar het keuzemenu?</NL>
+		</want_exit>
+		<button2>
+			<EN>Seviyeyi yeniden baslat</EN>
+			<DE>Neustart</DE>
+			<ES>Reiniciar</ES>
+			<IT>Ricomincia</IT>
+			<FR>Redémarrer</FR>
+			<NL>Opnieuw starten</NL>
+		</button2>
+		<button5>
+			<EN>Oyundan çik</EN>
+			<DE>Beenden</DE>
+			<ES>Finalizar</ES>
+			<IT>Termina</IT>
+			<FR>Quitter</FR>
+			<NL>Beëindigen</NL>
+		</button5>
+	</game_menu>
+	<instruction>
+		<header_rule1>
+			<EN>Kombinasyonlar</EN>
+			<DE>Kombinationen</DE>
+			<ES>Combinaciones</ES>
+			<IT>Combinazioni</IT>
+			<FR>Combinaisons</FR>
+			<NL>Combinaties</NL>
+		</header_rule1>
+		<header_rule2>
+			<!--Please check translation!-->
+			<EN>Turuncu Taslar</EN>
+			<DE>Orange Kacheln</DE>
+			<ES>Azulejos naranjas</ES>
+			<IT>Tassello arancio</IT>
+			<FR>Carreaux oranges</FR>
+			<NL>Oranje tegels</NL>
+		</header_rule2>
+		<header_rule3>
+			<EN>Süper Kombinasyonlar</EN>
+			<DE>Super-Kombinationen</DE>
+			<ES>Super Combinaciones</ES>
+			<IT>Super combinazione</IT>
+			<FR>Super Combinaisons</FR>
+			<NL>Supercombinaties</NL>
+		</header_rule3>
+		<header_rule4>
+			<EN>Bonus</EN>
+			<DE>Bonus</DE>
+			<ES>Bonus</ES>
+			<IT>Bonus</IT>
+			<FR>Bonus</FR>
+			<NL>Bonus</NL>
+		</header_rule4>
+		<header_rule5>
+			<EN>Süre</EN>
+			<DE>Zeit</DE>
+			<ES>Tiempo</ES>
+			<IT>Tempo</IT>
+			<FR>Temps</FR>
+			<NL>Tijd</NL>
+		</header_rule5>
+		<header_rule6>
+			<EN>Binalar</EN>
+			<DE>Gebäude</DE>
+			<ES>Edificios</ES>
+			<IT>Edificio</IT>
+			<FR>Bâtiments</FR>
+			<NL>Gebouwen</NL>
+		</header_rule6>
+		<header_rule7>
+			<EN>Vatandaslar</EN>
+			<DE>Einwohner</DE>
+			<ES>Habitantes</ES>
+			<IT>Cittadini</IT>
+			<FR>Habitants</FR>
+			<NL>Inwoners</NL>
+		</header_rule7>
+		<header_rule8>
+			<EN>Duraklat</EN>
+			<DE>Pause</DE>
+			<ES>Pausa</ES>
+			<IT>Pausa</IT>
+			<FR>Pause</FR>
+			<NL>Pauze</NL>
+		</header_rule8>
+		<rule1>
+			<EN>Üç ya da daha fazla ayni sembolden olusan bir sira yapmak için yan yana duran sembolleri yer degistirin.</EN>
+			<DE>Vertauscht benachbarte Symbole, um Kombinationen von drei oder mehr gleichen Symbolen zu bilden.</DE>
+			<ES>Intercambiad símbolos adyacentes para formar combinaciones de tres o más símbolos iguales.</ES>
+			<IT>Scambia figure vicine per formare file di 3 o più figure uguali.</IT>
+			<FR>Intervertissez les symboles voisins afin de former des combinaisons de trois symboles identiques ou plus.</FR>
+			<NL>Verwissel aangrenzende symbolen, zodat een rij van drie of meer identieke symbolen ontstaat.</NL>
+		</rule1>
+		<rule2>
+			<EN>Turuncu taslari yok etmek için üzerlerinde gruplar olusturun. Hiç tas kalmadiginda seviye tamamlanir.</EN>
+			<DE>Bildet Gruppen über den orangenen Kacheln, um sie zu zerstören. Wenn keine Kacheln mehr übrig sind, ist der Level gelöst.</DE>
+			<ES>Formad grupos sobre los azulejos naranjas de mármol para destruirlas. Cuando ya no existan más azulejos, el nivel estará completado.</ES>
+			<IT>Forma file tasselli per eliminarli. Quando tutti i tasselli saranno distrutti il livello sarà superato.</IT>
+			<FR>Formez des combinaisons sur les carreaux oranges afin de les détruire. Lorsqu'il ne reste plus de carreaux, le niveau est résolu.</FR>
+			<NL>Maak combinaties op de oranje tegels om ze te vernietigen. Als er geen tegels meer over zijn, is het level voltooid.</NL>
+		</rule2>
+		<rule3>
+			<EN>Yan yana 4 ya da 5 ayni tasi eslestirmek size daha da fazla kaynak kazandirir!</EN>
+			<DE>4 oder 5 gleiche Felder nebeneinander verschaffen Euch noch mehr Ressourcen!</DE>
+			<ES>4 o 5 campos adyacentes iguales os procuran aún más recursos.</ES>
+			<IT>La combinazione di 4 o 5 figure uguali fornirà ancora più risorse!</IT>
+			<FR>4 ou 5 cases identiques placées côte à côte vous procurent encore plus de ressources!</FR>
+			<NL>4 of 5 gelijke symbolen op een rij leveren nog meer voorraden op!</NL>
+		</rule3>
+		<rule4>
+			<EN>Bonuslar faydali araçlardir. Onlari doldurmak için ilgili sembolleri eslestirin.</EN>
+			<DE>Boni sind hilfreiche Werkzeuge. Kombiniert entsprechende Symbole und ladet sie so auf.</DE>
+			<ES>Los bonus son herramientas útiles. Combinad los respectivos símbolos y cargadlos.</ES>
+			<IT>I bonus sono risorse importanti. Combina i simboli corrispondenti per ricaricarli.</IT>
+			<FR>Les bonus sont des outils très utiles. Combinez les symboles correspondants pour les obtenir.</FR>
+			<NL>Bonussen zijn hulpvol gereedschap. Combineer ze met bijpassende symbolen en laad ze zo op.</NL>
+		</rule4>
+		<rule5>
+			<EN>Su seviyesi ne kadar süreniz kaldigini gösterir. Süre dolmadan tüm levhalari kirin! Ne kadar hizli olursaniz, süre bonusunuz o kadar büyük olur. Süre bonusu en degerli kaynaklarinizi yeniler.</EN>
+			<DE>Der Wasserstand die verbleibende Zeit an. Zerbrecht alle Kacheln, bevor die Zeit abgelaufen ist! Je schneller Ihr seid, desto größer ist Euer Zeitbonus. Der Zeitbonus erhöht Eure am dringendsten benötigten Ressourcen.</DE>
+			<ES>El nivel de agua indica el tiempo restante. Romped todos los azulejos antes de que se termine el tiempo. Cuanto más rápidos seáis, mayor será vuestro bonus de tiempo y más aumentarán vuestros recursos disponibles.</ES>
+			<IT>Il livello dell'acqua indica quanto tempo rimane. Elimina tutti i tasselli prima che scada. Più sei veloce e maggiore sarà il tuo tempo bonus. Il bonus aumenta la risorsa di cui hai più urgentemente bisogno.</IT>
+			<FR>Le niveau d'eau indique le temps restant. Détruisez tous les carreaux avant que le temps ne soit écoulé! Plus vous êtes rapide, plus votre bonus temps sera important. Le bonus temps augmente les ressources dont vous avez le plus besoin.</FR>
+			<NL>Het waterpeil geeft aan hoeveel tijd je nog hebt. Vernietig alle tegels voor de tijd om is! Hoe sneller je het level voltooid, hoe groter je tijdbonus. Tijdbonussen leveren de voorraden op die je het hardst nodig hebt.</NL>
+		</rule5>
+		<rule6>
+			<EN>Yeni binalar size daha degerli taslar, altin, kaynak ve yiyecek saglar.</EN>
+			<DE>Neue Gebäude bringen Euch Spielfelder, die mehr wert sind und Euch mehr Gold, Baumaterial und Nahrung verschaffen.</DE>
+			<ES>Los nuevos edificios suponen pantallas del juego que tienen más valor y os procurarán más oro, existencias y provisiones.</ES>
+			<IT>Nuovi edifici procurano figure di maggior valore, che daranno più oro, riserve e viveri.</IT>
+			<FR>Les nouveaux bâtiments correspondent à de nouveaux territoires de jeu vous rapportant plus d'or, de matériaux de construction et de nourriture.</FR>
+			<NL>Nieuwe gebouwen zorgen voor speelvelden die meer waard zijn en meer goudstukken, bouwmaterialen en voedsel opleveren.</NL>
+		</rule6>
+		<rule7>
+			<EN>Bazi binalar vatandaslara kiralanabilir. Oyunda akilli hamlelerle sehrinize insan çekebilirsiniz. Vatandaslar, hedefinize daha hizli ulasmanizi saglayan belirli avantajlar sunar.</EN>
+			<DE>In bestimmte Gebäude können Einwohner ziehen. Durch gute Spielzüge könnt Ihr die Einwohner in Eure Stadt locken. Einwohner verschaffen Euch bestimmte Vorteile und helfen Euer Ziel schneller zu erreichen.</DE>
+			<FR>Les habitants peuvent occuper certains bâtiments. En jouant bien, vous pouvez les assigner dans votre ville. Les habitants vous rapportent de nombreux avantages et vous aident à atteindre vos buts plus rapidement.</FR>
+			<IT>Gli abitanti possono andare a vivere in alcuni edifici. Grazie a buone manovre puoi far trasferire gli abitanti nella tua città. Portano con sé alcuni vantaggi che ti aiuteranno a raggiungere i tuoi obiettivi più velocemente.</IT>
+			<ES>Los habitantes se pueden mudar a los edificios. Mediante buenas jugadas podéis atraer a los habitantes a vuestra ciudad. Los habitantes os proporcionan unas determinadas ventajas y os ayudan aconseguir vuestra meta más rápido.</ES>
+			<NL>In hiervoor bestemde gebouwen kunnen inwoners wonen. Door middel van goede speltactiek kun je de inwoners in je stad lokken. Inwoners leveren specifieke voordelen en helpen je je doel sneller te bereiken.</NL>
+		</rule7>
+		<rule8>
+			<!--nintendo-->
+			<EN>Oyunu istediginiz zaman duraklatabilirsiniz. Basariyla tamamladiginiz son seviye otomatik olarak kaydedilir. Oynanis sirasinda Nintendo 3DS'inizde START tusuna basmaniz sizi menüye götürür.</EN>
+			<DE>Ihr könnt das Spiel jederzeit unterbrechen. Der letzte Level, den Ihr abgeschlossen habt, wird automatisch gespeichert. Über START auf dem Nintendo 3DS kommt Ihr innerhalb des Spiels zum Menü.</DE>
+			<FR>Vous pouvez interrompre le jeu à tout moment. Le dernier niveau terminé est enregistré automatiquement. Pendant le jeu, appuyez sur START sur la Nintendo 3DS pour revenir au menu.</FR>
+			<IT>Potete interrompere il gioco in qualsiasi momento. L'ultimo livello superato verrà salvato automaticamente. Premendo START sul Nintendo 3DS tornerete al menu principale.</IT>
+			<ES>Podéis interrumpir el juego siempre que queráis. El último nivel que hayáis superado quedará grabado automáticamente. Pulsad START en la Nintendo 3DS para acceder al menú durante el juego.</ES>
+			<NL>Je kunt het spel op elk moment pauzeren. Het laatst voltooide level wordt automatisch opgeslagen. Druk op de START-knop van je Nintendo 3DS om naar het menu te gaan.</NL>
+		</rule8>
+	</instruction>
+	<language>
+		<EN>
+			<EN>Türkçe</EN>
+			<DE>English</DE>
+			<FR>English</FR>
+			<IT>English</IT>
+			<ES>English</ES>
+			<NL>English</NL>
+		</EN>
+		<DE>
+			<EN>Almanca</EN>
+			<DE>Deutsch</DE>
+			<FR>Deutsch</FR>
+			<IT>Deutsch</IT>
+			<ES>Deutsch</ES>
+			<NL>Deutsch</NL>
+		</DE>
+		<FR>
+			<EN>Fransizca</EN>
+			<DE>Français</DE>
+			<FR>Français</FR>
+			<IT>Français</IT>
+			<ES>Français</ES>
+			<NL>Français</NL>
+		</FR>
+		<ES>
+			<EN>Ispanyolca</EN>
+			<DE>Español</DE>
+			<FR>Español</FR>
+			<IT>Español</IT>
+			<ES>Español</ES>
+			<NL>Español</NL>
+		</ES>
+		<IT>
+			<EN>Italyanca</EN>
+			<DE>Italiano</DE>
+			<FR>Italiano</FR>
+			<IT>Italiano</IT>
+			<ES>Italiano</ES>
+			<NL>Italiano</NL>
+		</IT>
+		<NL>
+			<EN>Felemenkçe</EN>
+			<DE>Nederlands</DE>
+			<FR>Nederlands</FR>
+			<IT>Nederlands</IT>
+			<ES>Nederlands</ES>
+			<NL>Nederlands</NL>
+		</NL>
+	</language>
+	<mainmenu>
+		<continue>
+			<EN>Devam Et</EN>
+			<DE>Weiter</DE>
+			<ES>Continuar</ES>
+			<IT>Avanti</IT>
+			<FR>Continuer</FR>
+			<NL>Verder</NL>
+		</continue>
+		<help>
+			<EN>Yardim</EN>
+			<DE>Hilfe</DE>
+			<ES>Ayuda</ES>
+			<IT>Aiuto</IT>
+			<FR>Aide</FR>
+			<NL>Help</NL>
+		</help>
+		<new_game>
+			<EN>Çag Seç</EN>
+			<DE>Epoche wählen</DE>
+			<ES>Seleccionar época</ES>
+			<IT>Seleziona un'epoca</IT>
+			<FR>Choisir l'époque</FR>
+			<NL>Periode kiezen</NL>
+		</new_game>
+		<adventure_message>
+			<EN>Mevcut oyununuzu sürdürmek istiyor musunuz?</EN>
+			<DE>Möchtet Ihr das aktuelle Spiel fortsetzen?</DE>
+			<ES>¿Queréis continuar con la partida actual?</ES>
+			<IT>Vuoi continuare l'ultima partita?</IT>
+			<FR>Voulez-vous continuer la partie en cours?</FR>
+			<NL>Wil je verder met je huidige spel?</NL>
+		</adventure_message>
+		<freeplay_locked>
+			<EN>Macera modunu oynamak, bu oyun modunu adim adim etkinlestirir.</EN>
+			<DE>Beim Spielen des Adventures wird dieser Modus Stück für Stück freigeschaltet.</DE>
+			<ES>Al jugar esta aventura, este modo se activará por partes.</ES>
+			<IT>Giocando la modalità avventura, un po' per volta si sbloccherà questa modalità.</IT>
+			<FR>En jouant en mode Aventures, vous débloquerez le mode pas à pas.</FR>
+			<NL>Bij het spelen van het avontuur wordt deze modus stuk voor stuk gedeblokkeerd.</NL>
+		</freeplay_locked>
+		<blitz_locked>
+			<EN>Macerayi tamamlamak, bu oyun modunun kilidini açar.</EN>
+			<DE>Durch das Lösen des Adventures wird dieser Modus freigeschaltet.</DE>
+			<ES>Al resolver la aventura se activará este modo.</ES>
+			<IT>Risolvendo la modalità avventura, si sbloccherà questa modalità.</IT>
+			<FR>En résolvant le mode Aventures, vous débloquerez ce mode.</FR>
+			<NL>Door het oplossen van het avontuur wordt deze modus gedeblokkeerd.</NL>
+		</blitz_locked>
+	</mainmenu>
+	<map>
+		<player_status>
+			<status01>
+				<EN>Köylü</EN>
+				<DE>Bauer</DE>
+				<FR>Paysan</FR>
+				<IT>Contadino</IT>
+				<ES>Campesino</ES>
+				<NL>Boer</NL>
+			</status01>
+			<status02>
+				<!--g_ep_2_status-->
+				<EN>Mimar</EN>
+				<DE>Architekt</DE>
+				<FR>Architecte</FR>
+				<IT>Architetto</IT>
+				<ES>Arquitecto</ES>
+				<NL>Architect</NL>
+			</status02>
+			<status03>
+				<!--g_ep_3_status-->
+				<EN>Vezir</EN>
+				<DE>Wesir</DE>
+				<FR>Vizir</FR>
+				<IT>Visir</IT>
+				<ES>Visir</ES>
+				<NL>Vizier</NL>
+			</status03>
+			<status04>
+				<!--g_ep_4_status-->
+				<EN>Basrahip</EN>
+				<DE>Hohepriester</DE>
+				<FR>Prêtre</FR>
+				<IT>Sacerdote</IT>
+				<ES>Sacerdote</ES>
+				<NL>Priester</NL>
+			</status04>
+			<status05>
+				<!--g_ep_5_status-->
+				<EN>Firavun</EN>
+				<DE>Pharao</DE>
+				<FR>Faraón</FR>
+				<IT>Farao</IT>
+				<ES>Pharaon</ES>
+				<NL>Farao</NL>
+			</status05>
+		</player_status>
+	</map>
+	<new_player>
+		<button_caps1>
+			<EN>abc</EN>
+			<DE>abc</DE>
+			<FR>abc</FR>
+			<IT>abc</IT>
+			<ES>abc</ES>
+			<NL>abc</NL>
+		</button_caps1>
+		<button_caps2>
+			<EN>ABC</EN>
+			<DE>ABC</DE>
+			<FR>ABC</FR>
+			<IT>ABC</IT>
+			<ES>ABC</ES>
+			<NL>ABC</NL>
+		</button_caps2>
+		<button_mode1>
+			<EN>Çgö</EN>
+			<DE>Äöü</DE>
+			<FR>Äöü</FR>
+			<IT>Äöü</IT>
+			<ES>Äöü</ES>
+			<NL>Äöü</NL>
+		</button_mode1>
+		<button_mode2>
+			<EN>Abc</EN>
+			<DE>Abc</DE>
+			<FR>Abc</FR>
+			<IT>Abc</IT>
+			<ES>Abc</ES>
+			<NL>Abc</NL>
+		</button_mode2>
+		<button_space>
+			<EN>Bosluk</EN>
+			<DE>Leerzeichen</DE>
+			<FR>Espace</FR>
+			<IT>Spazio</IT>
+			<ES>Espacio</ES>
+			<NL>Spatie</NL>
+		</button_space>
+		<modes>
+			<mode1>
+				<EN>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</EN>
+				<DE>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</DE>
+				<FR>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</FR>
+				<IT>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</IT>
+				<ES>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</ES>
+				<NL>1234567890QWERTYUIOPASDFGHJKLZXCVBNM</NL>
+			</mode1>
+			<mode2>
+				<EN>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</EN>
+				<DE>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</DE>
+				<FR>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</FR>
+				<IT>ÀÁÂÃÄÅÆÇÐÈèÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</IT>
+				<ES>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</ES>
+				<NL>ÀÁÂÃÄÅÆÇÐÈÉÊËÌÍÎÏÑÒÓÔÕÖØŒÙÚÛÜÝŸß:,-'</NL>
+			</mode2>
+			<mode3>
+				<EN>1234567890qwertyuiopasdfghjklzxcvbnm</EN>
+				<DE>1234567890qwertyuiopasdfghjklzxcvbnm</DE>
+				<FR>1234567890qwertyuiopasdfghjklzxcvbnm</FR>
+				<IT>1234567890qwertyuiopasdfghjklzxcvbnm</IT>
+				<ES>1234567890qwertyuiopasdfghjklzxcvbnm</ES>
+				<NL>1234567890qwertyuiopasdfghjklzxcvbnm</NL>
+			</mode3>
+			<mode4>
+				<EN>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</EN>
+				<DE>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</DE>
+				<FR>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</FR>
+				<IT>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</IT>
+				<ES>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</ES>
+				<NL>àáâãäåæçðèéêëìíîïñòóôõöøœùúûüýÿß:,-'</NL>
+			</mode4>
+		</modes>
+		<cursor_char>
+			<EN>_</EN>
+			<DE>_</DE>
+			<FR>_</FR>
+			<IT>_</IT>
+			<ES>_</ES>
+			<NL>_</NL>
+		</cursor_char>
+		<backspace>
+			<EN>---</EN>
+			<DE>---</DE>
+			<FR>---</FR>
+			<IT>---</IT>
+			<ES>---</ES>
+			<NL>---</NL>
+		</backspace>
+		<statuses>
+			<avatar>
+				<EN>Lütfen bir avatar seçin.</EN>
+				<DE>Wählt Euren Avatar.</DE>
+				<FR>Veuillez sélectionner votre profil.</FR>
+				<IT>Scegli il tuo personaggio.</IT>
+				<ES>Seleccionad vuestro avatar.</ES>
+				<NL>Selecteer je afbeelding.</NL>
+			</avatar>
+			<name>
+				<EN>Lütfen adinizi girin.</EN>
+				<DE>Bitte gebt Euren Namen ein.</DE>
+				<FR>Veuillez entrer votre nom.</FR>
+				<IT>Inserisci il tuo nome.</IT>
+				<ES>Introducid vuestro nombre.</ES>
+				<NL>Voer je naam in.</NL>
+			</name>
+		</statuses>
+	</new_player>
+	<puzzle>
+		<button_skip>
+			<EN>Geç</EN>
+			<DE>Überspringen</DE>
+			<ES>Saltar</ES>
+			<IT>Ignora</IT>
+			<FR>Passer</FR>
+			<NL>Overslaan</NL>
+		</button_skip>
+	</puzzle>
+	<settings>
+		<messages>
+			<want_delete_saved_data>
+				<EN>Ilerlemenizi silmek istediginizden emin misiniz?</EN>
+				<DE>Möchtet Ihr wirklich Euren Spielstand löschen?</DE>
+				<FR>Voulez-vous vraiment supprimer votre profil ?</FR>
+				<IT>Vuoi davvero cancellare il tuo profilo?</IT>
+				<ES>¿Estáis seguros de borrar la partida guardada?</ES>
+				<NL>Weet je zeker dat je het opgeslagen spel wilt wissen?</NL>
+			</want_delete_saved_data>
+			<want_delete_all_saved_data>
+				<EN>Tüm ayarlari ve ilerlemeyi kalici olarak silmek istediginizden emin misiniz?</EN>
+				<DE>Möchtet Ihr wirklich sämtliche Einstellungen und Spielstände unwiderruflich löschen?</DE>
+				<FR>Voulez-vous vraiment supprimer définitivement tous les réglages et tous les scores?</FR>
+				<IT>Vuoi davvero cancellare definitivamente le impostazioni e i profili?</IT>
+				<ES>¿Estáis seguros de borrar completamente la configuración y todas las partidas guardadas?</ES>
+				<NL>Weet je zeker dat je alle instellingen en opgeslagen spellen definitief wilt wissen?</NL>
+			</want_delete_all_saved_data>
+		</messages>
+		<statuses>
+			<choice>
+				<EN>Buradan sesi ayarlayabilir ve ilerlemenin bir kismini ya da tamamini silebilirsiniz.</EN>
+				<DE>Hier könnt Ihr die Lautstärke einstellen, sowie Euren oder alle Spielstände löschen.</DE>
+				<FR>Vous pouvez régler ici le volume sonore et supprimer votre score ou tous les scores.</FR>
+				<IT>Qui puoi impostare il volume e cancellare il tuo o tutti i profili.</IT>
+				<ES>Aquí podéis regular el volumen y borrar una o todas las partidas guardadas.</ES>
+				<NL>Hier kun je het volume instellen en je eigen of alle opgeslagen spellen wissen.</NL>
+			</choice>
+		</statuses>
+		<button1>
+			<EN>Profili sil</EN>
+			<DE>Profil löschen</DE>
+			<FR>Supprimer le profil</FR>
+			<IT>Cancellare profilo</IT>
+			<ES>Borrar perfil</ES>
+			<NL>Profiel wissen</NL>
+		</button1>
+		<button2>
+			<EN>Her seyi sil</EN>
+			<DE>Alles löschen</DE>
+			<FR>Supprimer tout</FR>
+			<IT>Cancellare tutto</IT>
+			<ES>Borrar todo</ES>
+			<NL>Alles wissen</NL>
+		</button2>
+		<button3>
+			<EN>Dil seç</EN>
+			<DE>Sprache wählen</DE>
+			<FR>Sélectionner la langue</FR>
+			<IT>Selezionare lingua</IT>
+			<ES>Seleccionar idioma</ES>
+			<NL>Taal kiezen</NL>
+		</button3>
+	</settings>
+	<story>
+		<intro>
+			<!--Attention! Not all texts from CoE PC here!-->
+			<part01>
+				<!--intro_text_frame_01-->
+				<EN>Çok uzun zaman önce yalnizca kaos ve okyanuslarin dipsiz derinligi vardi.</EN>
+				<ES>Hace mucho tiempo, solo existían el caos y la profundidad abismal de los océanos.</ES>
+				<DE>Vor langer, langer Zeit gab es nichts als Chaos und die unauslotbare Tiefe des Ozeans.</DE>
+				<FR>Il y a bien longtemps, il n'y avait que le chaos et les profondeurs abyssales des océans.</FR>
+				<IT>Molto tempo fa, esisteva solo il caos e la profondità abissale degli oceani.</IT>
+				<NL>Lang geleden was er alleen chaos en de onpeilbare diepten van de oceaan.</NL>
+			</part01>
+			<part02>
+				<!--intro_text_frame_02-->
+				<EN>Bir gün, okyanustan beyaz bir lotus yükseldi.</EN>
+				<ES>Un día, un loto blanco surgió del océano.</ES>
+				<DE>Doch eines Tages stieg eine weiße Lotosblüte aus dem Meer empor.</DE>
+				<FR>Un jour, un lotus blanc émergea de l'océan.</FR>
+				<IT>Finché un giorno, un bianco fiore di loto emerse dalle acque.</IT>
+				<NL>Op een dag rees er een witte lotus op uit de zee.</NL>
+			</part02>
+			<part03>
+				<!--intro_text_frame_03-->
+				<EN>Çiçek tomurcugu açildi ve günes küresiyle birlikte günes tanrisi Ra ortaya çikti.</EN>
+				<ES>Al abrirse la flor, apareció el dios del sol Ra con un disco solar.</ES>
+				<DE>Die Blüte öffnete sich und ihr entstieg der Gott Ra, und mit ihm die heilige Sonnenscheibe.</DE>
+				<FR>La fleur s'ouvrit et Ra, le dieu soleil, apparut avec le disque solaire.</FR>
+				<IT>Il bocciolo si aprì e il dio Ra apparve con la sfera del sole.</IT>
+				<NL>De bloem ging open en de zonnegod Ra met de zonneschijf kwam tevoorschijn.</NL>
+			</part03>
+			<part04>
+				<!--intro_text_frame_04-->
+				<EN>Karanlik dagildi ve dünya yasam veren isikla doldu.</EN>
+				<ES>La oscuridad se desvaneció y la luz que da la vida inundó el mundo.</ES>
+				<DE>Die Dunkelheit zog sich zurück und die Welt war erfüllt vom Licht des Lebens.</DE>
+				<FR>Les ténèbres reculèrent et le monde s'emplit de lumière donneuse de vie.</FR>
+				<IT>Le tenebre si diradarono e il mondo fu rischiarato dalla luce della vita.</IT>
+				<NL>De duisternis verdween en de wereld baadde in het licht dat leven schiep.</NL>
+			</part04>
+			<part05>
+				<!--intro_text_frame_06-->
+				<EN>Ra, yeni dogan dünyanin güzelligini görünce sevinçten agladi.</EN>
+				<ES>Al ver la belleza del mundo recién nacido, Ra lloró de alegría.</ES>
+				<DE>Als er der Schönheit der neugeborenen Welt gewahr wurde, weinte Ra vor Glückseligkeit.</DE>
+				<FR>Devant la beauté de ce jeune monde, Ra pleura de joie.</FR>
+				<IT>Vedendo la bellezza del mondo appena creato, Ra pianse di gioia.</IT>
+				<NL>Door de schoonheid van deze pasgeboren wereld huilde Ra van geluk.</NL>
+			</part05>
+			<part06>
+				<!--intro_text_frame_07-->
+				<EN>Gözyaslari topraga düstügünde insanlara dönüstüler.</EN>
+				<ES>Cuando sus lágrimas tocaron la tierra, se convirtieron en personas.</ES>
+				<DE>Doch als seine Tränen die Erde berührten, wurden sie zu Menschen.</DE>
+				<FR>Lorsque que ses larmes tombèrent sur le sol, elles se transformèrent en hommes.</FR>
+				<IT>Dalle sue lacrime riversate sulla terra nacque il genere umano.</IT>
+				<NL>Zijn tranen vielen op aarde en veranderden in mensen.</NL>
+			</part06>
+			<part07>
+				<!--intro_text_frame_08-->
+				<EN>Ve Ra söyle dedi: "Sizi gözyaslarim dogurdu; bu yüzden size bu muhtesem topragi veriyorum."</EN>
+				<ES>Y entonces Ra dijo: "Ya que mis lágrimas os han hecho nacer, os entrego esta hermosa tierra".</ES>
+				<DE>Und Ra sprach, "Wie meine Tränen euch das Leben schenkten, so schenke ich euch dieses wundervolle Land."</DE>
+				<FR>Et Ra dit, "Mes larmes vous ont donné la vie et je vous donne cette magnifique terre."</FR>
+				<IT>E Ra disse: 'A voi che siete nati dalle mie lacrime darò questa terrà meravigliosa'.</IT>
+				<NL>En Ra zei: "Jullie zijn geboren uit mijn tranen dus ik schenk jullie dit prachtige land."</NL>
+			</part07>
+		</intro>
+	</story>
+	<trophy>
+		<collected>
+			<EN>Toplandi: %i / %i.</EN>
+			<DE>Gesammelt: %i von %i.</DE>
+			<ES>Acumulados: %i de %i</ES>
+			<IT>Collezionati: %i di %i.</IT>
+			<FR>Récoltés: %i sur %i.</FR>
+			<NL>Verzameld: %i van %i.</NL>
+		</collected>
+		<button_trophy>
+			<EN>Kupa</EN>
+			<DE>Trophäe</DE>
+			<ES>Trofeo</ES>
+			<IT>Trofei</IT>
+			<FR>Trophée</FR>
+			<NL>Trofeeën</NL>
+		</button_trophy>
+		<button_citizen>
+			<EN>Vatandas</EN>
+			<DE>Einwohner</DE>
+			<ES>Habitante</ES>
+			<IT>Cittadini</IT>
+			<FR>Habitant</FR>
+			<NL>Inwoner</NL>
+		</button_citizen>
+	</trophy>
+</language>

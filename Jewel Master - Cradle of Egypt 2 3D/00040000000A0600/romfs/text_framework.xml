@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XML Spy v2.5 NT  - http://www.xmlspy.com -->
+<language>
+	<general>
+		<standardterms>
+			<close>
+				<EN>Kapat</EN>
+				<DE>Schliessen</DE>
+				<NL>Afsluiten</NL>
+				<FR>Fermer</FR>
+				<ES>Cerrar</ES>
+				<IT>Chiudi</IT>
+				<BR>Fechar</BR>
+				<SE>Stäng</SE>
+			</close>
+			<back>
+				<EN>Geri</EN>
+				<DE>Zurück</DE>
+				<FR>Annuler</FR>
+				<IT>Indietro</IT>
+				<ES>Volver</ES>
+				<NL>Terug</NL>
+			</back>
+			<next>
+				<EN>Ileri</EN>
+				<DE>Weiter</DE>
+				<FR>Continuer</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</next>
+			<ok>
+				<EN>Tamam</EN>
+				<DE>OK</DE>
+				<FR>OK</FR>
+				<IT>OK</IT>
+				<ES>OK</ES>
+				<NL>OK</NL>
+			</ok>
+			<yes>
+				<EN>Evet</EN>
+				<DE>Ja</DE>
+				<FR>Oui</FR>
+				<IT>Sì</IT>
+				<ES>Sí</ES>
+				<NL>Ja</NL>
+			</yes>
+			<no>
+				<EN>Hayir</EN>
+				<DE>Nein</DE>
+				<FR>Non</FR>
+				<IT>No</IT>
+				<ES>No</ES>
+				<NL>Nee</NL>
+			</no>
+			<play>
+				<EN>Oyna</EN>
+				<DE>Spielen</DE>
+				<FR>Jouer</FR>
+				<IT>Giocare</IT>
+				<ES>Jugar</ES>
+				<NL>Spelen</NL>
+			</play>
+			<menu>
+				<EN>Menü</EN>
+				<DE>Menü</DE>
+				<FR>Menu</FR>
+				<IT>Menu</IT>
+				<ES>Menú</ES>
+				<NL>Menu</NL>
+			</menu>
+			<credits>
+				<EN>Künye</EN>
+				<DE>Credits</DE>
+				<FR>Crédits</FR>
+				<IT>Credits</IT>
+				<ES>Créditos</ES>
+				<NL>Credits</NL>
+			</credits>
+			<continue>
+				<EN>Devam Et</EN>
+				<DE>Weiter</DE>
+				<FR>Continuer</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</continue>
+			<settings>
+				<EN>Ayarlar</EN>
+				<DE>Einstellungen</DE>
+				<FR>Réglages</FR>
+				<IT>Impostazioni</IT>
+				<ES>Configuración</ES>
+				<NL>Instellingen</NL>
+			</settings>
+			<instructions>
+				<EN>Nasil Oynanir</EN>
+				<DE>Anleitung</DE>
+				<FR>Instructions</FR>
+				<IT>Istruzioni</IT>
+				<ES>Instrucciones</ES>
+				<NL>Speluitleg</NL>
+			</instructions>
+			<score>
+				<EN>Puan</EN>
+				<DE>Punkte</DE>
+				<FR>Points</FR>
+				<IT>Punti</IT>
+				<ES>Puntuación</ES>
+				<NL>Punten</NL>
+			</score>
+			<level>
+				<EN>Seviye</EN>
+				<DE>Level</DE>
+				<FR>Niveau</FR>
+				<IT>Livello</IT>
+				<ES>Nivel</ES>
+				<NL>Level</NL>
+			</level>
+			<easy>
+				<EN>Kolay</EN>
+				<IT>Facile</IT>
+				<DE>Einfach</DE>
+				<ES>Fácil</ES>
+				<FR>Facile</FR>
+				<NL>Makkelijk</NL>
+			</easy>
+			<normal>
+				<EN>Orta</EN>
+				<IT>Normale</IT>
+				<DE>Normal</DE>
+				<ES>Normal</ES>
+				<FR>Normal</FR>
+				<NL>Normaal</NL>
+			</normal>
+			<hard>
+				<EN>Zor</EN>
+				<IT>Difficile</IT>
+				<DE>Schwer</DE>
+				<ES>Difícil</ES>
+				<FR>Difficile</FR>
+				<NL>Moeilijk</NL>
+			</hard>
+		</standardterms>
+		<numeric_separator EN="," DE="." FR="." IT="." ES="." NL="."/>
+	</general>
+	<savedata>
+		<message>
+			<DE>Die Speicherdaten sind fehlerhaft.
+Die Daten werden jetzt zurückgesetzt.</DE>
+			<EN>Kayit verileri bozuk.
+Veriler simdi sifirlanacak.</EN>
+			<FR>Les données de sauvegarde sont corrompues et vont être réinitialisées.</FR>
+			<IT>I dati salvati sono danneggiati e verranno eliminati.</IT>
+			<NL>De opgeslagen gegevens zijn beschadigd.
+De gegevens worden nu hersteld.</NL>
+			<ES>Los datos guardados están dañados y no se pueden usar.
+Se crearán datos nuevos.</ES>
+		</message>
+		<status>
+			<DE>Speicherdaten werden zurückgesetzt...</DE>
+			<EN>Kayit verileri sifirlaniyor...</EN>
+			<FR>Réinitialisation des données de sauvegarde...</FR>
+			<IT>Eliminazione dei dati salvati in corso...</IT>
+			<NL>Bezig de opgeslagen gegevens te herstellen...</NL>
+			<ES>Creando datos nuevos...</ES>
+		</status>
+	</savedata>
+	<savegame>
+		<status>
+			<EN>Lütfen bir avatar seçin.</EN>
+			<DE>Wählt Euren Avatar.</DE>
+			<FR>Veuillez sélectionner votre image.</FR>
+			<IT>Scegli il tuo personaggio.</IT>
+			<ES>Seleccionad vuestro avatar.</ES>
+			<NL>Selecteer je afbeelding.</NL>
+		</status>
+		<button_empty>
+			<EN>Yeni</EN>
+			<DE>Neu</DE>
+			<FR>Nouveau</FR>
+			<IT>Nuovo</IT>
+			<ES>Nuevo</ES>
+			<NL>Nieuw</NL>
+		</button_empty>
+	</savegame>
+</language>
