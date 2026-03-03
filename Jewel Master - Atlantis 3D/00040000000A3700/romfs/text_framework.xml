@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<language>
+	<message>
+		<corrupted_data>
+			
+			<EN>Oyun verileri bozuldu. Varsayilan degerler geri yüklenecek.</EN>
+			<DE>Die Daten des Spiels sind beschädigt. Standardwerte werden wiederhergestellt.</DE>
+			<FR>Les données ont été endommagées. Les valeurs par défaut sont restaurées</FR>
+			<IT>I dati sono danneggiati. I valori iniziali vengono reimpostati.</IT>
+			<ES>Los datos están dañados. Se restaurarán los valores prefijados.</ES>
+			<NL>De gegevens van het spel zijn beschadigd. De standaardinstellingen worden hersteld.</NL>
+		</corrupted_data>
+		<link_fail>
+			
+			<EN>Kayit verilerine erisilemedi. Lutfen cihazinizi kapatin ve Oyun Kartini yeniden takin.</EN>
+			<DE>Auf die Daten kann nicht zugegriffen werden. Bitte das System ausschalten und die Karte neu einstecken.</DE>
+			<FR>Impossible d'accéder aux données. Veuillez éteindre la console et insérer à nouveau la carte Nintendo DS.</FR>
+			<IT>Non è possibile accedere ai dati. Spegnere la console e reinserire la scheda.</IT>
+			<ES>No se puede acceder a los datos. Por favor, apague la consola e inserte la tarjeta Nintendo DS de nuevo.</ES>
+			<NL>Kan de gegevens niet openen. Zet het systeem uit en plaats de Game Card opnieuw.</NL>
+		</link_fail>
+	</message>
+	<general>
+		<standardterms>
+			<close>
+				<EN>Kapat</EN>
+				<DE>Schliessen</DE>
+				<NL>Afsluiten</NL>
+				<FR>Fermer</FR>
+				<ES>Cerrar</ES>
+				<IT>Chiudi</IT>
+				<BR>Fechar</BR>
+				<SE>Stäng</SE>
+			</close>
+			<back>
+				<EN>Geri</EN>
+				<DE>Zurück</DE>
+				<FR>Retour</FR>
+				<IT>Indietro</IT>
+				<ES>Volver</ES>
+				<NL>Terug</NL>
+			</back>
+			<next>
+				<EN>Ileri</EN>
+				<DE>Weiter</DE>
+				<FR>Suivant</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</next>
+			<ok>
+				<EN>Tamam</EN>
+				<DE>OK</DE>
+				<FR>OK</FR>
+				<IT>OK</IT>
+				<ES>OK</ES>
+				<NL>OK</NL>
+			</ok>
+			<yes>
+				<EN>Evet</EN>
+				<DE>Ja</DE>
+				<FR>Oui</FR>
+				<IT>Sì</IT>
+				<ES>Sí</ES>
+				<NL>Ja</NL>
+			</yes>
+			<no>
+				<EN>Hayir</EN>
+				<DE>Nein</DE>
+				<FR>Non</FR>
+				<IT>No</IT>
+				<ES>No</ES>
+				<NL>Nee</NL>
+			</no>
+			<play>
+				<EN>Oyna</EN>
+				<DE>Spielen</DE>
+				<FR>Jouer</FR>
+				<IT>Gioca</IT>
+				<ES>Jugar</ES>
+				<NL>Spelen</NL>
+			</play>
+			<menu>
+				<EN>Menü</EN>
+				<DE>Menü</DE>
+				<FR>Menu</FR>
+				<IT>Menu</IT>
+				<ES>Menú</ES>
+				<NL>Menu</NL>
+			</menu>
+			<continue>
+				<EN>Devam</EN>
+				<DE>Weiter</DE>
+				<FR>Continuer</FR>
+				<IT>Avanti</IT>
+				<ES>Continuar</ES>
+				<NL>Verder</NL>
+			</continue>
+			<skip>
+				<DE>Überspringen</DE>
+				<EN>Atla</EN>
+				<ES>Pasar</ES>
+				<FR>Passer</FR>
+				<IT>Salta</IT>
+				<NL>Overslaan</NL>
+			</skip>
+			<delete>
+				<DE>Löschen</DE>
+				<EN>Sil</EN>
+				<ES>Borrar</ES>
+				<FR>Supprimer</FR>
+				<IT>Cancellare</IT>
+				<NL>Wissen</NL>
+			</delete>
+			<credits>
+				<EN>Künye</EN>
+				<DE>Credits</DE>
+				<FR>Crédits</FR>
+				<IT>Credits</IT>
+				<ES>Créditos</ES>
+				<NL>Credits</NL>
+			</credits>
+			<settings>
+				<EN>Ayarlar</EN>
+				<DE>Einstellungen</DE>
+				<FR>Réglages</FR>
+				<IT>Impostazioni</IT>
+				<ES>Configuración</ES>
+				<NL>Instellingen</NL>
+			</settings>
+			<instructions>
+				<EN>Oyun Rehberi</EN>
+				<DE>Anleitung</DE>
+				<FR>Instructions</FR>
+				<IT>Introduzione</IT>
+				<ES>Instrucciones</ES>
+				<NL>Speluitleg</NL>
+			</instructions>
+			<score>
+				<EN>Puan</EN>
+				<DE>Punkte</DE>
+				<FR>Points</FR>
+				<IT>Punti</IT>
+				<ES>Puntuación</ES>
+				<NL>Punten</NL>
+			</score>
+			<level>
+				<EN>Seviye</EN>
+				<DE>Level</DE>
+				<FR>Niveau</FR>
+				<IT>Livello</IT>
+				<ES>Nivel</ES>
+				<NL>Level</NL>
+			</level>
+			<easy>
+				<EN>Kolay</EN>
+				<IT>Facile</IT>
+				<DE>Einfach</DE>
+				<ES>Fácil</ES>
+				<FR>Facile</FR>
+				<NL>Makkelijk</NL>
+			</easy>
+			<normal>
+				<EN>Orta</EN>
+				<IT>Normale</IT>
+				<DE>Normal</DE>
+				<ES>Normal</ES>
+				<FR>Normal</FR>
+				<NL>Normaal</NL>
+			</normal>
+			<hard>
+				<EN>Zor</EN>
+				<IT>Difficile</IT>
+				<DE>Schwer</DE>
+				<ES>Difícil</ES>
+				<FR>Difficile</FR>
+				<NL>Moeilijk</NL>
+			</hard>
+			<time>
+				<EN>Süre</EN>
+				<DE>Zeit</DE>
+				<ES>Tiempo</ES>
+				<FR>Temps</FR>
+				<NL>Tijd</NL>
+				<IT>Tempo</IT>
+			</time>
+		</standardterms>
+		<numeric_separator EN="," DE="." FR="." IT="." ES="." NL="."/>
+	</general>
+	<savegame>
+		<status>
+			
+			<EN>Yeni bir profil olusturmak ya da kaldigin yerden devam etmek icin avatarlardan birine dokun.</EN>
+			<DE>Wähle deinen Avatar.</DE>
+			<ES>Seleccionad uno de los avatares y más tarde podréis continuar el juego donde lo dejasteis la última vez.</ES>
+			<FR>Appuyez sur l'un des avatars. Vous pourrez reprendre votre jeu là où vous vous êtes arrêté.</FR>
+			<NL>Kies je eigen avatar</NL>
+			<IT>Tocca uno degli Avatar per continuare a giocare da dove hai interrotto.</IT>
+		</status>
+		<button_empty>
+			<EN>Yeni</EN>
+			<DE>Neu</DE>
+			<FR>Nouveau</FR>
+			<IT>Nuovo</IT>
+			<ES>Nuevo</ES>
+			<NL>Nieuw</NL>
+		</button_empty>
+	</savegame>
+	<savedata>
+		<message>
+			<DE>Die Speicherdaten sind fehlerhaft.
+Die Daten werden jetzt zurückgesetzt.</DE>
+			<EN>Kayit verileri bozuldu.
+Veriler simdi sifirlanacak.</EN>
+			<FR>Les données de sauvegarde sont corrompues et vont être réinitialisées.</FR>
+			<IT>I dati salvati sono danneggiati e verranno eliminati.</IT>
+			<NL>De opgeslagen gegevens zijn beschadigd.
+De gegevens worden nu hersteld.</NL>
+			<ES>Los datos guardados están dañados y no se pueden usar.
+Se crearán datos nuevos.</ES>
+		</message>
+		<status>
+			<DE>Speicherdaten werden zurückgesetzt...</DE>
+			<EN>Kayit verileri sifirlaniyor...</EN>
+			<FR>Réinitialisation des données de sauvegarde...</FR>
+			<IT>Eliminazione dei dati salvati in corso...</IT>
+			<NL>Bezig de opgeslagen gegevens te herstellen...</NL>
+			<ES>Creando datos nuevos...</ES>
+		</status>
+	</savedata>
+</language>
