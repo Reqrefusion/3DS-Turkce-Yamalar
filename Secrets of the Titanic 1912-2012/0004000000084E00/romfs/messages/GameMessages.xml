@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<Strings>
+	<LABEL 					ALPHABET					="ABCDEFGHIJKLMNOPQRSTUVWXYZ" />
+	<LABEL					MSG_EXIT_PAUSE				="B&#246;l&#252;me bastan baslamaniz gerekecek. B&#246;l&#252;mden &#231;ikmak istediginizden emin misiniz?"/>
+	<LABEL					MSG_TRY_AGAIN				="L&#252;tfen tekrar deneyin." />
+	<LABEL					MSG_EMPTY_PROFILE			="bos"/>
+		
+	<LABEL					MSG_SCORES_PLAYER			= "Oyuncu" />
+	
+	<LABEL					MSG_CRC_FAILED				="Secrets of the Titanic oyun verileri bozulmus ve silinecek."/>			
+	<LABEL					MSG_YES						="Evet"/>	
+	<LABEL					MSG_NO						="Hayir"/>	
+	<LABEL					MSG_EDIT					="D&#252;zenle"/>	
+	<LABEL 					MSG_WELCOME					="Hos geldin, "/>
+	<LABEL					MSG_OPTIONS					="Se&#231;enekler"/>
+	<LABEL					MSG_PLAY					="Oyna"/>
+	<LABEL					MSG_CREDITS					="K&#252;nye"/>
+	<LABEL					MSG_MAIN					="Ana Men&#252;"/>
+	<LABEL 					MSG_OK						= "Tamam"/>
+	<LABEL 					MSG_HELP					= "Yardim"/>
+	<LABEL 					MSG_BACK					= "Geri"/>
+	<LABEL 					MSG_CREDITS					= "K&#252;nye"/>
+	<LABEL 					MSG_CANCEL					= "Iptal"/>
+	<LABEL 					MSG_TIPS					= "T&#252;yolar"/>
+	<LABEL 					MSG_HINTS					= "Ipu&#231;lari"/>
+	<LABEL 					MSG_RESUME					= "Devam et"/>
+	<LABEL 					MSG_EXIT					= "&#199;ikis"/>
+	<LABEL 					MSG_RESTART					= "Yeniden Baslat"/>
+	<LABEL 					MSG_TAP_TO_CONTINUE			= "Devam etmek i&#231;in dokun..."/>
+	<LABEL 					MSG_PROFILES				= "Profiller"/>
+	<LABEL 					MSG_EXTRAS					= "Ekstralar"/>
+	<LABEL 					MSG_DELETE					= "Sil"/>
+	
+	
+		
+	<LABEL 					MSG_PAIRS_LEFT				= "Kalan &#199;iftler: "/>
+	<LABEL					MSG_FOUND_INVENTORY			= "Ise yarar bir esya buldunuz." />
+	<LABEL 					LBL_MUSIC					= "M&#252;zik" />
+	<LABEL 					LBL_SOUND					= "Ses" />
+	<LABEL 					LBL_SCORE					= "PUAN :" />
+	<LABEL 					MSG_TAP_TO_CONTINUE			= "Devam etmek i&#231;in dokun..."/>
+	
+	
+	<LABEL MG_CARPARKING_TUTORIAL="Arabalari se&#231;ip kalemle s&#252;r&#252;kleyerek hareket ettirin. Arabalar sadece ileri ya da geri gidebilir. Ama&#231;: Sari arabayi otoparktan &#231;ikaracak bir yol bulmak." />
+
+	<LABEL MG_MATCH3_TUTORIAL="M&#252;cevher avi basladi! M&#252;cevherlerin yerini degistirerek tahtada en az &#252;&#231;l&#252; eslestirmeler yapin ve 5000 puandan fazlasini almaya &#231;alisin." />
+	<LABEL MG_FIXLIFT_TUTORIAL="Kaydirmak i&#231;in bir resim bloguna dokunun. T&#252;m par&#231;alari, resmi tamamlayana kadar kaydirin." />
+
+	<LABEL MG_JIGSAW_TUTORIAL="Titanic resmini olusturmak i&#231;in yapboz par&#231;alarini dogru yerlerine yerlestirin! Par&#231;alara dokunup s&#252;r&#252;klemek i&#231;in kalemi kullanin." />
+	<LABEL MG_JIGSAW_TUTORIAL_2="Yapboz par&#231;alarini dogru konumlarina yerlestirerek resmi tamamlayin. K&#246;selerden baslarsaniz daha hizli bitirebilirsiniz." />
+
+	<LABEL MG_PAIRS_TUTORIAL="Bu bulmacayi &#231;&#246;zmek i&#231;in eslesen kart &#231;iftlerini bulmaniz gerekir. &#199;evirmek i&#231;in bir karta dokunun." />
+	<LABEL MG_LOCKPICK_TUTORIAL="Yerlerini degistirmek i&#231;in iki kilit pimine dokunun ve kusursuz eslesmeyi olusturun. Dogru siraya getirdiginizde kilit a&#231;ilacaktir." />
+	<LABEL MG_MASTERMIND_TUTORIAL="Kartlari &#252;st yuvalara s&#252;r&#252;kleyin. &#220;st ekrandaki sinyal isiklari kartlarin ne kadar dogru yerlestirildigini g&#246;sterecek. Kirmizi, kartin bu kombinasyona ait olmadigini; sari, yanlis yerde oldugunu; yesil ise dogru yerde oldugunu g&#246;sterir." />
+
+	<LABEL MG_WORD_SEARCH_01_TUTORIAL="Listedeki kelimeleri harf tablosunda bulun. Bir kelimeyi se&#231;mek i&#231;in bir harfe dokunup kalemi birakmak istediginiz harfe kadar s&#252;r&#252;kleyin." />
+	<LABEL MG_WORD_SEARCH_02_TUTORIAL="Listedeki kelimeleri harf tablosunda bulun. Bir kelimeyi se&#231;mek i&#231;in bir harfe dokunup kalemi birakmak istediginiz harfe kadar s&#252;r&#252;kleyin." />
+
+	<LABEL MG_PIPEMANIA_TUTORIAL="Filikanin g&#252;venlik samandirasina ulasacagi bir rota olusturmak i&#231;in par&#231;alarin yerlerini degistirin." />
+	
+	<LABEL MINIGAMES_EXPLANATION="Burada oyun boyunca kilidini a&#231;tiginiz mini oyunlari oynayabilirsiniz." />
+		
+	<LABEL     				CHARACTER_Arthur				="Arthur" />
+	<LABEL     				CHARACTER_Arthur_Sad			="Arthur" />
+	<LABEL     				CHARACTER_Arthur_Scared			="Arthur" />
+	<LABEL     				CHARACTER_Arthur_Upset			="Arthur" />
+	<LABEL     				CHARACTER_Becky					="Becky" />
+	<LABEL     				CHARACTER_Becky_Happy			="Becky" />
+	<LABEL     				CHARACTER_Becky_Scared			="Becky" />
+	<LABEL     				CHARACTER_Captain				="Kaptan" />
+	<LABEL     				CHARACTER_Captain_Scared		="Kaptan" />
+	<LABEL     				CHARACTER_Crewman				="M&#252;rettebat" />
+	<LABEL     				CHARACTER_Crewman_Scared		="M&#252;rettebat" />
+	<LABEL     				CHARACTER_Worker				="M&#252;rettebat" />
+	<LABEL     				CHARACTER_Worker_Angry			="M&#252;rettebat" />
+	<LABEL     				CHARACTER_Elisabeth				="Elizabeth" />
+	<LABEL     				CHARACTER_Elisabeth_Confused	="Elizabeth" />
+	<LABEL     				CHARACTER_Elisabeth_Happy		="Elizabeth" />
+	<LABEL     				CHARACTER_Elisabeth_Scared		="Elizabeth" />
+	<LABEL     				CHARACTER_Elisabeth_Swimsuit	="Elizabeth" />
+	<LABEL     				CHARACTER_Elisabeth_Worried		="Elizabeth" />
+	<LABEL     				CHARACTER_ElisabethThink		="Elizabeth" />
+	<LABEL     				CHARACTER_ItGuy					="BT Teknisyeni" />
+	<LABEL     				CHARACTER_Jacob					="Jacob" />
+	<LABEL     				CHARACTER_Jacob_Scared			="Jacob" />
+	<LABEL     				CHARACTER_Lady					="Hanimefendi" />
+	<LABEL     				CHARACTER_Lady_Focused			="Hanimefendi" />
+	<LABEL     				CHARACTER_Liam					="Liam" />
+	<LABEL     				CHARACTER_Liam_Scared			="Liam" />
+	<LABEL     				CHARACTER_Liam_Smirk			="Liam" />
+	<LABEL     				CHARACTER_Liam_Becky			="Liam ve Becky" />
+	<LABEL     				CHARACTER_Passenger				="Yolcu" />
+	<LABEL     				CHARACTER_Passenger_Happy		="Yolcu" />
+	<LABEL     				CHARACTER_Passenger_Scared		="Yolcu" />
+	<LABEL     				CHARACTER_Passenger_Boat		="Yolcu" />
+	<LABEL     				CHARACTER_Thomas				="Thomas" />
+	<LABEL     				CHARACTER_Thomas_Smirk			="Thomas" />
+	<LABEL     				CHARACTER_Thomas_Worried		="Thomas" />
+	<LABEL     				CHARACTER_Whisper				="Fisilti" />
+	<LABEL     				CHARACTER_Eve					="Eva" />
+	<LABEL     				CHARACTER_Eve_Happy				="Eva" />
+	<LABEL     				CHARACTER_Eve_Sad				="Eva" />
+	<LABEL     				CHARACTER_Eve_Scared			="Eva" />
+	<LABEL     				CHARACTER_Eve_Worried			="Eva" />
+	<LABEL     				CHARACTER_EveThink				="Eva" />
+	<LABEL     				CHARACTER_Karen					="Eva" />
+	<LABEL     				CHARACTER_Karen_Happy			="Eva" />
+	<LABEL     				CHARACTER_Karen_Sad				="Eva" />
+	<LABEL     				CHARACTER_Karen_Scared			="Eva" />
+	<LABEL     				CHARACTER_Karen_Worried			="Eva" />
+	<LABEL     				CHARACTER_KarenThink			="Eva" />
+
+</Strings>
