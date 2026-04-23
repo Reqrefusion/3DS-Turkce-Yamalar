@@ -1,0 +1,102 @@
+{
+  "0198.msbt": {
+    "0": {
+      "text": "<C:0001,0004,>Aguarda un momento.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Aguarda un momento.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Aguarda un momento.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Aguarda un momento.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004100670075006100720064006100200075006E0020006D006F006D0065006E0074006F002E000E000300010000000000"
+    },
+    "1": {
+      "text": "Mira un momento estas piedras.<C:0003,0000,0A00>\nQuizá hasta podrías partirlas.<C:0003,0001,>",
+      "tokenized_text": "Mira un momento estas piedras.<C:0003,0000,0A00>\nQuizá hasta podrías partirlas.<C:0003,0001,>",
+      "original_text": "Mira un momento estas piedras.<C:0003,0000,0A00>\nQuizá hasta podrías partirlas.<C:0003,0001,>",
+      "original_tokenized_text": "Mira un momento estas piedras.<C:0003,0000,0A00>\nQuizá hasta podrías partirlas.<C:0003,0001,>",
+      "raw_full_hex": "4D00690072006100200075006E0020006D006F006D0065006E0074006F00200065007300740061007300200070006900650064007200610073002E000E000300000002000A000A005100750069007A00E100200068006100730074006100200070006F0064007200ED006100730020007000610072007400690072006C00610073002E000E000300010000000000"
+    },
+    "2": {
+      "text": "¿Qué te parece si las partimos\ncon ayuda de las Luiginaciones?<C:0003,0001,>",
+      "tokenized_text": "¿Qué te parece si las partimos\ncon ayuda de las Luiginaciones?<C:0003,0001,>",
+      "original_text": "¿Qué te parece si las partimos\ncon ayuda de las Luiginaciones?<C:0003,0001,>",
+      "original_tokenized_text": "¿Qué te parece si las partimos\ncon ayuda de las Luiginaciones?<C:0003,0001,>",
+      "raw_full_hex": "BF0051007500E900200074006500200070006100720065006300650020007300690020006C00610073002000700061007200740069006D006F0073000A0063006F006E0020006100790075006400610020006400650020006C006100730020004C0075006900670069006E006100630069006F006E00650073003F000E000300010000000000"
+    },
+    "3": {
+      "text": "Ya sabes que para saltar\ndebes pulsar <C:0000,0002,4B00><C:0000,0003,0EAD43FF><C:0000,0003,000000FF><C:0000,0002,6400>,\n¿verdad?<C:0003,0001,>",
+      "tokenized_text": "Ya sabes que para saltar\ndebes pulsar <C:0000,0002,4B00><C:0000,0003,0EAD43FF><C:0000,0003,000000FF><C:0000,0002,6400>,\n¿verdad?<C:0003,0001,>",
+      "original_text": "Ya sabes que para saltar\ndebes pulsar <C:0000,0002,4B00><C:0000,0003,0EAD43FF><C:0000,0003,000000FF><C:0000,0002,6400>,\n¿verdad?<C:0003,0001,>",
+      "original_tokenized_text": "Ya sabes que para saltar\ndebes pulsar <C:0000,0002,4B00><C:0000,0003,0EAD43FF><C:0000,0003,000000FF><C:0000,0002,6400>,\n¿verdad?<C:0003,0001,>",
+      "raw_full_hex": "590061002000730061006200650073002000710075006500200070006100720061002000730061006C007400610072000A00640065006200650073002000700075006C0073006100720020000E000000020002004B000E000000030004000EAD43FF01E00E00000003000400000000FF0E0000000200020064002C000A00BF007600650072006400610064003F000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Está bien.<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0004,>Está bien.<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0004,>Está bien.<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0004,>Está bien.<C:0003,0000,1E00>",
+      "raw_full_hex": "0E00010004000000450073007400E10020006200690065006E002E000E000300000002001E000000"
+    },
+    "5": {
+      "text": "<C:0001,0004,>¡Bien!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0004,>¡Bien!<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0004,>¡Bien!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0004,>¡Bien!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E00010004000000A1004200690065006E0021000E000300000002001E000000"
+    },
+    "6": {
+      "text": "¡Acabas de utilizar una\nhabilidad luiginaria!<C:0003,0001,>",
+      "tokenized_text": "¡Acabas de utilizar una\nhabilidad luiginaria!<C:0003,0001,>",
+      "original_text": "¡Acabas de utilizar una\nhabilidad luiginaria!<C:0003,0001,>",
+      "original_tokenized_text": "¡Acabas de utilizar una\nhabilidad luiginaria!<C:0003,0001,>",
+      "raw_full_hex": "A10041006300610062006100730020006400650020007500740069006C0069007A0061007200200075006E0061000A0068006100620069006C00690064006100640020006C0075006900670069006E00610072006900610021000E000300010000000000"
+    },
+    "7": {
+      "text": "¡Fantástico <C:0000,0003,2C65FFFF>pisotón<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "tokenized_text": "¡Fantástico <C:0000,0003,2C65FFFF>pisotón<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_text": "¡Fantástico <C:0000,0003,2C65FFFF>pisotón<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_tokenized_text": "¡Fantástico <C:0000,0003,2C65FFFF>pisotón<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "raw_full_hex": "A100460061006E007400E10073007400690063006F0020000E000000030004002C65FFFF7000690073006F007400F3006E000E00000003000400000000FF21000E000300010000000000"
+    },
+    "8": {
+      "text": "¿Quieres volver a hacerlo?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "tokenized_text": "¿Quieres volver a hacerlo?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "original_text": "¿Quieres volver a hacerlo?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "original_tokenized_text": "¿Quieres volver a hacerlo?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "raw_full_hex": "BF005100750069006500720065007300200076006F006C00760065007200200061002000680061006300650072006C006F003F000E000300000002000A000A000E000100010000000E000500010000004E006F002E002000200020002000200020002000200000300E000500010000005300ED002E000E000300000002000A000000"
+    },
+    "9": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "10": {
+      "text": "¡Vuelve a saltar en\nel aire con <C:0000,0003,0EAD43FF><C:0000,0003,000000FF>!",
+      "tokenized_text": "¡Vuelve a saltar en\nel aire con <C:0000,0003,0EAD43FF><C:0000,0003,000000FF>!",
+      "original_text": "¡Vuelve a saltar en\nel aire con <C:0000,0003,0EAD43FF><C:0000,0003,000000FF>!",
+      "original_tokenized_text": "¡Vuelve a saltar en\nel aire con <C:0000,0003,0EAD43FF><C:0000,0003,000000FF>!",
+      "raw_full_hex": "A1005600750065006C0076006500200061002000730061006C00740061007200200065006E000A0065006C0020006100690072006500200063006F006E0020000E000000030004000EAD43FF01E00E00000003000400000000FF21000000"
+    },
+    "11": {
+      "text": "Esta técnica te permitirá romper\ndeterminados objetos.<C:0003,0001,>",
+      "tokenized_text": "Esta técnica te permitirá romper\ndeterminados objetos.<C:0003,0001,>",
+      "original_text": "Esta técnica te permitirá romper\ndeterminados objetos.<C:0003,0001,>",
+      "original_tokenized_text": "Esta técnica te permitirá romper\ndeterminados objetos.<C:0003,0001,>",
+      "raw_full_hex": "450073007400610020007400E90063006E0069006300610020007400650020007000650072006D006900740069007200E100200072006F006D007000650072000A00640065007400650072006D0069006E00610064006F00730020006F0062006A00650074006F0073002E000E000300010000000000"
+    },
+    "12": {
+      "text": "<C:0001,0004,>¿Todo listo?<C:0003,0000,0A00>\n¡Vamos allá!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>¿Todo listo?<C:0003,0000,0A00>\n¡Vamos allá!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>¿Todo listo?<C:0003,0000,0A00>\n¡Vamos allá!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>¿Todo listo?<C:0003,0000,0A00>\n¡Vamos allá!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000BF0054006F0064006F0020006C006900730074006F003F000E000300000002000A000A00A100560061006D006F007300200061006C006C00E10021000E000300010000000000"
+    },
+    "13": {
+      "text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido el <C:0000,0003,00EAFFFF>pisotón<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>¡Pulsa <C:0000,0003,7DFF00FF><C:0000,0003,FFFFFFFF> cuando estés\nen el aire para usarlo!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido el <C:0000,0003,00EAFFFF>pisotón<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>¡Pulsa <C:0000,0003,7DFF00FF><C:0000,0003,FFFFFFFF> cuando estés\nen el aire para usarlo!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido el <C:0000,0003,00EAFFFF>pisotón<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>¡Pulsa <C:0000,0003,7DFF00FF><C:0000,0003,FFFFFFFF> cuando estés\nen el aire para usarlo!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido el <C:0000,0003,00EAFFFF>pisotón<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>¡Pulsa <C:0000,0003,7DFF00FF><C:0000,0003,FFFFFFFF> cuando estés\nen el aire para usarlo!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E000700000000000E00010004000000A100480061007300200061007000720065006E006400690064006F00200065006C0020000E0000000300040000EAFFFF7000690073006F007400F3006E000E00000003000400FFFFFFFF21000E0003000000020014000E000300010000000E000000040000000E00070000000000A100500075006C007300610020000E000000030004007DFF00FF01E00E00000003000400FFFFFFFF20006300750061006E0064006F002000650073007400E90073000A0065006E00200065006C002000610069007200650020007000610072006100200075007300610072006C006F0021000E000300000002001E000E000300010000000000"
+    }
+  }
+}

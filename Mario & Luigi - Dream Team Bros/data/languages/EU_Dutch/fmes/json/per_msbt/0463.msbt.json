@@ -1,0 +1,53 @@
+{
+  "0463.msbt": {
+    "0": {
+      "text": "<C:0001,0001,>Je hebt <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF> gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>Je hebt <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF> gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>Je hebt <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF> gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>Je hebt <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF> gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000004A0065002000680065006200740020000E0000000300040000EAFFFF42006500640073006D006900740068000E00000003000400FFFFFFFF20006700650072006500640021000E000300000002000A000E000300010000000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,>Sluimers gered: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>Sluimers gered: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>Sluimers gered: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>Sluimers gered: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E0001000100000053006C00750069006D006500720073002000670065007200650064003A0020000E000400000006000000020000000E000300000002000A000E000300010000000000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Nu.<C:0003,0000,1400> Breek de bol om\nBedsmith te redden!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Nu.<C:0003,0000,1400> Breek de bol om\nBedsmith te redden!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Nu.<C:0003,0000,1400> Breek de bol om\nBedsmith te redden!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Nu.<C:0003,0000,1400> Breek de bol om\nBedsmith te redden!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E0075002E000E000300000002001400200042007200650065006B00200064006500200062006F006C0020006F006D000A0042006500640073006D006900740068002000740065002000720065006400640065006E0021000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0001,0004,>BEDSMITH! IS! VRIJ!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>BEDSMITH! IS! VRIJ!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>BEDSMITH! IS! VRIJ!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>BEDSMITH! IS! VRIJ!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000042004500440053004D004900540048002100200049005300210020005600520049004A0021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>DANK JULLIE WEL!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>DANK JULLIE WEL!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>DANK JULLIE WEL!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>DANK JULLIE WEL!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000440041004E004B0020004A0055004C004C00490045002000570045004C0021000E000300010000000000"
+    },
+    "5": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "6": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

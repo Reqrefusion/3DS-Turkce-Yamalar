@@ -1,0 +1,200 @@
+{
+  "0222.msbt": {
+    "0": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,0A00>\nDroom-Luigi!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,0A00>\nDroom-Luigi!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,0A00>\nDroom-Luigi!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,0A00>\nDroom-Luigi!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004D006100720069006F0021000E000300000002000A000A00440072006F006F006D002D004C00750069006700690021000E000300010000000E00000003000400000000FF0000"
+    },
+    "1": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Er zit een Sluimer gevangen in deze ruimte.<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Er zit een Sluimer gevangen in deze ruimte.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Er zit een Sluimer gevangen in deze ruimte.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Er zit een Sluimer gevangen in deze ruimte.<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004500720020007A00690074002000650065006E00200053006C00750069006D0065007200200067006500760061006E00670065006E00200069006E002000640065007A00650020007200750069006D00740065002E000E000300010000000E00000003000400000000FF0000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Zijn of haar geest zit gevangen\nin deze <C:0000,0003,2C65FFFF>nachtmerriebollen<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Zijn of haar geest zit gevangen\nin deze <C:0000,0003,2C65FFFF>nachtmerriebollen<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Zijn of haar geest zit gevangen\nin deze <C:0000,0003,2C65FFFF>nachtmerriebollen<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Zijn of haar geest zit gevangen\nin deze <C:0000,0003,2C65FFFF>nachtmerriebollen<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005A0069006A006E0020006F0066002000680061006100720020006700650065007300740020007A0069007400200067006500760061006E00670065006E000A0069006E002000640065007A00650020000E000000030004002C65FFFF6E0061006300680074006D006500720072006900650062006F006C006C0065006E000E00000003000400000000FF21000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004D006100720069006F0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Ik smeek je, breek\nde <C:0000,0003,2C65FFFF>nachtmerriebollen\n<C:0000,0003,000000FF>en red mijn vriend!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ik smeek je, breek\nde <C:0000,0003,2C65FFFF>nachtmerriebollen\n<C:0000,0003,000000FF>en red mijn vriend!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ik smeek je, breek\nde <C:0000,0003,2C65FFFF>nachtmerriebollen\n<C:0000,0003,000000FF>en red mijn vriend!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ik smeek je, breek\nde <C:0000,0003,2C65FFFF>nachtmerriebollen\n<C:0000,0003,000000FF>en red mijn vriend!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000049006B00200073006D00650065006B0020006A0065002C00200062007200650065006B000A006400650020000E000000030004002C65FFFF6E0061006300680074006D006500720072006900650062006F006C006C0065006E000A000E00000003000400000000FF65006E00200072006500640020006D0069006A006E00200076007200690065006E00640021000E000300010000000000"
+    },
+    "5": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "6": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Oké...<C:0003,0000,0A00> Verzamel al je spirituele energie\nen begin maar met deze bol.<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Oké...<C:0003,0000,0A00> Verzamel al je spirituele energie\nen begin maar met deze bol.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Oké...<C:0003,0000,0A00> Verzamel al je spirituele energie\nen begin maar met deze bol.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Oké...<C:0003,0000,0A00> Verzamel al je spirituele energie\nen begin maar met deze bol.<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004F006B00E9002E002E002E000E000300000002000A0020005600650072007A0061006D0065006C00200061006C0020006A0065002000730070006900720069007400750065006C006500200065006E00650072006700690065000A0065006E00200062006500670069006E0020006D0061006100720020006D00650074002000640065007A006500200062006F006C002E000E000300010000000E00000003000400000000FF0000"
+    },
+    "7": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "8": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "9": {
+      "text": "<C:0001,0004,>Ja, geweldig!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ja, geweldig!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ja, geweldig!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ja, geweldig!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004A0061002C00200067006500770065006C0064006900670021000E000300010000000000"
+    },
+    "10": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Er is hier nog een aantal\nnachtmerriebollen.<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Er is hier nog een aantal\nnachtmerriebollen.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Er is hier nog een aantal\nnachtmerriebollen.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Er is hier nog een aantal\nnachtmerriebollen.<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E00010004000000450072002000690073002000680069006500720020006E006F0067002000650065006E002000610061006E00740061006C000A006E0061006300680074006D006500720072006900650062006F006C006C0065006E002E000E000300010000000E00000003000400000000FF0000"
+    },
+    "11": {
+      "text": "Breek ze allemaal om\nde Sluimer te redden.<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "Breek ze allemaal om\nde Sluimer te redden.<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "Breek ze allemaal om\nde Sluimer te redden.<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "Breek ze allemaal om\nde Sluimer te redden.<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "42007200650065006B0020007A006500200061006C006C0065006D00610061006C0020006F006D000A0064006500200053006C00750069006D00650072002000740065002000720065006400640065006E002E000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "12": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Het aantal dat je nog moet breken\nverschijnt in de hoek rechtsonder.<C:0003,0001,> <C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Het aantal dat je nog moet breken\nverschijnt in de hoek rechtsonder.<C:0003,0001,> <C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Het aantal dat je nog moet breken\nverschijnt in de hoek rechtsonder.<C:0003,0001,> <C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Het aantal dat je nog moet breken\nverschijnt in de hoek rechtsonder.<C:0003,0001,> <C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004800650074002000610061006E00740061006C00200064006100740020006A00650020006E006F00670020006D006F006500740020006200720065006B0065006E000A0076006500720073006300680069006A006E007400200069006E00200064006500200068006F0065006B0020007200650063006800740073006F006E006400650072002E000E0003000100000020000E00000003000400000000FF0000"
+    },
+    "13": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "14": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,1400> Droom-Luigi!\nRed mijn onderdanen!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,1400> Droom-Luigi!\nRed mijn onderdanen!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,1400> Droom-Luigi!\nRed mijn onderdanen!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0000,1400> Droom-Luigi!\nRed mijn onderdanen!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004D006100720069006F0021000E0003000000020014002000440072006F006F006D002D004C00750069006700690021000A0052006500640020006D0069006A006E0020006F006E00640065007200640061006E0065006E0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "15": {
+      "text": "<C:0001,0004,>Bedankt dat jullie me hebben gered!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Mijn geest was angstig, maar ik\nheb de hoop nooit opgegeven!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Bedankt dat jullie me hebben gered!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Mijn geest was angstig, maar ik\nheb de hoop nooit opgegeven!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Bedankt dat jullie me hebben gered!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Mijn geest was angstig, maar ik\nheb de hoop nooit opgegeven!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Bedankt dat jullie me hebben gered!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Mijn geest was angstig, maar ik\nheb de hoop nooit opgegeven!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000042006500640061006E006B007400200064006100740020006A0075006C006C006900650020006D0065002000680065006200620065006E0020006700650072006500640021000E000300010000000E000000040000000E000100040000004D0069006A006E002000670065006500730074002000770061007300200061006E00670073007400690067002C0020006D00610061007200200069006B000A00680065006200200064006500200068006F006F00700020006E006F006F006900740020006F0070006700650067006500760065006E0021000E000300010000000000"
+    },
+    "16": {
+      "text": "<C:0001,0004,>O, hemeltje!<C:0003,0000,0A00>\nUwe hoogheid!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Dat is lang geleden!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>O, hemeltje!<C:0003,0000,0A00>\nUwe hoogheid!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Dat is lang geleden!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>O, hemeltje!<C:0003,0000,0A00>\nUwe hoogheid!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Dat is lang geleden!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>O, hemeltje!<C:0003,0000,0A00>\nUwe hoogheid!<C:0003,0001,><C:0000,0004,><C:0001,0004,>Dat is lang geleden!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004F002C002000680065006D0065006C0074006A00650021000E000300000002000A000A00550077006500200068006F006F006700680065006900640021000E000300010000000E000000040000000E0001000400000044006100740020006900730020006C0061006E0067002000670065006C006500640065006E0021000E000300010000000000"
+    },
+    "17": {
+      "text": "<C:0001,0004,>Sire, heeft u al die moeite\ngedaan om mij te redden?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Sire, heeft u al die moeite\ngedaan om mij te redden?<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Sire, heeft u al die moeite\ngedaan om mij te redden?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Sire, heeft u al die moeite\ngedaan om mij te redden?<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000053006900720065002C0020006800650065006600740020007500200061006C00200064006900650020006D006F0065006900740065000A00670065006400610061006E0020006F006D0020006D0069006A002000740065002000720065006400640065006E003F000E000300010000000000"
+    },
+    "18": {
+      "text": "<C:0001,0004,>Nee, dat was ik niet...<C:0003,0000,0A00>\nHet was Mario!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Nee, dat was ik niet...<C:0003,0000,0A00>\nHet was Mario!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Nee, dat was ik niet...<C:0003,0000,0A00>\nHet was Mario!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Nee, dat was ik niet...<C:0003,0000,0A00>\nHet was Mario!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E00650065002C0020006400610074002000770061007300200069006B0020006E006900650074002E002E002E000E000300000002000A000A00480065007400200077006100730020004D006100720069006F0021000E000300010000000000"
+    },
+    "19": {
+      "text": "<C:0001,0004,>Ah, Mario!<C:0003,0000,0A00>\nBedankt, hoor!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ah, Mario!<C:0003,0000,0A00>\nBedankt, hoor!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ah, Mario!<C:0003,0000,0A00>\nBedankt, hoor!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ah, Mario!<C:0003,0000,0A00>\nBedankt, hoor!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000410068002C0020004D006100720069006F0021000E000300000002000A000A0042006500640061006E006B0074002C00200068006F006F00720021000E000300010000000000"
+    },
+    "20": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "21": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Hm!<C:0003,0000,0A00> We staan bij\nje in het krijt!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Hm!<C:0003,0000,0A00> We staan bij\nje in het krijt!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Hm!<C:0003,0000,0A00> We staan bij\nje in het krijt!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Hm!<C:0003,0000,0A00> We staan bij\nje in het krijt!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E0001000400000048006D0021000E000300000002000A00200057006500200073007400610061006E002000620069006A000A006A006500200069006E00200068006500740020006B00720069006A00740021000E000300010000000E00000003000400000000FF0000"
+    },
+    "22": {
+      "text": "<C:0001,0004,>Goed!<C:0003,0000,0A00> Terug naar de\nwakkere wereld!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Goed!<C:0003,0000,0A00> Terug naar de\nwakkere wereld!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Goed!<C:0003,0000,0A00> Terug naar de\nwakkere wereld!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Goed!<C:0003,0000,0A00> Terug naar de\nwakkere wereld!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000047006F006500640021000E000300000002000A0020005400650072007500670020006E006100610072002000640065000A00770061006B006B00650072006500200077006500720065006C00640021000E000300010000000000"
+    },
+    "23": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "24": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "25": {
+      "text": "<C:0001,0001,>Je hebt de eerste\nSluimer gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>Je hebt de eerste\nSluimer gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>Je hebt de eerste\nSluimer gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>Je hebt de eerste\nSluimer gered!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000004A0065002000680065006200740020006400650020006500650072007300740065000A0053006C00750069006D006500720020006700650072006500640021000E000300000002000A000E000300010000000000"
+    },
+    "26": {
+      "text": "Er zitten nog vele\nSluimers gevangen.<C:0003,0001,><C:0000,0004,>Konden we ze maar\nallemaal bevrijden...<C:0003,0001,>",
+      "tokenized_text": "Er zitten nog vele\nSluimers gevangen.<C:0003,0001,><C:0000,0004,>Konden we ze maar\nallemaal bevrijden...<C:0003,0001,>",
+      "original_text": "Er zitten nog vele\nSluimers gevangen.<C:0003,0001,><C:0000,0004,>Konden we ze maar\nallemaal bevrijden...<C:0003,0001,>",
+      "original_tokenized_text": "Er zitten nog vele\nSluimers gevangen.<C:0003,0001,><C:0000,0004,>Konden we ze maar\nallemaal bevrijden...<C:0003,0001,>",
+      "raw_full_hex": "4500720020007A0069007400740065006E0020006E006F0067002000760065006C0065000A0053006C00750069006D00650072007300200067006500760061006E00670065006E002E000E000300010000000E000000040000004B006F006E00640065006E0020007700650020007A00650020006D006100610072000A0061006C006C0065006D00610061006C002000620065007600720069006A00640065006E002E002E002E000E000300010000000000"
+    },
+    "27": {
+      "text": "Ik heb niets om jullie\nmee te bedanken...<C:0003,0001,><C:0000,0004,>Maar ik kan jullie wel terugsturen\nnaar de wakkere wereld.<C:0003,0001,>",
+      "tokenized_text": "Ik heb niets om jullie\nmee te bedanken...<C:0003,0001,><C:0000,0004,>Maar ik kan jullie wel terugsturen\nnaar de wakkere wereld.<C:0003,0001,>",
+      "original_text": "Ik heb niets om jullie\nmee te bedanken...<C:0003,0001,><C:0000,0004,>Maar ik kan jullie wel terugsturen\nnaar de wakkere wereld.<C:0003,0001,>",
+      "original_tokenized_text": "Ik heb niets om jullie\nmee te bedanken...<C:0003,0001,><C:0000,0004,>Maar ik kan jullie wel terugsturen\nnaar de wakkere wereld.<C:0003,0001,>",
+      "raw_full_hex": "49006B00200068006500620020006E00690065007400730020006F006D0020006A0075006C006C00690065000A006D0065006500200074006500200062006500640061006E006B0065006E002E002E002E000E000300010000000E000000040000004D00610061007200200069006B0020006B0061006E0020006A0075006C006C00690065002000770065006C00200074006500720075006700730074007500720065006E000A006E006100610072002000640065002000770061006B006B00650072006500200077006500720065006C0064002E000E000300010000000000"
+    }
+  }
+}

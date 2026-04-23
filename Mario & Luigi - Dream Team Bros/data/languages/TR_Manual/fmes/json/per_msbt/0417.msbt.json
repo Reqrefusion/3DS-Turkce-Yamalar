@@ -1,0 +1,60 @@
+{
+  "0417.msbt": {
+    "0": {
+      "text": "<C:0001,0001,><C:0001,0004,>Hey!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'de bir terslik\nvar galiba!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Hey!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'de bir terslik\nvar galiba!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Hey!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'de bir terslik\nvar galiba!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Hey!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'de bir terslik\nvar galiba!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E0001000400000048006500790021000E000300010000000E000000040000000E000100000000004C0075006900670069002700640065002000620069007200200074006500720073006C0069006B000A007600610072002000670061006C0069006200610021000E000300010000000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>Ehh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Benim bir şey yapmam mı lazım?<C:0003,0000,0A00>\nNe yapacağımı bilmiyorum!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Ehh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Benim bir şey yapmam mı lazım?<C:0003,0000,0A00>\nNe yapacağımı bilmiyorum!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Ehh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Benim bir şey yapmam mı lazım?<C:0003,0000,0A00>\nNe yapacağımı bilmiyorum!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Ehh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Benim bir şey yapmam mı lazım?<C:0003,0000,0A00>\nNe yapacağımı bilmiyorum!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E000100040000004500680068003F0021000E000300010000000E000000040000000E00010000000000420065006E0069006D00200062006900720020005F016500790020007900610070006D0061006D0020006D00310120006C0061007A0031016D003F000E000300000002000A000A004E00650020007900610070006100630061001F0131016D0031012000620069006C006D00690079006F00720075006D0021000E000300010000000000"
+    },
+    "2": {
+      "text": "Sadece Luigi'ye mi\ndokunmalıyım?<C:0003,0001,>",
+      "tokenized_text": "Sadece Luigi'ye mi\ndokunmalıyım?<C:0003,0001,>",
+      "original_text": "Sadece Luigi'ye mi\ndokunmalıyım?<C:0003,0001,>",
+      "original_tokenized_text": "Sadece Luigi'ye mi\ndokunmalıyım?<C:0003,0001,>",
+      "raw_full_hex": "53006100640065006300650020004C00750069006700690027007900650020006D0069000A0064006F006B0075006E006D0061006C003101790031016D003F000E000300010000000000"
+    },
+    "3": {
+      "text": "Iıı...",
+      "tokenized_text": "Iıı...",
+      "original_text": "Iıı...",
+      "original_tokenized_text": "Iıı...",
+      "raw_full_hex": "4900310131012E002E002E000000"
+    },
+    "4": {
+      "text": "Luigi'nin başının farklı yerlerine dokun!<C:0000,0003,FFFFFFFF>",
+      "tokenized_text": "Luigi'nin başının farklı yerlerine dokun!<C:0000,0003,FFFFFFFF>",
+      "original_text": "Luigi'nin başının farklı yerlerine dokun!<C:0000,0003,FFFFFFFF>",
+      "original_tokenized_text": "Luigi'nin başının farklı yerlerine dokun!<C:0000,0003,FFFFFFFF>",
+      "raw_full_hex": "4C00750069006700690027006E0069006E002000620061005F0131016E0031016E0020006600610072006B006C00310120007900650072006C006500720069006E006500200064006F006B0075006E0021000E00000003000400FFFFFFFF00000E00000003000400FFFFFFFF0E000100040000000E000100010000000E00070000000000"
+    },
+    "5": {
+      "text": "<C:0000,0003,FFFFFFFF><C:0001,0004,><C:0001,0001,><C:0007,0000,>Luigi'nin şapkasındaki L'ye basılı tut!<C:0000,0003,FFFFFFFF>",
+      "tokenized_text": "<C:0000,0003,FFFFFFFF><C:0001,0004,><C:0001,0001,><C:0007,0000,>Luigi'nin şapkasındaki L'ye basılı tut!<C:0000,0003,FFFFFFFF>",
+      "original_text": "<C:0000,0003,FFFFFFFF><C:0001,0004,><C:0001,0001,><C:0007,0000,>Luigi'nin şapkasındaki L'ye basılı tut!<C:0000,0003,FFFFFFFF>",
+      "original_tokenized_text": "<C:0000,0003,FFFFFFFF><C:0001,0004,><C:0001,0001,><C:0007,0000,>Luigi'nin şapkasındaki L'ye basılı tut!<C:0000,0003,FFFFFFFF>",
+      "raw_full_hex": "0E00000003000400FFFFFFFF0E000100040000000E000100010000000E000700000000004C00750069006700690027006E0069006E0020005F01610070006B006100730031016E00640061006B00690020004C00270079006500200062006100730031016C003101200074007500740021000E00000003000400FFFFFFFF0000"
+    },
+    "6": {
+      "text": "<C:0001,0001,><C:0001,0004,>Eh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'nin şapkasındaki\nL'ye mi dokunmalıyım?!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Eh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'nin şapkasındaki\nL'ye mi dokunmalıyım?!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Eh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'nin şapkasındaki\nL'ye mi dokunmalıyım?!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Eh?!<C:0003,0001,><C:0000,0004,><C:0001,0000,>Luigi'nin şapkasındaki\nL'ye mi dokunmalıyım?!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000450068003F0021000E000300010000000E000000040000000E000100000000004C00750069006700690027006E0069006E0020005F01610070006B006100730031016E00640061006B0069000A004C0027007900650020006D006900200064006F006B0075006E006D0061006C003101790031016D003F0021000E000300010000000000"
+    },
+    "7": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000ABABABABABABABABABAB545359312000000000000000000000000500000005000000"
+    }
+  }
+}

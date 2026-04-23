@@ -1,0 +1,102 @@
+{
+  "0688.msbt": {
+    "0": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡JIII<C:0003,0000,0A00>IIIIII!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡JIII<C:0003,0000,0A00>IIIIII!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡JIII<C:0003,0000,0A00>IIIIII!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡JIII<C:0003,0000,0A00>IIIIII!",
+      "raw_full_hex": "0E000100010000000E00010004000000A1004A004900490049000E000300000002000A0049004900490049004900490021000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡JIIII!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡JIIII!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡JIIII!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡JIIII!",
+      "raw_full_hex": "0E000100010000000E00010004000000A1004A00490049004900490021000000"
+    },
+    "2": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>¡JIJIIIIII!<C:0000,0002,6400>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>¡JIJIIIIII!<C:0000,0002,6400>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>¡JIJIIIIII!<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>¡JIJIIIIII!<C:0000,0002,6400>",
+      "raw_full_hex": "0E000700000000000E000100010000000E000100040000000E000000020002009600A1004A0049004A0049004900490049004900490021000E0000000200020064000000"
+    },
+    "3": {
+      "text": "¡Sí!<C:0003,0000,0A00>\n¡Lo conseguimos!<C:0003,0001,>",
+      "tokenized_text": "¡Sí!<C:0003,0000,0A00>\n¡Lo conseguimos!<C:0003,0001,>",
+      "original_text": "¡Sí!<C:0003,0000,0A00>\n¡Lo conseguimos!<C:0003,0001,>",
+      "original_tokenized_text": "¡Sí!<C:0003,0000,0A00>\n¡Lo conseguimos!<C:0003,0001,>",
+      "raw_full_hex": "A1005300ED0021000E000300000002000A000A00A1004C006F00200063006F006E00730065006700750069006D006F00730021000E000300010000000000"
+    },
+    "4": {
+      "text": "¡Hemos derrotado\nal conde Pesadillo!<C:0003,0001,>",
+      "tokenized_text": "¡Hemos derrotado\nal conde Pesadillo!<C:0003,0001,>",
+      "original_text": "¡Hemos derrotado\nal conde Pesadillo!<C:0003,0001,>",
+      "original_tokenized_text": "¡Hemos derrotado\nal conde Pesadillo!<C:0003,0001,>",
+      "raw_full_hex": "A100480065006D006F007300200064006500720072006F007400610064006F000A0061006C00200063006F006E006400650020005000650073006100640069006C006C006F0021000E000300010000000000"
+    },
+    "5": {
+      "text": "Sí,<C:0003,0000,0500> al fin...<C:0003,0000,0A00>\n¡La victoria es nuestra!<C:0003,0001,>",
+      "tokenized_text": "Sí,<C:0003,0000,0500> al fin...<C:0003,0000,0A00>\n¡La victoria es nuestra!<C:0003,0001,>",
+      "original_text": "Sí,<C:0003,0000,0500> al fin...<C:0003,0000,0A00>\n¡La victoria es nuestra!<C:0003,0001,>",
+      "original_tokenized_text": "Sí,<C:0003,0000,0500> al fin...<C:0003,0000,0A00>\n¡La victoria es nuestra!<C:0003,0001,>",
+      "raw_full_hex": "5300ED002C000E000300000002000500200061006C002000660069006E002E002E002E000E000300000002000A000A00A1004C006100200076006900630074006F0072006900610020006500730020006E0075006500730074007200610021000E000300010000000000"
+    },
+    "6": {
+      "text": "Mario... Luigi...\n¡Os lo agradezco!<C:0003,0001,>",
+      "tokenized_text": "Mario... Luigi...\n¡Os lo agradezco!<C:0003,0001,>",
+      "original_text": "Mario... Luigi...\n¡Os lo agradezco!<C:0003,0001,>",
+      "original_tokenized_text": "Mario... Luigi...\n¡Os lo agradezco!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E002E002E0020004C0075006900670069002E002E002E000A00A1004F00730020006C006F0020006100670072006100640065007A0063006F0021000E000300010000000000"
+    },
+    "7": {
+      "text": "¡Pero no nos distraigamos!\n¡Debemos acabar con Bowser!<C:0003,0001,>",
+      "tokenized_text": "¡Pero no nos distraigamos!\n¡Debemos acabar con Bowser!<C:0003,0001,>",
+      "original_text": "¡Pero no nos distraigamos!\n¡Debemos acabar con Bowser!<C:0003,0001,>",
+      "original_tokenized_text": "¡Pero no nos distraigamos!\n¡Debemos acabar con Bowser!<C:0003,0001,>",
+      "raw_full_hex": "A1005000650072006F0020006E006F0020006E006F00730020006400690073007400720061006900670061006D006F00730021000A00A10044006500620065006D006F0073002000610063006100620061007200200063006F006E00200042006F00770073006500720021000E000300010000000000"
+    },
+    "8": {
+      "text": "¡Tranquilo, Duermeberto!\n¡No hagas esfuerzos!<C:0003,0001,>",
+      "tokenized_text": "¡Tranquilo, Duermeberto!\n¡No hagas esfuerzos!<C:0003,0001,>",
+      "original_text": "¡Tranquilo, Duermeberto!\n¡No hagas esfuerzos!<C:0003,0001,>",
+      "original_tokenized_text": "¡Tranquilo, Duermeberto!\n¡No hagas esfuerzos!<C:0003,0001,>",
+      "raw_full_hex": "A1005400720061006E007100750069006C006F002C00200044007500650072006D00650062006500720074006F0021000A00A1004E006F0020006800610067006100730020006500730066007500650072007A006F00730021000E000300010000000000"
+    },
+    "9": {
+      "text": "No pasa nada, estoy bien.<C:0003,0001,>",
+      "tokenized_text": "No pasa nada, estoy bien.<C:0003,0001,>",
+      "original_text": "No pasa nada, estoy bien.<C:0003,0001,>",
+      "original_tokenized_text": "No pasa nada, estoy bien.<C:0003,0001,>",
+      "raw_full_hex": "4E006F002000700061007300610020006E006100640061002C0020006500730074006F00790020006200690065006E002E000E000300010000000000"
+    },
+    "10": {
+      "text": "Mario, Luigi.\n¡Adelante!<C:0003,0001,>",
+      "tokenized_text": "Mario, Luigi.\n¡Adelante!<C:0003,0001,>",
+      "original_text": "Mario, Luigi.\n¡Adelante!<C:0003,0001,>",
+      "original_tokenized_text": "Mario, Luigi.\n¡Adelante!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002C0020004C0075006900670069002E000A00A1004100640065006C0061006E007400650021000E000300010000000000"
+    },
+    "11": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "12": {
+      "text": "¡Mario! ¡Luigi! ¡Ahora sí que es\nel combate final!<C:0003,0001,>",
+      "tokenized_text": "¡Mario! ¡Luigi! ¡Ahora sí que es\nel combate final!<C:0003,0001,>",
+      "original_text": "¡Mario! ¡Luigi! ¡Ahora sí que es\nel combate final!<C:0003,0001,>",
+      "original_tokenized_text": "¡Mario! ¡Luigi! ¡Ahora sí que es\nel combate final!<C:0003,0001,>",
+      "raw_full_hex": "A1004D006100720069006F0021002000A1004C00750069006700690021002000A100410068006F007200610020007300ED0020007100750065002000650073000A0065006C00200063006F006D0062006100740065002000660069006E0061006C0021000E000300010000000000"
+    },
+    "13": {
+      "text": "Bowser y sus esbirros\nestán en lo más alto del castillo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>¡Debemos\nconcentrarnos e ir tras ellos!<C:0003,0001,>",
+      "tokenized_text": "Bowser y sus esbirros\nestán en lo más alto del castillo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>¡Debemos\nconcentrarnos e ir tras ellos!<C:0003,0001,>",
+      "original_text": "Bowser y sus esbirros\nestán en lo más alto del castillo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>¡Debemos\nconcentrarnos e ir tras ellos!<C:0003,0001,>",
+      "original_tokenized_text": "Bowser y sus esbirros\nestán en lo más alto del castillo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>¡Debemos\nconcentrarnos e ir tras ellos!<C:0003,0001,>",
+      "raw_full_hex": "42006F00770073006500720020007900200073007500730020006500730062006900720072006F0073000A00650073007400E1006E00200065006E0020006C006F0020006D00E1007300200061006C0074006F002000640065006C002000630061007300740069006C006C006F002E000E000300010000000E000000040000000E000100010000000E00010004000000A10044006500620065006D006F0073000A0063006F006E00630065006E0074007200610072006E006F0073002000650020006900720020007400720061007300200065006C006C006F00730021000E000300010000000000"
+    }
+  }
+}

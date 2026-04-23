@@ -1,0 +1,35 @@
+{
+  "language": "EU_Russian",
+  "containers": {
+    "FMes": {
+      "slot_count": 791,
+      "nonempty_slots": 443,
+      "extract_repack_exact": true,
+      "json_roundtrip_exact": true,
+      "bin_sha256": "371942b93837f4581096891c44310ef312de5584796adfc8ef06e84b8bf37fac",
+      "dat_sha256": "b459f0c5a67a2da476c7bd4266cec7f69ef037c257322423699fe425a430463c"
+    },
+    "BMes": {
+      "slot_count": 26,
+      "nonempty_slots": 26,
+      "extract_repack_exact": true,
+      "json_roundtrip_exact": true,
+      "bin_sha256": "5883d1a517d3d2d51b42d9a8db14724ca8dcac729a9c44975578ee165b6d91df",
+      "dat_sha256": "2edd60d16226affccc5f8a431fc3c080255ed66d8b108516a170a8b906301e75"
+    }
+  },
+  "standalone_copied": [
+    "Colosseum.msbt",
+    "ExpertChallenge.msbt",
+    "HTutorial.msbt",
+    "InitLoad.msbt",
+    "Item.msbt",
+    "Menu.msbt",
+    "MiniGame.msbt",
+    "Save.msbt",
+    "Shop.msbt",
+    "SoundPlayer.msbt",
+    "StaffRoll.msbt"
+  ],
+  "all_checks_passed": true
+}

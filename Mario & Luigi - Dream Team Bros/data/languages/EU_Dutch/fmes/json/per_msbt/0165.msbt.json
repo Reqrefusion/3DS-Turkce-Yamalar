@@ -1,0 +1,60 @@
+{
+  "0165.msbt": {
+    "0": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Help me!<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Help me!<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Help me!<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Help me!<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000000E00010001000000480065006C00700020006D00650021000E00000003000400000000FF0E000300000002001E000000"
+    },
+    "1": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "2": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "3": {
+      "text": "Oolala!<C:0003,0000,0A00>\nMagnifique!<C:0003,0001,>",
+      "tokenized_text": "Oolala!<C:0003,0000,0A00>\nMagnifique!<C:0003,0001,>",
+      "original_text": "Oolala!<C:0003,0000,0A00>\nMagnifique!<C:0003,0001,>",
+      "original_tokenized_text": "Oolala!<C:0003,0000,0A00>\nMagnifique!<C:0003,0001,>",
+      "raw_full_hex": "4F006F006C0061006C00610021000E000300000002000A000A004D00610067006E0069006600690071007500650021000E000300010000000000"
+    },
+    "4": {
+      "text": "Maar diet...<C:0003,0000,0A00> Diet is\npas 'et begin!<C:0003,0001,><C:0000,0004,>'ierna worden de\nmonsters sterker!<C:0003,0001,>",
+      "tokenized_text": "Maar diet...<C:0003,0000,0A00> Diet is\npas 'et begin!<C:0003,0001,><C:0000,0004,>'ierna worden de\nmonsters sterker!<C:0003,0001,>",
+      "original_text": "Maar diet...<C:0003,0000,0A00> Diet is\npas 'et begin!<C:0003,0001,><C:0000,0004,>'ierna worden de\nmonsters sterker!<C:0003,0001,>",
+      "original_tokenized_text": "Maar diet...<C:0003,0000,0A00> Diet is\npas 'et begin!<C:0003,0001,><C:0000,0004,>'ierna worden de\nmonsters sterker!<C:0003,0001,>",
+      "raw_full_hex": "4D00610061007200200064006900650074002E002E002E000E000300000002000A00200044006900650074002000690073000A007000610073002000270065007400200062006500670069006E0021000E000300010000000E0000000400000027006900650072006E006100200077006F007200640065006E002000640065000A006D006F006E0073007400650072007300200073007400650072006B006500720021000E000300010000000000"
+    },
+    "5": {
+      "text": "Vecht eerst met zwakke monsters\nom sterker te worden!<C:0003,0001,>",
+      "tokenized_text": "Vecht eerst met zwakke monsters\nom sterker te worden!<C:0003,0001,>",
+      "original_text": "Vecht eerst met zwakke monsters\nom sterker te worden!<C:0003,0001,>",
+      "original_tokenized_text": "Vecht eerst met zwakke monsters\nom sterker te worden!<C:0003,0001,>",
+      "raw_full_hex": "5600650063006800740020006500650072007300740020006D006500740020007A00770061006B006B00650020006D006F006E00730074006500720073000A006F006D00200073007400650072006B0065007200200074006500200077006F007200640065006E0021000E000300010000000000"
+    },
+    "6": {
+      "text": "Verpletter de zwakken, of de\nsterken zullen jullie verpletteren!<C:0003,0001,><C:0000,0004,>Blijf vechten, dan zullen jullie ze\nooit allemaal kunnen verslaan!<C:0003,0001,>",
+      "tokenized_text": "Verpletter de zwakken, of de\nsterken zullen jullie verpletteren!<C:0003,0001,><C:0000,0004,>Blijf vechten, dan zullen jullie ze\nooit allemaal kunnen verslaan!<C:0003,0001,>",
+      "original_text": "Verpletter de zwakken, of de\nsterken zullen jullie verpletteren!<C:0003,0001,><C:0000,0004,>Blijf vechten, dan zullen jullie ze\nooit allemaal kunnen verslaan!<C:0003,0001,>",
+      "original_tokenized_text": "Verpletter de zwakken, of de\nsterken zullen jullie verpletteren!<C:0003,0001,><C:0000,0004,>Blijf vechten, dan zullen jullie ze\nooit allemaal kunnen verslaan!<C:0003,0001,>",
+      "raw_full_hex": "56006500720070006C006500740074006500720020006400650020007A00770061006B006B0065006E002C0020006F0066002000640065000A0073007400650072006B0065006E0020007A0075006C006C0065006E0020006A0075006C006C0069006500200076006500720070006C006500740074006500720065006E0021000E000300010000000E0000000400000042006C0069006A00660020007600650063006800740065006E002C002000640061006E0020007A0075006C006C0065006E0020006A0075006C006C006900650020007A0065000A006F006F0069007400200061006C006C0065006D00610061006C0020006B0075006E006E0065006E00200076006500720073006C00610061006E0021000E000300010000000000"
+    },
+    "7": {
+      "text": "Iek weet dat\njullie 'et kunnen!<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>Au revoir!<C:0003,0001,>",
+      "tokenized_text": "Iek weet dat\njullie 'et kunnen!<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>Au revoir!<C:0003,0001,>",
+      "original_text": "Iek weet dat\njullie 'et kunnen!<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>Au revoir!<C:0003,0001,>",
+      "original_tokenized_text": "Iek weet dat\njullie 'et kunnen!<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>Au revoir!<C:0003,0001,>",
+      "raw_full_hex": "490065006B002000770065006500740020006400610074000A006A0075006C006C0069006500200027006500740020006B0075006E006E0065006E0021000E000300010000000E000000040000000E000100040000000E000100010000004100750020007200650076006F006900720021000E000300010000000000"
+    }
+  }
+}

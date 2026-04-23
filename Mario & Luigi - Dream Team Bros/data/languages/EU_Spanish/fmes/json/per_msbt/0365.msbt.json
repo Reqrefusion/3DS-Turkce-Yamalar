@@ -1,0 +1,46 @@
+{
+  "0365.msbt": {
+    "0": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "1": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>¡Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>¡Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>¡Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>¡Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E00010004000000A1004D006100720069006F0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Estaba preocupada, así que he venido a\nver cómo os iba.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Estaba preocupada, así que he venido a\nver cómo os iba.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Estaba preocupada, así que he venido a\nver cómo os iba.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Estaba preocupada, así que he venido a\nver cómo os iba.<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000045007300740061006200610020007000720065006F006300750070006100640061002C00200061007300ED0020007100750065002000680065002000760065006E00690064006F00200061000A0076006500720020006300F3006D006F0020006F00730020006900620061002E000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0001,0004,>¡Cielos!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>¡Cielos!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>¡Cielos!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>¡Cielos!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000A1004300690065006C006F00730021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Esta debe de ser la entrada\nque lleva a lo más profundo.<C:0003,0001,><C:0000,0004,>Seguro que Bowser no logra\nencontrarnos aquí.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Esta debe de ser la entrada\nque lleva a lo más profundo.<C:0003,0001,><C:0000,0004,>Seguro que Bowser no logra\nencontrarnos aquí.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Esta debe de ser la entrada\nque lleva a lo más profundo.<C:0003,0001,><C:0000,0004,>Seguro que Bowser no logra\nencontrarnos aquí.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Esta debe de ser la entrada\nque lleva a lo más profundo.<C:0003,0001,><C:0000,0004,>Seguro que Bowser no logra\nencontrarnos aquí.<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000450073007400610020006400650062006500200064006500200073006500720020006C006100200065006E00740072006100640061000A0071007500650020006C006C006500760061002000610020006C006F0020006D00E10073002000700072006F00660075006E0064006F002E000E000300010000000E00000004000000530065006700750072006F002000710075006500200042006F00770073006500720020006E006F0020006C006F006700720061000A0065006E0063006F006E0074007200610072006E006F0073002000610071007500ED002E000E000300010000000000"
+    },
+    "5": {
+      "text": "Pero...<C:0003,0000,0A00> Quién sabe lo\nque nos aguarda más adelante...<C:0003,0001,><C:0000,0004,>Lo mejor será <C:0000,0003,2C65FFFF>guardar\n<C:0000,0003,000000FF>la partida, por si acaso.<C:0003,0001,>",
+      "tokenized_text": "Pero...<C:0003,0000,0A00> Quién sabe lo\nque nos aguarda más adelante...<C:0003,0001,><C:0000,0004,>Lo mejor será <C:0000,0003,2C65FFFF>guardar\n<C:0000,0003,000000FF>la partida, por si acaso.<C:0003,0001,>",
+      "original_text": "Pero...<C:0003,0000,0A00> Quién sabe lo\nque nos aguarda más adelante...<C:0003,0001,><C:0000,0004,>Lo mejor será <C:0000,0003,2C65FFFF>guardar\n<C:0000,0003,000000FF>la partida, por si acaso.<C:0003,0001,>",
+      "original_tokenized_text": "Pero...<C:0003,0000,0A00> Quién sabe lo\nque nos aguarda más adelante...<C:0003,0001,><C:0000,0004,>Lo mejor será <C:0000,0003,2C65FFFF>guardar\n<C:0000,0003,000000FF>la partida, por si acaso.<C:0003,0001,>",
+      "raw_full_hex": "5000650072006F002E002E002E000E000300000002000A002000510075006900E9006E002000730061006200650020006C006F000A0071007500650020006E006F0073002000610067007500610072006400610020006D00E100730020006100640065006C0061006E00740065002E002E002E000E000300010000000E000000040000004C006F0020006D0065006A006F0072002000730065007200E10020000E000000030004002C65FFFF67007500610072006400610072000A000E00000003000400000000FF6C006100200070006100720074006900640061002C00200070006F007200200073006900200061006300610073006F002E000E000300010000000000"
+    }
+  }
+}

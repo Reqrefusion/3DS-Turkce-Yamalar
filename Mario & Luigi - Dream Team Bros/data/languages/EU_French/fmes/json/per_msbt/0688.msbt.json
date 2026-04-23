@@ -1,0 +1,102 @@
+{
+  "0688.msbt": {
+    "0": {
+      "text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii<C:0003,0000,0A00>iiiiiiii !",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii<C:0003,0000,0A00>iiiiiiii !",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii<C:0003,0000,0A00>iiiiiiii !",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii<C:0003,0000,0A00>iiiiiiii !",
+      "raw_full_hex": "0E000100010000000E00010004000000460069006900690069006900690069006900690069000E000300000002000A0069006900690069006900690069006900200021000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii !",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii !",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii !",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Fiiiiiiiiii !",
+      "raw_full_hex": "0E000100010000000E0001000400000046006900690069006900690069006900690069006900200021000000"
+    },
+    "2": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>Fiiiiiiiiii !<C:0000,0002,6400>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>Fiiiiiiiiii !<C:0000,0002,6400>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>Fiiiiiiiiii !<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>Fiiiiiiiiii !<C:0000,0002,6400>",
+      "raw_full_hex": "0E000700000000000E000100010000000E000100040000000E00000002000200960046006900690069006900690069006900690069006900200021000E0000000200020064000000"
+    },
+    "3": {
+      "text": "Ouiiii !<C:0003,0000,0A00>\nNous avons réussi !<C:0003,0001,>",
+      "tokenized_text": "Ouiiii !<C:0003,0000,0A00>\nNous avons réussi !<C:0003,0001,>",
+      "original_text": "Ouiiii !<C:0003,0000,0A00>\nNous avons réussi !<C:0003,0001,>",
+      "original_tokenized_text": "Ouiiii !<C:0003,0000,0A00>\nNous avons réussi !<C:0003,0001,>",
+      "raw_full_hex": "4F0075006900690069006900200021000E000300000002000A000A004E006F00750073002000610076006F006E00730020007200E9007500730073006900200021000E000300010000000000"
+    },
+    "4": {
+      "text": "Nous avons vaincu Antasma !<C:0003,0001,>",
+      "tokenized_text": "Nous avons vaincu Antasma !<C:0003,0001,>",
+      "original_text": "Nous avons vaincu Antasma !<C:0003,0001,>",
+      "original_tokenized_text": "Nous avons vaincu Antasma !<C:0003,0001,>",
+      "raw_full_hex": "4E006F00750073002000610076006F006E00730020007600610069006E0063007500200041006E007400610073006D006100200021000E000300010000000000"
+    },
+    "5": {
+      "text": "Oui,<C:0003,0000,0500> enfin...<C:0003,0000,0A00>\nNous l'avons battu !<C:0003,0001,>",
+      "tokenized_text": "Oui,<C:0003,0000,0500> enfin...<C:0003,0000,0A00>\nNous l'avons battu !<C:0003,0001,>",
+      "original_text": "Oui,<C:0003,0000,0500> enfin...<C:0003,0000,0A00>\nNous l'avons battu !<C:0003,0001,>",
+      "original_tokenized_text": "Oui,<C:0003,0000,0500> enfin...<C:0003,0000,0A00>\nNous l'avons battu !<C:0003,0001,>",
+      "raw_full_hex": "4F00750069002C000E000300000002000500200065006E00660069006E002E002E002E000E000300000002000A000A004E006F007500730020006C002700610076006F006E007300200062006100740074007500200021000E000300010000000000"
+    },
+    "6": {
+      "text": "Mario... Luigi...\nJe vous remercie !<C:0003,0001,>",
+      "tokenized_text": "Mario... Luigi...\nJe vous remercie !<C:0003,0001,>",
+      "original_text": "Mario... Luigi...\nJe vous remercie !<C:0003,0001,>",
+      "original_tokenized_text": "Mario... Luigi...\nJe vous remercie !<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E002E002E0020004C0075006900670069002E002E002E000A004A006500200076006F00750073002000720065006D0065007200630069006500200021000E000300010000000000"
+    },
+    "7": {
+      "text": "Mais nous n'avons pas une minute à\nperdre ! Nous devons nous occuper\nde Bowser, maintenant !<C:0003,0001,>",
+      "tokenized_text": "Mais nous n'avons pas une minute à\nperdre ! Nous devons nous occuper\nde Bowser, maintenant !<C:0003,0001,>",
+      "original_text": "Mais nous n'avons pas une minute à\nperdre ! Nous devons nous occuper\nde Bowser, maintenant !<C:0003,0001,>",
+      "original_tokenized_text": "Mais nous n'avons pas une minute à\nperdre ! Nous devons nous occuper\nde Bowser, maintenant !<C:0003,0001,>",
+      "raw_full_hex": "4D0061006900730020006E006F007500730020006E002700610076006F006E0073002000700061007300200075006E00650020006D0069006E007500740065002000E0000A007000650072006400720065002000210020004E006F007500730020006400650076006F006E00730020006E006F007500730020006F006300630075007000650072000A0064006500200042006F0077007300650072002C0020006D00610069006E00740065006E0061006E007400200021000E000300010000000000"
+    },
+    "8": {
+      "text": "Du calme, Tédibert !\nN'en fais pas trop !<C:0003,0001,>",
+      "tokenized_text": "Du calme, Tédibert !\nN'en fais pas trop !<C:0003,0001,>",
+      "original_text": "Du calme, Tédibert !\nN'en fais pas trop !<C:0003,0001,>",
+      "original_tokenized_text": "Du calme, Tédibert !\nN'en fais pas trop !<C:0003,0001,>",
+      "raw_full_hex": "440075002000630061006C006D0065002C0020005400E900640069006200650072007400200021000A004E00270065006E002000660061006900730020007000610073002000740072006F007000200021000E000300010000000000"
+    },
+    "9": {
+      "text": "Pas d'inquiétude.\nJe vais mieux.<C:0003,0001,>",
+      "tokenized_text": "Pas d'inquiétude.\nJe vais mieux.<C:0003,0001,>",
+      "original_text": "Pas d'inquiétude.\nJe vais mieux.<C:0003,0001,>",
+      "original_tokenized_text": "Pas d'inquiétude.\nJe vais mieux.<C:0003,0001,>",
+      "raw_full_hex": "50006100730020006400270069006E00710075006900E90074007500640065002E000A004A0065002000760061006900730020006D0069006500750078002E000E000300010000000000"
+    },
+    "10": {
+      "text": "Mario. Luigi.\nEn avant !<C:0003,0001,>",
+      "tokenized_text": "Mario. Luigi.\nEn avant !<C:0003,0001,>",
+      "original_text": "Mario. Luigi.\nEn avant !<C:0003,0001,>",
+      "original_tokenized_text": "Mario. Luigi.\nEn avant !<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E0020004C0075006900670069002E000A0045006E0020006100760061006E007400200021000E000300010000000000"
+    },
+    "11": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "12": {
+      "text": "Mario ! Luigi ! Cette fois-ci,\nc'est le combat final !<C:0003,0001,>",
+      "tokenized_text": "Mario ! Luigi ! Cette fois-ci,\nc'est le combat final !<C:0003,0001,>",
+      "original_text": "Mario ! Luigi ! Cette fois-ci,\nc'est le combat final !<C:0003,0001,>",
+      "original_tokenized_text": "Mario ! Luigi ! Cette fois-ci,\nc'est le combat final !<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002000210020004C00750069006700690020002100200043006500740074006500200066006F00690073002D00630069002C000A006300270065007300740020006C006500200063006F006D006200610074002000660069006E0061006C00200021000E000300010000000000"
+    },
+    "13": {
+      "text": "Bowser et ses sbires sont\nau dernier étage du château.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Hâtons-nous et rattrapons-les !<C:0003,0001,>",
+      "tokenized_text": "Bowser et ses sbires sont\nau dernier étage du château.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Hâtons-nous et rattrapons-les !<C:0003,0001,>",
+      "original_text": "Bowser et ses sbires sont\nau dernier étage du château.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Hâtons-nous et rattrapons-les !<C:0003,0001,>",
+      "original_tokenized_text": "Bowser et ses sbires sont\nau dernier étage du château.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Hâtons-nous et rattrapons-les !<C:0003,0001,>",
+      "raw_full_hex": "42006F00770073006500720020006500740020007300650073002000730062006900720065007300200073006F006E0074000A006100750020006400650072006E006900650072002000E9007400610067006500200064007500200063006800E20074006500610075002E000E000300010000000E000000040000000E000100010000000E000100040000004800E20074006F006E0073002D006E006F0075007300200065007400200072006100740074007200610070006F006E0073002D006C0065007300200021000E000300010000000000"
+    }
+  }
+}

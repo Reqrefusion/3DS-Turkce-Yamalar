@@ -1,0 +1,593 @@
+{
+  "slot_count": 791,
+  "nonempty_slots": 443,
+  "verify_noop_after_patch": {
+    "slot_count": 791,
+    "nonempty_slots": 443,
+    "extract_repack_exact": true,
+    "json_roundtrip_exact": true,
+    "bin_sha256": "53598e3ad758d048795ff0318549b9e8ce7ef4f57109d814374688efa715c41e",
+    "dat_sha256": "e8480347d166d8ef5a89189ef34b035e789bb12c279f67562d8e0dd934c15884"
+  },
+  "changed_file_count": 69,
+  "changed_entry_count": 183,
+  "changed_files": [
+    "0000.msbt",
+    "0002.msbt",
+    "0014.msbt",
+    "0015.msbt",
+    "0025.msbt",
+    "0051.msbt",
+    "0055.msbt",
+    "0061.msbt",
+    "0063.msbt",
+    "0064.msbt",
+    "0066.msbt",
+    "0068.msbt",
+    "0075.msbt",
+    "0103.msbt",
+    "0116.msbt",
+    "0130.msbt",
+    "0133.msbt",
+    "0135.msbt",
+    "0151.msbt",
+    "0152.msbt",
+    "0153.msbt",
+    "0164.msbt",
+    "0244.msbt",
+    "0253.msbt",
+    "0260.msbt",
+    "0265.msbt",
+    "0266.msbt",
+    "0267.msbt",
+    "0291.msbt",
+    "0292.msbt",
+    "0293.msbt",
+    "0294.msbt",
+    "0295.msbt",
+    "0296.msbt",
+    "0297.msbt",
+    "0298.msbt",
+    "0324.msbt",
+    "0389.msbt",
+    "0391.msbt",
+    "0392.msbt",
+    "0393.msbt",
+    "0394.msbt",
+    "0395.msbt",
+    "0397.msbt",
+    "0399.msbt",
+    "0400.msbt",
+    "0401.msbt",
+    "0402.msbt",
+    "0403.msbt",
+    "0404.msbt",
+    "0406.msbt",
+    "0456.msbt",
+    "0463.msbt",
+    "0482.msbt",
+    "0549.msbt",
+    "0554.msbt",
+    "0555.msbt",
+    "0557.msbt",
+    "0559.msbt",
+    "0561.msbt",
+    "0562.msbt",
+    "0563.msbt",
+    "0583.msbt",
+    "0648.msbt",
+    "0661.msbt",
+    "0663.msbt",
+    "0669.msbt",
+    "0670.msbt",
+    "0676.msbt"
+  ],
+  "replacement_counts": {
+    "Düşlü Somnom Ormanı": 21,
+    "Somnom Ormanı": 35,
+    "Somnom Taşları": 1,
+    "Somnom Taşı": 6,
+    "Zeekeeper": 64,
+    "Bedsmith": 10,
+    "Broque Madame": 1,
+    "Broque Monsieur": 6,
+    "Princess Peach": 2,
+    "Uyanliman": 42,
+    "2 to go": 0,
+    "Uyaniskele'daydı": 1,
+    "Uyaniskele'da": 7,
+    "Mışılbekçi'la": 8,
+    "Döşekçi'in": 1,
+    "Döşekçi'i": 1,
+    "Uyurgezer Taşı'u": 1
+  },
+  "remaining_suspicious_hits": [],
+  "english_exact_visible_matches_count": 97,
+  "english_exact_visible_matches_sample": [
+    {
+      "file": "0007.msbt",
+      "entry": "3",
+      "text": "Bahaha!"
+    },
+    {
+      "file": "0007.msbt",
+      "entry": "6",
+      "text": "Bah!BAHA!"
+    },
+    {
+      "file": "0007.msbt",
+      "entry": "9",
+      "text": "BAHAHA!"
+    },
+    {
+      "file": "0007.msbt",
+      "entry": "14",
+      "text": "HYUUP!"
+    },
+    {
+      "file": "0007.msbt",
+      "entry": "16",
+      "text": "HYUUUURGH!\nMRRRFFFFF!"
+    },
+    {
+      "file": "0011.msbt",
+      "entry": "32",
+      "text": "Mario!"
+    },
+    {
+      "file": "0012.msbt",
+      "entry": "17",
+      "text": "Mario!\nLuigi!"
+    },
+    {
+      "file": "0017.msbt",
+      "entry": "20",
+      "text": "Ahahahahahaha!\nAHAHAHAHA!"
+    },
+    {
+      "file": "0027.msbt",
+      "entry": "5",
+      "text": "Hey hey!"
+    },
+    {
+      "file": "0031.msbt",
+      "entry": "15",
+      "text": "Bahahaha..."
+    },
+    {
+      "file": "0055.msbt",
+      "entry": "33",
+      "text": "Hnngh... Gahhhh..."
+    },
+    {
+      "file": "0089.msbt",
+      "entry": "7",
+      "text": "Voilà!"
+    },
+    {
+      "file": "0089.msbt",
+      "entry": "18",
+      "text": "HORP!"
+    },
+    {
+      "file": "0089.msbt",
+      "entry": "29",
+      "text": "Oh... Ah!"
+    },
+    {
+      "file": "0104.msbt",
+      "entry": "78",
+      "text": "♪MEGA LOWE LOWE♪"
+    },
+    {
+      "file": "0104.msbt",
+      "entry": "80",
+      "text": "CHOOYAAAH!"
+    },
+    {
+      "file": "0116.msbt",
+      "entry": "14",
+      "text": "MASSIF-VERTPAJAMAJA 2!"
+    },
+    {
+      "file": "0116.msbt",
+      "entry": "35",
+      "text": "YEEEARGH!"
+    },
+    {
+      "file": "0127.msbt",
+      "entry": "8",
+      "text": "Mario!"
+    },
+    {
+      "file": "0127.msbt",
+      "entry": "13",
+      "text": "GAHAHAHAHA!"
+    },
+    {
+      "file": "0127.msbt",
+      "entry": "15",
+      "text": "Bowser!"
+    },
+    {
+      "file": "0148.msbt",
+      "entry": "3",
+      "text": "Mario! Luigi!"
+    },
+    {
+      "file": "0156.msbt",
+      "entry": "2",
+      "text": "MARIOOO!"
+    },
+    {
+      "file": "0164.msbt",
+      "entry": "6",
+      "text": "Oh honh honh honh.\nAu contraire!"
+    },
+    {
+      "file": "0164.msbt",
+      "entry": "24",
+      "text": "Bonjour, mon frère!"
+    },
+    {
+      "file": "0168.msbt",
+      "entry": "2",
+      "text": "Mario!"
+    },
+    {
+      "file": "0170.msbt",
+      "entry": "3",
+      "text": "'Ey! Vous!"
+    },
+    {
+      "file": "0175.msbt",
+      "entry": "12",
+      "text": "WAHAHA!"
+    },
+    {
+      "file": "0188.msbt",
+      "entry": "1",
+      "text": "zZzZz"
+    },
+    {
+      "file": "0188.msbt",
+      "entry": "38",
+      "text": "Ha hah! Aha ha ha!"
+    },
+    {
+      "file": "0210.msbt",
+      "entry": "4",
+      "text": "Luigi!"
+    },
+    {
+      "file": "0211.msbt",
+      "entry": "19",
+      "text": "Mario?"
+    },
+    {
+      "file": "0219.msbt",
+      "entry": "6",
+      "text": "Mario!"
+    },
+    {
+      "file": "0219.msbt",
+      "entry": "45",
+      "text": "Mario!"
+    },
+    {
+      "file": "0229.msbt",
+      "entry": "7",
+      "text": "Hah hah hah hah!"
+    },
+    {
+      "file": "0243.msbt",
+      "entry": "2",
+      "text": "Mariooo!"
+    },
+    {
+      "file": "0243.msbt",
+      "entry": "38",
+      "text": "GWAAAAA!"
+    },
+    {
+      "file": "0243.msbt",
+      "entry": "39",
+      "text": "Oooooohhh!"
+    },
+    {
+      "file": "0243.msbt",
+      "entry": "41",
+      "text": "BWAHAHAHAHA!"
+    },
+    {
+      "file": "0243.msbt",
+      "entry": "50",
+      "text": "HEEYAAAA!"
+    },
+    {
+      "file": "0258.msbt",
+      "entry": "3",
+      "text": "Britta!"
+    },
+    {
+      "file": "0258.msbt",
+      "entry": "19",
+      "text": "GWAHAHAHA!"
+    },
+    {
+      "file": "0269.msbt",
+      "entry": "47",
+      "text": "HOO-RAW!"
+    },
+    {
+      "file": "0269.msbt",
+      "entry": "82",
+      "text": "UH! UH! UH!"
+    },
+    {
+      "file": "0269.msbt",
+      "entry": "89",
+      "text": "NYET!"
+    },
+    {
+      "file": "0269.msbt",
+      "entry": "100",
+      "text": "HYAH!"
+    },
+    {
+      "file": "0269.msbt",
+      "entry": "101",
+      "text": "HUURGH!"
+    },
+    {
+      "file": "0277.msbt",
+      "entry": "1",
+      "text": "Haarff... Whafff..."
+    },
+    {
+      "file": "0281.msbt",
+      "entry": "1",
+      "text": "Hallff... Yurrff..."
+    },
+    {
+      "file": "0281.msbt",
+      "entry": "53",
+      "text": "HOORAWW!"
+    },
+    {
+      "file": "0281.msbt",
+      "entry": "58",
+      "text": "BWAARF!"
+    },
+    {
+      "file": "0288.msbt",
+      "entry": "18",
+      "text": "Hrrgh!"
+    },
+    {
+      "file": "0289.msbt",
+      "entry": "36",
+      "text": "Mmnam num...\nZzz... Zrrbb..."
+    },
+    {
+      "file": "0289.msbt",
+      "entry": "42",
+      "text": "Mmnn... Snrrk..."
+    },
+    {
+      "file": "0300.msbt",
+      "entry": "4",
+      "text": "Hya hyuh hyuh... \nMyuh hyuh huh..."
+    },
+    {
+      "file": "0349.msbt",
+      "entry": "16",
+      "text": "GWAHAHAHA!"
+    },
+    {
+      "file": "0349.msbt",
+      "entry": "40",
+      "text": "Luigi!"
+    },
+    {
+      "file": "0350.msbt",
+      "entry": "2",
+      "text": "SCREEK!"
+    },
+    {
+      "file": "0350.msbt",
+      "entry": "5",
+      "text": "Hmph!"
+    },
+    {
+      "file": "0350.msbt",
+      "entry": "14",
+      "text": "MARIO! LUIGI!"
+    },
+    {
+      "file": "0350.msbt",
+      "entry": "25",
+      "text": "SCREEYEE!"
+    },
+    {
+      "file": "0352.msbt",
+      "entry": "4",
+      "text": "Hmph!"
+    },
+    {
+      "file": "0352.msbt",
+      "entry": "22",
+      "text": "Ooogh!\nPbbbth!"
+    },
+    {
+      "file": "0355.msbt",
+      "entry": "20",
+      "text": "Mario!"
+    },
+    {
+      "file": "0355.msbt",
+      "entry": "24",
+      "text": "BRAP!"
+    },
+    {
+      "file": "0355.msbt",
+      "entry": "25",
+      "text": "FARFF!"
+    },
+    {
+      "file": "0361.msbt",
+      "entry": "15",
+      "text": "Mario..."
+    },
+    {
+      "file": "0370.msbt",
+      "entry": "5",
+      "text": "Tee hee hee..."
+    },
+    {
+      "file": "0370.msbt",
+      "entry": "6",
+      "text": "NYAHAHA!"
+    },
+    {
+      "file": "0370.msbt",
+      "entry": "46",
+      "text": "AAARGH!"
+    },
+    {
+      "file": "0370.msbt",
+      "entry": "51",
+      "text": "NYAAAHAHA!"
+    },
+    {
+      "file": "0378.msbt",
+      "entry": "12",
+      "text": "YUKYUKYUK!"
+    },
+    {
+      "file": "0389.msbt",
+      "entry": "3",
+      "text": "MMPH! HOOGA!"
+    },
+    {
+      "file": "0397.msbt",
+      "entry": "25",
+      "text": "hsspssnomshhs"
+    },
+    {
+      "file": "0397.msbt",
+      "entry": "26",
+      "text": "nomsspsshssnom"
+    },
+    {
+      "file": "0477.msbt",
+      "entry": "21",
+      "text": "Bowser!"
+    },
+    {
+      "file": "0477.msbt",
+      "entry": "31",
+      "text": "WHIFF!"
+    },
+    {
+      "file": "0530.msbt",
+      "entry": "18",
+      "text": "Luigi?"
+    },
+    {
+      "file": "0583.msbt",
+      "entry": "11",
+      "text": "2 to go"
+    },
+    {
+      "file": "0611.msbt",
+      "entry": "3",
+      "text": "Bow...ser..."
+    },
+    {
+      "file": "0623.msbt",
+      "entry": "0",
+      "text": "MARIO!"
+    },
+    {
+      "file": "0634.msbt",
+      "entry": "8",
+      "text": "AAAAAH!"
+    },
+    {
+      "file": "0635.msbt",
+      "entry": "5",
+      "text": "GRAAAWR!"
+    },
+    {
+      "file": "0648.msbt",
+      "entry": "48",
+      "text": "HNNGAH!"
+    },
+    {
+      "file": "0652.msbt",
+      "entry": "4",
+      "text": "BROOF!"
+    },
+    {
+      "file": "0652.msbt",
+      "entry": "15",
+      "text": "Mm-heh heh..."
+    },
+    {
+      "file": "0674.msbt",
+      "entry": "3",
+      "text": "SCREENK! SCREET!"
+    },
+    {
+      "file": "0674.msbt",
+      "entry": "4",
+      "text": "SCREE-EE-EEF!"
+    },
+    {
+      "file": "0674.msbt",
+      "entry": "22",
+      "text": "BWAHAHAHA!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "1",
+      "text": "Scree...hee hee!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "4",
+      "text": "HRRP!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "6",
+      "text": "FREEE! SCREEK!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "9",
+      "text": "GWAHAHA!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "22",
+      "text": "Antasma?!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "26",
+      "text": "Hmmm..."
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "30",
+      "text": "Mario!"
+    },
+    {
+      "file": "0682.msbt",
+      "entry": "31",
+      "text": "Luigi!"
+    }
+  ]
+}

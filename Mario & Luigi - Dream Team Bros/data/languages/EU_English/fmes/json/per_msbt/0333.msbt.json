@@ -1,0 +1,67 @@
+{
+  "0333.msbt": {
+    "0": {
+      "text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "raw_full_hex": "0E0007000000000047006F00200074006F002000740068006500200064007200650061006D00200077006F0072006C0064003F000E000300000002000A000A000E000100010000000E000500010000004E006F0020002000200020002000200020002000200020000E000500010000005900650073000E000300000002000A000000"
+    },
+    "1": {
+      "text": "Persistent,\naren't we?<C:0003,0001,>",
+      "tokenized_text": "Persistent,\naren't we?<C:0003,0001,>",
+      "original_text": "Persistent,\naren't we?<C:0003,0001,>",
+      "original_tokenized_text": "Persistent,\naren't we?<C:0003,0001,>",
+      "raw_full_hex": "500065007200730069007300740065006E0074002C000A006100720065006E00270074002000770065003F000E000300010000000000"
+    },
+    "2": {
+      "text": "Well, time to lose\nyou for good, then!<C:0003,0001,>",
+      "tokenized_text": "Well, time to lose\nyou for good, then!<C:0003,0001,>",
+      "original_text": "Well, time to lose\nyou for good, then!<C:0003,0001,>",
+      "original_tokenized_text": "Well, time to lose\nyou for good, then!<C:0003,0001,>",
+      "raw_full_hex": "570065006C006C002C002000740069006D006500200074006F0020006C006F00730065000A0079006F007500200066006F007200200067006F006F0064002C0020007400680065006E0021000E000300010000000000"
+    },
+    "3": {
+      "text": "Oh, whoops! Messed with all the\npassages in the other rooms!<C:0003,0001,><C:0000,0004,>Sorry, there's no escape for you now!\nYou'll be stuck here FOREVERRRR!<C:0003,0001,>",
+      "tokenized_text": "Oh, whoops! Messed with all the\npassages in the other rooms!<C:0003,0001,><C:0000,0004,>Sorry, there's no escape for you now!\nYou'll be stuck here FOREVERRRR!<C:0003,0001,>",
+      "original_text": "Oh, whoops! Messed with all the\npassages in the other rooms!<C:0003,0001,><C:0000,0004,>Sorry, there's no escape for you now!\nYou'll be stuck here FOREVERRRR!<C:0003,0001,>",
+      "original_tokenized_text": "Oh, whoops! Messed with all the\npassages in the other rooms!<C:0003,0001,><C:0000,0004,>Sorry, there's no escape for you now!\nYou'll be stuck here FOREVERRRR!<C:0003,0001,>",
+      "raw_full_hex": "4F0068002C002000770068006F006F0070007300210020004D006500730073006500640020007700690074006800200061006C006C0020007400680065000A0070006100730073006100670065007300200069006E00200074006800650020006F007400680065007200200072006F006F006D00730021000E000300010000000E0000000400000053006F007200720079002C002000740068006500720065002700730020006E006F002000650073006300610070006500200066006F007200200079006F00750020006E006F00770021000A0059006F00750027006C006C00200062006500200073007400750063006B0020006800650072006500200046004F005200450056004500520052005200520021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Ugh, he ran off to the\ndream world again...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ugh, he ran off to the\ndream world again...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ugh, he ran off to the\ndream world again...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ugh, he ran off to the\ndream world again...<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005500670068002C002000680065002000720061006E0020006F0066006600200074006F0020007400680065000A0064007200650061006D00200077006F0072006C006400200061006700610069006E002E002E002E000E000300010000000000"
+    },
+    "5": {
+      "text": "And again, a cage\nis in our way...<C:0003,0001,>",
+      "tokenized_text": "And again, a cage\nis in our way...<C:0003,0001,>",
+      "original_text": "And again, a cage\nis in our way...<C:0003,0001,>",
+      "original_tokenized_text": "And again, a cage\nis in our way...<C:0003,0001,>",
+      "raw_full_hex": "41006E006400200061006700610069006E002C0020006100200063006100670065000A0069007300200069006E0020006F007500720020007700610079002E002E002E000E000300010000000000"
+    },
+    "6": {
+      "text": "We'll never trigger that\nswitch ourselves...<C:0003,0001,><C:0000,0004,>But maybe we can <C:0000,0003,2C65FFFF>drop\nsomething from above<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "tokenized_text": "We'll never trigger that\nswitch ourselves...<C:0003,0001,><C:0000,0004,>But maybe we can <C:0000,0003,2C65FFFF>drop\nsomething from above<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "original_text": "We'll never trigger that\nswitch ourselves...<C:0003,0001,><C:0000,0004,>But maybe we can <C:0000,0003,2C65FFFF>drop\nsomething from above<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "original_tokenized_text": "We'll never trigger that\nswitch ourselves...<C:0003,0001,><C:0000,0004,>But maybe we can <C:0000,0003,2C65FFFF>drop\nsomething from above<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "raw_full_hex": "5700650027006C006C0020006E00650076006500720020007400720069006700670065007200200074006800610074000A0073007700690074006300680020006F0075007200730065006C007600650073002E002E002E000E000300010000000E0000000400000042007500740020006D0061007900620065002000770065002000630061006E0020000E000000030004002C65FFFF640072006F0070000A0073006F006D0065007400680069006E0067002000660072006F006D002000610062006F00760065000E00000003000400000000FF2E002E002E000E000300010000000000"
+    },
+    "7": {
+      "text": "I wonder if there's something\nbeyond those tracks...<C:0003,0001,>",
+      "tokenized_text": "I wonder if there's something\nbeyond those tracks...<C:0003,0001,>",
+      "original_text": "I wonder if there's something\nbeyond those tracks...<C:0003,0001,>",
+      "original_tokenized_text": "I wonder if there's something\nbeyond those tracks...<C:0003,0001,>",
+      "raw_full_hex": "4900200077006F006E0064006500720020006900660020007400680065007200650027007300200073006F006D0065007400680069006E0067000A006200650079006F006E0064002000740068006F0073006500200074007200610063006B0073002E002E002E000E000300010000000000"
+    },
+    "8": {
+      "text": "He got away again!\nQuickly! After him!<C:0003,0001,>",
+      "tokenized_text": "He got away again!\nQuickly! After him!<C:0003,0001,>",
+      "original_text": "He got away again!\nQuickly! After him!<C:0003,0001,>",
+      "original_tokenized_text": "He got away again!\nQuickly! After him!<C:0003,0001,>",
+      "raw_full_hex": "48006500200067006F00740020006100770061007900200061006700610069006E0021000A0051007500690063006B006C00790021002000410066007400650072002000680069006D0021000E000300010000000000"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "0463.msbt": {
+    "0": {
+      "text": "<C:0001,0001,>You saved <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF>!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>You saved <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF>!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>You saved <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF>!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>You saved <C:0000,0003,00EAFFFF>Bedsmith<C:0000,0003,FFFFFFFF>!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E0001000100000059006F00750020007300610076006500640020000E0000000300040000EAFFFF42006500640073006D006900740068000E00000003000400FFFFFFFF21000E000300000002000A000E000300010000000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,>Pi'illo folk saved: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>Pi'illo folk saved: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>Pi'illo folk saved: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>Pi'illo folk saved: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E0001000100000050006900270069006C006C006F00200066006F006C006B002000730061007600650064003A0020000E000400000006000000020000000E000300000002000A000E000300010000000000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Now.<C:0003,0000,1400> Smash this chunk\nto save Bedsmith!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Now.<C:0003,0000,1400> Smash this chunk\nto save Bedsmith!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Now.<C:0003,0000,1400> Smash this chunk\nto save Bedsmith!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Now.<C:0003,0000,1400> Smash this chunk\nto save Bedsmith!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E006F0077002E000E000300000002001400200053006D006100730068002000740068006900730020006300680075006E006B000A0074006F0020007300610076006500200042006500640073006D0069007400680021000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0001,0004,>BEDSMITH! IS! FREEEE!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>BEDSMITH! IS! FREEEE!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>BEDSMITH! IS! FREEEE!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>BEDSMITH! IS! FREEEE!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000042004500440053004D0049005400480021002000490053002100200046005200450045004500450021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>THANK YOUUUU!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>THANK YOUUUU!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>THANK YOUUUU!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>THANK YOUUUU!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005400480041004E004B00200059004F00550055005500550021000E000300010000000000"
+    },
+    "5": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "6": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

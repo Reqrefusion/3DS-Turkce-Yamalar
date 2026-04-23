@@ -1,0 +1,60 @@
+{
+  "0165.msbt": {
+    "0": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Au secours !<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Au secours !<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Au secours !<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,><C:0001,0001,>Au secours !<C:0000,0003,000000FF><C:0003,0000,1E00>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000000E000100010000004100750020007300650063006F00750072007300200021000E00000003000400000000FF0E000300000002001E000000"
+    },
+    "1": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "2": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "3": {
+      "text": "Ouh, ouh, ouh !<C:0003,0000,0A00>\nWonderful !<C:0003,0001,>",
+      "tokenized_text": "Ouh, ouh, ouh !<C:0003,0000,0A00>\nWonderful !<C:0003,0001,>",
+      "original_text": "Ouh, ouh, ouh !<C:0003,0000,0A00>\nWonderful !<C:0003,0001,>",
+      "original_tokenized_text": "Ouh, ouh, ouh !<C:0003,0000,0A00>\nWonderful !<C:0003,0001,>",
+      "raw_full_hex": "4F00750068002C0020006F00750068002C0020006F0075006800200021000E000300000002000A000A0057006F006E00640065007200660075006C00200021000E000300010000000000"
+    },
+    "4": {
+      "text": "Mais this...<C:0003,0000,0A00> This is juste\nle commencement !<C:0003,0001,><C:0000,0004,>Les méchants monsters seront\nde plus en plus puissants !<C:0003,0001,>",
+      "tokenized_text": "Mais this...<C:0003,0000,0A00> This is juste\nle commencement !<C:0003,0001,><C:0000,0004,>Les méchants monsters seront\nde plus en plus puissants !<C:0003,0001,>",
+      "original_text": "Mais this...<C:0003,0000,0A00> This is juste\nle commencement !<C:0003,0001,><C:0000,0004,>Les méchants monsters seront\nde plus en plus puissants !<C:0003,0001,>",
+      "original_tokenized_text": "Mais this...<C:0003,0000,0A00> This is juste\nle commencement !<C:0003,0001,><C:0000,0004,>Les méchants monsters seront\nde plus en plus puissants !<C:0003,0001,>",
+      "raw_full_hex": "4D00610069007300200074006800690073002E002E002E000E000300000002000A002000540068006900730020006900730020006A0075007300740065000A006C006500200063006F006D006D0065006E00630065006D0065006E007400200021000E000300010000000E000000040000004C006500730020006D00E9006300680061006E007400730020006D006F006E007300740065007200730020007300650072006F006E0074000A0064006500200070006C0075007300200065006E00200070006C007500730020007000750069007300730061006E0074007300200021000E000300010000000000"
+    },
+    "5": {
+      "text": "Combattez d'abord les monsters\nfaibles pour devenir plus forts !<C:0003,0001,>",
+      "tokenized_text": "Combattez d'abord les monsters\nfaibles pour devenir plus forts !<C:0003,0001,>",
+      "original_text": "Combattez d'abord les monsters\nfaibles pour devenir plus forts !<C:0003,0001,>",
+      "original_tokenized_text": "Combattez d'abord les monsters\nfaibles pour devenir plus forts !<C:0003,0001,>",
+      "raw_full_hex": "43006F006D00620061007400740065007A00200064002700610062006F007200640020006C006500730020006D006F006E00730074006500720073000A0066006100690062006C0065007300200070006F0075007200200064006500760065006E0069007200200070006C0075007300200066006F00720074007300200021000E000300010000000000"
+    },
+    "6": {
+      "text": "Vous devez battre les plus\nfaibles ou les plus forts\nauront raison de vous !<C:0003,0001,><C:0000,0004,>Battez de nombreux monsters\net vous deviendrez very strong !<C:0003,0001,>",
+      "tokenized_text": "Vous devez battre les plus\nfaibles ou les plus forts\nauront raison de vous !<C:0003,0001,><C:0000,0004,>Battez de nombreux monsters\net vous deviendrez very strong !<C:0003,0001,>",
+      "original_text": "Vous devez battre les plus\nfaibles ou les plus forts\nauront raison de vous !<C:0003,0001,><C:0000,0004,>Battez de nombreux monsters\net vous deviendrez very strong !<C:0003,0001,>",
+      "original_tokenized_text": "Vous devez battre les plus\nfaibles ou les plus forts\nauront raison de vous !<C:0003,0001,><C:0000,0004,>Battez de nombreux monsters\net vous deviendrez very strong !<C:0003,0001,>",
+      "raw_full_hex": "56006F0075007300200064006500760065007A00200062006100740074007200650020006C0065007300200070006C00750073000A0066006100690062006C006500730020006F00750020006C0065007300200070006C0075007300200066006F007200740073000A006100750072006F006E007400200072006100690073006F006E00200064006500200076006F0075007300200021000E000300010000000E00000004000000420061007400740065007A0020006400650020006E006F006D006200720065007500780020006D006F006E00730074006500720073000A0065007400200076006F00750073002000640065007600690065006E006400720065007A002000760065007200790020007300740072006F006E006700200021000E000300010000000000"
+    },
+    "7": {
+      "text": "Je sais que vous\npouvez le faire !<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>See you !<C:0003,0001,>",
+      "tokenized_text": "Je sais que vous\npouvez le faire !<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>See you !<C:0003,0001,>",
+      "original_text": "Je sais que vous\npouvez le faire !<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>See you !<C:0003,0001,>",
+      "original_tokenized_text": "Je sais que vous\npouvez le faire !<C:0003,0001,><C:0000,0004,><C:0001,0004,><C:0001,0001,>See you !<C:0003,0001,>",
+      "raw_full_hex": "4A006500200073006100690073002000710075006500200076006F00750073000A0070006F007500760065007A0020006C006500200066006100690072006500200021000E000300010000000E000000040000000E000100040000000E00010001000000530065006500200079006F007500200021000E000300010000000000"
+    }
+  }
+}

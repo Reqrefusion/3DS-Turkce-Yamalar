@@ -1,0 +1,46 @@
+{
+  "0365.msbt": {
+    "0": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "1": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004D006100720069006F0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Estava a ficar preocupada, por isso\nvim ver se estava tudo bem.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Estava a ficar preocupada, por isso\nvim ver se estava tudo bem.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Estava a ficar preocupada, por isso\nvim ver se estava tudo bem.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Estava a ficar preocupada, por isso\nvim ver se estava tudo bem.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004500730074006100760061002000610020006600690063006100720020007000720065006F006300750070006100640061002C00200070006F00720020006900730073006F000A00760069006D002000760065007200200073006500200065007300740061007600610020007400750064006F002000620065006D002E000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0001,0004,>Uau!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Uau!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Uau!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Uau!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000055006100750021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Abriste a entrada...\nVejamos o que nos espera...<C:0003,0001,><C:0000,0004,>Não vai ser fácil para o Bowser\nencontrar-nos, neste lugar tão remoto.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Abriste a entrada...\nVejamos o que nos espera...<C:0003,0001,><C:0000,0004,>Não vai ser fácil para o Bowser\nencontrar-nos, neste lugar tão remoto.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Abriste a entrada...\nVejamos o que nos espera...<C:0003,0001,><C:0000,0004,>Não vai ser fácil para o Bowser\nencontrar-nos, neste lugar tão remoto.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Abriste a entrada...\nVejamos o que nos espera...<C:0003,0001,><C:0000,0004,>Não vai ser fácil para o Bowser\nencontrar-nos, neste lugar tão remoto.<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000410062007200690073007400650020006100200065006E00740072006100640061002E002E002E000A00560065006A0061006D006F00730020006F00200071007500650020006E006F00730020006500730070006500720061002E002E002E000E000300010000000E000000040000004E00E3006F002000760061006900200073006500720020006600E100630069006C002000700061007200610020006F00200042006F0077007300650072000A0065006E0063006F006E0074007200610072002D006E006F0073002C0020006E00650073007400650020006C00750067006100720020007400E3006F002000720065006D006F0074006F002E000E000300010000000000"
+    },
+    "5": {
+      "text": "Bom... <C:0003,0000,0A00> Sabe-se lá o\nque nos espera...<C:0003,0001,><C:0000,0004,>Talvez seja melhor <C:0000,0003,2C65FFFF>gravar o jogo\n<C:0000,0003,000000FF>por precaução.<C:0003,0001,>",
+      "tokenized_text": "Bom... <C:0003,0000,0A00> Sabe-se lá o\nque nos espera...<C:0003,0001,><C:0000,0004,>Talvez seja melhor <C:0000,0003,2C65FFFF>gravar o jogo\n<C:0000,0003,000000FF>por precaução.<C:0003,0001,>",
+      "original_text": "Bom... <C:0003,0000,0A00> Sabe-se lá o\nque nos espera...<C:0003,0001,><C:0000,0004,>Talvez seja melhor <C:0000,0003,2C65FFFF>gravar o jogo\n<C:0000,0003,000000FF>por precaução.<C:0003,0001,>",
+      "original_tokenized_text": "Bom... <C:0003,0000,0A00> Sabe-se lá o\nque nos espera...<C:0003,0001,><C:0000,0004,>Talvez seja melhor <C:0000,0003,2C65FFFF>gravar o jogo\n<C:0000,0003,000000FF>por precaução.<C:0003,0001,>",
+      "raw_full_hex": "42006F006D002E002E002E0020000E000300000002000A00200053006100620065002D007300650020006C00E10020006F000A0071007500650020006E006F00730020006500730070006500720061002E002E002E000E000300010000000E00000004000000540061006C00760065007A002000730065006A00610020006D0065006C0068006F00720020000E000000030004002C65FFFF67007200610076006100720020006F0020006A006F0067006F000A000E00000003000400000000FF70006F0072002000700072006500630061007500E700E3006F002E000E000300010000000000"
+    }
+  }
+}

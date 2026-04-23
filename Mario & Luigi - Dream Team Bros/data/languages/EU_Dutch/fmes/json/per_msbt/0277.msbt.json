@@ -1,0 +1,417 @@
+{
+  "0277.msbt": {
+    "0": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>WACHT!<C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>WACHT!<C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>WACHT!<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>WACHT!<C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E000100040000005700410043004800540021000E0000000200020064000000"
+    },
+    "1": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Wuufff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Wuufff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Wuufff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Wuufff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "raw_full_hex": "0E0000000200020064000E000100040000004800610061007200660066002E002E002E0020005700750075006600660066002E002E002E000E0000000200020064000E0003000000020028000000"
+    },
+    "2": {
+      "text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif <C:0000,0003,000000FF>heeft\nme gestuurd...<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif <C:0000,0003,000000FF>heeft\nme gestuurd...<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif <C:0000,0003,000000FF>heeft\nme gestuurd...<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif <C:0000,0003,000000FF>heeft\nme gestuurd...<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000000E000000030004002C65FFFF42006900670020004D006100730073006900660020000E00000003000400000000FF680065006500660074000A006D0065002000670065007300740075007500720064002E002E002E000E000300010000000E0000000200020064000000"
+    },
+    "3": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Hij is onze\nscheidsrechter!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hij is onze\nscheidsrechter!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Hij is onze\nscheidsrechter!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hij is onze\nscheidsrechter!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E00010004000000480069006A0020006900730020006F006E007A0065000A007300630068006500690064007300720065006300680074006500720021000E000300010000000E0000000200020064000000"
+    },
+    "4": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Hallo... Ja?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hallo... Ja?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Hallo... Ja?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hallo... Ja?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E00010004000000480061006C006C006F002E002E002E0020004A0061003F000A000E000000030004002C65FFFF42006900670020004D00610073007300690066000E00000003000400000000FF3F000E000300010000000E0000000200020064000000"
+    },
+    "5": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Er zijn speciale regels voor het\nvechten tegen Hooraws, zeg je?<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Er zijn speciale regels voor het\nvechten tegen Hooraws, zeg je?<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Er zijn speciale regels voor het\nvechten tegen Hooraws, zeg je?<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Er zijn speciale regels voor het\nvechten tegen Hooraws, zeg je?<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000004500720020007A0069006A006E0020007300700065006300690061006C006500200072006500670065006C007300200076006F006F00720020006800650074000A007600650063006800740065006E00200074006500670065006E00200048006F006F0072006100770073002C0020007A006500670020006A0065003F000E000300010000000E0000000200020064000000"
+    },
+    "6": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>...Dat heeft Big Massif gezegd.<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>...Dat heeft Big Massif gezegd.<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>...Dat heeft Big Massif gezegd.<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>...Dat heeft Big Massif gezegd.<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000002E002E002E00440061007400200068006500650066007400200042006900670020004D00610073007300690066002000670065007A006500670064002E000E000300010000000E0000000200020064000000"
+    },
+    "7": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "8": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "9": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "10": {
+      "text": "<C:0001,0004,>Het begint!\nGevecht <C:0004,0000,000001000300> van de...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Het begint!\nGevecht <C:0004,0000,000001000300> van de...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Het begint!\nGevecht <C:0004,0000,000001000300> van de...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Het begint!\nGevecht <C:0004,0000,000001000300> van de...<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000480065007400200062006500670069006E00740021000A00470065007600650063006800740020000E000400000006000000010003002000760061006E002000640065002E002E002E000E000300010000000000"
+    },
+    "11": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E000100040000005300500049004500520053005400520049004A00440021000E000300010000000E0000000200020064000000"
+    },
+    "12": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Jullie tegenstander\nis Heavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Jullie tegenstander\nis Heavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Jullie tegenstander\nis Heavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Jullie tegenstander\nis Heavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000004A0075006C006C0069006500200074006500670065006E007300740061006E006400650072000A006900730020004800650061007600790020005A0065007300740021000E000300010000000E0000000200020064000000"
+    },
+    "13": {
+      "text": "<C:0001,0004,>De extra regel in\ndeze ronde is:<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>De extra regel in\ndeze ronde is:<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>De extra regel in\ndeze ronde is:<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>De extra regel in\ndeze ronde is:<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000044006500200065007800740072006100200072006500670065006C00200069006E000A00640065007A006500200072006F006E00640065002000690073003A000E000300010000000000"
+    },
+    "14": {
+      "text": "<C:0001,0004,>DAT is dus het extraatje\nin dit gevecht!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>DAT is dus het extraatje\nin dit gevecht!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>DAT is dus het extraatje\nin dit gevecht!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>DAT is dus het extraatje\nin dit gevecht!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000044004100540020006900730020006400750073002000680065007400200065007800740072006100610074006A0065000A0069006E0020006400690074002000670065007600650063006800740021000E000300010000000000"
+    },
+    "15": {
+      "text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win binnen 3 beurten!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win binnen 3 beurten!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win binnen 3 beurten!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win binnen 3 beurten!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E000100040000000E000000030004002C65FFFF570069006E002000620069006E006E0065006E002000330020006200650075007200740065006E0021000E00000003000400000000FF0E000000030004002C65FFFF0E000300010000000E00000003000400000000FF0000"
+    },
+    "16": {
+      "text": "<C:0001,0004,>Jullie krijgen maar drie\nbeurten om aan te vallen.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0001,0004,>Jullie krijgen maar drie\nbeurten om aan te vallen.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0001,0004,>Jullie krijgen maar drie\nbeurten om aan te vallen.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0001,0004,>Jullie krijgen maar drie\nbeurten om aan te vallen.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E000100040000004A0075006C006C006900650020006B00720069006A00670065006E0020006D00610061007200200064007200690065000A006200650075007200740065006E0020006F006D002000610061006E002000740065002000760061006C006C0065006E002E000E000000030004002C65FFFF0E000300010000000E00000003000400000000FF0000"
+    },
+    "17": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Je moet het gevecht winnen\nin die drie beurten.<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Je moet het gevecht winnen\nin die drie beurten.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Je moet het gevecht winnen\nin die drie beurten.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Je moet het gevecht winnen\nin die drie beurten.<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004A00650020006D006F00650074002000680065007400200067006500760065006300680074002000770069006E006E0065006E000A0069006E0020006400690065002000640072006900650020006200650075007200740065006E002E000E000300010000000E00000003000400000000FF0000"
+    },
+    "18": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>En je moet ook alle kleinere\nvijanden verslaan!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>En je moet ook alle kleinere\nvijanden verslaan!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>En je moet ook alle kleinere\nvijanden verslaan!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>En je moet ook alle kleinere\nvijanden verslaan!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E0001000400000045006E0020006A00650020006D006F006500740020006F006F006B00200061006C006C00650020006B006C00650069006E006500720065000A00760069006A0061006E00640065006E00200076006500720073006C00610061006E0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "19": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "20": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "21": {
+      "text": "<C:0001,0004,>Laat gevecht <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Laat gevecht <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Laat gevecht <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Laat gevecht <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004C006100610074002000670065007600650063006800740020000E000400000006000000010003002E002E002E000E000300010000000000"
+    },
+    "22": {
+      "text": "<C:0001,0004,>Nou, wat wordt het?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Vechten!\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Wat zijn de regels?\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>We komen straks terug.",
+      "tokenized_text": "<C:0001,0004,>Nou, wat wordt het?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Vechten!\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Wat zijn de regels?\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>We komen straks terug.",
+      "original_text": "<C:0001,0004,>Nou, wat wordt het?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Vechten!\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Wat zijn de regels?\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>We komen straks terug.",
+      "original_tokenized_text": "<C:0001,0004,>Nou, wat wordt het?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Vechten!\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Wat zijn de regels?\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>We komen straks terug.",
+      "raw_full_hex": "0E000100040000004E006F0075002C002000770061007400200077006F0072006400740020006800650074003F000E0003000000020014000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF5600650063006800740065006E0021000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF57006100740020007A0069006A006E00200064006500200072006500670065006C0073003F000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF5700650020006B006F006D0065006E00200073007400720061006B0073002000740065007200750067002E000000"
+    },
+    "23": {
+      "text": "<C:0001,0004,>Aan de slag! Ik ben DOL\nop een partijtje knokken!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Aan de slag! Ik ben DOL\nop een partijtje knokken!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Aan de slag! Ik ben DOL\nop een partijtje knokken!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Aan de slag! Ik ben DOL\nop een partijtje knokken!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000410061006E00200064006500200073006C00610067002100200049006B002000620065006E00200044004F004C000A006F0070002000650065006E002000700061007200740069006A0074006A00650020006B006E006F006B006B0065006E0021000E000300010000000000"
+    },
+    "24": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>BEGINNEN!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEGINNEN!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>BEGINNEN!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEGINNEN!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E0001000400000042004500470049004E004E0045004E0021000E000300010000000E0000000200020064000000"
+    },
+    "25": {
+      "text": "<C:0001,0004,>Zorg dat je goed\nvoorbereid bent!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Zorg dat je goed\nvoorbereid bent!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Zorg dat je goed\nvoorbereid bent!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Zorg dat je goed\nvoorbereid bent!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005A006F0072006700200064006100740020006A006500200067006F00650064000A0076006F006F0072006200650072006500690064002000620065006E00740021000E000300010000000000"
+    },
+    "26": {
+      "text": "<C:0001,0004,>Ga nog wat trainen en kom maar\nterug als je sterker bent!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ga nog wat trainen en kom maar\nterug als je sterker bent!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ga nog wat trainen en kom maar\nterug als je sterker bent!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ga nog wat trainen en kom maar\nterug als je sterker bent!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004700610020006E006F0067002000770061007400200074007200610069006E0065006E00200065006E0020006B006F006D0020006D006100610072000A0074006500720075006700200061006C00730020006A006500200073007400650072006B00650072002000620065006E00740021000E000300010000000000"
+    },
+    "27": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "28": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "29": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "30": {
+      "text": "<C:0001,0004,>Petje af!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Petje af!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Petje af!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Petje af!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005000650074006A00650020006100660021000E000300010000000000"
+    },
+    "31": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "32": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "33": {
+      "text": "<C:0001,0004,>Nou, tot straks!\nBlijf trainen!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Nou, tot straks!\nBlijf trainen!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Nou, tot straks!\nBlijf trainen!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Nou, tot straks!\nBlijf trainen!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E006F0075002C00200074006F007400200073007400720061006B00730021000A0042006C0069006A006600200074007200610069006E0065006E0021000E000300010000000000"
+    },
+    "34": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "35": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "36": {
+      "text": "<C:0001,0004,>Gefeliciteerd hoor! Jullie\nhebben ze alle vier verslagen!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Gefeliciteerd hoor! Jullie\nhebben ze alle vier verslagen!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Gefeliciteerd hoor! Jullie\nhebben ze alle vier verslagen!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Gefeliciteerd hoor! Jullie\nhebben ze alle vier verslagen!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000047006500660065006C0069006300690074006500650072006400200068006F006F007200210020004A0075006C006C00690065000A00680065006200620065006E0020007A006500200061006C006C00650020007600690065007200200076006500720073006C006100670065006E0021000E000300010000000000"
+    },
+    "37": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "38": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "39": {
+      "text": "<C:0001,0004,>Keer alsjeblieft terug naar het\ntoeristencentrum van dromenland.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Keer alsjeblieft terug naar het\ntoeristencentrum van dromenland.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Keer alsjeblieft terug naar het\ntoeristencentrum van dromenland.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Keer alsjeblieft terug naar het\ntoeristencentrum van dromenland.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004B00650065007200200061006C0073006A00650062006C00690065006600740020007400650072007500670020006E0061006100720020006800650074000A0074006F006500720069007300740065006E00630065006E007400720075006D002000760061006E002000640072006F006D0065006E006C0061006E0064002E000E000300010000000000"
+    },
+    "40": {
+      "text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> zal <C:0000,0003,2C65FFFF><C:0000,0003,000000FF>jullie\ndaar ontmoeten.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> zal <C:0000,0003,2C65FFFF><C:0000,0003,000000FF>jullie\ndaar ontmoeten.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> zal <C:0000,0003,2C65FFFF><C:0000,0003,000000FF>jullie\ndaar ontmoeten.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> zal <C:0000,0003,2C65FFFF><C:0000,0003,000000FF>jullie\ndaar ontmoeten.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000000E000000030004002C65FFFF42006900670020004D00610073007300690066000E00000003000400000000FF20007A0061006C0020000E000000030004002C65FFFF0E00000003000400000000FF6A0075006C006C00690065000A00640061006100720020006F006E0074006D006F006500740065006E002E000E000300010000000000"
+    },
+    "41": {
+      "text": "<C:0001,0004,>O jaaa! Tijd om te knokken!\nS-S-S-SPIERSTRIJD!",
+      "tokenized_text": "<C:0001,0004,>O jaaa! Tijd om te knokken!\nS-S-S-SPIERSTRIJD!",
+      "original_text": "<C:0001,0004,>O jaaa! Tijd om te knokken!\nS-S-S-SPIERSTRIJD!",
+      "original_tokenized_text": "<C:0001,0004,>O jaaa! Tijd om te knokken!\nS-S-S-SPIERSTRIJD!",
+      "raw_full_hex": "0E000100040000004F0020006A0061006100610021002000540069006A00640020006F006D0020007400650020006B006E006F006B006B0065006E0021000A0053002D0053002D0053002D005300500049004500520053005400520049004A00440021000000"
+    },
+    "42": {
+      "text": "<C:0001,0004,>Dit wordt LEUK!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Dit wordt LEUK!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Dit wordt LEUK!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Dit wordt LEUK!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000440069007400200077006F0072006400740020004C00450055004B0021000E000300010000000000"
+    },
+    "43": {
+      "text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "original_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "raw_full_hex": "0E000100040000005300700069006500720073007400720069006A00640021000E000300000002000A000000"
+    },
+    "44": {
+      "text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "original_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0001,0004,>Spierstrijd!<C:0003,0000,0A00>",
+      "raw_full_hex": "0E000100040000005300700069006500720073007400720069006A00640021000E000300000002000A000000"
+    },
+    "45": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "raw_full_hex": "0E0000000200020096000E000100040000005300500049004500520053005400520049004A00440021000E0000000200020064000E000300000002000A000000"
+    },
+    "46": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>SPIERSTRIJD!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "raw_full_hex": "0E0000000200020096000E000100040000005300500049004500520053005400520049004A00440021000E0000000200020064000E000300000002000A000000"
+    },
+    "47": {
+      "text": "<C:0001,0004,>S! P! I! E! R! S! T! R! IJ! D!\nOké! Kom OP dan!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>S! P! I! E! R! S! T! R! IJ! D!\nOké! Kom OP dan!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>S! P! I! E! R! S! T! R! IJ! D!\nOké! Kom OP dan!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>S! P! I! E! R! S! T! R! IJ! D!\nOké! Kom OP dan!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000053002100200050002100200049002100200045002100200052002100200053002100200054002100200052002100200049004A0021002000440021000A004F006B00E900210020004B006F006D0020004F0050002000640061006E0021000E000300010000000000"
+    },
+    "48": {
+      "text": "<C:0001,0004,>Hé, hallo!\nIk ben Heavy Zest!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Hé, hallo!\nIk ben Heavy Zest!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Hé, hallo!\nIk ben Heavy Zest!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Hé, hallo!\nIk ben Heavy Zest!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004800E9002C002000680061006C006C006F0021000A0049006B002000620065006E0020004800650061007600790020005A0065007300740021000E000300010000000000"
+    },
+    "49": {
+      "text": "<C:0001,0004,>Spierstrijd! Zijn\njullie er klaar voor?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Spierstrijd! Zijn\njullie er klaar voor?<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Spierstrijd! Zijn\njullie er klaar voor?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Spierstrijd! Zijn\njullie er klaar voor?<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005300700069006500720073007400720069006A006400210020005A0069006A006E000A006A0075006C006C006900650020006500720020006B006C00610061007200200076006F006F0072003F000E000300010000000000"
+    },
+    "50": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "51": {
+      "text": "<C:0001,0004,>Hebben jullie me daar even\nmooi te grazen genomen!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Hebben jullie me daar even\nmooi te grazen genomen!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Hebben jullie me daar even\nmooi te grazen genomen!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Hebben jullie me daar even\nmooi te grazen genomen!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000480065006200620065006E0020006A0075006C006C006900650020006D0065002000640061006100720020006500760065006E000A006D006F006F00690020007400650020006700720061007A0065006E002000670065006E006F006D0065006E0021000E000300010000000000"
+    },
+    "52": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>DE WINNAARS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> EN LUIGI!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>DE WINNAARS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> EN LUIGI!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>DE WINNAARS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> EN LUIGI!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>DE WINNAARS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> EN LUIGI!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E00010004000000440045002000570049004E004E004100410052005300210020000E000300000002000A004D004100520049004F000E000300000002000A00200045004E0020004C00550049004700490021000E000300010000000E0000000200020064000000"
+    },
+    "53": {
+      "text": "<C:0001,0004,>Nou, daar gaan we...\nHup, <C:0003,0000,0500>hup, <C:0003,0000,0500>hup, <C:0003,0000,0500>huuup!<C:0003,0001,><C:0000,0004,>Wat er ook gebeurt,\ndit is de laatste! <C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Nou, daar gaan we...\nHup, <C:0003,0000,0500>hup, <C:0003,0000,0500>hup, <C:0003,0000,0500>huuup!<C:0003,0001,><C:0000,0004,>Wat er ook gebeurt,\ndit is de laatste! <C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Nou, daar gaan we...\nHup, <C:0003,0000,0500>hup, <C:0003,0000,0500>hup, <C:0003,0000,0500>huuup!<C:0003,0001,><C:0000,0004,>Wat er ook gebeurt,\ndit is de laatste! <C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Nou, daar gaan we...\nHup, <C:0003,0000,0500>hup, <C:0003,0000,0500>hup, <C:0003,0000,0500>huuup!<C:0003,0001,><C:0000,0004,>Wat er ook gebeurt,\ndit is de laatste! <C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E006F0075002C002000640061006100720020006700610061006E002000770065002E002E002E000A004800750070002C0020000E0003000000020005006800750070002C0020000E0003000000020005006800750070002C0020000E0003000000020005006800750075007500700021000E000300010000000E0000000400000057006100740020006500720020006F006F006B00200067006500620065007500720074002C000A0064006900740020006900730020006400650020006C00610061007400730074006500210020000E000300010000000000"
+    },
+    "54": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "55": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "56": {
+      "text": "<C:0001,0004,>Hé, hallo weer!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Hé, hallo weer!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Hé, hallo weer!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Hé, hallo weer!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004800E9002C002000680061006C006C006F002000770065006500720021000E000300010000000000"
+    },
+    "57": {
+      "text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>Je hebt een <C:0000,0003,00EAFFFF>Hooraw-medaille<C:0000,0003,FFFFFFFF> verdiend!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "tokenized_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>Je hebt een <C:0000,0003,00EAFFFF>Hooraw-medaille<C:0000,0003,FFFFFFFF> verdiend!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "original_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>Je hebt een <C:0000,0003,00EAFFFF>Hooraw-medaille<C:0000,0003,FFFFFFFF> verdiend!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "original_tokenized_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>Je hebt een <C:0000,0003,00EAFFFF>Hooraw-medaille<C:0000,0003,FFFFFFFF> verdiend!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "raw_full_hex": "0E00000003000400FFFFFFFF0E000700000000000E000100040000000E000100010000004A006500200068006500620074002000650065006E0020000E0000000300040000EAFFFF48006F006F007200610077002D006D0065006400610069006C006C0065000E00000003000400FFFFFFFF20007600650072006400690065006E00640021000E000300000002001E000E000300010000000E00000003000400FFFFFFFF0000"
+    },
+    "58": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

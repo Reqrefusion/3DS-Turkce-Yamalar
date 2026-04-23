@@ -1,0 +1,102 @@
+{
+  "0688.msbt": {
+    "0": {
+      "text": "<C:0001,0001,><C:0001,0004,>RRRR<C:0003,0000,0A00> RRRR!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>RRRR<C:0003,0000,0A00> RRRR!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>RRRR<C:0003,0000,0A00> RRRR!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>RRRR<C:0003,0000,0A00> RRRR!",
+      "raw_full_hex": "0E000100010000000E0001000400000052005200520052000E000300000002000A002000520052005200520021000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>RRRR!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>RRRR!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>RRRR!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>RRRR!",
+      "raw_full_hex": "0E000100010000000E00010004000000520052005200520021000000"
+    },
+    "2": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>RRRAAARRRAA!<C:0000,0002,6400>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>RRRAAARRRAA!<C:0000,0002,6400>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>RRRAAARRRAA!<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>RRRAAARRRAA!<C:0000,0002,6400>",
+      "raw_full_hex": "0E000700000000000E000100010000000E000100040000000E0000000200020096005200520052004100410041005200520052004100410021000E0000000200020064000000"
+    },
+    "3": {
+      "text": "Boa!<C:0003,0000,0A00>\nConseguimos!<C:0003,0001,>",
+      "tokenized_text": "Boa!<C:0003,0000,0A00>\nConseguimos!<C:0003,0001,>",
+      "original_text": "Boa!<C:0003,0000,0A00>\nConseguimos!<C:0003,0001,>",
+      "original_tokenized_text": "Boa!<C:0003,0000,0A00>\nConseguimos!<C:0003,0001,>",
+      "raw_full_hex": "42006F00610021000E000300000002000A000A0043006F006E00730065006700750069006D006F00730021000E000300010000000000"
+    },
+    "4": {
+      "text": "Derrotámos\no Conde Antasma!<C:0003,0001,>",
+      "tokenized_text": "Derrotámos\no Conde Antasma!<C:0003,0001,>",
+      "original_text": "Derrotámos\no Conde Antasma!<C:0003,0001,>",
+      "original_tokenized_text": "Derrotámos\no Conde Antasma!<C:0003,0001,>",
+      "raw_full_hex": "44006500720072006F007400E1006D006F0073000A006F00200043006F006E0064006500200041006E007400610073006D00610021000E000300010000000000"
+    },
+    "5": {
+      "text": "Sim,<C:0003,0000,0500> finalmente...<C:0003,0000,0A00>\nA vitória é nossa!<C:0003,0001,>",
+      "tokenized_text": "Sim,<C:0003,0000,0500> finalmente...<C:0003,0000,0A00>\nA vitória é nossa!<C:0003,0001,>",
+      "original_text": "Sim,<C:0003,0000,0500> finalmente...<C:0003,0000,0A00>\nA vitória é nossa!<C:0003,0001,>",
+      "original_tokenized_text": "Sim,<C:0003,0000,0500> finalmente...<C:0003,0000,0A00>\nA vitória é nossa!<C:0003,0001,>",
+      "raw_full_hex": "530069006D002C000E0003000000020005002000660069006E0061006C006D0065006E00740065002E002E002E000E000300000002000A000A0041002000760069007400F3007200690061002000E90020006E006F0073007300610021000E000300010000000000"
+    },
+    "6": {
+      "text": "Mario... Luigi...\nFico-vos agradecido!<C:0003,0001,>",
+      "tokenized_text": "Mario... Luigi...\nFico-vos agradecido!<C:0003,0001,>",
+      "original_text": "Mario... Luigi...\nFico-vos agradecido!<C:0003,0001,>",
+      "original_tokenized_text": "Mario... Luigi...\nFico-vos agradecido!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E002E002E0020004C0075006900670069002E002E002E000A004600690063006F002D0076006F00730020006100670072006100640065006300690064006F0021000E000300010000000000"
+    },
+    "7": {
+      "text": "Agora temos de nos concentrar!\nTemos de acabar com o Bowser!<C:0003,0001,>",
+      "tokenized_text": "Agora temos de nos concentrar!\nTemos de acabar com o Bowser!<C:0003,0001,>",
+      "original_text": "Agora temos de nos concentrar!\nTemos de acabar com o Bowser!<C:0003,0001,>",
+      "original_tokenized_text": "Agora temos de nos concentrar!\nTemos de acabar com o Bowser!<C:0003,0001,>",
+      "raw_full_hex": "410067006F00720061002000740065006D006F00730020006400650020006E006F007300200063006F006E00630065006E00740072006100720021000A00540065006D006F0073002000640065002000610063006100620061007200200063006F006D0020006F00200042006F00770073006500720021000E000300010000000000"
+    },
+    "8": {
+      "text": "Calma, Oniriberto!\nNão faças esforços!<C:0003,0001,>",
+      "tokenized_text": "Calma, Oniriberto!\nNão faças esforços!<C:0003,0001,>",
+      "original_text": "Calma, Oniriberto!\nNão faças esforços!<C:0003,0001,>",
+      "original_tokenized_text": "Calma, Oniriberto!\nNão faças esforços!<C:0003,0001,>",
+      "raw_full_hex": "430061006C006D0061002C0020004F006E0069007200690062006500720074006F0021000A004E00E3006F00200066006100E7006100730020006500730066006F007200E7006F00730021000E000300010000000000"
+    },
+    "9": {
+      "text": "Está tudo bem.\nEu estou bem.<C:0003,0001,>",
+      "tokenized_text": "Está tudo bem.\nEu estou bem.<C:0003,0001,>",
+      "original_text": "Está tudo bem.\nEu estou bem.<C:0003,0001,>",
+      "original_tokenized_text": "Está tudo bem.\nEu estou bem.<C:0003,0001,>",
+      "raw_full_hex": "450073007400E10020007400750064006F002000620065006D002E000A004500750020006500730074006F0075002000620065006D002E000E000300010000000000"
+    },
+    "10": {
+      "text": "Mario. Luigi.\nVamos continuar!<C:0003,0001,>",
+      "tokenized_text": "Mario. Luigi.\nVamos continuar!<C:0003,0001,>",
+      "original_text": "Mario. Luigi.\nVamos continuar!<C:0003,0001,>",
+      "original_tokenized_text": "Mario. Luigi.\nVamos continuar!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E0020004C0075006900670069002E000A00560061006D006F007300200063006F006E00740069006E0075006100720021000E000300010000000000"
+    },
+    "11": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "12": {
+      "text": "Mario! Luigi! Tenho a certeza\nde que este é MESMO o combate final!<C:0003,0001,>",
+      "tokenized_text": "Mario! Luigi! Tenho a certeza\nde que este é MESMO o combate final!<C:0003,0001,>",
+      "original_text": "Mario! Luigi! Tenho a certeza\nde que este é MESMO o combate final!<C:0003,0001,>",
+      "original_tokenized_text": "Mario! Luigi! Tenho a certeza\nde que este é MESMO o combate final!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F00210020004C00750069006700690021002000540065006E0068006F00200061002000630065007200740065007A0061000A00640065002000710075006500200065007300740065002000E90020004D00450053004D004F0020006F00200063006F006D0062006100740065002000660069006E0061006C0021000E000300010000000000"
+    },
+    "13": {
+      "text": "O Bowser e os lacaios\nestão no topo do castelo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Temos de nos concentrar\ne ir atrás deles!<C:0003,0001,>",
+      "tokenized_text": "O Bowser e os lacaios\nestão no topo do castelo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Temos de nos concentrar\ne ir atrás deles!<C:0003,0001,>",
+      "original_text": "O Bowser e os lacaios\nestão no topo do castelo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Temos de nos concentrar\ne ir atrás deles!<C:0003,0001,>",
+      "original_tokenized_text": "O Bowser e os lacaios\nestão no topo do castelo.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Temos de nos concentrar\ne ir atrás deles!<C:0003,0001,>",
+      "raw_full_hex": "4F00200042006F0077007300650072002000650020006F00730020006C0061006300610069006F0073000A00650073007400E3006F0020006E006F00200074006F0070006F00200064006F002000630061007300740065006C006F002E000E000300010000000E000000040000000E000100010000000E00010004000000540065006D006F00730020006400650020006E006F007300200063006F006E00630065006E0074007200610072000A0065002000690072002000610074007200E10073002000640065006C006500730021000E000300010000000000"
+    }
+  }
+}

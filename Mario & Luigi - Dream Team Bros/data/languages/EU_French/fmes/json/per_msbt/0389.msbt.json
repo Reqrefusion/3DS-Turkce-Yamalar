@@ -1,0 +1,228 @@
+{
+  "0389.msbt": {
+    "0": {
+      "text": "<C:0001,0004,>OK ! Prêt !<C:0003,0001,><C:0000,0004,>Montrez-moi ces\ncinq belles pièces !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>OK ! Prêt !<C:0003,0001,><C:0000,0004,>Montrez-moi ces\ncinq belles pièces !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>OK ! Prêt !<C:0003,0001,><C:0000,0004,>Montrez-moi ces\ncinq belles pièces !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>OK ! Prêt !<C:0003,0001,><C:0000,0004,>Montrez-moi ces\ncinq belles pièces !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004F004B0020002100200050007200EA007400200021000E000300010000000E000000040000004D006F006E007400720065007A002D006D006F00690020006300650073000A00630069006E0071002000620065006C006C0065007300200070006900E800630065007300200021000E000300010000000000"
+    },
+    "1": {
+      "text": "<C:0001,0004,>C'est quelque chose !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>C'est quelque chose !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>C'est quelque chose !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>C'est quelque chose !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004300270065007300740020007100750065006C007100750065002000630068006F0073006500200021000E000300010000000000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Impressionnant...<C:0003,0001,><C:0000,0004,>Courir çà et là en portant tout ce\nbazar ne doit pas être évident !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Impressionnant...<C:0003,0001,><C:0000,0004,>Courir çà et là en portant tout ce\nbazar ne doit pas être évident !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Impressionnant...<C:0003,0001,><C:0000,0004,>Courir çà et là en portant tout ce\nbazar ne doit pas être évident !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Impressionnant...<C:0003,0001,><C:0000,0004,>Courir çà et là en portant tout ce\nbazar ne doit pas être évident !<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000049006D007000720065007300730069006F006E006E0061006E0074002E002E002E000E000300010000000E0000000400000043006F0075007200690072002000E700E00020006500740020006C00E000200065006E00200070006F007200740061006E007400200074006F00750074002000630065000A00620061007A006100720020006E006500200064006F006900740020007000610073002000EA007400720065002000E90076006900640065006E007400200021000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0007,0000,><C:0001,0004,><C:0000,0002,9600>HMMM ! HIIIIIN !<C:0000,0002,6400><C:0003,0000,1E00>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0004,><C:0000,0002,9600>HMMM ! HIIIIIN !<C:0000,0002,6400><C:0003,0000,1E00>",
+      "original_text": "<C:0007,0000,><C:0001,0004,><C:0000,0002,9600>HMMM ! HIIIIIN !<C:0000,0002,6400><C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0004,><C:0000,0002,9600>HMMM ! HIIIIIN !<C:0000,0002,6400><C:0003,0000,1E00>",
+      "raw_full_hex": "0E000700000000000E000100040000000E00000002000200960048004D004D004D002000210020004800490049004900490049004E00200021000E0000000200020064000E000300000002001E000000"
+    },
+    "4": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "5": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "6": {
+      "text": "<C:0001,0004,>Bien !<C:0003,0000,0F00><C:0000,0004,>Je vais me retirer un\ninstant, attendez-moi ici !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Bien !<C:0003,0000,0F00><C:0000,0004,>Je vais me retirer un\ninstant, attendez-moi ici !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Bien !<C:0003,0000,0F00><C:0000,0004,>Je vais me retirer un\ninstant, attendez-moi ici !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Bien !<C:0003,0000,0F00><C:0000,0004,>Je vais me retirer un\ninstant, attendez-moi ici !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004200690065006E00200021000E000300000002000F000E000000040000004A0065002000760061006900730020006D00650020007200650074006900720065007200200075006E000A0069006E007300740061006E0074002C00200061007400740065006E00640065007A002D006D006F0069002000690063006900200021000E000300010000000000"
+    },
+    "7": {
+      "text": "<C:0001,0004,>Je suis sérieux !<C:0003,0000,0F00><C:0000,0004,>Ne me suivez pas !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Je suis sérieux !<C:0003,0000,0F00><C:0000,0004,>Ne me suivez pas !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Je suis sérieux !<C:0003,0000,0F00><C:0000,0004,>Ne me suivez pas !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Je suis sérieux !<C:0003,0000,0F00><C:0000,0004,>Ne me suivez pas !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004A0065002000730075006900730020007300E90072006900650075007800200021000E000300000002000F000E000000040000004E00650020006D0065002000730075006900760065007A002000700061007300200021000E000300010000000000"
+    },
+    "8": {
+      "text": "<C:0001,0004,>J'ai besoin de concentration\npour assembler l'ultilit !<C:0003,0001,><C:0000,0004,>Et le regard des\ngens me perturbe...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>J'ai besoin de concentration\npour assembler l'ultilit !<C:0003,0001,><C:0000,0004,>Et le regard des\ngens me perturbe...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>J'ai besoin de concentration\npour assembler l'ultilit !<C:0003,0001,><C:0000,0004,>Et le regard des\ngens me perturbe...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>J'ai besoin de concentration\npour assembler l'ultilit !<C:0003,0001,><C:0000,0004,>Et le regard des\ngens me perturbe...<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004A0027006100690020006200650073006F0069006E00200064006500200063006F006E00630065006E00740072006100740069006F006E000A0070006F0075007200200061007300730065006D0062006C006500720020006C00270075006C00740069006C0069007400200021000E000300010000000E000000040000004500740020006C006500200072006500670061007200640020006400650073000A00670065006E00730020006D0065002000700065007200740075007200620065002E002E002E000E000300010000000000"
+    },
+    "9": {
+      "text": "<C:0001,0004,>Voilà !<C:0003,0000,0A00>\nLe lit est fini !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Voilà !<C:0003,0000,0A00>\nLe lit est fini !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Voilà !<C:0003,0000,0A00>\nLe lit est fini !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Voilà !<C:0003,0000,0A00>\nLe lit est fini !<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000056006F0069006C00E000200021000E000300000002000A000A004C00650020006C006900740020006500730074002000660069006E006900200021000E000300010000000000"
+    },
+    "10": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "11": {
+      "text": "<C:0001,0004,><C:0000,0003,2C65FFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Vous avez obtenu l'<C:0000,0003,00EAFFFF>ultilit <C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Vous avez obtenu l'<C:0000,0003,00EAFFFF>ultilit <C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0004,><C:0000,0003,2C65FFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Vous avez obtenu l'<C:0000,0003,00EAFFFF>ultilit <C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Vous avez obtenu l'<C:0000,0003,00EAFFFF>ultilit <C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100040000000E000000030004002C65FFFF0E000700000000000E00000003000400FFFFFFFF56006F007500730020006100760065007A0020006F006200740065006E00750020006C0027000E0000000300040000EAFFFF75006C00740069006C006900740020000E00000003000400FFFFFFFF21000E000300000002001E000E000300010000000000"
+    },
+    "12": {
+      "text": "<C:0001,0004,>Je ne rêve pas !<C:0003,0000,1400><C:0000,0004,>Nous avons\nenfin l'ultilit !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Je ne rêve pas !<C:0003,0000,1400><C:0000,0004,>Nous avons\nenfin l'ultilit !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Je ne rêve pas !<C:0003,0000,1400><C:0000,0004,>Nous avons\nenfin l'ultilit !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Je ne rêve pas !<C:0003,0000,1400><C:0000,0004,>Nous avons\nenfin l'ultilit !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004A00650020006E00650020007200EA00760065002000700061007300200021000E0003000000020014000E000000040000004E006F00750073002000610076006F006E0073000A0065006E00660069006E0020006C00270075006C00740069006C0069007400200021000E000300010000000000"
+    },
+    "13": {
+      "text": "<C:0001,0004,>Luigi, es-tu prêt à plonger dans les bras\nde Morphée pour rencontrer Protodor ?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Luigi, es-tu prêt à plonger dans les bras\nde Morphée pour rencontrer Protodor ?<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Luigi, es-tu prêt à plonger dans les bras\nde Morphée pour rencontrer Protodor ?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Luigi, es-tu prêt à plonger dans les bras\nde Morphée pour rencontrer Protodor ?<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004C0075006900670069002C002000650073002D0074007500200070007200EA0074002000E000200070006C006F006E006700650072002000640061006E00730020006C0065007300200062007200610073000A006400650020004D006F00720070006800E9006500200070006F00750072002000720065006E0063006F006E0074007200650072002000500072006F0074006F0064006F00720020003F000E000300010000000000"
+    },
+    "14": {
+      "text": "<C:0001,0004,>Excellent !<C:0003,0000,0A00> Alors\nallons le trouver !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Excellent !<C:0003,0000,0A00> Alors\nallons le trouver !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Excellent !<C:0003,0000,0A00> Alors\nallons le trouver !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Excellent !<C:0003,0000,0A00> Alors\nallons le trouver !<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000045007800630065006C006C0065006E007400200021000E000300000002000A00200041006C006F00720073000A0061006C006C006F006E00730020006C0065002000740072006F007500760065007200200021000E000300010000000000"
+    },
+    "15": {
+      "text": "<C:0001,0004,>Stop !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Stop !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Stop !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Stop !<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000530074006F007000200021000E000300010000000000"
+    },
+    "16": {
+      "text": "<C:0001,0004,>Vous voulez utiliser ce lit pour entrer\nen contact avec Protodor ?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Vous voulez utiliser ce lit pour entrer\nen contact avec Protodor ?<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Vous voulez utiliser ce lit pour entrer\nen contact avec Protodor ?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Vous voulez utiliser ce lit pour entrer\nen contact avec Protodor ?<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000056006F0075007300200076006F0075006C0065007A0020007500740069006C00690073006500720020006300650020006C0069007400200070006F0075007200200065006E0074007200650072000A0065006E00200063006F006E007400610063007400200061007600650063002000500072006F0074006F0064006F00720020003F000E000300010000000000"
+    },
+    "17": {
+      "text": "<C:0001,0004,>Ça ne marchera pas ici.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ça ne marchera pas ici.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ça ne marchera pas ici.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ça ne marchera pas ici.<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000C700610020006E00650020006D006100720063006800650072006100200070006100730020006900630069002E000E000300010000000000"
+    },
+    "18": {
+      "text": "<C:0001,0004,>C'est au cœur des bois que vous devez\naller, là où abonde le pouvoir onirique.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>C'est au cœur des bois que vous devez\naller, là où abonde le pouvoir onirique.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>C'est au cœur des bois que vous devez\naller, là où abonde le pouvoir onirique.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>C'est au cœur des bois que vous devez\naller, là où abonde le pouvoir onirique.<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000043002700650073007400200061007500200063005301750072002000640065007300200062006F00690073002000710075006500200076006F0075007300200064006500760065007A000A0061006C006C00650072002C0020006C00E00020006F00F9002000610062006F006E006400650020006C006500200070006F00750076006F006900720020006F006E006900720069007100750065002E000E000300010000000000"
+    },
+    "19": {
+      "text": "<C:0001,0004,>Un fort pouvoir onirique,\nau cœur de la forêt...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Un fort pouvoir onirique,\nau cœur de la forêt...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Un fort pouvoir onirique,\nau cœur de la forêt...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Un fort pouvoir onirique,\nau cœur de la forêt...<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000055006E00200066006F0072007400200070006F00750076006F006900720020006F006E006900720069007100750065002C000A00610075002000630053017500720020006400650020006C006100200066006F007200EA0074002E002E002E000E000300010000000000"
+    },
+    "20": {
+      "text": "<C:0001,0004,>Le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0000,0003,2C65FFFF><C:0000,0003,000000FF><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0000,0003,2C65FFFF><C:0000,0003,000000FF><C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0000,0003,2C65FFFF><C:0000,0003,000000FF><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0000,0003,2C65FFFF><C:0000,0003,000000FF><C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004C0065000E000000030004002C65FFFF2000740065006D0070006C00650020004B006F0075007300730069006E006F00730020000E00000003000400000000FF21000E000000030004002C65FFFF0E00000003000400000000FF0E000300010000000000"
+    },
+    "21": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Cet endroit doit regorger\nde puissance onirique !<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Cet endroit doit regorger\nde puissance onirique !<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Cet endroit doit regorger\nde puissance onirique !<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Cet endroit doit regorger\nde puissance onirique !<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E00010004000000430065007400200065006E00640072006F0069007400200064006F006900740020007200650067006F0072006700650072000A006400650020007000750069007300730061006E006300650020006F006E00690072006900710075006500200021000E000300010000000E00000003000400000000FF0000"
+    },
+    "22": {
+      "text": "<C:0001,0004,>En effet, le<C:0000,0003,2C65FFFF> temple Koussinos<C:0000,0003,000000FF>\ndevrait faire l'affaire !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>En effet, le<C:0000,0003,2C65FFFF> temple Koussinos<C:0000,0003,000000FF>\ndevrait faire l'affaire !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>En effet, le<C:0000,0003,2C65FFFF> temple Koussinos<C:0000,0003,000000FF>\ndevrait faire l'affaire !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>En effet, le<C:0000,0003,2C65FFFF> temple Koussinos<C:0000,0003,000000FF>\ndevrait faire l'affaire !<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000045006E002000650066006600650074002C0020006C0065000E000000030004002C65FFFF2000740065006D0070006C00650020004B006F0075007300730069006E006F0073000E00000003000400000000FF0A00640065007600720061006900740020006600610069007200650020006C0027006100660066006100690072006500200021000E000300010000000000"
+    },
+    "23": {
+      "text": "<C:0001,0004,>Mario ! Luigi !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Mario ! Luigi !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Mario ! Luigi !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Mario ! Luigi !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004D006100720069006F002000210020004C007500690067006900200021000E000300010000000000"
+    },
+    "24": {
+      "text": "<C:0001,0004,>Explorez les bois !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Explorez les bois !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Explorez les bois !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Explorez les bois !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004500780070006C006F00720065007A0020006C0065007300200062006F0069007300200021000E000300010000000000"
+    },
+    "25": {
+      "text": "<C:0001,0004,>Trouvez le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0003,0001,><C:0000,0004,>Nous y installerons l'ultilit et\npénétrerons dans le monde onirique !<C:0003,0001,><C:0000,0004,>Je sens que nous finirons\npar trouver Protodor !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Trouvez le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0003,0001,><C:0000,0004,>Nous y installerons l'ultilit et\npénétrerons dans le monde onirique !<C:0003,0001,><C:0000,0004,>Je sens que nous finirons\npar trouver Protodor !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Trouvez le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0003,0001,><C:0000,0004,>Nous y installerons l'ultilit et\npénétrerons dans le monde onirique !<C:0003,0001,><C:0000,0004,>Je sens que nous finirons\npar trouver Protodor !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Trouvez le<C:0000,0003,2C65FFFF> temple Koussinos <C:0000,0003,000000FF>!<C:0003,0001,><C:0000,0004,>Nous y installerons l'ultilit et\npénétrerons dans le monde onirique !<C:0003,0001,><C:0000,0004,>Je sens que nous finirons\npar trouver Protodor !<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000540072006F007500760065007A0020006C0065000E000000030004002C65FFFF2000740065006D0070006C00650020004B006F0075007300730069006E006F00730020000E00000003000400000000FF21000E000300010000000E000000040000004E006F007500730020007900200069006E007300740061006C006C00650072006F006E00730020006C00270075006C00740069006C00690074002000650074000A007000E9006E00E90074007200650072006F006E0073002000640061006E00730020006C00650020006D006F006E006400650020006F006E00690072006900710075006500200021000E000300010000000E000000040000004A0065002000730065006E007300200071007500650020006E006F00750073002000660069006E00690072006F006E0073000A007000610072002000740072006F0075007600650072002000500072006F0074006F0064006F007200200021000E000300010000000000"
+    },
+    "26": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "27": {
+      "text": "<C:0001,0004,>On dit que le temple est protégé\npar de nombreux pièges.<C:0003,0001,><C:0000,0004,>C'est un dur chemin qui vous attend.<C:0003,0000,0A00>\nMais Liroy est avec vous !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>On dit que le temple est protégé\npar de nombreux pièges.<C:0003,0001,><C:0000,0004,>C'est un dur chemin qui vous attend.<C:0003,0000,0A00>\nMais Liroy est avec vous !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>On dit que le temple est protégé\npar de nombreux pièges.<C:0003,0001,><C:0000,0004,>C'est un dur chemin qui vous attend.<C:0003,0000,0A00>\nMais Liroy est avec vous !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>On dit que le temple est protégé\npar de nombreux pièges.<C:0003,0001,><C:0000,0004,>C'est un dur chemin qui vous attend.<C:0003,0000,0A00>\nMais Liroy est avec vous !<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004F006E002000640069007400200071007500650020006C0065002000740065006D0070006C00650020006500730074002000700072006F007400E9006700E9000A0070006100720020006400650020006E006F006D0062007200650075007800200070006900E8006700650073002E000E000300010000000E0000000400000043002700650073007400200075006E00200064007500720020006300680065006D0069006E002000710075006900200076006F0075007300200061007400740065006E0064002E000E000300000002000A000A004D0061006900730020004C00690072006F007900200065007300740020006100760065006300200076006F0075007300200021000E000300010000000000"
+    },
+    "28": {
+      "text": "<C:0001,0004,>Prenez garde aux bassins\nqui encerclent le temple !<C:0003,0001,><C:0000,0004,>Une mauvaise surprise attend\ncelui qui trouble leurs eaux.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Prenez garde aux bassins\nqui encerclent le temple !<C:0003,0001,><C:0000,0004,>Une mauvaise surprise attend\ncelui qui trouble leurs eaux.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Prenez garde aux bassins\nqui encerclent le temple !<C:0003,0001,><C:0000,0004,>Une mauvaise surprise attend\ncelui qui trouble leurs eaux.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Prenez garde aux bassins\nqui encerclent le temple !<C:0003,0001,><C:0000,0004,>Une mauvaise surprise attend\ncelui qui trouble leurs eaux.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005000720065006E0065007A0020006700610072006400650020006100750078002000620061007300730069006E0073000A00710075006900200065006E0063006500720063006C0065006E00740020006C0065002000740065006D0070006C006500200021000E000300010000000E0000000400000055006E00650020006D006100750076006100690073006500200073007500720070007200690073006500200061007400740065006E0064000A00630065006C007500690020007100750069002000740072006F00750062006C00650020006C006500750072007300200065006100750078002E000E000300010000000000"
+    },
+    "29": {
+      "text": "<C:0001,0004,>Vous avez réussi ! Vous\navez rencontré Protodor !<C:0003,0001,><C:0000,0004,>Félicitations !<C:0003,0000,0A00> Liroy a\ntoujours cru en vous !<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Vous avez réussi ! Vous\navez rencontré Protodor !<C:0003,0001,><C:0000,0004,>Félicitations !<C:0003,0000,0A00> Liroy a\ntoujours cru en vous !<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Vous avez réussi ! Vous\navez rencontré Protodor !<C:0003,0001,><C:0000,0004,>Félicitations !<C:0003,0000,0A00> Liroy a\ntoujours cru en vous !<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Vous avez réussi ! Vous\navez rencontré Protodor !<C:0003,0001,><C:0000,0004,>Félicitations !<C:0003,0000,0A00> Liroy a\ntoujours cru en vous !<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000056006F007500730020006100760065007A0020007200E900750073007300690020002100200056006F00750073000A006100760065007A002000720065006E0063006F006E0074007200E9002000500072006F0074006F0064006F007200200021000E000300010000000E000000040000004600E9006C0069006300690074006100740069006F006E007300200021000E000300000002000A0020004C00690072006F007900200061000A0074006F0075006A006F007500720073002000630072007500200065006E00200076006F0075007300200021000E000300010000000000"
+    },
+    "30": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "31": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

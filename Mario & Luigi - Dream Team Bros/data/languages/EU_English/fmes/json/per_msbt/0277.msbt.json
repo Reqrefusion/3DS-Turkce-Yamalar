@@ -1,0 +1,417 @@
+{
+  "0277.msbt": {
+    "0": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>WAIT UP!<C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>WAIT UP!<C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>WAIT UP!<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>WAIT UP!<C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E00010004000000570041004900540020005500500021000E0000000200020064000000"
+    },
+    "1": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Whafff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Whafff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Whafff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Haarff... Whafff...<C:0000,0002,6400><C:0003,0000,2800>",
+      "raw_full_hex": "0E0000000200020064000E000100040000004800610061007200660066002E002E002E0020005700680061006600660066002E002E002E000E0000000200020064000E0003000000020028000000"
+    },
+    "2": {
+      "text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>\nsent me...<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>\nsent me...<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>\nsent me...<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>\nsent me...<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000000E000000030004002C65FFFF42006900670020004D00610073007300690066000E00000003000400000000FF0A00730065006E00740020006D0065002E002E002E000E000300010000000E0000000200020064000000"
+    },
+    "3": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>This guy's gonna\nbe our referee!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>This guy's gonna\nbe our referee!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>This guy's gonna\nbe our referee!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>This guy's gonna\nbe our referee!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000005400680069007300200067007500790027007300200067006F006E006E0061000A006200650020006F00750072002000720065006600650072006500650021000E000300010000000E0000000200020064000000"
+    },
+    "4": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Hello? Yes?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hello? Yes?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Hello? Yes?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Hello? Yes?\n<C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E00010004000000480065006C006C006F003F0020005900650073003F000A000E000000030004002C65FFFF42006900670020004D00610073007300690066000E00000003000400000000FF3F000E000300010000000E0000000200020064000000"
+    },
+    "5": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Battle conditions versus\nthe Hooraws, you say?<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Battle conditions versus\nthe Hooraws, you say?<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Battle conditions versus\nthe Hooraws, you say?<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Battle conditions versus\nthe Hooraws, you say?<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E0001000400000042006100740074006C006500200063006F006E0064006900740069006F006E00730020007600650072007300750073000A00740068006500200048006F006F0072006100770073002C00200079006F00750020007300610079003F000E000300010000000E0000000200020064000000"
+    },
+    "6": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>...So says Big Massif.<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>...So says Big Massif.<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>...So says Big Massif.<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>...So says Big Massif.<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E000100040000002E002E002E0053006F0020007300610079007300200042006900670020004D00610073007300690066002E000E000300010000000E0000000200020064000000"
+    },
+    "7": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "8": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "9": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "10": {
+      "text": "<C:0001,0004,>Now it begins!\nBattle <C:0004,0000,000001000300> of...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Now it begins!\nBattle <C:0004,0000,000001000300> of...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Now it begins!\nBattle <C:0004,0000,000001000300> of...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Now it begins!\nBattle <C:0004,0000,000001000300> of...<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004E006F007700200069007400200062006500670069006E00730021000A0042006100740074006C00650020000E0004000000060000000100030020006F0066002E002E002E000E000300010000000000"
+    },
+    "11": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>THE BEEF-OFF!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>THE BEEF-OFF!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>THE BEEF-OFF!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>THE BEEF-OFF!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E00010004000000540048004500200042004500450046002D004F004600460021000E000300010000000E0000000200020064000000"
+    },
+    "12": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Your opponent is\nHeavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Your opponent is\nHeavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Your opponent is\nHeavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Your opponent is\nHeavy Zest!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020064000E0001000400000059006F007500720020006F00700070006F006E0065006E0074002000690073000A004800650061007600790020005A0065007300740021000E000300010000000E0000000200020064000000"
+    },
+    "13": {
+      "text": "<C:0001,0004,>For this battle...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>For this battle...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>For this battle...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>For this battle...<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000046006F00720020007400680069007300200062006100740074006C0065002E002E002E000E000300010000000000"
+    },
+    "14": {
+      "text": "<C:0001,0004,>THAT is the extra spice\nadded to the battle!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>THAT is the extra spice\nadded to the battle!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>THAT is the extra spice\nadded to the battle!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>THAT is the extra spice\nadded to the battle!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000540048004100540020006900730020007400680065002000650078007400720061002000730070006900630065000A0061006400640065006400200074006F002000740068006500200062006100740074006C00650021000E000300010000000000"
+    },
+    "15": {
+      "text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win within 3 turns!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win within 3 turns!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win within 3 turns!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Win within 3 turns!<C:0000,0003,000000FF><C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E000100040000000E000000030004002C65FFFF570069006E002000770069007400680069006E002000330020007400750072006E00730021000E00000003000400000000FF0E000000030004002C65FFFF0E000300010000000E00000003000400000000FF0000"
+    },
+    "16": {
+      "text": "<C:0001,0004,>You'll only have three\nattack turns.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0001,0004,>You'll only have three\nattack turns.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0001,0004,>You'll only have three\nattack turns.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0001,0004,>You'll only have three\nattack turns.<C:0000,0003,2C65FFFF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E0001000400000059006F00750027006C006C0020006F006E006C007900200068006100760065002000740068007200650065000A00610074007400610063006B0020007400750072006E0073002E000E000000030004002C65FFFF0E000300010000000E00000003000400000000FF0000"
+    },
+    "17": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>You must win the battle\nusing only those turns.<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>You must win the battle\nusing only those turns.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>You must win the battle\nusing only those turns.<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>You must win the battle\nusing only those turns.<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E0001000400000059006F00750020006D007500730074002000770069006E002000740068006500200062006100740074006C0065000A007500730069006E00670020006F006E006C0079002000740068006F007300650020007400750072006E0073002E000E000300010000000E00000003000400000000FF0000"
+    },
+    "18": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>And you must defeat all of\nthe secondary foes as well!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>And you must defeat all of\nthe secondary foes as well!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>And you must defeat all of\nthe secondary foes as well!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>And you must defeat all of\nthe secondary foes as well!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E0001000400000041006E006400200079006F00750020006D007500730074002000640065006600650061007400200061006C006C0020006F0066000A0074006800650020007300650063006F006E006400610072007900200066006F00650073002000610073002000770065006C006C0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "19": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "20": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "21": {
+      "text": "<C:0001,0004,>Let battle number <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Let battle number <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Let battle number <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Let battle number <C:0004,0000,000001000300>...<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004C0065007400200062006100740074006C00650020006E0075006D0062006500720020000E000400000006000000010003002E002E002E000E000300010000000000"
+    },
+    "22": {
+      "text": "<C:0001,0004,>Well, what will you do?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Start battle\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Hear conditions\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Come back later",
+      "tokenized_text": "<C:0001,0004,>Well, what will you do?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Start battle\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Hear conditions\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Come back later",
+      "original_text": "<C:0001,0004,>Well, what will you do?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Start battle\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Hear conditions\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Come back later",
+      "original_tokenized_text": "<C:0001,0004,>Well, what will you do?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Start battle\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Hear conditions\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Come back later",
+      "raw_full_hex": "0E00010004000000570065006C006C002C00200077006800610074002000770069006C006C00200079006F007500200064006F003F000E0003000000020014000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF53007400610072007400200062006100740074006C0065000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF4800650061007200200063006F006E0064006900740069006F006E0073000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF43006F006D00650020006200610063006B0020006C0061007400650072000000"
+    },
+    "23": {
+      "text": "<C:0001,0004,>Let's get rolling!\nI LOVE a good fight!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Let's get rolling!\nI LOVE a good fight!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Let's get rolling!\nI LOVE a good fight!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Let's get rolling!\nI LOVE a good fight!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004C0065007400270073002000670065007400200072006F006C006C0069006E00670021000A00490020004C004F005600450020006100200067006F006F00640020006600690067006800740021000E000300010000000000"
+    },
+    "24": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>BEGIN!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEGIN!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>BEGIN!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEGIN!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E0001000400000042004500470049004E0021000E000300010000000E0000000200020064000000"
+    },
+    "25": {
+      "text": "<C:0001,0004,>Be sure to come\nwell prepared!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Be sure to come\nwell prepared!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Be sure to come\nwell prepared!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Be sure to come\nwell prepared!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004200650020007300750072006500200074006F00200063006F006D0065000A00770065006C006C0020007000720065007000610072006500640021000E000300010000000000"
+    },
+    "26": {
+      "text": "<C:0001,0004,>Do more training, and come\nback when you're buffer!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Do more training, and come\nback when you're buffer!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Do more training, and come\nback when you're buffer!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Do more training, and come\nback when you're buffer!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000044006F0020006D006F0072006500200074007200610069006E0069006E0067002C00200061006E006400200063006F006D0065000A006200610063006B0020007700680065006E00200079006F007500270072006500200062007500660066006500720021000E000300010000000000"
+    },
+    "27": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "28": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "29": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "30": {
+      "text": "<C:0001,0004,>Congrats!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Congrats!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Congrats!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Congrats!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000043006F006E006700720061007400730021000E000300010000000000"
+    },
+    "31": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "32": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "33": {
+      "text": "<C:0001,0004,>Well, see you later!\nKeep training!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Well, see you later!\nKeep training!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Well, see you later!\nKeep training!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Well, see you later!\nKeep training!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000570065006C006C002C002000730065006500200079006F00750020006C00610074006500720021000A004B00650065007000200074007200610069006E0069006E00670021000E000300010000000000"
+    },
+    "34": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "35": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "36": {
+      "text": "<C:0001,0004,>Congrats are due!\nYou bested all four!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Congrats are due!\nYou bested all four!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Congrats are due!\nYou bested all four!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Congrats are due!\nYou bested all four!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000043006F006E00670072006100740073002000610072006500200064007500650021000A0059006F0075002000620065007300740065006400200061006C006C00200066006F007500720021000E000300010000000000"
+    },
+    "37": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "38": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "39": {
+      "text": "<C:0001,0004,>Please return to the\ndreamy tour centre.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Please return to the\ndreamy tour centre.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Please return to the\ndreamy tour centre.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Please return to the\ndreamy tour centre.<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000050006C0065006100730065002000720065007400750072006E00200074006F0020007400680065000A0064007200650061006D007900200074006F00750072002000630065006E007400720065002E000E000300010000000000"
+    },
+    "40": {
+      "text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> will<C:0000,0003,2C65FFFF><C:0000,0003,000000FF>\nmeet you there.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> will<C:0000,0003,2C65FFFF><C:0000,0003,000000FF>\nmeet you there.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> will<C:0000,0003,2C65FFFF><C:0000,0003,000000FF>\nmeet you there.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0003,2C65FFFF>Big Massif<C:0000,0003,000000FF> will<C:0000,0003,2C65FFFF><C:0000,0003,000000FF>\nmeet you there.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000000E000000030004002C65FFFF42006900670020004D00610073007300690066000E00000003000400000000FF2000770069006C006C000E000000030004002C65FFFF0E00000003000400000000FF0A006D00650065007400200079006F0075002000740068006500720065002E000E000300010000000000"
+    },
+    "41": {
+      "text": "<C:0001,0004,>Aw yeah! Battle time!\nB-B-B-BEEF-OFF!",
+      "tokenized_text": "<C:0001,0004,>Aw yeah! Battle time!\nB-B-B-BEEF-OFF!",
+      "original_text": "<C:0001,0004,>Aw yeah! Battle time!\nB-B-B-BEEF-OFF!",
+      "original_tokenized_text": "<C:0001,0004,>Aw yeah! Battle time!\nB-B-B-BEEF-OFF!",
+      "raw_full_hex": "0E0001000400000041007700200079006500610068002100200042006100740074006C0065002000740069006D00650021000A0042002D0042002D0042002D0042004500450046002D004F004600460021000000"
+    },
+    "42": {
+      "text": "<C:0001,0004,>Gonna be FUN!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Gonna be FUN!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Gonna be FUN!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Gonna be FUN!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000047006F006E006E0061002000620065002000460055004E0021000E000300010000000000"
+    },
+    "43": {
+      "text": "<C:0001,0004,>Beef-Off!<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0001,0004,>Beef-Off!<C:0003,0000,0A00>",
+      "original_text": "<C:0001,0004,>Beef-Off!<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0001,0004,>Beef-Off!<C:0003,0000,0A00>",
+      "raw_full_hex": "0E0001000400000042006500650066002D004F006600660021000E000300000002000A000000"
+    },
+    "44": {
+      "text": "<C:0000,0002,6400><C:0001,0004,>Beef-Off!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Beef-Off!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_text": "<C:0000,0002,6400><C:0001,0004,>Beef-Off!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0000,0002,6400><C:0001,0004,>Beef-Off!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "raw_full_hex": "0E0000000200020064000E0001000400000042006500650066002D004F006600660021000E0000000200020064000E000300000002000A000000"
+    },
+    "45": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "raw_full_hex": "0E0000000200020096000E0001000400000042004500450046002D004F004600460021000E0000000200020064000E000300000002000A000000"
+    },
+    "46": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>BEEF-OFF!<C:0000,0002,6400><C:0003,0000,0A00>",
+      "raw_full_hex": "0E0000000200020096000E0001000400000042004500450046002D004F004600460021000E0000000200020064000E000300000002000A000000"
+    },
+    "47": {
+      "text": "<C:0001,0004,>B! E! E! F! O! F! F!\nNow! Let's DO it!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>B! E! E! F! O! F! F!\nNow! Let's DO it!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>B! E! E! F! O! F! F!\nNow! Let's DO it!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>B! E! E! F! O! F! F!\nNow! Let's DO it!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004200210020004500210020004500210020004600210020004F0021002000460021002000460021000A004E006F007700210020004C006500740027007300200044004F0020006900740021000E000300010000000000"
+    },
+    "48": {
+      "text": "<C:0001,0004,>Well, hey there!\nI'm Heavy Zest!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Well, hey there!\nI'm Heavy Zest!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Well, hey there!\nI'm Heavy Zest!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Well, hey there!\nI'm Heavy Zest!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000570065006C006C002C00200068006500790020007400680065007200650021000A00490027006D0020004800650061007600790020005A0065007300740021000E000300010000000000"
+    },
+    "49": {
+      "text": "<C:0001,0004,>Beef-Off! Battle!\nReady or what?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Beef-Off! Battle!\nReady or what?<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Beef-Off! Battle!\nReady or what?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Beef-Off! Battle!\nReady or what?<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000042006500650066002D004F00660066002100200042006100740074006C00650021000A005200650061006400790020006F007200200077006800610074003F000E000300010000000000"
+    },
+    "50": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "51": {
+      "text": "<C:0001,0004,>KO by night,\nHooraw's delight!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>KO by night,\nHooraw's delight!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>KO by night,\nHooraw's delight!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>KO by night,\nHooraw's delight!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000004B004F0020006200790020006E0069006700680074002C000A0048006F006F00720061007700270073002000640065006C00690067006800740021000E000300010000000000"
+    },
+    "52": {
+      "text": "<C:0000,0002,9600><C:0001,0004,>VICTORS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> BROS.!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0004,>VICTORS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> BROS.!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0004,>VICTORS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> BROS.!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0004,>VICTORS! <C:0003,0000,0A00>MARIO<C:0003,0000,0A00> BROS.!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E0001000400000056004900430054004F0052005300210020000E000300000002000A004D004100520049004F000E000300000002000A002000420052004F0053002E0021000E000300010000000E0000000200020064000000"
+    },
+    "53": {
+      "text": "<C:0001,0004,>Well, here we go...\nGo, <C:0003,0000,0500>go, <C:0003,0000,0500>go, <C:0003,0000,0500>gooo!<C:0003,0001,><C:0000,0004,>For better or worse,\nthis is the last one! <C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Well, here we go...\nGo, <C:0003,0000,0500>go, <C:0003,0000,0500>go, <C:0003,0000,0500>gooo!<C:0003,0001,><C:0000,0004,>For better or worse,\nthis is the last one! <C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Well, here we go...\nGo, <C:0003,0000,0500>go, <C:0003,0000,0500>go, <C:0003,0000,0500>gooo!<C:0003,0001,><C:0000,0004,>For better or worse,\nthis is the last one! <C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Well, here we go...\nGo, <C:0003,0000,0500>go, <C:0003,0000,0500>go, <C:0003,0000,0500>gooo!<C:0003,0001,><C:0000,0004,>For better or worse,\nthis is the last one! <C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000570065006C006C002C0020006800650072006500200077006500200067006F002E002E002E000A0047006F002C0020000E00030000000200050067006F002C0020000E00030000000200050067006F002C0020000E00030000000200050067006F006F006F0021000E000300010000000E0000000400000046006F007200200062006500740074006500720020006F007200200077006F007200730065002C000A007400680069007300200069007300200074006800650020006C0061007300740020006F006E006500210020000E000300010000000000"
+    },
+    "54": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "55": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "56": {
+      "text": "<C:0001,0004,>Well, hello again!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Well, hello again!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Well, hello again!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Well, hello again!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000570065006C006C002C002000680065006C006C006F00200061006700610069006E0021000E000300010000000000"
+    },
+    "57": {
+      "text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>You got a <C:0000,0003,00EAFFFF>Hooraw Medal<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "tokenized_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>You got a <C:0000,0003,00EAFFFF>Hooraw Medal<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "original_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>You got a <C:0000,0003,00EAFFFF>Hooraw Medal<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "original_tokenized_text": "<C:0000,0003,FFFFFFFF><C:0007,0000,><C:0001,0004,><C:0001,0001,>You got a <C:0000,0003,00EAFFFF>Hooraw Medal<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,><C:0000,0003,FFFFFFFF>",
+      "raw_full_hex": "0E00000003000400FFFFFFFF0E000700000000000E000100040000000E0001000100000059006F007500200067006F0074002000610020000E0000000300040000EAFFFF48006F006F0072006100770020004D006500640061006C000E00000003000400FFFFFFFF21000E000300000002001E000E000300010000000E00000003000400FFFFFFFF0000"
+    },
+    "58": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

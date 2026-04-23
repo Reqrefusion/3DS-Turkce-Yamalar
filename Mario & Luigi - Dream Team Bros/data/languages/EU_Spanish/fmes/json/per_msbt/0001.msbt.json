@@ -1,0 +1,774 @@
+{
+  "0001.msbt": {
+    "0": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado un par de <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado un par de <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado un par de <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado un par de <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A100480061007300200065006E0063006F006E0074007200610064006F00200075006E00200070006100720020006400650020000E0000000300040000EAFFFF6D0061007200740069006C006C006F0073000E00000003000400FFFFFFFF21000E000300000002001E000E000300010000000000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>¡Los habéis encontrado!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>¡Los habéis encontrado!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>¡Los habéis encontrado!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>¡Los habéis encontrado!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000A1004C006F0073002000680061006200E90069007300200065006E0063006F006E0074007200610064006F0021000E000300010000000000"
+    },
+    "3": {
+      "text": "¡Pero si son mis martillos!\nNo me acordaba de dónde\nlos había dejado.<C:0003,0001,>",
+      "tokenized_text": "¡Pero si son mis martillos!\nNo me acordaba de dónde\nlos había dejado.<C:0003,0001,>",
+      "original_text": "¡Pero si son mis martillos!\nNo me acordaba de dónde\nlos había dejado.<C:0003,0001,>",
+      "original_tokenized_text": "¡Pero si son mis martillos!\nNo me acordaba de dónde\nlos había dejado.<C:0003,0001,>",
+      "raw_full_hex": "A1005000650072006F00200073006900200073006F006E0020006D006900730020006D0061007200740069006C006C006F00730021000A004E006F0020006D0065002000610063006F007200640061006200610020006400650020006400F3006E00640065000A006C006F0073002000680061006200ED0061002000640065006A00610064006F002E000E000300010000000000"
+    },
+    "4": {
+      "text": "¡Llevaba la tira de tiempo\nbuscándolos!<C:0003,0001,>",
+      "tokenized_text": "¡Llevaba la tira de tiempo\nbuscándolos!<C:0003,0001,>",
+      "original_text": "¡Llevaba la tira de tiempo\nbuscándolos!<C:0003,0001,>",
+      "original_tokenized_text": "¡Llevaba la tira de tiempo\nbuscándolos!<C:0003,0001,>",
+      "raw_full_hex": "A1004C006C006500760061006200610020006C0061002000740069007200610020006400650020007400690065006D0070006F000A006200750073006300E1006E0064006F006C006F00730021000E000300010000000000"
+    },
+    "5": {
+      "text": "¿Eh? ¿Que me los queréis\ndevolver?<C:0003,0001,>",
+      "tokenized_text": "¿Eh? ¿Que me los queréis\ndevolver?<C:0003,0001,>",
+      "original_text": "¿Eh? ¿Que me los queréis\ndevolver?<C:0003,0001,>",
+      "original_tokenized_text": "¿Eh? ¿Que me los queréis\ndevolver?<C:0003,0001,>",
+      "raw_full_hex": "BF00450068003F002000BF0051007500650020006D00650020006C006F00730020007100750065007200E900690073000A006400650076006F006C007600650072003F000E000300010000000000"
+    },
+    "6": {
+      "text": "La verdad es que ya he pedido\nuno nuevo...<C:0003,0001,>",
+      "tokenized_text": "La verdad es que ya he pedido\nuno nuevo...<C:0003,0001,>",
+      "original_text": "La verdad es que ya he pedido\nuno nuevo...<C:0003,0001,>",
+      "original_tokenized_text": "La verdad es que ya he pedido\nuno nuevo...<C:0003,0001,>",
+      "raw_full_hex": "4C006100200076006500720064006100640020006500730020007100750065002000790061002000680065002000700065006400690064006F000A0075006E006F0020006E007500650076006F002E002E002E000E000300010000000000"
+    },
+    "7": {
+      "text": "<C:0000,0002,4B00>Pero que no se entere\nel señor Quebradiego...<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,4B00>Pero que no se entere\nel señor Quebradiego...<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,4B00>Pero que no se entere\nel señor Quebradiego...<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,4B00>Pero que no se entere\nel señor Quebradiego...<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E000000020002004B005000650072006F00200071007500650020006E006F00200073006500200065006E0074006500720065000A0065006C00200073006500F1006F007200200051007500650062007200610064006900650067006F002E002E002E000E000300010000000E0000000200020064000000"
+    },
+    "8": {
+      "text": "¡Tomad un regalo por encontrar\nmis martillos!<C:0003,0001,>",
+      "tokenized_text": "¡Tomad un regalo por encontrar\nmis martillos!<C:0003,0001,>",
+      "original_text": "¡Tomad un regalo por encontrar\nmis martillos!<C:0003,0001,>",
+      "original_tokenized_text": "¡Tomad un regalo por encontrar\nmis martillos!<C:0003,0001,>",
+      "raw_full_hex": "A10054006F006D0061006400200075006E00200072006500670061006C006F00200070006F007200200065006E0063006F006E0074007200610072000A006D006900730020006D0061007200740069006C006C006F00730021000E000300010000000000"
+    },
+    "9": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Has obtenido los <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!\n(Ahora en serio.)<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has obtenido los <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!\n(Ahora en serio.)<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Has obtenido los <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!\n(Ahora en serio.)<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has obtenido los <C:0000,0003,00EAFFFF>martillos<C:0000,0003,FFFFFFFF>!\n(Ahora en serio.)<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A10048006100730020006F006200740065006E00690064006F0020006C006F00730020000E0000000300040000EAFFFF6D0061007200740069006C006C006F0073000E00000003000400FFFFFFFF21000A002800410068006F0072006100200065006E00200073006500720069006F002E0029000E000300000002001E000E000300010000000000"
+    },
+    "10": {
+      "text": "Pulsa <C:0000,0003,2C65FFFF><C:0000,0003,000000FF> para cambiar\nal martillo en el icono de acción.",
+      "tokenized_text": "Pulsa <C:0000,0003,2C65FFFF><C:0000,0003,000000FF> para cambiar\nal martillo en el icono de acción.",
+      "original_text": "Pulsa <C:0000,0003,2C65FFFF><C:0000,0003,000000FF> para cambiar\nal martillo en el icono de acción.",
+      "original_tokenized_text": "Pulsa <C:0000,0003,2C65FFFF><C:0000,0003,000000FF> para cambiar\nal martillo en el icono de acción.",
+      "raw_full_hex": "500075006C007300610020000E000000030004002C65FFFF05E00E00000003000400000000FF200070006100720061002000630061006D0062006900610072000A0061006C0020006D0061007200740069006C006C006F00200065006E00200065006C002000690063006F006E006F0020006400650020006100630063006900F3006E002E000000"
+    },
+    "11": {
+      "text": "¡Y luego pulsa <C:0000,0003,FF3333FF><C:0000,0003,000000FF> para\nasestar un martillazo<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "tokenized_text": "¡Y luego pulsa <C:0000,0003,FF3333FF><C:0000,0003,000000FF> para\nasestar un martillazo<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "original_text": "¡Y luego pulsa <C:0000,0003,FF3333FF><C:0000,0003,000000FF> para\nasestar un martillazo<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "original_tokenized_text": "¡Y luego pulsa <C:0000,0003,FF3333FF><C:0000,0003,000000FF> para\nasestar un martillazo<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "raw_full_hex": "A100590020006C007500650067006F002000700075006C007300610020000E00000003000400FF3333FF00E00E00000003000400000000FF200070006100720061000A006100730065007300740061007200200075006E0020006D0061007200740069006C006C0061007A006F000E00000003000400000000FF21000E00000003000400000000FF0000"
+    },
+    "12": {
+      "text": "Los martillos son\nmuy útiles.<C:0003,0001,>",
+      "tokenized_text": "Los martillos son\nmuy útiles.<C:0003,0001,>",
+      "original_text": "Los martillos son\nmuy útiles.<C:0003,0001,>",
+      "original_tokenized_text": "Los martillos son\nmuy útiles.<C:0003,0001,>",
+      "raw_full_hex": "4C006F00730020006D0061007200740069006C006C006F007300200073006F006E000A006D00750079002000FA00740069006C00650073002E000E000300010000000000"
+    },
+    "13": {
+      "text": "¡Podéis romper una roca\ncomo esta de un solo golpe!<C:0003,0001,>",
+      "tokenized_text": "¡Podéis romper una roca\ncomo esta de un solo golpe!<C:0003,0001,>",
+      "original_text": "¡Podéis romper una roca\ncomo esta de un solo golpe!<C:0003,0001,>",
+      "original_tokenized_text": "¡Podéis romper una roca\ncomo esta de un solo golpe!<C:0003,0001,>",
+      "raw_full_hex": "A10050006F006400E90069007300200072006F006D00700065007200200075006E006100200072006F00630061000A0063006F006D006F0020006500730074006100200064006500200075006E00200073006F006C006F00200067006F006C007000650021000E000300010000000000"
+    },
+    "14": {
+      "text": "Eso sí, aseguraos de golpear\npor el <C:0000,0003,2C65FFFF>lado de la grieta<C:0000,0003,000000FF>.<C:0003,0001,>",
+      "tokenized_text": "Eso sí, aseguraos de golpear\npor el <C:0000,0003,2C65FFFF>lado de la grieta<C:0000,0003,000000FF>.<C:0003,0001,>",
+      "original_text": "Eso sí, aseguraos de golpear\npor el <C:0000,0003,2C65FFFF>lado de la grieta<C:0000,0003,000000FF>.<C:0003,0001,>",
+      "original_tokenized_text": "Eso sí, aseguraos de golpear\npor el <C:0000,0003,2C65FFFF>lado de la grieta<C:0000,0003,000000FF>.<C:0003,0001,>",
+      "raw_full_hex": "450073006F0020007300ED002C00200061007300650067007500720061006F007300200064006500200067006F006C0070006500610072000A0070006F007200200065006C0020000E000000030004002C65FFFF6C00610064006F0020006400650020006C00610020006700720069006500740061000E00000003000400000000FF2E000E000300010000000000"
+    },
+    "15": {
+      "text": "Bueno, tengo que\nvolver al tajo.<C:0003,0001,>",
+      "tokenized_text": "Bueno, tengo que\nvolver al tajo.<C:0003,0001,>",
+      "original_text": "Bueno, tengo que\nvolver al tajo.<C:0003,0001,>",
+      "original_tokenized_text": "Bueno, tengo que\nvolver al tajo.<C:0003,0001,>",
+      "raw_full_hex": "4200750065006E006F002C002000740065006E0067006F0020007100750065000A0076006F006C00760065007200200061006C002000740061006A006F002E000E000300010000000000"
+    },
+    "16": {
+      "text": "¡Martillos gratis!\nToma ya.<C:0003,0001,>",
+      "tokenized_text": "¡Martillos gratis!\nToma ya.<C:0003,0001,>",
+      "original_text": "¡Martillos gratis!\nToma ya.<C:0003,0001,>",
+      "original_tokenized_text": "¡Martillos gratis!\nToma ya.<C:0003,0001,>",
+      "raw_full_hex": "A1004D0061007200740069006C006C006F007300200067007200610074006900730021000A0054006F006D0061002000790061002E000E000300010000000000"
+    },
+    "17": {
+      "text": "Podéis romper todas\nlas rocas que queráis.<C:0003,0001,>",
+      "tokenized_text": "Podéis romper todas\nlas rocas que queráis.<C:0003,0001,>",
+      "original_text": "Podéis romper todas\nlas rocas que queráis.<C:0003,0001,>",
+      "original_tokenized_text": "Podéis romper todas\nlas rocas que queráis.<C:0003,0001,>",
+      "raw_full_hex": "50006F006400E90069007300200072006F006D00700065007200200074006F006400610073000A006C0061007300200072006F00630061007300200071007500650020007100750065007200E100690073002E000E000300010000000000"
+    },
+    "18": {
+      "text": "¡Cuantas más rompáis,\nmenos trabajo para mí!<C:0003,0001,>",
+      "tokenized_text": "¡Cuantas más rompáis,\nmenos trabajo para mí!<C:0003,0001,>",
+      "original_text": "¡Cuantas más rompáis,\nmenos trabajo para mí!<C:0003,0001,>",
+      "original_tokenized_text": "¡Cuantas más rompáis,\nmenos trabajo para mí!<C:0003,0001,>",
+      "raw_full_hex": "A1004300750061006E0074006100730020006D00E1007300200072006F006D007000E100690073002C000A006D0065006E006F0073002000740072006100620061006A006F002000700061007200610020006D00ED0021000E000300010000000000"
+    },
+    "19": {
+      "text": "¡Mueve ese martillo!<C:0003,0001,>",
+      "tokenized_text": "¡Mueve ese martillo!<C:0003,0001,>",
+      "original_text": "¡Mueve ese martillo!<C:0003,0001,>",
+      "original_tokenized_text": "¡Mueve ese martillo!<C:0003,0001,>",
+      "raw_full_hex": "A1004D007500650076006500200065007300650020006D0061007200740069006C006C006F0021000E000300010000000000"
+    },
+    "20": {
+      "text": "¡Así se hace!\nYa le has pillado el tranquillo.<C:0003,0001,>",
+      "tokenized_text": "¡Así se hace!\nYa le has pillado el tranquillo.<C:0003,0001,>",
+      "original_text": "¡Así se hace!\nYa le has pillado el tranquillo.<C:0003,0001,>",
+      "original_tokenized_text": "¡Así se hace!\nYa le has pillado el tranquillo.<C:0003,0001,>",
+      "raw_full_hex": "A10041007300ED002000730065002000680061006300650021000A005900610020006C00650020006800610073002000700069006C006C00610064006F00200065006C0020007400720061006E007100750069006C006C006F002E000E000300010000000000"
+    },
+    "21": {
+      "text": "Con la ayuda de estos martillos,\nseguro que atrapamos a Quebradiego.<C:0003,0001,>",
+      "tokenized_text": "Con la ayuda de estos martillos,\nseguro que atrapamos a Quebradiego.<C:0003,0001,>",
+      "original_text": "Con la ayuda de estos martillos,\nseguro que atrapamos a Quebradiego.<C:0003,0001,>",
+      "original_tokenized_text": "Con la ayuda de estos martillos,\nseguro que atrapamos a Quebradiego.<C:0003,0001,>",
+      "raw_full_hex": "43006F006E0020006C00610020006100790075006400610020006400650020006500730074006F00730020006D0061007200740069006C006C006F0073002C000A00730065006700750072006F00200071007500650020006100740072006100700061006D006F00730020006100200051007500650062007200610064006900650067006F002E000E000300010000000000"
+    },
+    "22": {
+      "text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido a utilizar el martillo!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0000,0003,00EAFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Pulsa <C:0000,0003,00EAFFFF> <C:0000,0003,FFFFFFFF>para cambiar el icono de acción\ny luego pulsa <C:0000,0003,FF4F4FFF><C:0000,0003,FFFFFFFF> para asestar\nun martillazo.<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido a utilizar el martillo!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0000,0003,00EAFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Pulsa <C:0000,0003,00EAFFFF> <C:0000,0003,FFFFFFFF>para cambiar el icono de acción\ny luego pulsa <C:0000,0003,FF4F4FFF><C:0000,0003,FFFFFFFF> para asestar\nun martillazo.<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido a utilizar el martillo!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0000,0003,00EAFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Pulsa <C:0000,0003,00EAFFFF> <C:0000,0003,FFFFFFFF>para cambiar el icono de acción\ny luego pulsa <C:0000,0003,FF4F4FFF><C:0000,0003,FFFFFFFF> para asestar\nun martillazo.<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>¡Has aprendido a utilizar el martillo!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0000,0003,00EAFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Pulsa <C:0000,0003,00EAFFFF> <C:0000,0003,FFFFFFFF>para cambiar el icono de acción\ny luego pulsa <C:0000,0003,FF4F4FFF><C:0000,0003,FFFFFFFF> para asestar\nun martillazo.<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E000700000000000E00010004000000A100480061007300200061007000720065006E006400690064006F002000610020007500740069006C0069007A0061007200200065006C0020006D0061007200740069006C006C006F0021000E0003000000020014000E000300010000000E000000040000000E0000000300040000EAFFFF0E000700000000000E00000003000400FFFFFFFF500075006C007300610020000E0000000300040000EAFFFF05E020000E00000003000400FFFFFFFF70006100720061002000630061006D006200690061007200200065006C002000690063006F006E006F0020006400650020006100630063006900F3006E000A00790020006C007500650067006F002000700075006C007300610020000E00000003000400FF4F4FFF00E00E00000003000400FFFFFFFF20007000610072006100200061007300650073007400610072000A0075006E0020006D0061007200740069006C006C0061007A006F002E000E000300000002001E000E000300010000000000"
+    },
+    "23": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "24": {
+      "text": "Uaaa...<C:0003,0000,4600>",
+      "tokenized_text": "Uaaa...<C:0003,0000,4600>",
+      "original_text": "Uaaa...<C:0003,0000,4600>",
+      "original_tokenized_text": "Uaaa...<C:0003,0000,4600>",
+      "raw_full_hex": "55006100610061002E002E002E000E0003000000020046000000"
+    },
+    "25": {
+      "text": "¡Ah!<C:0003,0000,3C00>",
+      "tokenized_text": "¡Ah!<C:0003,0000,3C00>",
+      "original_text": "¡Ah!<C:0003,0000,3C00>",
+      "original_tokenized_text": "¡Ah!<C:0003,0000,3C00>",
+      "raw_full_hex": "A1004100680021000E000300000002003C000000"
+    },
+    "26": {
+      "text": "¡Qué siesta más rica\nme acabo de echar!<C:0003,0001,>",
+      "tokenized_text": "¡Qué siesta más rica\nme acabo de echar!<C:0003,0001,>",
+      "original_text": "¡Qué siesta más rica\nme acabo de echar!<C:0003,0001,>",
+      "original_tokenized_text": "¡Qué siesta más rica\nme acabo de echar!<C:0003,0001,>",
+      "raw_full_hex": "A10051007500E900200073006900650073007400610020006D00E1007300200072006900630061000A006D006500200061006300610062006F0020006400650020006500630068006100720021000E000300010000000000"
+    },
+    "27": {
+      "text": "¡Hola, señor!<C:0003,0001,><C:0000,0004,>Me pilla justo a punto\nde... ¡arrancar\nlas malas hierbas!<C:0003,0001,>",
+      "tokenized_text": "¡Hola, señor!<C:0003,0001,><C:0000,0004,>Me pilla justo a punto\nde... ¡arrancar\nlas malas hierbas!<C:0003,0001,>",
+      "original_text": "¡Hola, señor!<C:0003,0001,><C:0000,0004,>Me pilla justo a punto\nde... ¡arrancar\nlas malas hierbas!<C:0003,0001,>",
+      "original_tokenized_text": "¡Hola, señor!<C:0003,0001,><C:0000,0004,>Me pilla justo a punto\nde... ¡arrancar\nlas malas hierbas!<C:0003,0001,>",
+      "raw_full_hex": "A10048006F006C0061002C00200073006500F1006F00720021000E000300010000000E000000040000004D0065002000700069006C006C00610020006A007500730074006F00200061002000700075006E0074006F000A00640065002E002E002E002000A10061007200720061006E006300610072000A006C006100730020006D0061006C00610073002000680069006500720062006100730021000E000300010000000000"
+    },
+    "28": {
+      "text": "¡Eh! ¿Quién es ese señor de verde\ny bigote maravilloso?<C:0003,0001,>",
+      "tokenized_text": "¡Eh! ¿Quién es ese señor de verde\ny bigote maravilloso?<C:0003,0001,>",
+      "original_text": "¡Eh! ¿Quién es ese señor de verde\ny bigote maravilloso?<C:0003,0001,>",
+      "original_tokenized_text": "¡Eh! ¿Quién es ese señor de verde\ny bigote maravilloso?<C:0003,0001,>",
+      "raw_full_hex": "A1004500680021002000BF00510075006900E9006E002000650073002000650073006500200073006500F1006F0072002000640065002000760065007200640065000A00790020006200690067006F007400650020006D00610072006100760069006C006C006F0073006F003F000E000300010000000000"
+    },
+    "29": {
+      "text": "¡Si solo sois turistas!\nQué rabia, podría haber seguido\ndurmiendo...<C:0003,0001,>",
+      "tokenized_text": "¡Si solo sois turistas!\nQué rabia, podría haber seguido\ndurmiendo...<C:0003,0001,>",
+      "original_text": "¡Si solo sois turistas!\nQué rabia, podría haber seguido\ndurmiendo...<C:0003,0001,>",
+      "original_tokenized_text": "¡Si solo sois turistas!\nQué rabia, podría haber seguido\ndurmiendo...<C:0003,0001,>",
+      "raw_full_hex": "A10053006900200073006F006C006F00200073006F006900730020007400750072006900730074006100730021000A0051007500E9002000720061006200690061002C00200070006F0064007200ED00610020006800610062006500720020007300650067007500690064006F000A006400750072006D00690065006E0064006F002E002E002E000E000300010000000000"
+    },
+    "30": {
+      "text": "Me parece que el ala\nle ha golpeado en la cabeza.<C:0003,0001,>",
+      "tokenized_text": "Me parece que el ala\nle ha golpeado en la cabeza.<C:0003,0001,>",
+      "original_text": "Me parece que el ala\nle ha golpeado en la cabeza.<C:0003,0001,>",
+      "original_tokenized_text": "Me parece que el ala\nle ha golpeado en la cabeza.<C:0003,0001,>",
+      "raw_full_hex": "4D00650020007000610072006500630065002000710075006500200065006C00200061006C0061000A006C006500200068006100200067006F006C0070006500610064006F00200065006E0020006C006100200063006100620065007A0061002E000E000300010000000000"
+    },
+    "31": {
+      "text": "¡Pero con lo ligera que es!\nIgual le ha dado de pleno\nen un punto débil.<C:0003,0001,>",
+      "tokenized_text": "¡Pero con lo ligera que es!\nIgual le ha dado de pleno\nen un punto débil.<C:0003,0001,>",
+      "original_text": "¡Pero con lo ligera que es!\nIgual le ha dado de pleno\nen un punto débil.<C:0003,0001,>",
+      "original_tokenized_text": "¡Pero con lo ligera que es!\nIgual le ha dado de pleno\nen un punto débil.<C:0003,0001,>",
+      "raw_full_hex": "A1005000650072006F00200063006F006E0020006C006F0020006C0069006700650072006100200071007500650020006500730021000A0049006700750061006C0020006C00650020006800610020006400610064006F00200064006500200070006C0065006E006F000A0065006E00200075006E002000700075006E0074006F0020006400E900620069006C002E000E000300010000000000"
+    },
+    "32": {
+      "text": "¡Un momento! ¡Este tipo\nsolo estaba vagueando!<C:0003,0001,><C:0000,0004,>Bueno, me alegro de que\nno esté herido... Creo.<C:0003,0001,>",
+      "tokenized_text": "¡Un momento! ¡Este tipo\nsolo estaba vagueando!<C:0003,0001,><C:0000,0004,>Bueno, me alegro de que\nno esté herido... Creo.<C:0003,0001,>",
+      "original_text": "¡Un momento! ¡Este tipo\nsolo estaba vagueando!<C:0003,0001,><C:0000,0004,>Bueno, me alegro de que\nno esté herido... Creo.<C:0003,0001,>",
+      "original_tokenized_text": "¡Un momento! ¡Este tipo\nsolo estaba vagueando!<C:0003,0001,><C:0000,0004,>Bueno, me alegro de que\nno esté herido... Creo.<C:0003,0001,>",
+      "raw_full_hex": "A10055006E0020006D006F006D0065006E0074006F0021002000A100450073007400650020007400690070006F000A0073006F006C006F00200065007300740061006200610020007600610067007500650061006E0064006F0021000E000300010000000E000000040000004200750065006E006F002C0020006D006500200061006C006500670072006F0020006400650020007100750065000A006E006F002000650073007400E9002000680065007200690064006F002E002E002E0020004300720065006F002E000E000300010000000000"
+    },
+    "33": {
+      "text": "Ya tenemos las dos alas.<C:0003,0001,><C:0000,0004,>Regresemos para que\nlas arreglen.<C:0003,0001,>",
+      "tokenized_text": "Ya tenemos las dos alas.<C:0003,0001,><C:0000,0004,>Regresemos para que\nlas arreglen.<C:0003,0001,>",
+      "original_text": "Ya tenemos las dos alas.<C:0003,0001,><C:0000,0004,>Regresemos para que\nlas arreglen.<C:0003,0001,>",
+      "original_tokenized_text": "Ya tenemos las dos alas.<C:0003,0001,><C:0000,0004,>Regresemos para que\nlas arreglen.<C:0003,0001,>",
+      "raw_full_hex": "590061002000740065006E0065006D006F00730020006C0061007300200064006F007300200061006C00610073002E000E000300010000000E0000000400000052006500670072006500730065006D006F0073002000700061007200610020007100750065000A006C00610073002000610072007200650067006C0065006E002E000E000300010000000000"
+    },
+    "34": {
+      "text": "Siempre tengo sueño.\nTodo el tiempo.<C:0003,0001,>",
+      "tokenized_text": "Siempre tengo sueño.\nTodo el tiempo.<C:0003,0001,>",
+      "original_text": "Siempre tengo sueño.\nTodo el tiempo.<C:0003,0001,>",
+      "original_tokenized_text": "Siempre tengo sueño.\nTodo el tiempo.<C:0003,0001,>",
+      "raw_full_hex": "5300690065006D007000720065002000740065006E0067006F002000730075006500F1006F002E000A0054006F0064006F00200065006C0020007400690065006D0070006F002E000E000300010000000000"
+    },
+    "35": {
+      "text": "¿Ha ocurrido algo mientras\nechaba una cabezada?<C:0003,0001,><C:0000,0004,>Por mucho que duerma,\nnunca es suficiente.<C:0003,0001,>",
+      "tokenized_text": "¿Ha ocurrido algo mientras\nechaba una cabezada?<C:0003,0001,><C:0000,0004,>Por mucho que duerma,\nnunca es suficiente.<C:0003,0001,>",
+      "original_text": "¿Ha ocurrido algo mientras\nechaba una cabezada?<C:0003,0001,><C:0000,0004,>Por mucho que duerma,\nnunca es suficiente.<C:0003,0001,>",
+      "original_tokenized_text": "¿Ha ocurrido algo mientras\nechaba una cabezada?<C:0003,0001,><C:0000,0004,>Por mucho que duerma,\nnunca es suficiente.<C:0003,0001,>",
+      "raw_full_hex": "BF004800610020006F006300750072007200690064006F00200061006C0067006F0020006D00690065006E0074007200610073000A00650063006800610062006100200075006E006100200063006100620065007A006100640061003F000E000300010000000E0000000400000050006F00720020006D007500630068006F002000710075006500200064007500650072006D0061002C000A006E0075006E0063006100200065007300200073007500660069006300690065006E00740065002E000E000300010000000000"
+    },
+    "36": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "37": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la primera <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la primera <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la primera <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la primera <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A100480061007300200065006E0063006F006E0074007200610064006F0020006C00610020007000720069006D0065007200610020000E0000000300040000EAFFFF61006C0061000E00000003000400FFFFFFFF21000E000300000002001E000E000300010000000000"
+    },
+    "38": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la segunda <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la segunda <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la segunda <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Has encontrado la segunda <C:0000,0003,00EAFFFF>ala<C:0000,0003,FFFFFFFF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A100480061007300200065006E0063006F006E0074007200610064006F0020006C006100200073006500670075006E006400610020000E0000000300040000EAFFFF61006C0061000E00000003000400FFFFFFFF21000E000300000002001E000E000300010000000000"
+    },
+    "39": {
+      "text": "Devolvamos las alas\nal tipo de antes.<C:0003,0001,>",
+      "tokenized_text": "Devolvamos las alas\nal tipo de antes.<C:0003,0001,>",
+      "original_text": "Devolvamos las alas\nal tipo de antes.<C:0003,0001,>",
+      "original_tokenized_text": "Devolvamos las alas\nal tipo de antes.<C:0003,0001,>",
+      "raw_full_hex": "4400650076006F006C00760061006D006F00730020006C0061007300200061006C00610073000A0061006C0020007400690070006F00200064006500200061006E007400650073002E000E000300010000000000"
+    },
+    "40": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "41": {
+      "text": "¡Hala!<C:0003,0001,>",
+      "tokenized_text": "¡Hala!<C:0003,0001,>",
+      "original_text": "¡Hala!<C:0003,0001,>",
+      "original_tokenized_text": "¡Hala!<C:0003,0001,>",
+      "raw_full_hex": "A100480061006C00610021000E000300010000000000"
+    },
+    "42": {
+      "text": "Habéis encontrado\nlas alas.<C:0003,0001,>",
+      "tokenized_text": "Habéis encontrado\nlas alas.<C:0003,0001,>",
+      "original_text": "Habéis encontrado\nlas alas.<C:0003,0001,>",
+      "original_tokenized_text": "Habéis encontrado\nlas alas.<C:0003,0001,>",
+      "raw_full_hex": "480061006200E90069007300200065006E0063006F006E0074007200610064006F000A006C0061007300200061006C00610073002E000E000300010000000000"
+    },
+    "43": {
+      "text": "¡Muchas gracias! Voy a ponerlas\nen su sitio ahora mismo.<C:0003,0001,>",
+      "tokenized_text": "¡Muchas gracias! Voy a ponerlas\nen su sitio ahora mismo.<C:0003,0001,>",
+      "original_text": "¡Muchas gracias! Voy a ponerlas\nen su sitio ahora mismo.<C:0003,0001,>",
+      "original_tokenized_text": "¡Muchas gracias! Voy a ponerlas\nen su sitio ahora mismo.<C:0003,0001,>",
+      "raw_full_hex": "A1004D0075006300680061007300200067007200610063006900610073002100200056006F00790020006100200070006F006E00650072006C00610073000A0065006E00200073007500200073006900740069006F002000610068006F007200610020006D00690073006D006F002E000E000300010000000000"
+    },
+    "44": {
+      "text": "Ea, arreglado...<C:0003,0001,>",
+      "tokenized_text": "Ea, arreglado...<C:0003,0001,>",
+      "original_text": "Ea, arreglado...<C:0003,0001,>",
+      "original_tokenized_text": "Ea, arreglado...<C:0003,0001,>",
+      "raw_full_hex": "450061002C002000610072007200650067006C00610064006F002E002E002E000E000300010000000000"
+    },
+    "45": {
+      "text": "¡Señor Quebradiego<C:0000,0002,6400>!\n¡Estoy reparando las alas!<C:0000,0002,6400><C:0003,0001,>",
+      "tokenized_text": "¡Señor Quebradiego<C:0000,0002,6400>!\n¡Estoy reparando las alas!<C:0000,0002,6400><C:0003,0001,>",
+      "original_text": "¡Señor Quebradiego<C:0000,0002,6400>!\n¡Estoy reparando las alas!<C:0000,0002,6400><C:0003,0001,>",
+      "original_tokenized_text": "¡Señor Quebradiego<C:0000,0002,6400>!\n¡Estoy reparando las alas!<C:0000,0002,6400><C:0003,0001,>",
+      "raw_full_hex": "A10053006500F1006F007200200051007500650062007200610064006900650067006F000E00000002000200640021000A00A1004500730074006F00790020007200650070006100720061006E0064006F0020006C0061007300200061006C006100730021000E0000000200020064000E000300010000000000"
+    },
+    "46": {
+      "text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Señor Quebradiego!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Señor Quebradiego!<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Señor Quebradiego!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Señor Quebradiego!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100010000000E000100040000000E00070000000000A10053006500F1006F007200200051007500650062007200610064006900650067006F0021000E000300000002001E000000"
+    },
+    "47": {
+      "text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Mire!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Mire!<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Mire!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Mire!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100010000000E000100040000000E00070000000000A1004D0069007200650021000E000300000002001E000000"
+    },
+    "48": {
+      "text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Lo he hecho yo solito!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Lo he hecho yo solito!<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Lo he hecho yo solito!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¡Lo he hecho yo solito!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100010000000E000100040000000E00070000000000A1004C006F00200068006500200068006500630068006F00200079006F00200073006F006C00690074006F0021000E000300000002001E000000"
+    },
+    "49": {
+      "text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¿Me aumenta el sueldo?<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¿Me aumenta el sueldo?<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¿Me aumenta el sueldo?<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,><C:0007,0000,>¿Me aumenta el sueldo?<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100010000000E000100040000000E00070000000000BF004D0065002000610075006D0065006E0074006100200065006C0020007300750065006C0064006F003F000E000300000002001E000000"
+    },
+    "50": {
+      "text": "Bien, una cosa menos.\nY ahora...<C:0003,0001,>",
+      "tokenized_text": "Bien, una cosa menos.\nY ahora...<C:0003,0001,>",
+      "original_text": "Bien, una cosa menos.\nY ahora...<C:0003,0001,>",
+      "original_tokenized_text": "Bien, una cosa menos.\nY ahora...<C:0003,0001,>",
+      "raw_full_hex": "4200690065006E002C00200075006E006100200063006F007300610020006D0065006E006F0073002E000A0059002000610068006F00720061002E002E002E000E000300010000000000"
+    },
+    "51": {
+      "text": "Ya sé que habéis\nhecho mucho por mí...<C:0003,0001,>",
+      "tokenized_text": "Ya sé que habéis\nhecho mucho por mí...<C:0003,0001,>",
+      "original_text": "Ya sé que habéis\nhecho mucho por mí...<C:0003,0001,>",
+      "original_tokenized_text": "Ya sé que habéis\nhecho mucho por mí...<C:0003,0001,>",
+      "raw_full_hex": "5900610020007300E90020007100750065002000680061006200E900690073000A0068006500630068006F0020006D007500630068006F00200070006F00720020006D00ED002E002E002E000E000300010000000000"
+    },
+    "52": {
+      "text": "¿Pero os importaría\naccionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,>",
+      "tokenized_text": "¿Pero os importaría\naccionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,>",
+      "original_text": "¿Pero os importaría\naccionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,>",
+      "original_tokenized_text": "¿Pero os importaría\naccionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,>",
+      "raw_full_hex": "BF005000650072006F0020006F007300200069006D0070006F007200740061007200ED0061000A0061006300630069006F006E0061007200200065006C0020000E000000030004002C65FFFF69006E0074006500720072007500700074006F0072000A000E00000003000400000000FF64006500200065007300610020006D00E1007100750069006E0061003F000E000300010000000000"
+    },
+    "53": {
+      "text": "Basta con que le deis\nun buen martillazo.<C:0003,0001,>",
+      "tokenized_text": "Basta con que le deis\nun buen martillazo.<C:0003,0001,>",
+      "original_text": "Basta con que le deis\nun buen martillazo.<C:0003,0001,>",
+      "original_tokenized_text": "Basta con que le deis\nun buen martillazo.<C:0003,0001,>",
+      "raw_full_hex": "42006100730074006100200063006F006E00200071007500650020006C006500200064006500690073000A0075006E0020006200750065006E0020006D0061007200740069006C006C0061007A006F002E000E000300010000000000"
+    },
+    "54": {
+      "text": "¡Ha funcionado!<C:0003,0001,>",
+      "tokenized_text": "¡Ha funcionado!<C:0003,0001,>",
+      "original_text": "¡Ha funcionado!<C:0003,0001,>",
+      "original_tokenized_text": "¡Ha funcionado!<C:0003,0001,>",
+      "raw_full_hex": "A100480061002000660075006E00630069006F006E00610064006F0021000E000300010000000000"
+    },
+    "55": {
+      "text": "¡Mil gracias! Ha quedado\ncomo nueva.<C:0003,0001,>",
+      "tokenized_text": "¡Mil gracias! Ha quedado\ncomo nueva.<C:0003,0001,>",
+      "original_text": "¡Mil gracias! Ha quedado\ncomo nueva.<C:0003,0001,>",
+      "original_tokenized_text": "¡Mil gracias! Ha quedado\ncomo nueva.<C:0003,0001,>",
+      "raw_full_hex": "A1004D0069006C0020006700720061006300690061007300210020004800610020007100750065006400610064006F000A0063006F006D006F0020006E0075006500760061002E000E000300010000000000"
+    },
+    "56": {
+      "text": "Bueno... ¿vais a accionar el interruptor\no qué?<C:0003,0001,>",
+      "tokenized_text": "Bueno... ¿vais a accionar el interruptor\no qué?<C:0003,0001,>",
+      "original_text": "Bueno... ¿vais a accionar el interruptor\no qué?<C:0003,0001,>",
+      "original_tokenized_text": "Bueno... ¿vais a accionar el interruptor\no qué?<C:0003,0001,>",
+      "raw_full_hex": "4200750065006E006F002E002E002E002000BF00760061006900730020006100200061006300630069006F006E0061007200200065006C00200069006E0074006500720072007500700074006F0072000A006F00200071007500E9003F000E000300010000000000"
+    },
+    "57": {
+      "text": "¿Adónde habrán ido\nlas <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0004,>¡Si el cacharro este no da vueltas,\nla fuente deja de funcionar!<C:0003,0001,>",
+      "tokenized_text": "¿Adónde habrán ido\nlas <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0004,>¡Si el cacharro este no da vueltas,\nla fuente deja de funcionar!<C:0003,0001,>",
+      "original_text": "¿Adónde habrán ido\nlas <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0004,>¡Si el cacharro este no da vueltas,\nla fuente deja de funcionar!<C:0003,0001,>",
+      "original_tokenized_text": "¿Adónde habrán ido\nlas <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF>?<C:0003,0001,><C:0000,0004,>¡Si el cacharro este no da vueltas,\nla fuente deja de funcionar!<C:0003,0001,>",
+      "raw_full_hex": "BF0041006400F3006E006400650020006800610062007200E1006E002000690064006F000A006C006100730020000E000000030004002C65FFFF61006C00610073000E00000003000400000000FF3F000E000300010000000E00000004000000A10053006900200065006C00200063006100630068006100720072006F002000650073007400650020006E006F0020006400610020007600750065006C007400610073002C000A006C00610020006600750065006E00740065002000640065006A0061002000640065002000660075006E00630069006F006E006100720021000E000300010000000000"
+    },
+    "58": {
+      "text": "¿Podéis accionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,><C:0000,0004,>Dadle un buen martillazo,\ny listos.<C:0003,0001,>",
+      "tokenized_text": "¿Podéis accionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,><C:0000,0004,>Dadle un buen martillazo,\ny listos.<C:0003,0001,>",
+      "original_text": "¿Podéis accionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,><C:0000,0004,>Dadle un buen martillazo,\ny listos.<C:0003,0001,>",
+      "original_tokenized_text": "¿Podéis accionar el <C:0000,0003,2C65FFFF>interruptor\n<C:0000,0003,000000FF>de esa máquina?<C:0003,0001,><C:0000,0004,>Dadle un buen martillazo,\ny listos.<C:0003,0001,>",
+      "raw_full_hex": "BF0050006F006400E90069007300200061006300630069006F006E0061007200200065006C0020000E000000030004002C65FFFF69006E0074006500720072007500700074006F0072000A000E00000003000400000000FF64006500200065007300610020006D00E1007100750069006E0061003F000E000300010000000E000000040000004400610064006C006500200075006E0020006200750065006E0020006D0061007200740069006C006C0061007A006F002C000A00790020006C006900730074006F0073002E000E000300010000000000"
+    },
+    "59": {
+      "text": "¿Habéis visto las máquinas\nesas que giran?<C:0003,0001,><C:0000,0004,>En verdad son molinos de viento\nque proporcionan energía\na todo el parque.<C:0003,0001,><C:0000,0004,>¡Quién se iba a imaginar que\nla idea ecológica del señor\nQuebradiego fuera a terminar\nasí!<C:0003,0001,>",
+      "tokenized_text": "¿Habéis visto las máquinas\nesas que giran?<C:0003,0001,><C:0000,0004,>En verdad son molinos de viento\nque proporcionan energía\na todo el parque.<C:0003,0001,><C:0000,0004,>¡Quién se iba a imaginar que\nla idea ecológica del señor\nQuebradiego fuera a terminar\nasí!<C:0003,0001,>",
+      "original_text": "¿Habéis visto las máquinas\nesas que giran?<C:0003,0001,><C:0000,0004,>En verdad son molinos de viento\nque proporcionan energía\na todo el parque.<C:0003,0001,><C:0000,0004,>¡Quién se iba a imaginar que\nla idea ecológica del señor\nQuebradiego fuera a terminar\nasí!<C:0003,0001,>",
+      "original_tokenized_text": "¿Habéis visto las máquinas\nesas que giran?<C:0003,0001,><C:0000,0004,>En verdad son molinos de viento\nque proporcionan energía\na todo el parque.<C:0003,0001,><C:0000,0004,>¡Quién se iba a imaginar que\nla idea ecológica del señor\nQuebradiego fuera a terminar\nasí!<C:0003,0001,>",
+      "raw_full_hex": "BF00480061006200E90069007300200076006900730074006F0020006C006100730020006D00E1007100750069006E00610073000A0065007300610073002000710075006500200067006900720061006E003F000E000300010000000E0000000400000045006E002000760065007200640061006400200073006F006E0020006D006F006C0069006E006F00730020006400650020007600690065006E0074006F000A007100750065002000700072006F0070006F007200630069006F006E0061006E00200065006E00650072006700ED0061000A006100200074006F0064006F00200065006C0020007000610072007100750065002E000E000300010000000E00000004000000A100510075006900E9006E00200073006500200069006200610020006100200069006D006100670069006E006100720020007100750065000A006C006100200069006400650061002000650063006F006C00F30067006900630061002000640065006C00200073006500F1006F0072000A0051007500650062007200610064006900650067006F002000660075006500720061002000610020007400650072006D0069006E00610072000A0061007300ED0021000E000300010000000000"
+    },
+    "60": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Sois los mejores!<C:0003,0001,><C:0000,0004,><C:0001,0000,>¡El señor Quebradiego ya\nno tendrá razones para bajarme el sueldo!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Sois los mejores!<C:0003,0001,><C:0000,0004,><C:0001,0000,>¡El señor Quebradiego ya\nno tendrá razones para bajarme el sueldo!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Sois los mejores!<C:0003,0001,><C:0000,0004,><C:0001,0000,>¡El señor Quebradiego ya\nno tendrá razones para bajarme el sueldo!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Sois los mejores!<C:0003,0001,><C:0000,0004,><C:0001,0000,>¡El señor Quebradiego ya\nno tendrá razones para bajarme el sueldo!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A10053006F006900730020006C006F00730020006D0065006A006F0072006500730021000E000300010000000E000000040000000E00010000000000A10045006C00200073006500F1006F007200200051007500650062007200610064006900650067006F002000790061000A006E006F002000740065006E0064007200E1002000720061007A006F006E0065007300200070006100720061002000620061006A00610072006D006500200065006C0020007300750065006C0064006F0021000E000300010000000000"
+    },
+    "61": {
+      "text": "¡Gracias de nuevo por echarme\nuna mano!<C:0003,0001,><C:0000,0004,>¿A que es una pasada lo verde\ny exuberante que está el parque?<C:0003,0001,>",
+      "tokenized_text": "¡Gracias de nuevo por echarme\nuna mano!<C:0003,0001,><C:0000,0004,>¿A que es una pasada lo verde\ny exuberante que está el parque?<C:0003,0001,>",
+      "original_text": "¡Gracias de nuevo por echarme\nuna mano!<C:0003,0001,><C:0000,0004,>¿A que es una pasada lo verde\ny exuberante que está el parque?<C:0003,0001,>",
+      "original_tokenized_text": "¡Gracias de nuevo por echarme\nuna mano!<C:0003,0001,><C:0000,0004,>¿A que es una pasada lo verde\ny exuberante que está el parque?<C:0003,0001,>",
+      "raw_full_hex": "A100470072006100630069006100730020006400650020006E007500650076006F00200070006F0072002000650063006800610072006D0065000A0075006E00610020006D0061006E006F0021000E000300010000000E00000004000000BF0041002000710075006500200065007300200075006E006100200070006100730061006400610020006C006F002000760065007200640065000A007900200065007800750062006500720061006E007400650020007100750065002000650073007400E100200065006C0020007000610072007100750065003F000E000300010000000000"
+    },
+    "62": {
+      "text": "¡Sí, señor! Qué pedazo\nde siesta.<C:0003,0001,>",
+      "tokenized_text": "¡Sí, señor! Qué pedazo\nde siesta.<C:0003,0001,>",
+      "original_text": "¡Sí, señor! Qué pedazo\nde siesta.<C:0003,0001,>",
+      "original_tokenized_text": "¡Sí, señor! Qué pedazo\nde siesta.<C:0003,0001,>",
+      "raw_full_hex": "A1005300ED002C00200073006500F1006F0072002100200051007500E900200070006500640061007A006F000A006400650020007300690065007300740061002E000E000300010000000000"
+    },
+    "63": {
+      "text": "<C:0000,0002,9600><C:0001,0001,><C:0001,0004,>¡AAAH!<C:0003,0001,><C:0000,0002,6400>",
+      "tokenized_text": "<C:0000,0002,9600><C:0001,0001,><C:0001,0004,>¡AAAH!<C:0003,0001,><C:0000,0002,6400>",
+      "original_text": "<C:0000,0002,9600><C:0001,0001,><C:0001,0004,>¡AAAH!<C:0003,0001,><C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0000,0002,9600><C:0001,0001,><C:0001,0004,>¡AAAH!<C:0003,0001,><C:0000,0002,6400>",
+      "raw_full_hex": "0E0000000200020096000E000100010000000E00010004000000A100410041004100480021000E000300010000000E0000000200020064000000"
+    },
+    "64": {
+      "text": "<C:0001,0001,><C:0001,0004,>¡Pero si cuando me quedé dormido\neste sitio era totalmente\ndiferente!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Pero si cuando me quedé dormido\neste sitio era totalmente\ndiferente!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>¡Pero si cuando me quedé dormido\neste sitio era totalmente\ndiferente!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>¡Pero si cuando me quedé dormido\neste sitio era totalmente\ndiferente!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E00010004000000A1005000650072006F0020007300690020006300750061006E0064006F0020006D00650020007100750065006400E900200064006F0072006D00690064006F000A006500730074006500200073006900740069006F002000650072006100200074006F00740061006C006D0065006E00740065000A006400690066006500720065006E007400650021000E000300010000000000"
+    },
+    "65": {
+      "text": "<C:0001,0001,><C:0001,0004,>Un momento... ¿¡Cuánto tiempo\nhe estado durmiendo!?<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>Un momento... ¿¡Cuánto tiempo\nhe estado durmiendo!?<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0001,0004,>Un momento... ¿¡Cuánto tiempo\nhe estado durmiendo!?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>Un momento... ¿¡Cuánto tiempo\nhe estado durmiendo!?<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E0001000400000055006E0020006D006F006D0065006E0074006F002E002E002E002000BF00A10043007500E1006E0074006F0020007400690065006D0070006F000A00680065002000650073007400610064006F0020006400750072006D00690065006E0064006F0021003F000E000300010000000000"
+    },
+    "66": {
+      "text": "Ya veo, estaba atrapado\ndentro de una... ¿almohada?<C:0003,0001,>",
+      "tokenized_text": "Ya veo, estaba atrapado\ndentro de una... ¿almohada?<C:0003,0001,>",
+      "original_text": "Ya veo, estaba atrapado\ndentro de una... ¿almohada?<C:0003,0001,>",
+      "original_tokenized_text": "Ya veo, estaba atrapado\ndentro de una... ¿almohada?<C:0003,0001,>",
+      "raw_full_hex": "590061002000760065006F002C002000650073007400610062006100200061007400720061007000610064006F000A00640065006E00740072006F00200064006500200075006E0061002E002E002E002000BF0061006C006D006F0068006100640061003F000E000300010000000000"
+    },
+    "67": {
+      "text": "Gracias por rescatarme,\nno sé cómo agradecéroslo.<C:0003,0001,><C:0000,0004,>Mi único talento es impulsar\ncosas y a personas muy alto.<C:0003,0001,><C:0000,0004,>Sé que no es mucho, pero\nsi necesitáis una manita,\ndecídmelo.<C:0003,0001,>",
+      "tokenized_text": "Gracias por rescatarme,\nno sé cómo agradecéroslo.<C:0003,0001,><C:0000,0004,>Mi único talento es impulsar\ncosas y a personas muy alto.<C:0003,0001,><C:0000,0004,>Sé que no es mucho, pero\nsi necesitáis una manita,\ndecídmelo.<C:0003,0001,>",
+      "original_text": "Gracias por rescatarme,\nno sé cómo agradecéroslo.<C:0003,0001,><C:0000,0004,>Mi único talento es impulsar\ncosas y a personas muy alto.<C:0003,0001,><C:0000,0004,>Sé que no es mucho, pero\nsi necesitáis una manita,\ndecídmelo.<C:0003,0001,>",
+      "original_tokenized_text": "Gracias por rescatarme,\nno sé cómo agradecéroslo.<C:0003,0001,><C:0000,0004,>Mi único talento es impulsar\ncosas y a personas muy alto.<C:0003,0001,><C:0000,0004,>Sé que no es mucho, pero\nsi necesitáis una manita,\ndecídmelo.<C:0003,0001,>",
+      "raw_full_hex": "4700720061006300690061007300200070006F0072002000720065007300630061007400610072006D0065002C000A006E006F0020007300E90020006300F3006D006F0020006100670072006100640065006300E90072006F0073006C006F002E000E000300010000000E000000040000004D0069002000FA006E00690063006F002000740061006C0065006E0074006F00200065007300200069006D00700075006C007300610072000A0063006F007300610073002000790020006100200070006500720073006F006E006100730020006D0075007900200061006C0074006F002E000E000300010000000E000000040000005300E900200071007500650020006E006F0020006500730020006D007500630068006F002C0020007000650072006F000A007300690020006E00650063006500730069007400E10069007300200075006E00610020006D0061006E006900740061002C000A00640065006300ED0064006D0065006C006F002E000E000300010000000000"
+    },
+    "68": {
+      "text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "tokenized_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "original_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "original_tokenized_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "raw_full_hex": "0E00070000000000A1004200750065006E006100730021002000BF0051007500E900200071007500690065007200650073003F000E0003000000020014000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF49006D007000FA006C00730061006D00650020006800610063006900610020006100720072006900620061002E000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF49007200200061006C0020006D0075006E0064006F0020006400650020006C006F0073002000730075006500F1006F0073002E000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF4E006100640061002E000000"
+    },
+    "69": {
+      "text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "tokenized_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "original_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "original_tokenized_text": "<C:0007,0000,>¡Buenas! ¿Qué quieres?<C:0003,0000,1400>\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Impúlsame hacia arriba.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Ir al mundo de los sueños.\n<C:0005,0001,><C:0000,0003,FFFFFFFF><C:0008,0001,0A00><C:0000,0003,000000FF>Nada.",
+      "raw_full_hex": "0E00070000000000A1004200750065006E006100730021002000BF0051007500E900200071007500690065007200650073003F000E0003000000020014000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF49006D007000FA006C00730061006D00650020006800610063006900610020006100720072006900620061002E000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF49007200200061006C0020006D0075006E0064006F0020006400650020006C006F0073002000730075006500F1006F0073002E000A000E000500010000000E00000003000400FFFFFFFF0E000800010002000A000E00000003000400000000FF4E006100640061002E000000"
+    },
+    "70": {
+      "text": "<C:0007,0000,>¿Quieres ir al mundo de los sueños?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0007,0000,>¿Quieres ir al mundo de los sueños?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "original_text": "<C:0007,0000,>¿Quieres ir al mundo de los sueños?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0007,0000,>¿Quieres ir al mundo de los sueños?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No.        　<C:0005,0001,>Sí.<C:0003,0000,0A00>",
+      "raw_full_hex": "0E00070000000000BF005100750069006500720065007300200069007200200061006C0020006D0075006E0064006F0020006400650020006C006F0073002000730075006500F1006F0073003F000E000300000002000A000A000E000100010000000E000500010000004E006F002E002000200020002000200020002000200000300E000500010000005300ED002E000E000300000002000A000000"
+    },
+    "71": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "72": {
+      "text": "Una de las alas se ha quedado\nencima de esa roca.<C:0003,0001,><C:0000,0004,>Se supone que tengo\nque hacerla pedazos.<C:0003,0001,><C:0000,0004,>Pero no sé dónde\nhe puesto mi<C:0000,0003,2C65FFFF> martillo<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "tokenized_text": "Una de las alas se ha quedado\nencima de esa roca.<C:0003,0001,><C:0000,0004,>Se supone que tengo\nque hacerla pedazos.<C:0003,0001,><C:0000,0004,>Pero no sé dónde\nhe puesto mi<C:0000,0003,2C65FFFF> martillo<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "original_text": "Una de las alas se ha quedado\nencima de esa roca.<C:0003,0001,><C:0000,0004,>Se supone que tengo\nque hacerla pedazos.<C:0003,0001,><C:0000,0004,>Pero no sé dónde\nhe puesto mi<C:0000,0003,2C65FFFF> martillo<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "original_tokenized_text": "Una de las alas se ha quedado\nencima de esa roca.<C:0003,0001,><C:0000,0004,>Se supone que tengo\nque hacerla pedazos.<C:0003,0001,><C:0000,0004,>Pero no sé dónde\nhe puesto mi<C:0000,0003,2C65FFFF> martillo<C:0000,0003,000000FF>...<C:0003,0001,>",
+      "raw_full_hex": "55006E00610020006400650020006C0061007300200061006C006100730020007300650020006800610020007100750065006400610064006F000A0065006E00630069006D0061002000640065002000650073006100200072006F00630061002E000E000300010000000E000000040000005300650020007300750070006F006E00650020007100750065002000740065006E0067006F000A007100750065002000680061006300650072006C006100200070006500640061007A006F0073002E000E000300010000000E000000040000005000650072006F0020006E006F0020007300E90020006400F3006E00640065000A00680065002000700075006500730074006F0020006D0069000E000000030004002C65FFFF20006D0061007200740069006C006C006F000E00000003000400000000FF2E002E002E000E000300010000000000"
+    },
+    "73": {
+      "text": "La última vez que lo vi, fue cuando\nestaba reparando ese puente...<C:0003,0001,>",
+      "tokenized_text": "La última vez que lo vi, fue cuando\nestaba reparando ese puente...<C:0003,0001,>",
+      "original_text": "La última vez que lo vi, fue cuando\nestaba reparando ese puente...<C:0003,0001,>",
+      "original_tokenized_text": "La última vez que lo vi, fue cuando\nestaba reparando ese puente...<C:0003,0001,>",
+      "raw_full_hex": "4C0061002000FA006C00740069006D0061002000760065007A00200071007500650020006C006F002000760069002C00200066007500650020006300750061006E0064006F000A0065007300740061006200610020007200650070006100720061006E0064006F00200065007300650020007000750065006E00740065002E002E002E000E000300010000000000"
+    },
+    "74": {
+      "text": "¡Eh! ¿Estáis utilizando\nlos martillos?<C:0003,0001,><C:0000,0004,>¡Es una satisfacción\ndestruir una roca enorme!<C:0003,0001,><C:0000,0004,>Es terapéutico y además,\n¡a veces encuentras monedas\ndentro!<C:0003,0001,>",
+      "tokenized_text": "¡Eh! ¿Estáis utilizando\nlos martillos?<C:0003,0001,><C:0000,0004,>¡Es una satisfacción\ndestruir una roca enorme!<C:0003,0001,><C:0000,0004,>Es terapéutico y además,\n¡a veces encuentras monedas\ndentro!<C:0003,0001,>",
+      "original_text": "¡Eh! ¿Estáis utilizando\nlos martillos?<C:0003,0001,><C:0000,0004,>¡Es una satisfacción\ndestruir una roca enorme!<C:0003,0001,><C:0000,0004,>Es terapéutico y además,\n¡a veces encuentras monedas\ndentro!<C:0003,0001,>",
+      "original_tokenized_text": "¡Eh! ¿Estáis utilizando\nlos martillos?<C:0003,0001,><C:0000,0004,>¡Es una satisfacción\ndestruir una roca enorme!<C:0003,0001,><C:0000,0004,>Es terapéutico y además,\n¡a veces encuentras monedas\ndentro!<C:0003,0001,>",
+      "raw_full_hex": "A1004500680021002000BF00450073007400E1006900730020007500740069006C0069007A0061006E0064006F000A006C006F00730020006D0061007200740069006C006C006F0073003F000E000300010000000E00000004000000A10045007300200075006E00610020007300610074006900730066006100630063006900F3006E000A0064006500730074007200750069007200200075006E006100200072006F0063006100200065006E006F0072006D00650021000E000300010000000E0000000400000045007300200074006500720061007000E90075007400690063006F002000790020006100640065006D00E10073002C000A00A1006100200076006500630065007300200065006E006300750065006E00740072006100730020006D006F006E0065006400610073000A00640065006E00740072006F0021000E000300010000000000"
+    },
+    "75": {
+      "text": "¡He oído que el castillo flotante ha\nvolatilizado unas pequeñas islas\ncon láseres!<C:0003,0001,><C:0000,0004,>Ojalá también hubiera volatilizado\nesas rocas.<C:0003,0001,>",
+      "tokenized_text": "¡He oído que el castillo flotante ha\nvolatilizado unas pequeñas islas\ncon láseres!<C:0003,0001,><C:0000,0004,>Ojalá también hubiera volatilizado\nesas rocas.<C:0003,0001,>",
+      "original_text": "¡He oído que el castillo flotante ha\nvolatilizado unas pequeñas islas\ncon láseres!<C:0003,0001,><C:0000,0004,>Ojalá también hubiera volatilizado\nesas rocas.<C:0003,0001,>",
+      "original_tokenized_text": "¡He oído que el castillo flotante ha\nvolatilizado unas pequeñas islas\ncon láseres!<C:0003,0001,><C:0000,0004,>Ojalá también hubiera volatilizado\nesas rocas.<C:0003,0001,>",
+      "raw_full_hex": "A1004800650020006F00ED0064006F002000710075006500200065006C002000630061007300740069006C006C006F00200066006C006F00740061006E00740065002000680061000A0076006F006C006100740069006C0069007A00610064006F00200075006E0061007300200070006500710075006500F100610073002000690073006C00610073000A0063006F006E0020006C00E1007300650072006500730021000E000300010000000E000000040000004F006A0061006C00E1002000740061006D0062006900E9006E0020006800750062006900650072006100200076006F006C006100740069006C0069007A00610064006F000A006500730061007300200072006F006300610073002E000E000300010000000000"
+    },
+    "76": {
+      "text": "(¡Flores enormes! ¡Y una fuente!\n¡Este parque es lo mejor!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¡Flores enormes! ¡Y una fuente!\n¡Este parque es lo mejor!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¡Flores enormes! ¡Y una fuente!\n¡Este parque es lo mejor!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¡Flores enormes! ¡Y una fuente!\n¡Este parque es lo mejor!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800A10046006C006F00720065007300200065006E006F0072006D006500730021002000A1005900200075006E00610020006600750065006E007400650021000A00A1004500730074006500200070006100720071007500650020006500730020006C006F0020006D0065006A006F007200210029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "77": {
+      "text": "(Aunque me gustaría que hubiera\nfrutas dulces en los árboles.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(Aunque me gustaría que hubiera\nfrutas dulces en los árboles.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(Aunque me gustaría que hubiera\nfrutas dulces en los árboles.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(Aunque me gustaría que hubiera\nfrutas dulces en los árboles.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800410075006E0071007500650020006D0065002000670075007300740061007200ED0061002000710075006500200068007500620069006500720061000A006600720075007400610073002000640075006C00630065007300200065006E0020006C006F0073002000E100720062006F006C00650073002E0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "78": {
+      "text": "(A veces encuentro bayas\nde una pinta deliciosa en los arbustos.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(A veces encuentro bayas\nde una pinta deliciosa en los arbustos.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(A veces encuentro bayas\nde una pinta deliciosa en los arbustos.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(A veces encuentro bayas\nde una pinta deliciosa en los arbustos.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "28004100200076006500630065007300200065006E006300750065006E00740072006F002000620061007900610073000A0064006500200075006E0061002000700069006E00740061002000640065006C006900630069006F0073006100200065006E0020006C006F00730020006100720062007500730074006F0073002E0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "79": {
+      "text": "(Pero no las alcanzo\ncon la lengua...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(Pero no las alcanzo\ncon la lengua...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(Pero no las alcanzo\ncon la lengua...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(Pero no las alcanzo\ncon la lengua...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "28005000650072006F0020006E006F0020006C0061007300200061006C00630061006E007A006F000A0063006F006E0020006C00610020006C0065006E006700750061002E002E002E0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "80": {
+      "text": "(¡Ha aparecido de repente\nun castillo flotante rarísimo!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¡Ha aparecido de repente\nun castillo flotante rarísimo!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¡Ha aparecido de repente\nun castillo flotante rarísimo!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¡Ha aparecido de repente\nun castillo flotante rarísimo!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800A100480061002000610070006100720065006300690064006F00200064006500200072006500700065006E00740065000A0075006E002000630061007300740069006C006C006F00200066006C006F00740061006E00740065002000720061007200ED00730069006D006F00210029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "81": {
+      "text": "(¿Quién lo habrá construido? ¿Y cómo?\n¿Vendrán en son de paz?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¿Quién lo habrá construido? ¿Y cómo?\n¿Vendrán en son de paz?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¿Quién lo habrá construido? ¿Y cómo?\n¿Vendrán en son de paz?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¿Quién lo habrá construido? ¿Y cómo?\n¿Vendrán en son de paz?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800BF00510075006900E9006E0020006C006F0020006800610062007200E100200063006F006E007300740072007500690064006F003F002000BF00590020006300F3006D006F003F000A00BF00560065006E0064007200E1006E00200065006E00200073006F006E002000640065002000700061007A003F0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "82": {
+      "text": "(¿Qué es ese castillo\nflotante?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¿Qué es ese castillo\nflotante?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¿Qué es ese castillo\nflotante?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¿Qué es ese castillo\nflotante?)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800BF0051007500E90020006500730020006500730065002000630061007300740069006C006C006F000A0066006C006F00740061006E00740065003F0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "83": {
+      "text": "(¿Y si en vez de un castillo,\nfuera una fruta gigante? Uuuuy...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¿Y si en vez de un castillo,\nfuera una fruta gigante? Uuuuy...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¿Y si en vez de un castillo,\nfuera una fruta gigante? Uuuuy...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¿Y si en vez de un castillo,\nfuera una fruta gigante? Uuuuy...)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800BF005900200073006900200065006E002000760065007A00200064006500200075006E002000630061007300740069006C006C006F002C000A0066007500650072006100200075006E006100200066007200750074006100200067006900670061006E00740065003F002000550075007500750079002E002E002E0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "84": {
+      "text": "(¡El terremoto ha sacudido\ntodos los árboles del parque!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(¡El terremoto ha sacudido\ntodos los árboles del parque!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(¡El terremoto ha sacudido\ntodos los árboles del parque!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(¡El terremoto ha sacudido\ntodos los árboles del parque!)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "2800A10045006C002000740065007200720065006D006F0074006F00200068006100200073006100630075006400690064006F000A0074006F0064006F00730020006C006F0073002000E100720062006F006C00650073002000640065006C002000700061007200710075006500210029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "85": {
+      "text": "(Ojalá hubieran tenido fruta, ahora\nme estaría poniendo las botas.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "(Ojalá hubieran tenido fruta, ahora\nme estaría poniendo las botas.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "(Ojalá hubieran tenido fruta, ahora\nme estaría poniendo las botas.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "(Ojalá hubieran tenido fruta, ahora\nme estaría poniendo las botas.)<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "28004F006A0061006C00E100200068007500620069006500720061006E002000740065006E00690064006F002000660072007500740061002C002000610068006F00720061000A006D006500200065007300740061007200ED006100200070006F006E00690065006E0064006F0020006C0061007300200062006F007400610073002E0029000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "86": {
+      "text": "¡Explorar zonas nuevas\nes tan emocionante!...<C:0003,0001,>",
+      "tokenized_text": "¡Explorar zonas nuevas\nes tan emocionante!...<C:0003,0001,>",
+      "original_text": "¡Explorar zonas nuevas\nes tan emocionante!...<C:0003,0001,>",
+      "original_tokenized_text": "¡Explorar zonas nuevas\nes tan emocionante!...<C:0003,0001,>",
+      "raw_full_hex": "A1004500780070006C006F0072006100720020007A006F006E006100730020006E00750065007600610073000A00650073002000740061006E00200065006D006F00630069006F006E0061006E007400650021002E002E002E000E000300010000000000"
+    },
+    "87": {
+      "text": "¡Nas! ¿Cómo\nos va?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "¡Nas! ¿Cómo\nos va?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "¡Nas! ¿Cómo\nos va?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "¡Nas! ¿Cómo\nos va?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "A1004E006100730021002000BF004300F3006D006F000A006F0073002000760061003F000E00000003000400000000FF0E000300010000000E00000003000400000000FF0000"
+    },
+    "88": {
+      "text": "¡Mirad esas alas bailando\nen la brisa!<C:0003,0001,><C:0000,0004,>En el Reino Judía no\ntenemos cosas así.<C:0003,0001,>",
+      "tokenized_text": "¡Mirad esas alas bailando\nen la brisa!<C:0003,0001,><C:0000,0004,>En el Reino Judía no\ntenemos cosas así.<C:0003,0001,>",
+      "original_text": "¡Mirad esas alas bailando\nen la brisa!<C:0003,0001,><C:0000,0004,>En el Reino Judía no\ntenemos cosas así.<C:0003,0001,>",
+      "original_tokenized_text": "¡Mirad esas alas bailando\nen la brisa!<C:0003,0001,><C:0000,0004,>En el Reino Judía no\ntenemos cosas así.<C:0003,0001,>",
+      "raw_full_hex": "A1004D00690072006100640020006500730061007300200061006C006100730020006200610069006C0061006E0064006F000A0065006E0020006C00610020006200720069007300610021000E000300010000000E0000000400000045006E00200065006C0020005200650069006E006F0020004A0075006400ED00610020006E006F000A00740065006E0065006D006F007300200063006F00730061007300200061007300ED002E000E000300010000000000"
+    },
+    "89": {
+      "text": "¡Me están entrando ganas\nde vivir una aventura prodigiosa!<C:0003,0001,><C:0000,0004,>Ja, ja, ja.\nNo, es broma.<C:0003,0001,>",
+      "tokenized_text": "¡Me están entrando ganas\nde vivir una aventura prodigiosa!<C:0003,0001,><C:0000,0004,>Ja, ja, ja.\nNo, es broma.<C:0003,0001,>",
+      "original_text": "¡Me están entrando ganas\nde vivir una aventura prodigiosa!<C:0003,0001,><C:0000,0004,>Ja, ja, ja.\nNo, es broma.<C:0003,0001,>",
+      "original_tokenized_text": "¡Me están entrando ganas\nde vivir una aventura prodigiosa!<C:0003,0001,><C:0000,0004,>Ja, ja, ja.\nNo, es broma.<C:0003,0001,>",
+      "raw_full_hex": "A1004D0065002000650073007400E1006E00200065006E007400720061006E0064006F002000670061006E00610073000A0064006500200076006900760069007200200075006E00610020006100760065006E0074007500720061002000700072006F0064006900670069006F007300610021000E000300010000000E000000040000004A0061002C0020006A0061002C0020006A0061002E000A004E006F002C002000650073002000620072006F006D0061002E000E000300010000000000"
+    },
+    "90": {
+      "text": "La princesa Peach ha pasado\npor aquí hace un rato.<C:0003,0001,><C:0000,0004,>Y qué queréis que os diga, pero\n¡el rosa le sienta divinamente!<C:0003,0001,>",
+      "tokenized_text": "La princesa Peach ha pasado\npor aquí hace un rato.<C:0003,0001,><C:0000,0004,>Y qué queréis que os diga, pero\n¡el rosa le sienta divinamente!<C:0003,0001,>",
+      "original_text": "La princesa Peach ha pasado\npor aquí hace un rato.<C:0003,0001,><C:0000,0004,>Y qué queréis que os diga, pero\n¡el rosa le sienta divinamente!<C:0003,0001,>",
+      "original_tokenized_text": "La princesa Peach ha pasado\npor aquí hace un rato.<C:0003,0001,><C:0000,0004,>Y qué queréis que os diga, pero\n¡el rosa le sienta divinamente!<C:0003,0001,>",
+      "raw_full_hex": "4C00610020007000720069006E0063006500730061002000500065006100630068002000680061002000700061007300610064006F000A0070006F0072002000610071007500ED0020006800610063006500200075006E0020007200610074006F002E000E000300010000000E000000040000005900200071007500E90020007100750065007200E90069007300200071007500650020006F007300200064006900670061002C0020007000650072006F000A00A10065006C00200072006F007300610020006C00650020007300690065006E0074006100200064006900760069006E0061006D0065006E007400650021000E000300010000000000"
+    },
+    "91": {
+      "text": "De repente se ha oscurecido\nel cielo.<C:0003,0001,><C:0000,0004,>¡Y luego ha aparecido\nun edificio rarísimo que\nflotaba!<C:0003,0001,>",
+      "tokenized_text": "De repente se ha oscurecido\nel cielo.<C:0003,0001,><C:0000,0004,>¡Y luego ha aparecido\nun edificio rarísimo que\nflotaba!<C:0003,0001,>",
+      "original_text": "De repente se ha oscurecido\nel cielo.<C:0003,0001,><C:0000,0004,>¡Y luego ha aparecido\nun edificio rarísimo que\nflotaba!<C:0003,0001,>",
+      "original_tokenized_text": "De repente se ha oscurecido\nel cielo.<C:0003,0001,><C:0000,0004,>¡Y luego ha aparecido\nun edificio rarísimo que\nflotaba!<C:0003,0001,>",
+      "raw_full_hex": "44006500200072006500700065006E007400650020007300650020006800610020006F00730063007500720065006300690064006F000A0065006C0020006300690065006C006F002E000E000300010000000E00000004000000A100590020006C007500650067006F002000680061002000610070006100720065006300690064006F000A0075006E00200065006400690066006900630069006F002000720061007200ED00730069006D006F0020007100750065000A0066006C006F00740061006200610021000E000300010000000000"
+    },
+    "92": {
+      "text": "Después del estruendo que ha\ncausado el castillo, ¡me aburro!<C:0003,0001,><C:0000,0004,>¡Todo está en silencio! Me marcho\nen busca de emociones y aventuras.<C:0003,0001,>",
+      "tokenized_text": "Después del estruendo que ha\ncausado el castillo, ¡me aburro!<C:0003,0001,><C:0000,0004,>¡Todo está en silencio! Me marcho\nen busca de emociones y aventuras.<C:0003,0001,>",
+      "original_text": "Después del estruendo que ha\ncausado el castillo, ¡me aburro!<C:0003,0001,><C:0000,0004,>¡Todo está en silencio! Me marcho\nen busca de emociones y aventuras.<C:0003,0001,>",
+      "original_tokenized_text": "Después del estruendo que ha\ncausado el castillo, ¡me aburro!<C:0003,0001,><C:0000,0004,>¡Todo está en silencio! Me marcho\nen busca de emociones y aventuras.<C:0003,0001,>",
+      "raw_full_hex": "44006500730070007500E90073002000640065006C0020006500730074007200750065006E0064006F0020007100750065002000680061000A006300610075007300610064006F00200065006C002000630061007300740069006C006C006F002C002000A1006D0065002000610062007500720072006F0021000E000300010000000E00000004000000A10054006F0064006F002000650073007400E100200065006E002000730069006C0065006E00630069006F00210020004D00650020006D0061007200630068006F000A0065006E00200062007500730063006100200064006500200065006D006F00630069006F006E00650073002000790020006100760065006E00740075007200610073002E000E000300010000000000"
+    },
+    "93": {
+      "text": "El terremoto ha conmocionado\na todos.<C:0003,0001,><C:0000,0004,>Y los bañistas han salido\ncorriendo de la playa.<C:0003,0001,><C:0000,0004,>Bueno, en cierto modo,\nha sido un regalo para la vista.<C:0003,0001,>",
+      "tokenized_text": "El terremoto ha conmocionado\na todos.<C:0003,0001,><C:0000,0004,>Y los bañistas han salido\ncorriendo de la playa.<C:0003,0001,><C:0000,0004,>Bueno, en cierto modo,\nha sido un regalo para la vista.<C:0003,0001,>",
+      "original_text": "El terremoto ha conmocionado\na todos.<C:0003,0001,><C:0000,0004,>Y los bañistas han salido\ncorriendo de la playa.<C:0003,0001,><C:0000,0004,>Bueno, en cierto modo,\nha sido un regalo para la vista.<C:0003,0001,>",
+      "original_tokenized_text": "El terremoto ha conmocionado\na todos.<C:0003,0001,><C:0000,0004,>Y los bañistas han salido\ncorriendo de la playa.<C:0003,0001,><C:0000,0004,>Bueno, en cierto modo,\nha sido un regalo para la vista.<C:0003,0001,>",
+      "raw_full_hex": "45006C002000740065007200720065006D006F0074006F00200068006100200063006F006E006D006F00630069006F006E00610064006F000A006100200074006F0064006F0073002E000E000300010000000E00000004000000590020006C006F007300200062006100F100690073007400610073002000680061006E002000730061006C00690064006F000A0063006F0072007200690065006E0064006F0020006400650020006C006100200070006C006100790061002E000E000300010000000E000000040000004200750065006E006F002C00200065006E002000630069006500720074006F0020006D006F0064006F002C000A006800610020007300690064006F00200075006E00200072006500670061006C006F002000700061007200610020006C0061002000760069007300740061002E000E000300010000000000"
+    },
+    "94": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "95": {
+      "text": "¡Las <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF> se han caído\ny ahora no funciona nada!<C:0003,0001,><C:0000,0004,>Igual si vuelven a ponerlas\nen su sitio, se soluciona\nel problema.<C:0003,0001,>",
+      "tokenized_text": "¡Las <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF> se han caído\ny ahora no funciona nada!<C:0003,0001,><C:0000,0004,>Igual si vuelven a ponerlas\nen su sitio, se soluciona\nel problema.<C:0003,0001,>",
+      "original_text": "¡Las <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF> se han caído\ny ahora no funciona nada!<C:0003,0001,><C:0000,0004,>Igual si vuelven a ponerlas\nen su sitio, se soluciona\nel problema.<C:0003,0001,>",
+      "original_tokenized_text": "¡Las <C:0000,0003,2C65FFFF>alas<C:0000,0003,000000FF> se han caído\ny ahora no funciona nada!<C:0003,0001,><C:0000,0004,>Igual si vuelven a ponerlas\nen su sitio, se soluciona\nel problema.<C:0003,0001,>",
+      "raw_full_hex": "A1004C006100730020000E000000030004002C65FFFF61006C00610073000E00000003000400000000FF2000730065002000680061006E00200063006100ED0064006F000A0079002000610068006F007200610020006E006F002000660075006E00630069006F006E00610020006E0061006400610021000E000300010000000E0000000400000049006700750061006C0020007300690020007600750065006C00760065006E0020006100200070006F006E00650072006C00610073000A0065006E00200073007500200073006900740069006F002C00200073006500200073006F006C007500630069006F006E0061000A0065006C002000700072006F0062006C0065006D0061002E000E000300010000000000"
+    },
+    "96": {
+      "text": "Y hablando de alas, he visto\ncómo caía una por allí.<C:0003,0001,>",
+      "tokenized_text": "Y hablando de alas, he visto\ncómo caía una por allí.<C:0003,0001,>",
+      "original_text": "Y hablando de alas, he visto\ncómo caía una por allí.<C:0003,0001,>",
+      "original_tokenized_text": "Y hablando de alas, he visto\ncómo caía una por allí.<C:0003,0001,>",
+      "raw_full_hex": "590020006800610062006C0061006E0064006F00200064006500200061006C00610073002C00200068006500200076006900730074006F000A006300F3006D006F00200063006100ED006100200075006E006100200070006F007200200061006C006C00ED002E000E000300010000000000"
+    },
+    "97": {
+      "text": "¡Qué bien! Han arreglado\nlas alas.<C:0003,0001,><C:0000,0004,>Pero la fuente sigue\nsin funcionar.<C:0003,0001,><C:0000,0004,>Seguro que queda algo\npor hacer.<C:0003,0001,>",
+      "tokenized_text": "¡Qué bien! Han arreglado\nlas alas.<C:0003,0001,><C:0000,0004,>Pero la fuente sigue\nsin funcionar.<C:0003,0001,><C:0000,0004,>Seguro que queda algo\npor hacer.<C:0003,0001,>",
+      "original_text": "¡Qué bien! Han arreglado\nlas alas.<C:0003,0001,><C:0000,0004,>Pero la fuente sigue\nsin funcionar.<C:0003,0001,><C:0000,0004,>Seguro que queda algo\npor hacer.<C:0003,0001,>",
+      "original_tokenized_text": "¡Qué bien! Han arreglado\nlas alas.<C:0003,0001,><C:0000,0004,>Pero la fuente sigue\nsin funcionar.<C:0003,0001,><C:0000,0004,>Seguro que queda algo\npor hacer.<C:0003,0001,>",
+      "raw_full_hex": "A10051007500E90020006200690065006E0021002000480061006E002000610072007200650067006C00610064006F000A006C0061007300200061006C00610073002E000E000300010000000E000000040000005000650072006F0020006C00610020006600750065006E00740065002000730069006700750065000A00730069006E002000660075006E00630069006F006E00610072002E000E000300010000000E00000004000000530065006700750072006F002000710075006500200071007500650064006100200061006C0067006F000A0070006F0072002000680061006300650072002E000E000300010000000000"
+    },
+    "98": {
+      "text": "¡Hala! Esas máquinas son\nincreíbles.<C:0003,0001,><C:0000,0004,>¿Y si me llevara una de tapadillo\nal Reino Champiñón?<C:0003,0001,>",
+      "tokenized_text": "¡Hala! Esas máquinas son\nincreíbles.<C:0003,0001,><C:0000,0004,>¿Y si me llevara una de tapadillo\nal Reino Champiñón?<C:0003,0001,>",
+      "original_text": "¡Hala! Esas máquinas son\nincreíbles.<C:0003,0001,><C:0000,0004,>¿Y si me llevara una de tapadillo\nal Reino Champiñón?<C:0003,0001,>",
+      "original_tokenized_text": "¡Hala! Esas máquinas son\nincreíbles.<C:0003,0001,><C:0000,0004,>¿Y si me llevara una de tapadillo\nal Reino Champiñón?<C:0003,0001,>",
+      "raw_full_hex": "A100480061006C00610021002000450073006100730020006D00E1007100750069006E0061007300200073006F006E000A0069006E00630072006500ED0062006C00650073002E000E000300010000000E00000004000000BF00590020007300690020006D00650020006C006C0065007600610072006100200075006E00610020006400650020007400610070006100640069006C006C006F000A0061006C0020005200650069006E006F0020004300680061006D0070006900F100F3006E003F000E000300010000000000"
+    },
+    "99": {
+      "text": "Iría a las mil maravillas en\nel Castillo de Peach.<C:0003,0001,><C:0000,0004,>Aunque puede que dejara\nsin trabajo a los jardineros...<C:0003,0001,>",
+      "tokenized_text": "Iría a las mil maravillas en\nel Castillo de Peach.<C:0003,0001,><C:0000,0004,>Aunque puede que dejara\nsin trabajo a los jardineros...<C:0003,0001,>",
+      "original_text": "Iría a las mil maravillas en\nel Castillo de Peach.<C:0003,0001,><C:0000,0004,>Aunque puede que dejara\nsin trabajo a los jardineros...<C:0003,0001,>",
+      "original_tokenized_text": "Iría a las mil maravillas en\nel Castillo de Peach.<C:0003,0001,><C:0000,0004,>Aunque puede que dejara\nsin trabajo a los jardineros...<C:0003,0001,>",
+      "raw_full_hex": "49007200ED0061002000610020006C006100730020006D0069006C0020006D00610072006100760069006C006C0061007300200065006E000A0065006C002000430061007300740069006C006C006F002000640065002000500065006100630068002E000E000300010000000E00000004000000410075006E0071007500650020007000750065006400650020007100750065002000640065006A006100720061000A00730069006E002000740072006100620061006A006F002000610020006C006F00730020006A0061007200640069006E00650072006F0073002E002E002E000E000300010000000000"
+    },
+    "100": {
+      "text": "¡El estruendo de antes\nme ha pegado un buen susto!<C:0003,0001,><C:0000,0004,>¡Pensé que se iban a caer\notra vez las alas!<C:0003,0001,><C:0000,0004,>Será mejor que me vaya de aquí\ny explore el resto de la isla.<C:0003,0001,>",
+      "tokenized_text": "¡El estruendo de antes\nme ha pegado un buen susto!<C:0003,0001,><C:0000,0004,>¡Pensé que se iban a caer\notra vez las alas!<C:0003,0001,><C:0000,0004,>Será mejor que me vaya de aquí\ny explore el resto de la isla.<C:0003,0001,>",
+      "original_text": "¡El estruendo de antes\nme ha pegado un buen susto!<C:0003,0001,><C:0000,0004,>¡Pensé que se iban a caer\notra vez las alas!<C:0003,0001,><C:0000,0004,>Será mejor que me vaya de aquí\ny explore el resto de la isla.<C:0003,0001,>",
+      "original_tokenized_text": "¡El estruendo de antes\nme ha pegado un buen susto!<C:0003,0001,><C:0000,0004,>¡Pensé que se iban a caer\notra vez las alas!<C:0003,0001,><C:0000,0004,>Será mejor que me vaya de aquí\ny explore el resto de la isla.<C:0003,0001,>",
+      "raw_full_hex": "A10045006C0020006500730074007200750065006E0064006F00200064006500200061006E007400650073000A006D0065002000680061002000700065006700610064006F00200075006E0020006200750065006E00200073007500730074006F0021000E000300010000000E00000004000000A100500065006E007300E900200071007500650020007300650020006900620061006E0020006100200063006100650072000A006F007400720061002000760065007A0020006C0061007300200061006C006100730021000E000300010000000E00000004000000530065007200E10020006D0065006A006F007200200071007500650020006D006500200076006100790061002000640065002000610071007500ED000A00790020006500780070006C006F0072006500200065006C00200072006500730074006F0020006400650020006C0061002000690073006C0061002E000E000300010000000000"
+    },
+    "101": {
+      "text": "Los de mantenimiento han terminado\ncon las reparaciones.<C:0003,0001,><C:0000,0004,>No creo que las alas se muevan del sitio,\nal menos por ahora.<C:0003,0001,><C:0000,0004,>¡Y yo tampoco!<C:0003,0001,>",
+      "tokenized_text": "Los de mantenimiento han terminado\ncon las reparaciones.<C:0003,0001,><C:0000,0004,>No creo que las alas se muevan del sitio,\nal menos por ahora.<C:0003,0001,><C:0000,0004,>¡Y yo tampoco!<C:0003,0001,>",
+      "original_text": "Los de mantenimiento han terminado\ncon las reparaciones.<C:0003,0001,><C:0000,0004,>No creo que las alas se muevan del sitio,\nal menos por ahora.<C:0003,0001,><C:0000,0004,>¡Y yo tampoco!<C:0003,0001,>",
+      "original_tokenized_text": "Los de mantenimiento han terminado\ncon las reparaciones.<C:0003,0001,><C:0000,0004,>No creo que las alas se muevan del sitio,\nal menos por ahora.<C:0003,0001,><C:0000,0004,>¡Y yo tampoco!<C:0003,0001,>",
+      "raw_full_hex": "4C006F00730020006400650020006D0061006E00740065006E0069006D00690065006E0074006F002000680061006E0020007400650072006D0069006E00610064006F000A0063006F006E0020006C00610073002000720065007000610072006100630069006F006E00650073002E000E000300010000000E000000040000004E006F0020006300720065006F00200071007500650020006C0061007300200061006C006100730020007300650020006D0075006500760061006E002000640065006C00200073006900740069006F002C000A0061006C0020006D0065006E006F007300200070006F0072002000610068006F00720061002E000E000300010000000E00000004000000A1005900200079006F002000740061006D0070006F0063006F0021000E000300010000000000"
+    },
+    "102": {
+      "text": "¡Las alas no se han\ncaído ni con el terremoto!<C:0003,0001,><C:0000,0004,>Las han debido de pegar\ncon pegamento extrafuerte...<C:0003,0001,>",
+      "tokenized_text": "¡Las alas no se han\ncaído ni con el terremoto!<C:0003,0001,><C:0000,0004,>Las han debido de pegar\ncon pegamento extrafuerte...<C:0003,0001,>",
+      "original_text": "¡Las alas no se han\ncaído ni con el terremoto!<C:0003,0001,><C:0000,0004,>Las han debido de pegar\ncon pegamento extrafuerte...<C:0003,0001,>",
+      "original_tokenized_text": "¡Las alas no se han\ncaído ni con el terremoto!<C:0003,0001,><C:0000,0004,>Las han debido de pegar\ncon pegamento extrafuerte...<C:0003,0001,>",
+      "raw_full_hex": "A1004C0061007300200061006C006100730020006E006F002000730065002000680061006E000A0063006100ED0064006F0020006E006900200063006F006E00200065006C002000740065007200720065006D006F0074006F0021000E000300010000000E000000040000004C00610073002000680061006E002000640065006200690064006F002000640065002000700065006700610072000A0063006F006E00200070006500670061006D0065006E0074006F002000650078007400720061006600750065007200740065002E002E002E000E000300010000000000"
+    },
+    "103": {
+      "text": "¿Qué ocurre? ¡Date prisa\ny haz ya la foto!<C:0003,0001,>",
+      "tokenized_text": "¿Qué ocurre? ¡Date prisa\ny haz ya la foto!<C:0003,0001,>",
+      "original_text": "¿Qué ocurre? ¡Date prisa\ny haz ya la foto!<C:0003,0001,>",
+      "original_tokenized_text": "¿Qué ocurre? ¡Date prisa\ny haz ya la foto!<C:0003,0001,>",
+      "raw_full_hex": "BF0051007500E90020006F00630075007200720065003F002000A10044006100740065002000700072006900730061000A0079002000680061007A0020007900610020006C006100200066006F0074006F0021000E000300010000000000"
+    },
+    "104": {
+      "text": "Quiero que salgan las dos\nalas alineadas.<C:0003,0001,><C:0000,0004,>Pero es muy difícil pillarlas\nen el momento justo.<C:0003,0001,>",
+      "tokenized_text": "Quiero que salgan las dos\nalas alineadas.<C:0003,0001,><C:0000,0004,>Pero es muy difícil pillarlas\nen el momento justo.<C:0003,0001,>",
+      "original_text": "Quiero que salgan las dos\nalas alineadas.<C:0003,0001,><C:0000,0004,>Pero es muy difícil pillarlas\nen el momento justo.<C:0003,0001,>",
+      "original_tokenized_text": "Quiero que salgan las dos\nalas alineadas.<C:0003,0001,><C:0000,0004,>Pero es muy difícil pillarlas\nen el momento justo.<C:0003,0001,>",
+      "raw_full_hex": "510075006900650072006F0020007100750065002000730061006C00670061006E0020006C0061007300200064006F0073000A0061006C0061007300200061006C0069006E00650061006400610073002E000E000300010000000E000000040000005000650072006F0020006500730020006D00750079002000640069006600ED00630069006C002000700069006C006C00610072006C00610073000A0065006E00200065006C0020006D006F006D0065006E0074006F0020006A007500730074006F002E000E000300010000000000"
+    },
+    "105": {
+      "text": "Me está entrando mareo de mirar\nlas alas... ¡Ugh!<C:0003,0001,>",
+      "tokenized_text": "Me está entrando mareo de mirar\nlas alas... ¡Ugh!<C:0003,0001,>",
+      "original_text": "Me está entrando mareo de mirar\nlas alas... ¡Ugh!<C:0003,0001,>",
+      "original_tokenized_text": "Me está entrando mareo de mirar\nlas alas... ¡Ugh!<C:0003,0001,>",
+      "raw_full_hex": "4D0065002000650073007400E100200065006E007400720061006E0064006F0020006D006100720065006F0020006400650020006D0069007200610072000A006C0061007300200061006C00610073002E002E002E002000A10055006700680021000E000300010000000000"
+    },
+    "106": {
+      "text": "¡Rábanos, no veo nada!\n¡Mi cámara se está mojando!<C:0003,0001,>",
+      "tokenized_text": "¡Rábanos, no veo nada!\n¡Mi cámara se está mojando!<C:0003,0001,>",
+      "original_text": "¡Rábanos, no veo nada!\n¡Mi cámara se está mojando!<C:0003,0001,>",
+      "original_tokenized_text": "¡Rábanos, no veo nada!\n¡Mi cámara se está mojando!<C:0003,0001,>",
+      "raw_full_hex": "A1005200E100620061006E006F0073002C0020006E006F002000760065006F0020006E0061006400610021000A00A1004D00690020006300E1006D006100720061002000730065002000650073007400E10020006D006F006A0061006E0064006F0021000E000300010000000000"
+    },
+    "107": {
+      "text": "¿En serio tengo que hacer\nla foto desde aquí?<C:0003,0001,>",
+      "tokenized_text": "¿En serio tengo que hacer\nla foto desde aquí?<C:0003,0001,>",
+      "original_text": "¿En serio tengo que hacer\nla foto desde aquí?<C:0003,0001,>",
+      "original_tokenized_text": "¿En serio tengo que hacer\nla foto desde aquí?<C:0003,0001,>",
+      "raw_full_hex": "BF0045006E00200073006500720069006F002000740065006E0067006F0020007100750065002000680061006300650072000A006C006100200066006F0074006F002000640065007300640065002000610071007500ED003F000E000300010000000000"
+    },
+    "108": {
+      "text": "Si estáis buscando algo\nque está en el parque...<C:0003,0001,><C:0000,0004,>¡hablad con el guardaparques,\nel señor Quebradiego!<C:0003,0001,><C:0000,0004,>Lo más probable es que lo\nencontréis cerca de la fuente.\nEstá al sur de aquí.<C:0003,0001,>",
+      "tokenized_text": "Si estáis buscando algo\nque está en el parque...<C:0003,0001,><C:0000,0004,>¡hablad con el guardaparques,\nel señor Quebradiego!<C:0003,0001,><C:0000,0004,>Lo más probable es que lo\nencontréis cerca de la fuente.\nEstá al sur de aquí.<C:0003,0001,>",
+      "original_text": "Si estáis buscando algo\nque está en el parque...<C:0003,0001,><C:0000,0004,>¡hablad con el guardaparques,\nel señor Quebradiego!<C:0003,0001,><C:0000,0004,>Lo más probable es que lo\nencontréis cerca de la fuente.\nEstá al sur de aquí.<C:0003,0001,>",
+      "original_tokenized_text": "Si estáis buscando algo\nque está en el parque...<C:0003,0001,><C:0000,0004,>¡hablad con el guardaparques,\nel señor Quebradiego!<C:0003,0001,><C:0000,0004,>Lo más probable es que lo\nencontréis cerca de la fuente.\nEstá al sur de aquí.<C:0003,0001,>",
+      "raw_full_hex": "530069002000650073007400E100690073002000620075007300630061006E0064006F00200061006C0067006F000A007100750065002000650073007400E100200065006E00200065006C0020007000610072007100750065002E002E002E000E000300010000000E00000004000000A1006800610062006C0061006400200063006F006E00200065006C00200067007500610072006400610070006100720071007500650073002C000A0065006C00200073006500F1006F007200200051007500650062007200610064006900650067006F0021000E000300010000000E000000040000004C006F0020006D00E10073002000700072006F006200610062006C006500200065007300200071007500650020006C006F000A0065006E0063006F006E0074007200E9006900730020006300650072006300610020006400650020006C00610020006600750065006E00740065002E000A00450073007400E100200061006C0020007300750072002000640065002000610071007500ED002E000E000300010000000000"
+    },
+    "109": {
+      "text": "Caray... Con todo lo que está\npasando, es difícil no\npreocuparse...<C:0003,0001,><C:0000,0004,>¡Pero mientras tengamos\nvisitantes, no me moveré\nde mi puesto!<C:0003,0001,>",
+      "tokenized_text": "Caray... Con todo lo que está\npasando, es difícil no\npreocuparse...<C:0003,0001,><C:0000,0004,>¡Pero mientras tengamos\nvisitantes, no me moveré\nde mi puesto!<C:0003,0001,>",
+      "original_text": "Caray... Con todo lo que está\npasando, es difícil no\npreocuparse...<C:0003,0001,><C:0000,0004,>¡Pero mientras tengamos\nvisitantes, no me moveré\nde mi puesto!<C:0003,0001,>",
+      "original_tokenized_text": "Caray... Con todo lo que está\npasando, es difícil no\npreocuparse...<C:0003,0001,><C:0000,0004,>¡Pero mientras tengamos\nvisitantes, no me moveré\nde mi puesto!<C:0003,0001,>",
+      "raw_full_hex": "430061007200610079002E002E002E00200043006F006E00200074006F0064006F0020006C006F0020007100750065002000650073007400E1000A0070006100730061006E0064006F002C002000650073002000640069006600ED00630069006C0020006E006F000A007000720065006F0063007500700061007200730065002E002E002E000E000300010000000E00000004000000A1005000650072006F0020006D00690065006E0074007200610073002000740065006E00670061006D006F0073000A007600690073006900740061006E007400650073002C0020006E006F0020006D00650020006D006F00760065007200E9000A006400650020006D0069002000700075006500730074006F0021000E000300010000000000"
+    }
+  }
+}

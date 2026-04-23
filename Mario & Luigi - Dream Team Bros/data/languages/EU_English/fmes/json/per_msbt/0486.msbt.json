@@ -1,0 +1,508 @@
+{
+  "0486.msbt": {
+    "0": {
+      "text": "<C:0007,0000,>Get your stylus ready\nand touch the screen.",
+      "tokenized_text": "<C:0007,0000,>Get your stylus ready\nand touch the screen.",
+      "original_text": "<C:0007,0000,>Get your stylus ready\nand touch the screen.",
+      "original_tokenized_text": "<C:0007,0000,>Get your stylus ready\nand touch the screen.",
+      "raw_full_hex": "0E00070000000000470065007400200079006F007500720020007300740079006C00750073002000720065006100640079000A0061006E006400200074006F0075006300680020007400680065002000730063007200650065006E002E000000"
+    },
+    "1": {
+      "text": "<C:0007,0000,>You want to go back to the menu?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "tokenized_text": "<C:0007,0000,>You want to go back to the menu?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "original_text": "<C:0007,0000,>You want to go back to the menu?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "original_tokenized_text": "<C:0007,0000,>You want to go back to the menu?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "raw_full_hex": "0E0007000000000059006F0075002000770061006E007400200074006F00200067006F0020006200610063006B00200074006F00200074006800650020006D0065006E0075003F000A000E000100010000000E000500010000000E000900000002002ACD4E006F000F000900000020002000200020002000200020002000200020000E000500010000000E0009000000020029CD5900650073000F00090000000E000300000002000A000000"
+    },
+    "2": {
+      "text": "<C:0007,0000,>Are you sure you want to retry?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "tokenized_text": "<C:0007,0000,>Are you sure you want to retry?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "original_text": "<C:0007,0000,>Are you sure you want to retry?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "original_tokenized_text": "<C:0007,0000,>Are you sure you want to retry?\n<C:0001,0001,><C:0005,0001,><C:0009,0000,2ACD>No\u000f\t",
+      "raw_full_hex": "0E00070000000000410072006500200079006F00750020007300750072006500200079006F0075002000770061006E007400200074006F002000720065007400720079003F000A000E000100010000000E000500010000000E000900000002002ACD4E006F000F000900000020002000200020002000200020002000200020000E000500010000000E0009000000020029CD5900650073000F00090000000E000300000002000A000000"
+    },
+    "3": {
+      "text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Coins won: <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Coins won: <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Coins won: <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Coins won: <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000000030004002C65FFFF0E000100010000000E000700000000000E00000003000400000000FF43006F0069006E007300200077006F006E003A0020000E000000030004002C65FFFF0E000400000006000000040000000E00000003000400000000FF21000E000300000002001E000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Prize won:<C:0000,0003,2C65FFFF> <C:0004,0001,000008000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Prize won:<C:0000,0003,2C65FFFF> <C:0004,0001,000008000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Prize won:<C:0000,0003,2C65FFFF> <C:0004,0001,000008000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0000,0003,2C65FFFF><C:0001,0001,><C:0007,0000,><C:0000,0003,000000FF>Prize won:<C:0000,0003,2C65FFFF> <C:0004,0001,000008000000><C:0000,0003,000000FF>!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000000030004002C65FFFF0E000100010000000E000700000000000E00000003000400000000FF5000720069007A006500200077006F006E003A000E000000030004002C65FFFF20000E000400010006000000080000000E00000003000400000000FF21000E000300000002001E000E000300010000000000"
+    },
+    "5": {
+      "text": "<C:0001,0001,><C:0007,0000,>Saving your prize and your\nclear time for this puzzle...<C:0003,0001,><C:0000,0004,><C:0007,0000,>Save completed.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Only the clear time and the\nprize you won have been saved.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Take care to do a normal save\nafter this to save your game data!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0007,0000,>Saving your prize and your\nclear time for this puzzle...<C:0003,0001,><C:0000,0004,><C:0007,0000,>Save completed.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Only the clear time and the\nprize you won have been saved.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Take care to do a normal save\nafter this to save your game data!<C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0007,0000,>Saving your prize and your\nclear time for this puzzle...<C:0003,0001,><C:0000,0004,><C:0007,0000,>Save completed.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Only the clear time and the\nprize you won have been saved.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Take care to do a normal save\nafter this to save your game data!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,>Saving your prize and your\nclear time for this puzzle...<C:0003,0001,><C:0000,0004,><C:0007,0000,>Save completed.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Only the clear time and the\nprize you won have been saved.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Take care to do a normal save\nafter this to save your game data!<C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E0007000000000053006100760069006E006700200079006F007500720020007000720069007A006500200061006E006400200079006F00750072000A0063006C006500610072002000740069006D006500200066006F007200200074006800690073002000700075007A007A006C0065002E002E002E000E000300010000000E000000040000000E000700000000005300610076006500200063006F006D0070006C0065007400650064002E000E000300010000000E000000040000000E000700000000004F006E006C0079002000740068006500200063006C006500610072002000740069006D006500200061006E00640020007400680065000A007000720069007A006500200079006F007500200077006F006E002000680061007600650020006200650065006E002000730061007600650064002E000E000300010000000E000000040000000E00070000000000540061006B00650020006300610072006500200074006F00200064006F002000610020006E006F0072006D0061006C00200073006100760065000A006100660074006500720020007400680069007300200074006F0020007300610076006500200079006F00750072002000670061006D0065002000640061007400610021000E000300010000000000"
+    },
+    "6": {
+      "text": "Pi'illo Blimport",
+      "tokenized_text": "Pi'illo Blimport",
+      "original_text": "Pi'illo Blimport",
+      "original_tokenized_text": "Pi'illo Blimport",
+      "raw_full_hex": "50006900270069006C006C006F00200042006C0069006D0070006F00720074000000"
+    },
+    "7": {
+      "text": "Pi'illo Castle",
+      "tokenized_text": "Pi'illo Castle",
+      "original_text": "Pi'illo Castle",
+      "original_tokenized_text": "Pi'illo Castle",
+      "raw_full_hex": "50006900270069006C006C006F00200043006100730074006C0065000000"
+    },
+    "8": {
+      "text": "Mushrise Park",
+      "tokenized_text": "Mushrise Park",
+      "original_text": "Mushrise Park",
+      "original_tokenized_text": "Mushrise Park",
+      "raw_full_hex": "4D00750073006800720069007300650020005000610072006B000000"
+    },
+    "9": {
+      "text": "Dozing Sands",
+      "tokenized_text": "Dozing Sands",
+      "original_text": "Dozing Sands",
+      "original_tokenized_text": "Dozing Sands",
+      "raw_full_hex": "44006F007A0069006E0067002000530061006E00640073000000"
+    },
+    "10": {
+      "text": "Wakeport",
+      "tokenized_text": "Wakeport",
+      "original_text": "Wakeport",
+      "original_tokenized_text": "Wakeport",
+      "raw_full_hex": "570061006B00650070006F00720074000000"
+    },
+    "11": {
+      "text": "Mount Pajamaja",
+      "tokenized_text": "Mount Pajamaja",
+      "original_text": "Mount Pajamaja",
+      "original_tokenized_text": "Mount Pajamaja",
+      "raw_full_hex": "4D006F0075006E0074002000500061006A0061006D0061006A0061000000"
+    },
+    "12": {
+      "text": "Driftwood Shore",
+      "tokenized_text": "Driftwood Shore",
+      "original_text": "Driftwood Shore",
+      "original_tokenized_text": "Driftwood Shore",
+      "raw_full_hex": "4400720069006600740077006F006F0064002000530068006F00720065000000"
+    },
+    "13": {
+      "text": "Somnom Woods",
+      "tokenized_text": "Somnom Woods",
+      "original_text": "Somnom Woods",
+      "original_tokenized_text": "Somnom Woods",
+      "raw_full_hex": "53006F006D006E006F006D00200057006F006F00640073000000"
+    },
+    "14": {
+      "text": "Neo Bowser Castle",
+      "tokenized_text": "Neo Bowser Castle",
+      "original_text": "Neo Bowser Castle",
+      "original_tokenized_text": "Neo Bowser Castle",
+      "raw_full_hex": "4E0065006F00200042006F007700730065007200200043006100730074006C0065000000"
+    },
+    "15": {
+      "text": "????",
+      "tokenized_text": "????",
+      "original_text": "????",
+      "original_tokenized_text": "????",
+      "raw_full_hex": "3F003F003F003F000000"
+    },
+    "16": {
+      "text": "Pi'illo Blimport Lv. 1",
+      "tokenized_text": "Pi'illo Blimport Lv. 1",
+      "original_text": "Pi'illo Blimport Lv. 1",
+      "original_tokenized_text": "Pi'illo Blimport Lv. 1",
+      "raw_full_hex": "50006900270069006C006C006F00200042006C0069006D0070006F007200740020004C0076002E00200031000000"
+    },
+    "17": {
+      "text": "Pi'illo Blimport Lv. 2",
+      "tokenized_text": "Pi'illo Blimport Lv. 2",
+      "original_text": "Pi'illo Blimport Lv. 2",
+      "original_tokenized_text": "Pi'illo Blimport Lv. 2",
+      "raw_full_hex": "50006900270069006C006C006F00200042006C0069006D0070006F007200740020004C0076002E00200032000000"
+    },
+    "18": {
+      "text": "Pi'illo Blimport Lv. 3",
+      "tokenized_text": "Pi'illo Blimport Lv. 3",
+      "original_text": "Pi'illo Blimport Lv. 3",
+      "original_tokenized_text": "Pi'illo Blimport Lv. 3",
+      "raw_full_hex": "50006900270069006C006C006F00200042006C0069006D0070006F007200740020004C0076002E00200033000000"
+    },
+    "19": {
+      "text": "Pi'illo Castle Lv. 1",
+      "tokenized_text": "Pi'illo Castle Lv. 1",
+      "original_text": "Pi'illo Castle Lv. 1",
+      "original_tokenized_text": "Pi'illo Castle Lv. 1",
+      "raw_full_hex": "50006900270069006C006C006F00200043006100730074006C00650020004C0076002E00200031000000"
+    },
+    "20": {
+      "text": "Pi'illo Castle Lv. 2",
+      "tokenized_text": "Pi'illo Castle Lv. 2",
+      "original_text": "Pi'illo Castle Lv. 2",
+      "original_tokenized_text": "Pi'illo Castle Lv. 2",
+      "raw_full_hex": "50006900270069006C006C006F00200043006100730074006C00650020004C0076002E00200032000000"
+    },
+    "21": {
+      "text": "Pi'illo Castle Lv. 3",
+      "tokenized_text": "Pi'illo Castle Lv. 3",
+      "original_text": "Pi'illo Castle Lv. 3",
+      "original_tokenized_text": "Pi'illo Castle Lv. 3",
+      "raw_full_hex": "50006900270069006C006C006F00200043006100730074006C00650020004C0076002E00200033000000"
+    },
+    "22": {
+      "text": "Mushrise Park Lv. 1",
+      "tokenized_text": "Mushrise Park Lv. 1",
+      "original_text": "Mushrise Park Lv. 1",
+      "original_tokenized_text": "Mushrise Park Lv. 1",
+      "raw_full_hex": "4D00750073006800720069007300650020005000610072006B0020004C0076002E00200031000000"
+    },
+    "23": {
+      "text": "Mushrise Park Lv. 2",
+      "tokenized_text": "Mushrise Park Lv. 2",
+      "original_text": "Mushrise Park Lv. 2",
+      "original_tokenized_text": "Mushrise Park Lv. 2",
+      "raw_full_hex": "4D00750073006800720069007300650020005000610072006B0020004C0076002E00200032000000"
+    },
+    "24": {
+      "text": "Mushrise Park Lv. 3",
+      "tokenized_text": "Mushrise Park Lv. 3",
+      "original_text": "Mushrise Park Lv. 3",
+      "original_tokenized_text": "Mushrise Park Lv. 3",
+      "raw_full_hex": "4D00750073006800720069007300650020005000610072006B0020004C0076002E00200033000000"
+    },
+    "25": {
+      "text": "Dozing Sands Lv. 1",
+      "tokenized_text": "Dozing Sands Lv. 1",
+      "original_text": "Dozing Sands Lv. 1",
+      "original_tokenized_text": "Dozing Sands Lv. 1",
+      "raw_full_hex": "44006F007A0069006E0067002000530061006E006400730020004C0076002E00200031000000"
+    },
+    "26": {
+      "text": "Dozing Sands Lv. 2",
+      "tokenized_text": "Dozing Sands Lv. 2",
+      "original_text": "Dozing Sands Lv. 2",
+      "original_tokenized_text": "Dozing Sands Lv. 2",
+      "raw_full_hex": "44006F007A0069006E0067002000530061006E006400730020004C0076002E00200032000000"
+    },
+    "27": {
+      "text": "Dozing Sands Lv. 3",
+      "tokenized_text": "Dozing Sands Lv. 3",
+      "original_text": "Dozing Sands Lv. 3",
+      "original_tokenized_text": "Dozing Sands Lv. 3",
+      "raw_full_hex": "44006F007A0069006E0067002000530061006E006400730020004C0076002E00200033000000"
+    },
+    "28": {
+      "text": "Wakeport Lv. 1",
+      "tokenized_text": "Wakeport Lv. 1",
+      "original_text": "Wakeport Lv. 1",
+      "original_tokenized_text": "Wakeport Lv. 1",
+      "raw_full_hex": "570061006B00650070006F007200740020004C0076002E00200031000000"
+    },
+    "29": {
+      "text": "Wakeport Lv. 2",
+      "tokenized_text": "Wakeport Lv. 2",
+      "original_text": "Wakeport Lv. 2",
+      "original_tokenized_text": "Wakeport Lv. 2",
+      "raw_full_hex": "570061006B00650070006F007200740020004C0076002E00200032000000"
+    },
+    "30": {
+      "text": "Wakeport Lv. 3",
+      "tokenized_text": "Wakeport Lv. 3",
+      "original_text": "Wakeport Lv. 3",
+      "original_tokenized_text": "Wakeport Lv. 3",
+      "raw_full_hex": "570061006B00650070006F007200740020004C0076002E00200033000000"
+    },
+    "31": {
+      "text": "Mount Pajamaja Lv. 1",
+      "tokenized_text": "Mount Pajamaja Lv. 1",
+      "original_text": "Mount Pajamaja Lv. 1",
+      "original_tokenized_text": "Mount Pajamaja Lv. 1",
+      "raw_full_hex": "4D006F0075006E0074002000500061006A0061006D0061006A00610020004C0076002E00200031000000"
+    },
+    "32": {
+      "text": "Mount Pajamaja Lv. 2",
+      "tokenized_text": "Mount Pajamaja Lv. 2",
+      "original_text": "Mount Pajamaja Lv. 2",
+      "original_tokenized_text": "Mount Pajamaja Lv. 2",
+      "raw_full_hex": "4D006F0075006E0074002000500061006A0061006D0061006A00610020004C0076002E00200032000000"
+    },
+    "33": {
+      "text": "Mount Pajamaja Lv. 3",
+      "tokenized_text": "Mount Pajamaja Lv. 3",
+      "original_text": "Mount Pajamaja Lv. 3",
+      "original_tokenized_text": "Mount Pajamaja Lv. 3",
+      "raw_full_hex": "4D006F0075006E0074002000500061006A0061006D0061006A00610020004C0076002E00200033000000"
+    },
+    "34": {
+      "text": "Driftwood Shore Lv. 1",
+      "tokenized_text": "Driftwood Shore Lv. 1",
+      "original_text": "Driftwood Shore Lv. 1",
+      "original_tokenized_text": "Driftwood Shore Lv. 1",
+      "raw_full_hex": "4400720069006600740077006F006F0064002000530068006F007200650020004C0076002E00200031000000"
+    },
+    "35": {
+      "text": "Driftwood Shore Lv. 2",
+      "tokenized_text": "Driftwood Shore Lv. 2",
+      "original_text": "Driftwood Shore Lv. 2",
+      "original_tokenized_text": "Driftwood Shore Lv. 2",
+      "raw_full_hex": "4400720069006600740077006F006F0064002000530068006F007200650020004C0076002E00200032000000"
+    },
+    "36": {
+      "text": "Driftwood Shore Lv. 3",
+      "tokenized_text": "Driftwood Shore Lv. 3",
+      "original_text": "Driftwood Shore Lv. 3",
+      "original_tokenized_text": "Driftwood Shore Lv. 3",
+      "raw_full_hex": "4400720069006600740077006F006F0064002000530068006F007200650020004C0076002E00200033000000"
+    },
+    "37": {
+      "text": "Somnom Woods Lv. 1",
+      "tokenized_text": "Somnom Woods Lv. 1",
+      "original_text": "Somnom Woods Lv. 1",
+      "original_tokenized_text": "Somnom Woods Lv. 1",
+      "raw_full_hex": "53006F006D006E006F006D00200057006F006F006400730020004C0076002E00200031000000"
+    },
+    "38": {
+      "text": "Somnom Woods Lv. 2",
+      "tokenized_text": "Somnom Woods Lv. 2",
+      "original_text": "Somnom Woods Lv. 2",
+      "original_tokenized_text": "Somnom Woods Lv. 2",
+      "raw_full_hex": "53006F006D006E006F006D00200057006F006F006400730020004C0076002E00200032000000"
+    },
+    "39": {
+      "text": "Somnom Woods Lv. 3",
+      "tokenized_text": "Somnom Woods Lv. 3",
+      "original_text": "Somnom Woods Lv. 3",
+      "original_tokenized_text": "Somnom Woods Lv. 3",
+      "raw_full_hex": "53006F006D006E006F006D00200057006F006F006400730020004C0076002E00200033000000"
+    },
+    "40": {
+      "text": "Neo Bowser Castle Lv. 1",
+      "tokenized_text": "Neo Bowser Castle Lv. 1",
+      "original_text": "Neo Bowser Castle Lv. 1",
+      "original_tokenized_text": "Neo Bowser Castle Lv. 1",
+      "raw_full_hex": "4E0065006F00200042006F007700730065007200200043006100730074006C00650020004C0076002E00200031000000"
+    },
+    "41": {
+      "text": "Neo Bowser Castle Lv. 2",
+      "tokenized_text": "Neo Bowser Castle Lv. 2",
+      "original_text": "Neo Bowser Castle Lv. 2",
+      "original_tokenized_text": "Neo Bowser Castle Lv. 2",
+      "raw_full_hex": "4E0065006F00200042006F007700730065007200200043006100730074006C00650020004C0076002E00200032000000"
+    },
+    "42": {
+      "text": "Neo Bowser Castle Lv. 3",
+      "tokenized_text": "Neo Bowser Castle Lv. 3",
+      "original_text": "Neo Bowser Castle Lv. 3",
+      "original_tokenized_text": "Neo Bowser Castle Lv. 3",
+      "raw_full_hex": "4E0065006F00200042006F007700730065007200200043006100730074006C00650020004C0076002E00200033000000"
+    },
+    "43": {
+      "text": "<C:0007,0000,>Fellas, you ain't got this shot yet...",
+      "tokenized_text": "<C:0007,0000,>Fellas, you ain't got this shot yet...",
+      "original_text": "<C:0007,0000,>Fellas, you ain't got this shot yet...",
+      "original_tokenized_text": "<C:0007,0000,>Fellas, you ain't got this shot yet...",
+      "raw_full_hex": "0E00070000000000460065006C006C00610073002C00200079006F0075002000610069006E0027007400200067006F007400200074006800690073002000730068006F00740020007900650074002E002E002E000000"
+    },
+    "44": {
+      "text": "<C:0007,0000,>First go at this pic, eh? Good luck!",
+      "tokenized_text": "<C:0007,0000,>First go at this pic, eh? Good luck!",
+      "original_text": "<C:0007,0000,>First go at this pic, eh? Good luck!",
+      "original_tokenized_text": "<C:0007,0000,>First go at this pic, eh? Good luck!",
+      "raw_full_hex": "0E0007000000000046006900720073007400200067006F002000610074002000740068006900730020007000690063002C002000650068003F00200047006F006F00640020006C00750063006B0021000000"
+    },
+    "45": {
+      "text": "<C:0007,0000,>You need to slap together that\nsnap within the target time!",
+      "tokenized_text": "<C:0007,0000,>You need to slap together that\nsnap within the target time!",
+      "original_text": "<C:0007,0000,>You need to slap together that\nsnap within the target time!",
+      "original_tokenized_text": "<C:0007,0000,>You need to slap together that\nsnap within the target time!",
+      "raw_full_hex": "0E0007000000000059006F00750020006E00650065006400200074006F00200073006C0061007000200074006F00670065007400680065007200200074006800610074000A0073006E00610070002000770069007400680069006E00200074006800650020007400610072006700650074002000740069006D00650021000000"
+    },
+    "46": {
+      "text": "<C:0007,0000,>Can ya beat your own best record?",
+      "tokenized_text": "<C:0007,0000,>Can ya beat your own best record?",
+      "original_text": "<C:0007,0000,>Can ya beat your own best record?",
+      "original_tokenized_text": "<C:0007,0000,>Can ya beat your own best record?",
+      "raw_full_hex": "0E00070000000000430061006E0020007900610020006200650061007400200079006F007500720020006F0077006E002000620065007300740020007200650063006F00720064003F000000"
+    },
+    "47": {
+      "text": "Try getting that thing done within \n<C:0004,0001,000002000000> minutes and <C:0004,0000,000002000100> seconds!",
+      "tokenized_text": "Try getting that thing done within \n<C:0004,0001,000002000000> minutes and <C:0004,0000,000002000100> seconds!",
+      "original_text": "Try getting that thing done within \n<C:0004,0001,000002000000> minutes and <C:0004,0000,000002000100> seconds!",
+      "original_tokenized_text": "Try getting that thing done within \n<C:0004,0001,000002000000> minutes and <C:0004,0000,000002000100> seconds!",
+      "raw_full_hex": "5400720079002000670065007400740069006E0067002000740068006100740020007400680069006E006700200064006F006E0065002000770069007400680069006E0020000A000E0004000100060000000200000020006D0069006E007500740065007300200061006E00640020000E0004000000060000000200010020007300650063006F006E006400730021000000"
+    },
+    "48": {
+      "text": "You got less than <C:0000,0003,2C65FFFF>1 <C:0000,0003,000000FF>minute\nleft of the target time!",
+      "tokenized_text": "You got less than <C:0000,0003,2C65FFFF>1 <C:0000,0003,000000FF>minute\nleft of the target time!",
+      "original_text": "You got less than <C:0000,0003,2C65FFFF>1 <C:0000,0003,000000FF>minute\nleft of the target time!",
+      "original_tokenized_text": "You got less than <C:0000,0003,2C65FFFF>1 <C:0000,0003,000000FF>minute\nleft of the target time!",
+      "raw_full_hex": "59006F007500200067006F00740020006C0065007300730020007400680061006E0020000E000000030004002C65FFFF310020000E00000003000400000000FF6D0069006E007500740065000A006C0065006600740020006F006600200074006800650020007400610072006700650074002000740069006D00650021000000"
+    },
+    "49": {
+      "text": "You got less than <C:0000,0003,2C65FFFF>30<C:0000,0003,000000FF> seconds\nleft of the target time!",
+      "tokenized_text": "You got less than <C:0000,0003,2C65FFFF>30<C:0000,0003,000000FF> seconds\nleft of the target time!",
+      "original_text": "You got less than <C:0000,0003,2C65FFFF>30<C:0000,0003,000000FF> seconds\nleft of the target time!",
+      "original_tokenized_text": "You got less than <C:0000,0003,2C65FFFF>30<C:0000,0003,000000FF> seconds\nleft of the target time!",
+      "raw_full_hex": "59006F007500200067006F00740020006C0065007300730020007400680061006E0020000E000000030004002C65FFFF330030000E00000003000400000000FF20007300650063006F006E00640073000A006C0065006600740020006F006600200074006800650020007400610072006700650074002000740069006D00650021000000"
+    },
+    "50": {
+      "text": "You got less than <C:0000,0003,2C65FFFF>10<C:0000,0003,000000FF> seconds\nleft of the target time<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "tokenized_text": "You got less than <C:0000,0003,2C65FFFF>10<C:0000,0003,000000FF> seconds\nleft of the target time<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "original_text": "You got less than <C:0000,0003,2C65FFFF>10<C:0000,0003,000000FF> seconds\nleft of the target time<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "original_tokenized_text": "You got less than <C:0000,0003,2C65FFFF>10<C:0000,0003,000000FF> seconds\nleft of the target time<C:0000,0003,000000FF>!<C:0000,0003,000000FF>",
+      "raw_full_hex": "59006F007500200067006F00740020006C0065007300730020007400680061006E0020000E000000030004002C65FFFF310030000E00000003000400000000FF20007300650063006F006E00640073000A006C0065006600740020006F006600200074006800650020007400610072006700650074002000740069006D0065000E00000003000400000000FF21000E00000003000400000000FF0000"
+    },
+    "51": {
+      "text": "Aw, cheese it. Ya blew the target time.",
+      "tokenized_text": "Aw, cheese it. Ya blew the target time.",
+      "original_text": "Aw, cheese it. Ya blew the target time.",
+      "original_tokenized_text": "Aw, cheese it. Ya blew the target time.",
+      "raw_full_hex": "410077002C0020006300680065006500730065002000690074002E00200059006100200062006C0065007700200074006800650020007400610072006700650074002000740069006D0065002E000000"
+    },
+    "52": {
+      "text": "See if you boys can top\nyour own best time!",
+      "tokenized_text": "See if you boys can top\nyour own best time!",
+      "original_text": "See if you boys can top\nyour own best time!",
+      "original_tokenized_text": "See if you boys can top\nyour own best time!",
+      "raw_full_hex": "530065006500200069006600200079006F007500200062006F00790073002000630061006E00200074006F0070000A0079006F007500720020006F0077006E00200062006500730074002000740069006D00650021000000"
+    },
+    "53": {
+      "text": "Ooh. That's past your best time...",
+      "tokenized_text": "Ooh. That's past your best time...",
+      "original_text": "Ooh. That's past your best time...",
+      "original_tokenized_text": "Ooh. That's past your best time...",
+      "raw_full_hex": "4F006F0068002E00200054006800610074002700730020007000610073007400200079006F0075007200200062006500730074002000740069006D0065002E002E002E000000"
+    },
+    "54": {
+      "text": "Well done, fellas!<C:0003,0001,><C:0000,0004,>Nailed it under the target time!\nGot some coins for ya. Take <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0001,>",
+      "tokenized_text": "Well done, fellas!<C:0003,0001,><C:0000,0004,>Nailed it under the target time!\nGot some coins for ya. Take <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_text": "Well done, fellas!<C:0003,0001,><C:0000,0004,>Nailed it under the target time!\nGot some coins for ya. Take <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_tokenized_text": "Well done, fellas!<C:0003,0001,><C:0000,0004,>Nailed it under the target time!\nGot some coins for ya. Take <C:0000,0003,2C65FFFF><C:0004,0000,000004000000><C:0000,0003,000000FF>!<C:0003,0001,>",
+      "raw_full_hex": "570065006C006C00200064006F006E0065002C002000660065006C006C006100730021000E000300010000000E000000040000004E00610069006C0065006400200069007400200075006E00640065007200200074006800650020007400610072006700650074002000740069006D00650021000A0047006F007400200073006F006D006500200063006F0069006E007300200066006F0072002000790061002E002000540061006B00650020000E000000030004002C65FFFF0E000400000006000000040000000E00000003000400000000FF21000E000300010000000000"
+    },
+    "55": {
+      "text": "Just gravy, boys!<C:0003,0001,><C:0000,0004,>Mopped it up under the target time!\nHow's about a thank-you present?<C:0003,0001,>",
+      "tokenized_text": "Just gravy, boys!<C:0003,0001,><C:0000,0004,>Mopped it up under the target time!\nHow's about a thank-you present?<C:0003,0001,>",
+      "original_text": "Just gravy, boys!<C:0003,0001,><C:0000,0004,>Mopped it up under the target time!\nHow's about a thank-you present?<C:0003,0001,>",
+      "original_tokenized_text": "Just gravy, boys!<C:0003,0001,><C:0000,0004,>Mopped it up under the target time!\nHow's about a thank-you present?<C:0003,0001,>",
+      "raw_full_hex": "4A007500730074002000670072006100760079002C00200062006F007900730021000E000300010000000E000000040000004D006F007000700065006400200069007400200075007000200075006E00640065007200200074006800650020007400610072006700650074002000740069006D00650021000A0048006F007700270073002000610062006F00750074002000610020007400680061006E006B002D0079006F0075002000700072006500730065006E0074003F000E000300010000000000"
+    },
+    "56": {
+      "text": "Hey, fellas, thanks for the hand!\nThough it took a while, huh...<C:0003,0001,><C:0000,0004,>Next time, see if you boys can\nhit that target time, OK?<C:0003,0001,>",
+      "tokenized_text": "Hey, fellas, thanks for the hand!\nThough it took a while, huh...<C:0003,0001,><C:0000,0004,>Next time, see if you boys can\nhit that target time, OK?<C:0003,0001,>",
+      "original_text": "Hey, fellas, thanks for the hand!\nThough it took a while, huh...<C:0003,0001,><C:0000,0004,>Next time, see if you boys can\nhit that target time, OK?<C:0003,0001,>",
+      "original_tokenized_text": "Hey, fellas, thanks for the hand!\nThough it took a while, huh...<C:0003,0001,><C:0000,0004,>Next time, see if you boys can\nhit that target time, OK?<C:0003,0001,>",
+      "raw_full_hex": "4800650079002C002000660065006C006C00610073002C0020007400680061006E006B007300200066006F00720020007400680065002000680061006E00640021000A00540068006F00750067006800200069007400200074006F006F006B002000610020007700680069006C0065002C0020006800750068002E002E002E000E000300010000000E000000040000004E006500780074002000740069006D0065002C002000730065006500200069006600200079006F007500200062006F00790073002000630061006E000A006800690074002000740068006100740020007400610072006700650074002000740069006D0065002C0020004F004B003F000E000300010000000000"
+    },
+    "57": {
+      "text": "Congrats, boys! Ace work!<C:0003,0001,>",
+      "tokenized_text": "Congrats, boys! Ace work!<C:0003,0001,>",
+      "original_text": "Congrats, boys! Ace work!<C:0003,0001,>",
+      "original_tokenized_text": "Congrats, boys! Ace work!<C:0003,0001,>",
+      "raw_full_hex": "43006F006E00670072006100740073002C00200062006F007900730021002000410063006500200077006F0072006B0021000E000300010000000000"
+    },
+    "58": {
+      "text": "Thanks for the hand, fellas! Next go...\nTry to beat your personal best!<C:0003,0001,>",
+      "tokenized_text": "Thanks for the hand, fellas! Next go...\nTry to beat your personal best!<C:0003,0001,>",
+      "original_text": "Thanks for the hand, fellas! Next go...\nTry to beat your personal best!<C:0003,0001,>",
+      "original_tokenized_text": "Thanks for the hand, fellas! Next go...\nTry to beat your personal best!<C:0003,0001,>",
+      "raw_full_hex": "5400680061006E006B007300200066006F00720020007400680065002000680061006E0064002C002000660065006C006C0061007300210020004E00650078007400200067006F002E002E002E000A00540072007900200074006F0020006200650061007400200079006F0075007200200070006500720073006F006E0061006C002000620065007300740021000E000300010000000000"
+    },
+    "59": {
+      "text": "Unpause",
+      "tokenized_text": "Unpause",
+      "original_text": "Unpause",
+      "original_tokenized_text": "Unpause",
+      "raw_full_hex": "55006E00700061007500730065000000"
+    },
+    "60": {
+      "text": "Return to Menu",
+      "tokenized_text": "Return to Menu",
+      "original_text": "Return to Menu",
+      "original_tokenized_text": "Return to Menu",
+      "raw_full_hex": "520065007400750072006E00200074006F0020004D0065006E0075000000"
+    },
+    "61": {
+      "text": "Retry",
+      "tokenized_text": "Retry",
+      "original_text": "Retry",
+      "original_tokenized_text": "Retry",
+      "raw_full_hex": "520065007400720079000000"
+    },
+    "62": {
+      "text": "First, peep at the Touch Screen\nand choose a pic to decrypt.<C:0003,0001,><C:0000,0004,>At first, you can only choose Lv. 1.<C:0003,0001,><C:0000,0004,>So listen: select <C:0000,0003,2C65FFFF>Wakeport Lv. 1<C:0000,0003,000000FF>, \nand then enter the puzzle screen.<C:0003,0001,>",
+      "tokenized_text": "First, peep at the Touch Screen\nand choose a pic to decrypt.<C:0003,0001,><C:0000,0004,>At first, you can only choose Lv. 1.<C:0003,0001,><C:0000,0004,>So listen: select <C:0000,0003,2C65FFFF>Wakeport Lv. 1<C:0000,0003,000000FF>, \nand then enter the puzzle screen.<C:0003,0001,>",
+      "original_text": "First, peep at the Touch Screen\nand choose a pic to decrypt.<C:0003,0001,><C:0000,0004,>At first, you can only choose Lv. 1.<C:0003,0001,><C:0000,0004,>So listen: select <C:0000,0003,2C65FFFF>Wakeport Lv. 1<C:0000,0003,000000FF>, \nand then enter the puzzle screen.<C:0003,0001,>",
+      "original_tokenized_text": "First, peep at the Touch Screen\nand choose a pic to decrypt.<C:0003,0001,><C:0000,0004,>At first, you can only choose Lv. 1.<C:0003,0001,><C:0000,0004,>So listen: select <C:0000,0003,2C65FFFF>Wakeport Lv. 1<C:0000,0003,000000FF>, \nand then enter the puzzle screen.<C:0003,0001,>",
+      "raw_full_hex": "460069007200730074002C00200070006500650070002000610074002000740068006500200054006F007500630068002000530063007200650065006E000A0061006E0064002000630068006F006F0073006500200061002000700069006300200074006F00200064006500630072007900700074002E000E000300010000000E00000004000000410074002000660069007200730074002C00200079006F0075002000630061006E0020006F006E006C0079002000630068006F006F007300650020004C0076002E00200031002E000E000300010000000E0000000400000053006F0020006C0069007300740065006E003A002000730065006C0065006300740020000E000000030004002C65FFFF570061006B00650070006F007200740020004C0076002E00200031000E00000003000400000000FF2C0020000A0061006E00640020007400680065006E00200065006E0074006500720020007400680065002000700075007A007A006C0065002000730063007200650065006E002E000E000300010000000000"
+    },
+    "63": {
+      "text": "Here's where we puzzle those pics out.<C:0003,0001,>",
+      "tokenized_text": "Here's where we puzzle those pics out.<C:0003,0001,>",
+      "original_text": "Here's where we puzzle those pics out.<C:0003,0001,>",
+      "original_tokenized_text": "Here's where we puzzle those pics out.<C:0003,0001,>",
+      "raw_full_hex": "4800650072006500270073002000770068006500720065002000770065002000700075007A007A006C0065002000740068006F00730065002000700069006300730020006F00750074002E000E000300010000000000"
+    },
+    "64": {
+      "text": "Touch one of the scraps scattered\naround on the Touch Screen...<C:0003,0001,>",
+      "tokenized_text": "Touch one of the scraps scattered\naround on the Touch Screen...<C:0003,0001,>",
+      "original_text": "Touch one of the scraps scattered\naround on the Touch Screen...<C:0003,0001,>",
+      "original_tokenized_text": "Touch one of the scraps scattered\naround on the Touch Screen...<C:0003,0001,>",
+      "raw_full_hex": "54006F0075006300680020006F006E00650020006F0066002000740068006500200073006300720061007000730020007300630061007400740065007200650064000A00610072006F0075006E00640020006F006E002000740068006500200054006F007500630068002000530063007200650065006E002E002E002E000E000300010000000000"
+    },
+    "65": {
+      "text": "Then just drag that scrap over to\nthe panel.<C:0003,0001,>",
+      "tokenized_text": "Then just drag that scrap over to\nthe panel.<C:0003,0001,>",
+      "original_text": "Then just drag that scrap over to\nthe panel.<C:0003,0001,>",
+      "original_tokenized_text": "Then just drag that scrap over to\nthe panel.<C:0003,0001,>",
+      "raw_full_hex": "5400680065006E0020006A00750073007400200064007200610067002000740068006100740020007300630072006100700020006F00760065007200200074006F000A007400680065002000700061006E0065006C002E000E000300010000000000"
+    },
+    "66": {
+      "text": "Once you find the spot where the\nscrap locks in, well, that's its home.<C:0003,0001,>",
+      "tokenized_text": "Once you find the spot where the\nscrap locks in, well, that's its home.<C:0003,0001,>",
+      "original_text": "Once you find the spot where the\nscrap locks in, well, that's its home.<C:0003,0001,>",
+      "original_tokenized_text": "Once you find the spot where the\nscrap locks in, well, that's its home.<C:0003,0001,>",
+      "raw_full_hex": "4F006E0063006500200079006F0075002000660069006E00640020007400680065002000730070006F00740020007700680065007200650020007400680065000A007300630072006100700020006C006F0063006B007300200069006E002C002000770065006C006C002C0020007400680061007400270073002000690074007300200068006F006D0065002E000E000300010000000000"
+    },
+    "67": {
+      "text": "Oh, and, fellas, rotate the selected\nscrap by touching the icon down below.<C:0003,0001,>",
+      "tokenized_text": "Oh, and, fellas, rotate the selected\nscrap by touching the icon down below.<C:0003,0001,>",
+      "original_text": "Oh, and, fellas, rotate the selected\nscrap by touching the icon down below.<C:0003,0001,>",
+      "original_tokenized_text": "Oh, and, fellas, rotate the selected\nscrap by touching the icon down below.<C:0003,0001,>",
+      "raw_full_hex": "4F0068002C00200061006E0064002C002000660065006C006C00610073002C00200072006F00740061007400650020007400680065002000730065006C00650063007400650064000A0073006300720061007000200062007900200074006F0075006300680069006E00670020007400680065002000690063006F006E00200064006F0077006E002000620065006C006F0077002E000E000300010000000000"
+    },
+    "68": {
+      "text": "Some of those scraps will need some\nrotation before they find their homes...<C:0003,0001,>",
+      "tokenized_text": "Some of those scraps will need some\nrotation before they find their homes...<C:0003,0001,>",
+      "original_text": "Some of those scraps will need some\nrotation before they find their homes...<C:0003,0001,>",
+      "original_tokenized_text": "Some of those scraps will need some\nrotation before they find their homes...<C:0003,0001,>",
+      "raw_full_hex": "53006F006D00650020006F0066002000740068006F007300650020007300630072006100700073002000770069006C006C0020006E00650065006400200073006F006D0065000A0072006F0074006100740069006F006E0020006200650066006F0072006500200074006800650079002000660069006E006400200074006800650069007200200068006F006D00650073002E002E002E000E000300010000000000"
+    },
+    "69": {
+      "text": "Easy-peasy, right? Coupla geniuses\nlike you, you'll solve 'em all easy.<C:0003,0001,><C:0000,0004,>Or maybe... Need instructions again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "tokenized_text": "Easy-peasy, right? Coupla geniuses\nlike you, you'll solve 'em all easy.<C:0003,0001,><C:0000,0004,>Or maybe... Need instructions again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_text": "Easy-peasy, right? Coupla geniuses\nlike you, you'll solve 'em all easy.<C:0003,0001,><C:0000,0004,>Or maybe... Need instructions again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_tokenized_text": "Easy-peasy, right? Coupla geniuses\nlike you, you'll solve 'em all easy.<C:0003,0001,><C:0000,0004,>Or maybe... Need instructions again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "raw_full_hex": "45006100730079002D00700065006100730079002C002000720069006700680074003F00200043006F00750070006C0061002000670065006E00690075007300650073000A006C0069006B006500200079006F0075002C00200079006F00750027006C006C00200073006F006C00760065002000270065006D00200061006C006C00200065006100730079002E000E000300010000000E000000040000004F00720020006D0061007900620065002E002E002E0020004E00650065006400200069006E0073007400720075006300740069006F006E007300200061006700610069006E003F000E000300000002000A000A000E000100010000000E000500010000004E006F0020002000200020002000200020002000200020000E000500010000005900650073000E000300000002000A000000"
+    },
+    "70": {
+      "text": "Once you boys complete Lv. 1,\nyou can challenge the next level.<C:0003,0001,><C:0000,0004,>That ain't all! If you complete a\npuzzle within the target time...<C:0003,0001,><C:0000,0004,>Well, ol' Kylie here will lay a few\ncoins and prizes on ya!<C:0003,0001,><C:0000,0004,>So whatcha say? If you're ready,\nlend me a hand, will ya?!<C:0003,0001,>",
+      "tokenized_text": "Once you boys complete Lv. 1,\nyou can challenge the next level.<C:0003,0001,><C:0000,0004,>That ain't all! If you complete a\npuzzle within the target time...<C:0003,0001,><C:0000,0004,>Well, ol' Kylie here will lay a few\ncoins and prizes on ya!<C:0003,0001,><C:0000,0004,>So whatcha say? If you're ready,\nlend me a hand, will ya?!<C:0003,0001,>",
+      "original_text": "Once you boys complete Lv. 1,\nyou can challenge the next level.<C:0003,0001,><C:0000,0004,>That ain't all! If you complete a\npuzzle within the target time...<C:0003,0001,><C:0000,0004,>Well, ol' Kylie here will lay a few\ncoins and prizes on ya!<C:0003,0001,><C:0000,0004,>So whatcha say? If you're ready,\nlend me a hand, will ya?!<C:0003,0001,>",
+      "original_tokenized_text": "Once you boys complete Lv. 1,\nyou can challenge the next level.<C:0003,0001,><C:0000,0004,>That ain't all! If you complete a\npuzzle within the target time...<C:0003,0001,><C:0000,0004,>Well, ol' Kylie here will lay a few\ncoins and prizes on ya!<C:0003,0001,><C:0000,0004,>So whatcha say? If you're ready,\nlend me a hand, will ya?!<C:0003,0001,>",
+      "raw_full_hex": "4F006E0063006500200079006F007500200062006F0079007300200063006F006D0070006C0065007400650020004C0076002E00200031002C000A0079006F0075002000630061006E0020006300680061006C006C0065006E0067006500200074006800650020006E0065007800740020006C006500760065006C002E000E000300010000000E0000000400000054006800610074002000610069006E0027007400200061006C006C002100200049006600200079006F007500200063006F006D0070006C00650074006500200061000A00700075007A007A006C0065002000770069007400680069006E00200074006800650020007400610072006700650074002000740069006D0065002E002E002E000E000300010000000E00000004000000570065006C006C002C0020006F006C00270020004B0079006C0069006500200068006500720065002000770069006C006C0020006C00610079002000610020006600650077000A0063006F0069006E007300200061006E00640020007000720069007A006500730020006F006E0020007900610021000E000300010000000E0000000400000053006F002000770068006100740063006800610020007300610079003F00200049006600200079006F0075002700720065002000720065006100640079002C000A006C0065006E00640020006D006500200061002000680061006E0064002C002000770069006C006C002000790061003F0021000E000300010000000000"
+    },
+    "71": {
+      "text": "That's all the explaining I can handle.<C:0003,0001,><C:0000,0004,>To head back, press the B Button or\nthe back icon on the Touch Screen!<C:0003,0001,>",
+      "tokenized_text": "That's all the explaining I can handle.<C:0003,0001,><C:0000,0004,>To head back, press the B Button or\nthe back icon on the Touch Screen!<C:0003,0001,>",
+      "original_text": "That's all the explaining I can handle.<C:0003,0001,><C:0000,0004,>To head back, press the B Button or\nthe back icon on the Touch Screen!<C:0003,0001,>",
+      "original_tokenized_text": "That's all the explaining I can handle.<C:0003,0001,><C:0000,0004,>To head back, press the B Button or\nthe back icon on the Touch Screen!<C:0003,0001,>",
+      "raw_full_hex": "540068006100740027007300200061006C006C00200074006800650020006500780070006C00610069006E0069006E006700200049002000630061006E002000680061006E0064006C0065002E000E000300010000000E0000000400000054006F002000680065006100640020006200610063006B002C00200070007200650073007300200074006800650020004200200042007500740074006F006E0020006F0072000A0074006800650020006200610063006B002000690063006F006E0020006F006E002000740068006500200054006F007500630068002000530063007200650065006E0021000E000300010000000000"
+    }
+  }
+}

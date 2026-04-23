@@ -1,0 +1,109 @@
+{
+  "0343.msbt": {
+    "0": {
+      "text": "<C:0007,0000,>Entrar no mundo onírico?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Não        　 <C:0005,0001,>Sim<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0007,0000,>Entrar no mundo onírico?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Não        　 <C:0005,0001,>Sim<C:0003,0000,0A00>",
+      "original_text": "<C:0007,0000,>Entrar no mundo onírico?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Não        　 <C:0005,0001,>Sim<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0007,0000,>Entrar no mundo onírico?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Não        　 <C:0005,0001,>Sim<C:0003,0000,0A00>",
+      "raw_full_hex": "0E0007000000000045006E00740072006100720020006E006F0020006D0075006E0064006F0020006F006E00ED007200690063006F003F000E000300000002000A000A000E000100010000000E000500010000004E00E3006F0020002000200020002000200020002000003020000E00050001000000530069006D000E000300000002000A000000"
+    },
+    "1": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Alto!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Alto!<C:0003,0000,1E00>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Alto!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Alto!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000700000000000E000100010000000E0001000400000041006C0074006F0021000E000300000002001E000000"
+    },
+    "2": {
+      "text": "Para lá\ndesta porta...<C:0003,0001,>",
+      "tokenized_text": "Para lá\ndesta porta...<C:0003,0001,>",
+      "original_text": "Para lá\ndesta porta...<C:0003,0001,>",
+      "original_tokenized_text": "Para lá\ndesta porta...<C:0003,0001,>",
+      "raw_full_hex": "500061007200610020006C00E1000A0064006500730074006100200070006F007200740061002E002E002E000E000300010000000000"
+    },
+    "3": {
+      "text": "Sinto a presença\ndo Conde Antasma!<C:0003,0001,>",
+      "tokenized_text": "Sinto a presença\ndo Conde Antasma!<C:0003,0001,>",
+      "original_text": "Sinto a presença\ndo Conde Antasma!<C:0003,0001,>",
+      "original_tokenized_text": "Sinto a presença\ndo Conde Antasma!<C:0003,0001,>",
+      "raw_full_hex": "530069006E0074006F00200061002000700072006500730065006E00E70061000A0064006F00200043006F006E0064006500200041006E007400610073006D00610021000E000300010000000000"
+    },
+    "4": {
+      "text": "Mario! Luigi!\nVamos acabar com isto!<C:0003,0001,>",
+      "tokenized_text": "Mario! Luigi!\nVamos acabar com isto!<C:0003,0001,>",
+      "original_text": "Mario! Luigi!\nVamos acabar com isto!<C:0003,0001,>",
+      "original_tokenized_text": "Mario! Luigi!\nVamos acabar com isto!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F00210020004C00750069006700690021000A00560061006D006F0073002000610063006100620061007200200063006F006D0020006900730074006F0021000E000300010000000000"
+    },
+    "5": {
+      "text": "Esta chama...<C:0003,0001,>",
+      "tokenized_text": "Esta chama...<C:0003,0001,>",
+      "original_text": "Esta chama...<C:0003,0001,>",
+      "original_tokenized_text": "Esta chama...<C:0003,0001,>",
+      "raw_full_hex": "450073007400610020006300680061006D0061002E002E002E000E000300010000000000"
+    },
+    "6": {
+      "text": "Parece vir do\nmundo onírico...<C:0003,0001,>",
+      "tokenized_text": "Parece vir do\nmundo onírico...<C:0003,0001,>",
+      "original_text": "Parece vir do\nmundo onírico...<C:0003,0001,>",
+      "original_tokenized_text": "Parece vir do\nmundo onírico...<C:0003,0001,>",
+      "raw_full_hex": "5000610072006500630065002000760069007200200064006F000A006D0075006E0064006F0020006F006E00ED007200690063006F002E002E002E000E000300010000000000"
+    },
+    "7": {
+      "text": "Podemos apagar esta chama\nse entrarmos no mundo onírico...<C:0003,0001,>",
+      "tokenized_text": "Podemos apagar esta chama\nse entrarmos no mundo onírico...<C:0003,0001,>",
+      "original_text": "Podemos apagar esta chama\nse entrarmos no mundo onírico...<C:0003,0001,>",
+      "original_tokenized_text": "Podemos apagar esta chama\nse entrarmos no mundo onírico...<C:0003,0001,>",
+      "raw_full_hex": "50006F00640065006D006F00730020006100700061006700610072002000650073007400610020006300680061006D0061000A0073006500200065006E0074007200610072006D006F00730020006E006F0020006D0075006E0064006F0020006F006E00ED007200690063006F002E002E002E000E000300010000000000"
+    },
+    "8": {
+      "text": "Deve haver um ponto\nonírico perto daquela chama!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Vamos encontrá-lo e apagar este fogo!<C:0003,0001,>",
+      "tokenized_text": "Deve haver um ponto\nonírico perto daquela chama!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Vamos encontrá-lo e apagar este fogo!<C:0003,0001,>",
+      "original_text": "Deve haver um ponto\nonírico perto daquela chama!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Vamos encontrá-lo e apagar este fogo!<C:0003,0001,>",
+      "original_tokenized_text": "Deve haver um ponto\nonírico perto daquela chama!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Vamos encontrá-lo e apagar este fogo!<C:0003,0001,>",
+      "raw_full_hex": "4400650076006500200068006100760065007200200075006D00200070006F006E0074006F000A006F006E00ED007200690063006F00200070006500720074006F002000640061007100750065006C00610020006300680061006D00610021000E000300010000000E000000040000000E000100010000000E00010004000000560061006D006F007300200065006E0063006F006E0074007200E1002D006C006F0020006500200061007000610067006100720020006500730074006500200066006F0067006F0021000E000300010000000000"
+    },
+    "9": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Sim!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Sim!<C:0003,0000,1E00>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Sim!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Sim!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000700000000000E000100010000000E00010004000000530069006D0021000E000300000002001E000000"
+    },
+    "10": {
+      "text": "Vamos apagar também\nos outros dois fogos! Coragem!<C:0003,0001,>",
+      "tokenized_text": "Vamos apagar também\nos outros dois fogos! Coragem!<C:0003,0001,>",
+      "original_text": "Vamos apagar também\nos outros dois fogos! Coragem!<C:0003,0001,>",
+      "original_tokenized_text": "Vamos apagar também\nos outros dois fogos! Coragem!<C:0003,0001,>",
+      "raw_full_hex": "560061006D006F00730020006100700061006700610072002000740061006D006200E9006D000A006F00730020006F007500740072006F007300200064006F0069007300200066006F0067006F0073002100200043006F0072006100670065006D0021000E000300010000000000"
+    },
+    "11": {
+      "text": "Já só falta mais um!\nEstamos quase a acabar!<C:0003,0001,>",
+      "tokenized_text": "Já só falta mais um!\nEstamos quase a acabar!<C:0003,0001,>",
+      "original_text": "Já só falta mais um!\nEstamos quase a acabar!<C:0003,0001,>",
+      "original_tokenized_text": "Já só falta mais um!\nEstamos quase a acabar!<C:0003,0001,>",
+      "raw_full_hex": "4A00E10020007300F3002000660061006C007400610020006D00610069007300200075006D0021000A0045007300740061006D006F00730020007100750061007300650020006100200061006300610062006100720021000E000300010000000000"
+    },
+    "12": {
+      "text": "Já podemos avançar!\nVamos!<C:0003,0001,>",
+      "tokenized_text": "Já podemos avançar!\nVamos!<C:0003,0001,>",
+      "original_text": "Já podemos avançar!\nVamos!<C:0003,0001,>",
+      "original_tokenized_text": "Já podemos avançar!\nVamos!<C:0003,0001,>",
+      "raw_full_hex": "4A00E100200070006F00640065006D006F00730020006100760061006E00E7006100720021000A00560061006D006F00730021000E000300010000000000"
+    },
+    "13": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "14": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}

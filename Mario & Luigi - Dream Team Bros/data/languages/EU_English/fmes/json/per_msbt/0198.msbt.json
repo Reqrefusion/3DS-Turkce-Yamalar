@@ -1,0 +1,102 @@
+{
+  "0198.msbt": {
+    "0": {
+      "text": "<C:0001,0004,>Wait a moment.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Wait a moment.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Wait a moment.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Wait a moment.<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000057006100690074002000610020006D006F006D0065006E0074002E000E000300010000000000"
+    },
+    "1": {
+      "text": "Look at these stones.<C:0003,0000,0A00>\nYou might be able to break them.<C:0003,0001,>",
+      "tokenized_text": "Look at these stones.<C:0003,0000,0A00>\nYou might be able to break them.<C:0003,0001,>",
+      "original_text": "Look at these stones.<C:0003,0000,0A00>\nYou might be able to break them.<C:0003,0001,>",
+      "original_tokenized_text": "Look at these stones.<C:0003,0000,0A00>\nYou might be able to break them.<C:0003,0001,>",
+      "raw_full_hex": "4C006F006F006B002000610074002000740068006500730065002000730074006F006E00650073002E000E000300000002000A000A0059006F00750020006D0069006700680074002000620065002000610062006C006500200074006F00200062007200650061006B0020007400680065006D002E000E000300010000000000"
+    },
+    "2": {
+      "text": "Shall we try breaking\nthem with the Luiginoids?<C:0003,0001,>",
+      "tokenized_text": "Shall we try breaking\nthem with the Luiginoids?<C:0003,0001,>",
+      "original_text": "Shall we try breaking\nthem with the Luiginoids?<C:0003,0001,>",
+      "original_tokenized_text": "Shall we try breaking\nthem with the Luiginoids?<C:0003,0001,>",
+      "raw_full_hex": "5300680061006C006C002000770065002000740072007900200062007200650061006B0069006E0067000A007400680065006D0020007700690074006800200074006800650020004C0075006900670069006E006F006900640073003F000E000300010000000000"
+    },
+    "3": {
+      "text": "You can already jump\nusing the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button, yes?<C:0003,0001,>",
+      "tokenized_text": "You can already jump\nusing the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button, yes?<C:0003,0001,>",
+      "original_text": "You can already jump\nusing the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button, yes?<C:0003,0001,>",
+      "original_tokenized_text": "You can already jump\nusing the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button, yes?<C:0003,0001,>",
+      "raw_full_hex": "59006F0075002000630061006E00200061006C007200650061006400790020006A0075006D0070000A007500730069006E006700200074006800650020000E000000030004000EAD43FF420020000E00000003000400000000FF42007500740074006F006E002C0020007900650073003F000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>OK.<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0004,>OK.<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0004,>OK.<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0004,>OK.<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100040000004F004B002E000E000300000002001E000000"
+    },
+    "5": {
+      "text": "<C:0001,0004,>Good!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0004,>Good!<C:0003,0000,1E00>",
+      "original_text": "<C:0001,0004,>Good!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0004,>Good!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E0001000400000047006F006F00640021000E000300000002001E000000"
+    },
+    "6": {
+      "text": "You just used a\nLuiginary ability!<C:0003,0001,>",
+      "tokenized_text": "You just used a\nLuiginary ability!<C:0003,0001,>",
+      "original_text": "You just used a\nLuiginary ability!<C:0003,0001,>",
+      "original_tokenized_text": "You just used a\nLuiginary ability!<C:0003,0001,>",
+      "raw_full_hex": "59006F00750020006A0075007300740020007500730065006400200061000A004C0075006900670069006E0061007200790020006100620069006C0069007400790021000E000300010000000000"
+    },
+    "7": {
+      "text": "That was a marvellous\n<C:0000,0003,2C65FFFF>Ground Pound<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "tokenized_text": "That was a marvellous\n<C:0000,0003,2C65FFFF>Ground Pound<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_text": "That was a marvellous\n<C:0000,0003,2C65FFFF>Ground Pound<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "original_tokenized_text": "That was a marvellous\n<C:0000,0003,2C65FFFF>Ground Pound<C:0000,0003,000000FF>!<C:0003,0001,>",
+      "raw_full_hex": "540068006100740020007700610073002000610020006D0061007200760065006C006C006F00750073000A000E000000030004002C65FFFF470072006F0075006E006400200050006F0075006E0064000E00000003000400000000FF21000E000300010000000000"
+    },
+    "8": {
+      "text": "Want to do it again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "tokenized_text": "Want to do it again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_text": "Want to do it again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_tokenized_text": "Want to do it again?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "raw_full_hex": "570061006E007400200074006F00200064006F00200069007400200061006700610069006E003F000E000300000002000A000A000E000100010000000E000500010000004E006F0020002000200020002000200020002000200020000E000500010000005900650073000E000300000002000A000000"
+    },
+    "9": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "10": {
+      "text": "Jump again in mid-air\nwith the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button!",
+      "tokenized_text": "Jump again in mid-air\nwith the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button!",
+      "original_text": "Jump again in mid-air\nwith the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button!",
+      "original_tokenized_text": "Jump again in mid-air\nwith the <C:0000,0003,0EAD43FF>B <C:0000,0003,000000FF>Button!",
+      "raw_full_hex": "4A0075006D007000200061006700610069006E00200069006E0020006D00690064002D006100690072000A007700690074006800200074006800650020000E000000030004000EAD43FF420020000E00000003000400000000FF42007500740074006F006E0021000000"
+    },
+    "11": {
+      "text": "You can break certain\nobjects with this move.<C:0003,0001,>",
+      "tokenized_text": "You can break certain\nobjects with this move.<C:0003,0001,>",
+      "original_text": "You can break certain\nobjects with this move.<C:0003,0001,>",
+      "original_tokenized_text": "You can break certain\nobjects with this move.<C:0003,0001,>",
+      "raw_full_hex": "59006F0075002000630061006E00200062007200650061006B0020006300650072007400610069006E000A006F0062006A006500630074007300200077006900740068002000740068006900730020006D006F00760065002E000E000300010000000000"
+    },
+    "12": {
+      "text": "<C:0001,0004,>Ready?<C:0003,0000,0A00> Let's go!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Ready?<C:0003,0000,0A00> Let's go!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Ready?<C:0003,0000,0A00> Let's go!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Ready?<C:0003,0000,0A00> Let's go!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000520065006100640079003F000E000300000002000A0020004C006500740027007300200067006F0021000E000300010000000000"
+    },
+    "13": {
+      "text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>You learnt the <C:0000,0003,00EAFFFF>Ground Pound<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>Press the <C:0000,0003,7DFF00FF>B <C:0000,0003,FFFFFFFF>Button in\nmid-air to execute it!<C:0003,0000,1E00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>You learnt the <C:0000,0003,00EAFFFF>Ground Pound<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>Press the <C:0000,0003,7DFF00FF>B <C:0000,0003,FFFFFFFF>Button in\nmid-air to execute it!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>You learnt the <C:0000,0003,00EAFFFF>Ground Pound<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>Press the <C:0000,0003,7DFF00FF>B <C:0000,0003,FFFFFFFF>Button in\nmid-air to execute it!<C:0003,0000,1E00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0001,0004,>You learnt the <C:0000,0003,00EAFFFF>Ground Pound<C:0000,0003,FFFFFFFF>!<C:0003,0000,1400><C:0003,0001,><C:0000,0004,><C:0007,0000,>Press the <C:0000,0003,7DFF00FF>B <C:0000,0003,FFFFFFFF>Button in\nmid-air to execute it!<C:0003,0000,1E00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E000700000000000E0001000400000059006F00750020006C006500610072006E007400200074006800650020000E0000000300040000EAFFFF470072006F0075006E006400200050006F0075006E0064000E00000003000400FFFFFFFF21000E0003000000020014000E000300010000000E000000040000000E0007000000000050007200650073007300200074006800650020000E000000030004007DFF00FF420020000E00000003000400FFFFFFFF42007500740074006F006E00200069006E000A006D00690064002D00610069007200200074006F002000650078006500630075007400650020006900740021000E000300000002001E000E000300010000000000"
+    }
+  }
+}

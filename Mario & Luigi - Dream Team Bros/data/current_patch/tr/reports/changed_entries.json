@@ -1,0 +1,2678 @@
+[
+  {
+    "file": "0000.msbt",
+    "entry": "47",
+    "before_text": "￿￿<C:0001,0001,><C:0007,0000,>↑Mışilos Kalesi\n← Uyanliman     Somnom Ormanı →\n↓Şafmantar Parkı<C:0003,0001,><C:0000,0003,FFFFFFFF>",
+    "after_text": "￿￿<C:0001,0001,><C:0007,0000,>↑Mışilos Kalesi\n← Uyaniskele     Uyurgezer Ormanı →\n↓Şafmantar Parkı<C:0003,0001,><C:0000,0003,FFFFFFFF>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      },
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0002.msbt",
+    "entry": "25",
+    "before_text": "u karodaki simge,\nsanırım adanın maskotu.<C:0003,0001,><C:0000,0004,>Zeekeeper denen\nbir kuş koruyucu galiba.<C:0003,0001,><C:0000,0004,>Hımm... Üzerine basmak\npek iyi fikir olmayabilir.<C:0003,0001,>",
+    "after_text": "u karodaki simge,\nsanırım adanın maskotu.<C:0003,0001,><C:0000,0004,>Mışılbekçi denen\nbir kuş koruyucu galiba.<C:0003,0001,><C:0000,0004,>Hımm... Üzerine basmak\npek iyi fikir olmayabilir.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0002.msbt",
+    "entry": "28",
+    "before_text": "eşke Zeekeeper ortaya çıkıp\nbütün bunları düzeltse!<C:0003,0001,><C:0000,0004,>Neredesin, Zeekeeper!<C:0003,0001,>",
+    "after_text": "eşke Mışılbekçi ortaya çıkıp\nbütün bunları düzeltse!<C:0003,0001,><C:0000,0004,>Neredesin, Mışılbekçi!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 2,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0014.msbt",
+    "entry": "22",
+    "before_text": "zi\nUyanliman'da ziyaret edin!<C:0003,0001,>",
+    "after_text": "zi\nUyaniskele'de ziyaret edin!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0014.msbt",
+    "entry": "26",
+    "before_text": "Evet, yalnızca kayıtlı tırmanıcıların\nPajamaja Dağı'na çıkmasına izin verilir.<C:0003,0001,><C:0000,0004,>Tura kaydı Uyaniskele'daki\ntur merkezinde yaptırabilirsiniz!<C:0003,0001,>",
+    "after_text": "Evet, yalnızca kayıtlı tırmanıcıların\nPajamaja Dağı'na çıkmasına izin verilir.<C:0003,0001,><C:0000,0004,>Tura kaydı Uyaniskele'deki\ntur merkezinde yaptırabilirsiniz!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0014.msbt",
+    "entry": "32",
+    "before_text": "r merkezi\nUyanliman'daydı, değil mi?",
+    "after_text": "r merkezi\nUyaniskele'deydi, değil mi?",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'daydı",
+        "to": "Uyaniskele'deydi",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0015.msbt",
+    "entry": "21",
+    "before_text": "ni...<C:0003,0000,0F00> Zeekeeper'la\ntakılıyor musun?!<C:0003,0001,><C:0000,0004,>Eldream, etkilendim!\nResmen ünlü gibisin!<C:0003,0001,>",
+    "after_text": "ni...<C:0003,0000,0F00> Mışılbekçi'yle\ntakılıyor musun?!<C:0003,0001,><C:0000,0004,>Eldream, etkilendim!\nResmen ünlü gibisin!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0015.msbt",
+    "entry": "52",
+    "before_text": "Şimdi tek yapmamız gereken\nUyaniskele'daki usta yatak yapımcısını bulmak.<C:0003,0001,><C:0000,0004,>Beş parçayı birleştirebilecek\ntek kişi o!<C:0003,0001,>",
+    "after_text": "Şimdi tek yapmamız gereken\nUyaniskele'deki usta yatak yapımcısını bulmak.<C:0003,0001,><C:0000,0004,>Beş parçayı birleştirebilecek\ntek kişi o!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0015.msbt",
+    "entry": "53",
+    "before_text": "ta yatak ustası...<C:0003,0000,0F00>\nEvet, şimdi hatırladım!<C:0003,0001,><C:0000,0004,>Yanılmıyorsam\nadı <C:0000,0003,2C65FFFF>Bedsmith<C:0000,0003,000000FF>.<C:0003,0001,>",
+    "after_text": "ta yatak ustası...<C:0003,0000,0F00>\nEvet, şimdi hatırladım!<C:0003,0001,><C:0000,0004,>Yanılmıyorsam\nadı <C:0000,0003,2C65FFFF>Döşekçi<C:0000,0003,000000FF>.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0025.msbt",
+    "entry": "12",
+    "before_text": "arşılığında,\naradığın şeyi sana vereceğim.<C:0003,0001,><C:0000,0004,>Zeekeeper ışığına\nrehber olsun.<C:0003,0001,>",
+    "after_text": "arşılığında,\naradığın şeyi sana vereceğim.<C:0003,0001,><C:0000,0004,>Mışılbekçi ışığına\nrehber olsun.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0025.msbt",
+    "entry": "23",
+    "before_text": "üya Taşı\ngeri alınmalı.<C:0003,0001,><C:0000,0004,>Alınmazsa bu\nada mahvolacak.<C:0003,0001,><C:0000,0004,>Zeekeeper hepimizi\nkorusun.<C:0003,0001,>",
+    "after_text": "üya Taşı\ngeri alınmalı.<C:0003,0001,><C:0000,0004,>Alınmazsa bu\nada mahvolacak.<C:0003,0001,><C:0000,0004,>Mışılbekçi hepimizi\nkorusun.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0051.msbt",
+    "entry": "6",
+    "before_text": "Uyanliman adanın en huu'lu\nmekânı, hem de TAM şurada!<C:0003,0001,><C:0000,0004,>Orada hâlâ birkaç huu-tel\nodası da boşmuş!<C:0003,0001,>",
+    "after_text": "Uyaniskele adanın en huu'lu\nmekânı, hem de TAM şurada!<C:0003,0001,><C:0000,0004,>Orada hâlâ birkaç huu-tel\nodası da boşmuş!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0051.msbt",
+    "entry": "12",
+    "before_text": "Hey çocuklar! İyi ki geldiniz!\nİlerisi Uyanliman!<C:0003,0001,><C:0000,0004,>İçeride kaybolmamaya\ndikkat edin, tamam mı?<C:0003,0001,>",
+    "after_text": "Hey çocuklar! İyi ki geldiniz!\nİlerisi Uyaniskele!<C:0003,0001,><C:0000,0004,>İçeride kaybolmamaya\ndikkat edin, tamam mı?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0051.msbt",
+    "entry": "14",
+    "before_text": "Öteki Zeekeeper herkese\nküçük çocukmuş gibi davranıyor...<C:0003,0001,><C:0000,0004,>Belki de maskotlarla sadece\nçocukların konuştuğunu sanıyordur?<C:0003,0001,>",
+    "after_text": "Öteki Mışılbekçi herkese\nküçük çocukmuş gibi davranıyor...<C:0003,0001,><C:0000,0004,>Belki de maskotlarla sadece\nçocukların konuştuğunu sanıyordur?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0051.msbt",
+    "entry": "15",
+    "before_text": "O Zeekeeper herkese\nküçük çocukmuş gibi davranıyor...<C:0003,0001,><C:0000,0004,>Üstelik bir de kocaman\nyalanlar söylüyor galiba!<C:0003,0001,>",
+    "after_text": "O Mışılbekçi herkese\nküçük çocukmuş gibi davranıyor...<C:0003,0001,><C:0000,0004,>Üstelik bir de kocaman\nyalanlar söylüyor galiba!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0055.msbt",
+    "entry": "53",
+    "before_text": "Bu adada çok sayıda\nMışilos kalıntısı olduğunu\nbiliyorsundur.<C:0003,0001,><C:0000,0004,>Evet, buraların çoğu ziyaretçiler\niçin düzenlenmiş olsa da...<C:0003,0001,><C:0000,0004,><C:0000,0003,2C65FFFF>Somnom Ormanı<C:0000,0003,000000FF> turizmin\nneredeyse hiç dokunmadığı bir yer.<C:0003,0001,><C:0000,0004,>İddia ederim, o orman hem\nbüyülü hem de ürkütücüdür!<C:0003,0001,>",
+    "after_text": "Bu adada çok sayıda\nMışilos kalıntısı olduğunu\nbiliyorsundur.<C:0003,0001,><C:0000,0004,>Evet, buraların çoğu ziyaretçiler\niçin düzenlenmiş olsa da...<C:0003,0001,><C:0000,0004,><C:0000,0003,2C65FFFF>Uyurgezer Ormanı<C:0000,0003,000000FF> turizmin\nneredeyse hiç dokunmadığı bir yer.<C:0003,0001,><C:0000,0004,>İddia ederim, o orman hem\nbüyülü hem de ürkütücüdür!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0061.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0061.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0061.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0063.msbt",
+    "entry": "30",
+    "before_text": "攬￿Zeekeeper Tüyleri<C:0000,0003,000000FF>!<C:0003,0001,>",
+    "after_text": "攬￿Mışılbekçi Tüyleri<C:0000,0003,000000FF>!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0063.msbt",
+    "entry": "40",
+    "before_text": "\u0004攬￿Somnom Ormanı<C:0000,0003,000000FF>'nda bekleyeceğini söyledi.<C:0003,0001,><C:0000,0004,>Oraya olabildiğince\nçabuk gitmeliyiz!<C:0003,0001,>",
+    "after_text": "\u0004攬￿Uyurgezer Ormanı<C:0000,0003,000000FF>'nda bekleyeceğini söyledi.<C:0003,0001,><C:0000,0004,>Oraya olabildiğince\nçabuk gitmeliyiz!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0064.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyanliman için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyaniskele için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0064.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyanliman için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyaniskele için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0064.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyanliman için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını tamamladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,><C:0000,0003,FFFFFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı Saldırı Parçasını\nUyaniskele için aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını tamamladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0066.msbt",
+    "entry": "9",
+    "before_text": "Evet, ben bir pelüş Zeekeeper\narıyorum ama...\nHer yerde tükenmiş!\nAcayip popüler olmuş...",
+    "after_text": "Evet, ben bir pelüş Mışılbekçi\narıyorum ama...\nHer yerde tükenmiş!\nAcayip popüler olmuş...",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0066.msbt",
+    "entry": "12",
+    "before_text": "Acaba kimde olabilir...\nO pelüş Zeekeeper'a BAYILIYORUM...",
+    "after_text": "Acaba kimde olabilir...\nO pelüş Mışılbekçi'a BAYILIYORUM...",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0066.msbt",
+    "entry": "20",
+    "before_text": "Pelüş Zeekeeper'ı verdin!",
+    "after_text": "Pelüş Mışılbekçi'ı verdin!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0068.msbt",
+    "entry": "17",
+    "before_text": "Tamam, şimdi anladım, sadece\nnaziklik ediyorsunuz... Yani hadi ama.<C:0003,0001,><C:0000,0004,>Princess Peach\ninanılmaz güzel!<C:0003,0001,>",
+    "after_text": "Tamam, şimdi anladım, sadece\nnaziklik ediyorsunuz... Yani hadi ama.<C:0003,0001,><C:0000,0004,>Prenses Peach\ninanılmaz güzel!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Princess Peach",
+        "to": "Prenses Peach",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0068.msbt",
+    "entry": "19",
+    "before_text": "Princess Peach kadar\ngüzel göründüğümü düşünüyorsunuz!<C:0003,0001,><C:0000,0004,>Günümü güzelleştirdiniz!\nSelam özgüven!<C:0003,0001,>",
+    "after_text": "Prenses Peach kadar\ngüzel göründüğümü düşünüyorsunuz!<C:0003,0001,><C:0000,0004,>Günümü güzelleştirdiniz!\nSelam özgüven!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Princess Peach",
+        "to": "Prenses Peach",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0075.msbt",
+    "entry": "23",
+    "before_text": "<C:0001,0004,>Küçük bir kuş bana söyledi...<C:0003,0001,><C:0000,0004,>Broque Madame son günlerde\nacayip keyifliymiş!<C:0003,0001,><C:0000,0004,>Evet, sahilde havalı bir şey\nbulmuş diye duydum.<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Küçük bir kuş bana söyledi...<C:0003,0001,><C:0000,0004,>Madam Blok son günlerde\nacayip keyifliymiş!<C:0003,0001,><C:0000,0004,>Evet, sahilde havalı bir şey\nbulmuş diye duydum.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Broque Madame",
+        "to": "Madam Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0103.msbt",
+    "entry": "27",
+    "before_text": "a kaydolmak için <C:0000,0003,2C65FFFF>Uyanliman<C:0000,0003,000000FF>'a mı\ngitmemiz gerekiyor?!<C:0003,0001,>",
+    "after_text": "a kaydolmak için <C:0000,0003,2C65FFFF>Uyaniskele<C:0000,0003,000000FF>'a mı\ngitmemiz gerekiyor?!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0116.msbt",
+    "entry": "39",
+    "before_text": "İntikam için Uyanliman'daki\no evi basacağım!<C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400>",
+    "after_text": "İntikam için Uyaniskele'deki\no evi basacağım!<C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0130.msbt",
+    "entry": "90",
+    "before_text": "<C:0007,0000,>[Koruyucu Zeekeeper]\nBu tuhaf kuşun, Mışilos Adası'na hükmeden kadim krallığı\ngözettiği söylenirdi.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Zamanla halkın gözünde\nbir ilah hâline geldi.<C:0003,0001,>",
+    "after_text": "<C:0007,0000,>[Koruyucu Mışılbekçi]\nBu tuhaf kuşun, Mışilos Adası'na hükmeden kadim krallığı\ngözettiği söylenirdi.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Zamanla halkın gözünde\nbir ilah hâline geldi.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0130.msbt",
+    "entry": "91",
+    "before_text": " Zeekeeper]\nHarabelerden çıkarılan bir\ntablette,\nbu korkunç efsanevi kuşu anlatan\nkabartmalar bulunuyordu.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Tablete göre kuş gerçek,\nama onu gören olmamış.<C:0003,0001,>",
+    "after_text": " Mışılbekçi]\nHarabelerden çıkarılan bir\ntablette,\nbu korkunç efsanevi kuşu anlatan\nkabartmalar bulunuyordu.<C:0003,0001,><C:0000,0004,><C:0007,0000,>Tablete göre kuş gerçek,\nama onu gören olmamış.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0133.msbt",
+    "entry": "1",
+    "before_text": "ay Mario ve\nBay Luigi sizsiniz, değil mi?<C:0003,0001,><C:0000,0004,>Evet, Broque Monsieur\ngelişinizden söz etmişti.<C:0003,0001,><C:0000,0004,>Dilediğiniz zaman girip\nçıkabilirsiniz.<C:0003,0001,><C:0001,0004,>B",
+    "after_text": "ay Mario ve\nBay Luigi sizsiniz, değil mi?<C:0003,0001,><C:0000,0004,>Evet, Mösyö Blok\ngelişinizden söz etmişti.<C:0003,0001,><C:0000,0004,>Dilediğiniz zaman girip\nçıkabilirsiniz.<C:0003,0001,><C:0001,0004,>B",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "3",
+    "before_text": "Mweh heh heh hee...\nNihayet... Sonunda...\nHayalim gerçek olacak!\nZeekeeper BEN olacağım!\nMilletin hayranlık ve sevinç\nçığlıklarını bir düşünün!\nMweh heh heh hoo...",
+    "after_text": "Mweh heh heh hee...\nNihayet... Sonunda...\nHayalim gerçek olacak!\nMışılbekçi BEN olacağım!\nMilletin hayranlık ve sevinç\nçığlıklarını bir düşünün!\nMweh heh heh hoo...",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "4",
+    "before_text": "Broque Monsieur son zamanlarda\nresmen acımasız.\nSabahın köründen akşama kadar\nvardiya mı olur?\nBunu kim yapar?",
+    "after_text": "Mösyö Blok son zamanlarda\nresmen acımasız.\nSabahın köründen akşama kadar\nvardiya mı olur?\nBunu kim yapar?",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "8",
+    "before_text": "Vay canına! Broque Monsieur\ngerçekten inanılmaz!",
+    "after_text": "Vay canına! Mösyö Blok\ngerçekten inanılmaz!",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "12",
+    "before_text": "lını mı kaçırdın?!\nGerçek Luigi senden daha yakışıklı,\nbuna garanti veririm!\nŞimdi saçmalamayı bırakıp\nişine dön!\nBroque Monsieur'nun ensende\nsolumasını istemezsin!",
+    "after_text": "lını mı kaçırdın?!\nGerçek Luigi senden daha yakışıklı,\nbuna garanti veririm!\nŞimdi saçmalamayı bırakıp\nişine dön!\nMösyö Blok'nun ensende\nsolumasını istemezsin!",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "13",
+    "before_text": "çmalamayı bırakıp işe dön!\nYoksa Broque Monsieur sana\nfena patlar!",
+    "after_text": "çmalamayı bırakıp işe dön!\nYoksa Mösyö Blok sana\nfena patlar!",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0135.msbt",
+    "entry": "23",
+    "before_text": "h-KAWWWW!\nBen herkesin idolüyüm,\nZeekeeper!",
+    "after_text": "h-KAWWWW!\nBen herkesin idolüyüm,\nMışılbekçi!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "167",
+    "before_text": "z?<C:0003,0000,0A00>\nZeekeeper mı?<C:0003,0001,>",
+    "after_text": "z?<C:0003,0000,0A00>\nMışılbekçi mı?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "172",
+    "before_text": " olduğunu düşünüyorum...<C:0003,0001,><C:0000,0004,>Zeekeeper rüya\ndünyasının içinde olmalı...<C:0003,0001,><C:0000,0004,>Onu bulup durumunuzu\nanlatabilirseniz...<C:0003,0001,>",
+    "after_text": " olduğunu düşünüyorum...<C:0003,0001,><C:0000,0004,>Mışılbekçi rüya\ndünyasının içinde olmalı...<C:0003,0001,><C:0000,0004,>Onu bulup durumunuzu\nanlatabilirseniz...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "176",
+    "before_text": "<C:0001,0004,>Rüya dünyasında hayli\ngezmişsinizdir diye düşünüyorum.<C:0003,0001,><C:0000,0004,>Hiçbir iz gördünüz mü?<C:0003,0000,0A00>\nZeekeeper'la ilgili bir şey mesela?<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Rüya dünyasında hayli\ngezmişsinizdir diye düşünüyorum.<C:0003,0001,><C:0000,0004,>Hiçbir iz gördünüz mü?<C:0003,0000,0A00>\nMışılbekçi'yle ilgili bir şey mesela?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "177",
+    "before_text": "\nZeekeeper'ı andıran bir şey?<C:0003,0001,><C:0000,0004,>Zeekeeper gibi? <C:0003,0000,0F00>\nZeekeepervari?<C:0003,0001,><C:0000,0004,>İçinizde bir\nZeekeeper çanı çaldıran bir şey?<C:0003,0001,>",
+    "after_text": "\nMışılbekçi'ı andıran bir şey?<C:0003,0001,><C:0000,0004,>Mışılbekçi gibi? <C:0003,0000,0F00>\nMışılbekçivari?<C:0003,0001,><C:0000,0004,>İçinizde bir\nMışılbekçi çanı çaldıran bir şey?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 4,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "178",
+    "before_text": "Mışilos Kalesi'nde bir şey\nhatırlıyorum...<C:0003,0001,><C:0000,0004,>Bir yerde Zeekeeper'ın tuhaf bir\nheykelini görmüştüm...<C:0003,0001,>",
+    "after_text": "Mışilos Kalesi'nde bir şey\nhatırlıyorum...<C:0003,0001,><C:0000,0004,>Bir yerde Mışılbekçi'ın tuhaf bir\nheykelini görmüştüm...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "188",
+    "before_text": "umak sizi\nZeekeeper'a götürecek!<C:0003,0001,><C:0000,0004,>Anladığım şey de buydu, zzz...<C:0003,0001,>",
+    "after_text": "umak sizi\nMışılbekçi'a götürecek!<C:0003,0001,><C:0000,0004,>Anladığım şey de buydu, zzz...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0151.msbt",
+    "entry": "199",
+    "before_text": " Bir dakika.\nZeekeeper'ı da mı buldunuz?!<C:0003,0001,>",
+    "after_text": " Bir dakika.\nMışılbekçi'ı da mı buldunuz?!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0152.msbt",
+    "entry": "16",
+    "before_text": "Sonuçta efsanevi\nZeekeeper'a aitler!",
+    "after_text": "Sonuçta efsanevi\nMışılbekçi'a aitler!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0153.msbt",
+    "entry": "14",
+    "before_text": "ani evet, bu adam biraz kaçık...\nŞu Zeekeeper maskotu var ya?\nOnun gerçekten çağlardır burada\nyaşayan biri olduğuna inanıyor...\nBana sorarsan kostüm giymiş\nbir çalışan sadece...",
+    "after_text": "ani evet, bu adam biraz kaçık...\nŞu Mışılbekçi maskotu var ya?\nOnun gerçekten çağlardır burada\nyaşayan biri olduğuna inanıyor...\nBana sorarsan kostüm giymiş\nbir çalışan sadece...",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0164.msbt",
+    "entry": "36",
+    "before_text": "<C:0001,0004,>Kaybolur da yardıma ihtiyaç duyarsanız,\nBroque Monsieur hizmetinizdedir.<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Kaybolur da yardıma ihtiyaç duyarsanız,\nMösyö Blok hizmetinizdedir.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Broque Monsieur",
+        "to": "Mösyö Blok",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "2",
+    "before_text": "İşte orada, hatırladığım gibi...<C:0003,0000,0A00>\nZeekeeper heykeli...<C:0003,0001,>",
+    "after_text": "İşte orada, hatırladığım gibi...<C:0003,0000,0A00>\nMışılbekçi heykeli...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "5",
+    "before_text": "Zeekeeper'ı çağırmayı\nişte burada öğrenmiştim.<C:0003,0001,>",
+    "after_text": "Mışılbekçi'ı çağırmayı\nişte burada öğrenmiştim.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "8",
+    "before_text": "Ve her ne kadar\ngerçek dünyada Zeekeeper'la\nkarşılaşmış olsam da...<C:0003,0001,><C:0000,0004,>Korkarım ki onu\nnasıl çağırdığımı...<C:0003,0000,0A00>hatırlamıyorum...<C:0003,0001,>",
+    "after_text": "Ve her ne kadar\ngerçek dünyada Mışılbekçi'yle\nkarşılaşmış olsam da...<C:0003,0001,><C:0000,0004,>Korkarım ki onu\nnasıl çağırdığımı...<C:0003,0000,0A00>hatırlamıyorum...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "10",
+    "before_text": "Bu heykelin Zeekeeper'ın sırrını\ntaşıdığını hissediyorum, ama...<C:0003,0001,>",
+    "after_text": "Bu heykelin Mışılbekçi'ın sırrını\ntaşıdığını hissediyorum, ama...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "14",
+    "before_text": "Zeekeeper'ın gücünü...<C:0003,0000,0A00>\narayan herkes...\"<C:0003,0001,>",
+    "after_text": "Mışılbekçi'ın gücünü...<C:0003,0000,0A00>\narayan herkes...\"<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "27",
+    "before_text": "fmantar Tarlaları...<C:0003,0000,0A00> Bu kesinlikle\nŞafmantar Parkı'nı kastediyor.<C:0003,0001,><C:0000,0004,>Uyanış Adası da\nUyanliman olmalı. Katılıyor musun?<C:0003,0001,>",
+    "after_text": "fmantar Tarlaları...<C:0003,0000,0A00> Bu kesinlikle\nŞafmantar Parkı'nı kastediyor.<C:0003,0001,><C:0000,0004,>Uyanış Adası da\nUyaniskele olmalı. Katılıyor musun?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0244.msbt",
+    "entry": "32",
+    "before_text": "igi <C:0000,0003,2C65FFFF>UltiYatak<C:0000,0003,000000FF>'ta uyursa...<C:0003,0001,><C:0000,0004,>Zeekeeper'ın oyalandığı rüya\ndünyasını bulacağımızı hissediyorum.<C:0003,0001,>",
+    "after_text": "igi <C:0000,0003,2C65FFFF>UltiYatak<C:0000,0003,000000FF>'ta uyursa...<C:0003,0001,><C:0000,0004,>Mışılbekçi'ın oyalandığı rüya\ndünyasını bulacağımızı hissediyorum.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0253.msbt",
+    "entry": "2",
+    "before_text": "<C:0001,0001,>Ben efsanevi Zeekeeper'ım...\nMışilos Krallığı'nın koruyucusuyum...<C:0003,0001,>",
+    "after_text": "<C:0001,0001,>Ben efsanevi Mışılbekçi'ım...\nMışilos Krallığı'nın koruyucusuyum...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0253.msbt",
+    "entry": "6",
+    "before_text": "en Zeekeeper'ım...<C:0003,0001,><C:0000,0004,>Efsanelerin kuşu...\nMışilos Adası'nın koruyucusu...<C:0003,0001,>",
+    "after_text": "en Mışılbekçi'ım...<C:0003,0001,><C:0000,0004,>Efsanelerin kuşu...\nMışilos Adası'nın koruyucusu...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0253.msbt",
+    "entry": "13",
+    "before_text": "t... Zeekeeper'ın\nGERÇEK hâli aslında budur.<C:0003,0001,><C:0000,0004,>İlk başta biraz...\nmesafeli görünür, ama işte.<C:0003,0001,>",
+    "after_text": "t... Mışılbekçi'ın\nGERÇEK hâli aslında budur.<C:0003,0001,><C:0000,0004,>İlk başta biraz...\nmesafeli görünür, ama işte.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0253.msbt",
+    "entry": "20",
+    "before_text": "e bu yüzden geldik,\nZeekeeper. Yardımına ihtiyacımız var.<C:0003,0001,>",
+    "after_text": "e bu yüzden geldik,\nMışılbekçi. Yardımına ihtiyacımız var.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0253.msbt",
+    "entry": "22",
+    "before_text": " Zeekeeper! Senin gücünle\nşato bariyerini parçalayabilirsin!<C:0003,0001,>",
+    "after_text": " Mışılbekçi! Senin gücünle\nşato bariyerini parçalayabilirsin!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0260.msbt",
+    "entry": "41",
+    "before_text": "Şimdi Uyanliman'daki usta\nyatak ustasını bulmalıyız.<C:0003,0001,><C:0000,0004,>Topladığımız beş parçayı\nyalnızca o birleştirebilir!<C:0003,0001,>",
+    "after_text": "Şimdi Uyaniskele'deki usta\nyatak ustasını bulmalıyız.<C:0003,0001,><C:0000,0004,>Topladığımız beş parçayı\nyalnızca o birleştirebilir!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0265.msbt",
+    "entry": "89",
+    "before_text": " zorla girmeye\nçalıştığı ev...<C:0003,0001,><C:0000,0004,>Şu <C:0000,0003,2C65FFFF>Mışilos koleksiyoncusu<C:0000,0003,000000FF>'nun\nevi, değil mi?<C:0003,0001,><C:0000,0004,>Belki orada <C:0000,0003,2C65FFFF>Bedsmith<C:0000,0003,000000FF> hakkında\nbir ipucu bulabiliriz.<C:0003,0001,>",
+    "after_text": " zorla girmeye\nçalıştığı ev...<C:0003,0001,><C:0000,0004,>Şu <C:0000,0003,2C65FFFF>Mışilos koleksiyoncusu<C:0000,0003,000000FF>'nun\nevi, değil mi?<C:0003,0001,><C:0000,0004,>Belki orada <C:0000,0003,2C65FFFF>Döşekçi<C:0000,0003,000000FF> hakkında\nbir ipucu bulabiliriz.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0266.msbt",
+    "entry": "14",
+    "before_text": "esen...\nEminim!<C:0003,0001,><C:0000,0004,>Bu, yatak ustası\n<C:0000,0003,2C65FFFF>Bedsmith<C:0000,0003,000000FF>!<C:0003,0001,>",
+    "after_text": "esen...\nEminim!<C:0003,0001,><C:0000,0004,>Bu, yatak ustası\n<C:0000,0003,2C65FFFF>Döşekçi<C:0000,0003,000000FF>!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0266.msbt",
+    "entry": "27",
+    "before_text": "Bedsmith<C:0000,0003,000000FF>'i kurtaralım mı?<C:0003,0001,>",
+    "after_text": "Döşekçi<C:0000,0003,000000FF>'i kurtaralım mı?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0266.msbt",
+    "entry": "43",
+    "before_text": "eni, Bedsmith!\nO savaş sırasında...<C:0003,0001,><C:0000,0004,>Hepimiz kabus parçalarıyla\ntaşa çevrildik!<C:0003,0001,>",
+    "after_text": "eni, Döşekçi!\nO savaş sırasında...<C:0003,0001,><C:0000,0004,>Hepimiz kabus parçalarıyla\ntaşa çevrildik!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0267.msbt",
+    "entry": "36",
+    "before_text": "Şimdi Uyanliman'daki usta\nyatak ustasını bulmalıyız.<C:0003,0001,><C:0000,0004,>Topladığımız beş parçayı\nyalnızca o birleştirebilir!<C:0003,0001,>",
+    "after_text": "Şimdi Uyaniskele'deki usta\nyatak ustasını bulmalıyız.<C:0003,0001,><C:0000,0004,>Topladığımız beş parçayı\nyalnızca o birleştirebilir!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0291.msbt",
+    "entry": "0",
+    "before_text": "Bedsmith bir <C:0000,0003,2C65FFFF>kâbus parçasına<C:0000,0003,000000FF> sıkışmış olmalı!<C:0003,0001,>",
+    "after_text": "Döşekçi bir <C:0000,0003,2C65FFFF>kâbus parçasına<C:0000,0003,000000FF> sıkışmış olmalı!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0292.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0292.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0292.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0293.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0293.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0293.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0294.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0294.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0294.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0295.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0295.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0295.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0296.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0296.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0296.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0297.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0297.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0297.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0298.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0298.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0298.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0324.msbt",
+    "entry": "3",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Bir <C:0000,0003,EA00FFFF>Neo Bowser Şatosu karesi<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,001E><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bunu Uyanliman'da Kylie\nKoopa'nın yerinde çözdürebilirsin!<C:0003,0000,001E><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Bir <C:0000,0003,EA00FFFF>Neo Bowser Şatosu karesi<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,001E><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bunu Uyaniskele'de Kylie\nKoopa'nın yerinde çözdürebilirsin!<C:0003,0000,001E><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      },
+      {
+        "from": "Uyaniskele'da",
+        "to": "Uyaniskele'de",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0389.msbt",
+    "entry": "13",
+    "before_text": "Üzerinde uyuyup\nZeekeeper'la görüşmeye hazır mı?",
+    "after_text": "Üzerinde uyuyup\nMışılbekçi'yle görüşmeye hazır mı?",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0389.msbt",
+    "entry": "16",
+    "before_text": "Yatağı kullanıp\nZeekeeper'la görüşmek\nistiyorsunuz, öyle mi?",
+    "after_text": "Yatağı kullanıp\nMışılbekçi'yle görüşmek\nistiyorsunuz, öyle mi?",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0389.msbt",
+    "entry": "25",
+    "before_text": "şilos Tapınağı'nı bulun!\nUltiYatak'ı orada kullanıp\nrüya dünyasına gidersek...\nZeekeeper'ı bulacağımızı\nhissediyorum!",
+    "after_text": "şilos Tapınağı'nı bulun!\nUltiYatak'ı orada kullanıp\nrüya dünyasına gidersek...\nMışılbekçi'ı bulacağımızı\nhissediyorum!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0389.msbt",
+    "entry": "27",
+    "before_text": "ınağı koruyan birçok tuzak\nolduğu söylenir.\nYol zorlu olacak!\nBedsmith size güveniyor!",
+    "after_text": "ınağı koruyan birçok tuzak\nolduğu söylenir.\nYol zorlu olacak!\nDöşekçi size güveniyor!",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0389.msbt",
+    "entry": "29",
+    "before_text": "ardınız!\nZeekeeper'la görüştünüz!\nTebrikler!\nBedsmith'in size inancı vardı!",
+    "after_text": "ardınız!\nMışılbekçi'yle görüştünüz!\nTebrikler!\nDöşekçi'nin size inancı vardı!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      },
+      {
+        "from": "Döşekçi'in",
+        "to": "Döşekçi'nin",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0391.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0391.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0391.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0392.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0392.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0392.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0392.msbt",
+    "entry": "3",
+    "before_text": "Bir <C:0000,0003,00EAFFFF>Somnom Ormanı fotoğrafı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bunu Uyaniskele'deki Kylie\nKoopa'nın evinde deşifre\nettirebilirsin!<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "Bir <C:0000,0003,00EAFFFF>Uyurgezer Ormanı fotoğrafı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bunu Uyaniskele'deki Kylie\nKoopa'nın evinde deşifre\nettirebilirsin!<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0393.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0393.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0393.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki bütün\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki bütün\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0393.msbt",
+    "entry": "33",
+    "before_text": "<C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,00EAFFFF>Somnom Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,00EAFFFF>Uyurgezer Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0394.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0394.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0395.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0395.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0395.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0395.msbt",
+    "entry": "17",
+    "before_text": "\u0002\u0002d<C:0001,0004,>Tapınağa girebilmek için\nçok sayıda Somnom Taşı gerekecek.<C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400><C:0000,0002,6400>",
+    "after_text": "\u0002\u0002d<C:0001,0004,>Tapınağa girebilmek için\nçok sayıda Uyurgezer Taşı gerekecek.<C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400><C:0000,0002,6400>",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0395.msbt",
+    "entry": "19",
+    "before_text": "<C:0000,0002,6400><C:0001,0004,>Hepsine yardım edin; onlar da size mutlaka\nSomnom Taşları'nı verecektir.<C:0000,0002,6400><C:0003,0001,><C:0000,0004,>Tapınağa ulaşmak için birçok\nUsta'nın yardımına ihtiyacınız olacak.<C:0000,0002,6400><C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400><C:0000,0002,6400>",
+    "after_text": "<C:0000,0002,6400><C:0001,0004,>Hepsine yardım edin; onlar da size mutlaka\nUyurgezer Taşları'nı verecektir.<C:0000,0002,6400><C:0003,0001,><C:0000,0004,>Tapınağa ulaşmak için birçok\nUsta'nın yardımına ihtiyacınız olacak.<C:0000,0002,6400><C:0000,0002,6400><C:0003,0001,><C:0000,0002,6400><C:0000,0002,6400>",
+    "applied": [
+      {
+        "from": "Somnom Taşları",
+        "to": "Uyurgezer Taşları",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0397.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için\n<C:0000,0003,00EAFFFF>Saldırı Parçası<C:0000,0003,FFFFFFFF> numara <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>'i aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için\n<C:0000,0003,00EAFFFF>Saldırı Parçası<C:0000,0003,FFFFFFFF> numara <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>'i aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0397.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için\n<C:0000,0003,00EAFFFF>Saldırı Parçası<C:0000,0003,FFFFFFFF> numara <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>'i aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için\n<C:0000,0003,00EAFFFF>Saldırı Parçası<C:0000,0003,FFFFFFFF> numara <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>'i aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0397.msbt",
+    "entry": "61",
+    "before_text": "￿Zeekeeper<C:0000,0003,000000FF> ile buluşmak için\nşimdi tapınağa girmek gerekiyor, öyle mi?<C:0003,0001,>",
+    "after_text": "￿Mışılbekçi<C:0000,0003,000000FF> ile buluşmak için\nşimdi tapınağa girmek gerekiyor, öyle mi?<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0397.msbt",
+    "entry": "68",
+    "before_text": "! Ne harika haber!<C:0003,0001,><C:0000,0004,>Usta Zeekeeper\ngerçekten inanılmaz!<C:0003,0001,>",
+    "after_text": "! Ne harika haber!<C:0003,0001,><C:0000,0004,>Usta Mışılbekçi\ngerçekten inanılmaz!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0399.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0399.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0399.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki bütün\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF> numaralı\nSaldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki bütün\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "8",
+    "before_text": "Anlıyorum...\nOrada Zeekeeper'ı\naramayı düşünüyorsunuz...",
+    "after_text": "Anlıyorum...\nOrada Mışılbekçi'ı\naramayı düşünüyorsunuz...",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "11",
+    "before_text": "Tapınakta rüya akıntısı\nher zaman çok güçlü akar.\nVe uyku gücünüzü artıracak\nUltiYatak da yanınızdaysa...\nZeekeeper'ı mutlaka\nbulabileceksiniz!",
+    "after_text": "Tapınakta rüya akıntısı\nher zaman çok güçlü akar.\nVe uyku gücünüzü artıracak\nUltiYatak da yanınızdaysa...\nMışılbekçi'ı mutlaka\nbulabileceksiniz!",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0400.msbt",
+    "entry": "13",
+    "before_text": "Bir Somnom Taşı aldın!",
+    "after_text": "Bir Uyurgezer Taşı aldın!",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0401.msbt",
+    "entry": "36",
+    "before_text": "\u0004攬￿<C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,00EAFFFF>Somnom Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "\u0004攬￿<C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,00EAFFFF>Uyurgezer Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0402.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0402.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0402.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0403.msbt",
+    "entry": "8",
+    "before_text": "Son Somnom Taşı'u\nsize veriyorum.<C:0003,0001,>",
+    "after_text": "Son Uyurgezer Taşı'nı\nsize veriyorum.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      },
+      {
+        "from": "Uyurgezer Taşı'u",
+        "to": "Uyurgezer Taşı'nı",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0403.msbt",
+    "entry": "10",
+    "before_text": "<C:0000,0003,652CFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,EA00FFFF>Somnom Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,001E><C:0003,0001,><C:0001,0004,>",
+    "after_text": "<C:0000,0003,652CFFFF><C:0007,0000,><C:0000,0003,FFFFFFFF>Bir <C:0000,0003,EA00FFFF>Uyurgezer Taşı<C:0000,0003,FFFFFFFF> aldın!<C:0003,0000,001E><C:0003,0001,><C:0001,0004,>",
+    "applied": [
+      {
+        "from": "Somnom Taşı",
+        "to": "Uyurgezer Taşı",
+        "count": 1,
+        "category": "item_name"
+      }
+    ]
+  },
+  {
+    "file": "0404.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0404.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0404.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Bros. Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0406.msbt",
+    "entry": "2",
+    "before_text": "<C:0001,0004,>Bu tapınak, Zeekeeper'a açılan\nkapımız olacak!<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Bu tapınak, Mışılbekçi'a açılan\nkapımız olacak!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0456.msbt",
+    "entry": "10",
+    "before_text": "O korkunç bariyeri yok ederek\nharika iş çıkardınız!<C:0003,0001,><C:0000,0004,>En yüce Zeekeeper,\nsize teşekkür borçluyuz!<C:0003,0001,>",
+    "after_text": "O korkunç bariyeri yok ederek\nharika iş çıkardınız!<C:0003,0001,><C:0000,0004,>En yüce Mışılbekçi,\nsize teşekkür borçluyuz!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0463.msbt",
+    "entry": "2",
+    "before_text": "u parçayı kırıp\nBedsmith'i kurtar!<C:0003,0001,>",
+    "after_text": "u parçayı kırıp\nDöşekçi'yi kurtar!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Döşekçi'i",
+        "to": "Döşekçi'yi",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0482.msbt",
+    "entry": "6",
+    "before_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Somnom Ormanı",
+    "after_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Uyurgezer Ormanı",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "2",
+    "before_text": "Ve<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> bunun<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> iyi bir<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> nedeni var... Çünkü <C:0000,0003,000000FF><C:0000,0003,2C65FFFF>Zeekeeper <C:0000,0003,000000FF>bu ağacın tepesinde!<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "after_text": "Ve<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> bunun<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> iyi bir<C:0000,0003,000000FF><C:0000,0003,000000FF><C:0003,0000,0A00> nedeni var... Çünkü <C:0000,0003,000000FF><C:0000,0003,2C65FFFF>Mışılbekçi <C:0000,0003,000000FF>bu ağacın tepesinde!<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "3",
+    "before_text": "<C:0000,0003,000000FF><C:0001,0004,>Çıldırtıcı, değil mi?!\nBayağı ÇATLAK bir durum!<C:0003,0001,><C:0000,0004,>Bildiğin Zeekeeper'dan\nbahsediyorum! Görmek istiyorsun,\ndeğil mi?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "after_text": "<C:0000,0003,000000FF><C:0001,0004,>Çıldırtıcı, değil mi?!\nBayağı ÇATLAK bir durum!<C:0003,0001,><C:0000,0004,>Bildiğin Mışılbekçi'dan\nbahsediyorum! Görmek istiyorsun,\ndeğil mi?<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "4",
+    "before_text": "<C:0000,0003,000000FF><C:0001,0004,>Hımm...<C:0003,0000,0A00> Ağaç epey uzun.\nTırmanmak ciddi bir sınav olur.<C:0003,0001,><C:0000,0004,>Ama değer! Çünkü\nZeekeeper'la karşılaşırsınız!<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "after_text": "<C:0000,0003,000000FF><C:0001,0004,>Hımm...<C:0003,0000,0A00> Ağaç epey uzun.\nTırmanmak ciddi bir sınav olur.<C:0003,0001,><C:0000,0004,>Ama değer! Çünkü\nMışılbekçi'yle karşılaşırsınız!<C:0000,0003,000000FF><C:0003,0001,><C:0000,0003,000000FF><C:0000,0003,000000FF>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "10",
+    "before_text": "<C:0000,0003,000000FF><C:0001,0004,>Zirveye ulaşırsanız gözleriniz\nZeekeeper'ı görecek!<C:0003,0001,><C:0000,0003,000000FF>",
+    "after_text": "<C:0000,0003,000000FF><C:0001,0004,>Zirveye ulaşırsanız gözleriniz\nMışılbekçi'ı görecek!<C:0003,0001,><C:0000,0003,000000FF>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "11",
+    "before_text": "<C:0000,0003,000000FF><C:0001,0004,>Kesinlikle\nZeekeeper'a yaklaşıyoruz.<C:0000,0003,000000FF><C:0003,0001,>",
+    "after_text": "<C:0000,0003,000000FF><C:0001,0004,>Kesinlikle\nMışılbekçi'a yaklaşıyoruz.<C:0000,0003,000000FF><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "15",
+    "before_text": "<C:0000,0003,000000FF><C:0001,0004,>Zeekeeper'la tanışmayı\nistediğinizi\nbiliyorum ve umarım bu\ngerçekleşir!<C:0003,0001,><C:0000,0003,000000FF><C:0000,0004,>Ama umduğum tek şey bu değil...\nHayır, hayır...<C:0000,0002,6400><C:0000,0003,000000FF><C:0003,0000,0A00><C:0000,0003,000000FF><C:0000,0002,6400>\nBenim de dilediğim bir dilek\nvar...<C:0003,0001,>",
+    "after_text": "<C:0000,0003,000000FF><C:0001,0004,>Mışılbekçi'yle tanışmayı\nistediğinizi\nbiliyorum ve umarım bu\ngerçekleşir!<C:0003,0001,><C:0000,0003,000000FF><C:0000,0004,>Ama umduğum tek şey bu değil...\nHayır, hayır...<C:0000,0002,6400><C:0000,0003,000000FF><C:0003,0000,0A00><C:0000,0003,000000FF><C:0000,0002,6400>\nBenim de dilediğim bir dilek\nvar...<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      },
+      {
+        "from": "Mışılbekçi'la",
+        "to": "Mışılbekçi'yle",
+        "count": 1,
+        "category": "grammar_fix"
+      }
+    ]
+  },
+  {
+    "file": "0549.msbt",
+    "entry": "40",
+    "before_text": "\u0002\u0002d<C:0000,0003,000000FF><C:0001,0004,>Ama ne yazık ki uykuya vakit yok!<C:0003,0000,0A00>\nZeekeeper'ı görmeliyiz...<C:0003,0001,><C:0000,0003,000000FF><C:0000,0002,6400>",
+    "after_text": "\u0002\u0002d<C:0000,0003,000000FF><C:0001,0004,>Ama ne yazık ki uykuya vakit yok!<C:0003,0000,0A00>\nMışılbekçi'ı görmeliyiz...<C:0003,0001,><C:0000,0003,000000FF><C:0000,0002,6400>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0554.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0554.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0554.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0555.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0555.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0555.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0557.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0557.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0557.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0559.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0559.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0559.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0561.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0561.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0561.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0562.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0562.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0562.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0563.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0563.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0563.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Somnom Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyurgezer Ormanı için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Düşlü Somnom Ormanı",
+        "to": "Düşlü Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0583.msbt",
+    "entry": "6",
+    "before_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Somnom Ormanı",
+    "after_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Uyurgezer Ormanı",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0648.msbt",
+    "entry": "13",
+    "before_text": "Muhtemelen biliyorsunuzdur; bu\nadada\nbir sürü Mışilos kalıntısı var.<C:0003,0001,><C:0000,0004,>Evet, buranın büyük kısmı\nziyaretçiler için düzenlenmiş olsa\nda...<C:0003,0001,><C:0000,0004,>Somnom Ormanı neredeyse\nturizmin hiç dokunmadığı bir yer.<C:0003,0001,><C:0000,0004,>Bahse varım o orman inanılmaz\ngizemli ve ürkütücüdür!<C:0003,0001,>",
+    "after_text": "Muhtemelen biliyorsunuzdur; bu\nadada\nbir sürü Mışilos kalıntısı var.<C:0003,0001,><C:0000,0004,>Evet, buranın büyük kısmı\nziyaretçiler için düzenlenmiş olsa\nda...<C:0003,0001,><C:0000,0004,>Uyurgezer Ormanı neredeyse\nturizmin hiç dokunmadığı bir yer.<C:0003,0001,><C:0000,0004,>Bahse varım o orman inanılmaz\ngizemli ve ürkütücüdür!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Somnom Ormanı",
+        "to": "Uyurgezer Ormanı",
+        "count": 1,
+        "category": "area_name"
+      }
+    ]
+  },
+  {
+    "file": "0661.msbt",
+    "entry": "0",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0661.msbt",
+    "entry": "1",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu bölgedeki kalan\nSaldırı Parçası sayısı: <C:0000,0003,00EAFFFF><C:0004,0000,000002000100><C:0000,0003,FFFFFFFF>.<C:0003,0000,1E00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0661.msbt",
+    "entry": "2",
+    "before_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyanliman için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "after_text": "<C:0007,0000,><C:0001,0001,>Düşlü Uyaniskele için <C:0000,0003,00EAFFFF><C:0004,0000,000002000000><C:0000,0003,FFFFFFFF>\nnumaralı Saldırı Parçasını aldın!<C:0003,0000,1E00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Artık bu bölgedeki tüm\nSaldırı Parçalarını topladın...<C:0003,0000,0F00><C:0003,0001,><C:0000,0004,><C:0007,0000,>Bu da yepyeni bir\n<C:0000,0003,00EAFFFF>Luiginary Saldırısı<C:0000,0003,FFFFFFFF> açtığın anlamına geliyor!<C:0003,0000,0F00><C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0663.msbt",
+    "entry": "42",
+    "before_text": "Şimdi tek yapmamız gereken\n<C:0000,0003,2C65FFFF>Uyanliman<C:0000,0003,000000FF>'daki usta yatak yapımcısını\nbulmak.<C:0003,0001,><C:0000,0004,>Beş parçayı birleştirebilecek\ntek kişi o!<C:0003,0001,>",
+    "after_text": "Şimdi tek yapmamız gereken\n<C:0000,0003,2C65FFFF>Uyaniskele<C:0000,0003,000000FF>'daki usta yatak yapımcısını\nbulmak.<C:0003,0001,><C:0000,0004,>Beş parçayı birleştirebilecek\ntek kişi o!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Uyanliman",
+        "to": "Uyaniskele",
+        "count": 1,
+        "category": "consistency_fix"
+      }
+    ]
+  },
+  {
+    "file": "0663.msbt",
+    "entry": "43",
+    "before_text": "Usta yatak yapımcısı...<C:0003,0000,0F00>\nEvet, şimdi hatırladım!<C:0003,0001,><C:0000,0004,>Hafızam beni yanıltmıyorsa,\nadı <C:0000,0003,2C65FFFF>Bedsmith<C:0000,0003,000000FF>.<C:0003,0001,>",
+    "after_text": "Usta yatak yapımcısı...<C:0003,0000,0F00>\nEvet, şimdi hatırladım!<C:0003,0001,><C:0000,0004,>Hafızam beni yanıltmıyorsa,\nadı <C:0000,0003,2C65FFFF>Döşekçi<C:0000,0003,000000FF>.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Bedsmith",
+        "to": "Döşekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0669.msbt",
+    "entry": "1",
+    "before_text": "<C:0001,0004,>Az önce gördüğümüz şey...<C:0003,0000,0A00>\nZeekeeper mıydı o?!<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Az önce gördüğümüz şey...<C:0003,0000,0A00>\nMışılbekçi mıydı o?!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0669.msbt",
+    "entry": "2",
+    "before_text": "<C:0001,0004,>Zeekeeper'ı\ngeri getirdik!<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>Mışılbekçi'ı\ngeri getirdik!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0669.msbt",
+    "entry": "5",
+    "before_text": "<C:0001,0004,>N'aber?!<C:0003,0001,><C:0000,0004,>İşte sevdiğiniz,\nbildiğiniz Zeekeeper!<C:0003,0001,>",
+    "after_text": "<C:0001,0004,>N'aber?!<C:0003,0001,><C:0000,0004,>İşte sevdiğiniz,\nbildiğiniz Mışılbekçi!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0670.msbt",
+    "entry": "4",
+    "before_text": "Ooo, Zeekeeper'ı uyandırdılar!\nVe Zeekeeper öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
+    "after_text": "Ooo, Mışılbekçi'ı uyandırdılar!\nVe Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 2,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0676.msbt",
+    "entry": "16",
+    "before_text": "Yüce Zeekeeper!\nHazır mısın?!<C:0003,0001,>",
+    "after_text": "Yüce Mışılbekçi!\nHazır mısın?!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0676.msbt",
+    "entry": "22",
+    "before_text": "<C:0001,0001,><C:0001,0004,>Al, Zeekeeper!<C:0003,0001,>",
+    "after_text": "<C:0001,0001,><C:0001,0004,>Al, Mışılbekçi!<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  },
+  {
+    "file": "0676.msbt",
+    "entry": "52",
+    "before_text": "..Ama Rüya Taşı'na bu denli<C:0003,0000,0A00>\nbağımlı olmak...<C:0003,0001,><C:0000,0004,>Bence Zeekeeper\nbu konuda haklı.<C:0003,0001,>",
+    "after_text": "..Ama Rüya Taşı'na bu denli<C:0003,0000,0A00>\nbağımlı olmak...<C:0003,0001,><C:0000,0004,>Bence Mışılbekçi\nbu konuda haklı.<C:0003,0001,>",
+    "applied": [
+      {
+        "from": "Zeekeeper",
+        "to": "Mışılbekçi",
+        "count": 1,
+        "category": "special_name"
+      }
+    ]
+  }
+]

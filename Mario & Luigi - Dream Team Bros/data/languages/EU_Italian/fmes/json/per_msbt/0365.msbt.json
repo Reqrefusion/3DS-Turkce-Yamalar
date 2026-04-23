@@ -1,0 +1,46 @@
+{
+  "0365.msbt": {
+    "0": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "1": {
+      "text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "original_tokenized_text": "<C:0000,0003,000000FF><C:0001,0004,>Mario!<C:0003,0001,><C:0000,0003,000000FF>",
+      "raw_full_hex": "0E00000003000400000000FF0E000100040000004D006100720069006F0021000E000300010000000E00000003000400000000FF0000"
+    },
+    "2": {
+      "text": "<C:0001,0004,>Iniziavo a preoccuparmi, così sono\nvenuta fin qui a dare un'occhiata.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Iniziavo a preoccuparmi, così sono\nvenuta fin qui a dare un'occhiata.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Iniziavo a preoccuparmi, così sono\nvenuta fin qui a dare un'occhiata.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Iniziavo a preoccuparmi, così sono\nvenuta fin qui a dare un'occhiata.<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000049006E0069007A006900610076006F002000610020007000720065006F006300630075007000610072006D0069002C00200063006F007300EC00200073006F006E006F000A00760065006E007500740061002000660069006E0020007100750069002000610020006400610072006500200075006E0027006F0063006300680069006100740061002E000E000300010000000000"
+    },
+    "3": {
+      "text": "<C:0001,0004,>Wow!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Wow!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Wow!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Wow!<C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000057006F00770021000E000300010000000000"
+    },
+    "4": {
+      "text": "<C:0001,0004,>Questa dev'essere l'entrata...\nVediamo cosa ci attende laggiù...<C:0003,0001,><C:0000,0004,>Abbiamo fatto così tanta strada...\nBowser non riuscirà a trovarci.<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Questa dev'essere l'entrata...\nVediamo cosa ci attende laggiù...<C:0003,0001,><C:0000,0004,>Abbiamo fatto così tanta strada...\nBowser non riuscirà a trovarci.<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Questa dev'essere l'entrata...\nVediamo cosa ci attende laggiù...<C:0003,0001,><C:0000,0004,>Abbiamo fatto così tanta strada...\nBowser non riuscirà a trovarci.<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Questa dev'essere l'entrata...\nVediamo cosa ci attende laggiù...<C:0003,0001,><C:0000,0004,>Abbiamo fatto così tanta strada...\nBowser non riuscirà a trovarci.<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000005100750065007300740061002000640065007600270065007300730065007200650020006C00270065006E00740072006100740061002E002E002E000A00560065006400690061006D006F00200063006F0073006100200063006900200061007400740065006E006400650020006C006100670067006900F9002E002E002E000E000300010000000E00000004000000410062006200690061006D006F00200066006100740074006F00200063006F007300EC002000740061006E007400610020007300740072006100640061002E002E002E000A0042006F00770073006500720020006E006F006E0020007200690075007300630069007200E000200061002000740072006F00760061007200630069002E000E000300010000000000"
+    },
+    "5": {
+      "text": "Ma...<C:0003,0000,0A00> chissà cosa\nci aspetta...<C:0003,0001,><C:0000,0004,>Meglio <C:0000,0003,2C65FFFF>salvare<C:0000,0003,000000FF>,\nnon si sa mai.<C:0003,0001,>",
+      "tokenized_text": "Ma...<C:0003,0000,0A00> chissà cosa\nci aspetta...<C:0003,0001,><C:0000,0004,>Meglio <C:0000,0003,2C65FFFF>salvare<C:0000,0003,000000FF>,\nnon si sa mai.<C:0003,0001,>",
+      "original_text": "Ma...<C:0003,0000,0A00> chissà cosa\nci aspetta...<C:0003,0001,><C:0000,0004,>Meglio <C:0000,0003,2C65FFFF>salvare<C:0000,0003,000000FF>,\nnon si sa mai.<C:0003,0001,>",
+      "original_tokenized_text": "Ma...<C:0003,0000,0A00> chissà cosa\nci aspetta...<C:0003,0001,><C:0000,0004,>Meglio <C:0000,0003,2C65FFFF>salvare<C:0000,0003,000000FF>,\nnon si sa mai.<C:0003,0001,>",
+      "raw_full_hex": "4D0061002E002E002E000E000300000002000A00200063006800690073007300E000200063006F00730061000A0063006900200061007300700065007400740061002E002E002E000E000300010000000E000000040000004D00650067006C0069006F0020000E000000030004002C65FFFF730061006C0076006100720065000E00000003000400000000FF2C000A006E006F006E0020007300690020007300610020006D00610069002E000E000300010000000000"
+    }
+  }
+}

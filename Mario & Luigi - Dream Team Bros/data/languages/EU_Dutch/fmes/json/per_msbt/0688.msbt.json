@@ -1,0 +1,102 @@
+{
+  "0688.msbt": {
+    "0": {
+      "text": "<C:0001,0001,><C:0001,0004,>SKRIE<C:0003,0000,0A00>IEEEK!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>SKRIE<C:0003,0000,0A00>IEEEK!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>SKRIE<C:0003,0000,0A00>IEEEK!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>SKRIE<C:0003,0000,0A00>IEEEK!",
+      "raw_full_hex": "0E000100010000000E0001000400000053004B005200490045000E000300000002000A0049004500450045004B0021000000"
+    },
+    "1": {
+      "text": "<C:0001,0001,><C:0001,0004,>SKRIEP!",
+      "tokenized_text": "<C:0001,0001,><C:0001,0004,>SKRIEP!",
+      "original_text": "<C:0001,0001,><C:0001,0004,>SKRIEP!",
+      "original_tokenized_text": "<C:0001,0001,><C:0001,0004,>SKRIEP!",
+      "raw_full_hex": "0E000100010000000E0001000400000053004B00520049004500500021000000"
+    },
+    "2": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>SKRIEEEP!<C:0000,0002,6400>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>SKRIEEEP!<C:0000,0002,6400>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>SKRIEEEP!<C:0000,0002,6400>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600>SKRIEEEP!<C:0000,0002,6400>",
+      "raw_full_hex": "0E000700000000000E000100010000000E000100040000000E00000002000200960053004B0052004900450045004500500021000E0000000200020064000000"
+    },
+    "3": {
+      "text": "Jahoe!<C:0003,0000,0A00> We hebben\nhet voor elkaar!<C:0003,0001,>",
+      "tokenized_text": "Jahoe!<C:0003,0000,0A00> We hebben\nhet voor elkaar!<C:0003,0001,>",
+      "original_text": "Jahoe!<C:0003,0000,0A00> We hebben\nhet voor elkaar!<C:0003,0001,>",
+      "original_tokenized_text": "Jahoe!<C:0003,0000,0A00> We hebben\nhet voor elkaar!<C:0003,0001,>",
+      "raw_full_hex": "4A00610068006F00650021000E000300000002000A002000570065002000680065006200620065006E000A00680065007400200076006F006F007200200065006C006B0061006100720021000E000300010000000000"
+    },
+    "4": {
+      "text": "We hebben Antasma\nverslagen!<C:0003,0001,>",
+      "tokenized_text": "We hebben Antasma\nverslagen!<C:0003,0001,>",
+      "original_text": "We hebben Antasma\nverslagen!<C:0003,0001,>",
+      "original_tokenized_text": "We hebben Antasma\nverslagen!<C:0003,0001,>",
+      "raw_full_hex": "570065002000680065006200620065006E00200041006E007400610073006D0061000A0076006500720073006C006100670065006E0021000E000300010000000000"
+    },
+    "5": {
+      "text": "Ja...<C:0003,0000,0500> eindelijk...<C:0003,0000,0A00> We hebben\neindelijk gewonnen!<C:0003,0001,>",
+      "tokenized_text": "Ja...<C:0003,0000,0500> eindelijk...<C:0003,0000,0A00> We hebben\neindelijk gewonnen!<C:0003,0001,>",
+      "original_text": "Ja...<C:0003,0000,0500> eindelijk...<C:0003,0000,0A00> We hebben\neindelijk gewonnen!<C:0003,0001,>",
+      "original_tokenized_text": "Ja...<C:0003,0000,0500> eindelijk...<C:0003,0000,0A00> We hebben\neindelijk gewonnen!<C:0003,0001,>",
+      "raw_full_hex": "4A0061002E002E002E000E0003000000020005002000650069006E00640065006C0069006A006B002E002E002E000E000300000002000A002000570065002000680065006200620065006E000A00650069006E00640065006C0069006A006B0020006700650077006F006E006E0065006E0021000E000300010000000000"
+    },
+    "6": {
+      "text": "Mario... Luigi... Ik schenk\njullie mijn dankbaarheid.<C:0003,0001,>",
+      "tokenized_text": "Mario... Luigi... Ik schenk\njullie mijn dankbaarheid.<C:0003,0001,>",
+      "original_text": "Mario... Luigi... Ik schenk\njullie mijn dankbaarheid.<C:0003,0001,>",
+      "original_tokenized_text": "Mario... Luigi... Ik schenk\njullie mijn dankbaarheid.<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002E002E002E0020004C0075006900670069002E002E002E00200049006B00200073006300680065006E006B000A006A0075006C006C006900650020006D0069006A006E002000640061006E006B00620061006100720068006500690064002E000E000300010000000000"
+    },
+    "7": {
+      "text": "Goed, nog even scherp blijven!\nWe moeten met Bowser afrekenen!<C:0003,0001,>",
+      "tokenized_text": "Goed, nog even scherp blijven!\nWe moeten met Bowser afrekenen!<C:0003,0001,>",
+      "original_text": "Goed, nog even scherp blijven!\nWe moeten met Bowser afrekenen!<C:0003,0001,>",
+      "original_tokenized_text": "Goed, nog even scherp blijven!\nWe moeten met Bowser afrekenen!<C:0003,0001,>",
+      "raw_full_hex": "47006F00650064002C0020006E006F00670020006500760065006E002000730063006800650072007000200062006C0069006A00760065006E0021000A005700650020006D006F006500740065006E0020006D0065007400200042006F007700730065007200200061006600720065006B0065006E0065006E0021000E000300010000000000"
+    },
+    "8": {
+      "text": "Relax, Dreambert!\nForceer jezelf niet!<C:0003,0001,>",
+      "tokenized_text": "Relax, Dreambert!\nForceer jezelf niet!<C:0003,0001,>",
+      "original_text": "Relax, Dreambert!\nForceer jezelf niet!<C:0003,0001,>",
+      "original_tokenized_text": "Relax, Dreambert!\nForceer jezelf niet!<C:0003,0001,>",
+      "raw_full_hex": "520065006C00610078002C00200044007200650061006D00620065007200740021000A0046006F007200630065006500720020006A0065007A0065006C00660020006E0069006500740021000E000300010000000000"
+    },
+    "9": {
+      "text": "Maak je geen zorgen.\nIk voel me goed.<C:0003,0001,>",
+      "tokenized_text": "Maak je geen zorgen.\nIk voel me goed.<C:0003,0001,>",
+      "original_text": "Maak je geen zorgen.\nIk voel me goed.<C:0003,0001,>",
+      "original_tokenized_text": "Maak je geen zorgen.\nIk voel me goed.<C:0003,0001,>",
+      "raw_full_hex": "4D00610061006B0020006A00650020006700650065006E0020007A006F007200670065006E002E000A0049006B00200076006F0065006C0020006D006500200067006F00650064002E000E000300010000000000"
+    },
+    "10": {
+      "text": "Mario, Luigi...\nVoorwaarts!<C:0003,0001,>",
+      "tokenized_text": "Mario, Luigi...\nVoorwaarts!<C:0003,0001,>",
+      "original_text": "Mario, Luigi...\nVoorwaarts!<C:0003,0001,>",
+      "original_tokenized_text": "Mario, Luigi...\nVoorwaarts!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F002C0020004C0075006900670069002E002E002E000A0056006F006F00720077006100610072007400730021000E000300010000000000"
+    },
+    "11": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "12": {
+      "text": "Mario! Luigi! Dit wordt\nECHT de grote finale!<C:0003,0001,>",
+      "tokenized_text": "Mario! Luigi! Dit wordt\nECHT de grote finale!<C:0003,0001,>",
+      "original_text": "Mario! Luigi! Dit wordt\nECHT de grote finale!<C:0003,0001,>",
+      "original_tokenized_text": "Mario! Luigi! Dit wordt\nECHT de grote finale!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F00210020004C00750069006700690021002000440069007400200077006F007200640074000A0045004300480054002000640065002000670072006F00740065002000660069006E0061006C00650021000E000300010000000000"
+    },
+    "13": {
+      "text": "Bowser en zijn onderdanen bevinden\nzich boven op het kasteel.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>We moeten onze krachten bundelen\nen de achtervolging inzetten!<C:0003,0001,>",
+      "tokenized_text": "Bowser en zijn onderdanen bevinden\nzich boven op het kasteel.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>We moeten onze krachten bundelen\nen de achtervolging inzetten!<C:0003,0001,>",
+      "original_text": "Bowser en zijn onderdanen bevinden\nzich boven op het kasteel.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>We moeten onze krachten bundelen\nen de achtervolging inzetten!<C:0003,0001,>",
+      "original_tokenized_text": "Bowser en zijn onderdanen bevinden\nzich boven op het kasteel.<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>We moeten onze krachten bundelen\nen de achtervolging inzetten!<C:0003,0001,>",
+      "raw_full_hex": "42006F007700730065007200200065006E0020007A0069006A006E0020006F006E00640065007200640061006E0065006E00200062006500760069006E00640065006E000A007A00690063006800200062006F00760065006E0020006F007000200068006500740020006B00610073007400650065006C002E000E000300010000000E000000040000000E000100010000000E000100040000005700650020006D006F006500740065006E0020006F006E007A00650020006B007200610063006800740065006E002000620075006E00640065006C0065006E000A0065006E00200064006500200061006300680074006500720076006F006C00670069006E006700200069006E007A0065007400740065006E0021000E000300010000000000"
+    }
+  }
+}

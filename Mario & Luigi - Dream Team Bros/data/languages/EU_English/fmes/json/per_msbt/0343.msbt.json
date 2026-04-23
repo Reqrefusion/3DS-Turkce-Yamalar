@@ -1,0 +1,109 @@
+{
+  "0343.msbt": {
+    "0": {
+      "text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0007,0000,>Go to the dream world?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>No          <C:0005,0001,>Yes<C:0003,0000,0A00>",
+      "raw_full_hex": "0E0007000000000047006F00200074006F002000740068006500200064007200650061006D00200077006F0072006C0064003F000E000300000002000A000A000E000100010000000E000500010000004E006F0020002000200020002000200020002000200020000E000500010000005900650073000E000300000002000A000000"
+    },
+    "1": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Halt!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Halt!<C:0003,0000,1E00>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Halt!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Halt!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000700000000000E000100010000000E00010004000000480061006C00740021000E000300000002001E000000"
+    },
+    "2": {
+      "text": "Beyond that\ndoor...<C:0003,0001,>",
+      "tokenized_text": "Beyond that\ndoor...<C:0003,0001,>",
+      "original_text": "Beyond that\ndoor...<C:0003,0001,>",
+      "original_tokenized_text": "Beyond that\ndoor...<C:0003,0001,>",
+      "raw_full_hex": "4200650079006F006E006400200074006800610074000A0064006F006F0072002E002E002E000E000300010000000000"
+    },
+    "3": {
+      "text": "I feel the presence\nof Antasma!<C:0003,0001,>",
+      "tokenized_text": "I feel the presence\nof Antasma!<C:0003,0001,>",
+      "original_text": "I feel the presence\nof Antasma!<C:0003,0001,>",
+      "original_tokenized_text": "I feel the presence\nof Antasma!<C:0003,0001,>",
+      "raw_full_hex": "490020006600650065006C0020007400680065002000700072006500730065006E00630065000A006F006600200041006E007400610073006D00610021000E000300010000000000"
+    },
+    "4": {
+      "text": "Mario! Luigi!\nLet's finish this!<C:0003,0001,>",
+      "tokenized_text": "Mario! Luigi!\nLet's finish this!<C:0003,0001,>",
+      "original_text": "Mario! Luigi!\nLet's finish this!<C:0003,0001,>",
+      "original_tokenized_text": "Mario! Luigi!\nLet's finish this!<C:0003,0001,>",
+      "raw_full_hex": "4D006100720069006F00210020004C00750069006700690021000A004C0065007400270073002000660069006E006900730068002000740068006900730021000E000300010000000000"
+    },
+    "5": {
+      "text": "This flame...<C:0003,0001,>",
+      "tokenized_text": "This flame...<C:0003,0001,>",
+      "original_text": "This flame...<C:0003,0001,>",
+      "original_tokenized_text": "This flame...<C:0003,0001,>",
+      "raw_full_hex": "5400680069007300200066006C0061006D0065002E002E002E000E000300010000000000"
+    },
+    "6": {
+      "text": "It appears to erupt\nfrom the dream world...<C:0003,0001,>",
+      "tokenized_text": "It appears to erupt\nfrom the dream world...<C:0003,0001,>",
+      "original_text": "It appears to erupt\nfrom the dream world...<C:0003,0001,>",
+      "original_tokenized_text": "It appears to erupt\nfrom the dream world...<C:0003,0001,>",
+      "raw_full_hex": "4900740020006100700070006500610072007300200074006F002000650072007500700074000A00660072006F006D002000740068006500200064007200650061006D00200077006F0072006C0064002E002E002E000E000300010000000000"
+    },
+    "7": {
+      "text": "Doubtless we can only douse\nit by travelling to that world...<C:0003,0001,>",
+      "tokenized_text": "Doubtless we can only douse\nit by travelling to that world...<C:0003,0001,>",
+      "original_text": "Doubtless we can only douse\nit by travelling to that world...<C:0003,0001,>",
+      "original_tokenized_text": "Doubtless we can only douse\nit by travelling to that world...<C:0003,0001,>",
+      "raw_full_hex": "44006F007500620074006C006500730073002000770065002000630061006E0020006F006E006C007900200064006F007500730065000A00690074002000620079002000740072006100760065006C006C0069006E006700200074006F0020007400680061007400200077006F0072006C0064002E002E002E000E000300010000000000"
+    },
+    "8": {
+      "text": "There must be a Dreampoint\nsomewhere near the flame!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Let's find it to stop the fire!<C:0003,0001,>",
+      "tokenized_text": "There must be a Dreampoint\nsomewhere near the flame!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Let's find it to stop the fire!<C:0003,0001,>",
+      "original_text": "There must be a Dreampoint\nsomewhere near the flame!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Let's find it to stop the fire!<C:0003,0001,>",
+      "original_tokenized_text": "There must be a Dreampoint\nsomewhere near the flame!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Let's find it to stop the fire!<C:0003,0001,>",
+      "raw_full_hex": "5400680065007200650020006D0075007300740020006200650020006100200044007200650061006D0070006F0069006E0074000A0073006F006D0065007700680065007200650020006E006500610072002000740068006500200066006C0061006D00650021000E000300010000000E000000040000000E000100010000000E000100040000004C0065007400270073002000660069006E006400200069007400200074006F002000730074006F00700020007400680065002000660069007200650021000E000300010000000000"
+    },
+    "9": {
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Yes!<C:0003,0000,1E00>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Yes!<C:0003,0000,1E00>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Yes!<C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,>Yes!<C:0003,0000,1E00>",
+      "raw_full_hex": "0E000700000000000E000100010000000E0001000400000059006500730021000E000300000002001E000000"
+    },
+    "10": {
+      "text": "Snuff the other two\nas well! Onward!<C:0003,0001,>",
+      "tokenized_text": "Snuff the other two\nas well! Onward!<C:0003,0001,>",
+      "original_text": "Snuff the other two\nas well! Onward!<C:0003,0001,>",
+      "original_tokenized_text": "Snuff the other two\nas well! Onward!<C:0003,0001,>",
+      "raw_full_hex": "53006E00750066006600200074006800650020006F0074006800650072002000740077006F000A00610073002000770065006C006C00210020004F006E00770061007200640021000E000300010000000000"
+    },
+    "11": {
+      "text": "One more to go!\nAlmost finished!<C:0003,0001,>",
+      "tokenized_text": "One more to go!\nAlmost finished!<C:0003,0001,>",
+      "original_text": "One more to go!\nAlmost finished!<C:0003,0001,>",
+      "original_tokenized_text": "One more to go!\nAlmost finished!<C:0003,0001,>",
+      "raw_full_hex": "4F006E00650020006D006F0072006500200074006F00200067006F0021000A0041006C006D006F00730074002000660069006E006900730068006500640021000E000300010000000000"
+    },
+    "12": {
+      "text": "Now we can move on!\nCome, we must go!<C:0003,0001,>",
+      "tokenized_text": "Now we can move on!\nCome, we must go!<C:0003,0001,>",
+      "original_text": "Now we can move on!\nCome, we must go!<C:0003,0001,>",
+      "original_tokenized_text": "Now we can move on!\nCome, we must go!<C:0003,0001,>",
+      "raw_full_hex": "4E006F0077002000770065002000630061006E0020006D006F007600650020006F006E0021000A0043006F006D0065002C0020007700650020006D00750073007400200067006F0021000E000300010000000000"
+    },
+    "13": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    },
+    "14": {
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
+    }
+  }
+}
