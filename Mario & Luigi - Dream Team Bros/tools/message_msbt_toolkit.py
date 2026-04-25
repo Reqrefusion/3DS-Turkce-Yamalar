@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse, json, re, struct, shutil, tempfile, zipfile, hashlib
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Tuple, Any, Optional
+from typing import Dict, List, Tuple, Any
 
 CTRL_TAG_RE = re.compile(r"<C:([0-9A-Fa-f]{4}),([0-9A-Fa-f]{4}),([0-9A-Fa-f]*)>")
 TOKEN_RE = re.compile(r"(<C:[^>]*>|<U:[0-9A-Fa-f]{4}>|<B:[0-9A-Fa-f]{2}>)")
@@ -91,13 +91,12 @@ def parse_msbt(data: bytes, strict_size: bool=False) -> MsbtFile:
 
 def decode_msbt_text(raw: bytes, endian: str) -> str:
     codec = 'utf-16le' if endian == '<' else 'utf-16be'
-    ctrl_marker = struct.pack(endian + 'H', 0x000E)
     out: List[str] = []
     i = 0
     while i < len(raw):
         if i + 1 < len(raw) and raw[i:i+2] == b'\x00\x00':
             break
-        if i + 8 <= len(raw) and raw[i:i+2] == ctrl_marker:
+        if i + 8 <= len(raw) and raw[i:i+2] == b'\x0e\x00':
             group, typ, size = struct.unpack_from(endian + 'HHH', raw, i+2)
             params = raw[i+8:i+8+size]
             out.append(f"<C:{group:04X},{typ:04X},{params.hex().upper()}>")
@@ -127,7 +126,7 @@ def encode_tokenized_text(text: str, endian: str) -> bytes:
             typ = int(cm.group(2), 16)
             param_hex = cm.group(3)
             params = bytes.fromhex(param_hex) if param_hex else b''
-            out.extend(struct.pack(endian + 'H', 0x000E))
+            out.extend(b'\x0e\x00')
             out.extend(struct.pack(endian + 'HHH', group, typ, len(params)))
             out.extend(params)
         elif tok.startswith('<U:'):
@@ -212,208 +211,35 @@ def export_msbt_json(msbt_bytes: bytes) -> Dict[str, Dict[str, Any]]:
         entries[str(idx)] = build_json_entry(text, raw)
     return entries
 
-def token_sequence(text: str) -> List[str]:
-    """Return all token/control placeholders in order."""
-    return [m.group(1) for m in TOKEN_RE.finditer(text or "")]
-
-def strip_tokens(text: str) -> str:
-    """Return visible text only, without <C:...>, <U:...> and <B:...> placeholders."""
-    return TOKEN_RE.sub("", text or "")
-
-def split_by_tokens(text: str) -> List[str]:
-    """Split text while keeping tokens as separate list items."""
-    if not text:
-        return [""]
-    parts: List[str] = []
-    pos = 0
-    for m in TOKEN_RE.finditer(text):
-        if m.start() > pos:
-            parts.append(text[pos:m.start()])
-        parts.append(m.group(1))
-        pos = m.end()
-    if pos < len(text):
-        parts.append(text[pos:])
-    if not parts:
-        parts.append("")
-    return parts
-
-def _nearest_split(text: str, desired: int, lo: int, hi: int) -> int:
-    """Find a safe split position near desired, preferably at whitespace."""
-    desired = max(lo, min(hi, desired))
-    if lo >= hi:
-        return lo
-    if desired <= lo or desired >= hi:
-        return desired
-    break_chars = set(" \t\n\r.,;:!?…)]}»›")
-    best = desired
-    for radius in range(0, max(desired - lo, hi - desired) + 1):
-        for cand in (desired - radius, desired + radius):
-            if lo <= cand <= hi:
-                if cand == 0 or cand == len(text) or text[cand-1:cand] in break_chars or text[cand:cand+1] in break_chars:
-                    return cand
-    return best
-
-def split_visible_for_skeleton(new_visible: str, original_segments: List[str]) -> List[str]:
-    """Split new visible text into the same number of non-token visible slots as the original."""
-    slots = [seg for seg in original_segments if seg]
-    n = len(slots)
-    if n <= 0:
-        return []
-    if n == 1:
-        return [new_visible]
-    old_total = sum(len(x) for x in slots)
-    if old_total <= 0:
-        return [new_visible] + [""] * (n - 1)
-    chunks: List[str] = []
-    last = 0
-    for i, _seg in enumerate(slots[:-1]):
-        remaining_slots = n - i - 1
-        desired = round(len(new_visible) * (sum(len(x) for x in slots[:i+1]) / old_total))
-        hi = max(last, len(new_visible) - remaining_slots)
-        split_at = _nearest_split(new_visible, desired, last, hi)
-        chunks.append(new_visible[last:split_at])
-        last = split_at
-    chunks.append(new_visible[last:])
-    return chunks
-
-def merge_visible_into_original_control_skeleton(original_tokenized: str, new_visible_text: str) -> str:
-    """
-    Preserve the original control-token skeleton and replace only visible text.
-
-    This prevents dialogue control codes such as waits, page breaks, face/sound tags,
-    and message-end tags from disappearing when a translator edits only `text` and
-    accidentally removes <C:...> placeholders.
-    """
-    parts = split_by_tokens(original_tokenized)
-    if not token_sequence(original_tokenized):
-        return new_visible_text
-    original_visible_parts = [p for p in parts if not TOKEN_RE.fullmatch(p or "")]
-    nonempty_visible_count = sum(1 for p in original_visible_parts if p)
-    new_visible = strip_tokens(new_visible_text)
-    if nonempty_visible_count == 0:
-        # Original entry is controls only. Keep it exactly; there is nowhere safe to insert prose.
-        return original_tokenized
-    replacement_chunks = split_visible_for_skeleton(new_visible, original_visible_parts)
-    chunk_iter = iter(replacement_chunks)
-    rebuilt: List[str] = []
-    for part in parts:
-        if TOKEN_RE.fullmatch(part or ""):
-            rebuilt.append(part)
-        else:
-            if part:
-                rebuilt.append(next(chunk_iter, ""))
-            else:
-                rebuilt.append("")
-    return "".join(rebuilt)
-
-def prepare_tokenized_for_import(
-    candidate: str,
-    original_tokenized: str,
-    *,
-    control_policy: str = "preserve",
-    location: str = "",
-    report: Optional[List[Dict[str, Any]]] = None,
-) -> str:
-    """
-    Return a tokenized string safe to encode.
-
-    control_policy:
-      preserve: default. The original token sequence always wins. If candidate is
-                missing or changed control tags, visible prose is merged into the
-                original control skeleton.
-      strict:   fail when the candidate token sequence differs from the original.
-      allow:    old unsafe behavior; encode the candidate exactly as written.
-    """
-    if control_policy not in {"preserve", "strict", "allow"}:
-        raise ToolkitError(f"Unknown control policy: {control_policy}")
-    orig_seq = token_sequence(original_tokenized or "")
-    cand_seq = token_sequence(candidate or "")
-    if control_policy == "allow":
-        return candidate
-    if cand_seq == orig_seq:
-        return candidate
-    if control_policy == "strict":
-        raise ToolkitError(
-            f"Control token sequence changed at {location or '<unknown>'}: "
-            f"expected {len(orig_seq)} tokens, got {len(cand_seq)}. "
-            "Use --control-policy preserve to auto-restore original control codes, "
-            "or edit tokenized_text manually."
-        )
-    # preserve: restore the exact original sequence and keep the candidate's visible text.
-    repaired = merge_visible_into_original_control_skeleton(original_tokenized or "", candidate or "")
-    if report is not None:
-        report.append({
-            "location": location,
-            "action": "restored_original_control_sequence",
-            "original_token_count": len(orig_seq),
-            "candidate_token_count": len(cand_seq),
-            "original_tokens": orig_seq,
-            "candidate_tokens": cand_seq,
-            "candidate_visible": strip_tokens(candidate or ""),
-            "repaired_tokenized_text": repaired,
-        })
-    return repaired
-
-def raw_from_json_entry(
-    obj: Any,
-    endian: str,
-    *,
-    fallback_original_text: str = "",
-    control_policy: str = "preserve",
-    location: str = "",
-    report: Optional[List[Dict[str, Any]]] = None,
-) -> bytes:
+def raw_from_json_entry(obj: Any, endian: str) -> bytes:
     if isinstance(obj, str):
-        # String entries have no embedded original_tokenized_text metadata. They are
-        # therefore encoded exactly as supplied, matching legacy behavior.
         return encode_tokenized_text(obj, endian)
     if not isinstance(obj, dict):
         raise ToolkitError(f'Unsupported JSON entry type: {type(obj)}')
     text = obj.get("text", "")
     tok = obj.get("tokenized_text", text)
-    orig_text = obj.get("original_text", fallback_original_text)
-    orig_tok = obj.get("original_tokenized_text", orig_text)
+    orig_text = obj.get("original_text", text)
+    orig_tok = obj.get("original_tokenized_text", tok)
     raw_hex = obj.get("raw_full_hex")
     tok_changed = tok != orig_tok
     text_changed = text != orig_text
     if raw_hex is not None and not tok_changed and not text_changed:
         return bytes.fromhex(raw_hex)
-    candidate = tok if tok_changed else text
-    safe_tokenized = prepare_tokenized_for_import(
-        candidate,
-        orig_tok,
-        control_policy=control_policy,
-        location=location,
-        report=report,
-    )
-    return encode_tokenized_text(safe_tokenized, endian)
+    if tok_changed:
+        return encode_tokenized_text(tok, endian)
+    return encode_tokenized_text(text, endian)
 
-def import_msbt_json(
-    msbt_bytes: bytes,
-    json_entries: Dict[str, Any],
-    *,
-    control_policy: str = "preserve",
-    location_prefix: str = "",
-    report: Optional[List[Dict[str, Any]]] = None,
-) -> bytes:
+def import_msbt_json(msbt_bytes: bytes, json_entries: Dict[str, Any]) -> bytes:
     msbt = parse_msbt(msbt_bytes, strict_size=False)
     original = get_text_entries_with_raw(msbt_bytes)
     raws: List[bytes] = []
-    for idx, (old_text, old_raw) in enumerate(original):
+    for idx, (_old_text, old_raw) in enumerate(original):
         key = str(idx)
         obj = json_entries.get(key)
         if obj is None:
             raws.append(old_raw)
         else:
-            loc = f"{location_prefix}/{key}" if location_prefix else key
-            raws.append(raw_from_json_entry(
-                obj,
-                msbt.endian,
-                fallback_original_text=old_text,
-                control_policy=control_policy,
-                location=loc,
-                report=report,
-            ))
+            raws.append(raw_from_json_entry(obj, msbt.endian))
     return replace_txt_section_with_raws(msbt_bytes, raws)
 
 def extract_container(bin_path: Path, dat_path: Path, out_dir: Path) -> None:
@@ -483,14 +309,13 @@ def export_standalone_json(msbt_path: Path, out_json: Path) -> None:
     obj = {msbt_path.name: export_msbt_json(msbt_path.read_bytes())}
     out_json.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding='utf-8')
 
-def import_container_from_json(bin_path: Path, dat_path: Path, json_root: Path, out_bin: Path, out_dat: Path, *, control_policy: str = "preserve", control_report: Optional[Path] = None) -> None:
+def import_container_from_json(bin_path: Path, dat_path: Path, json_root: Path, out_bin: Path, out_dat: Path) -> None:
     count, slots, header = read_index(bin_path)
     dat = dat_path.read_bytes()
     json_all_path = json_root / 'all.json'
     all_entries = json.loads(json_all_path.read_text(encoding='utf-8')) if json_all_path.exists() else {}
     records: List[Tuple[int, int]] = [(s.offset, s.size) for s in slots]
     new_dat = bytearray()
-    all_report_items: Optional[List[Dict[str, Any]]] = [] if control_report else None
     physical_nonempty_order = [slot.index for slot in sorted((s for s in slots if s.size), key=lambda s: s.offset)]
     slots_by_index = {s.index: s for s in slots}
     for slot_idx in physical_nonempty_order:
@@ -503,7 +328,7 @@ def import_container_from_json(bin_path: Path, dat_path: Path, json_root: Path, 
             if per_json.exists():
                 entry_json = json.loads(per_json.read_text(encoding='utf-8')).get(key)
         if entry_json is not None:
-            payload = import_msbt_json(payload, entry_json, control_policy=control_policy, location_prefix=key, report=all_report_items)
+            payload = import_msbt_json(payload, entry_json)
         off = len(new_dat)
         new_dat.extend(payload)
         records[slot.index] = (off, len(payload))
@@ -512,21 +337,13 @@ def import_container_from_json(bin_path: Path, dat_path: Path, json_root: Path, 
         bin_out.extend(struct.pack('<II', off, size))
     out_bin.write_bytes(bytes(bin_out))
     out_dat.write_bytes(bytes(new_dat))
-    if control_report and all_report_items is not None:
-        control_report.parent.mkdir(parents=True, exist_ok=True)
-        control_report.write_text(json.dumps(all_report_items, ensure_ascii=False, indent=2), encoding="utf-8")
 
-
-def import_standalone_from_json(msbt_path: Path, json_path: Path, out_msbt: Path, *, control_policy: str = "preserve", control_report: Optional[Path] = None) -> None:
+def import_standalone_from_json(msbt_path: Path, json_path: Path, out_msbt: Path) -> None:
     src = msbt_path.read_bytes()
     obj = json.loads(json_path.read_text(encoding='utf-8'))
     entries = obj.get(msbt_path.name, obj)
-    report_items: Optional[List[Dict[str, Any]]] = [] if control_report else None
-    rebuilt = import_msbt_json(src, entries, control_policy=control_policy, location_prefix=msbt_path.name, report=report_items)
+    rebuilt = import_msbt_json(src, entries)
     out_msbt.write_bytes(rebuilt)
-    if control_report and report_items is not None:
-        control_report.parent.mkdir(parents=True, exist_ok=True)
-        control_report.write_text(json.dumps(report_items, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def verify_container_noop(bin_path: Path, dat_path: Path) -> Dict[str, Any]:
     with tempfile.TemporaryDirectory() as td_:
@@ -668,73 +485,16 @@ def build_tr_fmes_workspace(package_zip: Path, out_dir: Path) -> Dict[str, Any]:
         )
         return report
 
-
-def scan_container_json_control_safety(bin_path: Path, dat_path: Path, json_root: Path) -> Dict[str, Any]:
-    """Scan JSON edits against source files and report control-token mismatches without writing output."""
-    _, slots, _ = read_index(bin_path)
-    dat = dat_path.read_bytes()
-    json_all_path = json_root / 'all.json'
-    all_entries = json.loads(json_all_path.read_text(encoding='utf-8')) if json_all_path.exists() else {}
-    physical_nonempty_order = [slot.index for slot in sorted((s for s in slots if s.size), key=lambda s: s.offset)]
-    slots_by_index = {s.index: s for s in slots}
-    issues: List[Dict[str, Any]] = []
-    checked = mismatches = 0
-    for slot_idx in physical_nonempty_order:
-        slot = slots_by_index[slot_idx]
-        payload = dat[slot.offset:slot.offset+slot.size]
-        key = f'{slot.index:04d}.msbt'
-        entry_json = all_entries.get(key)
-        if entry_json is None:
-            per_json = json_root / 'per_msbt' / f'{key}.json'
-            if per_json.exists():
-                entry_json = json.loads(per_json.read_text(encoding='utf-8')).get(key)
-        if entry_json is None:
-            continue
-        original = get_text_entries_with_raw(payload)
-        for idx, (old_text, _old_raw) in enumerate(original):
-            obj = entry_json.get(str(idx)) if isinstance(entry_json, dict) else None
-            if obj is None or not isinstance(obj, dict):
-                continue
-            text = obj.get('text', '')
-            tok = obj.get('tokenized_text', text)
-            orig_text = obj.get('original_text', old_text)
-            orig_tok = obj.get('original_tokenized_text', orig_text)
-            tok_changed = tok != orig_tok
-            text_changed = text != orig_text
-            if not tok_changed and not text_changed:
-                continue
-            checked += 1
-            candidate = tok if tok_changed else text
-            orig_seq = token_sequence(orig_tok)
-            cand_seq = token_sequence(candidate)
-            if orig_seq != cand_seq:
-                mismatches += 1
-                issues.append({
-                    'location': f'{key}/{idx}',
-                    'original_token_count': len(orig_seq),
-                    'candidate_token_count': len(cand_seq),
-                    'original_tokens': orig_seq,
-                    'candidate_tokens': cand_seq,
-                    'candidate_visible': strip_tokens(candidate),
-                    'would_be_repaired_as': merge_visible_into_original_control_skeleton(orig_tok, candidate) if orig_seq else candidate,
-                })
-    return {
-        'checked_changed_entries': checked,
-        'control_sequence_mismatches': mismatches,
-        'issues': issues,
-    }
-
 def main() -> None:
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest='cmd', required=True)
     s = sub.add_parser('extract-container'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('out_dir')
     s = sub.add_parser('repack-container'); s.add_argument('extracted_dir'); s.add_argument('out_bin'); s.add_argument('out_dat')
     s = sub.add_parser('export-container-json'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('out_dir')
-    s = sub.add_parser('import-container-json'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('json_root'); s.add_argument('out_bin'); s.add_argument('out_dat'); s.add_argument('--control-policy', choices=['preserve','strict','allow'], default='preserve'); s.add_argument('--control-report')
+    s = sub.add_parser('import-container-json'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('json_root'); s.add_argument('out_bin'); s.add_argument('out_dat')
     s = sub.add_parser('export-standalone-json'); s.add_argument('msbt'); s.add_argument('out_json')
-    s = sub.add_parser('import-standalone-json'); s.add_argument('msbt'); s.add_argument('json_path'); s.add_argument('out_msbt'); s.add_argument('--control-policy', choices=['preserve','strict','allow'], default='preserve'); s.add_argument('--control-report')
+    s = sub.add_parser('import-standalone-json'); s.add_argument('msbt'); s.add_argument('json_path'); s.add_argument('out_msbt')
     s = sub.add_parser('verify-container-noop'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('--out-json')
-    s = sub.add_parser('validate-container-json'); s.add_argument('bin'); s.add_argument('dat'); s.add_argument('json_root'); s.add_argument('--out-json')
     s = sub.add_parser('verify-standalone-noop'); s.add_argument('msbt'); s.add_argument('--out-json')
     s = sub.add_parser('build-language-workspace'); s.add_argument('lang_dir'); s.add_argument('out_dir')
     s = sub.add_parser('build-tr-workspace'); s.add_argument('package_zip'); s.add_argument('out_dir')
@@ -746,18 +506,13 @@ def main() -> None:
     elif args.cmd == 'export-container-json':
         export_container_jsons(Path(args.bin), Path(args.dat), Path(args.out_dir))
     elif args.cmd == 'import-container-json':
-        import_container_from_json(Path(args.bin), Path(args.dat), Path(args.json_root), Path(args.out_bin), Path(args.out_dat), control_policy=args.control_policy, control_report=Path(args.control_report) if args.control_report else None)
+        import_container_from_json(Path(args.bin), Path(args.dat), Path(args.json_root), Path(args.out_bin), Path(args.out_dat))
     elif args.cmd == 'export-standalone-json':
         export_standalone_json(Path(args.msbt), Path(args.out_json))
     elif args.cmd == 'import-standalone-json':
-        import_standalone_from_json(Path(args.msbt), Path(args.json_path), Path(args.out_msbt), control_policy=args.control_policy, control_report=Path(args.control_report) if args.control_report else None)
+        import_standalone_from_json(Path(args.msbt), Path(args.json_path), Path(args.out_msbt))
     elif args.cmd == 'verify-container-noop':
         result = verify_container_noop(Path(args.bin), Path(args.dat))
-        txt = json.dumps(result, ensure_ascii=False, indent=2)
-        if args.out_json: Path(args.out_json).write_text(txt, encoding='utf-8')
-        else: print(txt)
-    elif args.cmd == 'validate-container-json':
-        result = scan_container_json_control_safety(Path(args.bin), Path(args.dat), Path(args.json_root))
         txt = json.dumps(result, ensure_ascii=False, indent=2)
         if args.out_json: Path(args.out_json).write_text(txt, encoding='utf-8')
         else: print(txt)
