@@ -1,39 +1,39 @@
 {
   "0463.msbt": {
     "0": {
-      "text": "\u0007",
-      "tokenized_text": "\u0007",
-      "original_text": "\u0007",
-      "original_tokenized_text": "\u0007",
-      "raw_full_hex": "07000000000000005A000000B80000002A0100006E0100009A0100009C010000FFFFFFFF21000E000300000002000A000E000300010000000E000100010000004D0031015F0169006C006F0073002000680061006C006B003101"
+      "text": "<C:0001,0001,><C:0000,0003,00EAFFFF>Yatak Ustası<C:0000,0003,FFFFFFFF>’nı kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0000,0003,00EAFFFF>Yatak Ustası<C:0000,0003,FFFFFFFF>’nı kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0000,0003,00EAFFFF>Yatak Ustası<C:0000,0003,FFFFFFFF>’nı kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0000,0003,00EAFFFF>Yatak Ustası<C:0000,0003,FFFFFFFF>’nı kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000000E0000000300040000EAFFFF59006100740061006B0020005500730074006100730031010E00000003000400FFFFFFFF19206E00310120006B0075007200740061007200640031016E0021000E000300000002000A000E000300010000000000"
     },
     "1": {
-      "text": " kurtarıldı: <C:0004,0006,>\u0002",
-      "tokenized_text": " kurtarıldı: <C:0004,0006,>\u0002",
-      "original_text": " kurtarıldı: <C:0004,0006,>\u0002",
-      "original_tokenized_text": " kurtarıldı: <C:0004,0006,>\u0002",
-      "raw_full_hex": "20006B007500720074006100720031016C00640031013A0020000E00040006000000020000000E000300000002000A000E0003000100000000000E000100040000004E006F0077002E000E000300000002001400200053006D0000004200"
+      "text": "<C:0001,0001,> Kurtarıldı: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,> Kurtarıldı: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,> kurtarıldı: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,> kurtarıldı: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E0001000100000020006B007500720074006100720031016C00640031013A0020000E000400000006000000020000000E000300000002000A000E000300010000000000"
     },
     "2": {
-      "text": "u parçayı kırıp\nDöşekçi'yi kurtar!<C:0003,0001,>",
-      "tokenized_text": "u parçayı kırıp\nDöşekçi'yi kurtar!<C:0003,0001,>",
-      "original_text": "u parçayı kırıp\nDöşekçi'yi kurtar!<C:0003,0001,>",
-      "original_tokenized_text": "u parçayı kırıp\nDöşekçi'yi kurtar!<C:0003,0001,>",
-      "raw_full_hex": "75002000700061007200E70061007900310120006B0031017200310170000A004400F6005F0165006B00E700690027007900690020006B007500720074006100720021000E00030001000000"
+      "text": "<C:0001,0004,>Şimdi bu parçayı kırıp<U:000A>Döşekçi'yi kurtar!<C:0003,0000,1400><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Şimdi bu parçayı kırıp<U:000A>Döşekçi'yi kurtar!<C:0003,0000,1400><C:0003,0001,>",
+      "original_text": "<C:0001,0004,>u parçayı kırıp<U:000A>Döşekçi'yi kurtar!<C:0003,0000,1400><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>u parçayı kırıp<U:000A>Döşekçi'yi kurtar!<C:0003,0000,1400><C:0003,0001,>",
+      "raw_full_hex": "0E0001000400000075002000700061007200E70061007900310120006B0031017200310170000A004400F6005F0165006B00E700690027007900690020006B007500720074006100720021000E0003000000020014000E000300010000000000"
     },
     "3": {
-      "text": " ÖZGÜÜR!<C:0003,0001,>",
-      "tokenized_text": " ÖZGÜÜR!<C:0003,0001,>",
-      "original_text": " ÖZGÜÜR!<C:0003,0001,>",
-      "original_tokenized_text": " ÖZGÜÜR!<C:0003,0001,>",
-      "raw_full_hex": "2000D6005A004700DC00DC00520021000E0003000100000000000E00010004000000C7004F004B002000540045005E0145004B004B00DC0052004C004500520000000000"
+      "text": "<C:0001,0004,>DÖŞEKÇİ!\nÖZGÜÜR!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>DÖŞEKÇİ!\nÖZGÜÜR!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,> ÖZGÜÜR!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,> ÖZGÜÜR!<C:0003,0001,>",
+      "raw_full_hex": "0E000100040000002000D6005A004700DC00DC00520021000E000300010000000000"
     },
     "4": {
-      "text": "ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
-      "tokenized_text": "ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
-      "original_text": "ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
-      "original_tokenized_text": "ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
-      "raw_full_hex": "C7004F004B002000540045005E0145004B004B00DC0052004C004500520021000E0003000100000000000000"
+      "text": "<C:0001,0004,>ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>ÇOK TEŞEKKÜRLER!<C:0003,0001,>",
+      "raw_full_hex": "0E00010004000000C7004F004B002000540045005E0145004B004B00DC0052004C004500520021000E000300010000000000"
     },
     "5": {
       "text": "",
@@ -43,11 +43,11 @@
       "raw_full_hex": "0000"
     },
     "6": {
-      "text": "ꮫꮫꮫꮫꮫꮫꮫ協ㅙ\u001c",
-      "tokenized_text": "ꮫꮫꮫꮫꮫꮫꮫ協ㅙ\u001c",
-      "original_text": "ꮫꮫꮫꮫꮫꮫꮫ協ㅙ\u001c",
-      "original_tokenized_text": "ꮫꮫꮫꮫꮫꮫꮫ協ㅙ\u001c",
-      "raw_full_hex": "ABABABABABABABABABABABABABAB545359311C0000000000000000000000ABAB"
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
     }
   }
 }

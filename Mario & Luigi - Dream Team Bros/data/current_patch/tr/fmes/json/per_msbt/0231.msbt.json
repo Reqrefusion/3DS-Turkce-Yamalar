@@ -1,17 +1,17 @@
 {
   "0231.msbt": {
     "0": {
-      "text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!\nÖyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
-      "tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!\nÖyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
-      "original_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!\nÖyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
-      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!\nÖyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
+      "text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!<U:000A>Öyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!<U:000A>Öyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!<U:000A>Öyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,><C:0007,0000,><C:0000,0003,00EAFFFF>Mışıl Yatak<C:0000,0003,FFFFFFFF>'ı aldın!<U:000A>Öyle yumuşacık ve pofuduk ki!<C:0003,0000,0A00><C:0003,0001,>",
       "raw_full_hex": "0E000100010000000E000700000000000E0000000300040000EAFFFF4D0031015F0131016C00200059006100740061006B000E00000003000400FFFFFFFF27003101200061006C00640031016E0021000A00D60079006C0065002000790075006D0075005F016100630031016B00200076006500200070006F0066007500640075006B0020006B00690021000E000300000002000A000E000300010000000000"
     },
     "1": {
-      "text": "Bu iş bayağı\nkolaymış, değil mi?<C:0003,0001,>",
-      "tokenized_text": "Bu iş bayağı\nkolaymış, değil mi?<C:0003,0001,>",
-      "original_text": "Bu iş bayağı\nkolaymış, değil mi?<C:0003,0001,>",
-      "original_tokenized_text": "Bu iş bayağı\nkolaymış, değil mi?<C:0003,0001,>",
+      "text": "Bu iş bayağı<U:000A>kolaymış, değil mi?<C:0003,0001,>",
+      "tokenized_text": "Bu iş bayağı<U:000A>kolaymış, değil mi?<C:0003,0001,>",
+      "original_text": "Bu iş bayağı<U:000A>kolaymış, değil mi?<C:0003,0001,>",
+      "original_tokenized_text": "Bu iş bayağı<U:000A>kolaymış, değil mi?<C:0003,0001,>",
       "raw_full_hex": "42007500200069005F01200062006100790061001F0131010A006B006F006C00610079006D0031015F012C002000640065001F0169006C0020006D0069003F000E000300010000000000"
     },
     "2": {
@@ -22,10 +22,10 @@
       "raw_full_hex": "41006D0061002E002E002E000E000300010000000000"
     },
     "3": {
-      "text": "Geri dönmek\nbiraz çetin olabilir.<C:0003,0001,>",
-      "tokenized_text": "Geri dönmek\nbiraz çetin olabilir.<C:0003,0001,>",
-      "original_text": "Geri dönmek\nbiraz çetin olabilir.<C:0003,0001,>",
-      "original_tokenized_text": "Geri dönmek\nbiraz çetin olabilir.<C:0003,0001,>",
+      "text": "Geri dönmek<U:000A>biraz çetin olabilir.<C:0003,0001,>",
+      "tokenized_text": "Geri dönmek<U:000A>biraz çetin olabilir.<C:0003,0001,>",
+      "original_text": "Geri dönmek<U:000A>biraz çetin olabilir.<C:0003,0001,>",
+      "original_tokenized_text": "Geri dönmek<U:000A>biraz çetin olabilir.<C:0003,0001,>",
       "raw_full_hex": "470065007200690020006400F6006E006D0065006B000A0062006900720061007A002000E7006500740069006E0020006F006C006100620069006C00690072002E000E000300010000000000"
     }
   }

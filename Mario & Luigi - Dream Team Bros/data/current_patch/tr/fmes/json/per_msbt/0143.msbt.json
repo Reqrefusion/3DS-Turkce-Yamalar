@@ -1,17 +1,17 @@
 {
   "0143.msbt": {
     "0": {
-      "text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...\nBeni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> \nKaytarmıyordum ki...<C:0003,0001,>",
-      "tokenized_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...\nBeni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> \nKaytarmıyordum ki...<C:0003,0001,>",
-      "original_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...\nBeni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> \nKaytarmıyordum ki...<C:0003,0001,>",
-      "original_tokenized_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...\nBeni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> \nKaytarmıyordum ki...<C:0003,0001,>",
+      "text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...<U:000A>Beni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> <U:000A>Kaytarmıyordum ki...<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...<U:000A>Beni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> <U:000A>Kaytarmıyordum ki...<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...<U:000A>Beni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> <U:000A>Kaytarmıyordum ki...<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Vay!<C:0003,0000,0A00> Şey...<U:000A>Beni buldunuz!<C:0003,0001,><C:0000,0004,>Ee...<C:0003,0000,0A00> Ne? Hayır!<C:0003,0000,0A00> <U:000A>Kaytarmıyordum ki...<C:0003,0001,>",
       "raw_full_hex": "0E0001000400000056006100790021000E000300000002000A0020005E01650079002E002E002E000A00420065006E0069002000620075006C00640075006E0075007A0021000E000300010000000E00000004000000450065002E002E002E000E000300000002000A0020004E0065003F0020004800610079003101720021000E000300000002000A0020000A004B00610079007400610072006D00310179006F007200640075006D0020006B0069002E002E002E000E000300010000000000"
     },
     "1": {
-      "text": "<C:0001,0004,>Aman be, çok şükür.\nSadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı\nkimseye söylemeyin!<C:0003,0001,>",
-      "tokenized_text": "<C:0001,0004,>Aman be, çok şükür.\nSadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı\nkimseye söylemeyin!<C:0003,0001,>",
-      "original_text": "<C:0001,0004,>Aman be, çok şükür.\nSadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı\nkimseye söylemeyin!<C:0003,0001,>",
-      "original_tokenized_text": "<C:0001,0004,>Aman be, çok şükür.\nSadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı\nkimseye söylemeyin!<C:0003,0001,>",
+      "text": "<C:0001,0004,>Aman be, çok şükür.<U:000A>Sadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı<U:000A>kimseye söylemeyin!<C:0003,0001,>",
+      "tokenized_text": "<C:0001,0004,>Aman be, çok şükür.<U:000A>Sadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı<U:000A>kimseye söylemeyin!<C:0003,0001,>",
+      "original_text": "<C:0001,0004,>Aman be, çok şükür.<U:000A>Sadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı<U:000A>kimseye söylemeyin!<C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0004,>Aman be, çok şükür.<U:000A>Sadece ziyaretçilermişsiniz!<C:0003,0001,><C:0000,0004,>Bakın çocuklar, kaytardığımı<U:000A>kimseye söylemeyin!<C:0003,0001,>",
       "raw_full_hex": "0E0001000400000041006D0061006E002000620065002C002000E7006F006B0020005F01FC006B00FC0072002E000A0053006100640065006300650020007A00690079006100720065007400E70069006C00650072006D0069005F01730069006E0069007A0021000E000300010000000E00000004000000420061006B0031016E002000E7006F00630075006B006C00610072002C0020006B0061007900740061007200640031011F0131016D0031010A006B0069006D00730065007900650020007300F60079006C0065006D006500790069006E0021000E000300010000000000"
     }
   }

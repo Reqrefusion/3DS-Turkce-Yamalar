@@ -1,32 +1,32 @@
 {
   "0156.msbt": {
     "0": {
-      "text": "Bu da ne?<C:0003,0000,0A00>\nLuigi, neler oluyor?<C:0003,0001,>",
-      "tokenized_text": "Bu da ne?<C:0003,0000,0A00>\nLuigi, neler oluyor?<C:0003,0001,>",
-      "original_text": "Bu da ne?<C:0003,0000,0A00>\nLuigi, neler oluyor?<C:0003,0001,>",
-      "original_tokenized_text": "Bu da ne?<C:0003,0000,0A00>\nLuigi, neler oluyor?<C:0003,0001,>",
+      "text": "Bu da ne?<C:0003,0000,0A00><U:000A>Luigi, neler oluyor?<C:0003,0001,>",
+      "tokenized_text": "Bu da ne?<C:0003,0000,0A00><U:000A>Luigi, neler oluyor?<C:0003,0001,>",
+      "original_text": "Bu da ne?<C:0003,0000,0A00><U:000A>Luigi, neler oluyor?<C:0003,0001,>",
+      "original_tokenized_text": "Bu da ne?<C:0003,0000,0A00><U:000A>Luigi, neler oluyor?<C:0003,0001,>",
       "raw_full_hex": "4200750020006400610020006E0065003F000E000300000002000A000A004C0075006900670069002C0020006E0065006C006500720020006F006C00750079006F0072003F000E000300010000000000"
     },
     "1": {
-      "text": "\n Neden\nbu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0001,>",
-      "tokenized_text": "\n Neden\nbu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0001,>",
-      "original_text": "\n Neden\nbu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0001,>",
-      "original_tokenized_text": "\n Neden\nbu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0001,>",
-      "raw_full_hex": "0A0020004E006500640065006E000A006200750020006B006100640061007200200067006500630069006B00740069006E003F000E000300010000000E000000040000000E00010004000000420065006E00690020006B006F0072006B0075007400750079006F007200730075006E0021000E0003000100000000000E000100040000000E0000000200020096004D000000"
+      "text": "<U:000A> Neden<U:000A>bu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<U:000A> Neden<U:000A>bu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<U:000A> Neden<U:000A>bu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<U:000A> Neden<U:000A>bu kadar geciktin?<C:0003,0001,><C:0000,0004,><C:0001,0004,>Beni korkutuyorsun!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0A0020004E006500640065006E000A006200750020006B006100640061007200200067006500630069006B00740069006E003F000E000300010000000E000000040000000E00010004000000420065006E00690020006B006F0072006B0075007400750079006F007200730075006E0021000E000300000002000A000E000300010000000000"
     },
     "2": {
-      "text": "MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
-      "tokenized_text": "MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
-      "original_text": "MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
-      "original_tokenized_text": "MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
-      "raw_full_hex": "4D004100520049004F004F004F0021000E0000000200020064000E000300000002001E000000"
+      "text": "<C:0001,0004,><C:0000,0002,9600>MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
+      "tokenized_text": "<C:0001,0004,><C:0000,0002,9600>MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
+      "original_text": "<C:0001,0004,><C:0000,0002,9600>MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
+      "original_tokenized_text": "<C:0001,0004,><C:0000,0002,9600>MARIOOO!<C:0000,0002,6400><C:0003,0000,1E00>",
+      "raw_full_hex": "0E000100040000000E0000000200020096004D004100520049004F004F004F0021000E0000000200020064000E000300000002001E000000"
     },
     "3": {
       "text": "",
       "tokenized_text": "",
       "original_text": "",
       "original_tokenized_text": "",
-      "raw_full_hex": "0000ABABABABABAB545359311000000000000000"
+      "raw_full_hex": "0000"
     }
   }
 }

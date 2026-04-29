@@ -1,18 +1,18 @@
 {
   "0128.msbt": {
     "0": {
-      "text": "İşte bu!\nBir Geçit Borusu!<C:0003,0001,>",
-      "tokenized_text": "İşte bu!\nBir Geçit Borusu!<C:0003,0001,>",
-      "original_text": "İşte bu!\nBir Geçit Borusu!<C:0003,0001,>",
-      "original_tokenized_text": "İşte bu!\nBir Geçit Borusu!<C:0003,0001,>",
-      "raw_full_hex": "30015F017400650020006200750021000A00420069007200200047006500E70069007400200042006F00720075007300750021000E0003000100000000004D006100720069006F00210020005E017500200062006F007200750079006C00610020000000"
+      "text": "İşte bu!<U:000A>Bir Geçit Borusu!<C:0003,0001,>",
+      "tokenized_text": "İşte bu!<U:000A>Bir Geçit Borusu!<C:0003,0001,>",
+      "original_text": "İşte bu!<U:000A>Bir Geçit Borusu!<C:0003,0001,>",
+      "original_tokenized_text": "İşte bu!<U:000A>Bir Geçit Borusu!<C:0003,0001,>",
+      "raw_full_hex": "30015F017400650020006200750021000A00420069007200200047006500E70069007400200042006F00720075007300750021000E000300010000000000"
     },
     "1": {
-      "text": "bir ol!\nŞununla bütünleş!<C:0003,0001,>",
-      "tokenized_text": "bir ol!\nŞununla bütünleş!<C:0003,0001,>",
-      "original_text": "bir ol!\nŞununla bütünleş!<C:0003,0001,>",
-      "original_tokenized_text": "bir ol!\nŞununla bütünleş!<C:0003,0001,>",
-      "raw_full_hex": "62006900720020006F006C0021000A005E0175006E0075006E006C00610020006200FC007400FC006E006C0065005F0121000E00030001000000000000000000ABABABABABABABABABABABABABAB54530000"
+      "text": "Bir ol!<U:000A>Şununla bütünleş!<C:0003,0001,>",
+      "tokenized_text": "Bir ol!<U:000A>Şununla bütünleş!<C:0003,0001,>",
+      "original_text": "Bir ol!<U:000A>Şununla bütünleş!<C:0003,0001,>",
+      "original_tokenized_text": "Bir ol!<U:000A>Şununla bütünleş!<C:0003,0001,>",
+      "raw_full_hex": "42006900720020006F006C0021000A005E0175006E0075006E006C00610020006200FC007400FC006E006C0065005F0121000E000300010000000000"
     },
     "2": {
       "text": "",
@@ -26,7 +26,7 @@
       "tokenized_text": "",
       "original_text": "",
       "original_tokenized_text": "",
-      "raw_full_hex": "0000ABABABABABABABABABABABABABAB54535931"
+      "raw_full_hex": "0000"
     }
   }
 }

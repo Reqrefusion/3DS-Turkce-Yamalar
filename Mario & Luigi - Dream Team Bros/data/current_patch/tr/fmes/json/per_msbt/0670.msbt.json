@@ -1,10 +1,10 @@
 {
   "0670.msbt": {
     "0": {
-      "text": "İşte orada!\nBowser'ın şatosu!<C:0003,0001,>",
-      "tokenized_text": "İşte orada!\nBowser'ın şatosu!<C:0003,0001,>",
-      "original_text": "İşte orada!\nBowser'ın şatosu!<C:0003,0001,>",
-      "original_tokenized_text": "İşte orada!\nBowser'ın şatosu!<C:0003,0001,>",
+      "text": "İşte orada!<U:000A>Bowser'ın şatosu!<C:0003,0001,>",
+      "tokenized_text": "İşte orada!<U:000A>Bowser'ın şatosu!<C:0003,0001,>",
+      "original_text": "İşte orada!<U:000A>Bowser'ın şatosu!<C:0003,0001,>",
+      "original_tokenized_text": "İşte orada!<U:000A>Bowser'ın şatosu!<C:0003,0001,>",
       "raw_full_hex": "30015F017400650020006F00720061006400610021000A0042006F007700730065007200270031016E0020005F01610074006F007300750021000E000300010000000000"
     },
     "1": {
@@ -22,24 +22,24 @@
       "raw_full_hex": "4E006500640065006E0069006E0069002000620069006C006D00690079006F00720075006D00200061006D0061002E002E002E000E000300010000000000"
     },
     "3": {
-      "text": " ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
-      "tokenized_text": " ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
-      "original_text": " ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
-      "original_tokenized_text": " ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
-      "raw_full_hex": "2000C7004F004B002000D60046004B0045004C00300121000E0000000200020064000E00030000000200280000004F006F006F002C0020005A00650065006B00650065007000650072002700310120007500790061000000"
+      "text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600> ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600> ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600> ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,><C:0001,0004,><C:0000,0002,9600> ÇOK ÖFKELİ!<C:0000,0002,6400><C:0003,0000,2800>",
+      "raw_full_hex": "0E000700000000000E000100010000000E000100040000000E0000000200020096002000C7004F004B002000D60046004B0045004C00300121000E0000000200020064000E0003000000020028000000"
     },
     "4": {
-      "text": "Ooo, Mışılbekçi'ı uyandırdılar!\nVe Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
-      "tokenized_text": "Ooo, Mışılbekçi'ı uyandırdılar!\nVe Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
-      "original_text": "Ooo, Mışılbekçi'ı uyandırdılar!\nVe Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
-      "original_tokenized_text": "Ooo, Mışılbekçi'ı uyandırdılar!\nVe Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin\nyıkılışı dindirecek!<C:0003,0001,>",
-      "raw_full_hex": "4F006F006F002C0020004D0031015F0131016C00620065006B00E70069002700310120007500790061006E00640031017200640031016C006100720021000A005600650020004D0031015F0131016C00620065006B00E70069002000F60066006B00650079006C00650020006B007500640075007200750079006F00720021000E000300010000000E00000004000000D60066006B006500200073007500730075007A006C0075001F0175006D007500200061006E00630061006B0020006F002000620061007200690079006500720069006E000A00790031016B0031016C0031015F0131012000640069006E006400690072006500630065006B0021000E00030001000000"
+      "text": "Ooo, Mışılbekçi'yi uyandırdılar!<U:000A>Ve Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin<U:000A>yıkılışı dindirecek!<C:0003,0001,>",
+      "tokenized_text": "Ooo, Mışılbekçi'yi uyandırdılar!<U:000A>Ve Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin<U:000A>yıkılışı dindirecek!<C:0003,0001,>",
+      "original_text": "Ooo, Mışılbekçi'ı uyandırdılar!<U:000A>Ve Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin<U:000A>yıkılışı dindirecek!<C:0003,0001,>",
+      "original_tokenized_text": "Ooo, Mışılbekçi'ı uyandırdılar!<U:000A>Ve Mışılbekçi öfkeyle kuduruyor!<C:0003,0001,><C:0000,0004,>Öfke susuzluğumu ancak o bariyerin<U:000A>yıkılışı dindirecek!<C:0003,0001,>",
+      "raw_full_hex": "4F006F006F002C0020004D0031015F0131016C00620065006B00E70069002700310120007500790061006E00640031017200640031016C006100720021000A005600650020004D0031015F0131016C00620065006B00E70069002000F60066006B00650079006C00650020006B007500640075007200750079006F00720021000E000300010000000E00000004000000D60066006B006500200073007500730075007A006C0075001F0175006D007500200061006E00630061006B0020006F002000620061007200690079006500720069006E000A00790031016B0031016C0031015F0131012000640069006E006400690072006500630065006B0021000E000300010000000000"
     },
     "5": {
-      "text": "Felaket üstünüze geliyor!\nEvet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!\nUyanış Işını'nı görün!<C:0003,0001,>",
-      "tokenized_text": "Felaket üstünüze geliyor!\nEvet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!\nUyanış Işını'nı görün!<C:0003,0001,>",
-      "original_text": "Felaket üstünüze geliyor!\nEvet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!\nUyanış Işını'nı görün!<C:0003,0001,>",
-      "original_tokenized_text": "Felaket üstünüze geliyor!\nEvet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!\nUyanış Işını'nı görün!<C:0003,0001,>",
+      "text": "Felaket üstünüze geliyor!<U:000A>Evet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!<U:000A>Uyanış Işını'nı görün!<C:0003,0001,>",
+      "tokenized_text": "Felaket üstünüze geliyor!<U:000A>Evet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!<U:000A>Uyanış Işını'nı görün!<C:0003,0001,>",
+      "original_text": "Felaket üstünüze geliyor!<U:000A>Evet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!<U:000A>Uyanış Işını'nı görün!<C:0003,0001,>",
+      "original_tokenized_text": "Felaket üstünüze geliyor!<U:000A>Evet, hem de nasıl!<C:0003,0001,><C:0000,0004,>O uğursuz bakışa bakın!<U:000A>Uyanış Işını'nı görün!<C:0003,0001,>",
       "raw_full_hex": "460065006C0061006B00650074002000FC0073007400FC006E00FC007A0065002000670065006C00690079006F00720021000A0045007600650074002C002000680065006D0020006400650020006E006100730031016C0021000E000300010000000E000000040000004F00200075001F0175007200730075007A002000620061006B0031015F0161002000620061006B0031016E0021000A005500790061006E0031015F01200049005F0131016E00310127006E00310120006700F6007200FC006E0021000E000300010000000000"
     },
     "6": {

@@ -1,39 +1,39 @@
 {
   "0174.msbt": {
     "0": {
-      "text": "<C:0001,0001,>İkinci bir\nMışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
-      "tokenized_text": "<C:0001,0001,>İkinci bir\nMışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
-      "original_text": "<C:0001,0001,>İkinci bir\nMışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
-      "original_tokenized_text": "<C:0001,0001,>İkinci bir\nMışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
-      "raw_full_hex": "0E0001000100000030016B0069006E006300690020006200690072000A004D0031015F0169006C006F00730020006B0075007200740061007200640031016E0021000E000300000002000A000E0003000100000000000E00"
+      "text": "<C:0001,0001,>İkinci bir<U:000A>Mışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>İkinci bir<U:000A>Mışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>İkinci bir<U:000A>Mışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>İkinci bir<U:000A>Mışilos kurtardın!<C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E0001000100000030016B0069006E006300690020006200690072000A004D0031015F0169006C006F00730020006B0075007200740061007200640031016E0021000E000300000002000A000E000300010000000000"
     },
     "1": {
-      "text": "\u0001\u0001",
-      "tokenized_text": "\u0001\u0001",
-      "original_text": "\u0001\u0001",
-      "original_tokenized_text": "\u0001\u0001",
-      "raw_full_hex": "0100010000004B007500720074006100720031016C0061006E0020004D0031015F0169006C006F0073006C00610072003A0020000E000400000006000000020000000E000300000002000A000E00030001000000000000000000"
+      "text": "<C:0001,0001,>Kurtarılan Mışiloslar: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "tokenized_text": "<C:0001,0001,>Kurtarılan Mışiloslar: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_text": "<C:0001,0001,>Kurtarılan Mışiloslar: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "original_tokenized_text": "<C:0001,0001,>Kurtarılan Mışiloslar: <C:0004,0000,000002000000><C:0003,0000,0A00><C:0003,0001,>",
+      "raw_full_hex": "0E000100010000004B007500720074006100720031016C0061006E0020004D0031015F0169006C006F0073006C00610072003A0020000E000400000006000000020000000E000300000002000A000E000300010000000000"
     },
     "2": {
-      "text": "A",
-      "tokenized_text": "A",
+      "text": "",
+      "tokenized_text": "",
       "original_text": "A",
       "original_tokenized_text": "A",
-      "raw_full_hex": "4100"
+      "raw_full_hex": "41000000"
     },
     "3": {
-      "text": "r",
-      "tokenized_text": "r",
+      "text": "",
+      "tokenized_text": "",
       "original_text": "r",
       "original_tokenized_text": "r",
-      "raw_full_hex": "7200"
+      "raw_full_hex": "72000000"
     },
     "4": {
-      "text": "tık kendi dünyana\ngeri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
-      "tokenized_text": "tık kendi dünyana\ngeri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
-      "original_text": "tık kendi dünyana\ngeri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
-      "original_tokenized_text": "tık kendi dünyana\ngeri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
-      "raw_full_hex": "740031016B0020006B0065006E006400690020006400FC006E00790061006E0061000A00670065007200690020006400F6006E006D0065002000760061006B007400690021000E000300010000000E000000040000000E000100010000000E00010004000000480061007900640069002000620061006B0061006C0031016D0021000E000300010000000000ABAB5453"
+      "text": "Artık kendi dünyana<U:000A>geri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
+      "tokenized_text": "Artık kendi dünyana<U:000A>geri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
+      "original_text": "tık kendi dünyana<U:000A>geri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
+      "original_tokenized_text": "tık kendi dünyana<U:000A>geri dönme vakti!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Haydi bakalım!<C:0003,0001,>",
+      "raw_full_hex": "740031016B0020006B0065006E006400690020006400FC006E00790061006E0061000A00670065007200690020006400F6006E006D0065002000760061006B007400690021000E000300010000000E000000040000000E000100010000000E00010004000000480061007900640069002000620061006B0061006C0031016D0021000E000300010000000000"
     }
   }
 }

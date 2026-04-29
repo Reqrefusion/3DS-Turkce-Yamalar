@@ -1,11 +1,11 @@
 {
   "0512.msbt": {
     "0": {
-      "text": "\t",
-      "tokenized_text": "\t",
-      "original_text": "\t",
-      "original_tokenized_text": "\t",
-      "raw_full_hex": "0900"
+      "text": "<U:0009>",
+      "tokenized_text": "<U:0009>",
+      "original_text": "<U:0009>",
+      "original_tokenized_text": "<U:0009>",
+      "raw_full_hex": "09000000"
     },
     "1": {
       "text": "",
@@ -29,11 +29,11 @@
       "raw_full_hex": "0000"
     },
     "4": {
-      "text": "\u0002",
-      "tokenized_text": "\u0002",
-      "original_text": "\u0002",
-      "original_tokenized_text": "\u0002",
-      "raw_full_hex": "0200"
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
     },
     "5": {
       "text": "",
@@ -43,11 +43,11 @@
       "raw_full_hex": "0000"
     },
     "6": {
-      "text": "\u0004",
-      "tokenized_text": "\u0004",
-      "original_text": "\u0004",
-      "original_tokenized_text": "\u0004",
-      "raw_full_hex": "0400"
+      "text": "",
+      "tokenized_text": "",
+      "original_text": "",
+      "original_tokenized_text": "",
+      "raw_full_hex": "0000"
     },
     "7": {
       "text": "",
@@ -57,11 +57,11 @@
       "raw_full_hex": "0000"
     },
     "8": {
-      "text": "ja Dağı\nAna Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.\nKasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
-      "tokenized_text": "ja Dağı\nAna Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.\nKasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
-      "original_text": "ja Dağı\nAna Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.\nKasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
-      "original_tokenized_text": "ja Dağı\nAna Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.\nKasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
-      "raw_full_hex": "6A0061002000440061001F0131010A0041006E00610020004B0061006D00700020000E000300010000000E000000040000000E000700000000005A0069007200760065002000730065006E0069002000E70061001F0131017200310179006F0072002E000A004B00610073006C006100720031016E002000620075002000E70061001F01720031017900610020006300650076006100700020007600650072006500630065006B0020006D0069003F000E000300010000000000"
+      "text": "<C:0007,0000,><C:0001,0001,>Pijamadağı<U:000A>Ana Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.<U:000A>Kasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
+      "tokenized_text": "<C:0007,0000,><C:0001,0001,>Pijamadağı<U:000A>Ana Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.<U:000A>Kasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
+      "original_text": "<C:0007,0000,><C:0001,0001,>ja Dağı<U:000A>Ana Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.<U:000A>Kasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
+      "original_tokenized_text": "<C:0007,0000,><C:0001,0001,>ja Dağı<U:000A>Ana Kamp <C:0003,0001,><C:0000,0004,><C:0007,0000,>Zirve seni çağırıyor.<U:000A>Kasların bu çağrıya cevap verecek mi?<C:0003,0001,>",
+      "raw_full_hex": "0E000700000000000E000100010000006A0061002000440061001F0131010A0041006E00610020004B0061006D00700020000E000300010000000E000000040000000E000700000000005A0069007200760065002000730065006E0069002000E70061001F0131017200310179006F0072002E000A004B00610073006C006100720031016E002000620075002000E70061001F01720031017900610020006300650076006100700020007600650072006500630065006B0020006D0069003F000E000300010000000000"
     }
   }
 }

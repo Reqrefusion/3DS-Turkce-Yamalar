@@ -1,10 +1,10 @@
 {
   "0343.msbt": {
     "0": {
-      "text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
-      "tokenized_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
-      "original_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
-      "original_tokenized_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00>\n<C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
+      "text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00><U:000A><C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
+      "tokenized_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00><U:000A><C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
+      "original_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00><U:000A><C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
+      "original_tokenized_text": "<C:0007,0000,>Rüya dünyasına gidilsin mi?<C:0003,0000,0A00><U:000A><C:0001,0001,><C:0005,0001,>Hayır          <C:0005,0001,>Evet<C:0003,0000,0A00>",
       "raw_full_hex": "0E000700000000005200FC007900610020006400FC006E0079006100730031016E006100200067006900640069006C00730069006E0020006D0069003F000E000300000002000A000A000E000100010000000E000500010000004800610079003101720020002000200020002000200020002000200020000E0005000100000045007600650074000E000300000002000A000000"
     },
     "1": {
@@ -15,24 +15,24 @@
       "raw_full_hex": "0E000700000000000E000100010000000E0001000400000044007500720075006E0021000E000300000002001E000000"
     },
     "2": {
-      "text": "Şu kapının\nötesinde...<C:0003,0001,>",
-      "tokenized_text": "Şu kapının\nötesinde...<C:0003,0001,>",
-      "original_text": "Şu kapının\nötesinde...<C:0003,0001,>",
-      "original_tokenized_text": "Şu kapının\nötesinde...<C:0003,0001,>",
+      "text": "Şu kapının<U:000A>ötesinde...<C:0003,0001,>",
+      "tokenized_text": "Şu kapının<U:000A>ötesinde...<C:0003,0001,>",
+      "original_text": "Şu kapının<U:000A>ötesinde...<C:0003,0001,>",
+      "original_tokenized_text": "Şu kapının<U:000A>ötesinde...<C:0003,0001,>",
       "raw_full_hex": "5E01750020006B006100700031016E0031016E000A00F60074006500730069006E00640065002E002E002E000E000300010000000000"
     },
     "3": {
-      "text": "Antasma'nın varlığını\nhissediyorum!<C:0003,0001,>",
-      "tokenized_text": "Antasma'nın varlığını\nhissediyorum!<C:0003,0001,>",
-      "original_text": "Antasma'nın varlığını\nhissediyorum!<C:0003,0001,>",
-      "original_tokenized_text": "Antasma'nın varlığını\nhissediyorum!<C:0003,0001,>",
+      "text": "Antasma'nın varlığını<U:000A>hissediyorum!<C:0003,0001,>",
+      "tokenized_text": "Antasma'nın varlığını<U:000A>hissediyorum!<C:0003,0001,>",
+      "original_text": "Antasma'nın varlığını<U:000A>hissediyorum!<C:0003,0001,>",
+      "original_tokenized_text": "Antasma'nın varlığını<U:000A>hissediyorum!<C:0003,0001,>",
       "raw_full_hex": "41006E007400610073006D00610027006E0031016E0020007600610072006C0031011F0131016E0031010A00680069007300730065006400690079006F00720075006D0021000E000300010000000000"
     },
     "4": {
-      "text": "Mario! Luigi!\nBunu bitirelim!<C:0003,0001,>",
-      "tokenized_text": "Mario! Luigi!\nBunu bitirelim!<C:0003,0001,>",
-      "original_text": "Mario! Luigi!\nBunu bitirelim!<C:0003,0001,>",
-      "original_tokenized_text": "Mario! Luigi!\nBunu bitirelim!<C:0003,0001,>",
+      "text": "Mario! Luigi!<U:000A>Bunu bitirelim!<C:0003,0001,>",
+      "tokenized_text": "Mario! Luigi!<U:000A>Bunu bitirelim!<C:0003,0001,>",
+      "original_text": "Mario! Luigi!<U:000A>Bunu bitirelim!<C:0003,0001,>",
+      "original_tokenized_text": "Mario! Luigi!<U:000A>Bunu bitirelim!<C:0003,0001,>",
       "raw_full_hex": "4D006100720069006F00210020004C00750069006700690021000A00420075006E00750020006200690074006900720065006C0069006D0021000E000300010000000000"
     },
     "5": {
@@ -43,24 +43,24 @@
       "raw_full_hex": "42007500200061006C00650076002E002E002E000E000300010000000000"
     },
     "6": {
-      "text": "Görünüşe göre\nrüya dünyasından fışkırıyor...<C:0003,0001,>",
-      "tokenized_text": "Görünüşe göre\nrüya dünyasından fışkırıyor...<C:0003,0001,>",
-      "original_text": "Görünüşe göre\nrüya dünyasından fışkırıyor...<C:0003,0001,>",
-      "original_tokenized_text": "Görünüşe göre\nrüya dünyasından fışkırıyor...<C:0003,0001,>",
+      "text": "Görünüşe göre<U:000A>rüya dünyasından fışkırıyor...<C:0003,0001,>",
+      "tokenized_text": "Görünüşe göre<U:000A>rüya dünyasından fışkırıyor...<C:0003,0001,>",
+      "original_text": "Görünüşe göre<U:000A>rüya dünyasından fışkırıyor...<C:0003,0001,>",
+      "original_tokenized_text": "Görünüşe göre<U:000A>rüya dünyasından fışkırıyor...<C:0003,0001,>",
       "raw_full_hex": "4700F6007200FC006E00FC005F01650020006700F600720065000A007200FC007900610020006400FC006E0079006100730031016E00640061006E002000660031015F016B0031017200310179006F0072002E002E002E000E000300010000000000"
     },
     "7": {
-      "text": "Kuşkusuz, onu ancak o dünyaya\ngiderek söndürebiliriz...<C:0003,0001,>",
-      "tokenized_text": "Kuşkusuz, onu ancak o dünyaya\ngiderek söndürebiliriz...<C:0003,0001,>",
-      "original_text": "Kuşkusuz, onu ancak o dünyaya\ngiderek söndürebiliriz...<C:0003,0001,>",
-      "original_tokenized_text": "Kuşkusuz, onu ancak o dünyaya\ngiderek söndürebiliriz...<C:0003,0001,>",
+      "text": "Kuşkusuz, onu ancak o dünyaya<U:000A>giderek söndürebiliriz...<C:0003,0001,>",
+      "tokenized_text": "Kuşkusuz, onu ancak o dünyaya<U:000A>giderek söndürebiliriz...<C:0003,0001,>",
+      "original_text": "Kuşkusuz, onu ancak o dünyaya<U:000A>giderek söndürebiliriz...<C:0003,0001,>",
+      "original_tokenized_text": "Kuşkusuz, onu ancak o dünyaya<U:000A>giderek söndürebiliriz...<C:0003,0001,>",
       "raw_full_hex": "4B0075005F016B007500730075007A002C0020006F006E007500200061006E00630061006B0020006F0020006400FC006E0079006100790061000A006700690064006500720065006B0020007300F6006E006400FC0072006500620069006C006900720069007A002E002E002E000E000300010000000000"
     },
     "8": {
-      "text": "Alevin yakınlarında bir yerde\nmutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
-      "tokenized_text": "Alevin yakınlarında bir yerde\nmutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
-      "original_text": "Alevin yakınlarında bir yerde\nmutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
-      "original_tokenized_text": "Alevin yakınlarında bir yerde\nmutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
+      "text": "Alevin yakınlarında bir yerde<U:000A>mutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
+      "tokenized_text": "Alevin yakınlarında bir yerde<U:000A>mutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
+      "original_text": "Alevin yakınlarında bir yerde<U:000A>mutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
+      "original_tokenized_text": "Alevin yakınlarında bir yerde<U:000A>mutlaka bir Rüya Noktası olmalı!<C:0003,0001,><C:0000,0004,><C:0001,0001,><C:0001,0004,>Yangını durdurmak için onu bulalım!<C:0003,0001,>",
       "raw_full_hex": "41006C006500760069006E002000790061006B0031016E006C006100720031016E006400610020006200690072002000790065007200640065000A006D00750074006C0061006B006100200062006900720020005200FC007900610020004E006F006B00740061007300310120006F006C006D0061006C00310121000E000300010000000E000000040000000E000100010000000E00010004000000590061006E00670031016E00310120006400750072006400750072006D0061006B0020006900E70069006E0020006F006E0075002000620075006C0061006C0031016D0021000E000300010000000000"
     },
     "9": {
@@ -71,24 +71,24 @@
       "raw_full_hex": "0E000700000000000E000100010000000E00010004000000450076006500740021000E000300000002001E000000"
     },
     "10": {
-      "text": "Öteki ikisini de\nsöndürün! İleri!<C:0003,0001,>",
-      "tokenized_text": "Öteki ikisini de\nsöndürün! İleri!<C:0003,0001,>",
-      "original_text": "Öteki ikisini de\nsöndürün! İleri!<C:0003,0001,>",
-      "original_tokenized_text": "Öteki ikisini de\nsöndürün! İleri!<C:0003,0001,>",
+      "text": "Öteki ikisini de<U:000A>söndürün! İleri!<C:0003,0001,>",
+      "tokenized_text": "Öteki ikisini de<U:000A>söndürün! İleri!<C:0003,0001,>",
+      "original_text": "Öteki ikisini de<U:000A>söndürün! İleri!<C:0003,0001,>",
+      "original_tokenized_text": "Öteki ikisini de<U:000A>söndürün! İleri!<C:0003,0001,>",
       "raw_full_hex": "D600740065006B006900200069006B006900730069006E0069002000640065000A007300F6006E006400FC007200FC006E002100200030016C0065007200690021000E000300010000000000"
     },
     "11": {
-      "text": "Bir tane kaldı!\nNeredeyse bitti!<C:0003,0001,>",
-      "tokenized_text": "Bir tane kaldı!\nNeredeyse bitti!<C:0003,0001,>",
-      "original_text": "Bir tane kaldı!\nNeredeyse bitti!<C:0003,0001,>",
-      "original_tokenized_text": "Bir tane kaldı!\nNeredeyse bitti!<C:0003,0001,>",
+      "text": "Bir tane kaldı!<U:000A>Neredeyse bitti!<C:0003,0001,>",
+      "tokenized_text": "Bir tane kaldı!<U:000A>Neredeyse bitti!<C:0003,0001,>",
+      "original_text": "Bir tane kaldı!<U:000A>Neredeyse bitti!<C:0003,0001,>",
+      "original_tokenized_text": "Bir tane kaldı!<U:000A>Neredeyse bitti!<C:0003,0001,>",
       "raw_full_hex": "4200690072002000740061006E00650020006B0061006C006400310121000A004E006500720065006400650079007300650020006200690074007400690021000E000300010000000000"
     },
     "12": {
-      "text": "Artık ilerleyebiliriz!\nHaydi, gitmeliyiz!<C:0003,0001,>",
-      "tokenized_text": "Artık ilerleyebiliriz!\nHaydi, gitmeliyiz!<C:0003,0001,>",
-      "original_text": "Artık ilerleyebiliriz!\nHaydi, gitmeliyiz!<C:0003,0001,>",
-      "original_tokenized_text": "Artık ilerleyebiliriz!\nHaydi, gitmeliyiz!<C:0003,0001,>",
+      "text": "Artık ilerleyebiliriz!<U:000A>Haydi, gitmeliyiz!<C:0003,0001,>",
+      "tokenized_text": "Artık ilerleyebiliriz!<U:000A>Haydi, gitmeliyiz!<C:0003,0001,>",
+      "original_text": "Artık ilerleyebiliriz!<U:000A>Haydi, gitmeliyiz!<C:0003,0001,>",
+      "original_tokenized_text": "Artık ilerleyebiliriz!<U:000A>Haydi, gitmeliyiz!<C:0003,0001,>",
       "raw_full_hex": "41007200740031016B00200069006C00650072006C00650079006500620069006C006900720069007A0021000A00480061007900640069002C0020006700690074006D0065006C006900790069007A0021000E000300010000000000"
     },
     "13": {
