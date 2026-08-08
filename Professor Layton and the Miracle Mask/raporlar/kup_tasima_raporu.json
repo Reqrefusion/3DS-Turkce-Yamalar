@@ -1,0 +1,114 @@
+{
+  "tool_version": "1.0.0",
+  "files": 1240,
+  "texts": 15689,
+  "translated_texts": 14657,
+  "missing_kup_files": [],
+  "source_mismatches": [],
+  "missing_kup_ids": [],
+  "extra_kup_ids": [],
+  "recovered_kup_files": [
+    "00/00_000020.xs"
+  ],
+  "control_code_warnings": [
+    {
+      "file": "00/00_002020.xs",
+      "id": "text000005",
+      "original_codes": [
+        "<T>",
+        "<M3/1/2/15>",
+        "<W>",
+        "<W>"
+      ],
+      "translation_codes": [
+        "<T>",
+        "<M3/1/2/15>",
+        "<W>"
+      ]
+    },
+    {
+      "file": "01/01_010180.xs",
+      "id": "text000005",
+      "original_codes": [
+        "<T>",
+        "<M5/2/1>"
+      ],
+      "translation_codes": [
+        "<T>",
+        "<M5/2/1/45>"
+      ]
+    },
+    {
+      "file": "04/04_040200.xs",
+      "id": "text000015",
+      "original_codes": [
+        "<V0130>",
+        "<T>",
+        "<M4/1/1>",
+        "</V>"
+      ],
+      "translation_codes": [
+        "<V0130>",
+        "<T>",
+        "<M4/1/2>",
+        "</V>"
+      ]
+    },
+    {
+      "file": "09/09_090120.xs",
+      "id": "text000022",
+      "original_codes": [
+        "<V0180>",
+        "<T>",
+        "<M1/2/1>",
+        "<L1.6>",
+        "<M5/2/1/45>",
+        "</V>"
+      ],
+      "translation_codes": [
+        "<V0180>",
+        "<T>",
+        "<M1/2/1>",
+        "</V>"
+      ]
+    },
+    {
+      "file": "09/09_090160.xs",
+      "id": "text000009",
+      "original_codes": [
+        "<V0070>",
+        "<T>",
+        "<M6/2/1>",
+        "<L1.3>",
+        "<L5.3>",
+        "<M5/2/1/45>",
+        "</V>"
+      ],
+      "translation_codes": [
+        "<V0070>",
+        "<T>",
+        "<M6/2/1>",
+        "<L5.3>",
+        "<M5/2/1/45>",
+        "</V>"
+      ]
+    },
+    {
+      "file": "09/09_090160.xs",
+      "id": "text000010",
+      "original_codes": [
+        "<V0080>",
+        "<T>",
+        "<M4/2/1/45>",
+        "<L1.9>",
+        "</V>"
+      ],
+      "translation_codes": [
+        "<V0080>",
+        "<T>",
+        "<M4/2/1/45>",
+        "</V>"
+      ]
+    }
+  ]
+}

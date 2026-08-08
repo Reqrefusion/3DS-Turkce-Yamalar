@@ -1,0 +1,26 @@
+{
+  "tool_version": "2.0.0",
+  "automated_unit_tests": 11,
+  "synthetic_plainfa": {
+    "manifest_roundtrip": "byte-identical",
+    "generic_replacement": "verified",
+    "direct_xscr_project_injection": "verified",
+    "path_traversal_guards": "verified"
+  },
+  "full_xs_simulation": {
+    "clean_xs_files": 1240,
+    "unique_texts": 15689,
+    "translated_texts": 14657,
+    "extract_pack_roundtrip": "byte-identical",
+    "ready_xs_and_project_outputs": "byte-identical",
+    "translated_xs_verified_inside_fa": 1240,
+    "clean_simulation_sha256": "329f9daaf33f0a68eb3f3fa95fbc29b6b2fff829ea1b013dca55d64823522de7",
+    "translated_simulation_sha256": "e29c4f48e38e1eab25c953d3285639dde35b3255b2fe79ff70ef31c17234a977"
+  },
+  "real_lt5_uk_fa": {
+    "expected_entries_from_primary_source": 2295,
+    "provided_by_user": false,
+    "byte_exact_roundtrip_tested": false,
+    "next_validation": "Run fa-verify --deep-xs, fa-extract, fa-pack and cmp on the user's clean lt5_uk.fa."
+  }
+}
