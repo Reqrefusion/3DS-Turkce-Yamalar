@@ -1,0 +1,152 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+4,SuccessM0-0,Isn't the night view amazing from here?,"La vue de nuit est manifique, non ?",Ist die Aussicht von hier nichtd toll?,"Che vista magnifica, vero?",La vista desde aquí es maravillosa.,Buradan gece manzarası harika görünmüyor mu?
+5,SuccessM0-1,"Yes, it's fabulous.","Oui, c'est splendide.","Ja, sie ist wirklich fantastisch.","Sì, è meravigliosa.","Sí, es preciosa.","Evet, muhteşem."
+6,SuccessM1-0,"Well, you look absolutely fabulous to me.","Pour moi, tu es encore plus splendide.","Nun, du siehst aber auch ganz fantastisch aus.","Per me, tu sei ancora
+più magnifica.",Esta noche estás preciosa.,Bence asıl muhteşem görünen sensin.
+7,SuccessM1-1,Heehee! Thanks!,i{TAG_1} i{TAG_2} i ! Merci !,Hihi? Danke für das Kompliment!,Oh! Grazie!,¡Uy! Gracias. Qué amable.,Hihi! Teşekkürler!
+8,SuccessM2-0,"By the way, there's something important
+I have to ask...","Au faitt, je dois te demander quelque chose
+d'important...",Ich müsste dich etwas sehr Wichtiges fragen...,"A proposito, volevo chiederti una cosa...","Por cierto, tengo que preguntarte algo...","Bu arada, sana sormam gereken önemli bir şey var..."
+9,SuccessM2-1,What?,Quoi donc ?,Was denn?,Cosa?,¿El qué?,Ne?
+10,SuccessM3-0,Will you marry me?,Tu veux m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+11,SuccessM3-1,{TAG_1}Why{TAG_2} {TAG_3}yes!,Oui ! Avec joie !,"Ja, ich will!",Ne sarei felice!,¡Por supuesto!,{TAG_1}Evet{TAG_2} {TAG_3}isterim!
+12,SuccessF0-0,Isn't the view stunning?,"La vue est manifique, tu ne trouves pas ?",Ist die Aussicht nicht beeindruckend?,"Un panorama da togliere il fiato, vero?",Esta vista quita el aliento. ¿Verdad?,Manzara nefes kesici değil mi?
+13,SuccessF0-1,Sure...,"Oui, c'est vrai.",Allerdings...,Puoi dirlo forte...,Sí...,Evet...
+14,SuccessF1-0,"Who do you prefer, me or the view?","Et si tu avais le choix entre la vue et moi,
+tu prendrais quoi ?",Was ist schöner. Die Aussicht {TAG_1}hier? {TAG_2}Oder ich?,"Preferisci me o questa splendida
+vista notturna?",¿Qué te gusta más? La vista o yo.,"Peki hangisini tercih edersin: beni mi, manzarayı mı?"
+15,SuccessF1-1,"You, without a doubt!","Toi, sans aucun doute !",{TAG_1}Du? {TAG_2}natürlich!,"Preferisco te, senza dubbio!","¡Tú, sin duda!",Hiç şüphesiz seni!
+16,SuccessF2-0,"That's good, because I have something
+to ask you...","Tant mieux, parce que j'ai quelque chose
+à te dire...","Das ist gut, denn ich wollte dich etwas fragen...","Sono felice di saperlo, perché ho una cosa
+da chiederti...",Tengo que decirte una cosa...,"İyi, çünkü sana sormak
+istediğim bir şey var..."
+17,SuccessF2-1,What?,Quoi donc ?,Wassdenn?,Cosa?,¿El qué?,Ne?
+18,SuccessF3-0,Will you marry me?,Veux-tu m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+19,SuccessF3-1,I'd love to!,Avec joie !,Liebend gern!,Certo che sì!,¡Pues claro!,Çok isterim!
+20,FailureContinueM0-0,Sorry? What was that?,Pardon ? Je n'ai pas compris !,Bitte? Washast dugesagt?,Come? Hai dettoqualcòsa?,¿Que? ¿Que has dicho?,Efendim? Ne dedin?
+21,FailureContinueM0-1,Oh... Nothing.,"Ah... Non, ri hein...",{TAG_1}Eh... {TAG_2}Gar nichts.,"No, niente...",Nada{TAG_1} nada...,Aa... Hiç.
+22,FailureContinueF0-0,Huh? What did you say?,Cot ment ? Quess que t'as dit ?,{TAG_1}Hmmm? {TAG_2}Washast dugesagt?,Eh? Cosa hai detto?,¿Has dicho algo?,Ha? Ne dedin?
+23,FailureContinueF0-1,Oh... never mind.,"Euh... non, ri hein.",{TAG_1}Eh... {TAG_2}Vergiss es.,Oh... Non importa.,No no...,Aa... Boş ver.
+24,FailureWaiterM0,Oh no. We're fine{TAG_1} thank you.,"Ah, nous n'avons besoin de rien, merci.","{TAG_1}Oh, {TAG_2}nein. Bei uns ist alles in {TAG_3}Ordnung. {TAG_4}Danke.",Non abbiamo ancora deciso...,Gracias. No necesitamos nada.,"Yok, biz iyiyiz{TAG_1} teşekkürler."
+25,FailureWaiterM1,What were you saying?,Quess que tu disais ?,Washast du gerade gesagt?,"Scusa, stavi dicendo?",¿Qué decías?,Ne diyordun?
+26,FailureWaiterM2,"Oh, nothing...","Ah, j'ai oublié...",{TAG_1}Ach {TAG_2}nichts...,"Oh, niente...","Ah, nada...","Aa, hiç..."
+27,FailureWaiterF0,"Sorry, didn't mean to call you.","Désolée, je n'ai appelé personne.","Tut mir leid, das war keine Absicht.",Non abbiamo ancora ordinato...,Lo siento. No quería llamarle.,"Pardon, sizi çağırmak istememiştim."
+28,FailureWaiterF1,What were you saying?,Quess que tu disais ?,Washast du gerade gesagt?,Stavi dicendo?,¿Qué estabas diciendo?,Ne diyordun?
+29,FailureWaiterF2,Nothing important...,Rien d'important...,War nicht so wichtig...,Niente di importante...,No era nada...,Önemli bir şey değil...
+30,FailureWaiterW0,Would you like to order something?,Que désirez-vous ?,Würden Sie gern etwas bestellen?,Desiderate ordinarequalcòsa?,¿Les gustaría pedir algo?,Bir şey sipariş etmek ister misiniz?
+31,FailureWaiterW1,Pardon me.,Veuillez m'excuser.,Verzeihung.,Vi porgo le mie scuse.,Disculpe.,Affedersiniz.
+32,CommonM0-0,I've been here before with {TAG_1}.,Je suis déjà venue ici avec {TAG_1}.,Ich war schon mal mit {TAG_1} hier.,Qui c'ero già stata con {TAG_1}.,Hace poco vine aquí con {TAG_1}.,Daha önce {TAG_1} ile buraya gelmiştim.
+33,CommonM0-1,"Oh, really?",Ah bon ?,"{TAG_1}Oh, {TAG_2}tat {TAG_3}sächlich?","Oh, davvero?",¿En serio?,"Aa, gerçekten mi?"
+34,CommonM1-0,"{TAG_1} really recommended the
+menu.",{TAG_1} m'a recommandé cet endroit.,"{TAG_1} sagt, das Essen hier ist tttoll.",{TAG_1} adora questo ristorante!,{TAG_1} me recomendó este sitio.,{TAG_1} buranın yemeklerini özellikle tavsiye etmişti.
+35,CommonM1-1,I see...,"Ah, c'est vrai ?",Aha...,Ma guarda...,Ya veo...,Anlıyorum...
+36,CommonF0-0,I've been here before with {TAG_1}.,Je suis déjà venu ici avec {TAG_1}.,Ich war schon mal mit {TAG_1} hier.,Qui c'ero già stato con {TAG_1}.,Hace poco estuve aquí con {TAG_1}.,Daha önce {TAG_1} ile buraya gelmiştim.
+37,CommonF0-1,Really?,Ah bon ?,Wirklich?,Davvero?,¿De verdad?,Gerçekten mi?
+38,CommonF1-0,{TAG_1} really likes the food here.,"{TAG_1} a dit que c'était délicieux, ici.",{TAG_1} mag das Essen hier sehr.,{TAG_1} adora questo ristorante.,"A {TAG_1} le encanta la comida que
+ponen aquí.",{TAG_1} buranın yemeklerini çok seviyor.
+39,CommonF1-1,That's nice...,OK... Super...,{TAG_1}Klingtd {TAG_2}doch toll...,Sono felice di saperlo...,Qué bien...,Ne güzel...
+40,WalletM0-0,I think I may have forgotten something...,J'ai l'impression d'avoir oublié quelque chose...,Ich glaube ich habe etwas vergessen...,Mi sa che ho dimenticato qualcòsa...,Creo que se me ha olvidado algo...,Galiba bir şeyi unutmuş olabilirim...
+41,WalletM0-1,"Well, don't worry.",Ah oui ?,Nur keine Sorge.,"Ah, davvero?","Bueno, no te preocupes...","Neyse, dert etme."
+42,WalletM1-0,"It's pretty pricey here, isn't it?","Ça a l'air cher, ici.",Ganz schön gesalzene Preise {TAG_1}hier. {TAG_2}Wass?,"Questo è il ristorante più caro della città, vero?",Este sitio es un pelín caro. ¿No?,"Burası epey pahalı, değil mi?"
+43,WalletM1-1,You're telling me!,Je ne te le fais pas dire...,Wie rechtd du hast!,Proprio così!,La verdad es que sí.,Hem de nasıl!
+44,WalletM2-0,The menu looks quite expensive.,"Ça n'a pas l'air donné, ici.",Das Essen wirkt ziemlich toier hier...,I piatti del menu sono tutti carissimi.,El menú parece costar bastante.,Menü oldukça pahalı görünüyor.
+45,WalletM2-1,"Don't worry, I can cope...","Oui, c'est vrai...","Keine Sorge, das passt schon...","Non preoccuparti di questo, ordina tutto
+quello che vuoi...",No te preocupes. Pagoyo.,"Merak etme, hallederim..."
+46,WalletM3-0,The food looks a bit fancy.,"On dirait que c'est luxueux, ici.",Das Essen sieht recht ausgefallen aus.,Il menu è così elaborato...,La comida de aquí parece muy refinada.,Yemekler epey gösterişli görünüyor.
+47,WalletM3-1,It sure does.,C'est certain.,Auf jeden Fall.,Lo penso anchìo.,Ya te digo.,Kesinlikle öyle.
+48,WalletM_Failure0,"I just remembered, I forgot my purse!
+I have to go back and get it!","Ah ! J'ai oublié mon portt-monnaie !
+Il faut que j'aille le chercher !",Ich hab mein Geld vergessen! Muss es holen gehen!,"Ho dimenticato la borsetta!
+Devo tornare a prenderla!",¡Meehe olvidado la cartera! Voy a buscarla.,"Aklıma geldi, cüzdanımı unutmuşum!
+Gidip almam lazım!"
+49,WalletM_Failure1,Er... OK.,Ah... D'accord.,{TAG_1}Em... {TAG_2}Okäi.,Oh... Come vuoi.,"Ah, vale...",Şey... Tamam.
+50,WalletF0-0,I think I might've forgotten something...,Je crois bien que j'ai oublié un truc...,Ich glaube ich habe was vergessen...,Temo di aver dimenticato qualcòsa...,Creo que me he olvidado algo...,Galiba bir şeyi unutmuş olabilirim...
+51,WalletF0-1,Really? Never mind.,Ah bon ?,Wirklich? Machtd doch nichts.,Davvero? Non ti preoccupare.,"¿En serio? Bueno, no pasa nada.","Gerçekten mi? Neyse, boş ver."
+52,WalletF1-0,"This place is quite fancy, isn't it?","Ça n'a pas l'air donné, ici.",Eine ganz schön exquisite Lokali tähtchier. Oder?,È davvero un posto di granclasse!,Este sitio parece muy lujoso. ¿Verdad?,"Burası epey şık, değil mi?"
+53,WalletF1-1,I know.,Je sais.,Das stimmt wohl.,Lo penso anchìo.,Pues sí.,Biliyorum.
+54,WalletF2-0,"The menu seems a bit expensive, doesn't it?","Ça a l'air cher, ici.",Das Essen sieht recht toier {TAG_1}aus. {TAG_2}Oder?,"Il menu è davvero caro, non trovi?",El menú es algo caro.,"Menü biraz pahalı görünüyor, değil mi?"
+55,WalletF2-1,Don't worry.,C'est bien vrai {TAG_1}ça.,Nur keine Sorge.,Non farci caso.,No te preocupes.,Merak etme.
+56,WalletF3-0,"This food is a bit fancy, isn't it?","Ça ne serait pa un peu luxueux, ici ?",Das Essen ist ziemlich ausgefallen. Oder?,I piatti del menu sembrano molto elaborati!,"La comida es muy refinada, ¿no?","Bu yemek epey gösterişli, değil mi?"
+57,WalletF3-1,It should be.,Ça a l'air. Ou i.,Das will ich doch hoffen.,Ne sono convinta.,"Bueno, no me extraña.",Öyle olması lazım.
+58,WalletF_Failure0,"I just remembered! I forgot my wallet!
+I have to go and get it!","Ah ! Je viens de me souvenir que j'avais oublié
+mon portt-monnaie. Il faut que j'aille le chercher !",Mein Geld! Ich hab's vergessen! Gleich wieder da!,"Accidenti! Ho dimenticato il portafogli!
+Devo tornare a prenderlo!","¡Meehe olvidado la cartera!
+Tengo que volver a buscarla.","Aklıma geldi! Cüzdanımı unutmuşum!
+Gidip almam lazım!"
+59,WalletF_Failure1,Er... OK.,Ah... OK.,{TAG_1}Eh... {TAG_2}Okäi.,Oh... Va bene.,"¿Eh? Bu... Bueno, vale.",Şey... Tamam.
+60,NoseHairM0-0,"Do you HAIR for something else
+off the menu?","Il y a un poil... Euh, non, ri hein...",Ein Haar {TAG_1}ach {TAG_2}nein... Schon gut.,Vuoi forse ordinare un altro PELO?,"Tienes un pelo{TAG_1} Nada, olvídalo.","Burnunda bir kıl... Şey, boş ver."
+61,NoseHairM0-1,What?,Quoi ?,Wass?,Cosa?,¿Que?,Ne?
+62,NoseHairM1-0,"I mean...
+Do you SCISSORS anything you'd like?","Des ciseaux ?
+Euh, j'ai rien dit...","Eine Schere{TAG_1}
+Nein, ich hab nichts gesagt.","Volevo dire... C'è qualcosa che vorresti
+ancora TAGLIARE?",Únas tijeritas{TAG_1} No me hagas caso.,"Makas... Yok, bir şey demedim."
+63,NoseHairM1-1,Huh?,Hein ?,{TAG_1}Hä?,Che ti prende?,¿Como?,Ha?
+64,NoseHairM2-0,Are you going to TWEEZE a dessert?,"Une pince à épiler ?
+Euh, je n'ai rien dit.","Mit einer Pinzette{TAG_1}
+{TAG_2}eh. {TAG_3}Vergiss es.","Beh sì, qui fanno delle ottime PINZETTE...",Quizá con unas pinzas{TAG_1} Déjalo.,"Cımbız... Şey, boş ver."
+65,NoseHairM2-1,What the?,Cot ment ?,Was zum...,Si può sapere cosài?,¿Que dices?,Ne oluyor?
+66,NoseHairM3-0,"I mean...
+Do you NOSE what you want to do after?","Ton nez ?
+Non, ri hein.","Deine Nase{TAG_1}
+Ach, nichts...","No, è che il NASO vuole che io abbia
+ancora fame...",En tu nariz tienes{TAG_1} Ay madre...,"Yani... Burnun... Yok, hiçbir şey."
+67,NoseHairM3-1,Say again?,Tu peux répéter ?,Washast du gesagt?,"Insomma, parla chiaro!",¿El qué?,Bir daha söyler misin?
+68,NoseHairM_Failure0,"Um...you have a nose hair
+sticking out, darling...",Hum... t'as des poils qui sortent du nez !,"Da schaut ein Haar aus deiner Nase
+heraus, mein Liebster...","Ti si vedono i peli del naso
+e dovresti toglierli...",Estoo{TAG_1}. Te sale un pelo de la nariz.,"Şey... Burnundan bir kıl çıkmış, canım..."
+69,NoseHairM_Failure1,Eek!,Ah !,{TAG_1}Ah!,Argh!,¡Ah!,Aaa!
+70,NoseHairF0-0,"Is HAIR anything else you'd like from the
+menu?","Tas des poils, là...
+Euh, non, ri hein.","Da ist ein Haar{TAG_1}
+Ach{TAG_2} vergiss es.",Vuoi forse ordinare un altro PELO?,Tienes un pelo ahí{TAG_1} Nada nada.,"Şurada bir kıl var... Şey, boş ver."
+71,NoseHairF0-1,Eh?,Hein ?,{TAG_1}Hmmm?,Cosa?,¿Que?,Ha?
+72,NoseHairF1-0,"I mean...
+Would you like to try the SCISSOR salad?","Tas pas besoin de ciseaux ?
+Euh, non, ri hein...","Brauchst du vielleicht eine Schere?
+Ach nein, schon gut...","Volevo dire... C'è qualcosa che vorresti
+ancora TAGLIARE?",Quizá con unas tijeritas{TAG_1} Olvídalo.,"Makas lazım mı... Şey, yok, bir şey demedim."
+73,NoseHairF1-1,Are you OK?,Quess que tu dis ?,Alles in Ord nung mittd dir?,Che ti prende?,¿Que dices?,İyi misin?
+74,NoseHairF2-0,"Can you pass me the pepper, TWEEZE?","Tu veux une pince à épiler ?
+Euh, j'ai rien dit.","Interesse an einer Pinzette?{TAG_1}
+{TAG_2}Hümpf, {TAG_3}{TAG_4}hab nichts gesagt.","Beh sì, qui fanno delle ottime PINZETTE...","Con únas pinzas{TAG_1} Puf, nada.","Cımbız... Yok, boş ver."
+75,NoseHairF2-1,What was that?,Bon...,Wassmeinst du denn?,Si può sapere cosài?,No te sigo.,Ne dedin?
+76,NoseHairF3-0,"It's nice HAIR, isn't it?","Et ton nez ?
+Non. Oublie ça...","Und tdeine Nase...
+Schon gut, vergiss es bitte.","No, è che il NASO vuole che io abbia
+ancora fame...","Justo en tu nariz{TAG_1} Ay, qué apuro.","Burnun... Şey, boş ver."
+77,NoseHairF3-1,"Yes, it's... {TAG_1}What did you say?",Kesskilia ?,Was ist denn bloß los?,"Insomma, parla chiaro!",¿Pero qué pasa?,"Evet, güzel... {TAG_1}Ne dedin?"
+78,NoseHairF_Failure0,"Er... I can see you have a
+hair peeking out of your nose!",Euh... tu as des poils qui sortent du nez !,"Ich versuche dir zu sagen, dass da ein Haar
+aus deiner Naseragt!","Ti si vedono i peli del naso
+e dovresti toglierli...",Estoo{TAG_1}. Te sale un pelo de la nariz.,"Şey... Burnundan dışarı
+çıkan bir kıl görüyorum!"
+79,NoseHairF_Failure1,Wah!,Ah !,Gah!,Argh!,¡Ay!,Aaa!
+80,BadTasteM0-0,The food here is so rich.,"La nourriture a du goût, ici.",Ganz schön große Portionen hier.,Il sapore di questi piatti è davvero particolare.,¡Qué rica está la comida!,Buranın yemekleri çok yoğun ve doyurucu.
+81,BadTasteM0-1,Isn't it?,C'est vrai.,Allerdings.,Lo penso anchìo.,¡Sí!,Değil mi?
+82,BadTasteM1-0,Would you like some of my salad?,Tu veux goûter ma salade ?,Möchtest du etwas von meinem Sallat abhaben?,Vuoi un po' della mia insalata?,¿Quieres probar mi ensalada?,Salatamdan biraz ister misin?
+83,BadTasteM1-1,Sure.,Bien sûr.,Gern.,Volentieri.,Vale.,Tabii.
+84,BadTasteM2-0,I wish I could eat dessert first.,Je n'ai plus de place pour le dessert.,"Jetzt hab ich so viel gegessen, dass gar kein
+Platz mehr fürs Dessert ist.",Mi andrebbe proprio un bel dessert.,He comido tanto que no tengo sitio para el postre.,Keşke tatlıyı önce yiyebilseydim.
+85,BadTasteM2-1,I know.,Moi non plus...,Geht mir genau so.,"Già, anche a me.",A mí me pasa lo mismo.,Biliyorum.
+86,BadTasteM3-0,Do you need anything to drink?,Tu veux boire quelque chose ?,Möchtestd du etwas trinken?,Vuoi qualcosa da bere?,¿Quieres beber algo?,İçecek bir şey ister misin?
+87,BadTasteM3-1,I'm OK.,"Non, ça va.",Alles bestens bei mir.,"No, sto bene così.","No, estoy bien.","Yok, iyiyim."
+88,BadTasteM_Failure0,I guess we should head home soon...,Je dois bientôt rentrer...,Ich glaube wir sollten langsam heim gehen...,Forse è ora di tornare a casa...,Es hora de volver...,Sanırım yakında eve dönsek iyi olacak...
+89,BadTasteM_Failure1,Oh... I see.,Ah... OK.,{TAG_1}Oh... {TAG_2}Verstehe.,Oh... Capisco.,"Ah, vale...",Aa... Anladım.
+90,BadTasteF0-0,The food here has such a strong taste. ,"Au moins, ça a du goût, ici.","Das Essen hier hat wirklich einen sehr
+dominanten Geschmmack. ",Il sapore di questi piatti è davvero unico.,La comida está deliciosa.,Buranın yemeklerinin tadı epey yoğun.
+91,BadTasteF0-1,Doesn't it?,C'est vrai.,Oh ja!,Lo penso anchìo.,Sí.,Değil mi?
+92,BadTasteF1-0,Would you like some of my salad?,Tu veux goûter ma salade ?,"Möchtest du ein wenig von meinem Sallat
+abhaben?",Vuoi un po' della mia insalata?,¿Quieres probar mi ensalada?,Salatamdan biraz ister misin?
+93,BadTasteF1-1,I can try a little.,"Oui, pourquoi pas ?",Ein klein wenig vielleicht.,Volentieri.,¡Vale!,Biraz tadabilirim.
+94,BadTasteF2-0,How do you feel about dessert?,Je prendrais bien hun bon dessert...,"Ich hab mich so vollgestopft, dass gar kein
+Nachtisch mehr reinpasst.",Che ne diresti di un bel dessert?,"Estoy hasta arriba, voy a tener que pasar del postre...",Tatlıya ne dersin?
+95,BadTasteF2-1,I'm not sure I should.,"Oui, moi aussi...",Ich hab auch keinen Platz mehr.,Meglio di no...,"Sí, yo igual.",Pek yemesem daha iyi galiba.
+96,BadTasteF3-0,Would you like anything else to drink?,Tu n'as pas soif ?,Möchtest du noch etwas trinken?,Vuoi qualcosa da bere?,¿No tienes sed?,Başka bir şey içmek ister misin?
+97,BadTasteF3-1,"No, I'm fine.","Non, ça va.","Nein, vielen Dank.","No, sto bene così.","No, la verdad es que no.","Hayır, iyiyim."
+98,BadTasteF_Failure0,I guess we should leave...,Je vais bientôt devoir rentrer...,Ich glaube wir sollten gehen...,Forse è ora di tornare a casa...,Ya es hora de volver...,Sanırım artık çıksak iyi olacak...
+99,BadTasteF_Failure1,I suppose so...,"Ah, d'accord.","Ja, sollten wir wohl...",Oh... Capisco.,"Ah, vale.",Galiba öyle...

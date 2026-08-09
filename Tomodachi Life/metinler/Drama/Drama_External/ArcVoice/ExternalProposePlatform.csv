@@ -1,0 +1,117 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,IntroM0,I had a great time today!,J'ai passé un bon moment aujourd'hui !,Der heutige Tag hat mir richtig Spaß gemacht!,Mi sono davvero divertito oggi!,¡Hoy me lo he pasado muy bien!,Bugün çok eğlendim!
+1,IntroM1,Me too!,Moi aussi !,Mir auch!,Anchìo!,¡Yo también!,Ben de!
+2,IntroF0,I had a great time today!,J'ai passé un excellent moment aujourd'hui !,Das war toll heute!,"Mi sono davvero divertita, oggi!",¡Hoy me lo he pasado muy bien!,Bugün çok eğlendim!
+3,IntroF1,So did I!,Moi aussi.,Du sagst es!,"Sì, anchìo!",¡Y yo!,Ben de çok eğlendim!
+4,SuccessM0-0,It feels sad to go home...,"Je suis un peu triste de devoir rentrer
+à la maison...",Schade dass es jetzt nach Hause geht...,Non mi va di tornare a casa...,Me da pena tener que volver a casa...,Eve dönmek biraz hüzünlü geliyor...
+5,SuccessM0-1,Yeah...,Je sais...,Ja...,Già...,Y a mí...,Evet...
+6,SuccessM1-0,Would you still like to do something?,J'aurais voulu que ça ne s'arrête jamais...,Möchtest du noch was unternehmen?,Ti va di restare insieme un altro po'?,¿Te gustaría hacer algo más?,Hâlâ bir şeyler yapmak ister misin?
+7,SuccessM1-1,Heehee! Why not?,i{TAG_1} i ! C'est vrai.,Hihi! Warum nicht?,Perché no?,¡Claro! ¿Por qué no?,Hihi! Neden olmasın?
+8,SuccessM2-0,"Actually, I've been meaning to ask you
+something important...","En faitt, j'ai quelque chose d'important
+à te dire...",Eigentlich wollte ich dich noch etwas fragen...,"In realtà ho qualcosa di importante
+da chiederti...","La verdad es que tengo que preguntarte
+una cosa...","Aslında bir süredir sana önemli
+bir şey sormak istiyordum..."
+9,SuccessM2-1,What is it?,Quoi donc ?,Was gibt es denn?,Che cosa?,¿El qué?,Nedir?
+10,SuccessM3-0,Will you marry me?,Tu veux m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+11,SuccessM3-1,{TAG_1}Yes{TAG_2} Yes{TAG_3} Yes!,Oui ! Oui ! Oui !,Ja! Ja! Ja!,Sì! Sì! Sì!,¡Sí sí sí!,{TAG_1}Evet{TAG_2}! Evet{TAG_3}! Evet!
+12,SuccessF0-0,I feel a little sad the day's over{TAG_1}{TAG_2} don't{TAG_3} you?,"Je suis un peu triste à l'idée de devoir
+rentrer maintenant...","Schade dass der Tag schon vorbei ist, oder?","Ora che la giornata volge al termine, mi dispiace
+un po' dover tornare a casa.",Me da pena que se acabe el día...,"Günün bitmesi biraz hüzünlü{TAG_1}{TAG_2}, değil{TAG_3} mi?"
+13,SuccessF0-1,Yeah...,"Oui, moi aussi...",Ja...,"Sì, anche a me...",Y a mí...,Evet...
+14,SuccessF1-0,{TAG_1}Shall we do something{TAG_2} else?,"J'aurais bienh naimé qu'on reste un peu plus
+longtemps ensemble...",Wollen wir noch was anderes unternehmen?,Perché non stiamo insieme ancora un po'?,¿Quieres que hagamos otra cosa?,{TAG_1}Başka bir şey{TAG_2} daha yapalım mı?
+15,SuccessF1-1,That would be cool!,"Oui, moi aussi...",Das klingt super!,Per me va bene!,¡Estaría genial!,Harika olur!
+16,SuccessF2-0,"Actually, there's something I have to ask...","En faitt ? Je voulais te demander
+quelque chose...",Eigentlich würde ich dich gern etwas fragen...,"In realtà volevo chiederti una cosa molto
+importante...",Hay algo que quiero preguntarte...,Aslında sana sormam gereken bir şey var...
+17,SuccessF2-1,Huh?,Quoi donc ?,{TAG_1}Hmmm?,Cosa?,¿Eh?,Ha?
+18,SuccessF3-0,Will you marry me?,Veux-tu bien m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+19,SuccessF3-1,Of course!,Avec joie !,Natürlich möchte ich das!,Ma certo!,¡Por supuesto!,Tabii ki!
+20,FailureContinueM0-0,What? I couldn't hear you.,Pardon ? Je n'ai rien entendu !,Was? Ich hab dich nicht verstanden.,"Come, scusa? Non ho capito.",¿Que? No te he oído.,Ne? Seni duyamadım.
+21,FailureContinueM0-1,Never mind...,"Non, ri hein...",Schon gut...,Lascia perdere...,"Nada, olvídalo...",Boş ver...
+22,FailureContinueF0-0,Huh? I didn't hear you.,Hein ? Je ne t'ai pas entendue !,{TAG_1}Hmmm? {TAG_2}Ich hab dich nicht verstanden.,Eh? Non ho capito.,¿Qué has dicho?,Ha? Seni duyamadım.
+23,FailureContinueF0-1,"Oh, never mind.","Oh. Non, ri hein...","{TAG_1}Oh, {TAG_2}egal.","Oh, non importa.",No importa...,"Aa, boş ver."
+24,CommonM0-0,The train's late again...,"Le train est en retard, on dirait...",Der Zug hat schon wieder Verspätung...,Il treno è di nuovo in ritardo...,El tren llega tarde otra vez...,Tren yine gecikti...
+25,CommonM0-1,Aren't they always?,Comme d'habitude...,Hat er das nicht immer?,Sai che novità...,"Como siempre, ¿no?",Hep öyle değil mi zaten?
+26,CommonM1-0,"I saw {TAG_1} at this station the
+other day.","J'ai croisé {TAG_1} ici, l'autre jour.",Neulich war {TAG_1} hier am Bahnhof.,"L'altro giorno ho visto {TAG_1}
+qui alla stazione.","El otro día vi a {TAG_1} en
+la estación.",Geçen gün bu istasyonda {TAG_1} gördüm.
+27,CommonM1-1,"Oh, really?",Ah bon ?,Sag bloß!,"Oh, davvero?",¿En serio?,"Aa, gerçekten mi?"
+28,CommonF0-0,"The train's taking its time, isn't it?",Je me demande ce que fait le train...,"Das mit dem Zug dauert aber auch wieder, was?","Il treno se la sta prendendo comoda, eh?",Hayque ver lo que tarda el tren...,"Tren ağırdan alıyor, değil mi?"
+29,CommonF0-1,Yeah...,Moi aussi...,Ja...,Già...,Sí...,Evet...
+30,CommonF1-0,I saw {TAG_1} here recently.,"L'autre jour, j'ai vu {TAG_1} à la gare.",Neulich hab ich {TAG_1} hier gesehen.,"L'altro giorno ho incontrato
+{TAG_1} qui.",El otro día vi aquí a {TAG_1}.,Geçenlerde {TAG_1} burada gördüm.
+31,CommonF1-1,Did you?,Ah bon ?,Tatsächlich?,Davvero?,¿De verdad?,Öyle mi?
+32,DinnerM0-0,What are you going to eat when you get home?,"Tu vas manger quoi, en arrivant chez toi ?",Was isst du wenn du zu Hause ankommst?,Cosa mangerai di buono stasera?,¿Qué vas a comer cuando vuelvas a casa?,Eve gidince ne yiyeceksin?
+33,DinnerM0-1,I'll have to think...,Il faut que je réfléchisse...,Lass mich nachdenken...,Non ci ho ancora pensato...,No lo sé...,Bir düşünmem lazım...
+34,DinnerM1-0,Don't you think {TAG_1} {TAG_2} nice?,"C'est bon, {TAG_1}{TAG_2}, hein ?","{TAG_1} {TAG_2} toll, nicht wahr?",Anche tu adori {TAG_1}{TAG_2}?,¿A que {TAG_1} {TAG_2} {TAG_3} de rechupete?,Sence {TAG_1} {TAG_2} güzel olmaz mı?
+35,DinnerM1-1,Tasty!,Oui ! C'est un délice !,Lecker!,"Sì, da impazzire!",¡Ya te digo!,Nefis!
+36,DinnerM2-0,Don't you think {TAG_1} {TAG_2} nice?,Tu aimes {TAG_1}{TAG_2} ?,"{TAG_1} {TAG_2} toll, oder?",Anche tu adori {TAG_1}{TAG_2}?,"Me {TAG_1} {TAG_2} {TAG_3}.
+¿A ti no?",Sence {TAG_1} {TAG_2} güzel olmaz mı?
+37,DinnerM2-1,Tasty!,"Oui, bien sûr !",Lecker!,"Sì, da impazzire!",¡A mí también!,Nefis!
+38,DinnerM_Failure0,My train's here! See you next time!,Mon train est arrivé ! Je te laisse !,Mein Zug ist da! Bis zum nächsten Mal!,Il treno è arrivato! Ci vediamo!,Ya llega mi tren. ¡Hasta otro día!,Trenim geldi! Bir dahaki sefere görüşürüz!
+39,DinnerM_Failure1,Er... OK!,A... OK.,Em. Alles klar!,{TAG_1}Em... Va bene!,"Ah, vale...",Şey... Tamam!
+40,DinnerF0-0,What will you eat when you get home?,"Tu vas manger quoi, en arrivant chez toi ?",Was isst du wenn du zu Hause ankommst?,Cosa preparerai di buono per cena?,¿Qué vas a comer cuando llegues a casa?,Eve gidince ne yiyeceksin?
+41,DinnerF0-1,I'll have to see...,Je sais pa encore...,Muss ich mir noch überlegen...,Non ci ho ancora pensato...,Tengo que pensarlo...,Bakacağım artık...
+42,DinnerF1-0,{TAG_1} {TAG_2} might be nice...,"J'adore {TAG_1}{TAG_2}, pas toi ?","{TAG_1} {TAG_2} lecker, oder?",Magari {TAG_1}{TAG_2}...,"¿No te parece que {TAG_1} {TAG_2}
+{TAG_3} un manjar?",{TAG_1} {TAG_2} güzel olabilir...
+43,DinnerF1-1,Wouldn't {TAG_1}?,Si ! C'est un vrai délice !,Das stimmt allerdings!,Mi sembra una buona idea!,"Sí, tienes razón.",Öyle olmaz mı {TAG_1}?
+44,DinnerF2-0,{TAG_1} {TAG_2} might be nice...,"Rien ne vaut {TAG_1}{TAG_2}, hein ?","{TAG_1} {TAG_2} toll, was?",Magari {TAG_1}{TAG_2}...,"Me {TAG_1} {TAG_2} {TAG_3}.
+¿Y a ti?",{TAG_1} {TAG_2} güzel olabilir...
+45,DinnerF2-1,Wouldn't {TAG_1}?,Tout à fait !,Das stimmt allerdings!,Mi sembra una buona idea!,A mí también.,Öyle olmaz mı {TAG_1}?
+46,DinnerF_Failure0,That's my train. See you around!,C'est mon train. On se voit plus tard !,Das ist mein Zug. Man sieht sich!,Il treno è arrivato. Ci vediamo in giro!,Ese es mi tren. ¡Hasta luego!,Benim trenim bu. Görüşürüz!
+47,DinnerF_Failure1,"Oh... Bye, then!",Ah... À bientôt !,{TAG_1}Oh... {TAG_2}Mach's gut!,"Oh... A presto, all'ora!",¡Ah! Adiós...,Aa... O zaman hoşça kal!
+48,TVDramaM0-0,"That show's on today, isn't it?","Il y a une série à la télé, ce soir, non ?","Heute läuft wieder die Sendung, oder?","La nuova puntata va in onda oggi, vero?",Hoy echan esa serie tan chula. ¿Verdad?,"O dizi bugün yayınlanıyor, değil mi?"
+49,TVDramaM0-1,...I guess so.,Peut-être bien...,...Glaube schon.,Mi sembra di sì...,"Sí, es hoy.",...Sanırım.
+50,TVDramaM1-0,Do you know what time it's on?,"La série télé commence à quelle heure, déjà ?",Weißt du um wie viel Uhr sie losgeht?,Sai a che ora lo danno?,¿Sabes a qué hora echan la serie?,Saat kaçta başladığını biliyor musun?
+51,TVDramaM1-1,Well...,{TAG_1}Euh euh...,Nun...,{TAG_1}Em...,Pues...,Şey...
+52,TVDramaM2-0,Do you watch that show every week?,Tu regardes cette série toutes les semaines ?,Siehst du dir die Sendung jede Woche an?,Segui le puntate tutte le settimane?,¿Todas las semanas ves alguna serie?,O diziyi her hafta izliyor musun?
+53,TVDramaM2-1,Of course!,Bien sûr !,Aber natürlich!,Non mene perdo una!,Normalmente me veo unas cuantas...,Tabii ki!
+54,TVDramaM_Failure0,That's my train! See you!,Mon train est là. Je file !,Das ist mein Zug! Bis dann!,Ecco il treno! Ci vediamo!,Ese es mi tren. ¡Nos ve mos!,Trenim geldi! Görüşürüz!
+55,TVDramaM_Failure1,Er... Bye!,Ah... Ciao !,Eh... Tschüss!,{TAG_1}Em... Alla prossima!,A... Adiós.,Şey... Hoşça kal!
+56,TVDramaF0-0,That popular TV show is on today{TAG_1} right?,"C'est aujourd'hui que passe cette fameuse
+série, non ?",Heute läuft doch diese beliebte Fernsehsendung?,"Quella serie televisiva di cui tutti parlano va
+in onda oggi?","Hoy echan la serie de la que habla
+todo el mundo. ¿No?","Şu popüler dizi bugün yayınlanıyor{TAG_1}, değil mi?"
+57,TVDramaF0-1,I think so.,Peut-être...,Ich glaube schon.,Mi sembra di sì.,Sí.,Sanırım öyle.
+58,TVDramaF1-0,Do you know what time?,"Tu sais à quelle heure passe la série, au faitt ?",Weißt du um wie viel Uhr die Sendung losgeht?,Sai a che ora?,"¿A qué hora echa ban la serie?
+No me acuerdo.",Saat kaçta olduğunu biliyor musun?
+59,TVDramaF1-1,Erm...,{TAG_1}Euh...,Em...,{TAG_1}Em...,Estoo...,Şey...
+60,TVDramaF2-0,Do you watch that show every week?,Tu regardes cette série toutes les semaines ?,Siehst du dir diese Sendung jede Woche an?,"Non ti perdi una puntata di quella
+serie televisiva, vero?",¿Todas las semanas ves alguna serie?,O diziyi her hafta izliyor musun?
+61,TVDramaF2-1,Without fail!,Je ne manque pas un épisode !,Ich verpasse sie niemals!,Cascasse il mondo!,Sigo un par de ellas...,Hiç kaçırmam!
+62,TVDramaF_Failure0,My train arrived! See you!,Mon train est là. Je me sauve !,Mein Zug ist da! Mach's gut!,Il treno è arrivato! Ci vediamo!,Ahí llega mi tren. ¡Hasta luego!,Trenim geldi! Görüşürüz!
+63,TVDramaF_Failure1,"Eh? Bye, then...",Hein ? Ah... D'accord...,Eh? Mach's gut...,Eh? Ciao...,¿Eh? Adiós...,Ha? O zaman hoşça kal...
+64,LostTicketM0-0,Have you got your ticket?,Tas pris ton ticket ?,Hast du deine Fahrkarte dabei?,Ce l'hai il biglietto?,¿Hás picado el billete?,Biletin yanında mı?
+65,LostTicketM0-1,Right here.,"Oui, je l'ai.","Ja, hab ich.",Sì che ce l'ho.,Claro.,Burada.
+66,LostTicketM1-0,Is your ticket still valid?,Tas acheté ton ticket ?,Ist deine Fahrkarte denn noch gültig?,Il tuo biglietto è ancora valido?,¿Tienes el billete?,Biletin hâlâ geçerli mi?
+67,LostTicketM1-1,I think so.,Ou i... C'est bon.,Ich glaube schon.,Penso di sì.,"Sí, lo tengo aquí mismo.",Sanırım.
+68,LostTicketM2-0,"There are a lot of stairs to get to this
+platform, aren't there?","Il y avait beaucoup de marches à monter
+pour atteindre le quai, hein ?",Das waren viele Stufen bis hier her. Wass?,"Quante scale per arrivare qui, eh?","Hayque subir muchas escaleras para llegar
+al andén, ¿verdad?","Bu perona gelmek için epey
+merdiven çıkılıyor, değil mi?"
+69,LostTicketM2-1,Lots.,"Oui, ça y est...",Allerdings.,Decisamente troppe.,La verdad es que sí.,Hem de çok.
+70,LostTicketM_Failure0,I may have lost my ticket... I'll be right back.,Je crois que j'ai perdu mon ticket. Je reviens !,"{TAG_1}Oh! {TAG_2}Ich hab anscheinend meine Fahrkarte
+verloren... Bin gleich wieder da!",Devo aver perso il biglietto... Torno subito!,Creo que he perdido el billete. Ahora vuelvo.,Biletimi kaybetmiş olabilirim... Hemen dönerim.
+71,LostTicketM_Failure1,Er... OK.,Ah... OK.,Eh. Okäi.,{TAG_1}Em... Va bene.,"Ah, vale...",Şey... Tamam.
+72,LostTicketF0-0,You got a ticket?,Tas ton ticket ?,Hast du eine Fahrkarte?,Ce l'hai il biglietto?,¿Hás picado el billete?,Biletin var mı?
+73,LostTicketF0-1,Yes.,Oui.,Ja.,Sì.,Sí.,Evet.
+74,LostTicketF1-0,Did they check your ticket at the barrier?,Tu as bien pris ton ticket ?,Wurde deine Fahrkarte am Durchlass kontrolliert?,Ti sei ricordata di obliterare il biglietto?,¿Tienes el billete?,Geçitte biletini kontrol ettiler mi?
+75,LostTicketF1-1,Yes.,Oui.,Ja.,Sì.,"Sí, aquí lo tengo.",Evet.
+76,LostTicketF2-0,"There are a lot of stairs at this station{TAG_1}
+aren't there?",On a descendu un paquet d'escaliers.,"Gibt viele Treppen hier am Bahnhof, was?","Questa stazione ha troppe scale, non trovi?","Hayque subir muchas escaleras para llegar
+al andén, ¿verdad?","Bu istasyonda çok merdiven var{TAG_1}, değil mi?"
+77,LostTicketF2-1,I know.,"Oui, je sais.",Kann man wohl sagen.,"Sì, lo penso anchìo.",Pues sí.,Biliyorum.
+78,LostTicketF_Failure0,"Uh{TAG_1} oh! I may have lost my ticket...
+I'd better go find it.","Ah ! Je crois bien que j'ai perdu mon ticket.
+Je vai aller jeter un œil.","{TAG_1}Oh! {TAG_2}Ich glaub ich hab meine Fahrkarte verloren!
+Ich geh sie wohl besser suchen.","Oh no! Ho perso il biglietto...
+Devo sbrigarmi a trovarlo.","¡Uy! Me parece que he perdido el billete.
+Voy a buscarlo.","Ey{TAG_1}vah! Biletimi kaybetmiş olabilirim...
+Gidip arasam iyi olacak."
+79,LostTicketF_Failure1,Er... OK.,Ah... D'accord.,Eh. Alles klar.,Ah... OK.,"Ah, vale...",Şey... Tamam.

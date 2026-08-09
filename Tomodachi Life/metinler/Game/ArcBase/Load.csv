@@ -1,0 +1,593 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,Load_Dlg_NeedFormatArc,"Save data is corrupted
+and will be deleted.","Les données de sauvegarde sont
+corrompues et vont être effacées.","Die Speicherdaten sind fehlerhaft
+und müssen gelöscht werden.","I dati di salvataggio sono danneggiati
+e verranno eliminati.","Los datos de guardado están
+dañados y se van a borrar.","Kayıt verileri bozulmuş
+ve silinecek."
+1,Load_Dlg_FormatArcDoing,Deleting save data...,"Effacement des données
+de sauvegarde...",Speicherdaten werden gelöscht...,"Eliminazione dei dati di salvataggio
+in corso...",Borrando datos de guardado...,Kayıt verileri siliniyor...
+2,Load_Dlg_WriteArcDoing,Creating save data...,"Création des données
+de sauvegarde...",Speicherdaten erstellen...,"Creazione dei dati di salvataggio
+in corso...",Creando datos de guardado...,Kayıt verileri oluşturuluyor...
+3,Load_Dlg_NotifyLoadArcFailed,There is no save data.,Aucune donnée de sauvegarde.,Keine Speicherdaten gefunden.,Non ci sono dati di salvataggio.,No hay datos de guardado.,Kayıt verisi yok.
+4,Load_Dlg_CreateSdDataDoing,"Creating Tomodachi Life
+save data on the SD Card...","Création des données de
+sauvegarde de Tomodachi
+Life sur la carte SD...","Zusatzdaten für Tomodachi Life
+werden angelegt...
+Bitte die SD Card nicht entfernen.","Creazione dei dati aggiuntivi per
+Tomodachi Life sulla scheda
+SD in corso...","Creando datos adicionales de
+Tomodachi Life en la tarjeta SD...","SD Kartta Tomodachi Life
+kayıt verileri oluşturuluyor..."
+5,Load_Dlg_NotifyContinueWithoutSd,"Some features such as SpotPass
+are not available as the SD Card
+extra data cannot be used.","Certaines fonctionnalités telles
+que SpotPass sont indisponibles
+car les données additionnelles
+de la carte SD sont inutilisables.","Da Zusatzdaten auf SD Card nicht
+verwendet werden können, stehen
+einige Funktionen wie z. B.
+SpotPass nicht zur Verfügung.","Impossibile utilizzare i dati aggiuntivi
+della scheda SD.
+
+Le funzioni che richiedono una
+scheda SD, come ad esempio
+SpotPass, non saranno disponibili.","No se han podido leer los datos
+adicionales de la tarjeta SD.
+
+Se desactivarán las funciones que
+necesiten una tarjeta SD, como
+SpotPass.","SD Kart ek verileri kullanılamadığı için
+SpotPass gibi bazı özellikler
+kullanılamayacak."
+6,Load_Dlg_InvalidSdData,"Tomodachi Life extra data is
+corrupted and will now be reset.","Les données additionnelles
+de Tomodachi Life sont
+corrompues et vont être
+réinitialisées.","Die Zusatzdaten zu Tomodachi
+Life sind beschädigt und müssen
+neu erstellt werden.","I dati aggiuntivi per Tomodachi Life
+sono danneggiati e verranno eliminati.","Los datos adicionales de
+Tomodachi Life están dañados
+y no se pueden usar.
+
+Se crearán datos nuevos.","Tomodachi Life ek verileri
+bozulmuş ve şimdi sıfırlanacak."
+7,Load_Dlg_SdEjected,"The SD Card cannot be
+recognised.",L'accès à la carte SD a échoué.,"Es konnte nicht auf die
+SD Card zugegriffen werden.",Impossibile leggere la scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Kart tanınamıyor.
+8,Load_Dlg_Sd_MediaNotFound,"The SD Card cannot be
+recognised.",L'accès à la carte SD a échoué.,"Es konnte nicht auf die
+SD Card zugegriffen werden.",Impossibile leggere la scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Kart tanınamıyor.
+9,Load_Dlg_Dm_ConfirmCopy,"Tomodachi Life demo-version
+data has been found. Do you
+want to carry over this data?
+
+(After you've started the game,
+you won't be able to carry over
+demo-version data.)","Des données de la version démo de
+Tomodachi Life ont été trouvées.
+Voulez-vous importer ces données ?
+
+(Vous ne pourrez plus transférer ces
+données une fois le jeu commencé.)","Demoversion von Tomodachi
+Life gefunden. Speicherdaten
+von Demoversion übernehmen?
+(Nach Start des Spiels können die
+Daten der Demoversion nicht mehr
+importiert werden.)","È presente una versione demo di
+Tomodachi Life. Vuoi trasferire
+i dati della versione demo?
+
+Dopo aver iniziato a giocare non
+potrai più trasferire i dati della
+versione demo.","Se ha encontrado una versión de prueba
+de Tomodachi Life. ¿Quieres transferir
+sus datos?
+
+(Una vez iniciado el juego,
+ya no podrás transferir los datos
+de la versión de prueba.)","Tomodachi Life demo sürümüne ait
+veriler bulundu. Bu veriler
+aktarılacak mı?
+
+(Oyuna başladıktan sonra demo
+sürümü verilerini aktaramazsın.)"
+10,Load_Dlg_Dm_CopyDoing,"Copying demo-version data...
+
+Do not remove the SD Card
+or Game Card.","Copie des données
+de la version démo...
+
+Ne retirez ni la carte de jeu,
+ni la carte SD.","Daten der Demoversion werden
+kopiert. Bitte entferne nicht die
+SD Card/die Nintendo 3DS-Karte.","Copia dei dati della versione
+demo in corso...
+
+Non rimuovere la scheda
+di gioco o la scheda SD.","Copiando los datos de la versión
+de prueba...
+
+No extraigas la tarjeta SD ni la
+tarjeta de juego.","Demo sürümü verileri kopyalanıyor...
+
+SD Kartı veya Oyun Kartını
+çıkarmayın."
+11,Load_Dlg_Dm_CopySuccess,"Demo-version data was carried
+over.","Les données de la version démo
+ont été importées.","Daten der Demoversion wurden
+erfolgreich übertragen.","I dati della versione demo sono
+stati trasferiti.","Se han transferido los datos
+de la versión de prueba.",Demo sürümü verileri aktarıldı.
+14,Load_Dlg_Dm_NoCopy,"Tomodachi Life demo-version
+save data is corrupted.
+
+The game will begin without
+carrying over data.","Les données de sauvegarde de
+la version démo de Tomodachi
+Life sont corrompues.
+
+Le jeu va être lancé sans
+importation des données.","Die Speicherdaten zu Tomodachi Life:
+Demoversion sind beschädigt.
+
+Das Spiel wird ohne Übertragung
+der Speicherdaten gestartet.","I dati di salvataggio della versione
+demo di Tomodachi Life sono
+danneggiati.
+
+Il gioco inizierà senza trasferire
+i dati.","Los datos de la versión de prueba
+de Tomodachi Life están dañados.
+
+El juego va a comenzar
+sin transferir los datos.","Tomodachi Life demo sürümü
+kayıt verileri bozulmuş.
+
+Oyun, veriler aktarılmadan
+başlatılacak."
+15,Load_Dlg_Dm_NoFinishData,"The demo version has not been
+played to a point where the save
+data can be carried over.
+
+The game will begin without
+carrying over data.","Vous n'avez pas assez progressé
+dans la version démo pour avoir
+des données à importer.
+
+Le jeu va être lancé sans
+importation des données.","Die Demoversion wurde nicht
+weit genug gespielt, um einen
+Speicherstand zu erstellen.
+Daten konnten nicht übertragen
+werden.
+Das Spiel wird ohne Übertragung
+von Speicherdaten gestartet.","Non hai giocato la versione demo
+fino a un punto che consente di
+trasferire i dati di salvataggio.
+
+Il gioco inizierà senza trasferire
+i dati.","Como no has jugado lo suficiente a
+la versión de prueba, no se pueden
+transferir los datos de guardado.
+
+El juego va a comenzar
+sin transferir los datos.","Demo sürümü, kayıt verilerinin
+aktarılabileceği noktaya kadar
+oynanmamış.
+
+Oyun, veriler aktarılmadan
+başlatılacak."
+16,Load_Dlg_Iv_ConfirmCopy,"Tomodachi Life: Welcome Version
+data has been found. Do you
+want to carry over this data?
+
+(You won't be able to carry over
+data after starting the game.)","Des données de Tomodachi Life :
+version de bienvenue ont été trouvées.
+Voulez-vous importer ces données ?
+
+(Vous ne pourrez plus transférer ces
+données une fois le jeu commencé.)","Es wurden Daten zu Tomodachi Life:
+Willkommensversion gefunden.
+Willst du diese Daten übernehmen?
+(Nach Start des Spiels ist der
+Import von Speicherdaten nicht
+mehr möglich.)","È presente una versione di
+benvenuto di Tomodachi Life.
+Vuoi trasferire i dati della
+versione di benvenuto?
+Dopo aver iniziato a giocare non
+potrai più trasferire i dati della
+versione di benvenuto.","Se ha encontrado una versión de
+bienvenida de Tomodachi Life.
+¿Quieres transferir sus datos?
+
+(Una vez iniciado el juego, ya no
+podrás transferir los datos de la versión
+de bienvenida de Tomodachi Life.)","Tomodachi Life: Welcome Version
+verileri bulundu. Bu veriler
+aktarılacak mı?
+
+(Oyuna başladıktan sonra
+verileri aktaramazsın.)"
+17,Load_Dlg_Iv_CopyDoing,"Tomodachi Life: Welcome Version
+data is being copied...
+
+Do not remove the SD Card
+or Game Card.","Copie des données de la
+version de bienvenue de
+Tomodachi Life...
+
+Ne retirez ni la carte de jeu,
+ni la carte SD.","Daten zu Tomodachi Life:
+Willkommensversion werden
+kopiert. Bitte entferne nicht die
+SD Card/die Nintendo 3DS-Karte.","Copia dei dati di Tomodachi Life:
+Versione di benvenuto in corso...
+
+Non rimuovere la scheda
+di gioco o la scheda SD.","Copiando los datos de la versión
+de bienvenida de Tomodachi Life...
+
+No extraigas la tarjeta SD ni la
+tarjeta de juego.","Tomodachi Life: Welcome Version
+verileri kopyalanıyor...
+
+SD Kartı veya Oyun Kartını
+çıkarmayın."
+18,Load_Dlg_Iv_CopySuccess,"Tomodachi Life: Welcome Version
+data was carried over.","Les données de la version de
+bienvenue de Tomodachi Life
+ont été importées.","Die Daten zu Tomodachi Life:
+Willkommensversion wurden
+erfolgreich übertragen.","I dati di Tomodachi Life: Versione
+di benvenuto sono stati trasferiti.","Se han transferido los datos
+de la versión de bienvenida
+de Tomodachi Life.","Tomodachi Life: Welcome Version
+verileri aktarıldı."
+19,Load_Dlg_Iv_NoCopy,"Tomodachi Life: Welcome Version
+save data is corrupted.
+
+The game will begin without
+carrying over data.","Les données de sauvegarde
+de la version de bienvenue de
+Tomodachi Life sont corrompues.
+
+Le jeu va être lancé sans
+importation des données.","Die Speicherdaten zu Tomodachi Life:
+Willkommensversion sind beschädigt.
+Das Spiel wird ohne Übertragung
+der Speicherdaten gestartet.","I dati di salvataggio della versione
+di benvenuto di Tomodachi Life
+sono danneggiati.
+
+Il gioco inizierà senza trasferire
+i dati.","Los datos de la versión de bienvenida
+de Tomodachi Life están dañados.
+
+El juego va a comenzar
+sin transferir los datos.","Tomodachi Life: Welcome Version
+kayıt verileri bozulmuş.
+
+Oyun, veriler aktarılmadan
+başlatılacak."
+20,Load_Dlg_Iv_NoFinishData,"Tomodachi Life: Welcome Version
+has not been played to a point 
+where the save data can be carried 
+over.
+
+The game will begin without
+carrying over data.","Vous n'avez pas assez progressé
+dans la version de bienvenue de
+Tomodachi Life pour avoir des
+données à importer.
+
+Le jeu va être lancé sans
+importation des données.","Tomodachi Life: Willkommensversion
+wurde nicht weit genug gespielt, um
+einen Speicherstand zu erstellen.
+Es konnten keine Daten übertragen
+werden.
+Das Spiel wird ohne Übertragung
+von Speicherdaten gestartet.","Non hai giocato la versione di
+benvenuto di Tomodachi Life
+fino a un punto che consente di
+trasferire i dati di salvataggio.
+
+Il gioco inizierà senza trasferire
+i dati.","Como no has jugado lo suficiente a
+la versión de bienvenida de
+Tomodachi Life, no se pueden
+transferir los datos de guardado.
+
+El juego va a comenzar
+sin transferir los datos.","Tomodachi Life: Welcome Version,
+kayıt verilerinin aktarılabileceği
+noktaya kadar oynanmamış.
+
+Oyun, veriler aktarılmadan
+başlatılacak."
+21,Load_Dlg_Both_ConfirmCopy_00,"Tomodachi Life: Welcome Version
+and demo version data have been 
+found. Do you want to carry 
+over this data?
+
+(You won't be able to carry over
+data after starting the game.)","Des données de la version démo
+et de la version de bienvenue de
+Tomodachi Life ont été trouvées.
+Vous ne pouvez importer que les
+données d'une seule version.
+(Vous ne pourrez plus transférer ces
+données une fois le jeu commencé.)","Es wurden sowohl Daten zu
+Tomodachi Life: Willkommensversion
+als auch zur Demo von
+Tomodachi Life gefunden.
+Willst du diese Daten übernehmen?","Sono presenti una versione di
+benvenuto e una versione demo
+di Tomodachi Life.
+Puoi trasferire i dati di una sola
+delle due versioni.
+Dopo aver iniziato a giocare non
+potrai più trasferire i dati.","Se han encontrado una versión de
+bienvenida y una versión de prueba
+de Tomodachi Life. Solo puedes
+transferir los datos de una de ellas.
+
+(Una vez iniciado el juego, ya no
+podrás transferir los datos.)","Tomodachi Life: Welcome Version
+ve demo sürümü verileri bulundu.
+Bu veriler aktarılsın mı?
+
+(Oyuna başladıktan sonra
+verileri aktaramazsın.)"
+22,Load_Dlg_Both_ConfirmCopy_01,Which do you want to carry over?,"De quelle version voulez-vous
+importer les données ?","Welche Daten sollen übernommen
+werden?","Di quale versione vuoi trasferire
+i dati?","Elige la versión de la que quieres
+transferir los datos.",Hangisini aktarmak istiyorsun?
+23,Load_Dlg_Both_ConfirmCopy_Btn_00,Welcome Version,Version de bienvenue,Willkommensversion,Versione di benvenuto,Versión de bienvenida,Welcome Version
+24,Load_Dlg_Both_ConfirmCopy_Btn_01,Demo version,Version démo,Demoversion,Versione demo,Versión de prueba,Demo Sürümü
+25,Load_Dlg_Both_ConfirmCopy_Btn_02,Neither,Aucune,Keine Daten übernehmen,Nessuna,Cancelar,Hiçbiri
+41,Load_Dlg_Net_NeedEula,"You must agree to the most recent 
+Nintendo 3DS Service User Agreement 
+and Privacy Policy in order to use 
+SpotPass. ","Vous devez accepter les termes du 
+contrat d'utilisation des services  
+Nintendo 3DS et politique de  
+confidentialité pour pouvoir  
+utiliser SpotPass. ","Um SpotPass zu nutzen, musst du 
+erst dem Vertrag zur Nutzung der 
+Nintendo 3DS-Services zustimmen.","Per usare SpotPass devi accettare
+l'Accordo per l'utilizzo dei servizi
+Nintendo 3DS e policy sulla privacy.","Para usar SpotPass, debes aceptar
+los términos del Contrato de Uso y 
+Política de Privacidad de los 
+Servicios de Nintendo 3DS.","SpotPass kullanmak için en güncel
+Nintendo 3DS Hizmet Kullanıcı Sözleşmesi
+ve Gizlilik Politikası koşullarını
+kabul etmelisin."
+42,Load_Dlg_Net_NotAgreeEula,"You will be unable to use
+SpotPass. Is that OK?
+
+(You can change SpotPass
+settings at any time by going
+to Options in the Town Hall.)","Vous ne pourrez pas utiliser
+SpotPass. Continuer quand même ?
+
+(Vous pouvez à tout moment
+changer les paramètres SpotPass
+dans le menu Options de la Mairie.)","SpotPass ist zurzeit nicht nutzbar.
+Trotzdem fortfahren?
+
+(Die Einstellungen zu SpotPass
+kannst du im Rathaus unter
+„Optionen“ ändern.)","Non potrai usare SpotPass.
+Vuoi procedere?
+
+Puoi modificare le impostazioni
+SpotPass in qualsiasi momento
+dal menu Opzioni del municipio.","No podrás usar SpotPass.
+¿Quieres continuar?
+
+(Puedes modificar los ajustes
+de SpotPass en el menú
+de Opciones del ayuntamiento
+siempre que quieras.)","SpotPass'i kullanamayacaksın.
+Devam edilsin mi?
+
+(SpotPass ayarlarını istediğin zaman
+Belediye Binasındaki Seçenekler
+bölümünden değiştirebilirsin.)"
+43,Load_Dlg_Net_NadlNotExist,"SpotPass is deactivated.
+Do you want to use SpotPass to
+receive notifications (including
+advertisements and promotional
+materials) and data from Nintendo
+about Tomodachi Life special
+items, letters from explorers etc.?","SpotPass est désactivé. Voulez-vous
+utiliser SpotPass pour recevoir de
+Nintendo des notifications (pouvant
+inclure du contenu promotionnel et
+publicitaire) et des données comme des
+articles spéciaux pour Tomodachi Life
+et des lettres des enfants voyageurs ?","SpotPass wurde deaktiviert!
+Willst du via SpotPass von Nintendo
+Informationen über Tomodachi Life
+(evtl. auch Werbung und PR-Material)
+sowie spezielle Items und Briefe von
+reisenden Mii-Charakteren erhalten?","La funzione SpotPass è disattivata.
+Vuoi attivare SpotPass per ricevere
+da Nintendo notifiche relative
+a Tomodachi Life, inclusi annunci
+e messaggi pubblicitari, oggetti
+speciali e lettere da parte dei
+viaggiatori della tua isola?","SpotPass está desactivado.
+¿Quieres recibir de Nintendo datos y
+notificaciones sobre cartas de viajeros
+de tu isla y objetos especiales
+de Tomodachi Life (pueden incluir
+material promocional) mediante SpotPass?","SpotPass devre dışı. Tomodachi Life
+için Nintendo'dan bildirimler
+(reklam ve tanıtım içerikleri dâhil),
+özel eşyalar, gezgin mektupları vb.
+verileri SpotPass ile almak ister misin?"
+44,Load_Dlg_Net_NadlNotReRegist,"You can change SpotPass
+settings at any time via Options
+in the Town Hall.","Vous pouvez à tout moment
+changer les paramètres SpotPass
+dans le menu Options de la Mairie.","Die Einstellungen zu SpotPass
+kannst du jederzeit im Rathaus
+unter „Optionen“ ändern.","Puoi modificare le impostazioni
+SpotPass in qualsiasi momento
+dal menu Opzioni del municipio.","Puedes modificar los ajustes
+de SpotPass en el menú
+de Opciones del ayuntamiento
+siempre que quieras.","SpotPass ayarlarını istediğin zaman
+Belediye Binasındaki Seçenekler
+bölümünden değiştirebilirsin."
+45,Load_Dlg_Net_NadlError,"An error occurred while setting
+SpotPass.
+
+SpotPass has been deactivated.","Une erreur est survenue lors de
+la configuration de SpotPass.
+SpotPass a été désactivé.","Da beim Konfigurieren von
+SpotPass ein Fehler aufgetreten
+ist, wird die Kommunikation via
+SpotPass deaktiviert.","Si è verificato un errore durante
+l'impostazione di SpotPass.
+La funzione SpotPass è stata
+disattivata.","Se ha producido un error
+mientras se establecían
+los ajustes de SpotPass.
+Se ha desactivado SpotPass.","SpotPass ayarlanırken bir hata oluştu.
+
+SpotPass devre dışı bırakıldı."
+46,Load_Dlg_Penalty_TidChanged,"Playing on a different system
+may affect the time, prevent
+available shop items from updating
+normally, or other similar issues.
+Do you want to continue?","Vous êtes sur le point de jouer à ce
+jeu avec une autre console que la
+dernière fois. Si vous continuez, il
+se peut, par exemple, que l'heure
+soit différente ou que les magasins
+ne soient pas approvisionnés
+normalement. Continuer ?","Du versuchst, auf einem anderen
+System zu spielen als beim letzten
+Mal. Fährst du fort, so kann dies
+u. a. die Zeit auf der Insel verändern
+oder es tauchen für einige Zeit
+keine neuen Waren in Geschäften
+auf der Insel auf. Fortfahren?","Stai provando a usare questo software
+su una console differente. Se decidi di
+proseguire potrebbe darsi, ad esempio,
+che l'orario venga modificato o gli
+oggetti nei negozi non cambino per
+un po'. Vuoi proseguire?","Si juegas en otra consola, es posible
+que cambie la hora en el programa
+y que los productos de las tiendas
+no se actualicen con normalidad,
+entre otras cosas.
+¿Quieres continuar?","Oyunu farklı bir sistemde oynamak
+saati etkileyebilir, mağazadaki ürünlerin
+normal şekilde yenilenmesini engelleyebilir
+ve benzer sorunlara yol açabilir.
+Devam etmek istiyor musun?"
+47,Load_Dlg_Penalty_ClockChanged,"The system clock appears to
+have been changed. This may
+affect the time, prevent available
+shop items from updating
+normally, or other similar issues.
+Do you want to continue?","L'horloge de la console semble avoir
+été modifiée. Cela risque, entre autres,
+de perturber l'heure définie dans le jeu
+et l'approvisionnement des magasins.
+Voulez-vous continuer ?","Die Systemuhr scheint verstellt
+worden zu sein. Fährst du fort, so
+kann dies u. a. die Zeit auf der
+Insel verändern oder es tauchen
+für einige Zeit keine neuen Waren
+in Geschäften auf der Insel auf.
+Fortfahren?","L'orologio interno della console è stato
+modificato. Se decidi di proseguire
+potrebbe darsi, ad esempio, che
+l'orario venga modificato o gli oggetti
+nei negozi non cambino per un po'.
+Vuoi proseguire?","Se han cambiado los ajustes de
+hora de la consola. Es posible
+que cambie la hora en el programa
+y que los productos de las tiendas
+no se actualicen con normalidad,
+entre otras cosas.
+¿Quieres continuar?","Sistem saatinin değiştirilmiş olduğu
+görünüyor. Bu, saati etkileyebilir,
+mağazadaki ürünlerin normal şekilde
+yenilenmesini engelleyebilir ve benzer
+sorunlara yol açabilir.
+Devam etmek istiyor musun?"
+48,Load_Dlg_Penalty_ShutDown,"Press  to return to the HOME
+Menu.","Appuyez sur  pour retourner
+au menu HOME.","Drücke , um zum HOME-Menü
+zurückzukehren.",Premi  per tornare al menu HOME.,Pulsa  para volver al menú HOME.,"HOME Menüsüne dönmek için
+ tuşuna bas."
+49,Load_Dlg_DeleteAll_Confirm1,"This will delete all of your save
+data including all Mii characters,
+relationships and collected items.
+Once deleted, your data cannot
+be recovered.
+
+Do you want to delete your data?","Cette action va effacer toutes
+vos données de sauvegarde.
+Tous les Mii enregistrés, leurs
+relations, ainsi que vos trésors,
+vont être effacés et ne pourront
+plus être récupérés. Voulez-vous
+tout de même tout effacer ?","Es werden alle Speicherdaten
+gelöscht. Die registrierten Mii-
+Charaktere und ihre Beziehungen
+verschwinden genauso wie alle
+deine Schätze und so weiter.
+
+Willst du trotzdem löschen?","Tutti i dati di salvataggio verranno
+eliminati. Tutti i Mii registrati, le
+loro relazioni e i tesori raccolti
+saranno cancellati e non potrai
+recuperarli.
+
+Vuoi procedere?","Se van a borrar todos los datos
+de guardado. También se eliminarán
+todos los Mii registrados, sus relaciones
+y los tesoros obtenidos. Una vez
+borrados, los datos no se podrán
+recuperar.
+¿Quieres continuar?","Bu işlem tüm Mii karakterleri, ilişkiler
+ve toplanan eşyalar dâhil tüm kayıt
+verilerini silecek. Silinen veriler
+geri getirilemez.
+
+Verilerini silmek istiyor musun?"
+50,Load_Dlg_DeleteAll_Confirm2,"Do you really want to delete
+everything?","Voulez-vous vraiment
+tout effacer ?","Ganz sicher, dass du
+alles löschen willst?",Vuoi davvero eliminare tutti i dati?,"¿De verdad que quieres
+borrar todos los datos?","Gerçekten her şeyi silmek
+istiyor musun?"
+51,Load_Dlg_DeleteAll_Confirm3,"Are you really really sure you
+want to delete everything?","Voulez-vous VRAIMENT
+tout effacer ?","Ganz, ganz sicher?
+Du willst wirklich löschen?","Vuoi davvero... DAVVERO
+cancellare tutto?","¿De verdad de la buena que
+quieres borrarlo todo?","Her şeyi silmek istediğinden
+gerçekten ama gerçekten emin misin?"
+52,Load_Dlg_DeleteAll_Doing,Deleting data...,Effacement des données...,Löschvorgang...,Eliminazione in corso...,Borrando...,Veriler siliniyor...
+53,Load_Dlg_DeleteAll_End,All data has been deleted.,"Toutes les données
+ont été effacées.",Gelöscht.,I dati sono stati eliminati.,Se han borrado los datos.,Tüm veriler silindi.

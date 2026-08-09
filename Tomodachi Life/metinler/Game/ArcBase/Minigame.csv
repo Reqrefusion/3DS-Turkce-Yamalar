@@ -1,0 +1,562 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,Common_ButtonStart,Start,Commencer,Start,Inizia,Empezar,Başla
+1,Common_ButtonEnd,Finish,Quitter,Ende,Chiudi,Salir,Bitir
+2,Common_ButtonItemName00,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+3,Common_ButtonItemName01,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+4,Common_ButtonItemName02,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+5,Common_ButtonHeadwearName00,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+6,Common_ButtonHeadwearName01,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+7,Common_ButtonHeadwearName02,{TAG_1},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}
+8,Common_ButtonMiiNickName00,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+9,Common_ButtonMiiNickName01,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+10,Common_ButtonMiiNickName02,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+11,QCloseUp_Rule,"Can you tell what this super-zoomed item is?
+Just pick 1 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quel objet se cache derrière
+cet agrandissement ?
+
+Sélectionnez un des trois
+choix possibles.","Welches Item wird hier stark vergrößert
+angezeigt? Wähle nur eine der drei Optionen!
+
+Das klingt vielleicht einfach, aber wirst du
+wirklich alle Items erkennen?","Qual è l'oggetto super ingrandito?
+Scegli tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre cuál es el objeto que muestra
+la imagen ampliada.
+¡Elige una de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu aşırı yakınlaştırılmış eşyanın
+ne olduğunu bulabilir misin?
+Üç seçenekten birini seç!
+Kolay gibi görünüyor ama hepsini
+doğru bilebilecek misin?"
+12,QCloseUp_Question_00,Your first zoom item!,"Quiz zoom, question 1 !",Das erste Item!,Oggetto ingrandito 1!,Ronda 1,İlk yakın plan eşyan!
+13,QCloseUp_Question_01,Your second zoom item!,"Quiz zoom, question 2 !",Das zweite Item!,Oggetto ingrandito 2!,Ronda 2,İkinci yakın plan eşyan!
+14,QCloseUp_Question_02,And your final zoom item!,"Quiz zoom, dernière question !",Und das letzte Item!,Oggetto ingrandito 3!,¡Última ronda!,Ve son yakın plan eşyan!
+15,QCloseUp_Question2_00,What do you think it is?,Qu'est-ce que c'est ?,Was wird es wohl sein?,Che cos'è?,¿Qué crees que puede ser?,Sence bu ne?
+16,QCloseUp_Answer_00,The correct answer is...,La réponse est...,Die richtige Antwort ist...,La risposta è...,La respuesta correcta es...,Doğru cevap...
+17,QCloseUp_Answer_01,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}!,Es {TAG_1} {TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5}!,¡{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!
+18,QSilhouette_Rule,"Can you tell what this blacked-out item is?
+Just pick 1 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quel objet se cache derrière
+cette silhouette ?
+
+Sélectionnez un des trois
+choix possibles.","Welches Item ist es wohl, von dem du hier die
+Silhouette siehst?
+
+Das klingt vielleicht einfach, aber wirst du
+wirklich alle Items erkennen?","A quale oggetto appartiene questa sagoma?
+Scegli tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre cuál es el objeto que
+muestra la silueta.
+¡Elige una de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu karartılmış eşyanın ne
+olduğunu bulabilir misin?
+Üç seçenekten birini seç!
+Kolay gibi görünüyor ama hepsini
+doğru bilebilecek misin?"
+19,QSilhouette_Question_00,Your first shadow!,"Quiz silhouettes, question 1 !",Die erste Silhouette!,Sagoma 1!,Ronda 1,İlk silüetin!
+20,QSilhouette_Question_01,Your second shadow!,"Quiz silhouettes, question 2 !",Die zweite Silhouette!,Sagoma 2!,Ronda 2,İkinci silüetin!
+21,QSilhouette_Question_02,And your final shadow!,"Quiz silhouettes, dernière question !",Und die letzte Silhouette!,Sagoma 3!,¡Última ronda!,Ve son silüetin!
+22,QSilhouette_Question2_00,What do you think it is?,Qu'est-ce que c'est ?,Was wird es wohl sein?,Che cos'è?,¿Qué crees que puede ser?,Sence bu ne?
+23,QSilhouette_Answer_00,The correct answer is...,La réponse est...,Die richtige Antwort ist...,La risposta è...,La respuesta correcta es...,Doğru cevap...
+24,QSilhouette_Answer_01,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}!,Es {TAG_1} {TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5}!,¡{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!
+25,QSilhouetteMii_Rule,"Can you tell who this blacked-out Mii is?
+Just pick 1 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quel Mii se cache derrière
+cette silhouette ?
+
+Sélectionnez un des trois
+choix possibles.","Erkennst du das Mii, dessen Silhouette hier
+gezeigt wird? Wähle eine von drei Antworten.
+
+Das klingt vielleicht einfach, aber wirst du
+wirklich jedes Mal das richtige Mii erkennen?","A quale Mii appartiene questa sagoma?
+Scegli tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre quién es el Mii que
+muestra la silueta.
+¡Elige una de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu karartılmış Mii’nin kim
+olduğunu bulabilir misin?
+Üç seçenekten birini seç!
+Kolay gibi görünüyor ama hepsini
+doğru bilebilecek misin?"
+26,QSilhouetteMii_Question2_00,Whose shadow is this?,Qui se cache derrière cette silhouette ?,Wessen Silhouette ist das?,Di chi è questa sagoma?,¿Quién se oculta tras la silueta?,Bu kimin silüeti?
+27,QSilhouetteMii_Answer_01,It was {TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2} {TAG_3}!,{TAG_1}{TAG_2}{TAG_3} steckte dahinter!,{TAG_1}{TAG_2}{TAG_3}!,¡{TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2}{TAG_3} çıktı!
+28,QSilhouetteHeadwear_Answer_01,{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}!,Es {TAG_1} {TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5}!,¡{TAG_1}{TAG_2}{TAG_3} {TAG_4}{TAG_5}!,{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5}!
+29,QSilhouetteDouble_Rule,"Can you tell what the 2 blacked-out items are?
+Just pick 2 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quels sont les deux objets cachés
+derrière cette silhouette ?
+
+Sélectionnez deux des trois
+choix possibles.","Erkennst du, von welchen zwei Items hier die
+Silhouetten gezeigt werden? Wähle zwei von
+dreien aus!
+Das klingt vielleicht einfach, aber wirst du
+wirklich alle Items erkennen?","A quali oggetti appartengono queste sagome?
+Scegli 2 tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre cuáles son los objetos
+que muestra la silueta.
+¡Elige dos de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu iki karartılmış eşyanın
+ne olduğunu bulabilir misin?
+Üç seçenekten ikisini seç!
+Kolay gibi görünüyor ama hepsini
+doğru bilebilecek misin?"
+30,QSilhouetteDouble_Question2_00,What are these?,"Quels sont les objets qui composent
+cette silhouette ?",Was für Items sind das?,Che cosa sono?,"¿Cuáles son los objetos que componen
+la silueta?",Bunlar ne?
+31,QSilhouetteDouble_Answer_01,"It was {TAG_1} {TAG_2}{TAG_3}{TAG_4} and
+{TAG_5} {TAG_6}{TAG_7}{TAG_8}!","{TAG_1}{TAG_2}{TAG_3}{TAG_4}
+{TAG_5}et {TAG_6}{TAG_7}{TAG_8} {TAG_9}!","Es waren {TAG_1}{TAG_2} {TAG_3}{TAG_4} und
+{TAG_5}{TAG_6} {TAG_7}{TAG_8}!","{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5} e
+{TAG_6}{TAG_7}{TAG_8}{TAG_9}!","¡{TAG_1}{TAG_2} {TAG_3}{TAG_4}
+{TAG_5}y {TAG_6} {TAG_7}{TAG_8}{TAG_9}!","{TAG_1} {TAG_2}{TAG_3}{TAG_4} ve
+{TAG_5} {TAG_6}{TAG_7}{TAG_8} çıktı!"
+32,PictureMatch_Rule,"Turn over 2 panels to find the pairs!
+
+Can you find all the matching pairs without
+making 5 mistakes?","Retournez deux images pour
+former une paire !
+
+Trouverez-vous toutes les paires
+en faisant moins de cinq erreurs ?","Drehe zwei Karten um und finde Paare!
+
+Kannst du alle Paare aufdecken, bevor
+du dich fünfmal vertan hast?","Gira 2 tessere per trovare
+una coppia di figure uguali!
+
+Riuscirai a trovare tutte le coppie
+senza sbagliare più di 5 volte?","¡Da la vuelta a dos paneles para
+encontrar las parejas!
+
+¿Lograrás encontrar todas las parejas
+sin cometer más de cinco errores?","Eşleri bulmak
+için iki kartı çevir!
+Beş hata yapmadan
+bütün eşleri
+bulabilecek misin?"
+33,PictureMatch_Rule_VS,"Turn over 2 panels to find the pairs! You can
+have another go if you find a pair.
+
+The one who finds the most pairs wins!","Retournez deux images pour former
+une paire. Si vous en trouvez une,
+vous pouvez rejouer !
+Formez le plus grand nombre de
+paires pour gagner !","Drehe zwei Karten um und finde Paare. Wer ein
+Paar findet, darf noch zwei Karten umdrehen.
+
+Wer die meisten Paare findet, gewinnt!","Gira 2 tessere e trova una coppia di figure
+uguali! Se ci riesci, puoi girare altre 2 tessere.
+
+Vince chi trova più coppie di figure uguali!","¡Da la vuelta a dos paneles para
+encontrar las parejas! Si formas una,
+puedes seguir jugando.
+
+¡Gana quien encuentre más parejas!","Eşleri bulmak için iki kartı çevir!
+Bir eş bulursan
+tekrar oynayabilirsin.
+En çok eşi bulan kazanır!"
+34,PictureMatch_QStartPlayer,Would you like to go first or second?,"Voulez-vous jouer en premier
+ou en deuxième ?",Möchtest du lieber Erster oder Zweiter sein?,Chi inizia?,"¿Quieres empezar en primer
+o en segundo lugar?","İlk mi, ikinci mi oynamak istersin?"
+35,PictureMatch_Call,It's {TAG_1} {TAG_2}{TAG_3}{TAG_4}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}!,Das {TAG_1} {TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5}!,¡{TAG_1}{TAG_2}{TAG_3} {TAG_4}{TAG_5}!,Bu {TAG_1} {TAG_2}{TAG_3}{TAG_4}!
+36,PictureMatch_Call_Mii,It's {TAG_1}{TAG_2}{TAG_3}!,C'est {TAG_1}{TAG_2} {TAG_3}!,Das ist {TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2}{TAG_3}!,¡Es {TAG_1}{TAG_2}{TAG_3}!,Bu {TAG_1}{TAG_2}{TAG_3}!
+37,PictureMatch_Call_Speaker,It's me!,C'est moi !,Das bin ja {TAG_1}ich{TAG_2}!,Sono io!,¡Soy yo!,Bu benim!
+38,PictureMatch_OK,That's a pair!,Bravo !,Das ist ein Paar!,Esatto!,¡Has hecho una pareja!,Bir eş buldun!
+39,PictureMatch_OK_NPC,Yes!,Youpi !,Ja!,Sì!,¡Sí!,Evet!
+40,PictureMatch_YourTurn,"It's your turn, {TAG_1} lookalike!","C'est à vous, sosie{TAG_1}.",Du bist dran!,"È il tuo turno, sosia{TAG_1}!","Te toca, doble{TAG_1}.","Sıra sende, {TAG_1} benzeri!"
+41,PictureMatch_NPC_00,Here and...,Celle-ci et...,Diese hier nehm ich!,"Questa, e poi...",Este y...,Şu ve...
+42,PictureMatch_NPC_01,Here?,Celle-là ?,Die vielleicht?,Forse questa?,¿Este?,Şu mu?
+43,PictureMatch_NPC_02,Here!,Celle-ci !,Die hier!,Questa!,¡Este!,İşte bu!
+44,PictureMatch_NPC_03,Hmm...,Hum...,Hmmm...,Uhm...,Emmm...,Hımm...
+45,PictureMatch_NPC_04,Which one is it?,Hum... Laquelle choisir ?,Welche nehm ich denn?,Chissà quale sarà...,¿Cuál será?,Hangisiydi?
+46,PictureMatch_NPC_05,I'm stuck...,Que faire...,Ich häng fest...,Non ne ho idea...,No lo tengo claro...,Takıldım...
+47,PictureMatch_NPC_06,Oh no! Which one was it?,"Hum, c'était laquelle déjà ?",Oh nein! Welche war es noch mal?,Non ricordo qual era...,"Espera, ¿cuál era?",Eyvah! Hangisiydi?
+48,PictureMatch_NPC_07,This is my chance!,C'est ma chance !,Das ist meine Chance!,Non posso sbagliare!,¡Esta es mi oportunidad!,İşte fırsatım!
+49,PictureMatch_NPC_08,I can keep on going!,C'est pas encore fini !,Ich mache weiter!,Ce la posso fare!,¡Todavía me toca!,Devam edebilirim!
+50,PictureMatch_NPC_09,"I'm sorry, {TAG_1} lookalike.","Désolé{TAG_1}, sosie{TAG_2}.","Tut mir leid, Ebenbild von {TAG_1}!","Scusa, sosia{TAG_1}.","Lo siento, doble{TAG_1}.","Üzgünüm, {TAG_1} benzeri."
+51,PictureMatch_NPC_10_Item,"Seeing the {TAG_1}{TAG_2}{TAG_3} really
+put me off...","Je regardais {TAG_1}{TAG_2}{TAG_3}{TAG_4}
+et j'ai tout oublié...","{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5} {TAG_6} mich
+jetzt aus dem Konzept gebracht...","Stavo guardando {TAG_1}{TAG_2}{TAG_3}
+{TAG_4}e adesso ho un vuoto di memoria...","He visto {TAG_1} {TAG_2}{TAG_3}
+{TAG_4}y me he olvidado por completo...",{TAG_1}{TAG_2}{TAG_3} görünce dikkatim dağıldı...
+52,PictureMatch_NPC_10_Mii,Seeing {TAG_1}{TAG_2} {TAG_3}really put me off...,"Je me suis laissé{TAG_1} distraire
+par {TAG_2}{TAG_3}{TAG_4}...","{TAG_1}{TAG_2} {TAG_3}zu sehen hat mich
+aus dem Konzept gebracht...","Ho visto {TAG_1}{TAG_2}{TAG_3} e adesso
+ho un vuoto di memoria...","He visto a {TAG_1}{TAG_2}
+{TAG_3}y me he despistado...",{TAG_1}{TAG_2} {TAG_3}görünce dikkatim dağıldı...
+53,PictureMatch_NPC_10_Speaker,Seeing myself really put me off...,Voir mon visage m'a complètement déstabilisé{TAG_1}...,"Mich selbst zu sehen hat mich
+aus dem Konzept gebracht...","Ho visto il mio stesso volto
+e adesso ho un vuoto di memoria...",Me he visto a mí mism{TAG_1} y me he distraído...,Kendimi görünce dikkatim dağıldı...
+54,PictureMatch_NPC_11,I got all confused...,Je suis tout{TAG_1} embrouillé{TAG_2}...,Jetzt steck ich fest...,Che confusione...,"Ay, qué complicado...",Kafam iyice karıştı...
+55,PictureMatch_StartPlayer_00,Go first,En premier,Ich fang an!,Inizio io,Primer lugar,İlk oyna
+56,PictureMatch_StartPlayer_01,Go second,En deuxième,Fang du an!,Inizia tu,Segundo lugar,İkinci oyna
+57,QMosaic_Rule,"Can you tell what the pixelated item is?
+Just pick 1 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quel objet se cache derrière
+ces pixels ?
+
+Sélectionnez un des trois
+choix possibles.","Welches Item ist es wohl, das hier verpixelt
+angezeigt wird?
+
+Das klingt vielleicht einfach, aber wirst du
+wirklich alle Items erkennen?","Qual è l'oggetto pixellato?
+Scegli tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre cuál es el objeto pixelado.
+¡Elige una de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu pikselleştirilmiş eşyanın
+ne olduğunu bulabilir misin?
+Üç seçenekten birini seç!
+Kolay gibi görünüyor ama hepsini
+doğru bilebilecek misin?"
+58,QMosaic_Question_00,Your first pixel item!,"Quiz pixels, question 1 !",Das erste verpixelte Item!,Oggetto pixellato 1!,Ronda 1,İlk pikselli eşyan!
+59,QMosaic_Question_01,Your second pixel item!,"Quiz pixels, question 2 !",Das zweite verpixelte Item!,Oggetto pixellato 2!,Ronda 2,İkinci pikselli eşyan!
+60,QMosaic_Question_02,Your final pixel item!,"Quiz pixels, dernière question !",Das letzte verpixelte Item!,Oggetto pixellato 3!,¡Última ronda!,Son pikselli eşyan!
+61,QMosaic_Question2_00,What do you think this is?,Qu'est-ce que c'est ?,Was könnte es wohl sein?,Che cos'è?,¿Qué crees que puede ser?,Sence bu ne?
+62,QMosaic_Answer_00,The correct answer is...,La réponse est...,Und die Lösung ist...,La risposta è...,La respuesta correcta es...,Doğru cevap...
+63,QMosaic_Answer_01,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}!,Es {TAG_1} {TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5}!,¡{TAG_1}{TAG_2} {TAG_3}{TAG_4}{TAG_5}!,{TAG_1} {TAG_2}{TAG_3}{TAG_4}!
+64,QMosaicMii_Rule,"Who is hiding behind these pixels?
+Just pick 1 of the 3 options!
+
+It sounds easy, but can you get them all right?","Quel Mii se cache derrière
+ces pixels ?
+
+Sélectionnez un des trois
+choix possibles.","Wer verbirgt sich hinter der Verpixelung?
+
+Das klingt vielleicht einfach, aber wirst du
+wirklich alle Inselbewohner erkennen?","Chi è il Mii pixellato?
+Scegli tra le 3 opzioni proposte!
+
+Sembra facile, ma...
+riuscirai a indovinare la risposta esatta?","Descubre quién es el Mii detrás de los
+píxeles. ¡Elige una de las tres opciones!
+
+¿Lograrás descubrirlos todos?","Bu piksellerin arkasında kim saklanıyor?
+Üç seçenekten birini seç!
+
+Kolay gibi görünüyor ama hepsini doğru bilebilecek misin?"
+65,QMosaicMii_Question_00,Your first pixel islander!,"Quiz pixels, question 1 !",Der erste verpixelte Einwohner!,Mii pixellato 1!,Ronda 1,İlk pikselli sakinin!
+66,QMosaicMii_Question_01,Your second pixel islander!,"Quiz pixels, question 2 !",Der zweite verpixelte Einwohner!,Mii pixellato 2!,Ronda 2,İkinci pikselli sakinin!
+67,QMosaicMii_Question_02,Your final pixel islander!,"Quiz pixels, dernière question !",Und der letzte verpixelte Einwohner!,Mii pixellato 3!,¡Última ronda!,Son pikselli sakinin!
+68,QMosaicMii_Question2_00,Who do you think it is?,"Qui est-ce, à votre avis ?",Wer könnte das wohl sein?,Chi è?,¿Quién crees que es?,Sence bu kim?
+69,QMosaicMii_Answer_00,The correct answer is...,La réponse est...,Die richtige Antwort lautet...,La risposta è...,La respuesta correcta es...,Doğru cevap...
+70,QMosaicMii_Answer_01,{TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2} {TAG_3}!,{TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2}{TAG_3}!,¡{TAG_1}{TAG_2}{TAG_3}!,{TAG_1}{TAG_2}{TAG_3}!
+71,QSame_Rule,"Let's see how well you know your islanders!
+Are the following facts true or false?
+
+Can you get them all right?","Connaissez-vous bien
+les habitants de l'île ?
+
+Essayez de trouver leurs
+points communs !","Wie gut kennst du deine Inselbewohner? Sind
+die folgenden Aussagen richtig oder falsch?
+
+Ob du wohl bei allen Aussagen richtigliegst?","Vediamo se conosci davvero gli
+abitanti della tua isola!
+
+Sembra facile, ma... riuscirai a
+indovinare cos'hanno in comune i Mii?","¿Conoces bien a los residentes
+de tu isla?
+
+¡Intenta acertar todas las preguntas!","Sakinlerini ne kadar iyi tanıyorsun görelim!
+Aşağıdaki bilgiler doğru mu yanlış mı?
+
+Hepsini doğru bilebilecek misin?"
+72,QSame_Question_00,Your first Mii fact!,"Quiz points communs, question 1 !",Die erste Aussage zu deinen Inselbewohnern!,Punto in comune 1!,Ronda 1,İlk Mii bilgisi!
+73,QSame_Question_01,Your second Mii fact!,"Quiz points communs, question 2 !",Die zweite Aussage zu deinen Inselbewohnern!,Punto in comune 2!,Ronda 2,İkinci Mii bilgisi!
+74,QSame_Question_02,Your final Mii fact!,"Quiz points communs, dernière question !",Die letzte Aussage zu deinen Inselbewohnern!,Punto in comune 3!,Última ronda,Son Mii bilgisi!
+75,QSame_Quiz_Start_00,"{TAG_1}{TAG_2} {TAG_3}and {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2} {TAG_3}et {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2} {TAG_3}und {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2}{TAG_3} e {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2} {TAG_3}{TAG_4} {TAG_5}{TAG_6}{TAG_7}...
+","{TAG_1}{TAG_2} {TAG_3}ve {TAG_4}{TAG_5}{TAG_6}...
+"
+76,QSame_Quiz_Start_01,"{TAG_1}{TAG_2}{TAG_3} and {TAG_4}me{TAG_5}...
+","{TAG_1}{TAG_2} {TAG_3}et {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2}{TAG_3} und {TAG_4}ich{TAG_5}...
+","{TAG_1}{TAG_2}{TAG_3} e {TAG_4}{TAG_5}{TAG_6}...
+","{TAG_1}{TAG_2}{TAG_3}{TAG_4} {TAG_5}{TAG_6} {TAG_7}{TAG_8}{TAG_9}...
+","{TAG_1}{TAG_2}{TAG_3} ve {TAG_4}ben{TAG_5}...
+"
+77,QSame_Quiz_Age,are the same age!,ont le même âge.,sind gleich alt!,hanno la stessa età.,¡tienen la misma edad!,aynı yaştalar!
+78,QSame_Quiz_BirthYear,were born in the same year!,sont de la même année.,sind im gleichen Jahr geboren!,sono dello stesso anno.,¡nacieron el mismo año!,aynı yıl doğmuşlar!
+79,QSame_Quiz_BirthMonth,were born in the same month!,sont du même mois.,haben im selben Monat Geburtstag!,compiono gli anni nello stesso mese.,¡nacieron el mismo mes!,aynı ay doğmuşlar!
+80,QSame_Quiz_BirthDay,were born on the same day of the month!,ont le même jour de naissance.,sind am selben Tag geboren!,compiono gli anni nello stesso giorno del mese.,¡nacieron el mismo día del mes!,ayın aynı gününde doğmuşlar!
+81,QSame_Quiz_BirthDate,have the same birthday!,ont la même date d'anniversaire.,haben den gleichen Geburtstag!,festeggiano il compleanno nello stesso giorno.,¡celebran el cumpleaños el mismo día!,doğum günleri aynı!
+82,QSame_Quiz_BloodType,, {TAG_1}同じ{TAG_2}血液型である｣,,,,aynı kan grubundalar!
+83,QSame_Quiz_NameCount,have first names with the same number of letters.,ont le même nombre de lettres dans leur prénom.,haben gleich viele Buchstaben im Vornamen.,hanno il nome con lo stesso numero di lettere.,tienen el mismo número de letras en su nombre.,adlarında aynı sayıda harf var.
+84,QSame_Quiz_Character,have the same personality group!,ont une personnalité similaire.,gehören zur selben Persönlichkeitsgruppe.,appartengono allo stesso gruppo di carattere.,tienen una personalidad parecida.,aynı kişilik grubundalar!
+85,QSame_Quiz_Character16,have the same personality!,ont la même personnalité.,haben die gleiche Persönlichkeit.,hanno lo stesso carattere.,tienen la misma personalidad.,kişilikleri aynı!
+86,QSame_Quiz_SatisfyLevel,have the same level of happiness!,ont le même niveau de bonheur.,sind gleich zufrieden.,hanno lo stesso livello di felicità.,tienen el mismo nivel de felicidad.,mutluluk seviyeleri aynı!
+87,QSame_Quiz_Neighbor,are neighbours!,habitent dans des appartements voisins.,sind Nachbarn.,abitano in appartamenti vicini.,viven en apartamentos cercanos el uno del otro.,komşular!
+88,QSame_Quiz_Color,like the same colour!,aiment la même couleur.,mögen die gleiche Farbe.,hanno lo stesso colore preferito.,tienen el mismo color preferido.,aynı rengi seviyorlar!
+89,QSame_Quiz_Body,are wearing the same outfit right now!,portent les mêmes vêtements.,tragen im Moment das gleiche Outfit.,indossano gli stessi vestiti.,llevan la misma ropa.,şu anda aynı kıyafeti giyiyorlar!
+90,QSame_Quiz_Headwear,are wearing the same hat right now!,"portent le même chapeau, actuellement.",tragen zurzeit die gleiche Kopfbedeckung.,indossano lo stesso cappello.,llevan el mismo sombrero.,şu anda aynı başlığı takıyorlar!
+91,QSame_Quiz_Room,are living in rooms of the same style!,ont le même style d'intérieur chez eux.,leben zurzeit in identischen Apartments.,vivono in appartamenti di stile uguale.,viven en apartamentos con el mismo interior.,aynı tarz odalarda yaşıyorlar!
+92,QSame_Quiz_Friend,are friends!,ont un lien d'amitié.,sind befreundet.,sono in buoni rapporti.,tienen una buena amistad.,arkadaşlar!
+93,QSame_Quiz_BestFriend,are best friends!,sont très proches.,sind eng befreundet.,hanno un forte legame di amicizia.,tienen una amistad muy cercana.,en iyi arkadaşlar!
+94,QSame_Quiz_Lovers,are each other's special someones!,sortent ensemble.,sind ein Liebespaar.,sono fidanzati.,son pareja.,birbirlerinin özel kişileri!
+95,QSame_Quiz_Couple,are married!,sont mari et femme.,sind miteinander verheiratet.,sono sposati.,están casados.,evliler!
+96,QSame_Quiz_LevelupItem,both have {TAG_1}{TAG_2}{TAG_3}!,possèdent {TAG_1}{TAG_2}{TAG_3}{TAG_4}.,haben beide {TAG_1}{TAG_2}{TAG_3}.,hanno {TAG_1}{TAG_2}{TAG_3}{TAG_4}.,tienen {TAG_1} {TAG_2}{TAG_3}{TAG_4}.,ikisinde de {TAG_1}{TAG_2}{TAG_3} var!
+97,QSame_Quiz_EatFull,are both full!,n'ont pas faim.,sind beide im Moment satt.,hanno mangiato a sazietà.,tienen el estómago lleno.,ikisinin de karnı tok!
+98,QSame_Quiz_EatEmpty,are both really hungry!,ont très faim.,sind beide völlig ausgehungert.,hanno fame.,tienen mucha hambre.,ikisi de çok aç!
+99,QSame_Answer_00,The correct answer is...,La réponse est...,Und die korrekte Antwort ist...,La risposta giusta è...,La respuesta correcta es...,Doğru cevap...
+100,QSame_Answer_01,{TAG_1}False{TAG_2}!,{TAG_1}Faux {TAG_2}!,...{TAG_1}„Das ist falsch“{TAG_2}!,{TAG_1}Falso{TAG_2}!,¡{TAG_1}No{TAG_2}!,{TAG_1}Yanlış{TAG_2}!
+101,QSame_Answer_02,{TAG_1}True{TAG_2}!,{TAG_1}Vrai {TAG_2}!,...{TAG_1}„Das stimmt genau“{TAG_2}!,{TAG_1}Vero{TAG_2}!,¡{TAG_1}Sí{TAG_2}!,{TAG_1}Doğru{TAG_2}!
+102,QSame_Answer_Age_00,{TAG_1} {TAG_2} old,{TAG_1} {TAG_2} ,{TAG_1} {TAG_2} alt.,{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2} yaşında
+103,QSame_Answer_Age_01,{TAG_1} {TAG_2} old,{TAG_1} {TAG_2} ,{TAG_1} {TAG_2} alt.,{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2} yaşında
+104,QSame_Answer_BirthYear_00,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+105,QSame_Answer_BirthYear_01,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+106,QSame_Answer_BirthDate_00,{TAG_1}/{TAG_2},{TAG_1}/{TAG_2},{TAG_1}.{TAG_2}.,{TAG_1}/{TAG_2},{TAG_1}-{TAG_2},{TAG_1}/{TAG_2}
+107,QSame_Answer_BirthDate_01,{TAG_1}/{TAG_2},{TAG_1}/{TAG_2},{TAG_1}.{TAG_2}.,{TAG_1}/{TAG_2},{TAG_1}-{TAG_2},{TAG_1}/{TAG_2}
+110,QSame_Answer_NameCount_00,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+111,QSame_Answer_NameCount_01,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+112,QSame_Answer_Character_00,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+113,QSame_Answer_Character_01,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+114,QSame_Answer_Character16_00,"{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}"
+115,QSame_Answer_Character16_01,"{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}","{TAG_1}
+{TAG_2}"
+116,QSame_Answer_SatisfyLevel_00,Happiness: {TAG_1},Niv. {TAG_1},Zufriedenheit: {TAG_1},Liv. {TAG_1},Niv. {TAG_1},Mutluluk: {TAG_1}
+117,QSame_Answer_SatisfyLevel_01,Happiness: {TAG_1},Niv. {TAG_1},Zufriedenheit: {TAG_1},Liv. {TAG_1},Niv. {TAG_1},Mutluluk: {TAG_1}
+118,QSame_Answer_Neighbor_00,Room {TAG_1},App. {TAG_1},Zimmer {TAG_1},App. {TAG_1},Apt. {TAG_1},Oda {TAG_1}
+119,QSame_Answer_Neighbor_01,Room {TAG_1},App. {TAG_1},Zimmer {TAG_1},App. {TAG_1},Apt. {TAG_1},Oda {TAG_1}
+120,QSame_Answer_Color_00,{TAG_1}{TAG_2},{TAG_1},{TAG_1},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+121,QSame_Answer_Color_01,{TAG_1}{TAG_2},{TAG_1},{TAG_1},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+122,QSame_Answer_Body_00,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+123,QSame_Answer_Body_01,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+124,QSame_Answer_Headwear_00,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+125,QSame_Answer_Headwear_01,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+126,QSame_Answer_Room_00,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+127,QSame_Answer_Room_01,{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1},{TAG_1}{TAG_2},{TAG_1}{TAG_2},{TAG_1}{TAG_2}
+128,QSame_Answer_LevelupItem_Yes,Has one,En possède,Vorhanden,Sì,Sí,Var
+129,QSame_Answer_LevelupItem_No,Doesn't have one,N'en possède pas,Nicht vorhanden,No,No,Yok
+130,QSame_Answer_EatFull_Full,Full,Ventre plein,Satt,Stomaco pieno,Estómago lleno,Tok
+131,QSame_Answer_EatFull_Hungry,Hungry,Ventre vide,Hungrig,Stomaco vuoto,Estómago vacío,Aç
+132,QSame_Btn_00,False,Faux,Nein,Falso,No,Yanlış
+133,QSame_Btn_01,True,Vrai,Ja,Vero,Sí,Doğru
+134,ExtraQueen_Rule,"Take turns picking cards. The first to make a
+pair wins!","Jeu du pouilleux
+
+Chacun son tour, les joueurs tirent
+une carte dans le jeu de l'autre.
+Celui qui réunit la paire gagne !","Alte Jungfer
+
+Zieht abwechselnd eine Karte.
+Wer zuerst ein Pärchen hat, gewinnt.","Tu e il tuo avversario prendete a turno una
+carta. Vince chi riesce a formare una coppia.","Turnaos para coger una carta del rival.
+Quien haga una pareja antes, gana.","Sırayla birbirinizden kart çekin.
+İlk eş yapan kazanır!"
+135,Drop_Rule,"You get to keep the item if you catch it before
+it hits the floor!
+
+You lose if you don't!","Réussissez à attraper l'objet lâché
+par le Mii, et il vous appartiendra !
+
+Si l'objet tombe au sol, vous perdez.","Fängst du das Item, bevor es auf dem Boden
+landet, darfst du es behalten.
+
+Fängst du es nicht, hast du verloren!","Prendi al volo l'oggetto che il
+Mii fa cadere e diventerà tuo!
+
+Se l'oggetto tocca terra, perdi.","¡Si coges el objeto antes de que caiga
+al suelo, podrás quedártelo!
+
+¡Si no, pierdes!","Eşya yere düşmeden yakalarsan senin olur!
+
+Yakalayamazsan kaybedersin!"
+136,Drop_RetryBtn,One more time!,Encore !,Noch mal!,Ancora una volta,¡Otra vez!,Bir kez daha!
+137,Drop_Success_00,Nice catch!,Bien attrapé !,Gut gefangen!,Ce l'hai fatta!,¡Bien hecho!,Güzel yakaladın!
+138,Drop_Miss_00,Too bad...,Perdu...,Schade...,Non ce l'hai fatta...,Qué pena...,Yazık oldu...
+139,Drop_Ready_00,Here it comes!,J'y vais !,Es geht los!,Ecco!,¡Allá va!,Geliyor!
+140,Drop_Ready_01,I'm really going to drop it next time!,"Cette fois-ci, j'y vais pour de vrai !",Nächstes Mal aber wirklich!,Ora vado.,"¡Ahora, en serio!",Bir dahakine gerçekten bırakacağım!
+141,Drop_CountDown_00,3...{TAG_1}2...{TAG_2}1...,3...{TAG_1}2...{TAG_2}1...,3...{TAG_1}2...{TAG_2}1...,3...{TAG_1}2...{TAG_2}1...,3...{TAG_1}2...{TAG_2}1...,3...{TAG_1}2...{TAG_2}1...
+142,Drop_Look_00,Whoops!,Oups...,Ups!,Oh...,¡Uy!,Hoppa!
+143,Drop_Continue_00,"Just one more time, OK?","C'est votre dernière chance, d'accord ?","Nur noch einmal, verstanden?","Ancora una volta, OK?","Solo una vez más, ¿vale?","Bir kez daha, tamam mı?"
+144,Drop_Continue_01,"This is your last chance, OK?","Cette fois, c'est la dernière, hein ?",Pass auf... Das ist deine allerletzte Chance!,"Questa è davvero l'ultima volta, OK?","Esta es la última vez, ¿vale?","Bu son şansın, tamam mı?"
+145,Drop_Spring_00,Oops! It was stuck to a string!,"Ah, c'était attaché à une ficelle.",Huch! Das hing ja an einem Faden!,"Oh, c'era un filo attaccato.",¡Toma ya! Estaba pegado a un hilo.,Aaa! İpe bağlıymış!
+146,Drop_IdleTalk_00,Just between you and me...,"C'est un secret, mais...",Nur zwischen uns beiden...,"In realtà è un segreto, ma...",Te voy a contar un secreto...,Aramızda kalsın ama...
+147,Drop_IdleTalk_01_00,"{TAG_1} {TAG_2} {TAG_3} always
+been worth a lot of money...{TAG_4}So don't drop {TAG_5}!","Cet objet a une valeur historique
+très importante.{TAG_1}Alors attrapez-le bien !","{TAG_1} {TAG_2} {TAG_3} schon seit
+alten Zeiten als extrem kostbares Kleinod...{TAG_4}Also lass {TAG_5} nicht fallen!",Ecco {TAG_1}{TAG_2} di grande valore...{TAG_3}Meglio avere i riflessi pronti!,"{TAG_1} {TAG_2} tien{TAG_3} valor histórico
+y cuest{TAG_4} una barbaridad...{TAG_5}¡Que no se te caig{TAG_6}!",{TAG_1} {TAG_2} {TAG_3} hep çok para ederdi...{TAG_4}Sakın {TAG_5} düşürme!
+148,Drop_IdleTalk_01_01,"Recently, somebody didn't do a good job of
+catching {TAG_1} {TAG_2}. It was...{TAG_3}I can't say who!","L'autre jour, quelqu'un n'a pas réussi à attraper
+{TAG_1}{TAG_2}...{TAG_3}J'ai eu tellement peur que je n'en ai parlé
+à personne...","Neulich {TAG_1} jemandem {TAG_2} {TAG_3}
+immer wieder durch die Lappen gegangen. Es war...{TAG_4}Nein! Das kann ich einfach nicht sagen!","La persona che l'altro giorno non è riuscita
+a prendere {TAG_1}{TAG_2} al volo è...{TAG_3}Ho paura di dirlo!","El otro día, alguien no logró coger
+{TAG_1} {TAG_2} a tiempo...{TAG_3}¡Pero no diré quién fue!","Geçenlerde biri {TAG_1} {TAG_2} yakalamayı pek beceremedi.
+O kişi...{TAG_3}Kim olduğunu söyleyemem!"
+149,Drop_IdleTalk_01_02,I've had a lot on my mind lately...{TAG_1}Could I talk to you about it some time?,"Beaucoup de choses me causent du souci ces
+derniers temps...{TAG_1}Laissez-moi vous en parler la prochaine fois !",In letzter Zeit denke ich viel nach...{TAG_1}Können wir demnächst mal miteinander reden?,Ultimamente ci sono molte cose che mi preoccupano...{TAG_1}Posso confidarmi con te?,"Tengo un montón de preocupaciones
+en la cabeza...{TAG_1}¿Te las puedo contar en algún momento?","Son zamanlarda kafamı kurcalayan çok şey var...{TAG_1}
+Bir ara seninle konuşabilir miyim?"
+150,Drop_IdleTalk_01_03,I heard that {TAG_1} Island...{TAG_2}actually floats off into the sky at night.,"J'ai entendu quelque chose d'étrange concernant
+l'île {TAG_1}...{TAG_2}Il paraîtrait que quand la nuit arrive, elle se
+met à flotter dans les airs.","Ich habe gehört, dass {TAG_1}...{TAG_2}...nachts am Himmel schwebt, wie ein
+Heißluftballon. Wie eine schwebende Insel!","Ho sentito dire che di notte l'Isola {TAG_1}
+fluttua nel cielo...","Me han dicho que la isla {TAG_1}
+se pone a flotar cuando llega la noche.","{TAG_1} Adası’nın...{TAG_2}geceleri gerçekten
+gökyüzüne yükselip süzüldüğünü duydum."
+151,Drop_IdleTalk_01_04,"The other islanders have been talking about you,
+{TAG_1} lookalike...{TAG_2}But that's all I can say!","Une rumeur circule sur vous,
+sosie{TAG_1}...{TAG_2}Euh, je ne peux rien vous dire de plus !","Die anderen reden schon von dir,
+Ebenbild von {TAG_1}...{TAG_2}Mehr will ich jetzt echt nicht sagen!","Tra gli abitanti girano delle voci su di te,
+sosia{TAG_1}...{TAG_2}Ma non posso dirti altro.","Los residentes no hacen más que
+hablar de ti, doble{TAG_1}...
+¡Pero no puedo contarte lo que dicen!","Diğer sakinler senin hakkında konuşup duruyor,
+{TAG_1} benzeri...{TAG_2}Ama daha fazlasını söyleyemem!"
+152,Drop_IdleTalk_01_05,"I wonder...{TAG_1}what is the tastiest food they sell
+at the supermarket?","Je me demande quel est le meilleur plat
+parmi ceux qu'on trouve à l'épicerie...","Ich frage mich ja...{TAG_1}Was ist wohl das Leckerste, das
+sie im Supermarkt verkaufen?","Mi domando quale sia la cosa più buona che
+puoi trovare in vendita al negozio di alimentari...","¿Cuál será la comida más rica
+que venden en el supermercado?","Acaba...{TAG_1}süpermarkette satılan
+en lezzetli yiyecek hangisi?"
+153,Drop_IdleTalk_01_06,"{TAG_1} likes somebody...{TAG_2}who looks an awful lot like you,
+{TAG_3} lookalike!","Il paraît qu{TAG_1}{TAG_2} aime
+quelqu'un...{TAG_3}Et j'ai entendu dire que ce quelqu'un vous
+ressemblait, sosie{TAG_4}.","{TAG_1} steht auf jemanden...{TAG_2}...Auf eine Person, die dir seeehr ähnlich sieht,
+Ebenbild von {TAG_3}!","La persona che piace a {TAG_1}...
+somiglia proprio a te, sosia{TAG_2}.","Dicen que a {TAG_1} le gusta alguien que
+se parece mucho a ti, doble{TAG_2}.","{TAG_1} birinden hoşlanıyor...{TAG_2}
+Hem de sana çok benzeyen birinden, {TAG_3} benzeri!"
+154,Drop_IdleTalk_01_07,"I wonder...{TAG_1}who is the most charming islander
+on {TAG_2} Island?","Je me demande une chose...{TAG_1}Qui est la personne la plus belle
+de l'île {TAG_2} ?","Ich frage mich...{TAG_1}Wer ist wohl die wundervollste Person
+hier auf {TAG_2}?","Mi domando chi sia la più bella
+dell'Isola {TAG_1}...","¿Quién será la persona más guapa
+de la isla {TAG_1}?",Acaba...{TAG_1}{TAG_2} Adası’nın en çekici sakini kim?
+155,Drop_IdleTalk_01_08,"Some people like dogs and
+some people like cats...{TAG_1}but did you know many dog lovers also
+like cats?","Il y a des gens qui adorent les chiens
+et d'autres qui adorent les chats...{TAG_1}Mais souvent, les amoureux des chiens
+aiment aussi les chats !","Manche mögen Hunde,
+und manche mögen Katzen...{TAG_1}Aber wusstest du: Viele Hundeliebhaber
+finden Katzen auch ziemlich gut!","C'è chi ama i cani e chi ama i gatti...{TAG_1}Ma sapevi che a molte persone che
+amano i cani piacciono anche i gatti?","A algunos les gustan los perros
+y a otros los gatos...{TAG_1}¿Pero sabías que muchos de los que aman
+a los perros también les encantan los gatos?","Bazıları köpekleri, bazıları kedileri sever...{TAG_1}
+Peki birçok köpekseverin kedileri
+de sevdiğini biliyor muydun?"
+156,Drop_IdleTalk_01_09,"Sometimes I get worried about dropping
+things from so high up...{TAG_1}but now I don't care!","J'ai parfois un peu peur quand je fais tomber
+des objets d'une telle hauteur...{TAG_1}Mais on s'habitue à tout, n'est-ce pas ?","Manchmal frage ich mich ja, ob ich wirklich
+Sachen einfach so fallen lassen kann...{TAG_1}Die meiste Zeit ist es mir allerdings völlig
+schnuppe, ob das auch richtig ist!","A volte ho paura di lasciar cadere
+degli oggetti da un posto così alto....{TAG_1}Ma posso dire di averci quasi
+fatto l'abitudine...","A veces me preocupa dejar caer
+cosas desde tan alto...{TAG_1}¡Pero ya me he acostumbrado!","Bazen bu kadar yüksekten bir şeyler düşürmek
+beni endişelendiriyor...{TAG_1}Ama artık umurumda değil!"
+157,Drop_IdleTalk_01_10,"I've been wondering when I should drop {TAG_1}
+{TAG_2}...{TAG_3}but it doesn't matter to you, does it?","Ça fait un moment que je me demande quand 
+je vais lâcher {TAG_1}{TAG_2}...{TAG_3}Mais ça vous est égal, n'est-ce pas ?","Ich frage mich dauernd, wann ich {TAG_1}
+fallen lassen soll...{TAG_2}Aber ist ja eigentlich egal, oder?","Sto aspettando il momento giusto per lasciar cadere
+{TAG_1}{TAG_2} che ho tra le mani, ma...{TAG_3}Per te un momento vale l'altro, non è così?","¿Cuándo debería dejar caer {TAG_1} {TAG_2}
+que tengo en las manos?{TAG_3}A ti te da igual, ¿no?","{TAG_1} {TAG_2} ne zaman düşürsem diye düşünüp duruyorum...{TAG_3}
+Ama senin için fark etmez, değil mi?"
+158,Sneeze_Rule,Tickle the Mii's nose to get them to sneeze!,"Frottez le nez du Mii avec la plume
+pour le faire éternuer.","Kitzle die Nase deines Gegenübers,
+um es zum Niesen zu bringen!","Sfiora il naso del Mii con una piuma
+per farlo starnutire!","¡Hazle cosquillas en la nariz al Mii
+para que estornude!",Mii’nin burnunu gıdıklayıp hapşırt!
+159,Sneeze_SneezePre,A...,Aaat...,Haaa...,Eee...,Aaa...,Ha...
+160,Sneeze_Sneezing,ACHOO!,Atchoum !,Haaatschi!!,Cciùùù!,¡Achís!,HAPŞU!
+161,Sneeze_Comment_Success,That's better!,Ça fait du bien.,Ich fühl mich viel besser!!,Mi sento molto meglio.,¡Me siento mejor!,"Oh, rahatladım!"
+162,Sneeze_Comment_Miss,No... It's gone.,Je n'ai plus envie d'éternuer.,Nein... Jetzt ist es weg.,È passato...,Ya no me apetece estornudar...,Hayır... Geçti.
+163,Sumo_Rule,"Settle your differences with a wrestling match!
+
+Win by knocking over the other figure or
+pushing it out of the ring!","Faites combattre les figurines !
+
+Mettez votre adversaire KO ou faites-le
+sortir du ring pour gagner.","Lass deine Figur in einem spannenden
+Ringkampf antreten!
+
+Du gewinnst, wenn die gegnerische Figur zu
+Boden geht oder du sie aus dem Ring drängst!","Lotta con i pupazzetti!
+
+Atterra il pupazzetto avversario o
+spingilo fuori dal cerchio per vincere!","¡Enfréntate a tu adversario en
+un duelo emocionante!
+
+Para ganar, debes derribar la figura
+del otro jugador o sacarla del círculo.","Aranızdaki meseleyi
+bir güreş maçıyla çözün!
+Rakibin figürünü devirerek
+veya ringin dışına iterek kazan!"
+164,Sumo_Explanation,Keep tapping anywhere on the Touch Screen!,"Touchez l'écran tactile n'importe où
+de façon répétée !","Klopfe einfach immer wieder durch
+Tippen auf den Touchscreen.","Tocca più volte una zona qualunque
+dello schermo inferiore!","¡Toca en cualquier parte de
+la pantalla táctil una y otra vez!","Dokunmatik Ekranın herhangi
+bir yerine durmadan dokun!"
+167,Mosquito_Rule,"Get the mosquito!
+
+Choose your moment well, it's easier to
+get it when it lands!","Écrasez le moustique.
+
+L'astuce consiste à bien le viser
+et à l'écraser quand il s'arrête.","Fang den Moskito!
+
+Schlag im richtigen Moment zu! Du erwischst
+den Moskito leichter, wenn er gelandet ist.","Schiaccia la zanzara.
+
+Prendi la mira e colpisci
+la zanzara appena si ferma!","¡Aplasta el mosquito!
+
+Espera a que deje de volar para
+asestarle un manotazo.","Sivrisineği yakala!
+Doğru anı seç;
+konduğunda yakalamak
+daha kolay!"
+168,Mosquito_Miss_00,Sorry!,Pardon.,Tschuldigung!,Scusa.,¡Lo siento!,Özür dilerim!
+169,Mosquito_Miss_01,"I'm trying to get it, honest...",Je n'avais aucune mauvaise intention.,"Ich versuch sie ja zu erwischen, ehrlich...",Non era mia intenzione.,"Lo estoy intentando, en serio...","Onu yakalamaya çalışıyorum, gerçekten..."
+170,Mosquito_Miss_02,I didn't do that on purpose!,Je ne l'ai pas fait exprès !,Das war keine Absicht!,Non l'ho fatto apposta!,¡No lo he hecho aposta!,"İnan, bilerek yapmadım!"
+171,Mosquito_Miss_03,Nearly got it...,J'y étais presque...,Fast hätt' ich sie gehabt...,"Che peccato, c'è mancato poco...",Casi...,Az kalsın...
+172,Mosquito_Miss_04,Oops!,Arf...,Ups!,Ops!,¡Uy!,Eyvah!
+173,Mosquito_Success_00,I knew you could do it!,Je savais que vous en étiez capable !,"Ich wusste, dass du es schaffst!",Sapevo che ce l'avresti fatta!,¡Bien hecho!,Yapabileceğini biliyordum!
+174,Mosquito_Success_01,Thank you so much!,Merci beaucoup !,"Vielen, vielen Dank!",Grazie!,¡Muchas gracias!,Çok teşekkür ederim!
+175,Mosquito_Success_02,Yes!,Hourra !,Ja!,Sì!,¡Viva!,Evet!
+176,Mosquito_Success_F_00,I never doubted you!,Je n'ai jamais douté de vous !,"Ich wusste, du kannst das!",Sapevo che ce l'avresti fatta!,¡Sabía que podía confiar en ti!,Senden hiç şüphem yoktu!
+177,Mosquito_Success_F_01,Thank you very much!,Merci à vous !,Danke! Vielen Dank!,Grazie mille!,¡Muchísimas gracias!,Çok teşekkürler!
+178,Mosquito_Success_F_02,Great!,Ouah !,Jippie!,Grandioso!,¡Genial!,Harika!

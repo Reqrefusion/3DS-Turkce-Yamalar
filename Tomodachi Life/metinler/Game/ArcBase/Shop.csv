@@ -1,0 +1,121 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,BuyDlg_BuyNum,How many would you like?,Combien en voulez-vous ?,Wie viele kaufen?,Quanti pezzi vuoi comprare?,¿Qué cantidad quieres comprar?,Kaç tane istersin?
+1,BuyDlg_SellNum,How many do you want to sell?,Combien voulez-vous en vendre ?,Wie viele verkaufen?,Quanti pezzi vuoi vendere?,¿Qué cantidad quieres vender?,Kaç tane satmak istiyorsun?
+2,BuyDlg_Number,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+3,BuyDlg_Price,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+4,BuyDlg_Money,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+5,Money,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+6,List_Price_0,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+7,List_Price_1,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+8,List_Price_2,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+9,List_Price_3,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+10,List_Price_4,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+11,List_Price_5,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+12,List_Price_6,{TAG_1}{TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1} {TAG_2},{TAG_1}{TAG_2}
+13,List_Have_0,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+14,List_Have_1,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+15,List_Have_2,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+16,List_Have_3,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+17,List_Have_4,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+18,List_Have_5,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+19,List_Have_6,×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1},×{TAG_1}
+20,Dlg_Have_0,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+21,Dlg_Have_1,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+22,Dlg_Have_2,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+23,Dlg_Have_3,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+24,Dlg_Have_4,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+25,Dlg_Have_5,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+26,Dlg_Have_6,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+27,Dlg_Have_7,{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1},{TAG_1}
+28,Dlg_ItemMax,"You have too many!
+
+You can't buy any more!","Vous en avez déjà assez !
+
+Vous ne pouvez pas
+en acheter davantage !","Du hast die maximale Anzahl
+erreicht. Du kannst keine weiteren
+Exemplare mehr kaufen.","Non hai più spazio!
+
+Non puoi comprarne ancora!","No te queda espacio.
+
+No puedes comprar nada más.","Çok fazla var!
+
+Daha fazla satın alamazsın!"
+29,U_Num,"You have:
+{TAG_1}","En poche :
+{TAG_1}","Im Besitz:
+{TAG_1}","Quantità:
+{TAG_1}","Tienes:
+{TAG_1}","Elinde:
+{TAG_1}"
+30,U_Price,"Sale Price:
+{TAG_1}{TAG_2}","Prix :
+{TAG_1} {TAG_2}","Preis:
+{TAG_1} {TAG_2}","Prezzo:
+{TAG_1} {TAG_2}","Precio:
+{TAG_1} {TAG_2}","Satış Fiyatı:
+{TAG_1}{TAG_2}"
+31,U_ZoomOut,Zoom out,Zoom -,Herauszoomen,Zoom -,Alejar,Uzaklaştır
+32,U_ZoomIn,Zoom in,Zoom +,Hineinzoomen,Zoom +,Acercar,Yakınlaştır
+33,U_SpinUD,"Rotate/Move
+(up/down)","Faire pivoter /
+déplacer
+verticalement","Drehen/
+Bewegen","Ruota/sposta
+(su/giù)","Rotar y mover
+(arriba o abajo)","Döndür/Taşı
+(yukarı/aşağı)"
+34,U_Spin,Rotate,Faire pivoter,Drehen,Ruota,Rotar,Döndür
+35,U_IslandName,Made on {TAG_1} Island,Origine : île {TAG_1},Produktionsort: {TAG_1},Provenienza: Isola {TAG_1},Producto de la isla {TAG_1},{TAG_1} Adası'nda üretildi
+36,U_IslandNameUnknown,Unknown origin,Origine inconnue,Produktionsort: unbekannt,Origine sconosciuta,Origen desconocido,Kökeni bilinmiyor
+37,Text_Body_Welcome,Welcome!,Bonjour !,Willkommen!,Salve!,¡Hola!,Hoş geldiniz!
+39,Text_Body_Bye,"Thanks, have a nice day!",Bonne journée !,Vielen Dank!,Grazie e arrivederci!,¡Que tengas un buen día!,"Teşekkürler, iyi günler!"
+40,Text_Headwear_Welcome,Welcome!,Bien le bonjour !,Willkommen!,Salve!,¡Hola!,Hoş geldiniz!
+42,Text_Headwear_Bye,Thank you! Come back soon!,Bonne fin de journée !,Vielen Dank!,Grazie e arrivederci!,¡Que tengas un buen día!,Teşekkürler! Yine bekleriz!
+43,Text_Food_Welcome,Welcome!,Bonjour !,Willkommen!,Salve!,¡Hola!,Hoş geldiniz!
+45,Text_Food_Bye,Thank you. Have a nice day!,À bientôt !,Vielen Dank!,Grazie e arrivederci!,¡Que tengas un buen día!,Teşekkürler. İyi günler!
+46,Text_Room_Welcome,Welcome!,Bienvenue !,Willkommen!,Salve!,¡Hola!,Hoş geldiniz!
+48,Text_Room_Bye,Come back soon!,Bonne journée !,Vielen Dank!,Grazie e arrivederci!,¡Que tengas un buen día!,Yine bekleriz!
+49,Text_Treasure_Welcome,Welcome!,"Bonjour ! Avez-vous des objets dont
+vous souhaitez vous débarrasser ?","Willkommen! Gibt es irgendwelche Dinge,
+die du nicht mehr brauchst?",Salve!,¡Hola!,Hoş geldiniz!
+51,Text_Treasure_Bye,Come back soon!,Bonne journée !,Vielen Dank!,Grazie e arrivederci!,¡Que tengas un buen día!,Yine bekleriz!
+52,Text_Import_Welcome,Welcome!,Bien le bonjour !,Herzlich willkommen!,Salve!,¡Hola!,Hoş geldiniz!
+54,Text_Import_Bye,Have a nice day!,Bonne journée et à bientôt !,Komm bald wieder vorbei!,A presto!,¡Que tengas un buen día!,İyi günler!
+55,Text_Food_Welcome_Christmas,Merry Christmas!,Joyeux Noël !,Schöne Feiertage!,Auguri!,¡Felices fiestas!,Mutlu Noeller!
+56,Text_Body_Welcome_Christmas,Season's greetings!,Joyeuses fêtes !,Frohe Weihnacht!,Auguri!,¡Felices fiestas!,İyi Bayramlar!
+57,Text_Headwear_Welcome_Christmas,Merry Christmas!,Joyeux Noël !,Frohes Fest!,Auguri!,¡Felices fiestas!,Mutlu Noeller!
+58,Text_Room_Welcome_Christmas,Season's greetings!,Joyeuses fêtes !,Fröhliche Weihnacht!,Auguri!,¡Felices fiestas!,İyi Bayramlar!
+59,Text_Treasure_Welcome_Christmas,Merry Christmas!,"Joyeux Noël ! Avez-vous des objets dont
+vous souhaitez vous débarrasser ?","Fröhliche Weihnachten! Gibt es irgendwelche
+Dinge, die du nicht mehr brauchst?",Auguri!,¡Felices fiestas!,Mutlu Noeller!
+60,Text_Import_Welcome_Christmas,Season's greetings!,Joyeuses fêtes !,"Fröhliche Weihnachten! Und
+herzlich willkommen in unserem Laden!",Auguri!,¡Felices fiestas!,İyi Bayramlar!
+61,Text_Food_Welcome_NewYear,Happy New Year!,Bonne année !,Alles Gute im neuen Jahr!,Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+62,Text_Body_Welcome_NewYear,Happy New Year!,Bonne année !,Alles Gute im neuen Jahr!,Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+63,Text_Headwear_Welcome_NewYear,Happy New Year!,Bonne année !,Alles Gute im neuen Jahr!,Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+64,Text_Room_Welcome_NewYear,Happy New Year!,Bonne année !,Alles Gute im neuen Jahr!,Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+65,Text_Treasure_Welcome_NewYear,Happy New Year!,"Bonne année ! Avez-vous des objets dont
+vous souhaitez vous débarrasser ?","Alles Gute im neuen Jahr! ...Gibt es zufällig
+Dinge, die du nicht mehr benötigst?",Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+66,Text_Import_Welcome_NewYear,Happy New Year!,Bonne année !,"Alles Gute im neuen Jahr! Bleib uns
+bitte auch dieses Jahr gewogen!",Felice anno nuovo!,¡Feliz Año Nuevo!,Mutlu Yıllar!
+73,Text_Food_Welcome_Halloween,Trick or treat!,Un bonbon ou un sort !,Süßes oder Saures!,Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+74,Text_Body_Welcome_Halloween,Trick or treat!,Bonne fête d'Halloween !,Süßes oder Saures!,Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+75,Text_Headwear_Welcome_Halloween,Trick or treat!,Un bonbon ou un sort !,Süßes oder Saures!,Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+76,Text_Room_Welcome_Halloween,Trick or treat!,Joyeuse Halloween !,Süßes oder Saures!,Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+77,Text_Treasure_Welcome_Halloween,Trick or treat!,"Un bonbon ou un sort ! Avez-vous des objets
+dont vous souhaitez vous débarrasser ?","Süßes oder Saures! ...Gibt es zufällig
+Dinge, die du nicht mehr benötigst?",Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+78,Text_Import_Welcome_Halloween,Trick or treat!,Un bonbon ou un sort !,"Süßes oder Saures! Wenn du nichts kaufst,
+dann wird dir das noch leidtun!",Dolcetto o scherzetto!,¡Truco o trato!,"Şeker mi, şaka mı?"
+79,Text_MonthLimit,This month only!,Offre du mois !,Nur diesen Monat!,Solo per questo mese!,¡Disponible solo este mes!,Sadece bu ay!
+80,Text_DayLimit,Today only!,Offre du jour !,Nur heute!,Solo per oggi!,¡Disponible solo hoy!,Sadece bugün!
+81,Text_U_Room_SpecialClose,"You must have an islander at level {TAG_1} or higher
+to buy this.","Vous devez avoir un habitant de niveau {TAG_1}
+ou plus pour pouvoir acheter cet objet.","Kann nicht verkauft werden, wenn nicht
+mindestens ein Bewohner der Insel Level {TAG_1} hat.","Per abilitare l'acquisto devi avere
+un abitante di livello {TAG_1} o superiore.","No puedes comprar esto a menos que tengas
+un residente de nivel {TAG_1} o más.","Bunu satın almak için en az {TAG_1}. seviyede
+bir ada sakinin olmalı."
+82,Text_SpecialRoom_UnOpenName,???,???,???,???,(?),???

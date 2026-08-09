@@ -1,0 +1,1471 @@
+{
+  "format": "tomodachi-tr-folder-project",
+  "version": 3,
+  "columns": [
+    "index",
+    "label",
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish",
+    "Turkish"
+  ],
+  "files": [
+    {
+      "path": "Chat/ArcBase/Chat_Cheerup.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcBase/Chat_Cheerup.msbt"
+    },
+    {
+      "path": "Chat/ArcBase/Chat_Common.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcBase/Chat_Common.msbt"
+    },
+    {
+      "path": "Chat/ArcBase/Chat_Female.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcBase/Chat_Female.msbt"
+    },
+    {
+      "path": "Chat/ArcBase/Chat_Male.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcBase/Chat_Male.msbt"
+    },
+    {
+      "path": "Chat/ArcVoice/Chat_Cheerup.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Chat_Cheerup.msbt"
+    },
+    {
+      "path": "Chat/ArcVoice/Chat_Common.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Chat_Common.msbt"
+    },
+    {
+      "path": "Chat/ArcVoice/Chat_Female.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Chat_Female.msbt"
+    },
+    {
+      "path": "Chat/ArcVoice/Chat_Male.csv",
+      "archive": "Chat/Chat_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Chat_Male.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Body_Attr.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Body_Attr.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Body_Desc.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Body_Desc.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Body_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Body_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Body_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Body_Name_P.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Color.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Color.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Headwear_Attr.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Headwear_Attr.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Headwear_Desc.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Headwear_Desc.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Headwear_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Headwear_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Headwear_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Headwear_Name_P.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Set_Attr.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Set_Attr.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Set_Desc.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Set_Desc.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Set_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Set_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcBase/Set_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcBase/Set_Name_P.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Body_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Body_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Body_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Body_Name_P.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Headwear_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Headwear_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Headwear_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Headwear_Name_P.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Set_Name.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Set_Name.msbt"
+    },
+    {
+      "path": "Clothes/ArcVoice/Set_Name_P.csv",
+      "archive": "Clothes/Clothes_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Set_Name_P.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionBeach.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionBeach.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionCafe.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionCafe.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionClassroom.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionClassroom.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionPark.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionPark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionRoof.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionRoof.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcBase/ConfessionStage.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcBase/ConfessionStage.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionBeach.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionBeach.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionCafe.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionCafe.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionClassroom.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionClassroom.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionPark.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionPark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionRoof.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionRoof.msbt"
+    },
+    {
+      "path": "Drama/Drama_Confession/ArcVoice/ConfessionStage.csv",
+      "archive": "Drama/Drama_Confession_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ConfessionStage.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakBeach.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakBeach.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakCafe.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakCafe.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakFountain.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakFountain.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakPark.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakPark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakRoof.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakRoof.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakThemePark.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakThemePark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakUp.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakUp.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/BreakUpTalk.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/BreakUpTalk.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Cupid03.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Cupid03.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Fight.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Fight.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Friend00.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Friend00.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/LoverReturnPre.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/LoverReturnPre.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Memory00.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Memory00.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Memory01.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Memory01.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/MemoryGag.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/MemoryGag.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/MemoryGag01.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/MemoryGag01.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/MemoryLastAndFirst.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/MemoryLastAndFirst.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/Reconciliation.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/Reconciliation.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/StrangeLetter.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/StrangeLetter.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/TravelerBackApartDinner.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/TravelerBackApartDinner.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/TravelerBackApartSiesta.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/TravelerBackApartSiesta.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/TravelerBackHouseDinner.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/TravelerBackHouseDinner.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcBase/TravelerBackHouseSiesta.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcBase/TravelerBackHouseSiesta.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakBeach.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakBeach.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakCafe.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakCafe.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakFountain.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakFountain.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakPark.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakPark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakRoof.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakRoof.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakThemePark.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakThemePark.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakUp.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakUp.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/BreakUpTalk.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BreakUpTalk.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/Cupid03.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Cupid03.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/Fight.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Fight.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/LoverReturnPre.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/LoverReturnPre.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/Memory00.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Memory00.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/Memory01.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Memory01.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/MemoryGag.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/MemoryGag.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/MemoryGag01.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/MemoryGag01.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/MemoryLastAndFirst.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/MemoryLastAndFirst.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/Reconciliation.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Reconciliation.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/StrangeLetter.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/StrangeLetter.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/TravelerBackApartDinner.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TravelerBackApartDinner.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/TravelerBackApartSiesta.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TravelerBackApartSiesta.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/TravelerBackHouseDinner.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TravelerBackHouseDinner.msbt"
+    },
+    {
+      "path": "Drama/Drama_Drama/ArcVoice/TravelerBackHouseSiesta.csv",
+      "archive": "Drama/Drama_Drama_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TravelerBackHouseSiesta.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream003.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream003.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream010.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream010.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream013.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream013.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream014.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream014.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream017.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream017.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcBase/Dream020.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream020.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream003.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream003.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream010.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream010.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream013.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream013.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream014.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream014.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream017.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream017.msbt"
+    },
+    {
+      "path": "Drama/Drama_Dream/ArcVoice/Dream020.csv",
+      "archive": "Drama/Drama_Dream_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream020.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcBase/ExternalProposeFerissWheel.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcBase/ExternalProposeFerissWheel.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcBase/ExternalProposeFireworks.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcBase/ExternalProposeFireworks.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcBase/ExternalProposePlatform.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcBase/ExternalProposePlatform.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcBase/ExternalProposeRestaurant.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcBase/ExternalProposeRestaurant.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcVoice/ExternalProposeFerissWheel.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ExternalProposeFerissWheel.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcVoice/ExternalProposeFireworks.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ExternalProposeFireworks.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcVoice/ExternalProposePlatform.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ExternalProposePlatform.msbt"
+    },
+    {
+      "path": "Drama/Drama_External/ArcVoice/ExternalProposeRestaurant.csv",
+      "archive": "Drama/Drama_External_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ExternalProposeRestaurant.msbt"
+    },
+    {
+      "path": "Drama/Drama_StaffRoll/ArcBase/SR_HomeVideo.csv",
+      "archive": "Drama/Drama_StaffRoll_EU_English_LZ.bin",
+      "msbt": "ArcBase/SR_HomeVideo.msbt"
+    },
+    {
+      "path": "Drama/Drama_StaffRoll/ArcVoice/SR_HomeVideo.csv",
+      "archive": "Drama/Drama_StaffRoll_EU_English_LZ.bin",
+      "msbt": "ArcVoice/SR_HomeVideo.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcBase/ToolFan.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcBase/ToolFan.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcBase/ToolFryingPan.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcBase/ToolFryingPan.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcBase/ToolMachine.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcBase/ToolMachine.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcVoice/ToolBath.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ToolBath.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcVoice/ToolFan.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ToolFan.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcVoice/ToolFryingPan.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ToolFryingPan.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcVoice/ToolMachine.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ToolMachine.msbt"
+    },
+    {
+      "path": "Drama/Drama_Tool/ArcVoice/ToolWandererBath.csv",
+      "archive": "Drama/Drama_Tool_EU_English_LZ.bin",
+      "msbt": "ArcVoice/ToolWandererBath.msbt"
+    },
+    {
+      "path": "Drama/Drama_WandererWatch/ArcBase/WandererWatch.csv",
+      "archive": "Drama/Drama_WandererWatch_EU_English_LZ.bin",
+      "msbt": "ArcBase/WandererWatch.msbt"
+    },
+    {
+      "path": "Drama/Drama_WandererWatch/ArcVoice/WandererWatch.csv",
+      "archive": "Drama/Drama_WandererWatch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/WandererWatch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Affinity.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Affinity.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Album.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Album.msbt"
+    },
+    {
+      "path": "Game/ArcBase/AskMii.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/AskMii.msbt"
+    },
+    {
+      "path": "Game/ArcBase/BabyTouch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/BabyTouch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Birth.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Birth.msbt"
+    },
+    {
+      "path": "Game/ArcBase/BirthdayParty.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/BirthdayParty.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Child.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Child.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Cityhall.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Cityhall.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Clock.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Clock.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Departure.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Departure.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Development.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Development.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Distribution.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Distribution.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Drama.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Drama.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Dream.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Dream.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Edit.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Edit.msbt"
+    },
+    {
+      "path": "Game/ArcBase/ExportSelect.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/ExportSelect.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Friendlist.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Friendlist.msbt"
+    },
+    {
+      "path": "Game/ArcBase/House.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/House.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Load.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Load.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Location.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Location.msbt"
+    },
+    {
+      "path": "Game/ArcBase/LocationEvent.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/LocationEvent.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Map.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Map.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Market.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Market.msbt"
+    },
+    {
+      "path": "Game/ArcBase/MiiPlay.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/MiiPlay.msbt"
+    },
+    {
+      "path": "Game/ArcBase/MiiTouch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/MiiTouch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/MiiWatch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/MiiWatch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Minigame.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Minigame.msbt"
+    },
+    {
+      "path": "Game/ArcBase/PhotoStudio.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/PhotoStudio.msbt"
+    },
+    {
+      "path": "Game/ArcBase/RaiseMoney.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/RaiseMoney.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Ranking.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Ranking.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Shop.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Shop.msbt"
+    },
+    {
+      "path": "Game/ArcBase/SleepTalking.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/SleepTalking.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Soliloquy.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Soliloquy.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Song.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Song.msbt"
+    },
+    {
+      "path": "Game/ArcBase/SongG.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/SongG.msbt"
+    },
+    {
+      "path": "Game/ArcBase/System.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/System.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Time.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Time.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Tool.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tool.msbt"
+    },
+    {
+      "path": "Game/ArcBase/TravelerBack.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/TravelerBack.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Travelerlist.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Travelerlist.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Tutorial.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tutorial.msbt"
+    },
+    {
+      "path": "Game/ArcBase/WandererTouch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/WandererTouch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/WandererWatch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/WandererWatch.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Wanderlist.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Wanderlist.msbt"
+    },
+    {
+      "path": "Game/ArcBase/Wharf.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcBase/Wharf.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/AskMii.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/AskMii.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/BabyTouch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BabyTouch.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Birth.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Birth.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/BirthdayParty.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/BirthdayParty.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Child.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Child.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Cityhall.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Cityhall.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Departure.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Departure.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Development.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Development.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Drama.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Drama.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Dream.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Dream.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Edit.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Edit.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Location.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Location.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/LocationEvent.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/LocationEvent.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Map.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Map.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Market.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Market.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/MiiPlay.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/MiiPlay.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/MiiWatch.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/MiiWatch.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Minigame.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Minigame.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Shop.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Shop.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/SleepTalking.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/SleepTalking.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Soliloquy.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Soliloquy.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/System.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/System.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Time.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Time.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Tool.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Tool.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/TravelerBack.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TravelerBack.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Tutorial.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Tutorial.msbt"
+    },
+    {
+      "path": "Game/ArcVoice/Wharf.csv",
+      "archive": "Game/Game_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Wharf.msbt"
+    },
+    {
+      "path": "IslandAddress/ArcBase/IslandAddress.csv",
+      "archive": "IslandAddress/IslandAddress_EU_English_LZ.bin",
+      "msbt": "ArcBase/IslandAddress.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Equip_Attr.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Equip_Attr.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Equip_Desc.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Equip_Desc.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Equip_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Equip_Name.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Equip_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Equip_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Food_Attr.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Food_Attr.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Food_Desc.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Food_Desc.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Food_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Food_Name.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Food_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Food_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Special_Attr.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Special_Attr.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Special_Desc.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Special_Desc.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Special_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Special_Name.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Special_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Special_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Tool_Attr.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tool_Attr.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Tool_Desc.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tool_Desc.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Tool_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tool_Name.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Tool_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Tool_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Treasure_Attr.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Treasure_Attr.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Treasure_Desc.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Treasure_Desc.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Treasure_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Treasure_Name.msbt"
+    },
+    {
+      "path": "Item/ArcBase/Treasure_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcBase/Treasure_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Equip_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Equip_Name.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Equip_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Equip_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Food_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Food_Name.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Food_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Food_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Special_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Special_Name.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Special_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Special_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Tool_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Tool_Name.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Tool_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Tool_Name_P.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Treasure_Name.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Treasure_Name.msbt"
+    },
+    {
+      "path": "Item/ArcVoice/Treasure_Name_P.csv",
+      "archive": "Item/Item_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Treasure_Name_P.msbt"
+    },
+    {
+      "path": "Location/Location_ThemePark/ArcBase/ThemeParkActCoaster00.csv",
+      "archive": "Location/Location_ThemePark_EU_English_LZ.bin",
+      "msbt": "ArcBase/ThemeParkActCoaster00.msbt"
+    },
+    {
+      "path": "News/ArcBase/Common.csv",
+      "archive": "News/News_EU_English_LZ.bin",
+      "msbt": "ArcBase/Common.msbt"
+    },
+    {
+      "path": "News/ArcBase/News.csv",
+      "archive": "News/News_EU_English_LZ.bin",
+      "msbt": "ArcBase/News.msbt"
+    },
+    {
+      "path": "News/ArcVoice/Common.csv",
+      "archive": "News/News_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Common.msbt"
+    },
+    {
+      "path": "News/ArcVoice/News.csv",
+      "archive": "News/News_EU_English_LZ.bin",
+      "msbt": "ArcVoice/News.msbt"
+    },
+    {
+      "path": "PhotoStudio/ArcBase/PhotoStudio_BG.csv",
+      "archive": "PhotoStudio/PhotoStudio_EU_English_LZ.bin",
+      "msbt": "ArcBase/PhotoStudio_BG.msbt"
+    },
+    {
+      "path": "PhotoStudio/ArcVoice/PhotoStudio_BG.csv",
+      "archive": "PhotoStudio/PhotoStudio_EU_English_LZ.bin",
+      "msbt": "ArcVoice/PhotoStudio_BG.msbt"
+    },
+    {
+      "path": "Room/ArcBase/Room_Attr.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcBase/Room_Attr.msbt"
+    },
+    {
+      "path": "Room/ArcBase/Room_Desc.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcBase/Room_Desc.msbt"
+    },
+    {
+      "path": "Room/ArcBase/Room_Name.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcBase/Room_Name.msbt"
+    },
+    {
+      "path": "Room/ArcBase/Room_Name_P.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcBase/Room_Name_P.msbt"
+    },
+    {
+      "path": "Room/ArcVoice/Room_Name.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Room_Name.msbt"
+    },
+    {
+      "path": "Room/ArcVoice/Room_Name_P.csv",
+      "archive": "Room/Room_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Room_Name_P.msbt"
+    },
+    {
+      "path": "Sample/ArcBase/Sample.csv",
+      "archive": "Sample/Sample_EU_English_LZ.bin",
+      "msbt": "ArcBase/Sample.msbt"
+    },
+    {
+      "path": "Series/Series_StaffRoll/ArcBase/StaffRoll.csv",
+      "archive": "Series/Series_StaffRoll_EU_English_LZ.bin",
+      "msbt": "ArcBase/StaffRoll.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Ballad.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Ballad.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Ballad_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Ballad_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Enka.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Enka.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Enka_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Enka_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Jpop.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Jpop.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Jpop_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Jpop_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Metal.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Metal.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Metal_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Metal_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Musical.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Musical.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Musical_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Musical_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Opera.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Opera.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Opera_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Opera_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Rap.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Rap.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Rap_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Rap_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Rock.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Rock.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Rock_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Rock_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Techno.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Techno.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Techno_Lyrics.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Techno_Lyrics.msbt"
+    },
+    {
+      "path": "Song/ArcBase/Title.csv",
+      "archive": "Song/Song_EU_English_LZ.bin",
+      "msbt": "ArcBase/Title.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkBirthday_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkBirthday_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkChat_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkChat_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkFirst_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkFirst_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkUnusual_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkUnusual_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkUsual_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkUsual_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcBase/TalkWanderer_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcBase/TalkWanderer_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkBirthday_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkBirthday_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkChat_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkChat_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkFirst_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkFirst_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkUnusual_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkUnusual_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkUsual_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkUsual_Msg.msbt"
+    },
+    {
+      "path": "Talk/ArcVoice/TalkWanderer_Msg.csv",
+      "archive": "Talk/Talk_EU_English_LZ.bin",
+      "msbt": "ArcVoice/TalkWanderer_Msg.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbBody.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbBody.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbContents.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbContents.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbDepress.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbDepress.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbEtc.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbEtc.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbFood.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbFood.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbHeadwear.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbHeadwear.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbPhrase.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbPhrase.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbQuestion.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbQuestion.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbRelation.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbRelation.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbReport.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbReport.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbRoom.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbRoom.msbt"
+    },
+    {
+      "path": "Touch/ArcBase/Touch_ScriptText_TbTool.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcBase/Touch_ScriptText_TbTool.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbBody.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbBody.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbContents.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbContents.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbDepress.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbDepress.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbEtc.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbEtc.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbFood.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbFood.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbHeadwear.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbHeadwear.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbPhrase.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbPhrase.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbQuestion.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbQuestion.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbRelation.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbRelation.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbReport.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbReport.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbRoom.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbRoom.msbt"
+    },
+    {
+      "path": "Touch/ArcVoice/Touch_ScriptText_TbTool.csv",
+      "archive": "Touch/Touch_EU_English_LZ.bin",
+      "msbt": "ArcVoice/Touch_ScriptText_TbTool.msbt"
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,Text_Home_T00,"I missed everybody so much, I just had to
+come back!","Je suis de retour ! J'avais tant envie de revoir
+tout le monde.",Ich bin wieder da! Ich hab euch richtig vermisst.,"Sentivo così tanto la mancanza di tutti che
+ho deciso di tornare.","¡He vuelto! Tenía muchas ganas de ver
+a todo el mundo.","Herkesi o kadar özledim ki geri dönmeden
+edemedim!"
+1,Text_Home_T01,I brought a souvenir!,J'ai rapporté un souvenir.,Ich habe ein Souvenir mitgebracht!,Ho portato un souvenir!,He traído un recuerdo.,Bir hatıra getirdim!
+2,Text_Home_TLevelUp,"People looked after me so much on my travels
+that my Thanks Level went up to {TAG_1}!","De nombreuses personnes m'ont aidé{TAG_1} au cours de
+mon voyage. Mon niveau de gratitude a atteint {TAG_2} !","Mir haben unterwegs so viele Leute geholfen,
+dass mein Dankbarkeitsläwel auf {TAG_1} gestiegen ist!","Nei miei viaggi ho ricevuto così tanto aiuto
+che il mio livello di gratitudine è salito a {TAG_1}!","Mucha gente me ha ayudado en mis viajes.
+¡Mi nivel de gratitud es ahora {TAG_1}! ","Yolculuğumda bana o kadar çok yardım edildi ki
+Teşekkür Seviyem {TAG_1} oldu!"
+3,Text_Home_T02,"{TAG_1} Island's {TAG_2}'s
+lookalike asked me to pass on a message.","J'ai un message de la part du sosie d{TAG_1}{TAG_2},
+de l'île {TAG_3}.","Das Ebenbild von {TAG_1} von
+{TAG_2} lässt dir etwas ausrichten.","{TAG_1} sosia di {TAG_2} dall'isola {TAG_3}
+mi ha chiesto di recapitare un messaggio.","Traigo un mensaje {TAG_1} doble
+de {TAG_2}, de la isla {TAG_3}.","{TAG_1} Adası’ndan {TAG_2} adlı kişinin
+benzeri sana bir mesaj iletmemi istedi."
+4,Text_Home_T02_NG,,"J'ai un message pour vous de l'île
+{TAG_1}.","{TAG_1} von {TAG_2}
+hat mir eine Nachricht für dich mitgegeben.","Mi è stato chiesto di recapitare un messaggio
+dall'Isola {TAG_1}.",Traigo un mensaje de la isla {TAG_1}.,Bir adadan sana mesaj getirdim.
+5,Text_Home_TMessageEnd,That was it.,"Vois là, je vous ai tout dit.",Das war's.,E questo è quanto.,Y eso es todo.,Hepsi bu kadardı.
+6,Text_Home_T03,I'd better get on with my travels.,Je vais bientôt repartir en voyage.,"Ich denke, ich werde bald wieder aufbrechen.",Penso che presto mi rimetterò in viaggio...,Ya es hora de retomar mis viajes.,Artık yolculuğuma devam etsem iyi olacak.
+13,Text_Home_Dinner_T00,Thanks! That sounds like music to my belly!,Merci ! Je vais me laisser tenter...,Ja gerne! Vielen Dank!,"Grazie!
+Ne approfitto volentieri!","Muchas gracias. La verdad es que
+tengo mucha hambre.",Teşekkürler! Karnıma müzik gibi geldi!
+14,Text_Home_Bath_T00,Thanks! That should revive me!,Merci ! Ça me fera du bien.,"Gerne! Das wäre eine gute Idee, nach der
+langen Reise...","Grazie!
+Mi servirà ad alleviare la stanchezza del viaggio!","Muchas gracias, me sentará bien.",Teşekkürler! Bu beni kendime getirir!
+15,Text_Home_Leave_T00,"OK, I'll be off then!
+I'm sure I'll be back again some day!","Bon, j'y vais ! Je reviendrai un jour !","Dann mache ich mich wieder auf.
+Vielleicht bis bald einmal!","Grazie! Tornerò sicuramente,
+prima o poi!","¡Bueno, me voy! Prometo volver
+algún día.","Peki, ben yola koyulayım!
+Eminim bir gün yine dönerim!"
+16,Text_LetterA_R00,"Mum, {TAG_1}Dad,{TAG_2}
+...and {TAG_3}'s lookalike,{TAG_4}{TAG_5}How are you all doing?
+It's {TAG_6}!","Papa, {TAG_1}maman,{TAG_2}
+sosie d{TAG_3}{TAG_4}...{TAG_5}{TAG_6}Comment allez-vous ?
+C'est moi, {TAG_7}.","Hallo, Papa {TAG_1}und Mama,{TAG_2}
+hallo, Ebenbild von {TAG_3}.{TAG_4}{TAG_5}Wie geht es euch?
+Von {TAG_6}","Mamma, {TAG_1}papà, {TAG_2}sosia di {TAG_3}...{TAG_4}{TAG_5}Come state?
+Sono io, {TAG_6}!","Hola, papá, {TAG_1}mamá {TAG_2}y doble de {TAG_3}:{TAG_4}{TAG_5}¿Estáis bien? Soy yo, {TAG_6}.","Anne, {TAG_1}baba,{TAG_2}
+...ve {TAG_3} adlı kişinin benzeri,{TAG_4}{TAG_5}Nasılsınız?
+Ben {TAG_6}!"
+17,Text_LetterA_R00_Father,"Dad,{TAG_1}
+...and {TAG_2}'s lookalike,{TAG_3}{TAG_4}How are you both doing?
+It's {TAG_5}!","Papa,{TAG_1}
+sosie d{TAG_2}{TAG_3}...{TAG_4}{TAG_5}Comment allez-vous ?
+C'est moi, {TAG_6}.","Hallo, Papa,{TAG_1}
+hallo, Ebenbild von {TAG_2}!{TAG_3}{TAG_4}Wie geht es euch?
+Von {TAG_5}","Papà, {TAG_1}sosia di {TAG_2}...{TAG_3}{TAG_4}Come stàte?
+Sono io, {TAG_5}!","Hola, papá {TAG_1}y doble de {TAG_2}:{TAG_3}{TAG_4}¿Estáis bien? Soy yo, {TAG_5}.","Baba,{TAG_1}
+...ve {TAG_2} adlı kişinin benzeri,{TAG_3}{TAG_4}İkiniz nasılsınız?
+Ben {TAG_5}!"
+18,Text_LetterA_R00_Mother,"Mum,{TAG_1}
+...and {TAG_2}'s lookalike,{TAG_3}{TAG_4}How are you both doing?
+It's {TAG_5}!","Maman,{TAG_1}
+sosie d{TAG_2}{TAG_3}...{TAG_4}{TAG_5}Comment allez-vous ?
+C'est moi, {TAG_6}.","Hallo, Mama,{TAG_1}
+hallo, Ebenbild von {TAG_2}!{TAG_3}{TAG_4}Wie geht es euch?
+Von {TAG_5}","Mamma, {TAG_1}sosia di {TAG_2}...{TAG_3}{TAG_4}Come stàte?
+Sono io, {TAG_5}!","Hola, mamá {TAG_1}y doble de {TAG_2}:{TAG_3}{TAG_4}¿Estáis bien? Soy yo, {TAG_5}.","Anne,{TAG_1}
+...ve {TAG_2} adlı kişinin benzeri,{TAG_3}{TAG_4}İkiniz nasılsınız?
+Ben {TAG_5}!"
+19,Text_LetterA_R00_None,"{TAG_1}'s lookalike,{TAG_2}{TAG_3}{TAG_4}How are you doing?
+It's {TAG_5}!","Sosie d{TAG_1}{TAG_2}...{TAG_3}{TAG_4}Comment ça va ?
+C'est moi, {TAG_5}.","Hallo, Ebenbild von {TAG_1}!{TAG_2}
+Wie geht es dir?          Von {TAG_3}","Sosia di {TAG_1}...{TAG_2}{TAG_3}Come stai?
+Sono io, {TAG_4}!","Hola, doble de {TAG_1}, {TAG_2}hola a todos:{TAG_3}{TAG_4}¿Estáis bien? Soy yo, {TAG_5}.","{TAG_1} adlı kişinin benzeri,{TAG_2}{TAG_3}{TAG_4}Nasılsın?
+Ben {TAG_5}!"
+20,Text_LetterB_T00,"Since I left {TAG_1} Island
+on the {TAG_2} of {TAG_3} {TAG_4}...{TAG_5}I have explored {TAG_6} {TAG_7}.","J'ai quitté l'île {TAG_1}
+le {TAG_2} {TAG_3} {TAG_4}.{TAG_5}Depuis mon départ, j'ai déjà fait escale
+dans {TAG_6} port{TAG_7}.","Seit ich am {TAG_1} {TAG_2} {TAG_3}
+von {TAG_4} aufgebrochen bin?{TAG_5}habe ich mich bisher auf {TAG_6}{TAG_7} {TAG_8}{TAG_9} umgeschaut.","Da quando ho lasciato l'isola {TAG_1}
+{TAG_2} {TAG_3} {TAG_4}...{TAG_5}Ho visitato {TAG_6} isol{TAG_7}.","Salí de la isla {TAG_1} el día
+{TAG_2} de {TAG_3} de {TAG_4}.{TAG_5}Desde entonces, he visitado el siguiente número
+de islas: {TAG_6}.","{TAG_1} Adası'ndan {TAG_2} {TAG_3} {TAG_4} tarihinde
+ayrıldığımdan beri...{TAG_5}{TAG_6} {TAG_7} keşfettim."
+22,Text_LetterB_T01_00,"I've had many tough times, but they made me
+stronger.","C'est pas facile tous les jours, mais je ne
+me plains pas.","Es war nicht immer einfach, aber insgesamt
+habe ich alles gut gemeistert.","Ho passato momenti difficili,
+ma ora sono più forte!","A veces se hace duro, pero no me quejo.","Zor zamanlar geçirdim ama hepsi beni
+daha da güçlendirdi."
+23,Text_LetterB_T01_01,"I've had many tough times, but that's what
+exploring is all about.","J'ai traversé de nombreuses épreuves,
+mais c'est ça, de voyager.","Es war nicht immer einfach, aber so ist das
+auf Reisen nun einmal.","Ho passato momenti difficili, ma i viaggi
+sono fatti anche di questo...","Me he visto en apuros, pero es lo que
+tienen los viajes.","Çok zorlandığım oldu ama keşfetmenin
+özünde de biraz bu var."
+24,Text_LetterB_T01_02,"I've had some tough times, but nothing I
+couldn't handle.","C'est parfois dur, mais il n'y a rien d'insurmontable.","Es war nicht immer einfach, aber irgendwie
+bin ich trotzdem immer zu rechtgekommen.","Ho passato momenti difficili,
+ma ho saputo cavarmela...","De vez en cuando me enfrento con problemas,
+pero no son para tanto.","Bazen zorlandım ama altından kalkamayacağım
+hiçbir şey olmadı."
+25,Text_LetterB_T01_03,"I've had some tough times, but I'm fine, so
+there's no need to worry.","Bien sûr, c'est parfois dur, mais je peux m'en
+sortir. Ne vous inquiétez pas !","Es war nicht immer einfach, aber ich habe alles
+gut überstanden. Kein Grund zur Sorge.","Ho vissuto dei momenti difficili, ma ora stobène
+e noncè niente di cui preoccuparsi!","Hay días mejores que otros, pero no os preocupéis,
+logro apañármelas.","Zor anlar yaşadım ama şimdi iyiyim,
+merak etmeyin."
+26,Text_LetterB_T01_04,"I've had some tough times, but I'm still having
+so much fun.","Parfois, c'est dur. Mais je continue
+de passer du bon temp en voyage.","Es war nicht immer einfach, aber ich hatte immer
+meinen Spaß. Deshalb reise ich weiter!","Nonostànte qualche momento difficile,
+mi diverto sempre!","Aunque a veces se me haga cuesta arriba, 
+siempre me lo paso bien en mis viajes.","Bazen zor oluyor ama yine de
+çok eğleniyorum."
+27,Text_LetterB_T01_05,"I've had some tough times, but I have had
+much more fun.","Il y a des moments difficiles, mais aussi
+beaucoup de bons moments.","Es war nicht immer einfach, aber insgesamt
+überwiegen doch die positiven Erfahrungen!","Ci sono stati dei momenti difficili,
+ma il divertimento non è mai mancato!","Hay momentos difíciles, pero también
+me lo paso bien.","Zor zamanlarım oldu ama güzel anlarım
+çok daha fazlaydı."
+28,Text_LetterB_T01_06,"I've had no troubles at all and have had fun
+all the way.","Tout va très bien. Je n'ai aucun problème
+et je passe de très bons moments.","Es lief alles wie am Schnürchen! Besser kann
+man sich eine Reise kaum wünschen.","Non ho avuto problemi e tutto è andato
+alla grande!","Todo me va bien, no tengo ningún problema.
+Estoy disfrutando mucho.","Hiç sorun yaşamadım; yol boyunca
+çok eğlendim."
+29,Text_LetterB_T01_07,"I've had no troubles and had a really great
+expedition.","Mon voyage se passe super bien ! Je n'ai
+rencontré aucun problème jusqu'à maintenant.","Es lief alles wie am Schnürchen! Reisen macht
+unglaublich viel Spaß.","Non ho avuto alcun problema, il viaggio
+è andato benissimo!","¡Me lo estoy pasando pipa! De momento no
+he tenido ningún problema.","Hiç sorun çıkmadı ve yolculuğum
+harika geçti."
+30,Text_LetterB_T01_08,"This trip helped me see everything from a
+new perspective.","Quand on voyage, tout nous semble nouveau.","Seit dieser Reise sehe ich mein Leben
+plötzlich in einem ganz anderen Licht...","I viaggi aiutano a vedere le cose
+da una nuova prospettiva...","Cuando uno sale de viaje, todo lo ve con
+otros ojos.","Bu yolculuk her şeye bambaşka bir açıdan
+bakmamı sağladı."
+31,Text_LetterB_T01_09,"This trip helped me to see how small I am
+and how big the world is.","Grâce à ce voyage, j'ai compris que je n'étais
+qu'un grain de sable au milieu de l'océan.","Seit dieser Reise denke ich oft darüber nach,
+wie klein ich bin und wie groß die Welt ist...","Questo viaggio mi ha fatto capire
+quanto sia grande il mondo...","Gracias a mis viajes, me he dado cuenta de que
+no soy más que una mota de polvo en el universo.","Bu yolculuk bana benim ne kadar küçük,
+dünyanınsa ne kadar büyük olduğunu gösterdi."
+32,Text_LetterB_T01_10,"I went to find myself and became a little shy
+about who I used to be.","J'ai un peu honte du temps où je disais que je
+partais à la découverte de mon moi intérieur.","Ich bin losgezogen um mich selbst zu finden. Jetzt
+schäme ich mich etwas dafür wie ich früher war.","Provo un po' di vergogna se penso a com'ero
+prima di fare questo viaggio...","Viajar para descubrirse a uno mismo suena chulo,
+pero luego no es para tanto.","Kendimi bulmak için yola çıktım; şimdi eski
+hâlimi düşününce biraz utanıyorum."
+33,Text_LetterB_T01_11,"If I had troubles, I just told myself that the sun
+shines on us all and held my head up again.","Quand je suis triste, je regarde le ciel et me dis
+que les mêmes étoiles brillent pour tout le monde.","Wenn ich traurig war habe ich mir gesagt: Kopf
+hoch, wir leben alle unter demselben Himmel!","Quando sono triste mi basta alzare gli occhi al
+cielo e pensare che tutti lo guardano come me!","Cuando estoy triste, miro al cielo y pienso
+que todo el mundo lo contempla igual que yo.","Zorlandığımda, aynı güneşin hepimizin üzerine
+doğduğunu düşünüp yeniden başımı dik tuttum."
+34,Text_LetterB_T01_12,"If I close my eyes, I can still see
+{TAG_1} islanders' happy faces.","Chaque fois que je ferme les yeux, je vois tou
+les habitants de l'île {TAG_1}.","Wenn ich die Augen schließe, sehe ich die netten
+Gesichter der Leute von {TAG_1}.","Se chiudo gli occhi riesco ancora a vedere i volti
+degli abitanti dell'Isola {TAG_1}...","Cuando cierro los ojos, veo a todos los residentes
+de la isla {TAG_1}.","Gözlerimi kapatınca hâlâ
+{TAG_1} Adası’ndaki herkesin mutlu yüzünü görebiliyorum."
+35,Text_LetterB_T01_13,"I still don't know how much farther I have
+to travel, but I will never give up.","Mon défi n'est pas encore terminé. Je veux
+savoir jusqu'où je peu aller.","Ich weiß nicht wie lange ich noch weiter reisen
+muss, aber ich werde durchhalten!","Le mie avventure non sono ancora terminàte.
+Voglio proprio scoprire dove posso arrivare!","Mis aventuras aún no han terminado. ¡Quiero
+descubrir hasta dónde puedo llegar!","Daha ne kadar yolum var bilmiyorum
+ama asla pes etmeyeceğim."
+36,Text_LetterB_T01_14,Do you still think about me?,"Vous ne m'avez pas oubli{TAG_1}, au moins ?",Denkst du noch manchmal an mich?,"A casa ci si ricorda ancora di me, vero?","No os habréis olvidado de mí, ¿verdad?",Beni hâlâ düşünüyor musunuz?
+37,Text_LetterB_T01_15,"I still remember everybody on
+{TAG_1} Island.","Moi, je n'ai jamais oublié les habitants
+de l'île {TAG_1}.","Ich erinnere mich noch an all meine neuen
+Freunde auf {TAG_1}.","Ricordo ancora tutti gli abitanti dell'Isola
+{TAG_1}.","Yo nunca me he olvidado de los residentes
+de la isla {TAG_1}.","{TAG_1} Adası’ndaki herkesi
+hâlâ hatırlıyorum."
+38,Text_LetterB_T01_16,I lost my wallet 3 times on this trip already...,"J'ai perdu mon portt-monnaie trois fois, lors
+de mon voyage...","Auf dieser Reise habe ich nun schon dreimal
+meine Brieftasche verloren...","Ho già perso il portafogli tre volte durante
+questo viaggio...","He perdido mi monedero tres veces
+durante mis viajes...","Bu yolculukta cüzdanımı
+şimdiden 3 kez kaybettim..."
+39,Text_LetterB_T01_17,I may have lost a little weight while travelling.,"J'ai un peu maigri, lors de mon voyage...","Ich glaube ich habe ein wenig abgenommen
+seitdem ich losgezogen bin...","Credo di aver perso qualchechilo
+durante questo viaggio...",He adelgazado un poco en mi último viaje...,Yolculuk ederken biraz kilo vermiş olabilirim.
+40,Text_LetterB_T01_18,"I still eat 3 meals a day, so don't worry.","Je mange trois fois par jour.
+Ne vous inquiétez pas !","Keine Sorge, mir fehlt es an nichts. Ich esse
+noch immer drei Mahlzeiten am Tag.","Mangio tre volte al giorno, non c'è nessun
+motivo di preoccuparsi.",Como tres veces al día. ¡No hay de qué preocuparse!,"Merak etmeyin, hâlâ günde üç öğün yiyorum."
+41,Text_LetterB_T01_19,Have there been any big changes since I left?,"Que s'est-il passé, depuis mon départ ?","Hat sich etwas geändert seitdem ich
+losgezogen bin?",Per caso è cambiato qualcòsa in mia assenza?,¿Han cambiado mucho las cosas por aquí?,Ben gittikten sonra büyük bir değişiklik oldu mu?
+42,Text_LetterB_T01_20,I feel like I really grew up on this journey.,"Je pense que j'ai beaucoup changé durant
+mon voyage...","Ich glaube ich bin richtig erwachsen geworden
+auf meiner Reise.","Credo che questo viaggio mi abbia
+aiutat{TAG_1} a crescere.",Creo que este viaje me ha cambiado mucho.,Bu yolculukta gerçekten büyüdüğümü hissediyorum.
+43,Text_LetterB_T01_21,I still haven't found myself yet...,"Mon voyage à la découverte de mon moi
+intérieur n'est pas prêt de toucher à sa fin.","Ich habe noch immer nicht so richtig zu mir
+selbst gefunden...",Non ho ancora ritrovato me stess{TAG_1}...,"Mi viaje para comprender quién soy de verdad
+aún no ha tocado a su fin.",Kendimi hâlâ bulamadım...
+44,Text_LetterB_T01_22,"Every day, I get a new culture shock!","Chaque jour est un choc culturel de pluss, et
+apporte son lot de surprises.","Ich erlebe so gut wie jeden Tag einen
+neuen Kulturschock.","Ogni giorno imparo qualcosa di nuovo
+e sorprendente riguardo le altre culture.","Cada día descubro detalles de otras culturas y
+aprendo cosas sorprendentes.",Her gün yeni bir kültür şoku yaşıyorum!
+45,Text_LetterB_T01_23,"Every day feels fresh, and new discoveries
+await!","Chaque jour apporte son lot de découvertes
+et d'expériences en tous genres.","Jeder neue Tag fühlt sich so frisch an!
+Überall warten neue Entdeckungen auf mich!","Ogni giorno scopro qualcosa di nuovo
+e originale!","Todos los días se aprende algo nuevo
+que te da más experiencia.","Her gün yepyeni geliyor; önümde sürekli
+yeni keşifler var!"
+46,Text_LetterB_T01_24,I may be on the ocean when you get this letter.,"Quand vous recevrez cette lettre, il se peut que
+je sois de nouveau en mer.","Wenn du diesen Brief liest bin ich vielleicht
+gerade auf See.","Quando arriverà questa lettera probabilmente
+sarò di nuovo in viaggio.","Puede que cuando llegue esta carta,
+yo haya vuelto a salir de viaje.",Bu mektup elinize geçtiğinde denizde olabilirim.
+47,Text_LetterB_T01_25,"I drank some spring water recently and felt
+bad, but don't worry. I'm OK now.","L'autre jour, j'ai bu de l'eau non stérilisée et j'ai eu
+la diarrhée. Mais pas d'inquiétude, ça va bien mieux.","Ich habe neulich Quellwasser getrunken und
+hatte dann Bauchweh. Ist jetzt aber wieder weg.","L'altro giorno ho bevuto dell'acqua non sterilizzata
+e mi sono sentit{TAG_1} male. Ma ora sto meglio.","El otro día bebí agua sin esterilizar y me dio diarrea,
+pero ya estoy bien, no hay de qué preocuparse.","Geçenlerde kaynak suyu içtim ve biraz rahatsızlandım
+ama merak etmeyin, şimdi iyiyim."
+48,Text_LetterB_T01_26,I'm starting to miss all of my old favourite foods.,"Ces derniers temps, j'ai de plus en plus envie
+de manger des bons petits plats de chez moi.","So langsam vermisse ich meine ganzen alten
+Lieblingsessen ein wenig...",Inizio a sentire la mancanza dei piatti della mia terra...,"Tengo muchas ganas de comer platos de
+mi tierra.",Eski sevdiğim yemekleri özlemeye başladım.
+49,Text_LetterB_T01_27,I got used to living on my own already.,Je me suis habitu{TAG_1} à la vie en solitaire.,"Ich habe mich mittlerweile daran gewöhnt
+allein zu leben.",Ormai mi sono abituat{TAG_1} a vivere da sol{TAG_2}.,Me he habituado a la vida en solitario.,Tek başıma yaşamaya şimdiden alıştım.
+50,Text_LetterB_T01_28,I can't put into words all the fun I am having.,"Je m'amuse tellement chaque jour que je n'ai
+pratiquement pas le temps d'écrire de lettres.","Ich kann dir gar nicht sagen wie viel Spaß mir
+mein Leben derzeit macht!","Non riesco a spiegare a parole
+quanto mi stia divertendo...","Me lo estoy pasando tan bien, que no tengo
+ni tiempo para escribir cartas.",Ne kadar eğlendiğimi kelimelerle anlatamam.
+51,Text_LetterB_T01_29,I can't wait for everybody to see how I've grown.,"J'aimerais tant vous montrer comment j'ai
+changé grâce à mon voyage.","Ich freue mich schon so auf dein Gesicht, wenn
+du siehst wie groß ich geworden bin!","Non vedo l'ora di mostrare a tutti quanto questo
+viaggio mi abbia fatt{TAG_1} maturare.","Me encantaría mostrarle a todo el mundo
+todo lo que he madurado gracias a mis viajes.","Ne kadar değişip büyüdüğümü herkesin
+görmesi için sabırsızlanıyorum."
+52,Text_LetterB_T01_30,"People have started to tell me I look like a
+real explorer now.","Ces derniers temps, on me dit souvent
+que j'ai l'air d'un{TAG_1} vrai{TAG_2} voyageu{TAG_3}.","In letzter Zeit sagen mir die Leute immer öfter,
+dass ich wie ein richtiger Abenteurer aussehe.","Ultimamente mi dicono che mi comporto
+come {TAG_1}.","Últimamente dicen que me comporto
+igual que los viajeros experimentados.","İnsanlar artık gerçek bir gezgin gibi
+göründüğümü söylemeye başladı."
+53,Text_LetterB_T01_31,"The world is so large. I never realised how
+much so.","Le monde est vraiment vaste. Je ne m'en étais
+jamais renducompte avant.","Die Welt ist so groß... Mir war gar nicht klar
+wie groß sie tatsächlich ist!","Il mondo è così grande... Me ne rendo conto
+soltanto ora.","No me había dado cuenta hasta ahora, pero
+el mundo es realmente inmenso.","Dünya ne kadar da büyük.
+Bu kadar büyük olduğunu hiç fark etmemiştim."
+54,Text_LetterB_T01_32,Meeting so many people made my journey great.,"Ce qui rend un voyage plaisant, c'est les
+gens que l'on rencontre sur notre route.","Das beste an meiner Reise sind die Leute
+die ich unterwegs treffe.","Ciò che rende i viaggi così interessanti è la possibilità
+di conoscere tante persone lungo il proprio cammino.","Lo que hace que los viajes resulten interesantes
+son toda la gente que conoces gracias a ellos.","Bu yolculuğu güzel yapan, tanıştığım
+onca insan oldu."
+55,Text_LetterB_T01_33,"I cried once or twice, but I'm doing OK.","Il m'arrive de pleurer, mais la plupart du temps,
+je suis en pleine forme et je vais de l'avant.","Ein- oder zweimal hatte ich Heimweh und
+musste weinen... Aber jetzt geht's mir gut.","A volte è dura e mi viene quasi da piangere,
+ma poi mi faccio forza e vado avanti...","A veces me entran ganas de llorar, pero
+al final me animo y sigo adelante.",Bir iki kez ağladım ama şimdi iyiyim.
+56,Text_LetterB_T01_34,"To be honest, I never expected I could have
+come this far until I tried.","À vrai dire, je n'aurais jamais imaginé pouvoir
+faire ce genre de chose...","Ich hätte nie gedacht, dass ich es bis hierhin
+schaffen würde. Aber ich habe es geschafft!","A dire la verità, non avrei mai immaginato
+di saper fare certe cose...","Para ser sinceros, nunca imaginé que llegaría
+a hacer todas estas cosas...","Doğrusu denemeden önce bu kadar ileri
+gidebileceğimi hiç düşünmezdim."
+57,Text_LetterB_T01_35,"This journey marks a whole new chapter in my
+life.","Ce voyage restera sûrement une étape
+importante de ma jeunesse.","Diese Reise ist der Beginn eines neuen
+Kapitels in meinem Leben.","Questo viaggio segnerà una tappa importante
+della mia adolescenza.",Este viaje siempre marcará mi adolescencia.,"Bu yolculuk hayatımda yepyeni
+bir sayfa açtı."
+58,Text_LetterB_T01_36,I finally got used to sleeping in a tent.,"Je me suis enfin habitu{TAG_1} à dormir dans
+une tente.","Es hat etwas gedauert, aber mittlerweile bin ich
+daran gewöhnt in einem Zelt zu schlafen.","Alla fine mi sono abituat{TAG_1} perfino
+a dormire in una tenda!",Ya me he acostumbrado a dormir en la tienda.,Sonunda çadırda uyumaya alıştım.
+59,Text_LetterB_T01_37,"I think of everybody before I go to sleep every
+night.","Tous les jours, avant de me coucher, je me
+souviens avec nostalgie de vos visages.","Nachts vor dem Einschlafen denke ich immer
+an dich und die Leute von der Insel.","Ogni notte, prima di andare a dormire, mi 
+vengono in mente i volti dei miei cari...","Todos los días antes de acostarme, me acuerdo
+de vosotros.",Her gece uyumadan önce hepinizi düşünüyorum.
+60,Text_LetterB_T01_38,"I finally understood how much fun it is to go on
+a journey like this.","Je crois avoir enfin compris pourquoi voyager
+est si excitant.","Ich bin überwältigt davon wie viel Freude mir
+diese Reise gebracht hat.","Credo di avere finalmente capito cosè
+che rende i viaggi così eccitanti.","Creo que al fin entiendo por qué
+los viajes son tan divertidos.","Böyle bir yolculuğa çıkmanın ne kadar eğlenceli
+olduğunu sonunda anladım."
+61,Text_LetterB_T01_39,"This trip made me realise how spoiled I used
+to be.","Grâce à ce voyage, je me suis rendu compte
+que je dépendais trop des autre auparavant.","Durch mein Reisen habe ich erkannt wie
+verwöhnt ich früher war.","Grazie a questo viaggio mi sono res{TAG_1} conto di
+quanto dipendessi dagli altri...","Gracias a este viaje, me he dado cuenta de que
+antes dependía mucho de los demás.","Bu yolculuk, eskiden ne kadar şımartılmış
+olduğumu fark etmemi sağladı."
+64,Text_LetterB_T01_40,"I realised how tough I had become from being
+on this adventure.","Pendant mon voyage, je me suis musclé à tel
+point que j'en suis moi-même surpris.","Ich glaube ich habe ganz schön an Muskeln
+zugelegt auf der Reise!","Durante questo viaggio sono diventato così muscoloso
+che io stesso me ne sono meravigliato!","Me he puesto tan petado en mi viaje
+que hasta yo mismo me sorprendo.","Bu macera boyunca ne kadar dayanıklı
+hâle geldiğimi fark ettim."
+65,Text_LetterB_T01_41,"I got quite a sun tan from being out in the wild
+every day.","Lors de mon voyage, j'ai tellement bronzé
+que je ne crains plus les coudes soleil.","Ich war so viel in der Wildnis unterwegs, dass
+ich jetzt ganz braungebrannt bin von der Sonne!","Durante questo viaggio mi sono abbronzato
+così tanto che è quasi difficile riconoscermi.","Me he puesto tan moreno durante el viaje
+que no me reconocería ni mi madre.","Her gün açık havada olduğum için
+epey bronzlaştım."
+66,Text_LetterB_T01_42,"If I say so myself, I became a real man!","Je suis devenu un homme, un vrai.","Ich will mich nicht selbst loben, aber ich glaube
+ich bin ein richtiger Mann geworden!",Me lo dico da solo: sono diventato un vero uomo!,"Me he convertido en un hombre como está
+mandado.",Kendim söylemiş olmayayım ama gerçek bir erkek oldum!
+67,Text_LetterB_T01_43,This adventure really turned me into a man.,"Grâce à ce voyage, je suis enfin devenu un
+homme indépendant.","Dieses Abenteuer hat mich zu einem ganzen
+Mann gemacht.","Grazie a questo viaggio sono diventato
+un uomo che sa il fatto suo.","Gracias a este viaje me he convertido en
+una persona independiente.",Bu macera beni gerçekten olgunlaştırdı.
+68,Text_LetterB_T01_44,"I want to make you proud, and keep on with
+my expedition.","Je vais continuer mon voyage et faire en sorte
+qu'il soit manifique et vous rende fiers de moi.","Ich will dass ihr stolz auf mich seid. Deshalb
+werde ich weiter reisen und die Welt erforschen!","Proseguirò il mio viaggio e farò in modo
+di rendere tutti fieri di me!","Voy a continuar con mis viajes para convertirme
+en alguien de provecho y que estéis orgullosos de mí.",Sizi gururlandırmak ve yolculuğuma devam etmek istiyorum.
+71,Text_LetterB_T01_45,"I was worried about travelling alone, but
+everybody I met has been nice and kind.","J'étais inquiète de voyager toute seule, mais tous les
+gens que j'ai rencontrés ont été gentil avec moi.","Anfangs hatte ich Angst davor allein zu reisen.
+Aber alle Leute waren unglaublich nett zu mir!","Ero preoccupata di viaggiare da sola, ma tutte le
+persone che ho incontrato sono state carine con me.","Me daba un poco de miedo viajar sola, pero
+toda la gente con la que me encuentro es muy amable.","Tek başıma yolculuk etmekten endişeliydim ama
+tanıştığım herkes çok iyi davrandı."
+72,Text_LetterB_T01_46,"I expected this adventure would bring me to
+the man of my dreams... maybe, one day...","J'espère pouvoir rencontrer le petit ami parfait
+lors de mon voyage.","Ich hatte gehofft dass ich unterwegs meinen
+Prinzen treffen würde. Na irgendwann vielleicht.","Spero di riuscire a incontrare l'uomo
+dei miei sogni durante questo viaggio...","Espero que en mi viaje encuentre a alguien
+con quien pueda conectar a la perfección.","Bu macerada hayallerimin erkeğiyle
+karşılaşacağımı sanmıştım... belki bir gün..."
+73,Text_LetterB_T01_47,"Maybe it's because I'm a traveller, but
+everybody treats me so nicely.","Comme je suis une fille qui voyage seule, tout
+le monde est gentil avec moi.","Es ist kaum zu glauben wie nett alle zu einer
+Reisenden wie mir sind.","Sono tutti gentili con me, dovunque io vada.
+Sarà forse perché sono una viaggiatrice?","Como viajo sola, todo el mundo es
+considerado conmigo.","Gezgin olduğumdan mı bilmiyorum ama
+herkes bana çok iyi davranıyor."
+74,Text_LetterB_T01_48,"I can't wait for everybody to see how much I
+have grown stronger.","J'aimerais montrer à tout le monde que je suis
+devenue un peu plus forte grâce à mon voyage.","Die Reise hat mich viel selbstbewusster gemacht
+als ich früher war. Ihr werdet staunen!","Non vedo l'ora di mostrare a tutti quanto
+questo viaggio mi abbia resa forte.","Me gustaría demostrar a los demás que gracias
+a este viaje me he hecho un poco más fuerte.","Bu yolculuğun beni ne kadar güçlendirdiğini
+herkesin görmesi için sabırsızlanıyorum."
+75,Text_LetterB_T01_49,"No matter where I go, everybody says I am
+cute! That's not bragging, is it?","Vous pouvez être fiers de votre fille. Peu importe l'île
+où je suis allée, on m'a dit que j'étais mignonne.","Ich habe unterwegs so viele nette Leute getroffen
+und so viele liebe Komplimente erhalten!","Potete essere fieri di vostra figlia: mi riempiono
+di complimenti, ovunque io vada!","Podéis estar orgullosos de mí. Allá
+donde voy, hago un montón de amigos.","Nereye gitsem herkes çok tatlı olduğumu söylüyor!
+Bunu söylemek övünmek sayılmaz, değil mi?"
+77,Text_LetterB_T02,Now I am on {TAG_1} Island.,"En ce moment, je suis sur l'île {TAG_1}...",Momentan bin ich auf {TAG_1} .,Ora mi trovo sull'Isola {TAG_1}...,Ahora mismo estoy en la isla {TAG_1}.,Şu anda {TAG_1} Adası’ndayım.
+79,Text_LetterB_T03_00,All of the islanders here are nice.,Tout le monde est gentil avec moi ici.,Die Inselbewohner sind alle sehr nett.,Tutti gli abitanti dell'isola sono gentili.,Todo el mundo me trata bien.,Buradaki ada sakinlerinin hepsi çok iyi.
+80,Text_LetterB_T03_01,Everybody here is really kind to me.,"Tous les gens que j'ai rencontrés ond été
+gentil avec moi.",Die Leute hier sind sehr freundlich zu mir.,Tutte le persone che incontro mi trattano bene.,"Todo el mundo con el que me encuentro me
+trata con amabilidad.",Buradaki herkes bana gerçekten çok iyi davranıyor.
+81,Text_LetterB_T03_02,"I was glad they have the same flowers here
+as on {TAG_1} Island.","J'ai vu les mêmes fleurs que sur l'île {TAG_1} .
+Ça m'a fait chaud au cœur.","Ich war froh als ich gesehen habe, dass hier die
+gleichen Blumen bühen wie auf {TAG_1}!","Qui ho visto gli stessi fiori che fioriscono
+sull'Isola {TAG_1} . Che nostalgia...","He visto que aquí tienen las mismas flores que en
+la isla {TAG_1} y me ha entrado nostalgia.","Burada da {TAG_1} Adası’ndaki çiçeklerin
+aynen olduğunu görünce sevindim."
+82,Text_LetterB_T03_03,I started to lose track of time while on this island.,"Je ne vois pas le temps passer, sur cette île.","Ich habe jegliches Zeitgefühl verloren seitdem
+ich auf dieser Insel bin.","Su questìsola si perde la cognizione
+del tempo...",En esta isla se me pasa el tiempo volando.,Bu adadayken zamanın nasıl geçtiğini unutmaya başladım.
+83,Text_LetterB_T03_04,"Guess what? I found somebody that looks
+just like {TAG_1}'s lookalike!","J'ai vu quelqu'un qui ressemblait au
+sosie d{TAG_1}{TAG_2} sur cette île.{TAG_3}C'est mystérieux...","Ich habe jemanden getroffen, der genauso
+aussieht wie Ebenbild von {TAG_1}!","Su quest'isola ho visto qualcuno che somigliava
+{TAG_1} sosia di {TAG_2}... Che strano!","En esta isla he visto a alguien que se parecía
+{TAG_1} doble de {TAG_2}...{TAG_3}¡Es un misterio!","Bil bakalım ne oldu? {TAG_1} adlı kişinin benzerine
+tıpatıp benzeyen birini buldum!"
+84,Text_LetterB_T03_05,"This island really reminds me of
+{TAG_1} Island...","L'atmosphère de cette île me rappelle celle
+de l'île {TAG_1}.","Frag mich nicht warum, aber diese Insel erinnert
+mich sehr an {TAG_1}.","L'atmosfera di questìsola mi ricorda quella
+dell'Isola {TAG_1}.","El ambiente de esta isla me recuerda al de
+la isla {TAG_1}.","Bu ada bana gerçekten
+{TAG_1} Adası’nı hatırlatıyor..."
+85,Text_LetterB_T03_06,"The islanders gave me some really nice food.
+I'd like you to try it too.","Les habitants de l'île m'ont donné un truc super
+bond à manger. J'aimerais vous le faire goûter.","Die Inselbewohner haben mir etwas sehr Leckeres
+zu essen gegeben. Das müsst ihr mal probieren!","Gli abitanti dell'isola mi hanno offerto un pasto
+succulento. Che persone accoglienti!","Los residentes de la isla me han dado una cosa muy
+rica de comer. Me encantaría que pudierais probarla.","Ada sakinleri bana çok güzel yemekler ikram etti.
+Sizin de tatmanızı isterdim."
+86,Text_LetterB_T03_07,I'm thinking about staying here for a while.,J'ai l'intention de me reposer ici quelque temps.,"Ich hätte nichts dagegen eine Weile
+hierzubleiben.","Sto pensando di fermarmi qui per un po'
+e rilassarmi.","Creo que me voy a quedar aquí un tiempecito
+para relajarme.",Bir süre burada kalmayı düşünüyorum.
+87,Text_LetterB_T03_08,"It's dinner time and I just caught a whiff of a
+most wonderful aroma.","C'est l'heure du dîner, et je sen une
+bonne odeur flotter dans l'air.","Hier ist gerade Abendessenszeit. Es duftet
+schon überall so gut nach Essen...",È ora di cena e sento un profumino delizioso...,"Es hora de cenar y huele muy bien, deben
+de estar cocinando en algún sitio.","Akşam yemeği vakti ve az önce burnuma
+muhteşem bir koku geldi."
+88,Text_LetterB_T03_09,There are a lot of cats here on this island.,Il y a beaucoup de chats sur cette île.,Es gibt ziemlich viele Katzen auf dieser Insel.,Su questìsola ci sono tantissimi gatti!,Hay montones de gatos en esta isla.,Bu adada bir sürü kedi var.
+89,Text_LetterB_T03_10,I've seen birds here that I've never seen before.,J'ai vu un oiseau inconnu voler dans le ciel...,"Ich habe hier schon Vögel gesehen, die ich noch
+nie zuvor in meinem Leben gesehen habe.","Qui ho visto uccelli che non avevo
+mai visto prima...","Antes he visto un pájaro desconocido
+surcando el cielo...",Burada daha önce hiç görmediğim kuşlar gördüm.
+90,Text_LetterB_T03_11,I like to go for strolls and then take a nap.,"Je passe mon temps à me promener
+et à faire la sieste.","Mein neuestes Hobby ist: Nach dem
+Spazierengehen ein Nickerchen halten.","Trascorro il tempo facendo passeggiate
+e sonnellini pomeridiani.","Me paso el tiempo dando paseos y
+durmiendo la siesta.","Gezintiye çıkıp ardından
+kestirmeyi seviyorum."
+91,Text_LetterB_T03_12,"One day, a bird stole my food. That got me
+feeling a little down...","Un jour, un oiseau m'a chipé mon repas...
+J'étais un peu triste à cause de ça...","Neulich hat mir ein Vogel mein Essen gestohlen.
+Das hat mich ein wenig erschüttert...","Un giorno un nibbio mi ha rubato il pranzo.
+Ero così triste...","Estoy triste porque un milano negro
+me ha robado la comida...","Geçen gün bir kuş yemeğimi çaldı.
+Biraz moralim bozuldu..."
+92,Text_LetterB_T03_13,"The weather here is just the same as on
+{TAG_1} Island.","J'ai l'impression que le climat de cette île
+ressemble à celui de l'île {TAG_1}.","Das Wetter hier ist eigentlich genauso wie auf
+{TAG_1}.","Il colore del cielo di questìsola mi ricorda
+quello dell'Isola {TAG_1}.","Tengo la sensación de que el color del cielo de
+esta isla se parece al de la isla {TAG_1}.","Buradaki hava {TAG_1} Adası’ndakiyle
+tıpatıp aynı."
+93,Text_LetterB_T03_14,The food is really great here.,La nourriture est excellente sur cette île.,Das Essen hier ist wirklich lecker.,"Il cibo su questìsola è a dir poco
+delizioso!",La comida de esta isla está riquísima.,Buradaki yemekler gerçekten harika.
+94,Text_LetterB_T03_15,"This island is so confusing, I actually had to
+ask for directions.","On dirait que je fais partie de cette île, maintenant.
+L'autre jour, quelqu'un m'a demandé son chemin.","Ich finde mich noch immer nicht zurecht hier.
+Ständig muss ich nach dem Weg fragen.","Questìsola per me non ha più segreti. L'altro
+giorno mi hanno addirittura chiesto indicazioni!","Parece que me he integrado muy bien en la isla.
+El otro día me pidieron direcciones y todo.","Bu ada o kadar kafa karıştırıcı ki
+yol sormak zorunda kaldım."
+95,Text_LetterB_T03_16,"The views from this island are completely
+breathtaking. If only I could put it into words.","Les paysages de cette île sont tà couper le souffle.
+J'aimerais tant pouvoir partager ça avec vous.","Die Aussicht von dieser Insel ist atemberaubend.
+Ich wünschte ich könnte sie beschreiben...","I paesaggi di quest'isola sono mozzafiato...
+Vorrei tanto poter condividere queste emozioni...","Los paisajes de esta isla quitan el aliento. No encuentro
+las palabras adecuadas para describirlos.","Bu adanın manzaraları nefes kesici.
+Keşke kelimelerle anlatabilsem."
+96,Text_LetterB_T03_17,This island is so nice I could live here.,"Cette île est tellement agréable que
+j'aimerais y vivre.","Es ist so schön hier! Ich glaube ich könnte
+mein ganzes Leben hier verbringen.","Questìsola è così bella che quasi quasi
+mi ci trasferirei.","Esta isla es tan agradable que me encantaría
+quedarme a vivir aquí.",Bu ada o kadar güzel ki burada yaşayabilirim.
+97,Text_LetterB_T03_18,I saw a cat here that looked just like Dad.,"Sur cette île, j'ai vu un chat qui ressemblait
+comme deux gouttes d'eau à papa.","Hier gibt es eine Katze die genauso aussieht
+wie Papa!",Su questìsola ho visto un gatto identico a papà.,En esta isla he visto un gato clavadito a papá.,Burada babama tıpatıp benzeyen bir kedi gördüm.
+98,Text_LetterB_T03_19,"This island is so much fun, the sound of
+laughter never ends.","C'est une île où les gens rigolent tout le temps
+et sont toujours de bonne humeur.","Alle Leute hier sind so fröhlich! Wo man nur
+hingeht, hört man die Leute lachen!","Su questìsola la gente è sempre di buonumore,
+e non smette mai di sorridere.","En esta isla todo el mundo ríe todo el tiempo
+y siempre están de buen humor.","Bu ada o kadar eğlenceli ki kahkaha sesi
+hiç eksik olmuyor."
+99,Text_LetterB_T03_20,There is a great smell all over this island.,"Sur toute l'île, on peut sentir l'odeur de
+bons petits plats.","Ich bin fasziniert davon, wie gut es hier
+überall riecht!","In qualsiasi punto dell'isola si sente
+un profumino delizioso!","En todos los rincones de la isla huele a comida
+rica.",Adanın her yerinde harika bir koku var.
+100,Text_LetterB_T03_21,"The ocean here is just as beautiful as around
+{TAG_1} Island.","La mer de cette île est aussi belle que celle
+de l'île {TAG_1}.","Das Meer hier ist genauso schön wie daheim
+auf {TAG_1}.","Il mare qui è uno spettacolo, quasi
+quanto quello dell'Isola {TAG_1}.","El océano que rodea a esta isla es tan bonito
+como el de la isla {TAG_1}.","Buradaki deniz de {TAG_1} Adası’nın çevresindeki
+kadar güzel."
+101,Text_LetterB_T03_22,"I feel like I'm miles away from {TAG_1}
+Island, but actually it's just a stone's throw away.","On dirait que c'est loin de l'île {TAG_1},
+mai en faitt, c'est juste à côté.","Es ist als wäre ich Meilen von {TAG_1}
+entfernt, dabei bin ich praktisch neben an...","In realtà questìsola è più vicina di quanto
+sembri all'isola {TAG_1}.","Parece que esta isla y la isla {TAG_1}
+están muy lejos la una de la otra, pero no es cierto.","{TAG_1} Adası’ndan kilometrelerce uzakta gibi
+hissediyorum ama aslında hemen yanı başında."
+102,Text_LetterB_T03_23,The sunsets here are wonderful.,"Le coucher de soleil de cette île,
+m'a {TAG_1} au plus haut point.","Die Sonnenuntergänge hier sind
+unbeschreiblich schön.","I tramonti di questìsola sono semplicemente
+meravigliosi!","Las puestas de sol de esta isla son
+conmovedoras.",Buradaki gün batımları muhteşem.
+103,Text_LetterB_T03_24,"All the islanders here greet each other in such
+a friendly manner.","Ici, les gens vous disent toujours bonjour avec
+le sourire.","Die Inselbewohner hier begrüßen sich alle immer
+so freundlich gegenseitig...","Tutti gli abitanti dell'isola ti salutano
+con un sorriso.","Aquí, todo el mundo te saluda con una
+sonrisa en la cara.","Buradaki ada sakinleri birbirlerini
+ne kadar içten selamlıyor."
+104,Text_LetterB_T03_25,This island may be small but it is really famous.,"Cette île est petite mais très connue dans
+le coin.","Die Insel ist zwar klein, aber dafür ziemlich
+berühmt hier in der Gegend!","Anche se è piccola, questìsola
+è molto conosciuta.","Esta isla es pequeña, pero es muy conocida
+por aquí.",Bu ada küçük olabilir ama gerçekten çok ünlü.
+105,Text_LetterB_T03_26,I've always dreamed of coming to this island.,C'est le genre d'île où j'ai toujours rêvé d'habiter.,"Ich habe schon so lange davon geträumt einmal
+hier herzukommen.","Questìsola è il posto in cui ho sempre sognato
+di vivere.","Este es el tipo de isla en el que siempre
+he querido vivir.",Bu adaya gelmeyi hep hayal etmiştim.
+106,Text_LetterB_T03_27,"I lost my bag somewhere on this island and
+one of the islanders found it and gave it back.","J'avais perdu mon portt-monnaie sur cette île,
+mai un habitant l'a trouvé et me l'a rapporté.","Neulich habe ich meine Tasche hier verloren,
+aber ein Bewohner hat sie wiedergefunden!","Ho perso il portafogli, ma un abitante
+dell'isola l'ha trovato e me l'hà riportato.","Se me perdió la cartera en esta isla, pero un
+residente la encontró y me la devolvió.","Çantamı adada bir yerde kaybettim; ada sakinlerinden
+biri bulup bana geri getirdi."
+107,Text_LetterB_T03_28,"I have been having great conversations with
+the islanders here.","Je parlais à l'instant avec des gens de l'île.
+À chaque fois, je passe un bon moment.","Ich unterhalte mich ganz prächtig mit den
+Einwohnern hier!","Ho appena scambiato due chiacchiere con alcuni
+abitanti dell'isola. Mi diverto sempre un mondo!","Antes he estado charlando con varios residentes de la isla.
+Cada vez que hablo con ellos me lo paso bomba.",Buradaki ada sakinleriyle çok güzel sohbetler ediyorum.
+108,Text_LetterB_T03_29,The islanders showed me all the best spots.,"Un habitant m'a montré les endroits
+touristiques de l'île.","Diese Insel hat ein paar wunderschöne Flecken!
+Die Einwohner haben sie mir alle gezeigt.","Uno degli abitanti dell'isola mi ha dato
+delle dritte sui posti da visitare.","Uno de los residentes me ha mostrado
+las atracciones turísticas de la isla.","Ada sakinleri bana en güzel
+yerlerin hepsini gösterdi."
+109,Text_LetterB_T03_30,I have an island cat on my knees right now.,Un chat de l'île est assis sur mes genoux !,"Während ich das hier schreibe, sitzt mir eine
+einheimische Katze auf den Knien.","In questo momento un gatto dell'isola è seduto
+sulle mie ginocchia...","¡Tengo a uno de los gatos de la isla tumbado
+en mis rodillas, tan pancho!",Şu anda kucağımda adanın kedilerinden biri var.
+110,Text_LetterB_T03_31,This place feels like heaven.,On peut appeler cette île un paradis sur terre !,Ich fühle mich hier wie im Himmel!,Questìsola è un paradiso sulla terra!,Esta isla es un pedacito de cielo en la tierra.,Burası cennet gibi.
+111,Text_LetterB_T03_32,"Everybody gets along so well here and their
+happiness is really catching.","Tous les habitants de l'île s'entendent à merveille,
+et les regarder me remplit de joie.","Es ist unglaublich wie gut sich die Leute hier
+vertragen. Ihre gute Laune ist ansteckend!","Gli abitanti dell'isola vanno così d'accordo tra
+di loro che è un piacere anche solo guardarli.","Los residentes de la isla se llevan tan bien entre ellos
+que da gusto verles.","Burada herkes birbiriyle öyle iyi geçiniyor ki
+mutlulukları insana da bulaşıyor."
+112,Text_LetterB_T03_33,"The islanders here think that I am a great
+explorer.","Les habitants de l'île disent que je suis {TAG_1}
+voyageu{TAG_2} exemplaire.","Die Inselbewohner hier glauben jetzt alle, dass
+ich ein berühmter Abenteurer bin...","Gli abitanti dell'isola mi hanno detto che sono
+{TAG_1} esemplare.","Los residentes de la isla dicen que pocas veces
+han visto viajeros tan ejemplares como yo.","Buradaki ada sakinleri harika bir gezgin
+olduğumu düşünüyor."
+113,Text_LetterB_T03_34,"The islanders' kindness gave me strength after
+having such a hard journey.","La gentillesse des habitants de l'île m'a fait
+chaud au cœur et m'a remonté le moral.","Die Gastfreundschaft der Einwohner hier war
+richtig erfrischend nach der langen Reise.","La gentilezza degli abitanti dell'isola mi ha
+aiutat{TAG_1} a riprendermi dalle fatiche del viaggio.","La amabilidad de los residentes es un bálsamo
+para mi agotado corazón y me levanta la moral.","Zorlu yolculuğumun ardından ada sakinlerinin
+iyiliği bana yeniden güç verdi."
+114,Text_LetterB_T03_35,"This island has made a bigger impression
+on me than anywhere I've been to before.","J'ai visité d'autres îles, mais celle-ci restera
+celle de mes meilleurs souvenirs.","Diese Insel hat mich sofort begeistert. Viel mehr
+als alle anderen die ich bisher gesehen habe.","Ho visitato molte isole, ma finora questa mi ha
+lasciato i ricordi più belli.","He visitado muchas islas, pero siempre me
+acordaré de esta con especial cariño.","Bu ada, şimdiye kadar gittiğim her yerden
+daha büyük bir iz bıraktı."
+115,Text_LetterB_T03_36,"The dogs here are all so friendly and relaxed.
+Just like this island.","Les chiens sont touss paisibles, tout comme
+l'atmosphère de l'île.","Die Hunde hier sind alle so freundlich und
+entspannt! Genau wie die Leute auch.","I cani qui sono molto tranquilli, proprio come
+gli abitanti dell'isola.","Los perros de aquí son muy pachorrones, igual
+que el ambiente que se respira en la isla.","Buradaki köpeklerin hepsi çok dost canlısı ve rahat.
+Tıpkı bu ada gibi."
+116,Text_LetterB_T03_37,"They say it's lucky to get letters from this
+island, did anything good happen over there?","Je me disais que vous seriez heureux de recevoir
+une lettre de cette île. Ça vous fait plaisir ?","Ich habe gehört dass Post von dieser Insel Glück
+bringen soll... Na? Ist schon was Gutes passiert?","Dicono che porti fortuna ricevere una lettera da 
+questìsola. Sarà vero?","Dicen que da buena suerte recibir una carta
+desde esta isla. ¿Será cierto?","Bu adadan mektup almanın şans getirdiğini söylüyorlar.
+Orada güzel bir şey oldu mu?"
+117,Text_LetterB_T03_38,"This island is supposed to make its visitors
+feel happy. I feel pretty happy right now.","Il paraît que les voyageurs qui viennent sur cette
+île trouvent le bonheur. Je le pense aussi.","Man sagt dass diese Insel Besucher glücklich
+macht. Bei mir hat es wirklich gewirkt!","Sembra che chiunque giunga su questìsola
+trovi la felicità... e io ne sono la prova!","Parece que los viajeros que llegan a esta isla
+encuentran la felicidad, ¡y yo no soy una excepción!","Bu adanın ziyaretçilerini mutlu ettiği söyleniyor.
+Şu anda ben de oldukça mutluyum."
+118,Text_LetterB_T03_39,"This island is so great, I just had to write and
+tell you about it straight away.","Cette île est si charmante que je vous envoie
+une lettre pour vous le dire.","Die Insel gefällt mir so gut, dass ich euch sofort
+davon berichten musste.","Quest'isola è un incanto. Non ho potuto fare
+a meno di scrivere una lettera per raccontarlo.","Esta isla es tan encantadora, que no he podido
+resistir escribir una carta hablando de ella.","Bu ada o kadar güzel ki hemen mektup yazıp
+size anlatmadan duramadım."
+121,Text_LetterB_T03_40,"I think if I train hard on this island, I can
+become an even better explorer.","J'ai l'impression que si je suis un entraînement
+rigoureux ici, je deviendrai un homme bien.","Wenn ich auf dieser Insel ordentlich trainiere,
+kann ich ein noch größerer Abenteurer werden!","Credo che se mi mettessi a studiare su questìsola
+diventerei una persona migliore.","Creo que si me quedo en esta isla a estudiar,
+me convertiré en alguien de provecho.","Bu adada sıkı çalışırsam daha da iyi
+bir gezgin olabilirim."
+122,Text_LetterB_T03_41,"Unfortunately, this isn't the island where all
+the hidden treasure is buried.","C'est bien dommage, mais il n'y avai aucun
+trésor caché sur cette île...","Leider habe ich hier noch keine größeren
+Schätze bergen können... Aber mal sehen.","Che peccato, non c'è nessun tesoro nascosto
+su questìsola...","Qué pena, pero al final no había ningún tesoro
+enterrado en esta isla...","Ne yazık ki bütün gizli hazinelerin gömülü olduğu
+ada burası değilmiş."
+123,Text_LetterB_T03_42,This island would be great for a boys' night out.,"C'est une île merveilleuse qui réveille
+votre curiosité.","Ich muss sagen diese Insel wäre der perfekte
+Ort, um mit ein paar Jungs abends wegzugehen.","Questìsola è perfetta per una serata
+tra amici!","Esta isla maravillosa hace que despierten
+mis instintos masculinos.",Bu ada erkek erkeğe bir gece geçirmek için harika.
+124,Text_LetterB_T03_43,It's so easy to chat to girls on this island.,"Si vous voulez devenir un vrai homme, venez
+sur cette île.","Es ist toll wie einfach es auf dieser Insel ist,
+mit den Mädchen ins Gespräch zu kommen...","È semplice iniziare una conversazione con
+le ragazze su questìsola.","Esta isla es perfecta para los que quieren
+convertirse en hombres de pelo en pecho.",Bu adada kızlarla sohbet başlatmak çok kolay.
+125,Text_LetterB_T03_44,This island is perfect for a boys' holiday.,"Si vous êtes un homme, c'est une île que
+vous devez visiter à tout prix.","Diese Insel ist das optimale Reiseziel für
+einen Männerurlaub!","Questa è un'isola che tutti i viaggiatori
+dovrebbero visitare almeno una volta.","Si eres un hombre de verdad, tienes que
+venir a esta isla cueste lo que cueste.",Bu ada erkek erkeğe tatil için biçilmiş kaftan.
+128,Text_LetterB_T03_45,"I found a really nice hat on this island. I am
+thinking about buying it as a souvenir.","J'ai trouvé un chapeau trop joli sur l'île et je
+pense l'acheter en souvenir.","Ich habe hier einen tollen Hut entdeckt. Ich
+glaube ich werde ihn als Souvenir kaufen.","Ho visto un cappello molto carino su questìsola...
+Penso che lo comprerò come souvenir!","He encontrado un sombrero muy mono en esta
+isla y creo que me lo voy a comprar de recuerdo.","Bu adada çok güzel bir şapka buldum.
+Hatıra olarak almayı düşünüyorum."
+129,Text_LetterB_T03_46,"The food on this island is so different. I can't
+wait to show you what it's like when I get back.","La cuisine de cette île est assez spéciale.
+Quand je rentrerai, je vous ferai goûter !","Die Leute essen hier ganz andere Sachen als
+wir daheim! Ich werde euch etwas mitbringen.","La cucina di questìsola è molto particolare.
+Quando ritorno preparerò qualchepiatto!","Los platos de esta isla tienen algo especial. Cuando
+regrese, ¡prepararé algunos!","Bu adanın yemekleri çok farklı. Dönünce
+nasıl olduklarını size de göstermek istiyorum."
+130,Text_LetterB_T03_47,"Everybody on this island is so stylish. I will
+have to buy some new clothes to keep up.","Tous les gens de l'île sont élégants. Je fais
+tout pour être aussi élégante qu'eux.","Die Leute hier sind alle so modisch! Ich musste
+mir neue Klamotten kaufen um mitzuhalten...","Tutti gli abitanti di questìsola vestono con
+stile... e io non posso essere da méno!","Todos los residentes de la isla tienen mucho
+estilo. Yo no pienso quedarme atrás.","Bu adadaki herkes çok şık. Ayak uydurmak için
+ben de yeni kıyafetler almalıyım."
+131,Text_LetterB_T03_48,"This island is so wonderful, it would be the
+perfect place to come on a honeymoon.","Cette île est tellement bien que j'aimerait
+y passer ma lune de miel.","Es ist so wunderbar hier! Diese Insel wäre der
+perfekte Ort für Flitterwochen.","È un posto meraviglioso.
+Sarebbe perfetto per venirci in luna di miele!","Esta isla es tan bonita, que me encantaría venir
+aquí en mi luna de miel.","Bu ada o kadar güzel ki balayı için
+mükemmel bir yer olurdu."
+132,Text_LetterB_T03_49,This island is so cute and lovely!,"C'est une petite île charmante qui fait
+vibrer le cœur des filles.","Ihr werdet mir nicht glauben wie hübsch es
+auf dieser Insel ist!","Questa piccola isola è in grado di toccare
+il cuore di tutte le ragazze.","Esta pequeña isla es tan encantadora que cualquier
+chica se emocionaría al verla.",Bu ada çok tatlı ve sevimli!
+134,Text_LetterB_TLevelUp,"The islanders here were so nice to me that my
+Thanks Level went up to {TAG_1}!","De nombreuses personnes ont été gentil
+avec moi. Mon niveau de gratitude a atteint {TAG_1} !","Die Bewohner hier waren so nett zu mir, dass
+mein Dankbarkeitslevel auf {TAG_1} gestiegen ist!","Gli abitanti sono stati così gentili con me che
+il mio livello di gratitudine è salito a {TAG_1}!","Mucha gente ha sido amable conmigo.
+¡Mi nivel de gratitud es {TAG_1}!","Buradaki ada sakinleri bana o kadar iyi davrandı ki
+Teşekkür Seviyem {TAG_1} oldu!"
+135,Text_LetterB_T04,"I put in a photo of a friend I made on this
+island called {TAG_1}.","Je vous envoie aussi une photo prise sur l'île
+avec {TAG_1}, {TAG_2}.","Darf ich vorstellen? Das auf dem Foto ist
+{TAG_1}! Wir haben uns angefreundet.","Allego una foto di una persona che ho
+conosciuto su questìsola, {TAG_1}.","Envío también unas fotos que me he hecho
+en la isla con {TAG_1}, {TAG_2}.","Bu adada tanıştığım {TAG_1} adlı arkadaşımla
+çekildiğim bir fotoğrafı da ekledim."
+136,Text_LetterB_T04_NoFriend,"I took this photo to show you something of
+this island.","Je vous envoie aussi une photo prise
+sur cette île.","Ich habe ein Foto angehängt, damit ihr auch
+mal seht wie es hier aussieht.","Allego delle foto che ho scattato
+su questìsola.","Envío también una foto que
+he hecho de la isla.","Bu adayı size göstermek
+için bir fotoğraf çektim."
+137,Text_LetterB_T05,"Well, I have to keep on with my journey. {TAG_1}I wish
+you were here! {TAG_2}{TAG_3}","Il est temps de poursuivre mon voyage.{TAG_1}
+À bientôt...{TAG_2} {TAG_3}","Ich muss bald wieder aufbrechen. Aber ich werde
+an euch denken!                {TAG_1} {TAG_2}","Bene, ora continuerò il mio viaggio. {TAG_1}A presto!{TAG_2}
+{TAG_3}","Continúo con mis viajes. {TAG_1}Hasta pronto.{TAG_2}
+{TAG_3}","Neyse, yolculuğuma devam etmeliyim. {TAG_1}
+Keşke siz de burada olsaydınız! {TAG_2}{TAG_3}"
+138,Text_LetterC_T00,"It's so nice to hear how {TAG_1}
+is doing.{TAG_2}I wish them well on their journey.","Ça me rassure de savoir qu{TAG_1}{TAG_2}
+a l'air de bien se porter.{TAG_3}Je vais continuer à l'encourager.","Schön mal wieder etwas von
+{TAG_1} zu hören!{TAG_2}Weiterhin gute Reise...","Mi tranquillizza sapere che {TAG_1}
+sta bene.{TAG_2}Continuerà ad avere tutto il mio sostegno.","Es tranquilizador...
+¡Mucho ánimo, {TAG_1}!","{TAG_1} hakkında haber almak çok güzel.{TAG_2}
+Yolculuğunun iyi geçmesini diliyorum."
+139,Text_Letter_RP_B_T00_00,"Since I left {TAG_1} Island
+on the {TAG_2} of {TAG_3} {TAG_4}...{TAG_5}I have been travelling nonstop!","Depuis que j'ai quitté l'île {TAG_1},
+le {TAG_2} {TAG_3} {TAG_4}...{TAG_5}Je n'ai pas arrêté de voyager.","Seit ich am {TAG_1} {TAG_2} {TAG_3}
+von {TAG_4} aufgebrochen bin?{TAG_5}reise ich ohne Unterbrechung umher!","Da quando ho lasciato l'Isola {TAG_1}
+{TAG_2} {TAG_3} {TAG_4}...{TAG_5}Non ho più smesso di viaggiare!","Salí de la isla {TAG_1} el día
+{TAG_2} de {TAG_3} de {TAG_4}.{TAG_5}Desde entonces, ¡he estado viajando sin parar!","{TAG_1} Adası'ndan {TAG_2} {TAG_3} {TAG_4} tarihinde ayrıldığımdan beri...{TAG_5}
+Durmadan seyahat ediyorum!"
+140,Text_Letter_RP_B_T00_01,"Since I left {TAG_1} Island
+on the {TAG_2} of {TAG_3} {TAG_4}...{TAG_5}I have explored {TAG_6} {TAG_7}.","J'ai quitté l'île {TAG_1}
+le {TAG_2} {TAG_3} {TAG_4}.{TAG_5}Depuis mon départ, j'ai déjà fait escale
+dans {TAG_6} port{TAG_7}.","Seit ich am {TAG_1} {TAG_2} {TAG_3}
+von {TAG_4} aufgebrochen bin?{TAG_5}habe ich mich bisher auf {TAG_6}{TAG_7} {TAG_8}{TAG_9} umgeschaut.","Da quando ho lasciato l'isola {TAG_1}
+{TAG_2} {TAG_3} {TAG_4}...{TAG_5}Ho visitato {TAG_6} isol{TAG_7}.","Salí de la isla {TAG_1} el día
+{TAG_2} de {TAG_3} de {TAG_4}.{TAG_5}Desde entonces, he visitado el siguiente número
+de islas: {TAG_6}.","{TAG_1} Adası'ndan {TAG_2} {TAG_3} {TAG_4} tarihinde
+ayrıldığımdan beri...{TAG_5}{TAG_6} {TAG_7} keşfettim."
+141,Text_Letter_RP_B_T01_00,"Greetings from StreetPass Relay Point Island!{TAG_1}I'm just relaxing here while I wait for a ship
+to pass by and take me on my way.","Je suis en ce moment au milieu de l'océan,
+sur l'île point de relais StreetPass.{TAG_1}Je me repose un peu en attendant l'arrivée
+du prochain bateau.","Ich bin jetzt gerade auf einer Insel namensssssssss
+StreetPass Kontaktpunkt, mitten im Ozejan.{TAG_1}Hier ruhe ich mich ein wenig aus, und warte
+darauf dass ein Schiff mich aufnimmt.","Adesso sono sull'Isola Punto di scambio
+StreetPass che si trova in mezzo all'oceano.{TAG_1}Mi sto rilassando mentre aspetto la nave.","Estoy tomándome un descanso en el punto
+repetidor de StreetPass que hay en medio del mar,{TAG_1}mientras espero a que venga un barco
+a recogerme.","StreetPass Aktarma Noktası Adası’ndan selamlar!{TAG_1}
+Bir geminin gelip beni yoluma götürmesini
+beklerken burada dinleniyorum."
+142,Text_Letter_RP_B_T02_00,"The sea breeze on this island is so refreshing!{TAG_1}But to be honest, I wish a ship would
+just come and pick me up already...","La brise qui souffle sur cette île
+est si agréable...{TAG_1}Mais je m'ennuie à un point ! Vivement
+que le prochain bateau arrive...","Auf dieser Insel ist der Wind zwar angenehm?{TAG_1}aber ich würde mich schon freuen wenn bald
+ein Schiff käme um mich abzuholen.","La brezza salmastra qui è piacevole, ma non succede
+mai niente... Spero che la nave arrivi presto.","Sopla una brisa la mar de agradable, pero
+lo malo es que me aburro como una ostra.{TAG_1}¡A ver si no tarda mucho el barco!","Bu adadaki deniz meltemi ne kadar ferahlatıcı!{TAG_1}
+Ama doğrusu artık bir gemi gelip beni alsa hiç fena olmaz..."
+143,Text_Letter_RP_B_T02_01,"I'm just kicking back while I daydream
+about the next island I'll end up on.","J'imagine la prochaine île où je vais me rendre,
+et je peux dire que je ne me fais pas de souci !","Wie wird wohl die nächste Insel sein, auf die
+mich meine Reise führt? Ich bin gespannt!{TAG_1}Hier verbringe ich ruhige Tage und hoffe, dass
+recht bald ein Schiff kommt und mich abholt.","Mi rilasso immaginando come sarà la prossima
+isola che visiterò.","Para no aburrirme me pongo a pensar
+en la próxima isla que voy a visitar.{TAG_1}¡Así se me pasa el tiempo volando!","Bir yandan dinleniyor, bir yandan da sıradaki
+adanın nasıl olacağını hayal ediyorum."
+144,Text_Letter_RP_B_T02_02,"All this peace and quiet is giving me plenty
+of time to plan out the rest of my journey!","Ça faisait longtemps que je ne m'étais pas
+retrouvé{TAG_1} seul{TAG_2}.{TAG_3}Je vais en profiter pour réfléchir tranquillement
+à mes futures destinations.","Zum ersten Mal seit langer Zeit bin ich allein und
+denke über meine weiteren Reisepläne nach.","Finalmente posso pianificare il resto
+del viaggio in tutta tranquillità.","Hacía la tira que no tenía tiempo para mí.{TAG_1}Voy a aprovechar para rememorar todas las
+aventuras que hévivido hasta ahora en mis viajes.","Buradaki huzur ve sessizlik, yolculuğumun
+devamını planlamak için bolca zaman veriyor!"
+145,Text_Letter_RP_B_T02_03,"As I gaze out over the ocean, I can
+see many islands on the horizon.{TAG_1}Maybe one of them will be my next destination...","Je peux voir plusieurs îles à l'horizon.{TAG_1}Je pourrais peut-être me rendre sur
+l'une d'elles, la prochaine fois !","Am Horrizont lassen sich einige Inseln erahnen.{TAG_1}Ich denke meine Reise wird mich bald
+auf eine dieser Inseln führen.","All'orizzonte scorgo molte isole.
+So già quale sarà la mia prossima meta.","A lo lejos se divisan multitud de islas.
+¡Desde aquí se ven tan minúsculas...!{TAG_1}Ahora tengo que pensar a cuál de ellas
+quiero ir.","Denize baktıkça ufukta pek çok ada görüyorum.{TAG_1}
+Belki sıradaki durağım onlardan biri olur..."
+146,Text_Letter_RP_B_T02_04,"Until a ship comes, I'm catching up on a little
+reading. Good thing I brought plenty of books!","En attendant le prochain bateau, je vais
+peut-être lire le livre que j'ai apporté.","Bis das nächste Schiff kommt, verbringe ich die
+Zeit mit Lesen. So komme ich endlich dazu?{TAG_1}einige der Bücher zu studieren die ich von
+zu Hause und von unterwegs mitgebracht habe.","Penso che leggerò il libro che ho portato
+con me in attesa che arrivi la nave.","Menos mal que me he traído un libro, porque
+creo que me va a llevar un buen rato.{TAG_1}Se titula, ""Amor entre las petunias"". Creo
+que va de romances empalagosos...","Bir gemi gelene kadar biraz kitap okuyorum.
+İyi ki yanıma bolca kitap almışım!"

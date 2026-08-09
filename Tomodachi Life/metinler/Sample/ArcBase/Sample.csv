@@ -1,0 +1,79 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,TestText,,{TAG_1}{TAG_2},,,,Test
+2,TestRuby,"{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}",,,,,"{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}"
+6,TestMii_03,"MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}","MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}","MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}","MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}","MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}","MyNickname:{TAG_1}
+Money:{TAG_2}{TAG_3}"
+27,TestArticle_00,,,"[Tag:Article(Singular/Body,Headwear,Room)]
+{TAG_1} {TAG_2}
+{TAG_3} {TAG_4}
+{TAG_5} {TAG_6}
+{TAG_7} {TAG_8}
+{TAG_9} {TAG_10}
+{TAG_11} {TAG_12}",,,Test
+28,TestArticle_01,,,"[Tag:Article(Plural/Body,Headwear,Room)]
+{TAG_1} {TAG_2}
+{TAG_3} {TAG_4}
+{TAG_5} {TAG_6}
+{TAG_7} {TAG_8}
+{TAG_9} {TAG_10}
+{TAG_11} {TAG_12}",,,Test
+29,TestArticle_02,,,"[Tag:Article(Singular/Food,Tool,Treasure,Equip)]
+{TAG_1} {TAG_2}
+{TAG_3} {TAG_4}
+{TAG_5} {TAG_6}
+{TAG_7} {TAG_8}
+{TAG_9} {TAG_10}
+{TAG_11} {TAG_12}
+{TAG_13} {TAG_14}
+{TAG_15} {TAG_16}
+{TAG_17} ABCDE,{TAG_18} 012",,,Test
+30,TestArticle_03,,,"[Tag:Article(Plural/Food,Tool,Treasure,Equip)]
+{TAG_1} {TAG_2}
+{TAG_3} {TAG_4}
+{TAG_5} {TAG_6}
+{TAG_7} {TAG_8}
+{TAG_9} {TAG_10}
+{TAG_11} {TAG_12}
+{TAG_13} {TAG_14}
+{TAG_15} {TAG_16}
+{TAG_17} ABCDE,{TAG_18} 012",,,Test
+33,TestGender_02,"[Tag:Gender(MiiTalk)]
+{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}
+{TAG_5}:{TAG_6}
+{TAG_7}:{TAG_8}
+{TAG_9}:{TAG_10}
+{TAG_11}:{TAG_12}
+{TAG_13}:{TAG_14}",,,,,"[Tag:Gender(MiiTalk)]
+{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}
+{TAG_5}:{TAG_6}
+{TAG_7}:{TAG_8}
+{TAG_9}:{TAG_10}
+{TAG_11}:{TAG_12}
+{TAG_13}:{TAG_14}"
+34,TestGender_03,"[Tag:Gender(MiiTalk)]
+{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}
+{TAG_5}:{TAG_6}
+{TAG_7}:{TAG_8}
+{TAG_9}:{TAG_10}
+{TAG_11}:{TAG_12}",,,,,"[Tag:Gender(MiiTalk)]
+{TAG_1}:{TAG_2}
+{TAG_3}:{TAG_4}
+{TAG_5}:{TAG_6}
+{TAG_7}:{TAG_8}
+{TAG_9}:{TAG_10}
+{TAG_11}:{TAG_12}"
+44,TestAndSP_00,"[Tag:AndSP]
+{TAG_1} {TAG_2} {TAG_3}
+{TAG_4} {TAG_5} {TAG_6}{TAG_7}{TAG_8}",,,,,"[Tag:AndSP]
+{TAG_1} {TAG_2} {TAG_3}
+{TAG_4} {TAG_5} {TAG_6}{TAG_7}{TAG_8}"

@@ -1,0 +1,451 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,re_friend_00,"I want to be friends
+with {TAG_1}.","J'aimerais bien devenir ami{TAG_1}
+avec {TAG_2}{TAG_3}{TAG_4}.","Ich wäre so gern mit
+{TAG_1}{TAG_2} {TAG_3}befreundet...","Vòglio fare amicizia
+con {TAG_1}.","Me gustaría ser amig{TAG_1}
+de {TAG_2}{TAG_3}{TAG_4}.",{TAG_1} ile arkadaş olmak istiyorum.
+1,re_friend_01,"What should I do to get along
+well with {TAG_1}?","De quelle manière devraije lui parler
+pour devenir son ami{TAG_1} ?","Weißt du wie ich mich am besten
+geben soll, wenn ich mit {TAG_1} rede?","Cosa dovrei dire per andare
+d'accordo con {TAG_1}?",¿Qué puedo hacer para caerle bien?,{TAG_1} ile iyi anlaşmak için ne yapmalıyım?
+2,re_friend_02,"What should I talk about
+to get along with {TAG_1}?","Quel genre de sujets devraije aborder
+pour devenir son ami{TAG_1} ?","Ich würde mich so gern mit {TAG_1}
+unterhalten! Nur worüber!","Cosa dovrei dire per rompere
+il ghiaccio con {TAG_1}?",¿De qué puedo hablar para caerle bien?,{TAG_1} ile iyi anlaşmak için ne konuşmalıyım?
+3,re_friend_03,"Thanks for the advice! I'll go and
+talk to {TAG_1}.","Merci pour vos conseils ! Je vai aller
+lui parler de ce pas !","Danke für den Tipp! Ich gehe sofort
+los und rede mit {TAG_1}!","Grazie del consiglio! Vado subito
+a parlar{TAG_1}.","¡Gracias por ayudarme!
+Voy a hablar con {TAG_1}.",Tavsiye için sağ ol! Gidip {TAG_1} ile konuşacağım.
+4,re_friend_04,"We're friends now, thanks to you!","Merci beaucoup ! Grâce à vous,
+j'ai pu devenir son ami{TAG_1} !","Dank dir konnten wir uns miteinander
+anfreunden! Vielen Dank!","Abbiamo fatto amicizia!
+Grazie dell'aiuto!","¡Muchas gracias! Si no fuera por ti,
+no podría ser su amig{TAG_1}.",Sayende artık arkadaşız!
+5,re_friend_05,We're not quite friends yet...,"Je n'ai pas pu devenir son ami{TAG_1}
+pour le moment...","Richtig Freundschaft geschlossen
+haben wir leider nicht...","Forse è un po' troppo presto
+per cercare di fare amicizia...","De momento no me he podido hacer
+{TAG_1}...",Henüz tam arkadaş olamadık...
+10,re_friend_wanted_00,"I heard that {TAG_1}
+wants to be friends.","{TAG_1}{TAG_2}{TAG_3} m'a dit qu'{TAG_4}
+voulai être mon ami{TAG_5}.","Ich habe gehört, dass {TAG_1}{TAG_2}{TAG_3}
+mit mir befreundet sein will!","Ho saputo che {TAG_1}
+vuole fare amicizia con me.","Creo que {TAG_1}{TAG_2}
+{TAG_3}quiere ser {TAG_4}.",{TAG_1} arkadaş olmak istiyormuş diye duydum.
+11,re_friend_wanted_y_00,I should go and find out.,Je vai aller lui parler.,"Vielleicht sollte ich einmal
+mit {TAG_1} reden.",Allora andrò a vedere...,"Vale, voy a hablar con {TAG_1}.",Gidip bir bakmalıyım.
+12,re_friend_wanted_y_s_00,"We became friends because we
+really hit it off.","On s'entend vraiment bien.
+Je veux bienh être son ami{TAG_1}.","Wir haben uns wunderbar verstanden
+und sind jetzt miteinander befreundet!","È stata una chiacchierata piacevole.
+Abbiamo fatto subito amicizia!","Hémos hecho muy buenas migas,
+así que me he hecho {TAG_1}.",Çok iyi anlaştığımız için arkadaş olduk.
+13,re_friend_wanted_y_f_00,"We didn't really click so we didn't
+become friends this time.","On ne s'entend pas très bien. Je ne
+deviendrai pas son ami{TAG_1} cette fois-ci.","Irgendwie haben wir uns nicht so recht
+miteinander anfreunden können.","Non abbiamo molte cose in comune...
+Per questa volta lasciamo perdere.","Parece que no tenemos mucho en común.
+Hoy no me he podido hacer {TAG_1}.","Pek kaynaşamadık, o yüzden
+bu sefer arkadaş olamadık."
+14,re_friend_wanted_n_00,Really? I see.,Ah bon ? Je vois...,Wirklich? Na gut.,"Non importa.
+Sarà per un'altra volta.","¿Tú crees? Bueno, igual tienes razón.",Gerçekten mi? Anladım.
+17,re_friend_cupid_00,"I'd like to introduce {TAG_1}
+to somebody...{TAG_2}How about {TAG_3}?","J'aimerais présenter quelqu'un
+à {TAG_1}{TAG_2}{TAG_3}...{TAG_4}Que pensez vous
+d{TAG_5}{TAG_6}{TAG_7}{TAG_8} ?","Ich will {TAG_1} mit
+jemandem bekannt machen.{TAG_2}Was meinst du? Sollte ich {TAG_3}
+{TAG_4} vorstellen?","Vorrei presentare {TAG_1}
+a qualcùno...{TAG_2}Che ne pensi di {TAG_3}?","Me gustaría que {TAG_1}{TAG_2}
+{TAG_3}conociese a alguien nuevo.{TAG_4}¿Isi le presento a {TAG_5}{TAG_6}{TAG_7}?",{TAG_1} birisiyle tanıştırmak istiyorum...{TAG_2}{TAG_3} nasıl?
+18,re_friend_cupid_y_00,"What should I talk about to help
+them get along?","Quel sujet aborder pour les faire
+se rapprocher ?","Was meinst du wäre ein gutes
+Gesprächsthema für die beiden?","Di cosa dovrei parlare insieme a loro
+per rompere il ghiaccio?","¿De qué pueden hablar para llevarse
+bien?","İyi anlaşmalarını sağlamak
+için ne konuşmalıyım?"
+19,re_friend_cupid_y_01,"OK, I'll call them both over!","D'accord.
+Bon, je vais les appeler !","Okäi! Dann will ich die beiden
+mal herholen.","OK, vado subito da loro!",¡Vale! Ahora les digo que vengan.,"Tamam, ikisini de çağırıyorum!"
+20,re_friend_cupid_y_s_00,They became friends thanks to you!,"Grâce à vous, une nouvelle amitié
+est née.","Danke für deine Hilfe! Die beiden
+konnten sich miteinander anfreunden.","Hanno fatto amicizia grazie
+al tuo aiuto!","¡Gracias! Parece que han hecho
+buenas migas.",Sayende arkadaş oldular!
+21,re_friend_cupid_y_f_00,They didn't hit it off well...,"Ces deux-là n'ont pas l'air de
+s'entendre pour le moment...","Ich glaube die beiden haben sich
+nicht so recht anfreunden können...","Credo proprio di aver fatto
+un buco nell'acqua...","Creo que no deben de tener mucho
+en común...",Pek iyi anlaşamadılar...
+22,re_friend_cupid_n_00,Then how about {TAG_1}?,"Sinon, que pensez-vous
+d{TAG_1}{TAG_2}{TAG_3} {TAG_4}?","Wie wäre es denn mit
+{TAG_1}{TAG_2}{TAG_3}?","Allora che ne dici di provare
+con {TAG_1}?","Entonces, ¿qué tal {TAG_1}{TAG_2}{TAG_3}?",O zaman {TAG_1} nasıl?
+23,re_friend_cupid_n_01,"I don't know anybody else they can
+meet so let's leave it for now.","Comme je n'ai personne d'autre à
+présenter, nous verrons ça plus tard.","Dann weiß ich auch nicht wen ich {TAG_1}
+noch vorstellen soll. Tja, schade!","Non conosco altre persone...
+per adesso lasciamo perdere.","No conozco a nadie más. Mejor lo dejo
+para otro momento.","Tanıştırabileceğim başka
+kimse yok, şimdilik bırakalım."
+27,re_lover_00,"I have feelings for {TAG_1} . 
+I've got to tell {TAG_2}!","J'en pince pour {TAG_1}{TAG_2}{TAG_3}. 
+J'aimerais lui avouer mon amour...","Ich... Ich habe mich in {TAG_1}{TAG_2}
+{TAG_3}verliebt. Ich muss es {TAG_4} sagen!","Ho una cotta per {TAG_1}!
+Voglio dichiararmi!","Me gusta {TAG_1}{TAG_2}{TAG_3}
+y quiero declararme.","{TAG_1} hakkında farklı hislerim var. {TAG_2}
+Bunu söylemeliyim!"
+28,re_lover_y_00,How should I tell them?,"De quelle manière devraije
+lui avouer ?",Nur wie? Wie soll ich es {TAG_1} sagen?,"In che modo posso confessar{TAG_1}
+il mio amore?",¿Cómo puedo declararme?,Nasıl söylemeliyim?
+29,re_lover_y_01,Where should I tell them?,Où devraije lui dire ?,"Aber wann und vor allem wo soll
+ich es {TAG_1} sagen?",Dove dovrei dìrglielo?,¿Y dónde lo hago?,Nerede söylemeliyim?
+30,re_lover_y_02,Should I get changed first?,devraije d'abord me changer ?,"Und soll ich mich davor lieber
+umziehen oder besser so bleiben?",Prima devo cambiarmi?,¿Mejor me cambio de ropa antes?,Önce üstümü değiştireyim mi?
+31,re_lover_y_02b,"So, I look fine like this?",J'ai l'air bien comme ça ?,"Ich soll also so bleiben, ja?",Sto bene così?,"Ah, ¿entonces voy bien así?",Yani böyle iyi görünüyorum?
+32,re_lover_y_03,"OK... I'll get myself ready and
+then GO DO IT!","D'accord ! Je vais rassembler tout mon
+courage et aller lui déclarer ma flamme !","In Ordnung. Dann nehme ich jetzt
+allen Mut zusammen und gehe zu {TAG_1}!","Va bene. Ora devo farmi coraggio
+e dichiararmi!","¡Vale! ¡Voy a armarme de valor para
+demostrarle lo que siento!","Tamam... Kendimi hazırlayıp
+GİDİP SÖYLEYECEĞİM!"
+33,re_lover_y_04,"OK, I'm ready! I'm going to tell them!","Bon... je vais rassembler mon courage
+et aller lui annoncer que je l'aime !","Gut. Ich bin bereit.
+Ich bringe es hinter mich!","Bene, è giunto il momento!
+Vado a dichiararmi!","¡Bien! ¡Voy a armarme de valor y
+confesarle mis sentimientos!","Tamam, hazırım! Gidip söyleyeceğim!"
+34,re_lover_y_05,How should I tell them?,Que devraije lui dire ?,Wie soll ich es nur sagen?,Come dovrei dìrglielo?,¿Qué puedo decir?,Nasıl söylemeliyim?
+35,re_lover_y_06,What kind of present should I give?,Que devraije lui offrir ?,"Und was für ein Geschenk soll ich
+über reichen?",Che regalo dovrei far{TAG_1}?,¿Qué regalo le podría llevar?,Nasıl bir hediye vermeliyim?
+36,re_lover_n_00,Why don't you want me to do it?,"Pourquoi vous ne voulez pas que
+je lui déclare ma flamme ?",Warum bist du dagegen?,Perché non sei d'accordo?,¿Por qué te opones?,Neden yapmamı istemiyorsun?
+37,re_lover_n_01,Really? I see...,Ah bon ? D'accord...,Wirklich? Verstehe...,Sul serio? Ho capito...,Ya veo...,Gerçekten mi? Anladım...
+38,re_lover_n_02,What a horrible thing to say...,Vous n'êtes vraiment pas sympa...,Häi... Das ist gemein!,Se dici così ci resto male...,Vaya... Qué desagradable...,Ne korkunç bir şey söyledin...
+39,re_lover_n_03,I see... I suspected as much...,"C'est vrai ? Je dois bien dire que
+je m'en doutais un peu...","Verstehe... Irgendwie hatte ich das
+bereits geahnt.","Capisco... In fondo lo pensavo
+anchìo...",Ya me imaginaba algo así...,Anladım... Ben de öyle tahmin etmiştim...
+40,re_lover_n_04,"OK, I'll try to hold on...",Je vois... Je vais m'accrocher.,Gut. Ich werde es versuchen.,"Davvero? Cercherò di avere un po'
+di pazienza...","Oh, vale.","Peki, biraz daha dayanmayı deneyeceğim..."
+53,re_lover_wanted_00,"I think {TAG_1} likes me.
+What do you think?","Je pense qu{TAG_1}{TAG_2}{TAG_3}{TAG_4}
+m'aime. Qu'en dites-vous ?","Angeblich hat sich {TAG_1}{TAG_2}{TAG_3}
+in mich verliebt! Was sagst du dazu?","Credo che {TAG_1} abbia
+una cotta per me. Che ne pensi?",Creo que le gusto a {TAG_1}{TAG_2}{TAG_3}.,Bence {TAG_1} benden hoşlanıyor. Sence?
+54,re_lover_wanted_1,Really? Now I'm curious.,"Vraiment ? Je suis curieu{TAG_1}
+d'en savoir pluss.","Meinst du wirklich? {TAG_1}Wauh,{TAG_2}
+ jetzt bin ich ganz aufgeregt!",Davvero? Vòglio saperne di più.,¿Tú crees? Ahora tengo curiosidad.,Gerçekten mi? Şimdi merak ettim.
+55,re_lover_wanted_2,What? That's a little disappointing...,Ah bon ? Je sui un peu déçu{TAG_1}...,Meinst du? Ähm. Schade...,"Sul serio?
+Che delusione...","Ah, ya veo. Qué pena...",Ne? Bu biraz hayal kırıklığı oldu...
+56,re_lover_wanted_3,"Yeah, I guess you are right...",Hum... Vous avez sûrement raison...,"Meinst du? Na gut, vielleicht war
+das nur Wunschdenken von mir...",Già. Suppongo che tu abbia ragione.,"Bueno, supongo que tienes razón.","Evet, sanırım haklısın..."
+57,re_lover_wanted_4_y_00,"OK, I'll give them a chance.","D'accord, je vé essayer, alors.","Na gut, wenn du das sagst, dann
+will ich das mal versuchen!","Beh... Meglio verificare, per sicurezza.",¡Vale!,"Tamam, bir şans vereceğim."
+58,re_lover_wanted_4_n_00,"I don't feel the same way,
+so whatever!","Je ne ressens pas la même chose,
+alors je m'en fiche !","{TAG_1}Hmmm...{TAG_2} Ach weißt du ich glaube
+ich lasse es lieber.","Va bene.
+Comunque la cosa non mi convinceva.",La verdad es que a mí no me gusta tanto.,"Ben aynı şeyleri hissetmiyorum, boş ver!"
+59,re_lover_wanted_4_y_f_00,"I didn't say I liked them that
+much anyway...","Je ne l'aimais pas tant que ça
+de toute façon...","So gut passen wir glaube ich
+auch wieder nicht zusammen...","Non ho mai detto di provare
+qualcosa nei suoi confronti...","Bueno, tampoco es que me gustara
+mucho...","Zaten o kadar da hoşlandığımı
+söylememiştim..."
+62,re_lover_cupid_00,"I think {TAG_1}{TAG_2}{TAG_3} needs a
+special someone...{TAG_4}How about setting them up with
+{TAG_5}{TAG_6}{TAG_7}?{TAG_8}{TAG_9}","Je pense qu{TAG_1}{TAG_2}{TAG_3}{TAG_4}
+{TAG_5}a besoin d'un{TAG_6}{TAG_7} petit{TAG_8} ami{TAG_9}...{TAG_10}Que pensez-vous
+d{TAG_11}{TAG_12}{TAG_13}{TAG_14}{TAG_15} {TAG_16}{TAG_17}{TAG_18}?{TAG_19}{TAG_20}","Ich glaube eine Beziehung würde
+{TAG_1}{TAG_2}{TAG_3}{TAG_4}{TAG_5} gut tun...{TAG_6}Wie wär's denn mit
+{TAG_7}{TAG_8}{TAG_9}{TAG_10}{TAG_11}?{TAG_12}{TAG_13}","Penso che a {TAG_1}{TAG_2}{TAG_3}
+serva un'anima gemella...{TAG_4}Che ne dici di {TAG_5}{TAG_6}{TAG_7}?{TAG_8}{TAG_9}","Me gustaría que {TAG_1}{TAG_2}
+{TAG_3}conociese a alguien especial...{TAG_4}¿Isi le presento a
+{TAG_5}{TAG_6}{TAG_7}?","Bence {TAG_1}{TAG_2}{TAG_3} özel birine
+ihtiyacı var...{TAG_4}
+{TAG_5}{TAG_6}{TAG_7} ile tanıştırsak nasıl?{TAG_8}{TAG_9}"
+63,re_lover_cupid_01,"Then I'll have to get them to meet
+each other.","Très bien. Je vais donc les faire
+se rencontrer.","Dann muss ich wohl dafür sorgen,
+dass die beiden sich treffen.","Allora devofare in modo che
+si incontrino!","¡Vale, voy a presentarles!",O zaman onları tanıştırmam gerekecek.
+64,re_lover_cupid_other_00,"OK, who do you think I should
+try to set them up with?","Bien. Qui devraij lui présenter ?
+Pouvez-vous choisir pour moi ?","Gut, wer bietet sich denn für meine
+Verkupplungsaktion an?","Va bène. All'ora, secondo te, tra le persone
+disponibili chiformerebbe una bella coppia?","¿A quién crees que le puedo presentar
+entonces?","Peki, sence kimi tanıştırmayı denemeliyim?"
+65,re_lover_cupid_other_01,"OK, so I'll get {TAG_1} to
+meet {TAG_2}.","Bien, je vais présenter {TAG_1}{TAG_2}{TAG_3}
+à {TAG_4}{TAG_5}{TAG_6}.","Es sollen sich also {TAG_1}{TAG_2}{TAG_3}
+und {TAG_4}{TAG_5} {TAG_6}treffen. Gut!","Dunque vuoi che faccia incontrare
+{TAG_1} con {TAG_2}.","¡Vale! Voy a buscar a {TAG_1}{TAG_2}{TAG_3}
+para que conozca a {TAG_4}{TAG_5}{TAG_6}.","Tamam, {TAG_1} ile {TAG_2} tanıştıracağım."
+66,re_lover_cupid_s_00,My little plan worked!,On dirait que mon plan a fonctionné !,Mein Plan ist aufgegangen!,Il mio piano ha funzionato!,¡Mi plan ha funcionado!,Küçük planım işe yaradı!
+67,re_lover_cupid_f_00,They didn't get on well together...,"On dirait qu'ils ne se sont pas bien
+entendus...","Sie kamen nicht so gut
+miteinander klar...","Pare che non siano andati
+molto d'accordo...",Parece que no han congeniado.,Birbirleriyle pek iyi anlaşamadılar...
+68,re_lover_cupid_e_00,"They're just going to be friends for
+now.","Pour le moment, ils vont juste
+être amis.","Fürs Erste werden sie wohl nur
+befreundet bleiben.",Per adesso rimarranno solo amici.,De momento van a ser solo amigos.,Şimdilik sadece arkadaş kalacaklar.
+69,re_lover_cupid_n_00,"Really? OK, I'll just forget about it.","Ah bon ? D'accord, j'oublie ça, alors.","Wirklich? Ich lass es wohl
+lieber bleiben.","Davvero? Va bene, come
+non detto.","Ya veo, entonces lo dejo estar de momento.","Gerçekten mi? Peki, o zaman unut gitsin."
+73,re_lover_cupid_after_00,"Why would {TAG_1}{TAG_2}want me to go out with...
+{TAG_3}?","Pourquoi {TAG_1}{TAG_2} {TAG_3}voudrait-{TAG_4}
+que je sorte avec {TAG_5}{TAG_6} {TAG_7}?","Warum sollte {TAG_1}{TAG_2} {TAG_3}wollen,
+dass ich mit {TAG_4}{TAG_5} {TAG_6}ausgehe? ","Perché {TAG_1} vuole che
+esca con...{TAG_2}{TAG_3}?","¿Por qué se empeñaría {TAG_1}{TAG_2}
+{TAG_3}en juntarme con {TAG_4}{TAG_5}{TAG_6}?",{TAG_1}{TAG_2} neden benim... {TAG_3} ile çıkmamı istesin ki?
+74,re_lover_cupid_after_01,"Really? You might be right...
+You got me curious!","Vraiment ? Peut-être, après tout...
+Tout ça titille ma curiosité !","Echt? Könntest recht haben...
+Du hast mich neugierig gemacht!","Davvero? Forse hai ragione...
+Vòglio vederci chiaro!","¿En serio? Ahora me ha entrado
+la curiosidad...","Gerçekten mi? Haklı olabilirsin...
+Merak ettim şimdi!"
+75,re_lover_cupid_after_02,What a troublemaker!,"Quel{TAG_1} blagueu{TAG_2}, alors !",Was für {TAG_1}!,Davvero un bello scherzo...,¡Si és que es de lo que no hay!,Ne yaramaz ama!
+76,re_lover_cupid_after_03,It's a mystery to me{TAG_1} too...,C'est un mystère pour moi aussi...,Ist mir auch ein Rätsel...,"Neanchìo riesco a darmi
+una spiegazione...",Amí tambien me resulta ecstraño.,Benim için de{TAG_1} muamma...
+79,re_lover_which_00,"I've got feelings for {TAG_1}
+and {TAG_2}...{TAG_3}Who do you think I should tell my
+feelings to?","en faite, j'aime {TAG_1}{TAG_2}{TAG_3}, mais
+j'aime aussi {TAG_4}{TAG_5}{TAG_6}...{TAG_7}À qui devraije déclarer ma flamme ?","Ich fühle mich zu {TAG_1}{TAG_2}
+{TAG_3}und {TAG_4}{TAG_5} {TAG_6}hingezogen...{TAG_7}Wem soll ich nur meine
+Gefühle offen baren!","Vòglio bene sia a {TAG_1}
+che a {TAG_2}...{TAG_3}A chi credi che dovrei
+dichiararmi?","Me gustan {TAG_1}{TAG_2} {TAG_3}{TAG_4}
+{TAG_5}{TAG_6}{TAG_7}, pero estoy {TAG_8} un lío.{TAG_9}Quiero declararme a {TAG_10}.
+¿Quién crees que haría mejor pareja conmigo?","{TAG_1} ve {TAG_2} için bir şeyler hissediyorum...{TAG_3}
+Sence hislerimi
+hangisine söylemeliyim?"
+80,re_lover_which_2_00,"You're right. I will give it some
+more thought.","Vous avez raison. Je vai encore
+y songer un peu.","Du hast recht. Ich werde noch mal
+ein wenig drüber nachdenken.","Hai ragione. Dovrei rifletterci
+un po' di più.","Tienes razón. Me lo voy a pensar un
+poco más.",Haklısın. Biraz daha düşüneceğim.
+107,re_lover_return_00,"For some reason, I keep thinking
+back about old times...{TAG_1}I can't forget about {TAG_2} .
+I think we should get back together...","Je ne sais pas pourquoi, mais je
+n'arrête pas de repenser au passé...{TAG_1}Je n'arrive pas à oublier {TAG_2}{TAG_3}{TAG_4}.
+Je pense qu'on devrait se réconcilier.","Irgendwie muss ich immer an
+alte Zeiten denken...{TAG_1}{TAG_2}{TAG_3} {TAG_4}geht mir nicht aus
+dem Kopf. Ein zweiter Anlauf vielleicht?","Non riesco a dimenticare
+il passato...{TAG_1}E neanche {TAG_2}!
+Forse dovremmo rimetterci insieme...","Últimamente pienso mucho en
+el pasado...{TAG_1}No consigo olvidar a {TAG_2}{TAG_3}{TAG_4}.
+Quisiera que volviéramos a estar juntos...","Nedense eski günleri düşünüp
+duruyorum...{TAG_1}{TAG_2} unutamıyorum.
+Sanırım yeniden birlikte olmalıyız..."
+108,re_lover_return_y_00,"In that case, could you help me 
+talk with {TAG_1}?","Dans ce cas, vous pourriez m'aider
+à parler avec {TAG_1}{TAG_2} {TAG_3}?","Könntest du mir beim Gespräch mit
+{TAG_1}{TAG_2} {TAG_3}zur Seite stehen?","Vista la situazione, che ne dici di
+aiutarmi a parlare con {TAG_1}?","Entonces, ¿me podrías arreglar una
+cita con {TAG_1}{TAG_2}{TAG_3}?",O hâlde {TAG_1} ile konuşmama yardım eder misin?
+109,re_lover_return_n_00,"You're right. I should just forget
+about it...","Vraiment ? D'accord, je vais suivre
+vos conseils...","Du hast recht. Ich sollte mir das aus
+dem Kopf schlagen...","Hai ragione. Dovrei metterci una pietra
+sopra e guardare avanti...",Tienes razón. Tengo que superarlo.,"Haklısın. Artık unutup
+yoluma devam etmeliyim..."
+112,re_date_00,"I'd like to take {TAG_1}
+on a date. Where should we go?","J'aimerais emmener {TAG_1}{TAG_2}
+{TAG_3}quelque part. Où pourrions-nou aller ?","Ich würde {TAG_1}{TAG_2} {TAG_3}gern
+ausführen. Aber wo hin nur!","Vorrei uscire con {TAG_1}...
+Dove potremmo andare?","Me gustaría ir a algún sitio con
+{TAG_1}{TAG_2}{TAG_3}. ¿Adónde podríamos ir?","{TAG_1} ile buluşmaya çıkmak istiyorum.
+Nereye gitsek?"
+113,re_date_y_00,"Good idea! I'll get ready then head
+straight there.","Bonne idée ! Je vais me préparer
+et ialler.","Gute Idee! Ich mache mich fertig und
+breche dann sofort dahin auf.",Ottima idea! Ora mi preparo e vado!,"¡Qué buena idea! Pero antes,
+voy a arreglarme un poco. ","İyi fikir! Hazırlanıp
+doğruca oraya gideceğim."
+114,re_date_c_00,"Oh... I'm not really in the mood to
+go there right now.","Ah... À vrai dire, je ne suis pas
+vraiment d'humeur à aller là-bas...","{TAG_1}Oh... {TAG_2}Ich bin jetzt echt nicht in
+der Stimmung dorthinzugehen.","Oh... non sono dell'umore giusto
+per uscire adesso.","Hemm... La verdad es que no me
+apetece mucho ir ahora mismo.","Aa... Şu an oraya gitmek
+pek içimden gelmiyor."
+123,re_marry_00,"I want to propose to {TAG_1} .
+Do you think I should?","J'aimerais épouser {TAG_1}{TAG_2}{TAG_3}.
+Qu'en pensez-vous ?","Ich möchte {TAG_1}{TAG_2} {TAG_3}einen
+Antrag machen. Ist das eine gute Idee?","Vòglio chiedere a {TAG_1}
+di sposarmi. Sei d'accordo?","Quiero casarme con
+{TAG_1}{TAG_2}{TAG_3}. ¿Qué te parece?","{TAG_1} için evlenme teklifi yapmayı düşünüyorum.
+Sence yapmalı mıyım?"
+124,re_marry_y_00,Where should I propose?,"Quel est l'endroit idéal pour faire
+ma demande en mariage ?","Welcher Ort wäre für einen
+Antrag wohl der beste?",Dove dovrei dìrglielo?,"¿Dónde puedo pedirle
+que se case conmigo?",Nerede teklif etmeliyim?
+125,re_marry_y_clothes_00,Should I get changed?,devraije me changer avant ?,Sollte ich mich vorher umziehen?,Forse prima dovrei cambiarmi?,¿Crees que debo cambiarme de ropa?,Üstümü değiştireyim mi?
+126,re_marry_y_clothes_01,You're right! I look perfect as I am.,"C'est vrai ! Comme ça, c'est parfait.",Stimmt! Ich sehe absolut perfekt aus.,"Hai ragione! Sto bene così
+come sono!","Tienes razón, estóy bien así.",Haklısın! Böyle mükemmel görünüyorum.
+127,re_marry_y_01,"I feel really nervous about proposing
+at the right time...{TAG_1}So, would you mind helping me?{TAG_2}Let me know when {TAG_3}
+is thinking about me, please.","J'ai peur de ne pas faire ma demande
+au bon moment...{TAG_1}Pourriez-vous m'aider ?{TAG_2}Quan {TAG_3}{TAG_4} {TAG_5}pense à moi,
+faites-le-moi savoir, s'il vous plaît.","Den richtigen Zeitpunkt für den Antrag
+abzupassen macht mich nervös...{TAG_1}Könntest du mir helfen?{TAG_2}Gib mir Bescheid, wenn
+{TAG_3}{TAG_4} {TAG_5}an mich denkt.","Temo di non capire quale sia
+il momento giusto per dichiararmi...{TAG_1}Mi daresti una mano?{TAG_2}Fammi sapere quando
+{TAG_3} sta pensando a me.","Creo que me va a costar encontrar el
+momento adecuado para pedírselo.{TAG_1}¿Podrías darme una señal cuando
+{TAG_2}{TAG_3} {TAG_4}esté pensando en mí?","Teklifi doğru anda yapacağım diye
+çok heyecanlanıyorum...{TAG_1}Bana yardım eder misin?{TAG_2}
+{TAG_3} beni düşündüğü anda haber ver lütfen."
+128,re_marry_y_02,"Tell me when {TAG_1}
+is thinking about me, please.","Faites-moi savoir quan {TAG_1}{TAG_2}{TAG_3}
+pense à moi, s'il vous plaît.","Gib mir bitte Bescheid, wenn
+{TAG_1}{TAG_2} {TAG_3}an mich denkt.","Dimmi quando {TAG_1}
+sta pensando a me!","¿Podrías darme una señal cuando
+{TAG_1}{TAG_2} {TAG_3}esté pensando en mí?",{TAG_1} beni düşündüğü anda haber ver lütfen.
+129,re_marry_y_03,"OK, I'm going to propose!","Bon, je vé aller faire ma demande
+en mariage !","In Ordnung, ich mache den Antrag!","Bene, è giunto il momento
+di dìrglielo!",¡Allá voy!,"Tamam, teklif edeceğim!"
+130,re_marry_y_s_00,"Everything went really well!
+Thank you!","Tout s'est bien passé !
+Merci !","Es ist alles richtig gut gelaufen!
+Vielen Dank!",Ha accettato! Ed è tutto merito tuo!,¡Ha dicho que sí! ¡Muchas gracias!,Her şey çok iyi gitti! Teşekkür ederim!
+131,re_marry_y_s_01,"I want to give you this to say
+thank you.","Tenez, prenez ceci en guise
+de remerciement.","Das hier möchte ich dir
+als Dank geben.","Vòglio farti un regalo
+per ringraziarti...","Por favor, acepta este regalo como
+agradecimiento.","Teşekkür etmek için sana
+bunu vermek istiyorum."
+132,re_marry_y_s_02,We're so excited for our wedding!,"Bon, c'est l'heure de la cérémonie
+de mariage !",Dann mal aufzur Hochzeit sfeier!,"Siamo davvero emozionati per
+la cerimonia di matrimonio!",¡Vamos a celebrar la boda!,Düğünümüz için çok heyecanlıyız!
+133,re_marry_y_s_c_00,"I'm not a grown-up so I can't get
+married yet.","Je ne suis pas adulte... Comment
+pourrais-je me marier ?","Ich bin noch nicht erwachsen und
+kann deshalb noch nicht heiraten.","Non ho l'età giusta, quindi non posso
+sposarmi.","No puedo casarme porque todavía
+soy {TAG_1}.","Yetişkin değilim, bu yüzden henüz evlenemem."
+134,re_marry_y_s_c_01,"{TAG_1} is not a grown-up
+and can't get married.","Comme {TAG_1}{TAG_2} {TAG_3}n'est pas
+encore adulte, {TAG_4} ne peut pas se marier.","{TAG_1}{TAG_2}{TAG_3} ist noch nicht
+erwachsen und kann nicht heiraten.","{TAG_1} non ha l'età
+giusta per sposarsi.","Tiénen que pasar todavía unos años
+para que {TAG_1}{TAG_2}{TAG_3} pueda casarse.","{TAG_1} yetişkin değil, bu yüzden evlenemez."
+135,re_marry_y_s_c_02,"We're not grown-ups so we can't
+get married.","Nous ne sommes pas encore adultes,
+nous ne pouvons pas nous marier !","Wir sind noch nicht erwachsen und
+können noch nicht heiraten.","Non abbiamo l'età giusta
+per sposarci...","No podemos casarnos porque todavía
+somos unos niños.","Yetişkin değiliz, bu yüzden evlenemeyiz."
+136,re_marry_y_s_c_03,"We can become grown-ups if you use
+an Age-o-matic.","Nous pourrions nous marier si
+vous utilisiez un spray adulte...","Wir können erwachsen werden, wenn
+du das Ab-18-Spray benutzt.","L'adultospray potrebbe
+risolvere il problema...","Se resolvería el problema
+con el {TAG_1}adulspray{TAG_2}...","Bir Yaşlandırmatik kullanırsan
+yetişkin olabiliriz."
+137,re_marry_y_s_c_y_00,Thanks! Please use an Age-o-matic!,Merci ! Utilisez le spray adulte !,"Vielen Dank! Sei so gut und
+benutze das Ab-18-Spray!","Grazie! Allora usa
+l'adultospray!",¡Gracias! Utiliza ahora el {TAG_1}adulspray{TAG_2}.,Teşekkürler! Lütfen bir Yaşlandırmatik kullan!
+138,re_marry_y_s_c_n_00,"I see... I guess we're not ready to
+get married yet...","Oh, je vois... C'est peut-être
+un peu tôt pour le mariage...","Verstehe... Wir sind wohl noch
+zu jung für eine Heirat...","Ho capito... Temo che non siamo
+ancora pronti per il matrimonio...","Vaya... Supongo que es pronto para que
+nos casemos...","Anladım... Sanırım evlenmeye
+henüz hazır değiliz..."
+140,re_marry_y_s_t_00,We had such fun!{TAG_1}This is a souvenir for you!,"C'était merveilleux !
+Tenez, voici un souvenir pour vous !",Wir hatten so viel Spaß!{TAG_1}Hier ist ein Andenken für dich!,Ci siamo proprio divertiti!{TAG_1}Ecco un souvenir!,"¡Qué bien lo hemos pasado!{TAG_1}Toma, un regalito.",Çok eğlendik!{TAG_1}Bu da sana bir hatıra!
+141,re_marry_y_s_t_01,"Please don't stop looking after
+us just because we're married.","Dites, vous allez continuer à vous occuper
+de nous, même si on est mariés, hein ?","Bitte sieh weiter nach uns, auch
+wenn wir jetzt verheiratet sind.","Continua a prenderti cura di noi anche
+ora che siamo sposati, mi raccomando!","Espero que sigas cuidando de
+nosotros aunque ahora estemos casados.","Evlendik diye bizimle
+ilgilenmeyi bırakma, olur mu?"
+142,re_marry_y_f_00,"I'll try harder to get my proposal
+right next time...","La prochaine fois, j'essaierai de mieux
+faire ma demande en mariage...","Bei meinem nächsten Antrag versuche
+ich alles richtig zu machen.",Mi impegnerò di più la prossima volta...,"La próxima vez lo haré mucho mejor.
+¡Lo prometo!","Bir dahaki sefere teklifi doğru
+yapmak için daha çok uğraşacağım..."
+152,re_child_00,"I've been thinking about having a 
+child with {TAG_1}...","J'aimerais bienh avoir un enfant avec
+{TAG_1}{TAG_2}{TAG_3}...","Ich hätte gern ein Kind gemeinsam
+mit {TAG_1}.","Sto pensando che sarebbe bello avere
+un bebè con {TAG_1}...","Me gustaría tener un bebé
+con {TAG_1}{TAG_2}{TAG_3}...",{TAG_1} ile çocuk sahibi olmayı düşünüyorum...
+153,re_child_y_00,Doesn't it?,"Oui, je trouve aussi !","Ja, finde ich auch!",Sei d'accordo anche tu{TAG_1} allora!,¿A que sí?,Sence de öyle değil mi?
+154,re_child_n_00,I guess you're right...,Vous avez sûrement raison...,Du hast wohl recht...,Mi sa che hai ragione...,Creo que tienes razón.,Sanırım haklısın...
+157,re_fight_angry_00,"I had a fight with {TAG_1}!
+I'm so mad!","Je me suis disputé{TAG_1} avec {TAG_2}{TAG_3}{TAG_4} !
+Je suis vraiment en colère !","Ich habe mich mit {TAG_1}{TAG_2}{TAG_3}
+gestritten. Ich bin so wütend!","Ho litigato con {TAG_1}!
+Che rabbia!","Hétenido una pelea con {TAG_1}{TAG_2}{TAG_3}.
+¡Estoy que muerdo!",{TAG_1} ile kavga ettim! Çok kızgınım!
+158,re_fight_angry_01,Please help me calm down first!,"D'accord, mai aidez-moi d'abord
+à me calmer un peu.","Hilf mir lieber erst mal,
+mich zu be ruhigen!",Aiùtami a calmarmi!,"De acuer do. Pero ¿me ayudas a
+calmarme primero?",Önce sakinleşmeme yardım et lütfen!
+159,re_fight_angry_02,"I feel calmer now. I'm going to try
+to make up.","Ma colère est un peu retombée. Je vai
+essayer d'aller me réconcilier avec {TAG_1}.","Ich bin schon viel ruhiger. Mal sehen,
+ob wir uns wieder vertragen können.","Ora che mi è passata la rabbia,
+proverò a risistemare le cose.","Ya me siento mejor. Voy a intentar
+hacer las paces con {TAG_1}.",Şimdi daha sakinim. Barışmayı deneyeceğim.
+160,re_fight_angry_s_01,Thanks. We made up.,Merci. Notre querelle est terminée.,Danke. Wir haben uns vertragen.,Grazie! Abbiamo fatto pace.,"¡Muchas gracias!
+Lo hémos arreglado todo.",Teşekkürler. Barıştık.
+161,re_fight_angry_f_01,It didn't work...,Ça n'a pas marché...,Es hat nicht geklappt...,Non ha funzionato...,No ha podido ser...,İşe yaramadı...
+164,re_fight_fatal_00,"I had a huge fight with {TAG_1}
+and now I'm really, really mad!","{TAG_1}{TAG_2}{TAG_3} et moi avon eu une
+grosse dispute ! Je suis hors de moi !","{TAG_1}{TAG_2} {TAG_3}und ich hatten einen
+derben Streit. Was bin ich wütend!","Ho litigato con {TAG_1},
+e ora sono su tutte le furie!","¡Qué pelea he tenido con {TAG_1}{TAG_2}{TAG_3}!
+¡Es toy que echo chispas!","{TAG_1} ile çok büyük bir kavga ettim
+ve şimdi çok, çok kızgınım!"
+165,re_fight_fatal_01,"I didn't start it so I'm not going to
+{TAG_1}apologise!","Ah non ! Je n'ai rien à me reprocher, alors
+c'est hors de question que je m'excuse !","Ich hab nicht angefangen, also
+entschuldige ich mich auch nicht!","Non ho cominciato io, quindi
+non andrò di certo a scusarmi!","Yó no empecé la pelea, así que
+¡no pienso disculparme!","Ben başlatmadım, o yüzden {TAG_1}özür dilemeyeceğim!"
+168,re_fight_fatal_cupid_00,"{TAG_1} had a fight with
+{TAG_2} and won't make up.","{TAG_1}{TAG_2} {TAG_3}s'est disputé{TAG_4} avec
+{TAG_5}{TAG_6} {TAG_7}et refuse de faire la paix.","{TAG_1}{TAG_2} {TAG_3}hat sich mit
+{TAG_4}{TAG_5} {TAG_6}gestritten.{TAG_7}{TAG_8}{TAG_9} {TAG_10}will sich nicht
+wieder vertragen.","{TAG_1} ha litigato con
+{TAG_2} e non vuole fare pace.","{TAG_1}{TAG_2} {TAG_3}{TAG_4} {TAG_5}{TAG_6}
+{TAG_7}se han peleado y no se han reconciliado aún.","{TAG_1}, {TAG_2} ile kavga etti ve barışmıyor."
+169,re_fight_fatal_cupid_y_00,Just leave it to me.,Je m'en occupe.,Überlass das nur mir.,Lascia che ci pensi io.,"Bueno, voy a intentarlo.",Bana bırak.
+170,re_fight_fatal_cupid_s_01,I did something good today!,J'ai fait une bonne action aujourd'hui !,Ich habe heute etwas Gutes getan!,Ho fatto proprio una buona azione!,¡Ya he hecho mi buena acción!,Bugün iyi bir şey yaptım!
+171,re_fight_fatal_cupid_f_01,It was no use...,Ça n'a servi à rien...,Es war zwecklos...,Niente da fare...,No ha podido ser...,Hiç faydası olmadı...
+174,re_fight_peace_00,"I don't want to fight with
+{TAG_1} any more.","Je ne veux plu être fâché{TAG_1}
+avec {TAG_2}{TAG_3}{TAG_4}.","Ich möchte mich nicht länger mit
+{TAG_1}{TAG_2}{TAG_3} streiten.","Non vòglio più litigare
+con {TAG_1}.",Quiero reconciliarme con {TAG_1}{TAG_2}{TAG_3}.,Artık {TAG_1} ile kavga etmek istemiyorum.
+175,re_fight_peace_s_00,"Hey, we made up!","Hé hé, nous avons fait la paix !","Häi, wir haben uns vertragen!",Abbiamo fatto pace!,¡Gracias. Hemos hecho las paces!,"Hey, barıştık!"
+178,re_separate_00,I want to break up with {TAG_1}.,J'aimerais me séparer d{TAG_1}{TAG_2}{TAG_3}{TAG_4}.,"Ich möchte mich von
+{TAG_1}{TAG_2} {TAG_3}trennen.","Non vòglio più stare
+con {TAG_1}.",Quiero romper con {TAG_1}{TAG_2}{TAG_3}.,{TAG_1} ile ayrılmak istiyorum.
+179,re_separate_ok_00,I will talk to {TAG_1}.,Je vé aller parler à {TAG_1}{TAG_2}{TAG_3}.,"Ich werde mit {TAG_1}{TAG_2}
+{TAG_3}sprechen.","Allora vado a parlare
+con {TAG_1}.","Entonces, voy a hablar con {TAG_1}{TAG_2}{TAG_3}.",{TAG_1} ile konuşacağım.
+180,re_separate_ok_01,I'm free again!,Me voilà à nouveau libre...,Ich bin wieder frei!,Forse senza vincoli starò meglio...,Me ehe quitado un peso de encima.,Yine özgürüm!
+181,re_separate_ng_00,I'm going to go try talking one more time... ,"Je vé essayer de lui en parler encore
+une fois...","Ich versuche noch ein
+letztes Gespräch...",Allora proverò un'altra volta...,Voy a intentar hablarlo de nuevo...,Gidip bir kez daha konuşmayı deneyeceğim...
+182,re_separate_ng_01,I think I'd like to try again.,J'aimerai essayer encore une fois.,"Ich glaube ich würde es gern
+noch einmal versuchen.",Forse vale la pena di riprovarci.,"Creo que merece la pena volver
+a intentarlo.",Sanırım bir kez daha denemek istiyorum.
+183,re_separate_ng_02,I couldn't do it after all.,Je n'ai pas réussi à lui parler...,Ich habe es nicht hinbekommen.,Alla fine non ce l'ho fatta.,No ha podido ser...,Sonunda yapamadım.

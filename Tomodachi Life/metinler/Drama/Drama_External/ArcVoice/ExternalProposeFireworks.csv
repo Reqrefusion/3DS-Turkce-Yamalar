@@ -1,0 +1,127 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+0,IntroM0,Shall we sit {TAG_1}over here?,On s'asseoit par là ?,Sollen wir uns hierhin setzen?,Ci sediamo qui?,¿Nos sentamos aquí?,Şuraya {TAG_1}oturalım mı?
+1,IntroM1,OK!,OK !,Gut!,Va bene!,¡Vale!,Tamam!
+2,IntroF0,Shall we sit here?,On s'asseoit dans le coin ?,Sollen wir uns hierhin setzen?,Ti va di sederti qui?,¿Nos sentamos aquí?,Buraya oturalım mı?
+3,IntroF1,"OK, why not?",Pourquoi pas ?,"Gut, warum nicht...","Va bene, perché no?","Vale, por mí bien.","Olur, neden olmasın?"
+4,SuccessM0-0,Isn't it beautiful?,"C'est beau, non ?",Ist das nicht wunderschön?,"Che spettacolo, eh?",Qué noche más bonita. ¿Verdad?,Çok güzel değil mi?
+5,SuccessM0-1,"Yes, isn't it?","Oui, vraiment.",Oh ja!,Già...,Sí...,"Evet, gerçekten güzel."
+6,SuccessM1-0,"Actually, you are more beautiful.",Té encore plus belle que les feux d'artifice !,Aber du bist noch viel schöner.,Anche se tu sei molto più bella.,Hoy estás más guapa que nunca.,Aslında sen daha güzelsin.
+7,SuccessM1-1,Heehee! Thanks!,i {TAG_1}i {TAG_2}i ! Merci !,Hihi! Danke für das Kompliment!,Eh{TAG_1} eh! Grazie!,¡Ui! Gracias.,Hihi! Teşekkürler!
+8,SuccessM2-0,"By the way, I have something I have
+been meaning to ask...","Au faitt, j'ai quelque chose d'important à
+te demander...",Ich muss dich etwas Wichtiges fragen...,In realtà c'è qualcosa che vorrei chiederti...,"Por cierto, hay algo que quería preguntarte...","Bu arada, bir süredir sana sormak istediğim bir şey var..."
+9,SuccessM2-1,What is it?,Quoi donc ?,Was gibt es denn?,Di che si tratta?,¿El qué?,Nedir?
+10,SuccessM3-0,Would you marry me?,Veux-tu m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+11,SuccessM3-1,"Sure, I'd love to!",Oh ! Avec joie !,"Aber ja, natürlich möchte ich!",Certo! Ne sarei felice!,¡Por supuesto!,"Tabii, çok isterim!"
+12,SuccessF0-0,Isn't it pretty?,"C'est beau, tu ne trouves pas ?",Ist das nicht wunderschön?,"Che spettacolo, vero?",Son bonitos. ¿Verdad?,Çok hoş değil mi?
+13,SuccessF0-1,Yeah.,Ou ais...,Ja.,"Sì, è bellissimo.",Sí...,Evet.
+14,SuccessF1-0,"What's more beautiful, me or the fireworks?","Quess qui est le plus beau ?
+Les feux d'artifice, ou moi ?","Was ist schöner, das Feuerwerk oder ich?","Secondo te, sono più bella io o questi fuochi
+spettacolari?","¿Qué te gusta más?
+Los fuegos artificiales o yo","Hangisi daha güzel:
+ben mi, havai fişekler mi?"
+15,SuccessF1-1,"You, of course!","Toi, bien sûr !",Du natürlich!,"Ma che domande, tu!",¡Tú!,Tabii ki sen!
+16,SuccessF2-0,"Actually, I have something important to
+ask you...","Au faitt, j'ai quelque chose d'important à
+te demander...",Ich muss dich etwas Wichtiges fragen...,Volevo chiederti una cosa molto importante...,"Por cierto, hay algo que quería preguntarte...",Aslında sana sormam gereken önemli bir şey var...
+17,SuccessF2-1,Go ahead.,Quoi donc ?,Schieß los.,Chiedi pure.,Dime.,Sor bakalım.
+18,SuccessF3-0,Would you marry me?,Tu veux bien m'épouser ?,Möchtest du mich heiraten?,Vuoi sposarmi?,¿Quieres casarte conmigo?,Benimle evlenir misin?
+19,SuccessF3-1,I'd love to!,Avec joie !,Liebend gern!,"Certo, mi piacerebbe!",¡De mil amores!,Çok isterim!
+20,FailureContinueM0-0,"What? Sorry, I couldn't hear!",Cot ment ? Je n'ai rien entendu !,Wass? Ich habe dich nicht verstanden!,"Come? Scusami, non ho sentito!",¿Que? Perdona. Pero no te he oído.,"Ne? Pardon, duyamadım!"
+21,FailureContinueM0-1,Never mind...,"Non, ri hein...",Egal...,Non importa...,No importa...,Boş ver...
+22,FailureContinueF0-0,"Sorry, I didn't catch that.",Quess que tu as dit ?,"Tut mir leid, das hab ich nicht verstanden.","Scusa, non ho sentito.",¿Qué has dicho? No lo he oído.,"Pardon, duyamadım."
+23,FailureContinueF0-1,Um... Nothing!,"Euh... non, ri hein...",Em... Nichts!,Um... Non fa niente.,Olvídalo...,Şey... Hiç!
+24,CommonM0-0,I think {TAG_1} is here too...,Je crois bien qu{TAG_1}{TAG_2} est aussi ici...,Ich glaube {TAG_1} ist auch hier...,"Dovrebbe esserci anche {TAG_1}
+nei paraggi...",Creo que {TAG_1} también ha venido...,Sanırım {TAG_1} de burada...
+25,CommonM0-1,Really?,Ah bon ?,Wirklich?,Davvero?,¿En serio?,Gerçekten mi?
+26,CommonM1-0,Aren't the fireworks spectacular?,"C'est beau, les feux d'artifice, hein ?",Ist das Feuerwerk nicht beeindruckend?,I fuochi d'artificio sono meravigliosi!,Los fuegos artificiales son preciosos. ¿No crees?,Havai fişekler muhteşem değil mi?
+27,CommonM1-1,"Yeah, they are really amazing.","Oui, ils sont super beaux.","Ja, absolut fantastisch.","Sì, sono davvero fantastici.","Sí, son alucinantes.","Evet, gerçekten harikalar."
+28,CommonF0-0,I heard {TAG_1} came here too.,Je crois qu{TAG_1}{TAG_2} est ici aussi...,{TAG_1} ist wohl auch hier.,Dovrebbe esserci anche {TAG_1}.,"Me han dicho que {TAG_1} iba a
+estar por aquí.",{TAG_1} de buraya gelmiş diye duydum.
+29,CommonF0-1,"Oh, is that so?","Ah, vraiment ?","{TAG_1}Oh, {TAG_2}tatsächlich?","Oh, davvero?",¿Ah sí?,"Aa, öyle mi?"
+30,CommonF1-0,Aren't the fireworks breathtaking?,"Les feux d'artifice sont somptueux, non ?",Ist das Feuerwerk nicht atemberaubend?,I fuochi d'artificio sono davvero mozzafiato!,"Estos fuegos artificiales quitan el aliento.
+¿Verdad?",Havai fişekler nefes kesici değil mi?
+31,CommonF1-1,"Yes, they're so pretty!","Oui, ils sont si beaux !","Ja, es ist wirklich sehr hübsch!","Sì, sono così belli!","¡Sí, son muy bonitos!","Evet, çok güzeller!"
+32,MosquitoM0-0,I think there are some bugs flying about...,On dirait qu'il y a des moustiques...,Hier sind echt viele Mücken unterwegs...,"C'è una dzandzara fastidiosa che mi ronza
+attorno...",¡Cuántos bichos hay por aquí!,Etrafta birkaç böcek uçuşuyor galiba...
+33,MosquitoM0-1,Maybe...,Peut-être bien...,Kann schon sein...,Me ne sono accorto...,Puede ser...,Olabilir...
+34,MosquitoM1-0,Did you get bitten by any bugs?,Tu ne t'es pas fait piquer ?,Wurdest du von einer Mücke gestochen?,Ti ha morso una dzandzara?,¿Te ha pica do algún bicho?,Seni böcek ısırdı mı?
+35,MosquitoM1-1,"No, I'm fine.","Non, ça va.","Nein, alles bestens.","No, sto bene.","No, estoy bien.","Hayır, iyiyim."
+36,MosquitoM2-0,Do you think there are many bugs about?,"On dirait qu'il y a beaucoup de moustiques, par ici...",Richtig viele Mücken hier. Wass?,Secondo te ci sono dzandzare qui?,¿No te parece que hay muchos bichos por este sitio?,Sence burada çok böcek var mı?
+37,MosquitoM2-1,Maybe...,Peut-être bien...,Gut möglich...,Può darsi...,Puede que sí...,Olabilir...
+38,MosquitoM_Failure0,"I don't like all these bugs!
+Let's just go home!",Je n'aime pas ça... Partons d'ici !,Diese Mücken sind fies! Gehen wir heim!,"Non sopporto gli insetti!
+Torniamo a casa!",¡Hay demasiados bichos! Volvamos a casa.,Bu kadar böceği hiç sevmiyorum! En iyisi eve dönelim!
+39,MosquitoM_Failure1,"OK, then...",D'accord...,Wird wohl besser sein...,Va bene...,"Bueno, vale...",Peki öyleyse...
+40,MosquitoF0-0,There are a few bugs about...,"Qu'est-ce qu'il y a comme moustiques,
+par ici !",Es sind hier ein paar Mücken unterwegs...,Mi sa che c'è qualche dzandzara...,¡Cuántos bichos hay por aquí!,Etrafta birkaç böcek var...
+41,MosquitoF0-1,Yuck!,"Oui, je vois ça...",Igitt!,Già...,¡Qué repelús!,Iyy!
+42,MosquitoF1-0,You didn't get bitten{TAG_1} did you?,"Tu ne t'es pas fait piquer, au moins ?","Du bist doch nicht gestochen worden, oder?","Non sei stata punta, vero?",¿Te ha pica do algún bicho?,"Seni ısırmadılar{TAG_1}, değil mi?"
+43,MosquitoF1-1,"No, I'm OK.","Non, ne t'inquiète pas.","Nein, alles klar bei mir.","No, sto bene.","No, estoy bien.","Hayır, iyiyim."
+44,MosquitoF2-0,There's so many bugs!,On dirait qu'il y a des moustiques.,Hier sind so viele Mücken!,C'è qualche insetto che ronza qui intorno.,Háymuchos bichos por aquí. ¿Verdad?,Ne kadar da çok böcek var!
+45,MosquitoF2-1,I know... Yuck!,Je vois ça...,Ich weiß... Igitt!,Me ne sono accorta...,Pues sí... ¡Qué asco!,Evet... Iyy!
+46,MosquitoF_Failure0,"There are too many bugs!
+Let's just go home!",Il y a trop de moustiques par ici ! Partons !,Hier sind zu viele Mücken! Gehen wir heim!,"Ci sono troppi insetti!
+Meglio tornare a casa!",¡Hay demasiados bichos! Volvamos a casa.,Çok fazla böcek var! En iyisi eve dönelim!
+47,MosquitoF_Failure1,OK...,OK...,Wie du willst...,OK...,Vale...,Tamam...
+48,HungryM0-0,Are you hungry?,Tu n'as pas faim ?,Hast du Hunger?,Hai fame?,¿Tienes hambre?,Acıktın mı?
+49,HungryM0-1,"No, I'm fine.","Non, ça va.","Nein, ich bin nicht hungrig.","No, sono a posto.","No, en absoluto.","Hayır, iyiyim."
+50,HungryM1-0,Are you hungry?,Tu as faim ?,Hast du Hunger?,Hai fame?,¿Tienes hambre?,Acıktın mı?
+51,HungryM1-1,"No, I'm fine.","Non, ça va.","Nein, ich bin nicht hungrig.","No, sono a posto.","No, para nada.","Hayır, iyiyim."
+52,HungryM2-0,"I went to eat with {TAG_1}
+recently...","L'autre jour, j'ai mangé avec {TAG_1}...",Ich war neulich mit {TAG_1} essen...,"L'altro giorno ho cenato con
+{TAG_1}...",El otro día fui a comer con {TAG_1}...,Geçenlerde {TAG_1} ile yemeğe çıktım...
+53,HungryM2-1,Oh... Did you?,Ah bon ?,{TAG_1}Oh... {TAG_2}Tatsächlich?,Oh... Davvero?,¿Ah sí?,Aa... Öyle mi?
+54,HungryM3-0,Are you hungry?,Tu as faim ?,Hast du Hunger?,Non hai fame?,¿Tienes hambre?,Acıktın mı?
+55,HungryM3-1,"No, I'm OK.","Non, ça va...","Nein, bei mir ist alles klar.","No, sono a posto.","No, estoy bien.","Hayır, iyiyim."
+56,HungryM_Failure0,"Maybe, we should just head back...",Il va falloir que je rentre...,Wir sollten langsam heimgehen...,Forse dovremmo tornare a casa...,Creo que ya es hora de volver...,Belki de artık dönsek iyi olur...
+57,HungryM_Failure1,Oh... if you think so.,"Ah... Bon, d'accord.",{TAG_1}Oh... {TAG_2}Wenn du meinst...,Oh... Se lo dici tu.,Si tú lo dices...,Aa... Sen öyle diyorsan.
+58,HungryF0-0,Are you hungry?,Tu n'as pas faim ?,Hast du Hunger?,Hai fame?,¿Tienes hambre?,Acıktın mı?
+59,HungryF0-1,I'm fine.,"Non, ça va.","Nein, alles gut bei mir.","No, sto bene.",No.,İyiyim.
+60,HungryF1-0,Aren't you hungry?,Tu as faim ?,Bist du nicht hungrig?,Non hai fame?,¿Tienes hambre?,Acıkmadın mı?
+61,HungryF1-1,"No, I'm fine.","Non, ça va.","Nein, bei mir ist alles in Ordnung.","No, sono a posto.","No, para nada.","Hayır, iyiyim."
+62,HungryF2-0,"Recently, I ate out with {TAG_1}.","L'autre jour, j'ai mangé avec {TAG_1}...",Neulich war ich mit {TAG_1} essen.,"L'altro giorno ho pranzato con
+{TAG_1}.",Hace poco fui a comer con {TAG_1}...,Geçenlerde {TAG_1} ile dışarıda yemek yedim.
+63,HungryF2-1,Did you?,Vraiment ?,Was du nicht sagst...,Davvero?,¿De verdad?,Öyle mi?
+64,HungryF3-0,Are you hungry?,Tu as faim ?,Hast du Hunger?,Hai fame?,¿Tienes hambre?,Acıktın mı?
+65,HungryF3-1,No. I'm OK.,"Non, ça va.","Nein, mir geht's bestens.","No, sto bene.","No, estoy bien.","Hayır, iyiyim."
+66,HungryF_Failure0,Why don't we just head home?,"Bon, je vais bientôt devoir rentrer.",Wollen wir nicht einfach nach Hause gehen?,Perché non torniamo a casa?,Ya es hora de volver a casa.,Eve dönsek mi artık?
+67,HungryF_Failure1,"OK, if you say so...","D'accord, si tu le dis...","Gut, wenn du das willst...","OK, se proprio vuoi...","Ah, vale...","Peki, sen öyle diyorsan..."
+68,FoodStallM0-0,"I wonder if there's somewhere to get some
+food around here...",Je me demande si on peut trouver à manger par ici...,Ob man hier wohl auch was zu Essen bekommt?,"Chissà se vendono qualcosa da mangiare
+qui vicino...","¿Habrá algun sitio para comprar
+algo de comer cerca de aquí?","Acaba buralarda yiyecek bir şey
+alabileceğimiz bir yer var mı..."
+69,FoodStallM0-1,I wonder...,Je sais pas...,Ich frag mich...,Chissà...,No sé...,Acaba...
+70,FoodStallM1-0,"I wonder if there's a food stand around here
+somewhere...",Je me demande s'il y a un endroit où manger ici...,Ob es hier wohl einen Imbissstand gibt?,"Ci sarà da queste parti una bancarella dove
+poter mangiare qualcosa di buono?",¿Habrá algun puestecillo de comida cerca?,Buralarda bir yiyecek tezgâhı var mıdır acaba...
+71,FoodStallM1-1,Who knows?,Qui sait ?,Schwer zu sagen...,E chi lo sa?,A saber...,Kim bilir?
+72,FoodStallM2-0,"Do you think there's somewhere to eat around
+here?","Tu penses qu'il y a à manger, dans le coin ?",Glaubst du man kann hier auch irgendwo essen?,"Credi che qui vicino ci sia qualche negozio
+di alimentari?","¿Crees que habrá algún sitio para comer
+cerca de aquí?","Sence buralarda yemek
+yiyebileceğimiz bir yer var mı?"
+73,FoodStallM2-1,Well...,{TAG_1}Euh euh...,Tjaah...,Beh...,Pues...,Şey...
+74,FoodStallM_Failure0,Shall we go and find somewhere to eat?,"On devrait peut-être essayer de trouver
+à manger...",Sollen wir uns irgendwo etwas zu essen holen?,"Andiamo a cercare qualcosa di buono
+da mangiare?",¿Y si buscamos algún sitio para comer?,Yemek yiyebileceğimiz bir yer arayalım mı?
+75,FoodStallM_Failure1,"Oh, OK...",Si tu veux...,"{TAG_1}Oh, {TAG_2}einverstanden...","Oh, va bene...","Ah, vale...","Aa, tamam..."
+76,FoodStallF0-0,"Do you think there's somewhere to eat round
+here?","Tu crois qu'on peut trouver à manger, dans le coin ?",Glaubst du man kann hier irgendwo was essen?,"Chissà dove possiamo andare a mettere
+qualcosa sotto i denti...","¿Habrá algun sitio donde comprar
+comida cerca de aquí?","Sence buralarda yemek
+yiyebileceğimiz bir yer var mı?"
+77,FoodStallF0-1,Maybe...,Peut-être...,Vielleicht...,Chissà...,Puede...,Belki...
+78,FoodStallF1-0,Is there anywhere to eat around here?,"À ton avis, on peut trouver à manger, par ici ?",Gibt es hier irgendwo eine Imbissbude?,"Secondo te possiamo trovare qualcosa
+da mangiare nei paraggi?",¿Habrá algun puestecillo de comida cerca?,Buralarda yemek yiyecek bir yer var mı?
+79,FoodStallF1-1,I guess so...,Peut-être...,Denke schon...,Credo di sì...,Supongo que sí...,Herhalde vardır...
+80,FoodStallF2-0,"Do you think we can get anything to eat near
+here?","Je me demande si on peut trouver à manger, par là...",Meinst du es gibt hier auch eine Imbissbude?,"Sai se qui vicino vendono qualcosa di
+buono da mangiare?","¿Crees que habrá algún sitio para comer
+cerca de aquí?","Sence buralarda yiyecek
+bir şey bulabilir miyiz?"
+81,FoodStallF2-1,Well...,J'en sais rien...,Nun...,Beh...,Diría que sí...,Şey...
+82,FoodStallF_Failure0,Shall we see if we can find a food stand?,Et si on cherchait un endroit pour manger ?,Sollen wir mal nach einer Imbissbude suchen?,"Andiamo a cercare qualcosa da mettere
+sotto i denti?",¿Y si buscamos algún sitio para comer?,Bir yiyecek tezgâhı bulabilir miyiz diye bakalım mı?
+83,FoodStallF_Failure1,"Oh, OK...",{TAG_1}Euh euh... {TAG_2}Si tu veux.,"{TAG_1}Oh, {TAG_2}in Ordnung...","Oh, va bene...","Ah, vale...","Aa, tamam..."

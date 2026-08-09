@@ -1,0 +1,964 @@
+﻿index,label,English,French,German,Italian,Spanish,Turkish
+2,Sys_ButtonYes,Yes,Oui,Ja,Sì,Sí,Evet
+3,Sys_ButtonNo,No,Non,Nein,No,No,Hayır
+4,Sys_ButtonOk,OK,OK,OK,OK,Aceptar,Tamam
+5,Sys_ButtonCancel,Cancel,Annuler,Abbrechen,Annulla,Cancelar,İptal
+6,Sys_ButtonEnter,Enter,Entrer,Besuchen,Entra,Entrar,Gir
+7,Sys_ButtonDelete,Erase,Effacer,Löschen,Cancella,Borrar,Sil
+8,Sys_ButtonClear,Clear,Annuler,Zurück,Cancella,Cancelar,Temizle
+9,Sys_ButtonReset,Reset,Par défaut,Neustart,Annulla,Reiniciar,Sıfırla
+10,Sys_ButtonEdit,Edit,Modifier,Bearbeiten,Modifica,Editar,Düzenle
+11,Sys_ButtonBack,Back,Retour,Zurück,Indietro,Atrás,Geri
+12,Sys_ButtonRetake,Retake,Reprendre,Neues Bild,Scatta di nuovo,Hacer de nuevo,Yeniden Çek
+13,Sys_ButtonNext,Next,Suivant,Weiter,Avanti,Siguiente,İleri
+14,Sys_ButtonDecide,OK,OK,OK,OK,Confirmar,Tamam
+15,Sys_ButtonRegister,Confirm,Enregistrer,Speichern,Salva,Guardar,Onayla
+16,Sys_ButtonRoom,Go To Room,Appartement,Ins Zimmer,Appartamento,Apartamento,Odaya Git
+17,Sys_ButtonWatch,Look,Regarder,Ansehen,Guarda,Ver,Bak
+18,Sys_ButtonGive,Give,Donner,Geben,Dai,Dar,Ver
+19,Sys_ButtonChangeClothes,OK,OK,OK,OK,Confirmar,Tamam
+20,Sys_ButtonChangeRoom,OK,OK,OK,OK,Confirmar,Tamam
+21,Sys_ButtonGoShop,Buy,Acheter,Kaufen,Compra,Comprar,Satın Al
+22,Sys_ButtonTakeOffHeadwear,Remove Hat,Ôter chapeau,"Hut/Mütze
+abnehmen",Leva cappello,"Quitar
+sombrero",Şapkayı Çıkar
+23,Sys_ButtonBuy,Buy,Acheter,Kaufen,Compra,Comprar,Satın Al
+24,Sys_ButtonSell,Sell,Vendre,Verkaufen,Vendi,Vender,Sat
+25,Sys_ButtonDailyItem,Today's Items,Art. du jour,Empfehlung,Consigliati,Solo hoy,Bugünün Ürünleri
+26,Sys_ButtonSeasonItem,Seasonal,Art. de saison,Saisonwaren,Di stagione,Temporada,Mevsimlik
+27,Sys_ButtonSpecialItem,Special,Art. spéciaux,Spezielles,Speciale,Especiales,Özel
+28,Sys_ButtonCatalog,In Stock,Catalogue,Katalog,In catalogo,Catálogo,Stokta
+29,Sys_ButtonFood,Food,Nourriture,Essen,Cibo,Comida,Yiyecek
+30,Sys_ButtonCostume,Clothes,Vêtements,Kleidung,Abbigliamento,Ropa,Kıyafetler
+31,Sys_ButtonHeadwear,Hats,Chapeaux,Hüte/Mützen,Cappelli,Sombreros,Şapkalar
+32,Sys_ButtonInterior,Interiors,Intérieurs,Einrichtung,Arredamento,Interiores,İç Mekânlar
+33,Sys_ButtonTool,Practical Items,Objets du quotidien,Praktisches,Strumenti,Objetos,Kullanışlı Eşyalar
+34,Sys_ButtonTreasure,Treasures,Trésors,Schätze,Tesori,Tesoros,Hazineler
+35,Sys_ButtonSpecialProduct,Special Products,Produits spéciaux,Spezielle Produkte,Articoli speciali,Especialidades,Özel Ürünler
+36,Sys_ButtonMii,Mii,Mii,Mii,Mii,Mii,Mii
+37,Sys_ButtonWord,Word,Mot,Wort,Parola,Palabra,Kelime
+38,Sys_ButtonKeyboard,Keyboard,Clavier,Tastatur,Tastiera,Teclado,Klavye
+39,Sys_ButtonList,Selection List,Liste de sélection,Auswahl-Liste,Elenco di selezione,Lista de selecciones,Seçim Listesi
+40,Sys_ButtonLock,Lock,Bloquer,Schützen,Archivia,Archivar,Kilitle
+41,Sys_ButtonUnlock,Unlock,Débloquer,Nicht schützen,Annulla,Cancelar,Kilidi Aç
+42,Sys_MiiName,Name,Nom,Name,Nome,Nombre,Ad
+43,Sys_MiiFamilyName,Last Name,Nom,Nachname,Cognome,Apellido,Soyad
+44,Sys_MiiFirstName,First Name,Prénom,Vorname,Nome,Nombre,Ad
+45,Sys_MiiNickName,Nickname,Surnom,Spitzname,Nickname,Apodo,Takma Ad
+46,Sys_MiiBirthYear,Year Born,Année de naissance,Geburtsjahr,Anno di nascita,Año de nacimiento,Doğum Yılı
+47,Sys_MiiBirthday,Birthday,Anniversaire,Geburtstag,Data di nascita,Nacimiento,Doğum Günü
+53,Sys_MiiGender,Gender,Sexe,Geschlecht,Sesso,Sexo,Cinsiyet
+54,Sys_MiiGender_Man,♂,♂,♂,♂,♂,♂
+55,Sys_MiiGender_Woman,♀,♀,♀,♀,♀,♀
+56,Sys_MiiAdulty,Grown-Up/Child,Adulte/enfant,Erw./Kind,Adulto/bambino,Adulto o niño,Yetişkin/Çocuk
+57,Sys_MiiAdulty_Adult,Grown-Up,Adulte,Erwachsen,Adulto,Adulto,Yetişkin
+58,Sys_MiiAdulty_Child,Child,Enfant,Kind,Bambino,Niño/niña,Çocuk
+60,Sys_MiiPhrase,Catchphrase,Expression favorite,Phrase,Motto,Muletilla,Slogan
+61,Sys_MiiColor,Favourite Colour,Couleur favorite,Lieblingsfarbe,Colore preferito,Color favorito,Favori Renk
+62,Sys_MiiColor_Red,Red,Rouge,Rot,Rosso,Rojo,Kırmızı
+63,Sys_MiiColor_Orange,Orange,Orange,Orange,Arancione,Naranja,Turuncu
+64,Sys_MiiColor_Yellow,Yellow,Jaune,Gelb,Giallo,Amarillo,Sarı
+65,Sys_MiiColor_Yellowgreen,Light Green,Vert clair,Hellgrün,Verde chiaro,Verde claro,Açık Yeşil
+66,Sys_MiiColor_Green,Green,Vert foncé,Grün,Verde,Verde,Yeşil
+67,Sys_MiiColor_Blue,Blue,Bleu foncé,Blau,Blu,Azul,Mavi
+68,Sys_MiiColor_Skyblue,Light Blue,Bleu clair,Hellblau,Azzurro,Azul claro,Açık Mavi
+69,Sys_MiiColor_Pink,Pink,Rose,Pink,Rosa,Rosa,Pembe
+70,Sys_MiiColor_Purple,Purple,Violet,Lila,Viola,Morado,Mor
+71,Sys_MiiColor_Brown,Brown,Marron,Braun,Marrone,Marrón,Kahverengi
+72,Sys_MiiColor_White,White,Blanc,Weiß,Bianco,Blanco,Beyaz
+73,Sys_MiiColor_Black,Black,Noir,Schwarz,Nero,Negro,Siyah
+74,Sys_MiiRelation,Relation to Real You,Relation avec le « vous réel »,Beziehung im echten Leben,Relazione con te,Relación con tu yo real,Gerçek Seninle İlişkisi
+75,Sys_MiiRelation_Own,Self,Moi-même,Ich selbst,Utente,Uno mismo,Kendin
+76,Sys_MiiRelation_Couple,Spouse,Conjoint,Ehepartner,Marito/moglie,Cónyuge,Eş
+77,Sys_MiiRelation_Parent,Parent,Parent,Elternteil,Genitore,Padre o madre,Ebeveyn
+78,Sys_MiiRelation_Child,Child,Enfant,Kind,Figlio/a,Hijo o hija,Çocuk
+79,Sys_MiiRelation_Sibling,Sibling,Frère/sœur,Geschwister,Fratello/sorella,Hermano o hermana,Kardeş
+80,Sys_MiiRelation_Other_Relative,Other Relative,Famille,Verwandtschaft,Altro/a parente,Otro familiar,Diğer Akraba
+81,Sys_MiiRelation_General,Not Related,Aucune parenté,Sonstige,Nessuna parentela,Otra relación,Akrabalık Yok
+82,Sys_MiiAuthor,Creator,Créateur,Ersteller,Autore,Creador,Oluşturan
+83,Sys_MiiAdmission,Share/Copy Permissions,Permissions de partage/copie,Öffentlich/Kopieren,Permesso di condivisione/copia,Permiso para compartir y copiar,Paylaşma/Kopyalama İzinleri
+84,Sys_MiiAdmission_Open,Sharing,Partage,Öffentlich,Condivisione,Compartir,Paylaşma
+85,Sys_MiiAdmission_Copy,Copying,Copie,Kopieren,Copia,Copiar,Kopyalama
+86,Sys_MiiAdmission_Yes,On,Oui,Ja,Attiva,Sí,Açık
+87,Sys_MiiAdmission_No,Off,Non,Nein,Disattiva,No,Kapalı
+88,Sys_MiiAdmission_Open_Yes,Share,Partager,Veröffentlichen,Condividi,Compartir,Paylaş
+89,Sys_MiiAdmission_Open_No,Don't Share,Ne pas partager,Nicht veröffentlichen,Non condividere,No compartir,Paylaşma
+90,Sys_MiiAdmission_Copy_Yes,Allow,Autoriser,Erlauben,Sì,Permitir,İzin Ver
+91,Sys_MiiAdmission_Copy_No,Don't Allow,Interdire,Nicht erlauben,No,No permitir,İzin Verme
+92,Sys_MiiSatisfy,Happiness,Bonheur,Zufriedenheit,Felicità,Felicidad,Mutluluk
+93,Sys_MiiSatisfy_Lv,LVL {TAG_1},Niv. {TAG_1},Lv. {TAG_1},Liv. {TAG_1},Niv. {TAG_1},SV. {TAG_1}
+94,Sys_MiiDepress,Sadness,Tristesse,Traurigkeit,Tristezza,Tristeza,Üzüntü
+95,Sys_WandSatisfy,Relaxation,Détente,Entspanntheit,Relax,Felicidad,Rahatlık
+96,Sys_WandLvCaption,Thanks Level,Gratitude,Dankbarkeit,Gradimento,Gratitud,Teşekkür Seviyesi
+97,Sys_WandSatisfy_Lv,LVL {TAG_1},Niv. {TAG_1},Lv. {TAG_1},Liv. {TAG_1},Niv. {TAG_1},SV. {TAG_1}
+98,Sys_WandDepress,Sadness,Tristesse,Traurigkeit,Tristezza,Tristeza,Üzüntü
+99,Sys_ButtonSave,Save,Sauvegarder,Speichern,Salva,Guardar,Kaydet
+100,Sys_ButtonNotSave,Don't Save,Ne pas sauvegarder,Nicht speichern,Non salvare,No guardar,Kaydetme
+101,Sys_ColorDialog_NotHave,0,0,0,0,0,0
+102,Sys_InnerCamera,Inner Camera,APN intérieur,Innenkamera,Interno,Cámara interior,İç Kamera
+103,Sys_OuterCamera,Outer Camera,APN extérieur,Außenkamera,Esterno,Cámara exterior,Dış Kamera
+104,Sys_CameraBooting,Preparing camera...,Démarrage de l'APN...,Kamera starten...,Preparazione della fotocamera in corso...,Preparando la cámara...,Kamera hazırlanıyor...
+105,Sys_CameraBroken,The system camera is not working correctly.,L'appareil photo de la console ne fonctionne pas correctement.,"Die Kamera des Systems
+funktioniert nicht richtig.",L'obiettivo interno della console è danneggiato.,La cámara no funciona correctamente.,Sistem kamerası düzgün çalışmıyor.
+106,Sys_MiiCharacter,Personality,Personnalité,Persönlichkeit,Carattere,Personalidad,Kişilik
+107,Sys_MiiCharacter4_Cool,Reserved,Type réservé,Kühl,Tipo riservato,Reservada,Mesafeli
+108,Sys_MiiCharacter4_Dry,Confident,Type confiant,Nüchtern,Tipo deciso,Confiada,Özgüvenli
+109,Sys_MiiCharacter4_Nagomi,Easy-going,Type apaisant,Ruhig,Tipo tranquillo,Tranquila,Rahat
+110,Sys_MiiCharacter4_Nori,Energetic,Type ouvert,Lebhaft,Tipo espansivo,Activa,Enerjik
+111,Sys_MiiCharacter4_Cool_N,Reserved,Réservé,Kühl,Riservato,Reservada,Mesafeli
+112,Sys_MiiCharacter4_Dry_N,Confident,Confiant,Nüchtern,Deciso,Confiada,Özgüvenli
+113,Sys_MiiCharacter4_Nagomi_N,Easy-going,Apaisant,Ruhig,Tranquillo,Tranquila,Rahat
+114,Sys_MiiCharacter4_Nori_N,Energetic,Ouvert,Lebhaft,Espansivo,Activa,Enerjik
+115,Sys_MiiCharacter16_00,Introvert,Introverti,Introvertiert,Taciturno,Introvertida,İçe Dönük
+116,Sys_MiiCharacter16_01,Thinker,Songeur,Nachdenklich,Riflessivo,Reflexiva,Düşünceli
+117,Sys_MiiCharacter16_02,Free-spirit,Indépendant,Freigeist,Indipendente,Independiente,Özgür Ruh
+118,Sys_MiiCharacter16_03,Go-getter,Déterminé,Schwungvoll,Determinato,Decidida,Atılgan
+119,Sys_MiiCharacter16_04,Do-gooder,Effacé,Geduldsengel,Comprensivo,Servicial,İyiliksever
+120,Sys_MiiCharacter16_05,Perfectionist,Consciencieux,Intellektuell,Perfezionista,Intelectual,Mükemmeliyetçi
+121,Sys_MiiCharacter16_06,Busy Bee,Persévérant,Zielstrebig,Efficiente,Creativa,Çalışkan
+122,Sys_MiiCharacter16_07,Leader,Meneur,Ehrgeizling,Intraprendente,Ambiciosa,Lider
+123,Sys_MiiCharacter16_08,Carer,Attentionné,Warmherzig,Premuroso,Considerada,Şefkatli
+124,Sys_MiiCharacter16_09,Dreamer,Tranquille,Gemächlich,Sognatore,Relajada,Hayalperest
+125,Sys_MiiCharacter16_10,Buddy,Sympathique,Kumpeltyp,Socievole,Amistosa,Cana Yakın
+126,Sys_MiiCharacter16_11,Extrovert,Passionné,Extrovertiert,Entusiasta,Extrovertida,Dışa Dönük
+127,Sys_MiiCharacter16_12,Softie,Compatissant,Unbeständig,Affettuoso,Agradable,Yumuşak Kalpli
+128,Sys_MiiCharacter16_13,Optimist,Optimiste,Sonnenschein,Ottimista,Optimista,İyimser
+129,Sys_MiiCharacter16_14,Charmer,Charismatique,Flirtgranate,Carismatico,Encantadora,Çekici
+130,Sys_MiiCharacter16_15,Adventurer,Énergique,Abenteurertyp,Dinamico,Aventurera,Maceracı
+131,Sys_MiiCharacter16_00_N,Introvert,Introverti,Introvertiert,Taciturno,Introvertida,İçe Dönük
+132,Sys_MiiCharacter16_01_N,Thinker,Songeur,Nachdenklich,Riflessivo,Reflexiva,Düşünceli
+133,Sys_MiiCharacter16_02_N,Free-spirit,Indépendant,Freigeist,Indipendente,Independiente,Özgür Ruh
+134,Sys_MiiCharacter16_03_N,Go-getter,Déterminé,Schwungvoll,Determinato,Decidida,Atılgan
+135,Sys_MiiCharacter16_04_N,Do-gooder,Effacé,Geduldsengel,Comprensivo,Servicial,İyiliksever
+136,Sys_MiiCharacter16_05_N,Perfectionist,Consciencieux,Intellektuell,Perfezionista,Intelectual,Mükemmeliyetçi
+137,Sys_MiiCharacter16_06_N,Busy Bee,Persévérant,Zielstrebig,Efficiente,Creativa,Çalışkan
+138,Sys_MiiCharacter16_07_N,Leader,Meneur,Ehrgeizling,Intraprendente,Ambiciosa,Lider
+139,Sys_MiiCharacter16_08_N,Carer,Attentionné,Warmherzig,Premuroso,Considerada,Şefkatli
+140,Sys_MiiCharacter16_09_N,Dreamer,Tranquille,Gemächlich,Sognatore,Relajada,Hayalperest
+141,Sys_MiiCharacter16_10_N,Buddy,Sympathique,Kumpeltyp,Socievole,Amistosa,Cana Yakın
+142,Sys_MiiCharacter16_11_N,Extrovert,Passionné,Extrovertiert,Entusiasta,Extrovertida,Dışa Dönük
+143,Sys_MiiCharacter16_12_N,Softie,Compatissant,Unbeständig,Affettuoso,Agradable,Yumuşak Kalpli
+144,Sys_MiiCharacter16_13_N,Optimist,Optimiste,Sonnenschein,Ottimista,Optimista,İyimser
+145,Sys_MiiCharacter16_14_N,Charmer,Charismatique,Flirtgranate,Carismatico,Encantadora,Çekici
+146,Sys_MiiCharacter16_15_N,Adventurer,Énergique,Abenteurertyp,Dinamico,Aventurera,Maceracı
+147,Sys_MiiRelationRank_Others,Stranger,Inconnu/inconnue,Fremde,Estraneo/a,Persona desconocida,Yabancı
+148,Sys_MiiRelationRank_Friend,Friend,Ami(e)s,Freunde,Amico/a,Amigo o amiga,Arkadaş
+149,Sys_MiiRelationRank_Lovers,Special Someone,Amoureux(se),Partner,Fidanzato/a,Pareja,Sevgili
+150,Sys_MiiRelationRank_ExLovers,Ex,Ex,Ex,Ex-fidanzato/a,Expareja,Eski Sevgili
+151,Sys_MiiRelationRank_Couple,Married Couple,Époux(se),Ehepartner,Marito/moglie,Matrimonio,Evli Çift
+152,Sys_MiiRelationRank_Child_Care,Married Couple,Époux(se),Ehepartner,Marito/moglie,Matrimonio,Evli Çift
+153,Sys_MiiRelationRank_Husband,Husband,Époux,Ehemann,Marito,Esposo,Koca
+154,Sys_MiiRelationRank_Wife,Wife,Épouse,Ehefrau,Moglie,Esposa,Eş
+155,Sys_MiiRelationRank_Divorce,Divorced,Ex-époux(se),Geschieden,Ex-marito/ex-moglie,Divorcio,Boşanmış
+156,Sys_MiiRelationRank_Parent_Child,Parent/Child,Parent/enfant,Eltern/Kind,Genitore e figlio/a,Progenitor e hijo/hija,Ebeveyn/Çocuk
+157,Sys_MiiRelationRank_Parent,Parent,Parent,{TAG_1},Genitori,Padre o madre,Ebeveyn
+158,Sys_MiiRelationRank_Child,Child,Enfant,Kind,Figlio/a,Hijo o hija,Çocuk
+159,Sys_MiiRelationRank_Brother_Sister,Sibling,Frères et sœurs,Geschwister,Fratello/sorella,Hermano o hermana,Kardeş
+160,Sys_MiiRelationRank_Fight_Friend,Friend (in fight),Ami(e)s (en conflit),Freunde (im Streit),Amico/a (in lite),Amigo o amiga (riña),Arkadaş (kavgalı)
+161,Sys_MiiRelationRank_Fight_Lovers,Special Someone (in fight),Amoureux(se) (en conflit),Partner (im Streit),Fidanzato/a (in lite),Pareja (riña),Sevgili (kavgalı)
+162,Sys_MiiRelationRank_Fight_Couple,Married Couple (in fight),Époux(se) (en conflit),Ehepaar (im Streit),Marito/moglie (in lite),Matrimonio (riña),Evli Çift (kavgalı)
+163,Sys_MiiRelationRank_Best_Friend,Best Friend,Meilleur(e) ami(e),Beste Freunde,Migliore amico/a,Mejor amigo o amiga,En İyi Arkadaş
+164,Sys_Constellations_00,Aries,,,Ariete,,Koç
+165,Sys_Constellations_01,Taurus,,,Toro,,Boğa
+166,Sys_Constellations_02,Gemini,,,Gemelli,,İkizler
+167,Sys_Constellations_03,Cancer,,,Cancro,,Yengeç
+168,Sys_Constellations_04,Leo,,,Leone,,Aslan
+169,Sys_Constellations_05,Virgo,,,Vergine,,Başak
+170,Sys_Constellations_06,Libra,,,Bilancia,,Terazi
+171,Sys_Constellations_07,Scorpio,,,Scorpione,,Akrep
+172,Sys_Constellations_08,Sagittarius,,,Sagittario,,Yay
+173,Sys_Constellations_09,Capricorn,,,Capricorno,,Oğlak
+174,Sys_Constellations_10,Aquarius,,,Acquario,,Kova
+175,Sys_Constellations_11,Pisces,,,Pesci,,Balık
+180,Sys_ShortPhrase_Good_Cool,Hehehe!,"Hé, hé, hé...",Haha!,Eh eh eh...,"¡Je, je, je!",Hehehe!
+181,Sys_ShortPhrase_Good_Dry,All right!,Bon !,Und los!,Bene!,¡Bien!,Pekâlâ!
+182,Sys_ShortPhrase_Good_Nagomi,Yay!,Hourra !,Yeah!,Urrà!,¡Viva!,Yaşasın!
+183,Sys_ShortPhrase_Good_Nori,Yes!,Youhou !,Ja!,Yahuuu!,¡Hurra!,Evet!
+184,Sys_ShortPhrase_Nerves_Cool,Unbelievable...,Arf...,Unglaublich!,Uffa...,Hay que ver...,İnanılır gibi değil...
+185,Sys_ShortPhrase_Nerves_Dry,HEY!,Hé !,Also wirklich!,Ma che...!,¡Oye!,HEY!
+186,Sys_ShortPhrase_Nerves_Nagomi,Come on!,Oh là là !,Komm schon!,E andiamo...,¡Venga ya!,Hadi ama!
+187,Sys_ShortPhrase_Nerves_Nori,Grr!,Groumpf !,Grrr...,Che rabbia!,¡Rayos!,Grr!
+188,Sys_ShortPhrase_Despond_Cool,Oh dear...,C'est dur...,Na toll...,È dura...,"Ay, cielos...",Eyvah...
+189,Sys_ShortPhrase_Despond_Dry,Uh oh...,Pff...,Oh nein...,Ufff...,Vaya...,Aman...
+190,Sys_ShortPhrase_Despond_Nagomi,Haaa...,Haaa...,Hach...,Aaah...,Aaah...,Haaah...
+191,Sys_ShortPhrase_Despond_Nori,Haaa...,Haaa...,Hach...,Aaah...,Aaah...,Haaah...
+192,Sys_ShortPhrase_Worry_Cool,Hmmm...,Hum...,Hmmm...,Mmmh...,Hum...,Hmmm...
+193,Sys_ShortPhrase_Worry_Dry,Erm...,Fiou...,Hm...,Che faccio...,Esto...,Şey...
+194,Sys_ShortPhrase_Worry_Nagomi,What should I do?,Que faire ?,Und jetzt?,Come fare?,¿Qué hago?,Ne yapsam?
+195,Sys_ShortPhrase_Worry_Nori,What should I do?,Que faire ?,Und nun?,Che fare?,¿Qué debería hacer?,Ne yapsam?
+196,Sys_SongGenre_A,Heavy Metal,Metal,Metal,Heavy metal,Heavy metal,Heavy Metal
+197,Sys_SongGenre_B,Pop,Pop,Pop,Pop,Pop,Pop
+198,Sys_SongGenre_C,Rock & Roll,Rock'n'roll,Rock,Rock 'n' roll,Rock,Rock & Roll
+199,Sys_SongGenre_D,Rap,Rap,Rap,Rap,Rap,Rap
+200,Sys_SongGenre_E,Ballad,Ballade,Ballade,Ballata,Balada,Balad
+201,Sys_SongGenre_F,Opera,Opéra,Oper,Opera,Ópera,Opera
+202,Sys_SongGenre_G,Techno,Techno,Techno,Techno,Tecno,Tekno
+203,Sys_SongGenre_H,Musical,Comédie musicale,Musical,Musical,Musical,Müzikal
+204,Sys_SongGenre_Desc_A,Learn how to sing a metal song.,Apprendre à chanter une chanson metal.,"Mii lernt, einen Metal-Song zu singen.","Impara a cantare una canzone
+heavy metal.",Aprende una canción metal.,Bir metal şarkısı söylemeyi öğren.
+205,Sys_SongGenre_Desc_B,Learn how to sing a pop song.,Apprendre à chanter une chanson pop.,"Mii lernt, einen Popsong zu singen.",Impara a cantare una canzone pop.,Aprende una canción pop.,Bir pop şarkısı söylemeyi öğren.
+206,Sys_SongGenre_Desc_C,Learn how to sing a rock & roll song.,Apprendre à chanter une chanson rock'n'roll.,"Mii lernt, einen Rocksong zu singen.","Impara a cantare una canzone
+rock 'n' roll.",Aprende una canción rock.,Bir rock & roll şarkısı söylemeyi öğren.
+207,Sys_SongGenre_Desc_D,Learn how to sing a rap song.,Apprendre à chanter une chanson rap.,"Mii lernt, einen Rap zu rappen.",Impara a cantare una canzone rap.,Aprende un rap.,Bir rap şarkısı söylemeyi öğren.
+208,Sys_SongGenre_Desc_E,Learn how to sing a ballad.,Apprendre à chanter une ballade.,"Mii lernt, eine Ballade zu singen.",Impara a cantare una ballata.,Aprende una balada.,Bir balad söylemeyi öğren.
+209,Sys_SongGenre_Desc_F,Learn how to sing an opera song.,Apprendre à chanter une chanson d'opéra.,"Mii lernt, eine Opernarie zu schmettern.",Impara a cantare un'aria.,Aprende una canción de ópera.,Bir opera şarkısı söylemeyi öğren.
+210,Sys_SongGenre_Desc_G,Learn how to sing a techno song.,Apprendre à chanter une chanson techno.,"Mii lernt, ein Techno-Stück zu singen.","Impara a cantare una canzone
+techno.",Aprende una canción tecno.,Bir tekno şarkısı söylemeyi öğren.
+211,Sys_SongGenre_Desc_H,Learn how to sing a musical song.,Apprendre à chanter une comédie musicale.,"Mii lernt, ein Musical-Stück zu singen.","Impara a cantare una canzone
+da musical.",Aprende una canción de musical.,Bir müzikal şarkısı söylemeyi öğren.
+212,Sys_Save_SaveDoing,"Saving...
+
+Please do not remove the SD Card,
+Game Card, or turn off the power.","Sauvegarde...
+
+Ne retirez ni la carte de jeu,
+ni la carte SD et n'éteignez
+pas la console.","Speichervorgang...
+
+Bitte entferne nicht die SD Card
+oder die Nintendo 3DS-Karte und
+schalte nicht das System aus.","Salvataggio in corso...
+
+Non estrarre la scheda di gioco
+o la scheda SD e non spegnere
+la console.","Guardando...
+
+No apagues la consola. 
+Tampoco extraigas la tarjeta SD
+ni la tarjeta de juego.","Kaydediliyor...
+
+Lütfen SD Kartı veya Oyun Kartını
+çıkarmayın ve gücü kapatmayın."
+213,Sys_Save_BrokenArc,"Save data is corrupted.
+
+Data will be saved after the
+corrupted save data is deleted.","Les données de sauvegarde
+sont corrompues.
+Les données de sauvegarde
+seront sauvegardées une fois
+les données corrompues effacées.","Die Speicherdaten sind fehlerhaft.
+
+Spiel wird nach dem Löschen
+fehlerhafter Daten gespeichert.","I dati di salvataggio sono danneggiati.
+
+I dati verranno salvati dopo l'eliminazione
+dei dati di salvataggio danneggiati.","Los datos de guardado están dañados.
+
+Se guardarán los datos después de
+borrar los datos de guardado dañados.","Kayıt verileri bozulmuş.
+
+Bozuk kayıt verileri silindikten
+sonra veriler kaydedilecek."
+214,Sys_Save_BrokenFile,"Save data is corrupted.
+
+Data will be saved after the
+corrupted save data is deleted.","Les données de sauvegarde sont
+corrompues.
+Les données de sauvegarde
+seront sauvegardées une fois
+les données corrompues effacées.","Die Speicherdaten sind fehlerhaft.
+
+Spiel wird nach dem Löschen
+fehlerhafter Daten gespeichert.","I dati di salvataggio sono danneggiati.
+
+I dati verranno salvati dopo l'eliminazione
+dei dati di salvataggio danneggiati.","Los datos de guardado están dañados.
+
+Se guardarán los datos después de
+borrar los datos de guardado dañados.","Kayıt verileri bozulmuş.
+
+Bozuk kayıt verileri silindikten
+sonra veriler kaydedilecek."
+215,Sys_Save_InvalidData,"Data is corrupted and cannot be
+saved.
+
+Press  to close the game.","Les données de sauvegarde sont
+corrompues et ne peuvent pas
+être sauvegardées.
+
+Appuyez sur  pour quitter
+le jeu.","Die Daten sind beschädigt und
+können nicht gespeichert werden.
+Drücke , um das Spiel zu
+beenden.","I dati sono danneggiati e non
+possono essere salvati.
+
+Premi  e chiudi il gioco.","Los datos están dañados
+y no se han podido guardar.
+
+Pulsa  para cerrar el programa.","Veriler bozulmuş ve kaydedilemiyor.
+
+Oyunu kapatmak için  tuşuna basın."
+216,Sys_Save_FatalError,"An error has occurred.
+
+Press  to close the game.","Une erreur est survenue.
+
+Appuyez sur  pour quitter
+le jeu.","Ein Fehler ist aufgetreten.
+
+Drücke , um das Spiel zu
+beenden.","Si è verificato un errore.
+
+Premi  e chiudi il gioco.","Se ha producido un error.
+
+Pulsa  para cerrar el programa.","Bir hata oluştu.
+
+Oyunu kapatmak için  tuşuna basın."
+217,Sys_SD_NoArc,"There is no Tomodachi Life
+extra data on the SD Card.","Aucune donnée additionnelle pour
+Tomodachi Life n'a été trouvée
+sur la carte SD.","Es wurden keine Zusatzdaten
+zu Tomodachi Life auf der
+SD Card gefunden.","Non ci sono dati aggiuntivi per
+Tomodachi Life sulla scheda SD.","No hay datos adicionales de
+Tomodachi Life en la tarjeta SD.","SD Kartta Tomodachi Life
+ek verisi yok."
+218,Sys_SD_NoArc_Create,"There is no Tomodachi Life
+extra data on the SD Card.
+
+Extra data will now be
+created.","Aucune donnée additionnelle pour
+Tomodachi Life n'a été trouvée
+sur la carte SD.
+
+Les données additionnelles
+vont être créées sur la carte SD.","Es wurden keine Zusatzdaten
+zu Tomodachi Life auf der
+SD Card gefunden.
+
+Zusatzdaten werden erstellt.","Non ci sono dati aggiuntivi per
+Tomodachi Life sulla scheda SD.
+
+Verranno creati dei dati aggiuntivi
+sulla scheda SD.","No hay datos adicionales de
+Tomodachi Life en la tarjeta SD.
+
+Se crearán datos adicionales
+en la tarjeta SD.","SD Kartta Tomodachi Life
+ek verisi yok.
+
+Şimdi ek veri oluşturulacak."
+219,Sys_SD_BrokenArc,"Tomodachi Life extra data
+is corrupted.","Les données additionnelles de
+Tomodachi Life sont corrompues.","Die Zusatzdaten zu Tomodachi
+Life sind beschädigt und können
+nicht verwendet werden.","I dati aggiuntivi per Tomodachi Life
+sono danneggiati.","Los datos adicionales de
+Tomodachi Life están dañados.","Tomodachi Life ek verileri
+bozulmuş."
+220,Sys_SD_BrokenArc_ReCreate,"Tomodachi Life extra data
+is corrupted.
+
+Extra data will now be created.","Les données additionnelles de
+Tomodachi Life sont corrompues.
+
+Les données additionnelles
+vont être créées à nouveau.","Die Zusatzdaten zu Tomodachi Life
+sind beschädigt.
+
+Es werden neue Zusatzdaten erstellt.","I dati aggiuntivi per Tomodachi Life
+sono danneggiati.
+
+Verranno creati nuovi dati aggiuntivi.","Los datos adicionales de
+Tomodachi Life están dañados
+y no se pueden usar.
+
+Se crearán datos adicionales nuevos.","Tomodachi Life ek verileri
+bozulmuş.
+
+Şimdi ek veri oluşturulacak."
+221,Sys_SD_BrokenArc_FormatDoing,Creating extra data...,"Création des données
+additionnelles...",Zusatzdaten werden erstellt...,Creazione dei dati aggiuntivi in corso...,Creando datos adicionales...,Ek veri oluşturuluyor...
+222,Sys_SD_BrokenExt,"Tomodachi Life extra data
+is corrupted.","Les données additionnelles de
+Tomodachi Life sont corrompues.","Die Zusatzdaten zu Tomodachi Life
+sind beschädigt.","I dati aggiuntivi per Tomodachi Life
+sono danneggiati.","Los datos adicionales de
+Tomodachi Life están dañados.","Tomodachi Life ek verileri
+bozulmuş."
+223,Sys_SD_BrokenExt_ReCreateFailed,Failed to create extra data.,"La création des données
+additionnelles a échoué.",Erstellung der Zusatzdaten fehlgeschlagen...,Impossibile creare i dati aggiuntivi.,"No se han podido crear
+los datos adicionales.",Ek veri oluşturulamadı.
+224,Sys_SD_NoFile,"There is no Tomodachi Life
+extra data on the SD Card.","Aucune donnée additionnelle pour
+Tomodachi Life n'a été trouvée
+sur la carte SD.","Es wurden keine Zusatzdaten
+zu Tomodachi Life auf der
+SD Card gefunden.","Non ci sono dati aggiuntivi per
+Tomodachi Life sulla scheda SD.","No hay datos adicionales de
+Tomodachi Life en la tarjeta SD.","SD Kartta Tomodachi Life
+ek verisi yok."
+225,Sys_SD_BrokenFile_ReCreate,"Tomodachi Life extra data is
+corrupted.
+
+Extra data will now be created.","Les données additionnelles de
+Tomodachi Life sont corrompues.
+
+Les données additionnelles
+vont être créées à nouveau.","Die Zusatzdaten zu Tomodachi
+Life sind beschädigt.
+
+Zusatzdaten werden erstellt...","I dati aggiuntivi per Tomodachi Life
+sono danneggiati.
+
+Verranno creati nuovi dati aggiuntivi.","Los datos adicionales de
+Tomodachi Life están dañados
+y no se pueden usar.
+
+Se crearán datos adicionales nuevos.","Tomodachi Life ek verileri
+bozulmuş.
+
+Şimdi ek veri oluşturulacak."
+226,Sys_SD_NotFoundMySlot,"Unable to find Tomodachi Life
+extra data.","Les données additionnelles de
+Tomodachi Life n'ont pas pu
+être trouvées.","Zusatzdaten zu Tomodachi Life
+konnten nicht gefunden werden.","Non è stato possibile trovare dati
+aggiuntivi per Tomodachi Life.","No se han encontrado datos
+adicionales de Tomodachi Life.","Tomodachi Life ek verileri
+bulunamadı."
+227,Sys_SD_Ejected,"The SD Card was removed.
+
+Please turn the power off
+before removing the SD Card.","La carte SD a été retirée.
+
+Veuillez éteindre la console
+avant de retirer la carte SD.","Die SD Card wurde entfernt.
+
+Bitte schalte das System aus,
+bevor du die SD Card entfernst.","La scheda SD è stata rimossa.
+
+Spegni sempre la console prima
+di estrarre la scheda SD.","Se ha extraído la tarjeta SD.
+
+Apaga siempre la consola antes
+de extraer la tarjeta SD.","SD Kart çıkarıldı.
+
+SD Kartı çıkarmadan önce
+lütfen gücü kapatın."
+228,Sys_SD_MediaNotFound,Unable to access SD Card.,Impossible d'accéder à la carte SD.,"Es konnte nicht auf die
+SD Card zugegriffen werden.",Impossibile accedere alla scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Karta erişilemiyor.
+229,Sys_SD_MediaBadFormat,Unable to access SD Card.,Impossible d'accéder à la carte SD.,"Erkennung der SD Card
+fehlgeschlagen.",Impossibile accedere alla scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Karta erişilemiyor.
+230,Sys_SD_WriteProtected,Unable to access SD Card.,Impossible d'accéder à la carte SD.,"Erkennung der SD Card
+fehlgeschlagen.",Impossibile accedere alla scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Karta erişilemiyor.
+231,Sys_SD_AccessError,Unable to access SD Card.,Impossible d'accéder à la carte SD.,"Erkennung der SD Card
+fehlgeschlagen.",Impossibile accedere alla scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Karta erişilemiyor.
+232,Sys_SD_FileReadOnly,Unable to access SD Card.,Impossible d'accéder à la carte SD.,"Erkennung der SD Card
+fehlgeschlagen.",Impossibile accedere alla scheda SD.,"No se ha podido acceder
+a la tarjeta SD.",SD Karta erişilemiyor.
+233,Sys_SD_NotEnoughSpace,"There is not enough free space
+on the SD Card.","Espace libre insuffisant
+sur la carte SD.","Auf der SD Card befindet sich
+nicht genügend Speicherplatz.","Non c'è abbastanza spazio libero
+nella scheda SD.","No hay suficiente espacio libre
+en la tarjeta SD.",SD Kartta yeterli boş alan yok.
+234,Sys_SD_UnknownError,An SD Card error has occurred.,"Une erreur est survenue
+avec la carte SD.","Ein SD Card-Fehler ist
+aufgetreten.",Si è verificato un errore nella scheda SD.,"Se ha producido un error
+en la tarjeta SD.",Bir SD Kart hatası oluştu.
+235,Sys_ImageDb_OverNumImage,"The SD Card's photo limit
+has been reached. Please delete
+photos in Nintendo 3DS Camera.","Impossible de sauvegarder sur la carte SD car
+l'espace réservé aux photos est plein. Effacez des
+photos en utilisant l'appareil photo Nintendo 3DS.","Kein Platz für weitere Bilder auf der SD Card.
+Bild konnte nicht gespeichert werden. Bitte
+lösche einige Fotos in Nintendo 3DS-Kamera.","Impossibile salvare perché hai raggiunto il limite
+di foto salvabili nella scheda SD. Cancella
+le foto nella Fotocamera Nintendo 3DS.","Se ha alcanzado el límite para fotos de la tarjeta SD
+y no se pueden guardar más fotos. Borra fotos de
+la aplicación Cámara de Nintendo 3DS.","SD Kartın fotoğraf sınırına
+ulaşıldı. Lütfen Nintendo 3DS
+Kamera uygulamasından fotoğraf silin."
+236,Sys_ImageDb_Unknown,An SD Card error occurred.,"Une erreur est survenue
+avec la carte SD.",Ein SD Card-Fehler ist aufgetreten.,Si è verificato un errore nella scheda SD.,"Error de lectura de
+la tarjeta SD.",Bir SD Kart hatası oluştu.
+237,Sys_SD_PhotoSaved,"Saved to SD Card.
+
+You can also check photos
+in Nintendo 3DS Camera.","Sauvegarde sur
+carte SD effectuée.
+
+Vous pouvez aussi voir les
+photos en utilisant l'appareil
+photo Nintendo 3DS.","Speichern auf SD Card erfolgreich.
+
+Gespeicherte Bilder können auch
+in Nintendo 3DS-Kamera
+betrachtet werden.","Salvataggio nella scheda SD
+completato.
+
+Potrai vedere le foto nella
+Fotocamera Nintendo 3DS.","Se han guardado los datos
+en la tarjeta SD.
+
+Puedes ver las fotos en
+Cámara de Nintendo 3DS.","SD Karta kaydedildi.
+
+Fotoğrafları Nintendo 3DS Kamera
+uygulamasından da görebilirsiniz."
+238,Sys_CEC_ReadyDoing,Activating StreetPass...,Activation de StreetPass...,StreetPass wird aktiviert...,"Attivazione di StreetPass
+in corso...",Activando StreetPass...,StreetPass etkinleştiriliyor...
+239,Sys_CEC_ReadyDone,StreetPass activated.,StreetPass activé !,StreetPass aktiviert.,"La funzione StreetPass
+è stata attivata.",Se ha activado StreetPass.,StreetPass etkinleştirildi.
+240,Sys_CEC_ParentCon,"Use of StreetPass to communicate
+with other users is restricted by
+Parental Controls.","Les paramètres de contrôle
+parental ne vous permettent
+pas d'utiliser StreetPass
+avec ce logiciel.","Die Kommunikation mit anderen
+Nutzern über StreetPass wurde
+in den Altersbeschränkungen
+gesperrt.","Non è possibile attivare StreetPass
+per questo software perché StreetPass
+è limitata dal filtro famiglia.","No puedes comunicarte con
+otros usuarios porque StreetPass
+está restringido por el control
+parental.","Diğer kullanıcılarla StreetPass üzerinden
+iletişim, Ebeveyn Denetimleri tarafından
+kısıtlanmış."
+241,Sys_CEC_EulaNoAgree,"You must accept the terms
+of the latest Nintendo 3DS
+Service User Agreement
+and Privacy Policy in
+order to use StreetPass.","Vous devez accepter les termes du 
+contrat d'utilisation des services  
+Nintendo 3DS et politique de  
+confidentialité pour pouvoir  
+utiliser StreetPass.","StreetPass kann nicht gestartet
+werden, da du den Vertrag zur
+Nutzung der Nintendo 3DS-Services
+nicht akzeptiert hast.","Per usare StreetPass devi
+accettare l'Accordo per
+l'utilizzo dei servizi
+Nintendo 3DS e policy sulla
+privacy.","Para usar StreetPass, antes
+debes aceptar los términos
+del Contrato de Uso y la Política
+de Privacidad de los Servicios
+de Nintendo 3DS.","StreetPass kullanmak için en güncel
+Nintendo 3DS Hizmet Kullanıcı
+Sözleşmesi ve Gizlilik Politikası
+koşullarını kabul etmelisiniz."
+242,Sys_CEC_BoxFull,"Cannot activate StreetPass for
+any more titles. To activate
+StreetPass for this title, close
+the game and go to StreetPass
+Management in System
+Settings and deactivate it for
+another title.","Vous ne pouvez plus inscrire de logiciels
+dans votre liste StreetPass.
+
+Afin d'activer StreetPass pour ce logiciel,
+accédez à la gestion des données dans
+les paramètres de la console et désactivez
+StreetPass pour un autre logiciel.","StreetPass kann auf diesem System für
+keinen weiteren Titel aktiviert werden.
+Um StreetPass zu aktivieren, beende das
+Spiel, rufe die StreetPass-Verwaltung
+in den Systemeinstellungen
+auf und deaktiviere StreetPass für
+einen oder mehrere andere Titel.","Impossibile attivare StreetPass per
+altri software. Per attivare StreetPass
+per questo software, chiudi il gioco,
+accedi alla Gestione StreetPass e disattiva
+questa funzione per un altro software.","No se puede activar StreetPass
+para más títulos. Cierra este
+programa y desactiva StreetPass
+para algún otro título en ""Gestión
+de StreetPass"" dentro de la
+configuración de la consola.","Daha fazla oyun için StreetPass
+etkinleştirilemiyor. Bu oyun için
+etkinleştirmek üzere oyunu kapatın,
+Sistem Ayarları içindeki StreetPass
+Yönetimi bölümüne gidip başka bir
+oyunun StreetPass özelliğini kapatın."
+243,Sys_CEC_StartError,Failed to activate StreetPass.,Impossible d'activer StreetPass.,"StreetPass konnte nicht
+gestartet werden.",Impossibile attivare StreetPass.,"No se ha podido activar
+StreetPass.",StreetPass etkinleştirilemedi.
+244,Sys_CEC_ConfirmStart,Do you want to activate StreetPass?,Activer StreetPass ?,StreetPass aktivieren?,Vuoi attivare StreetPass?,¿Quieres activar StreetPass?,StreetPass etkinleştirilsin mi?
+245,Sys_CEC_ConfirmReStart,"StreetPass has stopped. Would you
+like to activate StreetPass?","StreetPass est désactivé.
+Voulez-vous activer StreetPass ?","StreetPass ist deaktiviert. Willst du
+StreetPass aktivieren?","StreetPass è stata interrotta.
+Vuoi attivare StreetPass?","Se ha interrumpido StreetPass.
+¿Quieres volver a activarlo?","StreetPass durduruldu. StreetPass
+yeniden etkinleştirilsin mi?"
+246,Sys_CEC_Correct_ParentCon,"Use of StreetPass to communicate
+with other users is restricted by
+Parental Controls.","La communication avec
+d'autres utilisateurs via
+StreetPass est bloquée
+par le contrôle parental.","Die Kommunikation mit anderen
+Nutzern via StreetPass wird von
+den Altersbeschränkungen blockiert.","La comunicazione con altri
+utenti tramite StreetPass
+è limitata dal filtro famiglia.","No puedes comunicarte con
+otros usuarios porque StreetPass
+está restringido por el control
+parental.","Diğer kullanıcılarla StreetPass üzerinden
+iletişim, Ebeveyn Denetimleri tarafından
+kısıtlanmış."
+247,Sys_CEC_Correct_EulaNoAgree,"You must accept the terms
+of the latest Nintendo 3DS
+Service User Agreement
+and Privacy Policy in
+order to use StreetPass.","Vous devez accepter les termes du 
+contrat d'utilisation des services  
+Nintendo 3DS et politique de  
+confidentialité pour pouvoir  
+utiliser StreetPass. ","Um StreetPass weiter zu nutzen,
+musst du dem aktuellen Vertrag zur
+Nutzung der Nintendo 3DS-Services
+zustimmen.","Per usare StreetPass devi
+accettare l'Accordo per
+l'utilizzo dei servizi
+Nintendo 3DS e policy sulla
+privacy.","Para usar StreetPass, antes
+debes aceptar los términos
+del Contrato de Uso y la Política
+de Privacidad de los Servicios
+de Nintendo 3DS.","StreetPass kullanmak için en güncel
+Nintendo 3DS Hizmet Kullanıcı
+Sözleşmesi ve Gizlilik Politikası
+koşullarını kabul etmelisiniz."
+248,Sys_CEC_Correct_StopOrNone,"StreetPass has been deactivated.
+
+StreetPass can be reactivated
+in StreetPass/SpotPass
+in Options in the Town Hall.","StreetPass a été désactivé.
+
+Vous pouvez le réactiver
+dans les Options.","StreetPass wurde deaktiviert.
+
+StreetPass kann im Menü
+„Optionen“ im Rathaus erneut
+aktiviert werden.","La funzione StreetPass
+è stata disattivata.
+
+Puoi riattivarla dal menu 
+Opzioni del municipio.","Se ha desactivado StreetPass.
+
+Para volver a activarlo, ve
+al ayuntamiento, selecciona
+""Opciones"" y, a continuación,
+""Conexión"".","StreetPass devre dışı bırakıldı.
+
+Belediye Binasındaki Seçenekler
+menüsünden StreetPass/SpotPass
+bölümünde yeniden etkinleştirilebilir."
+249,Sys_CEC_Correct_FatalError,"StreetPass has stopped because
+an error has occurred.","Une erreur est survenue.
+StreetPass a été désactivé.","Ein Fehler ist aufgetreten.
+StreetPass-Kommunikation wurde
+beendet.","Si è verificato un errore e la funzione
+StreetPass è stata disattivata.","Se ha interrumpido StreetPass
+porque se ha producido un error.",Bir hata oluştuğu için StreetPass durdu.
+250,Sys_ApartType_Cap,General Community Atmosphere,Atmosphère générale de l'immeuble,Generelle Inselatmosphäre,Atmosfera generale,Ambiente de la comunidad,Topluluğun Genel Havası
+251,Sys_ApartType_0S,Pushy,Affirmée,Prahlerisch,Insistente,Agobiante,Baskın
+252,Sys_ApartType_0,Ambitious,Déterminée,Strebsam,Ambiziosa,Ambicioso,Hırslı
+253,Sys_ApartType_1S,Reckless,Téméraire,Wild und frei,Spavalda,Descuidado,Gözü Kara
+254,Sys_ApartType_1,Enthusiastic,Enthousiaste,Begeistert,Entusiasta,Entusiasta,Hevesli
+255,Sys_ApartType_2S,Emotional,Émotive,Emotional,Emotiva,Emotivo,Duygusal
+256,Sys_ApartType_2,Lively,Dynamique,Lebhaft,Vivace,Animado,Canlı
+257,Sys_ApartType_3S,Eccentric,Excentrique,Exzentrisch,Stramba,Excéntrico,Eksantrik
+258,Sys_ApartType_3,Caring,Apaisante,Fürsorglich,Premurosa,Considerado,Şefkatli
+259,Sys_ApartType_4S,Considerate,Attentionnée,Stockschüchtern,Conciliante,Cortés,Düşünceli
+260,Sys_ApartType_4,Shy,Timorée,Schüchtern,Timida,Tímido,Utangaç
+261,Sys_ApartType_5S,Unemotional,Impassible,Emotionslos,Impassibile,Impasible,Duygusuz
+262,Sys_ApartType_5,Quiet,Disciplinée,Ruhig,Calma,Tranquilo,Sessiz
+263,Sys_ApartType_6S,Calm,Calme,Gelassen,Fredda,Silencioso,Sakin
+264,Sys_ApartType_6,Cautious,Prudente,Vorsichtig,Prudente,Cauteloso,Temkinli
+265,Sys_ApartType_7S,Survivalist,Compétitive,Ehrgeizig,Competitiva,Competitivo,Rekabetçi
+266,Sys_ApartType_7,Artistic,Artistique,Handwerklich,Artistica,Artístico,Sanatsal
+267,Sys_ApartType_8,Completely Average,Absolument normale,Total durchschnittlich,Nella media,Normal y corriente,Tamamen Ortalama
+268,Sys_Apart_Population,Total Islanders,Nombre d'habitants,Einwohner gesamt,Abitanti,Residentes,Toplam Ada Sakini
+269,Sys_Apart_AverageAge,Average Age,Âge moyen,Durchschnittsalter,Età media,Edad media,Ortalama Yaş
+270,Sys_Apart_MaleFemale,Gender Ratio,Hommes/Femmes,Verhältnis ♂:♀,Maschi/femmine,Hombres/mujeres,Cinsiyet Oranı
+271,Sys_Apart_Comfortable,Quality of Life,Qualité de vie,Lebensqualität,Qualità della vita,Calidad de vida,Yaşam Kalitesi
+272,Sys_Apart_Comfortable_Dummy,???,???,???,???,(?),???
+273,Sys_Apart_TroubleNum,Problems Solved,Soucis résolus,Probleme gelöst,Problemi risolti,Problemas resueltos,Çözülen Sorunlar
+274,Sys_Apart_CecNum,StreetPass Encounters,Rencontres StreetPass,StreetPass-Begegnungen,Incontri StreetPass,Encuentros (StreetPass),StreetPass Karşılaşmaları
+275,Sys_Apart_CoupleNum,Total Couples Married,Mariages,Verheiratete Paare gesamt,Totale coppie sposate,Matrimonios,Evlenen Çift Sayısı
+276,Sys_Apart_BabyNum,Total Kids Born,Naissances,Kinder geboren,Totale figli,Hijos,Doğan Çocuk Sayısı
+277,Sys_Apart_DepartNum,Explorers Sent,Voyageurs envoyés,Auf Reisen geschickte Kinder,Totale viaggiatori inviati,Viajeros enviados,Gönderilen Gezginler
+278,Sys_Apart_CecTravelerNum,Explorers Received,Voyageurs reçus,Besuche von Reisenden,Totale viaggiatori ricevuti,Viajeros recibidos,Gelen Gezginler
+279,Sys_Apart_IslandAddress,Island Address,Adresse de l'île,Adresse der Insel,Indirizzo dell'isola,Dirección de la isla,Ada Adresi
+280,Sys_Etc_Area,Region,Région,Region,Regione,Región,Bölge
+281,Sys_Etc_Import,Import Item,Article importé,Importware,Articolo d'importazione,Producto importado,İthal Ürün
+282,Sys_Etc_InvalidCountryArea,Not set,Non défini,Nicht eingestellt,Non impostata,Sin determinar,Ayarlanmamış
+283,Sys_CecHis_CecNum,Total Islands Visited:,Nombre d'îles visitées : ,Besuchte Inseln:,Totale isole visitate:,Total de islas visitadas: ,Ziyaret Edilen Toplam Ada:
+284,Sys_CecHis_Distance,Distance Travelled:,Distance parcourue :,Gereiste Entfernung:,Distanza:,Distancia recorrida: ,Kat Edilen Mesafe:
+285,Sys_CecHis_IslandName,Islands Visited,Îles visitées,Inseln besucht,Isole visitate,Islas visitadas,Ziyaret Edilen Adalar
+286,Sys_CecHis_Date,Date,Date d'arrivée,Ankunft,Data di arrivo,Llegada,Tarih
+287,Sys_DefaultTomodachiName,???,???,???,???,(?),???
+288,Sys_BlackListIslandName,???,???,???,???,(?),???
+289,Sys_InvalidPhrase,???,???,???,???,(?),???
+290,Caption_CameraControl_Move,Pan Camera,Diriger la caméra,Kamera bewegen,Muovi la visuale,Mover cámara,Kamerayı Kaydır
+291,Caption_CameraControl_ZoomOut,Zoom Out,Zoom -,Zoom -,Zoom -,Alejar,Uzaklaştır
+292,Caption_CameraControl_ZoomIn,Zoom In,Zoom +,Zoom +,Zoom +,Acercar,Yakınlaştır
+293,Sys_SubIsland_0,Island,Île,,Isola,Isla,Ada
+294,Sys_SubIsland_1,Island,Île,,Isola,Isla,Ada
+295,Sys_SubIsland_2,Island,Île,,Isola,Isla,Ada
+296,Sys_Dialog_IslandNameSub_0,,,とう,Isola,,Adası
+297,Sys_Dialog_IslandNameSub_1,,,しま,Isola,,Adası
+298,Sys_Dialog_IslandNameSub_2,,,じま,Isola,,Adası
+299,Sys_IslandName_and_sub_Mine,{TAG_1} Island,Île {TAG_1},{TAG_1},Isola {TAG_1},Isla {TAG_1},{TAG_1} Adası
+300,Sys_IslandName_and_sub_Other,{TAG_1} Island,Île {TAG_1},{TAG_1},Isola {TAG_1},Isla {TAG_1},{TAG_1} Adası
+301,Sys_BL_Confirm_WanderList,"Do you want to add the creator of
+this Mii to the blocked-user list?
+This Mii will be erased and you
+will no longer receive Mii
+characters from them (content
+from them will also not be
+displayed in other software titles).","Ajouter le créateur de ce Mii à
+votre liste d'utilisateurs bloqués ?
+Ce Mii sera effacé et vous ne
+pourrez plus recevoir de Mii de sa part. 
+Cela pourrait empêcher tout contenu
+créé par cet utilisateur d'apparaître
+dans d'autres logiciels.","Den Mii-Urheber wirklich der Liste
+der gesperrten Nutzer hinzufügen?
+Sperrst du den Nutzer, wird das Mii
+gelöscht und weitere Mii-Charaktere
+sowie andere Inhalte dieses Nutzers
+werden nicht mehr auf diesem
+System zugelassen.","Vuoi bloccare l'utente che ha
+creato questo Mii?
+Se decidi di bloccare questo
+utente, il Mii verrà cancellato
+e non potrai più ricevere altri
+Mii dello stesso utente. Avrà
+effetto anche sugli altri software.","¿Quieres añadir al usuario que
+ha creado este Mii a la lista de
+usuarios bloqueados? Si lo haces,
+se borrará el Mii y no podrás recibir
+más personajes Mii de este usuario
+(tampoco aparecerá en otros
+programas).","Bu Mii'yi oluşturan kullanıcı
+engellenen kullanıcılar listesine
+eklensin mi? Bu Mii silinecek
+ve artık bu kullanıcıdan Mii
+karakterleri alamayacaksınız (ayrıca
+bu kullanıcının içerikleri diğer
+yazılımlarda da gösterilmeyecek)."
+302,Sys_BL_Confirm_TravelerBack,"Do you want to add this island's
+owner to the blocked-user list?
+You will no longer receive Mii
+characters from them (content
+from them will also not be
+displayed in other software titles).","Ajouter le propriétaire de cette île
+à votre liste d'utilisateurs bloqués ?
+Si vous décidez de bloquer cet
+utilisateur, vous ne pourrez plus
+recevoir de Mii de sa part. Ceci
+affectera aussi les autres logiciels.","Den Spieler dieser Insel wirklich
+der Liste der gesperrten Nutzer
+hinzufügen? Tust du dies, werden
+weitere Mii-Charaktere sowie
+andere Inhalte dieses Nutzers
+nicht mehr auf diesem System
+zugelassen.","Vuoi bloccare l'utente di questa
+isola?
+Se decidi di bloccare questo
+utente, non potrai più ricevere
+altri Mii dello stesso utente. Avrà
+effetto anche sugli altri software.","¿Quieres añadir al usuario de
+esta isla a la lista de usuarios
+bloqueados? Si lo haces, se borrará
+el Mii y no podrás recibir más
+personajes Mii de este usuario
+(tampoco aparecerá en otros
+programas).","Bu adanın sahibi engellenen kullanıcılar
+listesine eklensin mi?
+Artık bu kullanıcıdan Mii karakterleri
+alamayacaksınız (ayrıca bu kullanıcının
+içerikleri diğer yazılımlarda da
+gösterilmeyecek)."
+303,Sys_BL_Confirm_FriendList,"Add {TAG_1}'s
+creator to the blocked-user list?
+This Mii will be erased and you
+will no longer receive Mii
+characters from them (content
+from them will also not be
+displayed in other software titles).","Ajouter le créateur d{TAG_1}{TAG_2}
+à votre liste d'utilisateurs bloqués ?
+Ce Mii sera effacé et vous ne
+pourrez plus recevoir de Mii de sa part. 
+Cela pourrait empêcher tout contenu
+créé par cet utilisateur d'apparaître
+dans d'autres logiciels.","Den Urheber von {TAG_1}
+wirklich der Liste der gesperrten
+Nutzer hinzufügen? Tust du dies,
+wird dieses Mii gelöscht und weitere
+Mii-Charaktere sowie andere Inhalte
+dieses Nutzers werden nicht mehr
+auf diesem System zugelassen.","Vuoi bloccare l'utente che ha
+creato {TAG_1}?
+Se decidi di bloccare questo
+utente, il Mii verrà cancellato
+e non potrai più ricevere altri
+Mii dello stesso utente. Avrà
+effetto anche sugli altri software.","¿Quieres añadir al usuario que
+ha creado a {TAG_1}
+a la lista de usuarios bloqueados?
+Si lo haces, se borrará el Mii y
+no podrás recibir más personajes
+Mii de este usuario (tampoco
+aparecerá en otros programas).","{TAG_1} adlı Mii'yi oluşturan kullanıcı
+engellenen kullanıcılar listesine
+eklensin mi? Bu Mii silinecek
+ve artık bu kullanıcıdan Mii
+karakterleri alamayacaksınız (ayrıca
+bu kullanıcının içerikleri diğer
+yazılımlarda da gösterilmeyecek)."
+304,Sys_BL_AuthorIdIsMine,"It is not possible to block a Mii
+created on this system.","Vous ne pouvez pas bloquer
+un Mii qui a été créé sur
+cette console.","Urheber von Mii-Charakteren, die
+auf diesem System erstellt wurden,
+können nicht auf der Liste gesperrter
+Nutzer registriert werden.","Non puoi bloccare i Mii creati
+con questa console.","No puedes bloquear un Mii
+creado en esta consola.","Bu sistemde oluşturulmuş bir Mii
+engellenemez."
+305,Sys_BL_AuthorIdIsMine_FriendList,"It is not possible to block a Mii
+created on this system.
+
+To erase the Mii, touch the
+Erase icon.","Vous ne pouvez pas bloquer
+un Mii qui a été créé sur
+cette console.
+
+Touchez Effacer si vous
+voulez l'effacer.","Urheber von Mii-Charakteren, die
+auf diesem System erstellt wurden,
+können nicht auf der Liste gesperrter
+Nutzer registriert werden.
+
+Um das Mii zu löschen, berühre bitte
+„Löschen“.","Non puoi bloccare i Mii creati
+con questa console.
+
+Tocca Cancella per eliminarli.","No puedes bloquear un Mii
+creado en esta consola.
+
+Toca ""Borrar"" para eliminarlo.","Bu sistemde oluşturulmuş bir Mii
+engellenemez.
+
+Mii'yi silmek için Sil simgesine dokunun."
+306,Sys_BL_MyMii_FriendList,"You cannot block your own
+lookalike Mii.","Vous ne pouvez pas bloquer
+ce Mii, car c'est votre double.","Dein eigenes Mii kann nicht auf der
+Liste gesperrter Nutzer registriert
+werden.","Non puoi bloccare questo Mii
+perché è il tuo sosia.","No puedes bloquear este Mii
+porque es tu doble.","Kendi benzeriniz olan Mii'yi
+engelleyemezsiniz."
+307,Sys_BL_SpMii,"It is not possible to block
+this Mii.",Impossible de bloquer ce Mii.,"Dieses Mii kann nicht auf der Liste
+gesperrter Nutzer registriert werden.",Impossibile bloccare questo Mii.,No puedes bloquear este Mii.,Bu Mii engellenemez.
+308,Sys_BL_Confirm_ParentMii_FriendList,"Add {TAG_1}'s creator
+to the blocked-user list?
+The Mii and their baby will be
+erased and you will no longer
+receive Mii characters from them
+(content from them will also not
+be displayed in other software titles).","Ajouter le créateur d{TAG_1}{TAG_2}
+à votre liste d'utilisateurs bloqués ?
+Ce Mii et ses bébés seront effacés et
+vous ne pourrez plus recevoir de Mii de sa
+part. Cela pourrait empêcher tout contenu
+créé par cet utilisateur d'apparaître dans
+d'autres logiciels.","Den Urheber von {TAG_1}
+wirklich der Liste der gesperrten
+Nutzer hinzufügen? Tust du dies, 
+werden dieses Mii und seine Kinder
+gelöscht und weitere Mii-Charaktere
+dieses Nutzers werden nicht mehr
+auf diesem System zugelassen.","Vuoi bloccare l'utente che ha
+creato {TAG_1}?
+Se decidi di bloccare questo utente,
+il Mii e i figli verranno cancellati
+e non potrai più ricevere altri Mii
+dello stesso utente. Avrà effetto
+anche sugli altri software.","¿Quieres añadir al usuario que ha
+creado a {TAG_1} a la
+lista de usuarios bloqueados? Si lo
+haces, se borrarán el Mii y su bebé,
+y no podrás recibir más personajes
+Mii de este usuario (tampoco
+aparecerá en otros programas).","{TAG_1} adlı Mii'yi oluşturan kullanıcı
+engellenen kullanıcılar listesine
+eklensin mi? Mii ve bebeği silinecek;
+artık bu kullanıcıdan Mii
+karakterleri alamayacaksınız (ayrıca
+bu kullanıcının içerikleri diğer
+yazılımlarda da gösterilmeyecek)."
+309,Sys_Cec_InfoText_Mii,"A new import item and explorer
+have arrived!","Un article importé ainsi qu'un
+voyageur sont arrivés !","Ein Import-Item und ein Reisender
+sind angekommen!","È arrivato un viaggiatore e hai
+ricevuto un articolo d'importazione.","¡Has recibido a un viajero y
+un nuevo producto importado!","Yeni bir ithal ürün ve gezgin
+geldi!"
+310,Sys_Cec_InfoText_Island,You have a new import item!,"Un nouvel article importé
+vient d'arriver !",Ein Import-Item ist angekommen!,"Hai ricevuto un nuovo articolo
+d'importazione!","¡Has recibido un nuevo producto
+importado!",Yeni bir ithal ürün geldi!
+311,Sys_DataStore_News_Subject,New message from an explorer!,Nouveau message d'un voyageur !,Neue Nachricht eines Reisenden!,Lettera da un viaggiatore!,¡Nuevo mensaje de un viajero!,Bir gezginden yeni mesaj!
+312,Sys_DataStore_News_Message,"You received a message from
+one of your explorers!
+
+Let's find out what it says!","Vous avez reçu un message
+de l'un de vos voyageurs !
+
+Allons voir ce qu'il dit !","Eine Nachricht von einem deiner
+Reisenden ist angekommen!
+
+Sieh gleich mal nach!","Hai ricevuto un messaggio
+da uno dei tuoi viaggiatori!
+
+Vediamo di che si tratta...","¡Has recibido un mensaje
+de uno de tus viajeros!
+
+Veamos qué ha escrito...","Gezginlerinizden birinden
+mesaj aldınız!
+
+Bakalım ne yazmış!"
+313,Sys_ChildRecord_Lock_Max,"You can protect up to
+49 albums.","Vous pouvez protéger
+jusqu'à 49 albums.",Du kannst maximal 49 Alben speichern.,"Puoi conservare fino
+a 49 album.","Puedes guardar hasta
+49 álbumes.
+","En fazla 49 albümü
+korumaya alabilirsiniz."
+314,Sys_TravelerRecord_Lock_Max,"You can protect up to
+49 explorers' records.","Vous pouvez protéger jusqu'à
+49 journaux de voyage.","Du kannst maximal 49 Reisechroniken
+speichern.","Puoi conservare fino a
+49 registri di viaggio.","Puedes guardar hasta
+49 registros de viajes.","En fazla 49 gezgin kaydını
+korumaya alabilirsiniz."
+315,Sys_MyMiiA,my, de ,mir, di , de ,benim
+316,Sys_MyMiiB,'s, d',,,,'nin
+317,Sys_TextInput_Limited_00,"Please delete any
+non-alphabetical characters.","Seuls les caractères
+alphabétiques sont autorisés.
+Retirez les caractères
+non alphabétiques avant
+de continuer.","Nicht-alphabetische
+Zeichen können nicht
+verwendet werden.
+Bitte ändere deine Eingabe.","È possibile utilizzare solo
+caratteri alfabetici.
+Rimuovi tutti i caratteri
+non alfabetici.","Solo se pueden utilizar
+caracteres alfabéticos.
+Borra todos los caracteres
+que no lo sean.","Lütfen alfabetik olmayan
+karakterleri silin."
