@@ -1,0 +1,18 @@
+Garden_msg_size16.bcfnt Türkçe glyph kontrolü
+--------------------------------------------
+ç  U+00E7 -> glyph 166
+Ç  U+00C7 -> glyph 134
+ğ  U+011F -> glyph 216
+Ğ  U+011E -> glyph 215
+ı  U+0131 -> glyph 228
+İ  U+0130 -> glyph 227
+ö  U+00F6 -> glyph 181
+Ö  U+00D6 -> glyph 149
+ş  U+015F -> glyph 264
+Ş  U+015E -> glyph 263
+ü  U+00FC -> glyph 187
+Ü  U+00DC -> glyph 155
+
+Sonuç: Ana diyalog fontunda Türkçe temel karakterlerin tamamı zaten mevcuttu; bitmap yeniden çizimi gerekmedi.
+Garden_ruby: Japonca ruby/furigana fontu.
+Garden_no / Garden_no_f16: yalnız sayı ve noktalama karakterleri içeren özel fontlar.

@@ -1,0 +1,17 @@
+ACNL Türkçe yama doğrulaması
+----------------------------
+CSV dosyası: 3125
+Toplam hizalı mesaj satırı: 74964
+Dolu TRANSLATION: 64702
+Çıktıda değişen mesaj: 58717
+Değişen UMSBT: 3120
+Tüm çıktı UMSBT parse testi: 3125 / 3125 başarılı
+Çeviri geri-okuma karşılaştırması: 64702 / 64702 birebir eşleşti
+Hedef dışı ES/FR/IT/DE MSBT chunk karşılaştırması: değişiklik yok
+UTF-16LE'ye yükseltilen 8-bit ASR hedefleri: 2
+  - Str/STR_Reset_ASR.umsbt
+  - Str/STR_SPNpc_name_ASR.umsbt
+Uyumluluk düzeltmesi yapılan CSV satırı: 3
+  - Talk/NPC_Shisho_Neta.csv #17: zilinə -> ziline
+  - Talk/NPC_Snowman_C.csv #4: birleşik u+¨ -> ü
+  - Talk/NPC_Snowman_C.csv #39: birleşik u+¨ -> ü
