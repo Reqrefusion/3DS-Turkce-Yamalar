@@ -1,0 +1,50 @@
+source_term	preferred_tr	avoid	rationale
+form	form	hacim	Nesnenin üç boyutlu biçimsel yapısı; “volume/hacim” ile aynı kavram değildir.
+volume	hacim	form	Üç boyutluluk/doluluk etkisinin hacim kavramı.
+shape	şekil / biçim (bağlama göre)	hacim	Özellikle iki boyutlu dış şekil anlatılırken “şekil”.
+mass	kütle	hacim (otomatik)	Görsel/bedensel kütle etkisi.
+solidity	kütle etkisi / katılık (bağlama göre)	dolgunluk	Opak boya bağlamında kütlesellik; nesne niteliğinde katılık.
+hatching	tarama	gölgelendirme (her yerde)	Paralel/tekrarlı çizgilerle tonlama tekniği.
+cross-hatching	çapraz tarama	çapraz çizgi	Birbirini kesen tarama katmanları.
+follow/across the form	formu izleyen tarama / formu izlemek	hacmi takip etmek	Çizgilerin yüzeyin kıvrım/yönünü izlemesi.
+construction lines	yapı çizgileri	inşaat çizgileri	Desende form/oran kurmak için yardımcı çizgiler.
+gesture	hareket / duruş / hareket duygusu	jest (otomatik)	Figürün genel hareket ve enerji ifadesi; bağlama göre seçilir.
+tone	ton	renk tonu (hue ile karıştırma)	Açıklık-koyuluk derecesi bağlamında.
+value	değer (valör)	ton (otomatik)	Bir rengin açıklık-koyuluk değeri.
+hue	renk tonu / renk nüansı	değer	Renk ailesi/niteliği; value ile farklı.
+chroma	kroma	ton	Rengin doygunluk/renklilik niteliği.
+tint	açık renk türevi (tint)	gölge ton	Renge beyaz eklenmesiyle oluşan daha açık türev; teknik terim parantezde korunur.
+shade	koyu renk türevi (shade)	gölge ton	Renge siyah eklenmesiyle oluşan daha koyu türev; cast/core shadow ile karıştırılmaz.
+hard edge	sert kenar	keskin fiziksel kenar (otomatik)	Ton/renk geçişinin ani olduğu resimsel kenar.
+soft edge	yumuşak kenar	yumuşak nesne kenarı	Kademeli ton/renk geçişi.
+ground (painting)	zemin	yer çizgisi	Resim yüzeyinin/alt katmanın zemini.
+ground line (perspective)	yer çizgisi	zemin	Perspektifte resim düzlemi/yer ilişkisini tanımlayan çizgi.
+picture plane	resim düzlemi	görüntü düzlemi (tutarsız)	Perspektif terminolojisi.
+horizon line	ufuk çizgisi	yatay çizgi	Perspektif terminolojisi.
+vanishing point	kaçış noktası	kaybolma noktası	Perspektif terminolojisi.
+linear perspective	doğrusal perspektif	çizgi perspektifi (tutarsız)	Tek terim olarak tutarlı kullanılır.
+atmospheric perspective	atmosferik perspektif	hava perspektifi (tutarsız)	Uzaklıkla renk/kontrast değişimini anlatan teknik.
+wash	lavi	glase	Sulandırılmış boya/mürekkeple saydam uygulama; glase ile otomatik eşitlenmez.
+glaze / glazing	glase	lavi / glaze (ham İngilizce)	Kurumuş/alt katman üzerine saydam renk katmanı; Türkçe akademik “glase”.
+impasto	impasto	kalın boya (terim yerine)	Kalın boya uygulama tekniği; açıklama gerektiğinde eklenebilir.
+underpainting	alt boyama	zemin boyası	Ana resimden önce yapılan alt resim/boyama.
+dry brush	kuru fırça	kuru boya	Az boya/nemle yapılan fırça tekniği.
+fixative	fiksatif / sabitleyici	vernik	Özellikle çizim/pastelde sabitleyici sprey/ürün.
+smudge stick	dağıtma çubuğu	silgi	Pastel/karakalem dağıtma aracı.
+core shadow	öz gölge	çekirdek gölge	Nesnenin kendi üzerindeki koyu gölge bölgesi.
+cast shadow	düşen gölge	atılan gölge	Nesnenin başka yüzeye düşürdüğü gölge.
+half tone	yarı ton	yarım renk	Işık-gölge modellemesindeki ara ton.
+chiaroscuro	chiaroscuro	ışık-gölge (terimi tamamen silmek)	Yerleşik sanat tarihi terimi; gerekirse açıklanır.
+lost and found	lost and found (açıklamayla)	kayıp ve bulunan çizgi	Yer yer kaybolup yeniden beliren/kesilen kontur; yerleşik Türkçe karşılık uydurulmaz.
+weighted lines / line weight	çizgi ağırlığı / çizgi ağırlığını artırmak	ağırlıklı çizgiler	Çizgi kalınlığı/vurgusunun değişimi.
+stippling	noktalama tekniği	benekleme (otomatik)	Noktalarla ton/doku oluşturma.
+medium (paint)	bağlayıcı ortam / medium (gerektiğinde)	medya	Pigmenti taşıyan/bağlayan boya ortamı.
+Cerulean Blue	Cerulean Mavisi	Serulean Mavisi	Türkçe kurumsal kullanımda “cerulean mavisi” görülür; yapay fonetikleştirme yapılmaz.
+Burnt Umber	Yanık Ombra	Yanık Umber / Yanık Umbra	Türkçe sanat yazınındaki “ombra” biçimi esas alındı.
+Yellow Ochre	Sarı Okr	Sarı Oker (tutarsız)	Türkçe sanat yazınındaki okr kullanımı.
+Prussian Blue	Prusya Mavisi	Prussian Blue (gereksiz)	Yerleşik Türkçe karşılık.
+Alizarin Crimson	Alizarin Kızılı	Alizarin Crimson (gereksiz)	Yerleşik/şeffaf kırmızı pigment adı bağlamında.
+Naples Yellow	Napoli Sarısı	Naples Sarısı	Yerleşik Türkçe coğrafi adla.
+Magenta	Macenta	Magenta (arayüzde tutarsız)	Türkçe akademik kullanımla.
+Sap Green	Sap Green	Özsu Yeşili	Ürün/pigment adı; yapay literal karşılık kullanılmaz.
+Scarlet Lake	Scarlet Lake	Kızıl Lak	Ürün/pigment adı; “lake/lak” vernikle karışabilecek literal çeviriden kaçınılır.

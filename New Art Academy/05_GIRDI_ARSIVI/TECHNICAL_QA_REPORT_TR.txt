@@ -1,0 +1,55 @@
+NEW ART ACADEMY — TÜRKÇE TEKNİK TERİM QA RAPORU
+
+Kapsam
+- Toplam satır: 5934
+- İngilizce kaynak bulunan satır: 5698
+- Önceki TR_REVIEWED sürümüne göre teknik incelemede değişen satır: 264
+- Karşılaştırılan resmî diller: FR, DE, ES, IT, NL, PT, RU
+
+Denetim yöntemi
+- Resmî 7 dil satır bazında karşılaştırıldı.
+- Terimler yalnızca çoğunluk oylamasıyla seçilmedi; İngilizce sanat bağlamı ve Türkçe akademik/sanat eğitimi kullanımı birlikte değerlendirildi.
+- Özellikle günlük anlamı sanat anlamıyla karışabilen form/volume, ground/ground line, tone/value/hue/chroma, wash/glaze, core/cast shadow, tint/shade, lost-and-found ve line weight grupları ayrıca denetlendi.
+
+Önemli teknik kararlar
+- form = form; volume = hacim. “Hacmi takip eden tarama” türü kullanımlar formu izleyen tarama olarak düzeltildi.
+- wash = lavi; glaze/glazing = glase. İki teknik tek sözcük altında birleştirilmedi.
+- core shadow = öz gölge; cast shadow = düşen gölge. “Çekirdek gölge” özellikle reddedildi.
+- tint/shade, başka gölge/ton kavramlarıyla çakıştırılmadan açıklamalı teknik terim olarak verildi.
+- lost and found için yapay “kayıp ve bulunan çizgi” kaldırıldı; İngilizce terim açıklamayla korundu.
+- weighted lines, “çizgi ağırlığını artırmak” olarak düzeltildi.
+- Cerulean Blue = Cerulean Mavisi; “Serulean” kaldırıldı.
+- Burnt Umber = Yanık Ombra; hibrit “Yanık Umber” kaldırıldı.
+
+Başvurulan kaynak türleri
+- Türk üniversitelerinin güncel ders içerikleri/katalogları (Anadolu, Ankara, Atatürk, Eskişehir, Sakarya vb.)
+- MEB görsel sanatlar materyalleri
+- Türk müze/kurumsal sanat içerikleri
+- Pigment/ürün adlarında üretici ve kurumsal kullanım örnekleri
+
+Yapısal QA
+- Eksik Türkçe: 0
+- Etiket sıra uyuşmazlığı: 0
+- Format değişkeni uyuşmazlığı: 0
+- Form/hacim karışıklığı (source form, volume yokken): 0
+- Kaynak glaze/glazing satırlarında ham “glaze” kalıntısı: 0
+- “Serulean” kalıntısı: 0
+- “Yanık Umber” kalıntısı: 0
+- Literal “kayıp ve bulunan” kalıntısı: 0
+- Literal “ağırlıklı çizgi” kalıntısı: 0
+- Core shadow için “çekirdek” kalıntısı: 0
+
+Kategori sayıları
+- form-volume: 99
+- technical-style: 78
+- wash-lavi: 42
+- glase: 22
+- color-theory: 11
+- perspective: 8
+- drawing-technique: 4
+
+Derleme / STB doğrulaması
+- --strict-tags ile yama derleme testi: başarılı (45 yama dosyası, 5698 Türkçe satır kullanıldı).
+- Yeniden okuma/doğrulama: başarılı (43 İngilizce STB doğrulandı).
+- --require-complete yalnızca kaynak İngilizcesi bilerek boş olan STB 1.0 satırlarını da eksik saydığı için tamlık ölçütü olarak kullanılmadı; İngilizce kaynak bulunan 5698 satırın tamamı Türkçe.
+- 63 derleme uyarısının tamamı common/materialslibrary-en.stb (STB 1.0) için Türkçe karakterlerin mevcut font-alias yöntemiyle yazılması gerektiğine ilişkin beklenen font uyarılarıdır; metin etiketi/format hatası değildir.

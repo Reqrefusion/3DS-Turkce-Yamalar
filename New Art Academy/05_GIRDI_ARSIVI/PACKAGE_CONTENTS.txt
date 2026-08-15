@@ -1,0 +1,35 @@
+New Art Academy TR Localization + Turkish Font Kit - multilingual corrected edition
+
+Translation sources:
+- 43 English STB files (42 with text + 1 zero-string placeholder)
+- Official reference STBs beside English: French, German, Spanish, Italian, Dutch, Portuguese, Russian
+- Russian STB 1.1 reference files are decoded as UTF-16LE
+- 2 UTF-8 credits TXT files
+- 5,934 translation rows in translations_tr.tsv
+- Columns: file, id, format, English, French, German, Spanish, Italian, Dutch, Portuguese, Russian, Turkish, SHA1, notes
+- Turkish column is intentionally blank until translated
+
+Reference language files:
+- 341 official STB files from all 8 language slots
+- 2 credits TXT files
+- 343 files total under language_files/
+- materialslibrary has no Dutch/Portuguese/Russian STB in the supplied RomFS
+- credits TXT has no separate localized equivalents
+
+Turkish font support:
+- chelseyFont.bcfna: 12/12 Turkish glyphs already present
+- dfhsGothic.bcfna: 12/12 Turkish glyphs already present
+- font_tool.py patches legacy CP1252 aliases to native Turkish glyph indices
+- Default naa_localizer.py build adds 2 patched CFNA fonts automatically
+- Prebuilt patched copies are in turkish_fonts/
+
+Other packaged references:
+- 6 original source TSV files found in RomFS
+- 18 images/screenshots with visible English text to review/edit
+- Original font/font-bitmap reference files
+
+Build output:
+- naa_localizer.py produces replacement files in patch_romfs/ with original RomFS paths.
+- Extra source_* language columns are ignored by build and are safe to keep.
+- Default STB 1.0 mode is fontmap, preserving real Turkish letters via CFNA alias mappings.
+- English is used as the Turkish slot; select English in-game.

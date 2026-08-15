@@ -1,0 +1,8 @@
+Türkçe karakter test dizisi:
+Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü
+
+Örnek:
+İstanbul'da çığ, öğüş, ışık, güneş, üzüm, çalışma, görüş.
+
+STB 1.1 dosyalarında bu karakterler UTF-8 olarak doğrudan yazılır.
+STB 1.0 materialslibrary dosyasında araç, Ğ/ğ/İ/ı/Ş/ş harflerini dahili alias baytlarına çevirir ve CFNA font yaması ekranda gerçek Türkçe glifleri gösterir.

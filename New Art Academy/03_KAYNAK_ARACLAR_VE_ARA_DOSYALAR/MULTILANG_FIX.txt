@@ -1,0 +1,20 @@
+ÇOK DİLLİ SÜTUN DÜZELTMESİ
+===========================
+
+translations_tr.tsv artık şu gerçek RomFS kaynaklarını yan yana içerir:
+- source_en : English (*-en.stb)
+- source_fr : Français (*-fr.stb)
+- source_de : Deutsch (*-ge.stb)
+- source_es : Español (*-sp.stb)
+- source_it : Italiano (*-it.stb)
+- source_nl : Nederlands (*-du.stb)
+- source_pt : Português (*-po.stb)
+- source_ru : Русский (*-ru.stb)
+- tr        : Türkçe (doldurulacak alan)
+
+Toplam 5.934 satır vardır. Rusça STB 1.1 dosyaları UTF-16LE olarak doğru okunur.
+GUI üç sütunlu görünüm kullanır: İngilizce | diğer 7 resmi dil | Türkçe.
+
+Not: Sağlanan RomFS'te common/materialslibrary için Hollandaca/Portekizce/Rusça
+STB yoktur. Credits TXT dosyalarının da ayrı resmi dil karşılıkları yoktur.
+Bu yüzden yalnız bu kaynaklarda ilgili referans hücrelerinin boş olması normaldir.

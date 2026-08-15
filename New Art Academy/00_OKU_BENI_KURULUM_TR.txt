@@ -1,0 +1,90 @@
+NEW ART ACADEMY (3DS) — TÜRKÇE YAMA FINAL PAKET
+================================================
+
+Bu paket, TECHNICAL_REVIEWED çeviri tablosundan doğrudan derlenmiş ve yeniden doğrulanmış hazır Türkçe yamadır.
+
+HEDEF OYUN
+----------
+New Art Academy — Avrupa sürümü
+Product Code: CTR-AACP
+Title ID: 0004000000084F00
+
+Yama İngilizce dil dosyalarının (*-en.stb) yerini Türkçe metinlerle değiştirir.
+Bu nedenle oyunun İngilizce kaynakları yüklemesi gerekir; gerekirse Nintendo 3DS sistem dilini English yapın.
+
+EN KOLAY KURULUM — Luma3DS LayeredFS
+-------------------------------------
+1. SD kartınızı bilgisayara bağlayın.
+2. Luma3DS açılış ayarlarında "Enable game patching" açık olmalıdır.
+   Konsolu açarken SELECT tuşuna basılı tutarak Luma yapılandırmasına girebilirsiniz.
+3. Bu paketteki:
+
+   01_LUMA3DS_HAZIR\luma\
+
+   klasörünü SD kartınızın KÖK dizinine kopyalayın.
+
+4. Son konum şu olmalıdır:
+
+   SD:\luma\titles\0004000000084F00\romfs\
+
+5. Oyunu başlatın. Oyun İngilizce dosya setini yüklediğinde Türkçe metinler görünmelidir.
+
+OTOMATİK KOPYALAMA
+------------------
+Windows kullanıyorsanız SD kartın kök klasörünü YAMAYI_SD_KARTA_KOPYALA.bat dosyasının üzerine sürükleyebilirsiniz.
+Betik yalnız yama dosyalarını kopyalar; SD karttaki diğer dosyaları topluca silmez.
+
+PAKET KLASÖRLERİ
+-----------------
+01_LUMA3DS_HAZIR
+  Doğrudan SD karta kopyalanabilecek hazır LayeredFS dizini.
+
+02_PATCH_ROMFS_TEMIZ
+  Yalnız değiştirilmesi gereken 47 oyun dosyası. Başka bir LayeredFS/emülatör düzeninde romfs kökü olarak kullanılabilir.
+
+03_KAYNAK_ARACLAR_VE_ARA_DOSYALAR
+  Çeviri tablosu, çok dilli kaynaklar, STB araçları, font araçları, font referansları,
+  kaynak görseller, QA raporları ve yeniden derleme BAT/Python dosyaları.
+
+04_DERLEME_VE_QA_KAYITLARI
+  Orijinal doğrulama, build logu, yama doğrulaması, round-trip TSV, uyarılar,
+  SHA-256 listeleri ve final QA raporu.
+
+05_GIRDI_ARSIVI
+  Kullanılan TECHNICAL_REVIEWED çeviri kitinin değişmeden saklanan ZIP kopyası.
+
+YAMAYI YENİDEN DERLEME
+-----------------------
+Orijinal RomFS ZIP'iniz elinizdeyse:
+
+1. 03_KAYNAK_ARACLAR_VE_ARA_DOSYALAR klasörüne girin.
+2. Oradaki 02_yamayi_olustur.bat üzerine romfs.zip dosyanızı sürükleyin.
+3. Alternatif komut:
+
+   python naa_localizer.py build romfs.zip translations_tr.tsv --out patch_romfs --images images_edited --strict-tags --v100-mode fontmap
+
+4. Oluşan patch_romfs içinde metinler ve Türkçe fontlar yer alır.
+
+TÜRKÇE FONT
+------------
+Ana iki font Türkçe glifleri içeriyor. STB 1.1 dosyaları ÇĞİÖŞÜçğıöşü karakterlerini doğrudan kullanır.
+Eski materialslibrary-en.stb (STB 1.0) için özel font alias yöntemi kullanılır ve yamalanmış iki BCFNA font
+hazır yamanın içinde bulunmaktadır. _naa_build_warnings.txt içindeki 63 uyarı bu beklenen dönüşümlere aittir.
+
+GÖRSELLER
+---------
+Kaynak kitte çevrilmesi gereken 18 İngilizce görsel vardır. Gönderilen TECHNICAL_REVIEWED pakette
+images_edited altında çevrilmiş gerçek görsel bulunmadığı için final hazır yama bu görselleri değiştirmez.
+Kaynakları 03_KAYNAK_ARACLAR_VE_ARA_DOSYALAR\images_to_translate altında bulabilirsiniz.
+Daha sonra aynı göreli yollarla images_edited içine koyup yamayı yeniden derleyebilirsiniz.
+
+DOĞRULAMA SONUCU
+----------------
+- 43 orijinal İngilizce STB: OK
+- 5698/5698 İngilizce kaynaklı satırın Türkçesi mevcut
+- 45 metin dosyası derlendi
+- 2 Türkçe font dosyası derlendi
+- Round-trip metin karşılaştırması: 5698/5698 birebir eşleşti
+- Hazır temiz yama: 47 oyun dosyası
+
+Sorun yaşarsanız önce 04_DERLEME_VE_QA_KAYITLARI\FINAL_QA_REPORT.txt ve build loglarını kontrol edin.

@@ -1,0 +1,59 @@
+NEW ART ACADEMY — TÜRKÇE YERELLEŞTİRME ÇOK DİLLİ QA / ÜSLUP RAPORU
+=======================================================================
+
+KAPSAM
+- Toplam satır: 5934
+- İngilizce kaynak metni dolu satır: 5698
+- Türkçesi dolu satır: 5698
+- Kaynağı dolu olup Türkçesi eksik satır: 0
+- Kaynağı bilerek boş satır: 236
+- Önceki Türkçe sürüme göre revize edilen satır: 464
+
+RESMÎ REFERANS DİLLER
+- Fransızca: 5360 satır
+- Almanca: 5358 satır
+- İspanyolca: 5360 satır
+- İtalyanca: 5360 satır
+- Hollandaca: 5249 satır
+- Portekizce: 5249 satır
+- Rusça: 5249 satır
+
+BELİRLENEN TÜRKÇE ÇEVİRİ TARZI
+1. Vince ve ders anlatımı: sıcak, doğal, bire bir öğretmen-öğrenci konuşması; samimi tekil hitap (sen).
+2. Menü/sistem: kısa, nötr ve hızlı okunur; gerektiğinde standart kibar arayüz dili.
+3. Sanat tarihi/açıklamalar: eğitimli fakat ağırlaşmayan doğal Türkçe.
+4. Kelime kelime çeviri yok: öğretme amacı, mizah, vurgu ve ekrandaki işlev korunur; Türkçe cümle gerektiğinde yeniden kurulur.
+5. Yerleşik sanat terimi varsa Türkçesi kullanılır; hedef dilde yapay duran yabancı terimler açıklayıcı Türkçeyle verilir.
+6. Boya, araç ve teknik adları bütün derslerde tek sözlükle kullanılır.
+
+ÇOK DİLLİ KARŞILAŞTIRMADAN ÇIKAN ÖNEMLİ KARARLAR
+- Resmî dillerin çoğunda Vince öğrenciye tekil/samimi hitap ediyor; Türkçe ders sesi de buna göre tekilleştirildi.
+- “wash / glaze” ham İngilizce bırakılmadı; bağlama göre “sulandırılmış boya katmanı / saydam boya katmanı”.
+- “gesture” mekanik olarak “jest” yapılmadı; bağlama göre “hareket / duruş / fırça hareketi”.
+- Boya adları birleştirildi: Prussian Blue → Prusya Mavisi; Burnt Umber → Yanık Umber; Sap Green → Özsu Yeşili; Scarlet Lake → Kızıl Lak.
+- Eser adı: The Hay Wain → Saman Arabası.
+- Perspektif/çizim terimleri: picture plane → resim düzlemi; vanishing point → kaçış noktası; horizon line → ufuk çizgisi; hatching → tarama; atmospheric perspective → atmosferik perspektif.
+- Öğretici UI metinlerinde “follow the highlight” gibi ifadeler, resmî dillerdeki bağlama uygun biçimde “vurgulanan simge/öğe” olarak doğal Türkçeleştirildi.
+- Otoportre bölümünde iki ardışık satıra dağılmış anlam sırası resmî dillerle karşılaştırılarak düzeltildi.
+- Boya adlarına Türkçe ek gelirken oluşan yapay apostrof biçimleri giderildi.
+
+DEĞİŞİKLİK SINIFLARI
+- Üslup/hitap değişikliği: 366 satır
+- Terminoloji değişikliği: 91 satır
+- Bağlamsal/anlamsal elle düzeltme: 19 satır
+Not: Bir satır birden fazla sınıfa girebilir.
+
+TEKNİK VE DİLSEL QA
+- Kontrol etiketi sıra uyuşmazlığı: 0
+- %s / %ls vb. format değişkeni uyuşmazlığı: 0
+- Derslerde kalan “siz...” hitap kalıntısı: 0
+- Denetlenen ham İngilizce teknik/boya adı kalıntısı: 0
+- Boya adında hatalı apostrof kalıntısı: 0
+- Eksik çeviri: 0
+- Aşırı kısa çeviri heuristiğine takılan ve bağlamı ayrıca incelenen satır: 5 (tamamı bağlam içinde geçerli parça/cümle)
+
+SONUÇ
+İngilizce kaynak ile yedi resmî yerelleştirme sütunu satır bazında eşleştirildi. Önceki Türkçe yalnızca anlam bakımından değil; hitap biçimi, öğretmen sesi, teknik sözlük, sanat tarihi anlatımı ve arayüz işlevi bakımından da yeniden denetlendi. Son dosyada kaynak metni olan 5698 satırın tamamında Türkçe vardır ve yapısal QA hatası bulunmamaktadır.
+
+DENETİM DOSYASI
+New_Art_Academy_TR_v3_changes_audit.tsv, revize edilen 464 satır için İngilizce + 7 resmî dil + önceki Türkçe + son Türkçe + değişiklik nedenini yan yana içerir.

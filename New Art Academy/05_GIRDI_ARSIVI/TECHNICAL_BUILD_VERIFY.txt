@@ -1,0 +1,9 @@
+NEW ART ACADEMY — TEKNİK SÜRÜM DERLEME DOĞRULAMASI
+
+Komut: naa_localizer.py build language_files translations_tr.tsv --strict-tags --v100-mode fontmap --no-turkish-fonts
+Sonuç: OK — 45 yama dosyası, 5698 Türkçe satır.
+
+Komut: naa_localizer.py verify <build_test>
+Sonuç: OK — 43 İngilizce STB doğrulandı.
+
+Not: 63 uyarı yalnızca common/materialslibrary-en.stb STB 1.0 Türkçe font-alias gereksinimidir. Kaynak klasörü yalnız dil dosyalarını içerdiği için build testinde --no-turkish-fonts kullanıldı; kit içindeki font araçları/font_reference ayrıca korunmuştur.

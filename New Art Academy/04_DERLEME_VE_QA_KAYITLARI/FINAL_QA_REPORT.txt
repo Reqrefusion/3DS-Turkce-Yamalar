@@ -1,0 +1,36 @@
+NEW ART ACADEMY TÜRKÇE YAMA — FINAL QA
+======================================
+
+Kaynak çeviri:
+- Toplam tablo satırı: 5934
+- İngilizce kaynağı bulunan satır: 5698
+- İngilizce kaynağı bulunan ve Türkçesi dolu satır: 5698 / 5698
+- Türkçe çevirilerdeki Türkçe özel karakter kullanımı: 35311 adet (ÇĞİÖŞÜçğıöşü toplamı)
+
+Derleme:
+- Orijinal RomFS doğrulaması: OK, 43 İngilizce STB
+- Türkçe build: OK, 45 metin yama dosyası
+- Türkçe font yaması: OK, 2 BCFNA font
+- STB 1.0 font-alias uyarısı: 63 adet, beklenen; hata değildir
+- Hazır temiz LayeredFS yaması: 47 oyun dosyası
+
+Round-trip doğrulama:
+- Türkçeye dönüştürülmüş dosyalar yeniden dışarı aktarıldı.
+- İngilizce kaynağı bulunan 5698 satırın tamamı translations_tr.tsv içindeki Türkçe metinle karşılaştırıldı.
+- Eksik satır: 0
+- Metin farkı: 0
+- STB 1.0 için font aliasları tekrar Türkçe karakterlere çevrilerek karşılaştırıldı.
+
+Görseller:
+- images_to_translate altında 18 kaynak görsel vardır.
+- images_edited altında gerçek düzenlenmiş görsel yoktur (yalnız README.txt).
+- Bu nedenle final hazır yama görsel dosyası değiştirmez; metin + font yamasıdır.
+
+Hedef:
+- Avrupa sürümü / product code CTR-AACP
+- Title ID: 0004000000084F00
+- Türkçe metin, İngilizce (*-en.stb) slotunu değiştirir.
+
+Not:
+- Gerçek cihaz üzerindeki son görsel/taşma testi kullanıcı tarafından yapılmalıdır.
+- Orijinal tam RomFS arşivi bu final pakete tekrar gömülmemiştir; yalnız SHA-256 değeri kaydedilmiştir.

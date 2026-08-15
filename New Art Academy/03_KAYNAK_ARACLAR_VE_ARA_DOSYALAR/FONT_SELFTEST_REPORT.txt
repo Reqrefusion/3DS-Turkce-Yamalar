@@ -1,0 +1,12 @@
+New Art Academy Türkçe font self-test
+=====================================
+
+PASS: chelseyFont.bcfna Türkçe glif kapsamı 12/12.
+PASS: dfhsGothic.bcfna Türkçe glif kapsamı 12/12.
+PASS: Her iki fontta legacy alias CMAP eşlemeleri hedef Türkçe glyph indexlerine yönlendirildi.
+PASS: CFNA dosya boyutları patch sonrası değişmedi.
+PASS: Tam boş-çeviri build testi 45 metin dosyası + 2 Türkçe font dosyası üretti.
+PASS: STB1.0 deneme girdisi "ÇĞİÖŞÜ çğıöşü" -> "ÇÐÝÖÞÜ çðÿöþü" legacy bayt gösterimine dönüştürüldü;
+      patched fontlarda Ð/ð/Ý/ÿ/Þ/þ glif indexleri sırasıyla Ğ/ğ/İ/ı/Ş/ş ile aynıdır.
+
+Not: Son görüntü doğrulaması gerçek Nintendo 3DS üzerinde yapılmalıdır.
