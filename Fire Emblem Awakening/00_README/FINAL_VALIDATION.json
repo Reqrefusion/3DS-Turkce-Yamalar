@@ -1,0 +1,20 @@
+{
+  "release": "FEA Turkish Pass202",
+  "region": "Europe/PAL",
+  "target_language_slot": "U (English slot in supplied PAL source)",
+  "csv_files": 854,
+  "records": 15817,
+  "tr_blank_records": 902,
+  "tr_blank_with_empty_source": 886,
+  "tr_blank_with_nonempty_source": 16,
+  "tr_equal_to_english_records": 1343,
+  "tr_different_from_english_records": 13572,
+  "patched_files_reported_by_injector": 846,
+  "ready_u_files": 854,
+  "font_files": 6,
+  "message_verify": "PASS: 854 files / 15817 records",
+  "fonts_zip_sha256": "d02ddd63c8f5f44296f3aee41d45f1194bbb344b498a0b74a0ed454fcc172bec",
+  "full_m_zip_sha256": "ddf3ce35a075067c0a04fdd2c9c0a112168d975b364dc47e53ea5a283aa362ac",
+  "note": "The 16 non-empty source rows with blank TR are punctuation/symbol-only reaction rows; fallback preserves the source text.",
+  "font_hotfix": "Hotfix 1: U+0131 dotless i bitmap corrected; verified distinct from U+0069 in all 6 fonts."
+}

@@ -1,0 +1,725 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_ソワレ_ミリエル_Ｃ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Tiens, Miriel ! Je te cherchais, justement.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Salutations, ma chère Sully.
+Aurais-tu besoin d'assistance ?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Tu es ce qu'on pourrait appeler une grosse
+tête, non ? Tu aimes faire des recherches...$k$p... mener des études sur les choses...
+Tout ça, tout ça, n'est-ce pas ?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_8|Absolument. Ma fascination pour les
+mystères de l'univers me pousse à...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Oui, oui, j'ai compris.
+J'ai un service à te demander.$k
+$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_1|J'émets l'hypothèse suivante : tu vas me
+demander de créer une nouvelle arme...$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_13|Non, ça n'a rien à voir. Je veux que tu
+fasses des recherches sur... MOI !$k
+$Wsミリエル|$Wa$E苦,|$SvpSE_VOICE_MYRIEL_EVT_14|Je ne t'avais jamais considérée comme
+un sujet de recherche potentiel.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Eh bien, je me dis qu'il est temps pour toi
+de t'intéresser à moi.$k$pTu as peut-être remarqué que je ne suis
+pas comme les autres femmes... ?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Si tu fais référence à tes prouesses au
+combat, oui, j'en ai connaissance.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Oui, oui, bien sûr... Mais ce n'est pas
+le seul aspect à prendre en compte.$k$pEt j'aimerais que tu m'aides à comprendre
+pourquoi je suis si différente.$k$p$E怒,|J'essaie vraiment d'être comme les autres,
+mais je suis quand même à part.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Je vois. Je devrais observer tes interactions
+sociales, tes communications verbales...$k$pAinsi, je pourrai reconnaître les habitudes
+comportementales...$k$p... justifiant potentiellement ton isolement
+par rapport au groupe d'appartenance.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Oui, c'est exactement ce que je veux !
+Enfin, je crois... si j'ai bien compris.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Je vais devoir définir une méthodologie et
+former un groupe témoin. Qu'en dis-tu ?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Euh, oui, bien sûr... Fais tout ce qui
+te semble nécessaire.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Hallo, Miriel! Dich hab ich gesucht, Mädel!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Ich grüße Euch, Sully! Wie kann ich
+Euch behilflich sein?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Du bist doch so 'ne Intelligenzbestie, ja?
+Du erforschst Dinge und so 'nen Kram.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_8|Durchaus. Die Geheimnisse der Welt
+um mich herum zu ergründen bereitet mir--$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Ja, genau. Wie auch immer. Ich wollte
+dich um einen Gefallen bitten.$k
+$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_1|Ich vermute, Ihr wollt, dass ich Euch eine
+neuartige Waffe entwickele oder Ähnliches?$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_13|Nö, nichts in der Art. Ich will, dass du
+MICH untersuchst!$k
+$Wsミリエル|$Wa$E苦,|$SvpSE_VOICE_MYRIEL_EVT_14|...Euch zog ich bisher noch nicht als
+mögliches Studienobjekt in Betracht.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Ja, aber vielleicht wird es langsam
+Zeit, dass du das tust.$k$pDir ist vielleicht aufgefallen, dass ich nicht
+wie andere Frauen bin.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Wenn Ihr Euch auf Eure Fertigkeiten im
+Kampf bezieht, dann stimme ich dem zu.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Äh, ja! Genau! Das mein ich!
+...Und in anderen Dingen auch.$k$pIch will nur, dass du herausfindest, was mich
+von den anderen unterscheidet.$k$p$E怒,|Ich meine, ich VERSUCHE mich anzupassen,
+aber irgendwas hält mich davon ab.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Ich soll also Eure soziale Interaktion und
+Eure verbale Kommunikation beobachten.$k$pSo könnte ich Verhaltensweisen erkennen,
+die Euch von der Norm unterscheiden.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Das ist wahrscheinlich genau das, was ich
+gemeint hab! Glaube ich...$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ich benötige Zeit zum Sammeln statistischer
+Daten.$k$pUnd ich muss außerdem eine
+Kontrollgruppe erstellen.$k$pIch hoffe, Ihr seid damit einverstanden.$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Äh, klar. Wie du gerade gesagt hast.
+Wenn es zu Ergebnissen führt, dann los.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Miriel! Proprio quella che cercavo.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Ossequi, Sully.
+Avete bisogno di aiuto?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Sei tu la scienziata, giusto?
+Quella che fa ricerche e ipotizza teorie?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_8|Certo. Svelare i misteri e le meraviglie
+dell'universo mi dà un senso di appa-$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Sì, sì, quella roba lì.
+Senti, devo chiederti un favore.$k
+$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_1|Presumo intendiate chiedermi di progettare
+una nuova arma o un analogo artifizio.$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_13|Acqua. Volevo chiederti
+se ti va di STUDIARMI!$k
+$Wsミリエル|$Wa$E苦,|$SvpSE_VOICE_MYRIEL_EVT_14|Voi? Che richiesta insolita...$k$pConfesso di non avervi mai considerata
+come un possibile oggetto di ricerca, ma...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Beh, forse è giunto il momento.$k$pAvrai notato che non sono esattamente
+come le altre donne. Giusto?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Se vi riferite al vostro potenziale bellico,
+sì, siete al di sopra della media.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ehm, proprio quella cosa lì!
+Ma non solo...$k$pSenti, volevo chiederti di investigare per
+capire cosa c'è di diverso in me.$k$p$E怒,|Io CI PROVO a inserirmi nel gruppo,
+ma è come se qualcosa me lo impedisse.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Ho capito. Volete che osservi le vostre
+interazioni sociali e comunicazioni verbali.$k$pPer individuare significanti comportamentali
+che vi differenziano dalla norma collettiva.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Forse è quello che volevo dire, sì!
+Forse.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ci vorrà tempo per preparare l'indagine e
+creare un gruppo di osservazione. Va bene?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Uhm, va bene, di qualsiasi cosa si tratti...
+Fai quello che devi.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|¡Eh, Miriel! Justo a ti
+te estaba buscando.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Saludos, Sully. ¿Precisas de mi ayuda?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Tú eres una empollona, ¿verdad? Vamos,
+que te gusta investigar y esas cosas.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_8|En efecto. Resolver los misterios y
+prodigios del mundo natural me ofrece...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Sí, sí, muy bonito.
+Tengo que pedirte un favor.$k
+$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_1|Conjeturo que pretendes que desarrolle
+un arma nueva para ti o algo similar.$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_13|No, no es nada de eso.
+¡Quiero que me estudies A MÍ!$k
+$Wsミリエル|$Wa$E苦,|$SvpSE_VOICE_MYRIEL_EVT_14|¿A ti? Bueno...$k$pNunca te había tenido antes por
+un posible objeto de estudio...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Ya, bueno... Pues tal vez va siendo
+hora de que empieces a hacerlo.$k$pYa te habrás dado cuenta de que yo no
+soy como las otras mujeres, ¿no?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Si te refieres a tus cualidades marciales,
+sí, es algo conocido.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ah, sí, eso también, pero lo digo
+por otras cosas...$k$pMira, solo quiero que descubras
+qué me hace tan diferente.$k$p$E怒,|Intento integrarme en el grupo, de verdad.
+Pero hay algo que lo impide.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Bien, quieres que observe tus interacciones
+sociales y tu comunicación verbal.$k$pDe ese modo, puede que vea indicios en tu
+conducta que te diferencien de los demás.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|¡Eso es justo lo que quería decir!...
+O al menos eso creo...$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Antes necesito precisar qué aspectos debo
+estudiar y reunir un grupo de referencia.$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Claro. Como tú digas.
+Lo que haga falta.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Miriel! Just the girl
+I wanted to see.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Greetings and salutations, Sully.
+Are you in need of assistance?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|You're an egghead, right? You like
+researching and investigating things?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_8|Why, yes. Unlocking the mysteries and
+wonders of the natural world gives me―$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Yeah, yeah, whatever.
+Look, I have a favour to ask.$k
+$Wsミリエル|$Wa$E怒,|$SvpSE_VOICE_MYRIEL_EVT_1|...You wish me to develop a new
+weapon? Something of that ilk?$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_13|Naw, nothing like that.
+I want you to study ME!$k
+$Wsミリエル|$Wa$E苦,|$SvpSE_VOICE_MYRIEL_EVT_14|You? Well, that would be most unusual...$k$pI confess, I had never considered you
+as a possible field of research, but...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Yeah, well, maybe it's time you
+consider it. $k$pYou might have noticed that I'm
+not like other women, right?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|If you are speaking of your martial prowess,
+then yes, it is a known quantity.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Er, yeah! Right! That!
+...And some other stuff, too.$k$pLook, I just want you to figure out
+what's so different about me.$k$p$E怒,|I mean, I TRY to fit in, I really do,
+but something sets me apart.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|I see. You wish for me to observe your social
+interactions and verbal communications.$k$pIn this way, I might see behavioural signifiers
+that differentiate you from the group norm.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|That is probably exactly what I'm saying!
+...I think.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|I need time to prepare my queries and
+form a control group. Is this acceptable?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Er, sure. Whatever you just said.
+Whatever it takes.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Miriel! Tam da seni arıyordum.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_11|Selamlar ve selamlar, Sully.
+Yardıma mı ihtiyacınız var?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Sen bir entelektüelsin, değil mi? Bir
+şeyleri araştırmayı ve incelemeyi sever
+misiniz?$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_8|Evet. Doğal dünyanın gizemlerini ve
+harikalarını açığa çıkarmak bana―$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_8|Evet, evet, her neyse.
+Bak, senden bir iyilik isteyeceğim.$k
+$Wsミリエル|$Wa$E怒|$SvpSE_VOICE_MYRIEL_EVT_1|...yeni bir silah geliştirmemi mi
+istiyorsun? Böyle bir şey mi var?$k
+$Wsソワレ|$Wa$E苦|$SvpSE_VOICE_SOIREE_EVT_13|Hayır, öyle bir şey yok.
+BENİ incelemeni istiyorum!$k
+$Wsミリエル|$Wa$E苦|$SvpSE_VOICE_MYRIEL_EVT_14|Sen? Bu çok alışılmadık bir durum
+olurdu...$k$pItiraf etmeliyim ki seni hiçbir zaman
+olası bir araştırma alanı olarak
+düşünmedim ama...$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_11|Evet, belki de bunu düşünmenin
+zamanı gelmiştir. $k$pDiğer kadınlara benzemedigimi
+fark etmişsindir değil mi?$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_7|Eğer dövüş yeteneğinizden bahsediyorsanız
+o zaman evet, bu zaten bilinen bir gerçek.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Evet, evet! Doğru!
+O! ...Ve başka şeyler de.$k$pBak, sadece bende neyin bu kadar
+farklı olduğunu anlamani istiyorum.$k$p$E怒|Yani uyum sağlamaya gerçekten
+çalışıyorum ama bir şey beni
+diğerlerinden ayırıyor.$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_2|Anlıyorum. Sosyal etkilesimlerinizi ve
+sözlü iletisimlerinizi gözlemlememi
+istiyorsunuz.$k$pBu şekilde sizi grup normlarindan
+farklılastiran davranışsal göstergeleri
+görebilirim.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_6|Muhtemelen ben de tam olarak bunu
+söylüyorum! ...Bence.$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Sorularimi hazırlamak ve kontrol grubu
+oluşturmak için zamana ihtiyacım var. Bu
+kabul edilebilir mi?$k
+$Wsソワレ|$Wa$Eキメ|$SvpSE_VOICE_SOIREE_EVT_19|Elbette. Az önce ne
+söylediysen. Ne gerekiyorsa.$k
+$Sbs1000|"
+1,MID_支援_ソワレ_ミリエル_Ｂ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Salut, Miriel !
+Alors, tes recherches, ça avance ?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Je suppose que tu fais référence à l'étude
+comportementale te concernant.$k$pDepuis notre dernière conversation,
+je t'ai observée avec rigueur et précision.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Ah, vraiment ? Je n'avais pas remarqué.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_6|Si le sujet avait conscience d'être observé,
+les résultats seraient faussés.$k$pIl était essentiel que je t'étudie dans
+ton milieu naturel, sans intrusion.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Et alors ? Quelles sont tes conclusions ?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_7|Cette phase d'observation m'a permis
+d'isoler deux facteurs principaux.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Tu pourrais être plus directe ?!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_8|Le premier élément est lié au langage que
+tu utilises. Le second, à ta posture.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Tu veux dire, ma façon de marcher,
+de m'habiller et ce genre de trucs ?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_12|Tes vêtements et ton armure n'ont rien
+d'exceptionnel et ne te différencient pas.$k$pCependant, ton langage et sa tendance
+à la familiarité te distinguent du groupe.$k$pDe plus, ton attitude corporelle dénote
+une certaine agressivité.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Hmm...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Si tu veux mieux t'intégrer, c'est sur ces
+points que tu devrais travailler, à mon avis.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Bah ! N'importe quoi !$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|Tu n'es pas d'accord ? Ma logique
+scientifique est pourtant implacable.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|Plein de gens m'ont déjà dit ça avant toi !$k$p« Fais ci ! Fais pas ça ! Tiens-toi bien ! »
+À chaque fois, j'essaie...$k$p... et je joue la comédie pendant un temps.
+Avant d'abandonner rapidement.$k$pPourquoi devrait-on tous se comporter
+pareil ? Ça sort d'où, ces règles ?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_9|Il s'agit de normes sociales organisées,
+qui diffèrent en cela des lois naturelles.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Hmm, d'accord... Je ne suis pas sûre de
+tout comprendre, mais bon...$k$pMerci de m'avoir étudiée. J'espère ne pas
+t'avoir fait perdre de temps.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_13|Non, c'était loin d'être du temps perdu.
+C'était même tout à fait fascinant.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Hallo, Miriel! Wie läuft das
+Forschungsprojekt?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Ich forsche gerade in vielen Gebieten, aber
+Ihr meint wohl die Studie über Euch?$k$pSeit unserem Gespräch habe ich Euch mit
+rigorosem Eifer beobachtet und studiert.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Was, echt? Ist mir gar nicht aufgefallen!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_6|Wenn ein Subjekt sich der Beobachtung
+bewusst ist, verfälscht das die Ergebnisse.$k$pEs ist äußerst wichtig, dass ich Euch in
+Eurer natürlichen Umgebung beobachte!$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Und? Irgendwelche Ergebnisse?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_7|Während der Beobachtungsphase
+sind mir zwei Dinge aufgefallen.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Und was zur Hölle waren das für Dinge?!?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_8|Erstens: Eure Sprache.
+Zweitens: Euer allgemeines Verhalten.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Du meinst, die Art wie ich laufe und so
+ein Mist?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_12|Kleidung und Rüstzeug entsprechen bei
+Euch der sozialen Norm unter den Hirten.$k$pJedoch ist Euer Sprachgebrauch, speziell
+der Einsatz vulgärer Wörter, ungewöhnlich.$k$pDes Weiteren neigt Ihr grundsätzlich dazu,
+recht aggressiv aufzutreten.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Ahaaa?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Wenn Ihr Euch anpassen wollt, empfehle ich
+Veränderungen in diesen beiden Bereichen.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Ach, komm schon! Das stinkt doch zum
+Himmel wie frischer Pferdedung!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|Findet Ihr? Ich empfinde die Logik dahinter
+als äußerst schlüssig.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|So was haben mir die Leute schon
+öfter gesagt...$k$p""Du musst das so machen!""
+""Du musst dich so verhalten!""$k$pDas klappt nie! Ich tue für 'ne Woche,
+als ob, und dann geb ich einfach auf.$k$pWer sagt eigentlich, dass wir alle gleich sein
+müssen? Wer macht die blöden Regeln?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_9|Ich glaube, sie basieren auf Sitten und
+Gebräuchen und nicht auf Naturgesetzen.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|...Darüber muss ich erst mal nachdenken.$k$pDanke für die Beobachtung und so. Ich
+hoffe, ich hab nicht deine Zeit vergeudet.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_13|Mitnichten. Es war äußerst faszinierend.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Ehilà, Miriel! Come va il nostro
+progetto di ricerca?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Ho molti progetti in corso, ma immagino vi
+riferiate a quello sulla vostra personalità.$k$pDalla nostra conversazione vi ho osservata
+con stretto rigore scientifico.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Quando? Non me ne sono neanche accorta.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_6|Se il soggetto è consapevole di essere
+studiato, si compromette il risultato.$k$pEra fondamentale che vi osservassi
+nel vostro habitat naturale.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Ah sì? Allora?
+Sei arrivata a qualche conclusione?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_7|Durante la fase di osservazione e studio
+ho notato due importanti elementi.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ti vuoi decidere a parlare?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_8|Il primo è il vostro linguaggio.
+Il secondo è il vostro contegno in generale.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Intendi il modo in cui cammino,
+parlo e stupidaggini del genere?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_12|La vostra armatura è allineata alle norme
+sociali dei Pastori. È ineccepibile.$k$pMa l'uso che fate del linguaggio, in
+particolare quello volgare, è anomalo.$k$pInoltre tendete a porvi nei confronti degli
+altri in maniera decisamente aggressiva.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Uh oh.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Se volete avvicinarvi di più al gruppo,
+suggerirei di lavorare su queste due aree.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Ma dai! Che scemenze!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|Sono arrivata a questa conclusione
+seguendo metodi scientificamente validi.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|L'ho già sentita questa storia!
+Gente che mi diceva:$k$p""Fai così e non cosà!""
+""Devi comportarti in questo modo!""$k$pMa non funziona! Faccio finta di provarci
+per una settimana e poi lascio perdere.$k$pChi è poi che si è inventato che dobbiamo
+comportarci tutti allo stesso modo?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_9|È dovuto alla necessità di una legge sociale
+in contrapposizione a quella naturale.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Porca miseria...$k$pBah. Ho bisogno di pensarci su.$k$pGrazie per avermi studiata.
+Spero di non averti fatto perdere tempo.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_13|Niente affatto.
+Anzi, è stato molto interessante.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|¡Buenas, Miriel! ¿Cómo va el proyecto
+de investigación?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Tengo muchos proyectos en curso, pero
+asumo que te refieres al de tu personalidad.$k$pDesde que hablamos, te he observado
+con estricto rigor científico.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Espera, ¿en serio?
+Ni me había dado cuenta.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_6|Si el sujeto es consciente de la observación,
+podría viciar los resultados.$k$pEra de una importancia vital que te
+estudiara en tu hábitat natural.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|¿Y bien? ¿Has sacado algo en claro?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_7|Durante la fase de observación,
+me llamaron la atención dos factores.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|¡Pues no te hagas de rogar y dímelos!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_8|El primero es tu lenguaje y el segundo
+es tu compostura en general.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|¿Te refieres a mi manera de andar
+y demás chorradas?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_12|Tu atuendo y tu armadura están en línea
+con las normas sociales de los Custodios.$k$pTu uso del lenguaje, empero, es anómalo
+y vulgar en demasía.$k$pAdemás, tiendes a comportarte
+de manera muy agresiva.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Vaaale.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Si deseas integrarte, te recomiendo
+que intentes mejorar esos dos aspectos.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|¡Oh, vamos! ¡Menuda chorrada!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|¿Eh? La lógica que he aplicado es
+científicamente impecable.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|¡Ya ha habido otra gente que me
+ha dicho lo mismo antes!$k$p""Tienes que hacer no sé qué, has de
+comportarte como no sé cuánto...""$k$p¡Nunca funciona! Consigo fingir durante
+una semana y después lo dejo.$k$p¡¿Quién rayos fue el que se inventó la regla
+de que todos tenemos que actuar igual?!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_9|Creo que dicha ""regla"" se basa en
+conductas sociales, y no en leyes naturales.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Mmm... Tengo que pensar en todo esto
+un poco más...$k$pGracias por observarme y tal.
+Espero no haberte hecho perder el tiempo.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_13|En absoluto.
+Ha sido una experiencia fascinante.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Hey-ho, Miriel! How's the research
+project going?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|I have many such projects under way, but I
+assume you refer to your personality study.$k$pSince we talked, I have been observing you
+with fierce scientific rigour.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Wait, really?
+I didn't even notice.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_6|If the subject is aware of the observation,
+the results would be compromised.$k$pIt was vital that I observe you in your
+natural habitat.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Oh yeah? ...So?
+Any conclusions?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_7|During the observation phase, two main
+points came to my attention.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|...Well what the hell
+are they already?!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_8|The first is your language.
+The second is your general bearing.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|You mean the way I walk
+and talk and crap like that?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_12|Your clothing and armour are unexceptional
+and fit within Shepherd social norms.$k$pHowever, your use of language―especially
+vulgarity―is quite irregular.$k$pAlso, you tend to carry yourself in a
+very aggressive manner.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|O-kay.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|If you wish to fit in with others, I would
+recommend change in these two areas.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Aw, come on!
+That's horse plop!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|I assure you my conclusions were
+reached via scientifically proven methods.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_11|I've had people tell me this before!$k$p""You have to do this!""
+""You gotta act like that!""$k$pIt never works! I pretend for a week
+or so and then just give it up.$k$pWho says we all have to act the same,
+anyway? Who made all these damn rules?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_9|I believe they are based on social mores
+as opposed to a natural law.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Well, hell...$k$pI'm gonna have to think about this
+one for a bit.$k$pThanks for doing the observation stuff.
+Hope I didn't waste your time.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_13|Not at all.
+It was quite fascinating.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_6|Merhaba Miriel! Araştırma projesi
+nasıl gidiyor?$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_9|Bu tür birçok projem var ama sanırım
+kişilik çalışmaniza atifta bulunuyorsunuz.$k$pKonuştugumuzdan beri sizi şiddetli bir
+bilimsel titizlikle gözlemliyorum.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_2|Bekle,
+gerçekten mi? Fark etmedim bile.$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_6|Eğer denek gözlemin farkindaysa,
+sonuçlar tehlikeye girebilir.$k$pSizi doğal ortaminizda gözlemlemem
+çok önemliydi.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_12|Öyle mi? ...Ee?
+Bir sonuca vardın mı?$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_7|Gözlem aşamasında iki ana
+nokta dikkatimi çekti.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|...E, neymiş şu iki şey?!$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_8|Birincisi diliniz.
+Ikincisi genel tavrinizdir.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_13|Böyle yürümemi, konuşmami
+ve saçmalamami mi kastediyorsun?$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_12|Kıyafet ve zırhınız sıradan;
+Çobanların normlarına uyuyor.$k$pAncak dili kullanıminiz, özellikle de
+bayağılık, oldukça düzensiz.$k$pAyrıca kendinizi çok agresif bir
+şekilde taşıma egilimindesiniz.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Tamam.$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_10|Başkalarına uyum sağlamak istiyorsanız bu
+iki alanda değişiklik yapmanızı öneririm.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Hadi ama!
+Bu at saçmaligi!$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_1|Sizi temin ederim ki, bu sonuçlara
+bilimsel olarak kanitlanmis yöntemlerle
+ulasilmistir.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_11|Bunu bana daha önce söyleyen insanlar
+oldu!$k$p""Bunu yapmak
+zorundasın!"" ""Böyle davranmalisin!""$k$pAsla işe yaramaz! Bir hafta kadar rol
+yapıyorum ve sonra vazgeçiyorum.$k$pZaten hepimizin aynı şekilde davranması
+gerektiğini kim söylüyor? Bütün bu lanet
+kuralları kim koydu?$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_9|Bunların doğal bir yasanin aksine
+toplumsal geleneklere dayandigina
+inanıyorum.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_12|Vay be...$k$pBu konu üzerinde biraz
+düşünmem gerekecek.$k$pGözlem işlerini yaptığınız için
+teşekkürler. Umarım zamaninizi boşa
+harcamamisimdir.$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_13|Hiç de
+bile. Oldukça büyüleyiciydi.$k
+$Sbs1000|"
+2,MID_支援_ソワレ_ミリエル_Ａ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Bonjour, Sully. Puis-je te parler ?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Oui, bien sûr...$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|As-tu réfléchi à mes conseils, ceux que je
+t'ai donnés la dernière fois ?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_9|Tu veux dire, à propos de ma façon de
+parler, de me tenir, tout ça ?$k$pOui, j'y ai beaucoup pensé, mais je ne sais
+pas trop ce que je veux faire...$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Je vois. Aimerais-tu participer à une
+petite expérience ?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Oui, si tu n'essaies pas de me découper en
+morceaux pour m'observer, ça me va.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Non, rien de tel, je te rassure.$k$pJe vais d'abord mettre le feu à ce tas
+de petit bois...$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_17|Moui... D'accooord...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Bien. Supposons que tu veuilles éteindre
+ce feu. Comment t'y prendrais-tu ?$k$pTu peux utiliser tout ce qui se trouve à
+ta portée immédiate.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Hmm, j'imagine que j'utiliserais ce seau
+d'eau, juste là.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Tu jetterais de l'eau sur le feu,
+c'est bien ça ?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Euh, oui, évidemment. De l'eau sur le feu,
+le feu s'éteint, point.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_4|Très bien. Je t'en prie, fais donc.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|Tiens, prends ça, saleté de feu !$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|OOOH ! Le feu a redoublé d'intensité !
+Qu'est-ce que tu as fait, exactement ?!$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_6|L'eau contenue dans ce seau est
+communément appelée « eau de feu »...$k$pUn liquide que l'on peut trouver dans le sol,
+dans certaines régions montagneuses.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|De l'eau de feu ?
+Jamais entendu parler de ça...$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常,|Tu es partie du principe que l'eau permet
+toujours d'éteindre le feu.$k$pMais tu ignorais qu'il pouvait exister une
+eau différente, telle que l'eau de feu.$k$p$E笑,|Par ailleurs, les gens qui connaissent l'eau
+de feu savent reconnaître son utilité.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|... Je comprends. Elle est différente de l'eau
+normale, mais elle peut aussi être utile.$k$pTout comme les gens différents peuvent
+aussi avoir un rôle important à jouer.$k
+$Wsミリエル|$Wa$E笑,|$SvpSE_VOICE_MYRIEL_EVT_8|Exactement. D'après mes recherches, tu
+seras heureuse si tu restes toi-même.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Merci pour tes encouragements, Miriel.
+Je me sens déjà bien mieux.$k$pMais, j'ai une question...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_11|Hmm... Oui ?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|Comment est-ce que tu comptes éteindre
+ce feu maintenant ?!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ah, Sully. Habt Ihr einen Moment Zeit?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Was gibt's, Miriel?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|Habt Ihr in Betracht gezogen, meinem
+Rat von neulich Folge zu leisten?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_9|Du meinst wegen der Art wie ich rede und
+mich verhalte und dem Kram?$k$pJa, ich hab viel darüber nachgedacht, aber
+weiß immer noch nicht, was ich tun soll.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Dann frage ich mich, ob Ihr vielleicht an
+einem kleinen Experiment teilnehmen wollt?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Hat es etwas mit Skalpellen zu tun?
+Wenn ja, kannst du gleich abzischen!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Nichts dergleichen. Ihr habt mein Wort.$k$pZunächst werde ich diesen Haufen trockener
+Zweige entzünden...$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_17|Ahaaa... Und dann?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Nun denn. Nehmen wir an, Ihr müsst dieses
+Feuer löschen. Wie geht Ihr vor?$k$pEs ist Euch gestattet, alles, was Ihr hier
+seht, dafür zu verwenden.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Äh, ich würde den Wassereimer
+da verwenden.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Ihr würdet Wasser über das Feuer gießen?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Ja, klar. Wasser auf das Feuer.
+Feuer geht aus. So einfach.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_4|Wie Ihr meint. Bitte fahrt fort.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|Ha! Wir sehen uns in der Hölle, Feuerchen!$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|GAAAH! Jetzt ist das Feuer doppelt so
+groß! Was zum Geier hast du getan?!?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_6|Bei dem Wasser in dem Eimer handelt es
+sich um sogenanntes brennendes Wasser.$k$pEs ist eine seltsame Flüssigkeit, die in einem
+fernen Gebirge aus dem Boden sprudelt.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|Brennendes Wasser?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常,|Ihr habt gerade angenommen, dass Wasser
+immer in der Lage ist, Feuer zu löschen.$k$pWas Ihr nicht bedacht habt, ist, dass es
+andere Arten von Wasser geben könnte.$k$p$E笑,|Es mag Euch interessieren, dass brennendes
+Wasser sehr nützlich sein kann.$k$pDie Leute, in deren Nähe es vorkommt,
+verwenden es für alles Mögliche.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|...Ich verstehe. Es ist anders als normales
+Wasser, aber trotzdem nützlich.$k$pUnd Leute, die anders sind, haben durchaus
+auch eine nützliche Rolle zu spielen.$k
+$Wsミリエル|$Wa$E笑,|$SvpSE_VOICE_MYRIEL_EVT_8|Ich sehe, Ihr habt es auch verstanden.$k$pMeine Forschungen haben ergeben, dass
+Ihr glücklich sein solltet, wie Ihr seid.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Ha! Danke für die Aufmunterung, Miriel!
+Ich fühle mich schon besser.$k$pAber eine Frage hab ich noch...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_11|Ja?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|Wie wolltest du denn jetzt das stetig
+wachsende Feuer da löschen?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Salve, Sully. Avete un momento per me?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|Che c'è, Miriel?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|Avete poi riflettuto se mettere in pratica
+i consigli che vi ho dato di recente?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_9|Intendi su come parlo e come
+mi comporto con gli altri?$k$pSì, ci ho pensato un sacco,
+ma non so ancora che fare...$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|Mi chiedevo se vi andasse di partecipare
+a un piccolo esperimento. Che ne dite?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Basta che non ci siano topi di mezzo.
+Non li sopporto...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Niente affatto. Avete la mia parola.$k$pAllora, come prima cosa darò fuoco a
+questo mucchio di rami secchi...$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_17|Va bene... e poi?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Ora. Supponete di dover estinguere
+il fuoco. Cosa fareste?$k$pPotete usare qualsiasi oggetto
+troviate vicino a voi.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Ehm, userei quel secchio d'acqua.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|Buttereste dell'acqua sul fuoco?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Ovvio. Acqua batte fuoco.
+Lo sanno anche i bambini.$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_4|Molto bene. Procedete pure.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|Ci vediamo all'inferno, fuocherello!$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|WOW! Il fuoco è diventato grande il
+doppio! Cosa diamine è successo?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_6|L'acqua nel secchio è una sostanza
+nota ai più come ""acqua ardente"".$k$pSi tratta di un misterioso liquido che
+sgorga da alcune remote montagne.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|""Acqua ardente""?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常,|Voi siete partita dalla congettura che
+l'acqua spenga sempre il fuoco.$k$pMa non avete considerato che potrebbero
+esserci diversi tipi di acqua.$k$p$E笑,|Vi interesserà sapere che chi vive vicino
+all'acqua ardente la trova molto utile.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Ho capito. Non è uguale all'acqua normale,
+ma serve comunque a qualcosa.$k$pNello stesso modo le persone, anche se
+diverse, possono avere ruoli importanti...$k
+$Wsミリエル|$Wa$E笑,|$SvpSE_VOICE_MYRIEL_EVT_8|Esatto. La mia ricerca dimostra che potete
+essere contenta di essere come siete.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Eh eh. Grazie per il discorsetto di
+incoraggiamento, Miriel. Sto già meglio.$k$pPerò ho un'ultima domanda...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_11|Sì?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|Come pensi di spegnere
+davvero l'incendio?!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ah, Sully. ¿Podrías dedicarme
+un momento?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|¿Qué ocurre, Miriel?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|¿Has reflexionado sobre lo que discutimos
+en nuestra última conversación?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_9|¿Lo de mi manera de hablar, comportarme
+y toda la pesca?$k$pSí, le he dado muchas vueltas,
+pero sigo sin saber qué hacer.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|En tal caso, me preguntaba si accederías
+a participar en un pequeño experimento.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Pero no hay ratas de por medio,
+¿verdad? ¡Porque si es así, ni loca!$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Nada así de visceral, te lo aseguro.$k$pPrimero, prenderé fuego a este
+montón de ramitas secas.$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_17|Vale. ¿Y después?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Supongamos que tienes que apagar
+este fuego. ¿Cómo lo harías tú?$k$pPuedes utilizar cualquier cosa
+de las que hay por aquí cerca.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Pues... Eeeh... Supongo que usaría
+el cubo de agua.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|¿Le echarías agua al fuego?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Claro. Si le echas agua al fuego,
+el fuego se apaga, ¿no?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_4|Muy bien. Adelante.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|¡Ja! ¡Hasta nunca, fuego inmundo!$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|¡AAAAH! ¡La llama se ha avivado!
+¿¡Qué narices has hecho!?$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_6|El agua del cubo era una sustancia
+conocida como ""agua comburente"".$k$pEs un líquido misterioso que emana
+de la tierra en montañas distantes.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|¿Agua comburente?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常,|Ahora mismo habías dado por sentado
+que el agua siempre apaga el fuego.$k$pNo obstante, no has considerado
+que existen distintos tipos de agua.$k$p$E笑,|Y puede que te interese que la gente que
+vive cerca de ella la encuentra de utilidad.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Entiendo... Es distinta al agua normal,
+pero para algunos sigue siendo útil.$k$pLo mismo pasa con la gente que es distinta.
+Aun así, tienen un papel que desempeñar.$k
+$Wsミリエル|$Wa$E笑,|$SvpSE_VOICE_MYRIEL_EVT_8|En efecto. Mi investigación indica que
+deberías ser feliz tal como ya eres.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Je. Gracias por la charlita, Miriel.
+Ya me encuentro mejor.$k$pAunque... una pregunta...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_11|¿Sí?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|¿Cómo demonios vamos
+a apagar este fuego?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ah, Sully.
+Might I have a moment?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_6|What's up, Miriel?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|Have you considered enacting my
+suggestions from our recent conversation?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_9|You mean about the way I speak and
+behave and all that?$k$pYeah, I've thought about it plenty,
+but I still don't know what to do...$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_2|I wonder then if you might care to
+participate in a small experiment?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|It doesn't involve rats, does it?
+Can't stand those things...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_10|Nothing so crude, I promise.$k$pFirst, I am going to ignite this
+pile of dry twigs...$k
+$Wsソワレ|$Wa$E苦,|$SvpSE_VOICE_SOIREE_EVT_17|Oh-kay. And?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_7|Now then. Suppose you need to extinguish
+this fire. How would you do it?$k$pYou are allowed to use anything you see
+around you.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Er, I guess I'd use
+that bucket of water.$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_9|You would pour water
+on the fire?$k
+$Wsソワレ|$Wa$Eキメ,|$SvpSE_VOICE_SOIREE_EVT_19|Well, sure. Water on fire,
+fire goes out. Right?$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_4|Very well.
+Please go ahead.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|Ha! See you in hell, fire!$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|WHOA! That made the fire twice
+as big! What the heck did you do?!$k
+$Wsミリエル|$Wa$Eキメ,|$SvpSE_VOICE_MYRIEL_EVT_6|The fluid in the bucket is a substance
+commonly known as ""kindling water"".$k$pIt is a mysterious liquid that emerges
+from the ground near distant mountains.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|Kindling water?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常,|Just now, you made the assumption
+that water always douses fire.$k$pHowever, you failed to consider that
+there may be different kinds of water.$k$p$E笑,|It may also interest you to know that people
+who live near kindling water find it useful.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|...I get it. It's different than regular
+water, but still useful to some folks.$k$pAnd people who are different may still
+have useful roles to play.$k
+$Wsミリエル|$Wa$E笑,|$SvpSE_VOICE_MYRIEL_EVT_8|Precisely. My research indicates that you
+should be happy just the way you are.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Heh. Thanks for the pep talk, Miriel.
+I feel better already.$k$pAlthough, I do still have one question...$k
+$Wsミリエル|$Wa$E通常,|$SvpSE_VOICE_MYRIEL_EVT_11|Yes?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|How the hell are you planning
+on putting out this fire?!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmミリエル|3$w0|$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|Ah, Sully.
+Bir dakikanızı alabilir miyim?$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_6|Ne haber Miriel?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_8|Son konuşmamizdaki
+önerilerimi hayata geçirmeyi düşündün mü?$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_9|Konuşma ve davranış seklimi
+falan mı kastediyorsun?$k$pEvet, bunu çok düşündüm ama
+hâlâ ne yapacağimi bilmiyorum...$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_2|O halde küçük bir deneye katilmayi
+düşünür müsünüz diye merak ediyorum.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_2|Fareleri içermiyor, değil mi?
+Dayanamıyorum böyle şeylere...$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_10|Bu kadar kaba bir şey yok, söz veriyorum.$k$pİlk önce bu kuru dal yığinini
+tutusturacağım...$k
+$Wsソワレ|$Wa$E苦|$SvpSE_VOICE_SOIREE_EVT_17|Tamam. Ve?$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_7|Şimdi o zaman. Diyelim ki bu yangını
+söndürmeniz gerekiyor. Bunu nasıl
+yapardın?$k$pEtrafinizda gördüğünüz her şeyi
+kullanmaniza izin verilir.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_12|Eh, sanırım o
+kova suyu kullanırdim.$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_9|Ateşe su mu
+dökeceksin?$k
+$Wsソワレ|$Wa$Eキメ|$SvpSE_VOICE_SOIREE_EVT_19|Elbette. Ateşe su dökersin,
+ateş söner. Doğru mu?$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_4|Çok iyi.
+Lütfen devam edin.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_24|Ha! Cehennemde görüşürüz, ateş!$k$p$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_28|Vay be! Bu, yanginin iki kat daha
+büyük olmasına neden oldu! Ne yaptın sen?$k
+$Wsミリエル|$Wa$Eキメ|$SvpSE_VOICE_MYRIEL_EVT_6|Kovanin içindeki sivi, halk arasında
+""çira suyu"" olarak bilinen bir maddedir.$k$pUzak dağların yakınında
+yerden çıkan gizemli bir sividir.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_16|Yakma suyu mu?$k
+$Wsミリエル|$Wa$SvpSE_VOICE_MYRIEL_EVT_12|$E通常|Az önce suyun her zaman ateşi
+söndürdüğü varsayımını yaptınız.$k$pAncak suyun farklı türlerinin
+olabileceğini hesaba katmadiniz.$k$p$E笑|Çira suyunun yakınında yaşayan insanların
+onu faydalı bulduğunu bilmek de ilginizi
+çekebilir.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_8|...Anladım. Normal sudan farklıdir ama
+yine de bazı insanlar için faydalidir.$k$pVe farklı olan insanların hâlâ
+oynayacak yararlı rolleri olabilir.$k
+$Wsミリエル|$Wa$E笑|$SvpSE_VOICE_MYRIEL_EVT_8|Açık olarak. Araştırmam, olduğunuz gibi
+mutlu olmanız gerektiğini gösteriyor.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Heh. Moral verici konuşman için
+teşekkürler Miriel. Şimdiden daha iyi
+hissediyorum.$k$pYine de hâlâ bir sorum var...$k
+$Wsミリエル|$Wa$E通常|$SvpSE_VOICE_MYRIEL_EVT_11|Evet?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_13|Bu yangını nasıl
+söndürmeyi düşünüyorsun?$k
+$Sbs1000|"

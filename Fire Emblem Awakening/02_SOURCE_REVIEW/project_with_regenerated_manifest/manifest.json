@@ -1,0 +1,6000 @@
+{
+  "tool": "fea_lang_tool",
+  "format_version": 2,
+  "csv_mode": "per_file",
+  "source": "m.zip",
+  "root_prefix": "m",
+  "languages": {
+    "F": "French",
+    "G": "German",
+    "I": "Italian",
+    "S": "Spanish",
+    "U": "English"
+  },
+  "file_count": 854,
+  "row_count": 15817,
+  "csv_root": "csv",
+  "turkish_patch": null,
+  "turkish_file_count": 0,
+  "turkish_row_count": 0,
+  "files": [
+    {
+      "file": "000.bin.lz",
+      "display_file": "000.bin.lz",
+      "csv": "csv/000.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "001.bin.lz",
+      "display_file": "001.bin.lz",
+      "csv": "csv/001.csv",
+      "records": 81,
+      "tr_imported": 0
+    },
+    {
+      "file": "002.bin.lz",
+      "display_file": "002.bin.lz",
+      "csv": "csv/002.csv",
+      "records": 67,
+      "tr_imported": 0
+    },
+    {
+      "file": "003.bin.lz",
+      "display_file": "003.bin.lz",
+      "csv": "csv/003.csv",
+      "records": 43,
+      "tr_imported": 0
+    },
+    {
+      "file": "004.bin.lz",
+      "display_file": "004.bin.lz",
+      "csv": "csv/004.csv",
+      "records": 36,
+      "tr_imported": 0
+    },
+    {
+      "file": "005.bin.lz",
+      "display_file": "005.bin.lz",
+      "csv": "csv/005.csv",
+      "records": 22,
+      "tr_imported": 0
+    },
+    {
+      "file": "006.bin.lz",
+      "display_file": "006.bin.lz",
+      "csv": "csv/006.csv",
+      "records": 80,
+      "tr_imported": 0
+    },
+    {
+      "file": "007.bin.lz",
+      "display_file": "007.bin.lz",
+      "csv": "csv/007.csv",
+      "records": 68,
+      "tr_imported": 0
+    },
+    {
+      "file": "008.bin.lz",
+      "display_file": "008.bin.lz",
+      "csv": "csv/008.csv",
+      "records": 30,
+      "tr_imported": 0
+    },
+    {
+      "file": "009.bin.lz",
+      "display_file": "009.bin.lz",
+      "csv": "csv/009.csv",
+      "records": 100,
+      "tr_imported": 0
+    },
+    {
+      "file": "010.bin.lz",
+      "display_file": "010.bin.lz",
+      "csv": "csv/010.csv",
+      "records": 48,
+      "tr_imported": 0
+    },
+    {
+      "file": "011.bin.lz",
+      "display_file": "011.bin.lz",
+      "csv": "csv/011.csv",
+      "records": 50,
+      "tr_imported": 0
+    },
+    {
+      "file": "012.bin.lz",
+      "display_file": "012.bin.lz",
+      "csv": "csv/012.csv",
+      "records": 19,
+      "tr_imported": 0
+    },
+    {
+      "file": "013.bin.lz",
+      "display_file": "013.bin.lz",
+      "csv": "csv/013.csv",
+      "records": 147,
+      "tr_imported": 0
+    },
+    {
+      "file": "014.bin.lz",
+      "display_file": "014.bin.lz",
+      "csv": "csv/014.csv",
+      "records": 43,
+      "tr_imported": 0
+    },
+    {
+      "file": "015.bin.lz",
+      "display_file": "015.bin.lz",
+      "csv": "csv/015.csv",
+      "records": 21,
+      "tr_imported": 0
+    },
+    {
+      "file": "016.bin.lz",
+      "display_file": "016.bin.lz",
+      "csv": "csv/016.csv",
+      "records": 38,
+      "tr_imported": 0
+    },
+    {
+      "file": "017.bin.lz",
+      "display_file": "017.bin.lz",
+      "csv": "csv/017.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "018.bin.lz",
+      "display_file": "018.bin.lz",
+      "csv": "csv/018.csv",
+      "records": 54,
+      "tr_imported": 0
+    },
+    {
+      "file": "019.bin.lz",
+      "display_file": "019.bin.lz",
+      "csv": "csv/019.csv",
+      "records": 25,
+      "tr_imported": 0
+    },
+    {
+      "file": "020.bin.lz",
+      "display_file": "020.bin.lz",
+      "csv": "csv/020.csv",
+      "records": 32,
+      "tr_imported": 0
+    },
+    {
+      "file": "021.bin.lz",
+      "display_file": "021.bin.lz",
+      "csv": "csv/021.csv",
+      "records": 98,
+      "tr_imported": 0
+    },
+    {
+      "file": "022.bin.lz",
+      "display_file": "022.bin.lz",
+      "csv": "csv/022.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "023.bin.lz",
+      "display_file": "023.bin.lz",
+      "csv": "csv/023.csv",
+      "records": 98,
+      "tr_imported": 0
+    },
+    {
+      "file": "024.bin.lz",
+      "display_file": "024.bin.lz",
+      "csv": "csv/024.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "025.bin.lz",
+      "display_file": "025.bin.lz",
+      "csv": "csv/025.csv",
+      "records": 26,
+      "tr_imported": 0
+    },
+    {
+      "file": "026.bin.lz",
+      "display_file": "026.bin.lz",
+      "csv": "csv/026.csv",
+      "records": 328,
+      "tr_imported": 0
+    },
+    {
+      "file": "Backup.bin.lz",
+      "display_file": "Backup.bin.lz",
+      "csv": "csv/Backup.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "Card.bin.lz",
+      "display_file": "Card.bin.lz",
+      "csv": "csv/Card.csv",
+      "records": 40,
+      "tr_imported": 0
+    },
+    {
+      "file": "E001.bin.lz",
+      "display_file": "E001.bin.lz",
+      "csv": "csv/E001.csv",
+      "records": 89,
+      "tr_imported": 0
+    },
+    {
+      "file": "E002.bin.lz",
+      "display_file": "E002.bin.lz",
+      "csv": "csv/E002.csv",
+      "records": 78,
+      "tr_imported": 0
+    },
+    {
+      "file": "E003.bin.lz",
+      "display_file": "E003.bin.lz",
+      "csv": "csv/E003.csv",
+      "records": 106,
+      "tr_imported": 0
+    },
+    {
+      "file": "E003G.bin.lz",
+      "display_file": "E003G.bin.lz",
+      "csv": "csv/E003G.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "E004.bin.lz",
+      "display_file": "E004.bin.lz",
+      "csv": "csv/E004.csv",
+      "records": 58,
+      "tr_imported": 0
+    },
+    {
+      "file": "E005.bin.lz",
+      "display_file": "E005.bin.lz",
+      "csv": "csv/E005.csv",
+      "records": 60,
+      "tr_imported": 0
+    },
+    {
+      "file": "E006.bin.lz",
+      "display_file": "E006.bin.lz",
+      "csv": "csv/E006.csv",
+      "records": 74,
+      "tr_imported": 0
+    },
+    {
+      "file": "E006G.bin.lz",
+      "display_file": "E006G.bin.lz",
+      "csv": "csv/E006G.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "E007.bin.lz",
+      "display_file": "E007.bin.lz",
+      "csv": "csv/E007.csv",
+      "records": 206,
+      "tr_imported": 0
+    },
+    {
+      "file": "E008.bin.lz",
+      "display_file": "E008.bin.lz",
+      "csv": "csv/E008.csv",
+      "records": 189,
+      "tr_imported": 0
+    },
+    {
+      "file": "E008G.bin.lz",
+      "display_file": "E008G.bin.lz",
+      "csv": "csv/E008G.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "E009.bin.lz",
+      "display_file": "E009.bin.lz",
+      "csv": "csv/E009.csv",
+      "records": 247,
+      "tr_imported": 0
+    },
+    {
+      "file": "E009G.bin.lz",
+      "display_file": "E009G.bin.lz",
+      "csv": "csv/E009G.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "E010.bin.lz",
+      "display_file": "E010.bin.lz",
+      "csv": "csv/E010.csv",
+      "records": 154,
+      "tr_imported": 0
+    },
+    {
+      "file": "E011.bin.lz",
+      "display_file": "E011.bin.lz",
+      "csv": "csv/E011.csv",
+      "records": 197,
+      "tr_imported": 0
+    },
+    {
+      "file": "E011G.bin.lz",
+      "display_file": "E011G.bin.lz",
+      "csv": "csv/E011G.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "E012.bin.lz",
+      "display_file": "E012.bin.lz",
+      "csv": "csv/E012.csv",
+      "records": 252,
+      "tr_imported": 0
+    },
+    {
+      "file": "E012G.bin.lz",
+      "display_file": "E012G.bin.lz",
+      "csv": "csv/E012G.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "E013.bin.lz",
+      "display_file": "E013.bin.lz",
+      "csv": "csv/E013.csv",
+      "records": 186,
+      "tr_imported": 0
+    },
+    {
+      "file": "E014.bin.lz",
+      "display_file": "E014.bin.lz",
+      "csv": "csv/E014.csv",
+      "records": 190,
+      "tr_imported": 0
+    },
+    {
+      "file": "E015.bin.lz",
+      "display_file": "E015.bin.lz",
+      "csv": "csv/E015.csv",
+      "records": 248,
+      "tr_imported": 0
+    },
+    {
+      "file": "E015G.bin.lz",
+      "display_file": "E015G.bin.lz",
+      "csv": "csv/E015G.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "GMAP.bin.lz",
+      "display_file": "GMAP.bin.lz",
+      "csv": "csv/GMAP.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "GameData.bin.lz",
+      "display_file": "GameData.bin.lz",
+      "csv": "csv/GameData.csv",
+      "records": 1316,
+      "tr_imported": 0
+    },
+    {
+      "file": "Menu.bin.lz",
+      "display_file": "Menu.bin.lz",
+      "csv": "csv/Menu.csv",
+      "records": 872,
+      "tr_imported": 0
+    },
+    {
+      "file": "P001.bin.lz",
+      "display_file": "P001.bin.lz",
+      "csv": "csv/P001.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "P002.bin.lz",
+      "display_file": "P002.bin.lz",
+      "csv": "csv/P002.csv",
+      "records": 76,
+      "tr_imported": 0
+    },
+    {
+      "file": "Support_S.bin.lz",
+      "display_file": "Support_S.bin.lz",
+      "csv": "csv/Support_S.csv",
+      "records": 94,
+      "tr_imported": 0
+    },
+    {
+      "file": "System.bin.lz",
+      "display_file": "System.bin.lz",
+      "csv": "csv/System.csv",
+      "records": 102,
+      "tr_imported": 0
+    },
+    {
+      "file": "Trial.bin.lz",
+      "display_file": "Trial.bin.lz",
+      "csv": "csv/Trial.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "X001.bin.lz",
+      "display_file": "X001.bin.lz",
+      "csv": "csv/X001.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "X002.bin.lz",
+      "display_file": "X002.bin.lz",
+      "csv": "csv/X002.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "X003.bin.lz",
+      "display_file": "X003.bin.lz",
+      "csv": "csv/X003.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "X004.bin.lz",
+      "display_file": "X004.bin.lz",
+      "csv": "csv/X004.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "X005.bin.lz",
+      "display_file": "X005.bin.lz",
+      "csv": "csv/X005.csv",
+      "records": 18,
+      "tr_imported": 0
+    },
+    {
+      "file": "X006.bin.lz",
+      "display_file": "X006.bin.lz",
+      "csv": "csv/X006.csv",
+      "records": 19,
+      "tr_imported": 0
+    },
+    {
+      "file": "X007.bin.lz",
+      "display_file": "X007.bin.lz",
+      "csv": "csv/X007.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "X008.bin.lz",
+      "display_file": "X008.bin.lz",
+      "csv": "csv/X008.csv",
+      "records": 19,
+      "tr_imported": 0
+    },
+    {
+      "file": "X009.bin.lz",
+      "display_file": "X009.bin.lz",
+      "csv": "csv/X009.csv",
+      "records": 23,
+      "tr_imported": 0
+    },
+    {
+      "file": "X010.bin.lz",
+      "display_file": "X010.bin.lz",
+      "csv": "csv/X010.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "X011.bin.lz",
+      "display_file": "X011.bin.lz",
+      "csv": "csv/X011.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "X012.bin.lz",
+      "display_file": "X012.bin.lz",
+      "csv": "csv/X012.csv",
+      "records": 30,
+      "tr_imported": 0
+    },
+    {
+      "file": "X013.bin.lz",
+      "display_file": "X013.bin.lz",
+      "csv": "csv/X013.csv",
+      "records": 28,
+      "tr_imported": 0
+    },
+    {
+      "file": "X014.bin.lz",
+      "display_file": "X014.bin.lz",
+      "csv": "csv/X014.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "X015.bin.lz",
+      "display_file": "X015.bin.lz",
+      "csv": "csv/X015.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "X016.bin.lz",
+      "display_file": "X016.bin.lz",
+      "csv": "csv/X016.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "X017.bin.lz",
+      "display_file": "X017.bin.lz",
+      "csv": "csv/X017.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "X018.bin.lz",
+      "display_file": "X018.bin.lz",
+      "csv": "csv/X018.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "X019.bin.lz",
+      "display_file": "X019.bin.lz",
+      "csv": "csv/X019.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "X020.bin.lz",
+      "display_file": "X020.bin.lz",
+      "csv": "csv/X020.csv",
+      "records": 28,
+      "tr_imported": 0
+    },
+    {
+      "file": "X021.bin.lz",
+      "display_file": "X021.bin.lz",
+      "csv": "csv/X021.csv",
+      "records": 19,
+      "tr_imported": 0
+    },
+    {
+      "file": "X022.bin.lz",
+      "display_file": "X022.bin.lz",
+      "csv": "csv/X022.csv",
+      "records": 28,
+      "tr_imported": 0
+    },
+    {
+      "file": "X023.bin.lz",
+      "display_file": "X023.bin.lz",
+      "csv": "csv/X023.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ec.bin.lz",
+      "display_file": "ec.bin.lz",
+      "csv": "csv/ec.csv",
+      "records": 65,
+      "tr_imported": 0
+    },
+    {
+      "file": "movie.bin.lz",
+      "display_file": "movie.bin.lz",
+      "csv": "csv/movie.csv",
+      "records": 103,
+      "tr_imported": 0
+    },
+    {
+      "file": "お店.bin.lz",
+      "display_file": "お店.bin.lz",
+      "csv": "csv/お店.csv",
+      "records": 189,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ウード.bin.lz",
+      "display_file": "アズール_ウード.bin.lz",
+      "csv": "csv/アズール_ウード.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_オリヴィエ_親子.bin.lz",
+      "display_file": "アズール_オリヴィエ_親子.bin.lz",
+      "csv": "csv/アズール_オリヴィエ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_カラム_親子.bin.lz",
+      "display_file": "アズール_カラム_親子.bin.lz",
+      "csv": "csv/アズール_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ガイア_親子.bin.lz",
+      "display_file": "アズール_ガイア_親子.bin.lz",
+      "csv": "csv/アズール_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_クロム_親子.bin.lz",
+      "display_file": "アズール_クロム_親子.bin.lz",
+      "csv": "csv/アズール_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_グレゴ_親子.bin.lz",
+      "display_file": "アズール_グレゴ_親子.bin.lz",
+      "csv": "csv/アズール_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_シンシア.bin.lz",
+      "display_file": "アズール_シンシア.bin.lz",
+      "csv": "csv/アズール_シンシア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ジェローム.bin.lz",
+      "display_file": "アズール_ジェローム.bin.lz",
+      "csv": "csv/アズール_ジェローム.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_セレナ.bin.lz",
+      "display_file": "アズール_セレナ.bin.lz",
+      "csv": "csv/アズール_セレナ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ソール_親子.bin.lz",
+      "display_file": "アズール_ソール_親子.bin.lz",
+      "csv": "csv/アズール_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_デジェル.bin.lz",
+      "display_file": "アズール_デジェル.bin.lz",
+      "csv": "csv/アズール_デジェル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ドニ_親子.bin.lz",
+      "display_file": "アズール_ドニ_親子.bin.lz",
+      "csv": "csv/アズール_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ノワール.bin.lz",
+      "display_file": "アズール_ノワール.bin.lz",
+      "csv": "csv/アズール_ノワール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_フレデリク_親子.bin.lz",
+      "display_file": "アズール_フレデリク_親子.bin.lz",
+      "csv": "csv/アズール_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ブレディ.bin.lz",
+      "display_file": "アズール_ブレディ.bin.lz",
+      "csv": "csv/アズール_ブレディ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_プレイヤー女.bin.lz",
+      "display_file": "アズール_プレイヤー女.bin.lz",
+      "csv": "csv/アズール_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_プレイヤー男.bin.lz",
+      "display_file": "アズール_プレイヤー男.bin.lz",
+      "csv": "csv/アズール_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_プレイヤー男_親子.bin.lz",
+      "display_file": "アズール_プレイヤー男_親子.bin.lz",
+      "csv": "csv/アズール_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ヘンリー_親子.bin.lz",
+      "display_file": "アズール_ヘンリー_親子.bin.lz",
+      "csv": "csv/アズール_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_マルス.bin.lz",
+      "display_file": "アズール_マルス.bin.lz",
+      "csv": "csv/アズール_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_マーク女.bin.lz",
+      "display_file": "アズール_マーク女.bin.lz",
+      "csv": "csv/アズール_マーク女.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_リヒト_親子.bin.lz",
+      "display_file": "アズール_リヒト_親子.bin.lz",
+      "csv": "csv/アズール_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_リベラ_親子.bin.lz",
+      "display_file": "アズール_リベラ_親子.bin.lz",
+      "csv": "csv/アズール_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ロンクー_親子.bin.lz",
+      "display_file": "アズール_ロンクー_親子.bin.lz",
+      "csv": "csv/アズール_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ンン.bin.lz",
+      "display_file": "アズール_ンン.bin.lz",
+      "csv": "csv/アズール_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ヴィオール_親子.bin.lz",
+      "display_file": "アズール_ヴィオール_親子.bin.lz",
+      "csv": "csv/アズール_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アズール_ヴェイク_親子.bin.lz",
+      "display_file": "アズール_ヴェイク_親子.bin.lz",
+      "csv": "csv/アズール_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アンナ_チキ.bin.lz",
+      "display_file": "アンナ_チキ.bin.lz",
+      "csv": "csv/アンナ_チキ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "アンナ_プレイヤー女.bin.lz",
+      "display_file": "アンナ_プレイヤー女.bin.lz",
+      "csv": "csv/アンナ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "アンナ_プレイヤー男.bin.lz",
+      "display_file": "アンナ_プレイヤー男.bin.lz",
+      "csv": "csv/アンナ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "インバース_プレイヤー女.bin.lz",
+      "display_file": "インバース_プレイヤー女.bin.lz",
+      "csv": "csv/インバース_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "インバース_プレイヤー男.bin.lz",
+      "display_file": "インバース_プレイヤー男.bin.lz",
+      "csv": "csv/インバース_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_カラム_親子.bin.lz",
+      "display_file": "ウード_カラム_親子.bin.lz",
+      "csv": "csv/ウード_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ガイア_親子.bin.lz",
+      "display_file": "ウード_ガイア_親子.bin.lz",
+      "csv": "csv/ウード_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_グレゴ_親子.bin.lz",
+      "display_file": "ウード_グレゴ_親子.bin.lz",
+      "csv": "csv/ウード_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_シンシア.bin.lz",
+      "display_file": "ウード_シンシア.bin.lz",
+      "csv": "csv/ウード_シンシア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_セレナ.bin.lz",
+      "display_file": "ウード_セレナ.bin.lz",
+      "csv": "csv/ウード_セレナ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ソール_親子.bin.lz",
+      "display_file": "ウード_ソール_親子.bin.lz",
+      "csv": "csv/ウード_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_デジェル.bin.lz",
+      "display_file": "ウード_デジェル.bin.lz",
+      "csv": "csv/ウード_デジェル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ドニ_親子.bin.lz",
+      "display_file": "ウード_ドニ_親子.bin.lz",
+      "csv": "csv/ウード_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ノワール.bin.lz",
+      "display_file": "ウード_ノワール.bin.lz",
+      "csv": "csv/ウード_ノワール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_フレデリク_親子.bin.lz",
+      "display_file": "ウード_フレデリク_親子.bin.lz",
+      "csv": "csv/ウード_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ブレディ.bin.lz",
+      "display_file": "ウード_ブレディ.bin.lz",
+      "csv": "csv/ウード_ブレディ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_プレイヤー女.bin.lz",
+      "display_file": "ウード_プレイヤー女.bin.lz",
+      "csv": "csv/ウード_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_プレイヤー男.bin.lz",
+      "display_file": "ウード_プレイヤー男.bin.lz",
+      "csv": "csv/ウード_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_プレイヤー男_親子.bin.lz",
+      "display_file": "ウード_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ウード_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ヘンリー_親子.bin.lz",
+      "display_file": "ウード_ヘンリー_親子.bin.lz",
+      "csv": "csv/ウード_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_マルス.bin.lz",
+      "display_file": "ウード_マルス.bin.lz",
+      "csv": "csv/ウード_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_マーク女.bin.lz",
+      "display_file": "ウード_マーク女.bin.lz",
+      "csv": "csv/ウード_マーク女.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_マーク男.bin.lz",
+      "display_file": "ウード_マーク男.bin.lz",
+      "csv": "csv/ウード_マーク男.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_リズ_親子.bin.lz",
+      "display_file": "ウード_リズ_親子.bin.lz",
+      "csv": "csv/ウード_リズ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_リヒト_親子.bin.lz",
+      "display_file": "ウード_リヒト_親子.bin.lz",
+      "csv": "csv/ウード_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_リベラ_親子.bin.lz",
+      "display_file": "ウード_リベラ_親子.bin.lz",
+      "csv": "csv/ウード_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ロンクー_親子.bin.lz",
+      "display_file": "ウード_ロンクー_親子.bin.lz",
+      "csv": "csv/ウード_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ンン.bin.lz",
+      "display_file": "ウード_ンン.bin.lz",
+      "csv": "csv/ウード_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ヴィオール_親子.bin.lz",
+      "display_file": "ウード_ヴィオール_親子.bin.lz",
+      "csv": "csv/ウード_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ウード_ヴェイク_親子.bin.lz",
+      "display_file": "ウード_ヴェイク_親子.bin.lz",
+      "csv": "csv/ウード_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "エメリナ_プレイヤー女.bin.lz",
+      "display_file": "エメリナ_プレイヤー女.bin.lz",
+      "csv": "csv/エメリナ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "エメリナ_プレイヤー男.bin.lz",
+      "display_file": "エメリナ_プレイヤー男.bin.lz",
+      "csv": "csv/エメリナ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "エンディング.bin.lz",
+      "display_file": "エンディング.bin.lz",
+      "csv": "csv/エンディング.csv",
+      "records": 576,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_カラム.bin.lz",
+      "display_file": "オリヴィエ_カラム.bin.lz",
+      "csv": "csv/オリヴィエ_カラム.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ガイア.bin.lz",
+      "display_file": "オリヴィエ_ガイア.bin.lz",
+      "csv": "csv/オリヴィエ_ガイア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_クロム.bin.lz",
+      "display_file": "オリヴィエ_クロム.bin.lz",
+      "csv": "csv/オリヴィエ_クロム.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_グレゴ.bin.lz",
+      "display_file": "オリヴィエ_グレゴ.bin.lz",
+      "csv": "csv/オリヴィエ_グレゴ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ソール.bin.lz",
+      "display_file": "オリヴィエ_ソール.bin.lz",
+      "csv": "csv/オリヴィエ_ソール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ドニ.bin.lz",
+      "display_file": "オリヴィエ_ドニ.bin.lz",
+      "csv": "csv/オリヴィエ_ドニ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_フレデリク.bin.lz",
+      "display_file": "オリヴィエ_フレデリク.bin.lz",
+      "csv": "csv/オリヴィエ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_プレイヤー女.bin.lz",
+      "display_file": "オリヴィエ_プレイヤー女.bin.lz",
+      "csv": "csv/オリヴィエ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_プレイヤー男.bin.lz",
+      "display_file": "オリヴィエ_プレイヤー男.bin.lz",
+      "csv": "csv/オリヴィエ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ヘンリー.bin.lz",
+      "display_file": "オリヴィエ_ヘンリー.bin.lz",
+      "csv": "csv/オリヴィエ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ベルベット.bin.lz",
+      "display_file": "オリヴィエ_ベルベット.bin.lz",
+      "csv": "csv/オリヴィエ_ベルベット.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_マリアベル.bin.lz",
+      "display_file": "オリヴィエ_マリアベル.bin.lz",
+      "csv": "csv/オリヴィエ_マリアベル.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_リヒト.bin.lz",
+      "display_file": "オリヴィエ_リヒト.bin.lz",
+      "csv": "csv/オリヴィエ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_リベラ.bin.lz",
+      "display_file": "オリヴィエ_リベラ.bin.lz",
+      "csv": "csv/オリヴィエ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "オリヴィエ_ロンクー.bin.lz",
+      "display_file": "オリヴィエ_ロンクー.bin.lz",
+      "csv": "csv/オリヴィエ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_サーリャ.bin.lz",
+      "display_file": "カラム_サーリャ.bin.lz",
+      "csv": "csv/カラム_サーリャ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_セルジュ.bin.lz",
+      "display_file": "カラム_セルジュ.bin.lz",
+      "csv": "csv/カラム_セルジュ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ソワレ.bin.lz",
+      "display_file": "カラム_ソワレ.bin.lz",
+      "csv": "csv/カラム_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ソール.bin.lz",
+      "display_file": "カラム_ソール.bin.lz",
+      "csv": "csv/カラム_ソール.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ティアモ.bin.lz",
+      "display_file": "カラム_ティアモ.bin.lz",
+      "csv": "csv/カラム_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ドニ.bin.lz",
+      "display_file": "カラム_ドニ.bin.lz",
+      "csv": "csv/カラム_ドニ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ノノ.bin.lz",
+      "display_file": "カラム_ノノ.bin.lz",
+      "csv": "csv/カラム_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_プレイヤー女.bin.lz",
+      "display_file": "カラム_プレイヤー女.bin.lz",
+      "csv": "csv/カラム_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_プレイヤー男.bin.lz",
+      "display_file": "カラム_プレイヤー男.bin.lz",
+      "csv": "csv/カラム_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ベルベット.bin.lz",
+      "display_file": "カラム_ベルベット.bin.lz",
+      "csv": "csv/カラム_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_マリアベル.bin.lz",
+      "display_file": "カラム_マリアベル.bin.lz",
+      "csv": "csv/カラム_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_ミリエル.bin.lz",
+      "display_file": "カラム_ミリエル.bin.lz",
+      "csv": "csv/カラム_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "カラム_リズ.bin.lz",
+      "display_file": "カラム_リズ.bin.lz",
+      "csv": "csv/カラム_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_クロム.bin.lz",
+      "display_file": "ガイア_クロム.bin.lz",
+      "csv": "csv/ガイア_クロム.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_サーリャ.bin.lz",
+      "display_file": "ガイア_サーリャ.bin.lz",
+      "csv": "csv/ガイア_サーリャ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_スミア.bin.lz",
+      "display_file": "ガイア_スミア.bin.lz",
+      "csv": "csv/ガイア_スミア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_セルジュ.bin.lz",
+      "display_file": "ガイア_セルジュ.bin.lz",
+      "csv": "csv/ガイア_セルジュ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_ソワレ.bin.lz",
+      "display_file": "ガイア_ソワレ.bin.lz",
+      "csv": "csv/ガイア_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_ティアモ.bin.lz",
+      "display_file": "ガイア_ティアモ.bin.lz",
+      "csv": "csv/ガイア_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_ノノ.bin.lz",
+      "display_file": "ガイア_ノノ.bin.lz",
+      "csv": "csv/ガイア_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_プレイヤー女.bin.lz",
+      "display_file": "ガイア_プレイヤー女.bin.lz",
+      "csv": "csv/ガイア_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_プレイヤー男.bin.lz",
+      "display_file": "ガイア_プレイヤー男.bin.lz",
+      "csv": "csv/ガイア_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_ベルベット.bin.lz",
+      "display_file": "ガイア_ベルベット.bin.lz",
+      "csv": "csv/ガイア_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_マリアベル.bin.lz",
+      "display_file": "ガイア_マリアベル.bin.lz",
+      "csv": "csv/ガイア_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_ミリエル.bin.lz",
+      "display_file": "ガイア_ミリエル.bin.lz",
+      "csv": "csv/ガイア_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_リズ.bin.lz",
+      "display_file": "ガイア_リズ.bin.lz",
+      "csv": "csv/ガイア_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ガイア_リベラ.bin.lz",
+      "display_file": "ガイア_リベラ.bin.lz",
+      "csv": "csv/ガイア_リベラ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ギャンレル_プレイヤー女.bin.lz",
+      "display_file": "ギャンレル_プレイヤー女.bin.lz",
+      "csv": "csv/ギャンレル_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ギャンレル_プレイヤー男.bin.lz",
+      "display_file": "ギャンレル_プレイヤー男.bin.lz",
+      "csv": "csv/ギャンレル_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_スミア.bin.lz",
+      "display_file": "クロム_スミア.bin.lz",
+      "csv": "csv/クロム_スミア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_ソワレ.bin.lz",
+      "display_file": "クロム_ソワレ.bin.lz",
+      "csv": "csv/クロム_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_フレデリク.bin.lz",
+      "display_file": "クロム_フレデリク.bin.lz",
+      "csv": "csv/クロム_フレデリク.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_プレイヤー女.bin.lz",
+      "display_file": "クロム_プレイヤー女.bin.lz",
+      "csv": "csv/クロム_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_プレイヤー男.bin.lz",
+      "display_file": "クロム_プレイヤー男.bin.lz",
+      "csv": "csv/クロム_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_マリアベル.bin.lz",
+      "display_file": "クロム_マリアベル.bin.lz",
+      "csv": "csv/クロム_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "クロム_リズ.bin.lz",
+      "display_file": "クロム_リズ.bin.lz",
+      "csv": "csv/クロム_リズ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_サーリャ.bin.lz",
+      "display_file": "グレゴ_サーリャ.bin.lz",
+      "csv": "csv/グレゴ_サーリャ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_セルジュ.bin.lz",
+      "display_file": "グレゴ_セルジュ.bin.lz",
+      "csv": "csv/グレゴ_セルジュ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ソワレ.bin.lz",
+      "display_file": "グレゴ_ソワレ.bin.lz",
+      "csv": "csv/グレゴ_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ティアモ.bin.lz",
+      "display_file": "グレゴ_ティアモ.bin.lz",
+      "csv": "csv/グレゴ_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ノノ.bin.lz",
+      "display_file": "グレゴ_ノノ.bin.lz",
+      "csv": "csv/グレゴ_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_プレイヤー女.bin.lz",
+      "display_file": "グレゴ_プレイヤー女.bin.lz",
+      "csv": "csv/グレゴ_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_プレイヤー男.bin.lz",
+      "display_file": "グレゴ_プレイヤー男.bin.lz",
+      "csv": "csv/グレゴ_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ベルベット.bin.lz",
+      "display_file": "グレゴ_ベルベット.bin.lz",
+      "csv": "csv/グレゴ_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_マリアベル.bin.lz",
+      "display_file": "グレゴ_マリアベル.bin.lz",
+      "csv": "csv/グレゴ_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ミリエル.bin.lz",
+      "display_file": "グレゴ_ミリエル.bin.lz",
+      "csv": "csv/グレゴ_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_リズ.bin.lz",
+      "display_file": "グレゴ_リズ.bin.lz",
+      "csv": "csv/グレゴ_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_リヒト.bin.lz",
+      "display_file": "グレゴ_リヒト.bin.lz",
+      "csv": "csv/グレゴ_リヒト.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "グレゴ_ロンクー.bin.lz",
+      "display_file": "グレゴ_ロンクー.bin.lz",
+      "csv": "csv/グレゴ_ロンクー.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "サイリ_チキ.bin.lz",
+      "display_file": "サイリ_チキ.bin.lz",
+      "csv": "csv/サイリ_チキ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "サイリ_プレイヤー女.bin.lz",
+      "display_file": "サイリ_プレイヤー女.bin.lz",
+      "csv": "csv/サイリ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "サイリ_プレイヤー男.bin.lz",
+      "display_file": "サイリ_プレイヤー男.bin.lz",
+      "csv": "csv/サイリ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_ソール.bin.lz",
+      "display_file": "サーリャ_ソール.bin.lz",
+      "csv": "csv/サーリャ_ソール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_ドニ.bin.lz",
+      "display_file": "サーリャ_ドニ.bin.lz",
+      "csv": "csv/サーリャ_ドニ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_ノノ.bin.lz",
+      "display_file": "サーリャ_ノノ.bin.lz",
+      "csv": "csv/サーリャ_ノノ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_フレデリク.bin.lz",
+      "display_file": "サーリャ_フレデリク.bin.lz",
+      "csv": "csv/サーリャ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_プレイヤー女.bin.lz",
+      "display_file": "サーリャ_プレイヤー女.bin.lz",
+      "csv": "csv/サーリャ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_プレイヤー男.bin.lz",
+      "display_file": "サーリャ_プレイヤー男.bin.lz",
+      "csv": "csv/サーリャ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_ヘンリー.bin.lz",
+      "display_file": "サーリャ_ヘンリー.bin.lz",
+      "csv": "csv/サーリャ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_リヒト.bin.lz",
+      "display_file": "サーリャ_リヒト.bin.lz",
+      "csv": "csv/サーリャ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_リベラ.bin.lz",
+      "display_file": "サーリャ_リベラ.bin.lz",
+      "csv": "csv/サーリャ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "サーリャ_ロンクー.bin.lz",
+      "display_file": "サーリャ_ロンクー.bin.lz",
+      "csv": "csv/サーリャ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_カラム_親子.bin.lz",
+      "display_file": "シャンブレー_カラム_親子.bin.lz",
+      "csv": "csv/シャンブレー_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ガイア_親子.bin.lz",
+      "display_file": "シャンブレー_ガイア_親子.bin.lz",
+      "csv": "csv/シャンブレー_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_グレゴ_親子.bin.lz",
+      "display_file": "シャンブレー_グレゴ_親子.bin.lz",
+      "csv": "csv/シャンブレー_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_シンシア.bin.lz",
+      "display_file": "シャンブレー_シンシア.bin.lz",
+      "csv": "csv/シャンブレー_シンシア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_セレナ.bin.lz",
+      "display_file": "シャンブレー_セレナ.bin.lz",
+      "csv": "csv/シャンブレー_セレナ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ソール_親子.bin.lz",
+      "display_file": "シャンブレー_ソール_親子.bin.lz",
+      "csv": "csv/シャンブレー_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_デジェル.bin.lz",
+      "display_file": "シャンブレー_デジェル.bin.lz",
+      "csv": "csv/シャンブレー_デジェル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ドニ_親子.bin.lz",
+      "display_file": "シャンブレー_ドニ_親子.bin.lz",
+      "csv": "csv/シャンブレー_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ノワール.bin.lz",
+      "display_file": "シャンブレー_ノワール.bin.lz",
+      "csv": "csv/シャンブレー_ノワール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_フレデリク_親子.bin.lz",
+      "display_file": "シャンブレー_フレデリク_親子.bin.lz",
+      "csv": "csv/シャンブレー_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ブレディ.bin.lz",
+      "display_file": "シャンブレー_ブレディ.bin.lz",
+      "csv": "csv/シャンブレー_ブレディ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_プレイヤー女.bin.lz",
+      "display_file": "シャンブレー_プレイヤー女.bin.lz",
+      "csv": "csv/シャンブレー_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_プレイヤー男.bin.lz",
+      "display_file": "シャンブレー_プレイヤー男.bin.lz",
+      "csv": "csv/シャンブレー_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_プレイヤー男_親子.bin.lz",
+      "display_file": "シャンブレー_プレイヤー男_親子.bin.lz",
+      "csv": "csv/シャンブレー_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ヘンリー_親子.bin.lz",
+      "display_file": "シャンブレー_ヘンリー_親子.bin.lz",
+      "csv": "csv/シャンブレー_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ベルベット_親子.bin.lz",
+      "display_file": "シャンブレー_ベルベット_親子.bin.lz",
+      "csv": "csv/シャンブレー_ベルベット_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_マルス.bin.lz",
+      "display_file": "シャンブレー_マルス.bin.lz",
+      "csv": "csv/シャンブレー_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_マーク女.bin.lz",
+      "display_file": "シャンブレー_マーク女.bin.lz",
+      "csv": "csv/シャンブレー_マーク女.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_マーク男.bin.lz",
+      "display_file": "シャンブレー_マーク男.bin.lz",
+      "csv": "csv/シャンブレー_マーク男.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_リヒト_親子.bin.lz",
+      "display_file": "シャンブレー_リヒト_親子.bin.lz",
+      "csv": "csv/シャンブレー_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_リベラ_親子.bin.lz",
+      "display_file": "シャンブレー_リベラ_親子.bin.lz",
+      "csv": "csv/シャンブレー_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ロラン.bin.lz",
+      "display_file": "シャンブレー_ロラン.bin.lz",
+      "csv": "csv/シャンブレー_ロラン.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ロンクー_親子.bin.lz",
+      "display_file": "シャンブレー_ロンクー_親子.bin.lz",
+      "csv": "csv/シャンブレー_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ンン.bin.lz",
+      "display_file": "シャンブレー_ンン.bin.lz",
+      "csv": "csv/シャンブレー_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ヴィオール_親子.bin.lz",
+      "display_file": "シャンブレー_ヴィオール_親子.bin.lz",
+      "csv": "csv/シャンブレー_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シャンブレー_ヴェイク_親子.bin.lz",
+      "display_file": "シャンブレー_ヴェイク_親子.bin.lz",
+      "csv": "csv/シャンブレー_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_ガイア_親子.bin.lz",
+      "display_file": "シンシア_ガイア_親子.bin.lz",
+      "csv": "csv/シンシア_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_クロム_親子.bin.lz",
+      "display_file": "シンシア_クロム_親子.bin.lz",
+      "csv": "csv/シンシア_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_スミア_親子.bin.lz",
+      "display_file": "シンシア_スミア_親子.bin.lz",
+      "csv": "csv/シンシア_スミア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_セレナ.bin.lz",
+      "display_file": "シンシア_セレナ.bin.lz",
+      "csv": "csv/シンシア_セレナ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_フレデリク_親子.bin.lz",
+      "display_file": "シンシア_フレデリク_親子.bin.lz",
+      "csv": "csv/シンシア_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_ブレディ.bin.lz",
+      "display_file": "シンシア_ブレディ.bin.lz",
+      "csv": "csv/シンシア_ブレディ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_プレイヤー女.bin.lz",
+      "display_file": "シンシア_プレイヤー女.bin.lz",
+      "csv": "csv/シンシア_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_プレイヤー男.bin.lz",
+      "display_file": "シンシア_プレイヤー男.bin.lz",
+      "csv": "csv/シンシア_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_プレイヤー男_親子.bin.lz",
+      "display_file": "シンシア_プレイヤー男_親子.bin.lz",
+      "csv": "csv/シンシア_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_ヘンリー_親子.bin.lz",
+      "display_file": "シンシア_ヘンリー_親子.bin.lz",
+      "csv": "csv/シンシア_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_マルス.bin.lz",
+      "display_file": "シンシア_マルス.bin.lz",
+      "csv": "csv/シンシア_マルス.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_マーク男.bin.lz",
+      "display_file": "シンシア_マーク男.bin.lz",
+      "csv": "csv/シンシア_マーク男.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_ロラン.bin.lz",
+      "display_file": "シンシア_ロラン.bin.lz",
+      "csv": "csv/シンシア_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "シンシア_ンン.bin.lz",
+      "display_file": "シンシア_ンン.bin.lz",
+      "csv": "csv/シンシア_ンン.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_カラム_親子.bin.lz",
+      "display_file": "ジェローム_カラム_親子.bin.lz",
+      "csv": "csv/ジェローム_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ガイア_親子.bin.lz",
+      "display_file": "ジェローム_ガイア_親子.bin.lz",
+      "csv": "csv/ジェローム_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_グレゴ_親子.bin.lz",
+      "display_file": "ジェローム_グレゴ_親子.bin.lz",
+      "csv": "csv/ジェローム_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_シンシア.bin.lz",
+      "display_file": "ジェローム_シンシア.bin.lz",
+      "csv": "csv/ジェローム_シンシア.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_セルジュ_親子.bin.lz",
+      "display_file": "ジェローム_セルジュ_親子.bin.lz",
+      "csv": "csv/ジェローム_セルジュ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_セレナ.bin.lz",
+      "display_file": "ジェローム_セレナ.bin.lz",
+      "csv": "csv/ジェローム_セレナ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ソール_親子.bin.lz",
+      "display_file": "ジェローム_ソール_親子.bin.lz",
+      "csv": "csv/ジェローム_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_デジェル.bin.lz",
+      "display_file": "ジェローム_デジェル.bin.lz",
+      "csv": "csv/ジェローム_デジェル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ドニ_親子.bin.lz",
+      "display_file": "ジェローム_ドニ_親子.bin.lz",
+      "csv": "csv/ジェローム_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ノワール.bin.lz",
+      "display_file": "ジェローム_ノワール.bin.lz",
+      "csv": "csv/ジェローム_ノワール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_フレデリク_親子.bin.lz",
+      "display_file": "ジェローム_フレデリク_親子.bin.lz",
+      "csv": "csv/ジェローム_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_プレイヤー女.bin.lz",
+      "display_file": "ジェローム_プレイヤー女.bin.lz",
+      "csv": "csv/ジェローム_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_プレイヤー男.bin.lz",
+      "display_file": "ジェローム_プレイヤー男.bin.lz",
+      "csv": "csv/ジェローム_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_プレイヤー男_親子.bin.lz",
+      "display_file": "ジェローム_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ジェローム_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ヘンリー_親子.bin.lz",
+      "display_file": "ジェローム_ヘンリー_親子.bin.lz",
+      "csv": "csv/ジェローム_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_マルス.bin.lz",
+      "display_file": "ジェローム_マルス.bin.lz",
+      "csv": "csv/ジェローム_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_マーク女.bin.lz",
+      "display_file": "ジェローム_マーク女.bin.lz",
+      "csv": "csv/ジェローム_マーク女.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_リヒト_親子.bin.lz",
+      "display_file": "ジェローム_リヒト_親子.bin.lz",
+      "csv": "csv/ジェローム_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_リベラ_親子.bin.lz",
+      "display_file": "ジェローム_リベラ_親子.bin.lz",
+      "csv": "csv/ジェローム_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ロラン.bin.lz",
+      "display_file": "ジェローム_ロラン.bin.lz",
+      "csv": "csv/ジェローム_ロラン.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ロンクー_親子.bin.lz",
+      "display_file": "ジェローム_ロンクー_親子.bin.lz",
+      "csv": "csv/ジェローム_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ンン.bin.lz",
+      "display_file": "ジェローム_ンン.bin.lz",
+      "csv": "csv/ジェローム_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ヴィオール_親子.bin.lz",
+      "display_file": "ジェローム_ヴィオール_親子.bin.lz",
+      "csv": "csv/ジェローム_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ジェローム_ヴェイク_親子.bin.lz",
+      "display_file": "ジェローム_ヴェイク_親子.bin.lz",
+      "csv": "csv/ジェローム_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_ソワレ.bin.lz",
+      "display_file": "スミア_ソワレ.bin.lz",
+      "csv": "csv/スミア_ソワレ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_ティアモ.bin.lz",
+      "display_file": "スミア_ティアモ.bin.lz",
+      "csv": "csv/スミア_ティアモ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_フレデリク.bin.lz",
+      "display_file": "スミア_フレデリク.bin.lz",
+      "csv": "csv/スミア_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_プレイヤー女.bin.lz",
+      "display_file": "スミア_プレイヤー女.bin.lz",
+      "csv": "csv/スミア_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_プレイヤー男.bin.lz",
+      "display_file": "スミア_プレイヤー男.bin.lz",
+      "csv": "csv/スミア_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "スミア_ヘンリー.bin.lz",
+      "display_file": "スミア_ヘンリー.bin.lz",
+      "csv": "csv/スミア_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ソール.bin.lz",
+      "display_file": "セルジュ_ソール.bin.lz",
+      "csv": "csv/セルジュ_ソール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ドニ.bin.lz",
+      "display_file": "セルジュ_ドニ.bin.lz",
+      "csv": "csv/セルジュ_ドニ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ノノ.bin.lz",
+      "display_file": "セルジュ_ノノ.bin.lz",
+      "csv": "csv/セルジュ_ノノ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_フレデリク.bin.lz",
+      "display_file": "セルジュ_フレデリク.bin.lz",
+      "csv": "csv/セルジュ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_プレイヤー女.bin.lz",
+      "display_file": "セルジュ_プレイヤー女.bin.lz",
+      "csv": "csv/セルジュ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_プレイヤー男.bin.lz",
+      "display_file": "セルジュ_プレイヤー男.bin.lz",
+      "csv": "csv/セルジュ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ヘンリー.bin.lz",
+      "display_file": "セルジュ_ヘンリー.bin.lz",
+      "csv": "csv/セルジュ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ミリエル.bin.lz",
+      "display_file": "セルジュ_ミリエル.bin.lz",
+      "csv": "csv/セルジュ_ミリエル.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_リヒト.bin.lz",
+      "display_file": "セルジュ_リヒト.bin.lz",
+      "csv": "csv/セルジュ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_リベラ.bin.lz",
+      "display_file": "セルジュ_リベラ.bin.lz",
+      "csv": "csv/セルジュ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セルジュ_ロンクー.bin.lz",
+      "display_file": "セルジュ_ロンクー.bin.lz",
+      "csv": "csv/セルジュ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_カラム_親子.bin.lz",
+      "display_file": "セレナ_カラム_親子.bin.lz",
+      "csv": "csv/セレナ_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ガイア_親子.bin.lz",
+      "display_file": "セレナ_ガイア_親子.bin.lz",
+      "csv": "csv/セレナ_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_グレゴ_親子.bin.lz",
+      "display_file": "セレナ_グレゴ_親子.bin.lz",
+      "csv": "csv/セレナ_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ソール_親子.bin.lz",
+      "display_file": "セレナ_ソール_親子.bin.lz",
+      "csv": "csv/セレナ_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ティアモ_親子.bin.lz",
+      "display_file": "セレナ_ティアモ_親子.bin.lz",
+      "csv": "csv/セレナ_ティアモ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_デジェル.bin.lz",
+      "display_file": "セレナ_デジェル.bin.lz",
+      "csv": "csv/セレナ_デジェル.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ドニ_親子.bin.lz",
+      "display_file": "セレナ_ドニ_親子.bin.lz",
+      "csv": "csv/セレナ_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ノワール.bin.lz",
+      "display_file": "セレナ_ノワール.bin.lz",
+      "csv": "csv/セレナ_ノワール.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_フレデリク_親子.bin.lz",
+      "display_file": "セレナ_フレデリク_親子.bin.lz",
+      "csv": "csv/セレナ_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ブレディ.bin.lz",
+      "display_file": "セレナ_ブレディ.bin.lz",
+      "csv": "csv/セレナ_ブレディ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_プレイヤー女.bin.lz",
+      "display_file": "セレナ_プレイヤー女.bin.lz",
+      "csv": "csv/セレナ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_プレイヤー男.bin.lz",
+      "display_file": "セレナ_プレイヤー男.bin.lz",
+      "csv": "csv/セレナ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_プレイヤー男_親子.bin.lz",
+      "display_file": "セレナ_プレイヤー男_親子.bin.lz",
+      "csv": "csv/セレナ_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ヘンリー_親子.bin.lz",
+      "display_file": "セレナ_ヘンリー_親子.bin.lz",
+      "csv": "csv/セレナ_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_マーク男.bin.lz",
+      "display_file": "セレナ_マーク男.bin.lz",
+      "csv": "csv/セレナ_マーク男.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_リヒト_親子.bin.lz",
+      "display_file": "セレナ_リヒト_親子.bin.lz",
+      "csv": "csv/セレナ_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_リベラ_親子.bin.lz",
+      "display_file": "セレナ_リベラ_親子.bin.lz",
+      "csv": "csv/セレナ_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ロラン.bin.lz",
+      "display_file": "セレナ_ロラン.bin.lz",
+      "csv": "csv/セレナ_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ロンクー_親子.bin.lz",
+      "display_file": "セレナ_ロンクー_親子.bin.lz",
+      "csv": "csv/セレナ_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ヴィオール_親子.bin.lz",
+      "display_file": "セレナ_ヴィオール_親子.bin.lz",
+      "csv": "csv/セレナ_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "セレナ_ヴェイク_親子.bin.lz",
+      "display_file": "セレナ_ヴェイク_親子.bin.lz",
+      "csv": "csv/セレナ_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_ソール.bin.lz",
+      "display_file": "ソワレ_ソール.bin.lz",
+      "csv": "csv/ソワレ_ソール.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_ドニ.bin.lz",
+      "display_file": "ソワレ_ドニ.bin.lz",
+      "csv": "csv/ソワレ_ドニ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_フレデリク.bin.lz",
+      "display_file": "ソワレ_フレデリク.bin.lz",
+      "csv": "csv/ソワレ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_プレイヤー女.bin.lz",
+      "display_file": "ソワレ_プレイヤー女.bin.lz",
+      "csv": "csv/ソワレ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_プレイヤー男.bin.lz",
+      "display_file": "ソワレ_プレイヤー男.bin.lz",
+      "csv": "csv/ソワレ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_ヘンリー.bin.lz",
+      "display_file": "ソワレ_ヘンリー.bin.lz",
+      "csv": "csv/ソワレ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_ミリエル.bin.lz",
+      "display_file": "ソワレ_ミリエル.bin.lz",
+      "csv": "csv/ソワレ_ミリエル.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_リヒト.bin.lz",
+      "display_file": "ソワレ_リヒト.bin.lz",
+      "csv": "csv/ソワレ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_リベラ.bin.lz",
+      "display_file": "ソワレ_リベラ.bin.lz",
+      "csv": "csv/ソワレ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソワレ_ロンクー.bin.lz",
+      "display_file": "ソワレ_ロンクー.bin.lz",
+      "csv": "csv/ソワレ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_ティアモ.bin.lz",
+      "display_file": "ソール_ティアモ.bin.lz",
+      "csv": "csv/ソール_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_ドニ.bin.lz",
+      "display_file": "ソール_ドニ.bin.lz",
+      "csv": "csv/ソール_ドニ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_ノノ.bin.lz",
+      "display_file": "ソール_ノノ.bin.lz",
+      "csv": "csv/ソール_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_プレイヤー女.bin.lz",
+      "display_file": "ソール_プレイヤー女.bin.lz",
+      "csv": "csv/ソール_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_プレイヤー男.bin.lz",
+      "display_file": "ソール_プレイヤー男.bin.lz",
+      "csv": "csv/ソール_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_ベルベット.bin.lz",
+      "display_file": "ソール_ベルベット.bin.lz",
+      "csv": "csv/ソール_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_マリアベル.bin.lz",
+      "display_file": "ソール_マリアベル.bin.lz",
+      "csv": "csv/ソール_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_ミリエル.bin.lz",
+      "display_file": "ソール_ミリエル.bin.lz",
+      "csv": "csv/ソール_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ソール_リズ.bin.lz",
+      "display_file": "ソール_リズ.bin.lz",
+      "csv": "csv/ソール_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "チキ_プレイヤー女.bin.lz",
+      "display_file": "チキ_プレイヤー女.bin.lz",
+      "csv": "csv/チキ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "チキ_プレイヤー男.bin.lz",
+      "display_file": "チキ_プレイヤー男.bin.lz",
+      "csv": "csv/チキ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "チキ_マルス.bin.lz",
+      "display_file": "チキ_マルス.bin.lz",
+      "csv": "csv/チキ_マルス.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "チキ_ンン.bin.lz",
+      "display_file": "チキ_ンン.bin.lz",
+      "csv": "csv/チキ_ンン.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "チュートリアル.bin.lz",
+      "display_file": "チュートリアル.bin.lz",
+      "csv": "csv/チュートリアル.csv",
+      "records": 158,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_ドニ.bin.lz",
+      "display_file": "ティアモ_ドニ.bin.lz",
+      "csv": "csv/ティアモ_ドニ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_フレデリク.bin.lz",
+      "display_file": "ティアモ_フレデリク.bin.lz",
+      "csv": "csv/ティアモ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_プレイヤー女.bin.lz",
+      "display_file": "ティアモ_プレイヤー女.bin.lz",
+      "csv": "csv/ティアモ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_プレイヤー男.bin.lz",
+      "display_file": "ティアモ_プレイヤー男.bin.lz",
+      "csv": "csv/ティアモ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_ヘンリー.bin.lz",
+      "display_file": "ティアモ_ヘンリー.bin.lz",
+      "csv": "csv/ティアモ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_ベルベット.bin.lz",
+      "display_file": "ティアモ_ベルベット.bin.lz",
+      "csv": "csv/ティアモ_ベルベット.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_リヒト.bin.lz",
+      "display_file": "ティアモ_リヒト.bin.lz",
+      "csv": "csv/ティアモ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_リベラ.bin.lz",
+      "display_file": "ティアモ_リベラ.bin.lz",
+      "csv": "csv/ティアモ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ティアモ_ロンクー.bin.lz",
+      "display_file": "ティアモ_ロンクー.bin.lz",
+      "csv": "csv/ティアモ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_カラム_親子.bin.lz",
+      "display_file": "デジェル_カラム_親子.bin.lz",
+      "csv": "csv/デジェル_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ガイア_親子.bin.lz",
+      "display_file": "デジェル_ガイア_親子.bin.lz",
+      "csv": "csv/デジェル_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_クロム_親子.bin.lz",
+      "display_file": "デジェル_クロム_親子.bin.lz",
+      "csv": "csv/デジェル_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_グレゴ_親子.bin.lz",
+      "display_file": "デジェル_グレゴ_親子.bin.lz",
+      "csv": "csv/デジェル_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ソワレ_親子.bin.lz",
+      "display_file": "デジェル_ソワレ_親子.bin.lz",
+      "csv": "csv/デジェル_ソワレ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ソール_親子.bin.lz",
+      "display_file": "デジェル_ソール_親子.bin.lz",
+      "csv": "csv/デジェル_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ドニ_親子.bin.lz",
+      "display_file": "デジェル_ドニ_親子.bin.lz",
+      "csv": "csv/デジェル_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_フレデリク_親子.bin.lz",
+      "display_file": "デジェル_フレデリク_親子.bin.lz",
+      "csv": "csv/デジェル_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ブレディ.bin.lz",
+      "display_file": "デジェル_ブレディ.bin.lz",
+      "csv": "csv/デジェル_ブレディ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_プレイヤー女.bin.lz",
+      "display_file": "デジェル_プレイヤー女.bin.lz",
+      "csv": "csv/デジェル_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_プレイヤー男.bin.lz",
+      "display_file": "デジェル_プレイヤー男.bin.lz",
+      "csv": "csv/デジェル_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_プレイヤー男_親子.bin.lz",
+      "display_file": "デジェル_プレイヤー男_親子.bin.lz",
+      "csv": "csv/デジェル_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ヘンリー_親子.bin.lz",
+      "display_file": "デジェル_ヘンリー_親子.bin.lz",
+      "csv": "csv/デジェル_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_マルス.bin.lz",
+      "display_file": "デジェル_マルス.bin.lz",
+      "csv": "csv/デジェル_マルス.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_マーク男.bin.lz",
+      "display_file": "デジェル_マーク男.bin.lz",
+      "csv": "csv/デジェル_マーク男.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_リヒト_親子.bin.lz",
+      "display_file": "デジェル_リヒト_親子.bin.lz",
+      "csv": "csv/デジェル_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_リベラ_親子.bin.lz",
+      "display_file": "デジェル_リベラ_親子.bin.lz",
+      "csv": "csv/デジェル_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ロラン.bin.lz",
+      "display_file": "デジェル_ロラン.bin.lz",
+      "csv": "csv/デジェル_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ロンクー_親子.bin.lz",
+      "display_file": "デジェル_ロンクー_親子.bin.lz",
+      "csv": "csv/デジェル_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ヴィオール_親子.bin.lz",
+      "display_file": "デジェル_ヴィオール_親子.bin.lz",
+      "csv": "csv/デジェル_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "デジェル_ヴェイク_親子.bin.lz",
+      "display_file": "デジェル_ヴェイク_親子.bin.lz",
+      "csv": "csv/デジェル_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_ノノ.bin.lz",
+      "display_file": "ドニ_ノノ.bin.lz",
+      "csv": "csv/ドニ_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_プレイヤー女.bin.lz",
+      "display_file": "ドニ_プレイヤー女.bin.lz",
+      "csv": "csv/ドニ_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_プレイヤー男.bin.lz",
+      "display_file": "ドニ_プレイヤー男.bin.lz",
+      "csv": "csv/ドニ_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_ベルベット.bin.lz",
+      "display_file": "ドニ_ベルベット.bin.lz",
+      "csv": "csv/ドニ_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_マリアベル.bin.lz",
+      "display_file": "ドニ_マリアベル.bin.lz",
+      "csv": "csv/ドニ_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_ミリエル.bin.lz",
+      "display_file": "ドニ_ミリエル.bin.lz",
+      "csv": "csv/ドニ_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ドニ_リズ.bin.lz",
+      "display_file": "ドニ_リズ.bin.lz",
+      "csv": "csv/ドニ_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_フレデリク.bin.lz",
+      "display_file": "ノノ_フレデリク.bin.lz",
+      "csv": "csv/ノノ_フレデリク.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_プレイヤー女.bin.lz",
+      "display_file": "ノノ_プレイヤー女.bin.lz",
+      "csv": "csv/ノノ_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_プレイヤー男.bin.lz",
+      "display_file": "ノノ_プレイヤー男.bin.lz",
+      "csv": "csv/ノノ_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_ヘンリー.bin.lz",
+      "display_file": "ノノ_ヘンリー.bin.lz",
+      "csv": "csv/ノノ_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_リヒト.bin.lz",
+      "display_file": "ノノ_リヒト.bin.lz",
+      "csv": "csv/ノノ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_リベラ.bin.lz",
+      "display_file": "ノノ_リベラ.bin.lz",
+      "csv": "csv/ノノ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノノ_ロンクー.bin.lz",
+      "display_file": "ノノ_ロンクー.bin.lz",
+      "csv": "csv/ノノ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_カラム_親子.bin.lz",
+      "display_file": "ノワール_カラム_親子.bin.lz",
+      "csv": "csv/ノワール_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ガイア_親子.bin.lz",
+      "display_file": "ノワール_ガイア_親子.bin.lz",
+      "csv": "csv/ノワール_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_グレゴ_親子.bin.lz",
+      "display_file": "ノワール_グレゴ_親子.bin.lz",
+      "csv": "csv/ノワール_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_サーリャ_親子.bin.lz",
+      "display_file": "ノワール_サーリャ_親子.bin.lz",
+      "csv": "csv/ノワール_サーリャ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ソール_親子.bin.lz",
+      "display_file": "ノワール_ソール_親子.bin.lz",
+      "csv": "csv/ノワール_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ドニ_親子.bin.lz",
+      "display_file": "ノワール_ドニ_親子.bin.lz",
+      "csv": "csv/ノワール_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_フレデリク_親子.bin.lz",
+      "display_file": "ノワール_フレデリク_親子.bin.lz",
+      "csv": "csv/ノワール_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ブレディ.bin.lz",
+      "display_file": "ノワール_ブレディ.bin.lz",
+      "csv": "csv/ノワール_ブレディ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_プレイヤー女.bin.lz",
+      "display_file": "ノワール_プレイヤー女.bin.lz",
+      "csv": "csv/ノワール_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_プレイヤー男.bin.lz",
+      "display_file": "ノワール_プレイヤー男.bin.lz",
+      "csv": "csv/ノワール_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_プレイヤー男_親子.bin.lz",
+      "display_file": "ノワール_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ノワール_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ヘンリー_親子.bin.lz",
+      "display_file": "ノワール_ヘンリー_親子.bin.lz",
+      "csv": "csv/ノワール_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_マーク女.bin.lz",
+      "display_file": "ノワール_マーク女.bin.lz",
+      "csv": "csv/ノワール_マーク女.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_マーク男.bin.lz",
+      "display_file": "ノワール_マーク男.bin.lz",
+      "csv": "csv/ノワール_マーク男.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_リヒト_親子.bin.lz",
+      "display_file": "ノワール_リヒト_親子.bin.lz",
+      "csv": "csv/ノワール_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_リベラ_親子.bin.lz",
+      "display_file": "ノワール_リベラ_親子.bin.lz",
+      "csv": "csv/ノワール_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ロラン.bin.lz",
+      "display_file": "ノワール_ロラン.bin.lz",
+      "csv": "csv/ノワール_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ロンクー_親子.bin.lz",
+      "display_file": "ノワール_ロンクー_親子.bin.lz",
+      "csv": "csv/ノワール_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ヴィオール_親子.bin.lz",
+      "display_file": "ノワール_ヴィオール_親子.bin.lz",
+      "csv": "csv/ノワール_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ノワール_ヴェイク_親子.bin.lz",
+      "display_file": "ノワール_ヴェイク_親子.bin.lz",
+      "csv": "csv/ノワール_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "バジーリオ_フラヴィア.bin.lz",
+      "display_file": "バジーリオ_フラヴィア.bin.lz",
+      "csv": "csv/バジーリオ_フラヴィア.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "バジーリオ_プレイヤー女.bin.lz",
+      "display_file": "バジーリオ_プレイヤー女.bin.lz",
+      "csv": "csv/バジーリオ_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "バジーリオ_プレイヤー男.bin.lz",
+      "display_file": "バジーリオ_プレイヤー男.bin.lz",
+      "csv": "csv/バジーリオ_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "パリス_プレイヤー女.bin.lz",
+      "display_file": "パリス_プレイヤー女.bin.lz",
+      "csv": "csv/パリス_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "パリス_プレイヤー男.bin.lz",
+      "display_file": "パリス_プレイヤー男.bin.lz",
+      "csv": "csv/パリス_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "フラヴィア_プレイヤー女.bin.lz",
+      "display_file": "フラヴィア_プレイヤー女.bin.lz",
+      "csv": "csv/フラヴィア_プレイヤー女.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "フラヴィア_プレイヤー男.bin.lz",
+      "display_file": "フラヴィア_プレイヤー男.bin.lz",
+      "csv": "csv/フラヴィア_プレイヤー男.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "フレデリク_ヘンリー.bin.lz",
+      "display_file": "フレデリク_ヘンリー.bin.lz",
+      "csv": "csv/フレデリク_ヘンリー.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "フレデリク_ベルベット.bin.lz",
+      "display_file": "フレデリク_ベルベット.bin.lz",
+      "csv": "csv/フレデリク_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "フレデリク_マリアベル.bin.lz",
+      "display_file": "フレデリク_マリアベル.bin.lz",
+      "csv": "csv/フレデリク_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "フレデリク_ミリエル.bin.lz",
+      "display_file": "フレデリク_ミリエル.bin.lz",
+      "csv": "csv/フレデリク_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "フレデリク_リズ.bin.lz",
+      "display_file": "フレデリク_リズ.bin.lz",
+      "csv": "csv/フレデリク_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_カラム_親子.bin.lz",
+      "display_file": "ブレディ_カラム_親子.bin.lz",
+      "csv": "csv/ブレディ_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ガイア_親子.bin.lz",
+      "display_file": "ブレディ_ガイア_親子.bin.lz",
+      "csv": "csv/ブレディ_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_クロム_親子.bin.lz",
+      "display_file": "ブレディ_クロム_親子.bin.lz",
+      "csv": "csv/ブレディ_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_グレゴ_親子.bin.lz",
+      "display_file": "ブレディ_グレゴ_親子.bin.lz",
+      "csv": "csv/ブレディ_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ソール_親子.bin.lz",
+      "display_file": "ブレディ_ソール_親子.bin.lz",
+      "csv": "csv/ブレディ_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ドニ_親子.bin.lz",
+      "display_file": "ブレディ_ドニ_親子.bin.lz",
+      "csv": "csv/ブレディ_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_フレデリク_親子.bin.lz",
+      "display_file": "ブレディ_フレデリク_親子.bin.lz",
+      "csv": "csv/ブレディ_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_プレイヤー男_親子.bin.lz",
+      "display_file": "ブレディ_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ブレディ_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ヘンリー_親子.bin.lz",
+      "display_file": "ブレディ_ヘンリー_親子.bin.lz",
+      "csv": "csv/ブレディ_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_マリアベル_親子.bin.lz",
+      "display_file": "ブレディ_マリアベル_親子.bin.lz",
+      "csv": "csv/ブレディ_マリアベル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_マルス.bin.lz",
+      "display_file": "ブレディ_マルス.bin.lz",
+      "csv": "csv/ブレディ_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_マーク女.bin.lz",
+      "display_file": "ブレディ_マーク女.bin.lz",
+      "csv": "csv/ブレディ_マーク女.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_リヒト_親子.bin.lz",
+      "display_file": "ブレディ_リヒト_親子.bin.lz",
+      "csv": "csv/ブレディ_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_リベラ_親子.bin.lz",
+      "display_file": "ブレディ_リベラ_親子.bin.lz",
+      "csv": "csv/ブレディ_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ロンクー_親子.bin.lz",
+      "display_file": "ブレディ_ロンクー_親子.bin.lz",
+      "csv": "csv/ブレディ_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ンン.bin.lz",
+      "display_file": "ブレディ_ンン.bin.lz",
+      "csv": "csv/ブレディ_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ヴィオール_親子.bin.lz",
+      "display_file": "ブレディ_ヴィオール_親子.bin.lz",
+      "csv": "csv/ブレディ_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ブレディ_ヴェイク_親子.bin.lz",
+      "display_file": "ブレディ_ヴェイク_親子.bin.lz",
+      "csv": "csv/ブレディ_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_フレデリク.bin.lz",
+      "display_file": "プレイヤー女_フレデリク.bin.lz",
+      "csv": "csv/プレイヤー女_フレデリク.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ブレディ.bin.lz",
+      "display_file": "プレイヤー女_ブレディ.bin.lz",
+      "csv": "csv/プレイヤー女_ブレディ.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ヘンリー.bin.lz",
+      "display_file": "プレイヤー女_ヘンリー.bin.lz",
+      "csv": "csv/プレイヤー女_ヘンリー.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ベルベット.bin.lz",
+      "display_file": "プレイヤー女_ベルベット.bin.lz",
+      "csv": "csv/プレイヤー女_ベルベット.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_マリアベル.bin.lz",
+      "display_file": "プレイヤー女_マリアベル.bin.lz",
+      "csv": "csv/プレイヤー女_マリアベル.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_マルス.bin.lz",
+      "display_file": "プレイヤー女_マルス.bin.lz",
+      "csv": "csv/プレイヤー女_マルス.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ミリエル.bin.lz",
+      "display_file": "プレイヤー女_ミリエル.bin.lz",
+      "csv": "csv/プレイヤー女_ミリエル.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_リズ.bin.lz",
+      "display_file": "プレイヤー女_リズ.bin.lz",
+      "csv": "csv/プレイヤー女_リズ.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_リヒト.bin.lz",
+      "display_file": "プレイヤー女_リヒト.bin.lz",
+      "csv": "csv/プレイヤー女_リヒト.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_リベラ.bin.lz",
+      "display_file": "プレイヤー女_リベラ.bin.lz",
+      "csv": "csv/プレイヤー女_リベラ.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_レンハ.bin.lz",
+      "display_file": "プレイヤー女_レンハ.bin.lz",
+      "csv": "csv/プレイヤー女_レンハ.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ロラン.bin.lz",
+      "display_file": "プレイヤー女_ロラン.bin.lz",
+      "csv": "csv/プレイヤー女_ロラン.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ロンクー.bin.lz",
+      "display_file": "プレイヤー女_ロンクー.bin.lz",
+      "csv": "csv/プレイヤー女_ロンクー.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー女_ンン.bin.lz",
+      "display_file": "プレイヤー女_ンン.bin.lz",
+      "csv": "csv/プレイヤー女_ンン.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_フレデリク.bin.lz",
+      "display_file": "プレイヤー男_フレデリク.bin.lz",
+      "csv": "csv/プレイヤー男_フレデリク.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ブレディ.bin.lz",
+      "display_file": "プレイヤー男_ブレディ.bin.lz",
+      "csv": "csv/プレイヤー男_ブレディ.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ヘンリー.bin.lz",
+      "display_file": "プレイヤー男_ヘンリー.bin.lz",
+      "csv": "csv/プレイヤー男_ヘンリー.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ベルベット.bin.lz",
+      "display_file": "プレイヤー男_ベルベット.bin.lz",
+      "csv": "csv/プレイヤー男_ベルベット.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_マリアベル.bin.lz",
+      "display_file": "プレイヤー男_マリアベル.bin.lz",
+      "csv": "csv/プレイヤー男_マリアベル.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_マルス.bin.lz",
+      "display_file": "プレイヤー男_マルス.bin.lz",
+      "csv": "csv/プレイヤー男_マルス.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ミリエル.bin.lz",
+      "display_file": "プレイヤー男_ミリエル.bin.lz",
+      "csv": "csv/プレイヤー男_ミリエル.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_リズ.bin.lz",
+      "display_file": "プレイヤー男_リズ.bin.lz",
+      "csv": "csv/プレイヤー男_リズ.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_リヒト.bin.lz",
+      "display_file": "プレイヤー男_リヒト.bin.lz",
+      "csv": "csv/プレイヤー男_リヒト.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_リベラ.bin.lz",
+      "display_file": "プレイヤー男_リベラ.bin.lz",
+      "csv": "csv/プレイヤー男_リベラ.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_レンハ.bin.lz",
+      "display_file": "プレイヤー男_レンハ.bin.lz",
+      "csv": "csv/プレイヤー男_レンハ.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ロラン.bin.lz",
+      "display_file": "プレイヤー男_ロラン.bin.lz",
+      "csv": "csv/プレイヤー男_ロラン.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ロンクー.bin.lz",
+      "display_file": "プレイヤー男_ロンクー.bin.lz",
+      "csv": "csv/プレイヤー男_ロンクー.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "プレイヤー男_ンン.bin.lz",
+      "display_file": "プレイヤー男_ンン.bin.lz",
+      "csv": "csv/プレイヤー男_ンン.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヘンリー_マリアベル.bin.lz",
+      "display_file": "ヘンリー_マリアベル.bin.lz",
+      "csv": "csv/ヘンリー_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヘンリー_ミリエル.bin.lz",
+      "display_file": "ヘンリー_ミリエル.bin.lz",
+      "csv": "csv/ヘンリー_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヘンリー_リズ.bin.lz",
+      "display_file": "ヘンリー_リズ.bin.lz",
+      "csv": "csv/ヘンリー_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヘンリー_リヒト.bin.lz",
+      "display_file": "ヘンリー_リヒト.bin.lz",
+      "csv": "csv/ヘンリー_リヒト.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ベルベット_ヘンリー.bin.lz",
+      "display_file": "ベルベット_ヘンリー.bin.lz",
+      "csv": "csv/ベルベット_ヘンリー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ベルベット_リヒト.bin.lz",
+      "display_file": "ベルベット_リヒト.bin.lz",
+      "csv": "csv/ベルベット_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ベルベット_リベラ.bin.lz",
+      "display_file": "ベルベット_リベラ.bin.lz",
+      "csv": "csv/ベルベット_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ベルベット_ロンクー.bin.lz",
+      "display_file": "ベルベット_ロンクー.bin.lz",
+      "csv": "csv/ベルベット_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マイルーム挨拶.bin.lz",
+      "display_file": "マイルーム挨拶.bin.lz",
+      "csv": "csv/マイルーム挨拶.csv",
+      "records": 505,
+      "tr_imported": 0
+    },
+    {
+      "file": "マリアベル_リズ.bin.lz",
+      "display_file": "マリアベル_リズ.bin.lz",
+      "csv": "csv/マリアベル_リズ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マリアベル_リヒト.bin.lz",
+      "display_file": "マリアベル_リヒト.bin.lz",
+      "csv": "csv/マリアベル_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マリアベル_リベラ.bin.lz",
+      "display_file": "マリアベル_リベラ.bin.lz",
+      "csv": "csv/マリアベル_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マリアベル_ロンクー.bin.lz",
+      "display_file": "マリアベル_ロンクー.bin.lz",
+      "csv": "csv/マリアベル_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_アズール_兄弟.bin.lz",
+      "display_file": "マルス_アズール_兄弟.bin.lz",
+      "csv": "csv/マルス_アズール_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_オリヴィエ_親子.bin.lz",
+      "display_file": "マルス_オリヴィエ_親子.bin.lz",
+      "csv": "csv/マルス_オリヴィエ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_クロム_親子.bin.lz",
+      "display_file": "マルス_クロム_親子.bin.lz",
+      "csv": "csv/マルス_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_シンシア_兄弟.bin.lz",
+      "display_file": "マルス_シンシア_兄弟.bin.lz",
+      "csv": "csv/マルス_シンシア_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_スミア_親子.bin.lz",
+      "display_file": "マルス_スミア_親子.bin.lz",
+      "csv": "csv/マルス_スミア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_ソワレ_親子.bin.lz",
+      "display_file": "マルス_ソワレ_親子.bin.lz",
+      "csv": "csv/マルス_ソワレ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_デジェル_兄弟.bin.lz",
+      "display_file": "マルス_デジェル_兄弟.bin.lz",
+      "csv": "csv/マルス_デジェル_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_ブレディ_兄弟.bin.lz",
+      "display_file": "マルス_ブレディ_兄弟.bin.lz",
+      "csv": "csv/マルス_ブレディ_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_プレイヤー女_親子.bin.lz",
+      "display_file": "マルス_プレイヤー女_親子.bin.lz",
+      "csv": "csv/マルス_プレイヤー女_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_マリアベル_親子.bin.lz",
+      "display_file": "マルス_マリアベル_親子.bin.lz",
+      "csv": "csv/マルス_マリアベル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_マーク男_兄弟.bin.lz",
+      "display_file": "マルス_マーク男_兄弟.bin.lz",
+      "csv": "csv/マルス_マーク男_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マルス_ロラン.bin.lz",
+      "display_file": "マルス_ロラン.bin.lz",
+      "csv": "csv/マルス_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_アズール_兄弟.bin.lz",
+      "display_file": "マーク女_アズール_兄弟.bin.lz",
+      "csv": "csv/マーク女_アズール_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_アンナ_親子.bin.lz",
+      "display_file": "マーク女_アンナ_親子.bin.lz",
+      "csv": "csv/マーク女_アンナ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_インバース_親子.bin.lz",
+      "display_file": "マーク女_インバース_親子.bin.lz",
+      "csv": "csv/マーク女_インバース_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ウード_兄弟.bin.lz",
+      "display_file": "マーク女_ウード_兄弟.bin.lz",
+      "csv": "csv/マーク女_ウード_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_エメリナ_親子.bin.lz",
+      "display_file": "マーク女_エメリナ_親子.bin.lz",
+      "csv": "csv/マーク女_エメリナ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_オリヴィエ_親子.bin.lz",
+      "display_file": "マーク女_オリヴィエ_親子.bin.lz",
+      "csv": "csv/マーク女_オリヴィエ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_サイリ_親子.bin.lz",
+      "display_file": "マーク女_サイリ_親子.bin.lz",
+      "csv": "csv/マーク女_サイリ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_サーリャ_親子.bin.lz",
+      "display_file": "マーク女_サーリャ_親子.bin.lz",
+      "csv": "csv/マーク女_サーリャ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_シャンブレー_兄弟.bin.lz",
+      "display_file": "マーク女_シャンブレー_兄弟.bin.lz",
+      "csv": "csv/マーク女_シャンブレー_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_シンシア_兄弟.bin.lz",
+      "display_file": "マーク女_シンシア_兄弟.bin.lz",
+      "csv": "csv/マーク女_シンシア_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_シンシア_親子.bin.lz",
+      "display_file": "マーク女_シンシア_親子.bin.lz",
+      "csv": "csv/マーク女_シンシア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ジェローム_兄弟.bin.lz",
+      "display_file": "マーク女_ジェローム_兄弟.bin.lz",
+      "csv": "csv/マーク女_ジェローム_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_スミア_親子.bin.lz",
+      "display_file": "マーク女_スミア_親子.bin.lz",
+      "csv": "csv/マーク女_スミア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_セルジュ_親子.bin.lz",
+      "display_file": "マーク女_セルジュ_親子.bin.lz",
+      "csv": "csv/マーク女_セルジュ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_セレナ_兄弟.bin.lz",
+      "display_file": "マーク女_セレナ_兄弟.bin.lz",
+      "csv": "csv/マーク女_セレナ_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_セレナ_親子.bin.lz",
+      "display_file": "マーク女_セレナ_親子.bin.lz",
+      "csv": "csv/マーク女_セレナ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ソワレ_親子.bin.lz",
+      "display_file": "マーク女_ソワレ_親子.bin.lz",
+      "csv": "csv/マーク女_ソワレ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_チキ_親子.bin.lz",
+      "display_file": "マーク女_チキ_親子.bin.lz",
+      "csv": "csv/マーク女_チキ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ティアモ_親子.bin.lz",
+      "display_file": "マーク女_ティアモ_親子.bin.lz",
+      "csv": "csv/マーク女_ティアモ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_デジェル_兄弟.bin.lz",
+      "display_file": "マーク女_デジェル_兄弟.bin.lz",
+      "csv": "csv/マーク女_デジェル_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_デジェル_親子.bin.lz",
+      "display_file": "マーク女_デジェル_親子.bin.lz",
+      "csv": "csv/マーク女_デジェル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ノノ_親子.bin.lz",
+      "display_file": "マーク女_ノノ_親子.bin.lz",
+      "csv": "csv/マーク女_ノノ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ノワール_兄弟.bin.lz",
+      "display_file": "マーク女_ノワール_兄弟.bin.lz",
+      "csv": "csv/マーク女_ノワール_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ノワール_親子.bin.lz",
+      "display_file": "マーク女_ノワール_親子.bin.lz",
+      "csv": "csv/マーク女_ノワール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_フラヴィア_親子.bin.lz",
+      "display_file": "マーク女_フラヴィア_親子.bin.lz",
+      "csv": "csv/マーク女_フラヴィア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ブレディ_兄弟.bin.lz",
+      "display_file": "マーク女_ブレディ_兄弟.bin.lz",
+      "csv": "csv/マーク女_ブレディ_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_プレイヤー男_親子.bin.lz",
+      "display_file": "マーク女_プレイヤー男_親子.bin.lz",
+      "csv": "csv/マーク女_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ベルベット_親子.bin.lz",
+      "display_file": "マーク女_ベルベット_親子.bin.lz",
+      "csv": "csv/マーク女_ベルベット_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_マリアベル_親子.bin.lz",
+      "display_file": "マーク女_マリアベル_親子.bin.lz",
+      "csv": "csv/マーク女_マリアベル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_マルス_親子.bin.lz",
+      "display_file": "マーク女_マルス_親子.bin.lz",
+      "csv": "csv/マーク女_マルス_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ミリエル_親子.bin.lz",
+      "display_file": "マーク女_ミリエル_親子.bin.lz",
+      "csv": "csv/マーク女_ミリエル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_リズ_親子.bin.lz",
+      "display_file": "マーク女_リズ_親子.bin.lz",
+      "csv": "csv/マーク女_リズ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ロラン.bin.lz",
+      "display_file": "マーク女_ロラン.bin.lz",
+      "csv": "csv/マーク女_ロラン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ロラン_兄弟.bin.lz",
+      "display_file": "マーク女_ロラン_兄弟.bin.lz",
+      "csv": "csv/マーク女_ロラン_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ンン.bin.lz",
+      "display_file": "マーク女_ンン.bin.lz",
+      "csv": "csv/マーク女_ンン.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ンン_兄弟.bin.lz",
+      "display_file": "マーク女_ンン_兄弟.bin.lz",
+      "csv": "csv/マーク女_ンン_兄弟.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク女_ンン_親子.bin.lz",
+      "display_file": "マーク女_ンン_親子.bin.lz",
+      "csv": "csv/マーク女_ンン_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_アズール_親子.bin.lz",
+      "display_file": "マーク男_アズール_親子.bin.lz",
+      "csv": "csv/マーク男_アズール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ウード_親子.bin.lz",
+      "display_file": "マーク男_ウード_親子.bin.lz",
+      "csv": "csv/マーク男_ウード_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_カラム_親子.bin.lz",
+      "display_file": "マーク男_カラム_親子.bin.lz",
+      "csv": "csv/マーク男_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ガイア_親子.bin.lz",
+      "display_file": "マーク男_ガイア_親子.bin.lz",
+      "csv": "csv/マーク男_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ギャンレル_親子.bin.lz",
+      "display_file": "マーク男_ギャンレル_親子.bin.lz",
+      "csv": "csv/マーク男_ギャンレル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_クロム_親子.bin.lz",
+      "display_file": "マーク男_クロム_親子.bin.lz",
+      "csv": "csv/マーク男_クロム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_グレゴ_親子.bin.lz",
+      "display_file": "マーク男_グレゴ_親子.bin.lz",
+      "csv": "csv/マーク男_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_シャンブレー_親子.bin.lz",
+      "display_file": "マーク男_シャンブレー_親子.bin.lz",
+      "csv": "csv/マーク男_シャンブレー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ジェローム_親子.bin.lz",
+      "display_file": "マーク男_ジェローム_親子.bin.lz",
+      "csv": "csv/マーク男_ジェローム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ソール_親子.bin.lz",
+      "display_file": "マーク男_ソール_親子.bin.lz",
+      "csv": "csv/マーク男_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ドニ_親子.bin.lz",
+      "display_file": "マーク男_ドニ_親子.bin.lz",
+      "csv": "csv/マーク男_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_バジーリオ_親子.bin.lz",
+      "display_file": "マーク男_バジーリオ_親子.bin.lz",
+      "csv": "csv/マーク男_バジーリオ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_パリス_親子.bin.lz",
+      "display_file": "マーク男_パリス_親子.bin.lz",
+      "csv": "csv/マーク男_パリス_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_フレデリク_親子.bin.lz",
+      "display_file": "マーク男_フレデリク_親子.bin.lz",
+      "csv": "csv/マーク男_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ブレディ_親子.bin.lz",
+      "display_file": "マーク男_ブレディ_親子.bin.lz",
+      "csv": "csv/マーク男_ブレディ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_プレイヤー女_親子.bin.lz",
+      "display_file": "マーク男_プレイヤー女_親子.bin.lz",
+      "csv": "csv/マーク男_プレイヤー女_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ヘンリー_親子.bin.lz",
+      "display_file": "マーク男_ヘンリー_親子.bin.lz",
+      "csv": "csv/マーク男_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_マルス.bin.lz",
+      "display_file": "マーク男_マルス.bin.lz",
+      "csv": "csv/マーク男_マルス.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_リヒト_親子.bin.lz",
+      "display_file": "マーク男_リヒト_親子.bin.lz",
+      "csv": "csv/マーク男_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_リベラ_親子.bin.lz",
+      "display_file": "マーク男_リベラ_親子.bin.lz",
+      "csv": "csv/マーク男_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_レンハ_親子.bin.lz",
+      "display_file": "マーク男_レンハ_親子.bin.lz",
+      "csv": "csv/マーク男_レンハ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ロラン_親子.bin.lz",
+      "display_file": "マーク男_ロラン_親子.bin.lz",
+      "csv": "csv/マーク男_ロラン_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ロンクー_親子.bin.lz",
+      "display_file": "マーク男_ロンクー_親子.bin.lz",
+      "csv": "csv/マーク男_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ンン.bin.lz",
+      "display_file": "マーク男_ンン.bin.lz",
+      "csv": "csv/マーク男_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ヴァルハルト_親子.bin.lz",
+      "display_file": "マーク男_ヴァルハルト_親子.bin.lz",
+      "csv": "csv/マーク男_ヴァルハルト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ヴィオール_親子.bin.lz",
+      "display_file": "マーク男_ヴィオール_親子.bin.lz",
+      "csv": "csv/マーク男_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "マーク男_ヴェイク_親子.bin.lz",
+      "display_file": "マーク男_ヴェイク_親子.bin.lz",
+      "csv": "csv/マーク男_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ミリエル_リヒト.bin.lz",
+      "display_file": "ミリエル_リヒト.bin.lz",
+      "csv": "csv/ミリエル_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ミリエル_リベラ.bin.lz",
+      "display_file": "ミリエル_リベラ.bin.lz",
+      "csv": "csv/ミリエル_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ミリエル_ロンクー.bin.lz",
+      "display_file": "ミリエル_ロンクー.bin.lz",
+      "csv": "csv/ミリエル_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ムービー.bin.lz",
+      "display_file": "ムービー.bin.lz",
+      "csv": "csv/ムービー.csv",
+      "records": 126,
+      "tr_imported": 0
+    },
+    {
+      "file": "メッセージカード.bin.lz",
+      "display_file": "メッセージカード.bin.lz",
+      "csv": "csv/メッセージカード.csv",
+      "records": 209,
+      "tr_imported": 0
+    },
+    {
+      "file": "ユニットビュアー.bin.lz",
+      "display_file": "ユニットビュアー.bin.lz",
+      "csv": "csv/ユニットビュアー.csv",
+      "records": 127,
+      "tr_imported": 0
+    },
+    {
+      "file": "ユニット作成.bin.lz",
+      "display_file": "ユニット作成.bin.lz",
+      "csv": "csv/ユニット作成.csv",
+      "records": 96,
+      "tr_imported": 0
+    },
+    {
+      "file": "リズ_リヒト.bin.lz",
+      "display_file": "リズ_リヒト.bin.lz",
+      "csv": "csv/リズ_リヒト.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "リズ_リベラ.bin.lz",
+      "display_file": "リズ_リベラ.bin.lz",
+      "csv": "csv/リズ_リベラ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "リズ_ロンクー.bin.lz",
+      "display_file": "リズ_ロンクー.bin.lz",
+      "csv": "csv/リズ_ロンクー.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "レベルアップ.bin.lz",
+      "display_file": "レベルアップ.bin.lz",
+      "csv": "csv/レベルアップ.csv",
+      "records": 342,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_カラム_親子.bin.lz",
+      "display_file": "ロラン_カラム_親子.bin.lz",
+      "csv": "csv/ロラン_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ガイア_親子.bin.lz",
+      "display_file": "ロラン_ガイア_親子.bin.lz",
+      "csv": "csv/ロラン_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_グレゴ_親子.bin.lz",
+      "display_file": "ロラン_グレゴ_親子.bin.lz",
+      "csv": "csv/ロラン_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ソール_親子.bin.lz",
+      "display_file": "ロラン_ソール_親子.bin.lz",
+      "csv": "csv/ロラン_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ドニ_親子.bin.lz",
+      "display_file": "ロラン_ドニ_親子.bin.lz",
+      "csv": "csv/ロラン_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_フレデリク_親子.bin.lz",
+      "display_file": "ロラン_フレデリク_親子.bin.lz",
+      "csv": "csv/ロラン_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_プレイヤー男_親子.bin.lz",
+      "display_file": "ロラン_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ロラン_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ヘンリー_親子.bin.lz",
+      "display_file": "ロラン_ヘンリー_親子.bin.lz",
+      "csv": "csv/ロラン_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ミリエル_親子.bin.lz",
+      "display_file": "ロラン_ミリエル_親子.bin.lz",
+      "csv": "csv/ロラン_ミリエル_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_リヒト_親子.bin.lz",
+      "display_file": "ロラン_リヒト_親子.bin.lz",
+      "csv": "csv/ロラン_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_リベラ_親子.bin.lz",
+      "display_file": "ロラン_リベラ_親子.bin.lz",
+      "csv": "csv/ロラン_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ロンクー_親子.bin.lz",
+      "display_file": "ロラン_ロンクー_親子.bin.lz",
+      "csv": "csv/ロラン_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ンン.bin.lz",
+      "display_file": "ロラン_ンン.bin.lz",
+      "csv": "csv/ロラン_ンン.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ヴィオール_親子.bin.lz",
+      "display_file": "ロラン_ヴィオール_親子.bin.lz",
+      "csv": "csv/ロラン_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ロラン_ヴェイク_親子.bin.lz",
+      "display_file": "ロラン_ヴェイク_親子.bin.lz",
+      "csv": "csv/ロラン_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_カラム_親子.bin.lz",
+      "display_file": "ンン_カラム_親子.bin.lz",
+      "csv": "csv/ンン_カラム_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ガイア_親子.bin.lz",
+      "display_file": "ンン_ガイア_親子.bin.lz",
+      "csv": "csv/ンン_ガイア_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_グレゴ_親子.bin.lz",
+      "display_file": "ンン_グレゴ_親子.bin.lz",
+      "csv": "csv/ンン_グレゴ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ソール_親子.bin.lz",
+      "display_file": "ンン_ソール_親子.bin.lz",
+      "csv": "csv/ンン_ソール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ドニ_親子.bin.lz",
+      "display_file": "ンン_ドニ_親子.bin.lz",
+      "csv": "csv/ンン_ドニ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ノノ_親子.bin.lz",
+      "display_file": "ンン_ノノ_親子.bin.lz",
+      "csv": "csv/ンン_ノノ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_フレデリク_親子.bin.lz",
+      "display_file": "ンン_フレデリク_親子.bin.lz",
+      "csv": "csv/ンン_フレデリク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_プレイヤー男_親子.bin.lz",
+      "display_file": "ンン_プレイヤー男_親子.bin.lz",
+      "csv": "csv/ンン_プレイヤー男_親子.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ヘンリー_親子.bin.lz",
+      "display_file": "ンン_ヘンリー_親子.bin.lz",
+      "csv": "csv/ンン_ヘンリー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_リヒト_親子.bin.lz",
+      "display_file": "ンン_リヒト_親子.bin.lz",
+      "csv": "csv/ンン_リヒト_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_リベラ_親子.bin.lz",
+      "display_file": "ンン_リベラ_親子.bin.lz",
+      "csv": "csv/ンン_リベラ_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ロンクー_親子.bin.lz",
+      "display_file": "ンン_ロンクー_親子.bin.lz",
+      "csv": "csv/ンン_ロンクー_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ヴィオール_親子.bin.lz",
+      "display_file": "ンン_ヴィオール_親子.bin.lz",
+      "csv": "csv/ンン_ヴィオール_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ンン_ヴェイク_親子.bin.lz",
+      "display_file": "ンン_ヴェイク_親子.bin.lz",
+      "csv": "csv/ンン_ヴェイク_親子.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴァルハルト_プレイヤー女.bin.lz",
+      "display_file": "ヴァルハルト_プレイヤー女.bin.lz",
+      "csv": "csv/ヴァルハルト_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴァルハルト_プレイヤー男.bin.lz",
+      "display_file": "ヴァルハルト_プレイヤー男.bin.lz",
+      "csv": "csv/ヴァルハルト_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_オリヴィエ.bin.lz",
+      "display_file": "ヴィオール_オリヴィエ.bin.lz",
+      "csv": "csv/ヴィオール_オリヴィエ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_サーリャ.bin.lz",
+      "display_file": "ヴィオール_サーリャ.bin.lz",
+      "csv": "csv/ヴィオール_サーリャ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_セルジュ.bin.lz",
+      "display_file": "ヴィオール_セルジュ.bin.lz",
+      "csv": "csv/ヴィオール_セルジュ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_ソワレ.bin.lz",
+      "display_file": "ヴィオール_ソワレ.bin.lz",
+      "csv": "csv/ヴィオール_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_ティアモ.bin.lz",
+      "display_file": "ヴィオール_ティアモ.bin.lz",
+      "csv": "csv/ヴィオール_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_ノノ.bin.lz",
+      "display_file": "ヴィオール_ノノ.bin.lz",
+      "csv": "csv/ヴィオール_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_フレデリク.bin.lz",
+      "display_file": "ヴィオール_フレデリク.bin.lz",
+      "csv": "csv/ヴィオール_フレデリク.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_プレイヤー女.bin.lz",
+      "display_file": "ヴィオール_プレイヤー女.bin.lz",
+      "csv": "csv/ヴィオール_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_プレイヤー男.bin.lz",
+      "display_file": "ヴィオール_プレイヤー男.bin.lz",
+      "csv": "csv/ヴィオール_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_ベルベット.bin.lz",
+      "display_file": "ヴィオール_ベルベット.bin.lz",
+      "csv": "csv/ヴィオール_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_マリアベル.bin.lz",
+      "display_file": "ヴィオール_マリアベル.bin.lz",
+      "csv": "csv/ヴィオール_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_ミリエル.bin.lz",
+      "display_file": "ヴィオール_ミリエル.bin.lz",
+      "csv": "csv/ヴィオール_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_リズ.bin.lz",
+      "display_file": "ヴィオール_リズ.bin.lz",
+      "csv": "csv/ヴィオール_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴィオール_リベラ.bin.lz",
+      "display_file": "ヴィオール_リベラ.bin.lz",
+      "csv": "csv/ヴィオール_リベラ.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_オリヴィエ.bin.lz",
+      "display_file": "ヴェイク_オリヴィエ.bin.lz",
+      "csv": "csv/ヴェイク_オリヴィエ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_クロム.bin.lz",
+      "display_file": "ヴェイク_クロム.bin.lz",
+      "csv": "csv/ヴェイク_クロム.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_サーリャ.bin.lz",
+      "display_file": "ヴェイク_サーリャ.bin.lz",
+      "csv": "csv/ヴェイク_サーリャ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_セルジュ.bin.lz",
+      "display_file": "ヴェイク_セルジュ.bin.lz",
+      "csv": "csv/ヴェイク_セルジュ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ソワレ.bin.lz",
+      "display_file": "ヴェイク_ソワレ.bin.lz",
+      "csv": "csv/ヴェイク_ソワレ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ティアモ.bin.lz",
+      "display_file": "ヴェイク_ティアモ.bin.lz",
+      "csv": "csv/ヴェイク_ティアモ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ノノ.bin.lz",
+      "display_file": "ヴェイク_ノノ.bin.lz",
+      "csv": "csv/ヴェイク_ノノ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_プレイヤー女.bin.lz",
+      "display_file": "ヴェイク_プレイヤー女.bin.lz",
+      "csv": "csv/ヴェイク_プレイヤー女.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_プレイヤー男.bin.lz",
+      "display_file": "ヴェイク_プレイヤー男.bin.lz",
+      "csv": "csv/ヴェイク_プレイヤー男.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ベルベット.bin.lz",
+      "display_file": "ヴェイク_ベルベット.bin.lz",
+      "csv": "csv/ヴェイク_ベルベット.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_マリアベル.bin.lz",
+      "display_file": "ヴェイク_マリアベル.bin.lz",
+      "csv": "csv/ヴェイク_マリアベル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ミリエル.bin.lz",
+      "display_file": "ヴェイク_ミリエル.bin.lz",
+      "csv": "csv/ヴェイク_ミリエル.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_リズ.bin.lz",
+      "display_file": "ヴェイク_リズ.bin.lz",
+      "csv": "csv/ヴェイク_リズ.csv",
+      "records": 4,
+      "tr_imported": 0
+    },
+    {
+      "file": "ヴェイク_ロンクー.bin.lz",
+      "display_file": "ヴェイク_ロンクー.bin.lz",
+      "csv": "csv/ヴェイク_ロンクー.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "初期設定.bin.lz",
+      "display_file": "初期設定.bin.lz",
+      "csv": "csv/初期設定.csv",
+      "records": 3,
+      "tr_imported": 0
+    },
+    {
+      "file": "撤退.bin.lz",
+      "display_file": "撤退.bin.lz",
+      "csv": "csv/撤退.csv",
+      "records": 62,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アズール1.bin.lz",
+      "display_file": "様子_アズール1.bin.lz",
+      "csv": "csv/様子_アズール1.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アズール2.bin.lz",
+      "display_file": "様子_アズール2.bin.lz",
+      "csv": "csv/様子_アズール2.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アズール3.bin.lz",
+      "display_file": "様子_アズール3.bin.lz",
+      "csv": "csv/様子_アズール3.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アズール4.bin.lz",
+      "display_file": "様子_アズール4.bin.lz",
+      "csv": "csv/様子_アズール4.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アンナ1.bin.lz",
+      "display_file": "様子_アンナ1.bin.lz",
+      "csv": "csv/様子_アンナ1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アンナ2.bin.lz",
+      "display_file": "様子_アンナ2.bin.lz",
+      "csv": "csv/様子_アンナ2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アンナ3.bin.lz",
+      "display_file": "様子_アンナ3.bin.lz",
+      "csv": "csv/様子_アンナ3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_アンナ4.bin.lz",
+      "display_file": "様子_アンナ4.bin.lz",
+      "csv": "csv/様子_アンナ4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_インバース1.bin.lz",
+      "display_file": "様子_インバース1.bin.lz",
+      "csv": "csv/様子_インバース1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_インバース2.bin.lz",
+      "display_file": "様子_インバース2.bin.lz",
+      "csv": "csv/様子_インバース2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_インバース3.bin.lz",
+      "display_file": "様子_インバース3.bin.lz",
+      "csv": "csv/様子_インバース3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_インバース4.bin.lz",
+      "display_file": "様子_インバース4.bin.lz",
+      "csv": "csv/様子_インバース4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ウード1.bin.lz",
+      "display_file": "様子_ウード1.bin.lz",
+      "csv": "csv/様子_ウード1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ウード2.bin.lz",
+      "display_file": "様子_ウード2.bin.lz",
+      "csv": "csv/様子_ウード2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ウード3.bin.lz",
+      "display_file": "様子_ウード3.bin.lz",
+      "csv": "csv/様子_ウード3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ウード4.bin.lz",
+      "display_file": "様子_ウード4.bin.lz",
+      "csv": "csv/様子_ウード4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_エメリナ1.bin.lz",
+      "display_file": "様子_エメリナ1.bin.lz",
+      "csv": "csv/様子_エメリナ1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_エメリナ2.bin.lz",
+      "display_file": "様子_エメリナ2.bin.lz",
+      "csv": "csv/様子_エメリナ2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_エメリナ3.bin.lz",
+      "display_file": "様子_エメリナ3.bin.lz",
+      "csv": "csv/様子_エメリナ3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_エメリナ4.bin.lz",
+      "display_file": "様子_エメリナ4.bin.lz",
+      "csv": "csv/様子_エメリナ4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_オリヴィエ1.bin.lz",
+      "display_file": "様子_オリヴィエ1.bin.lz",
+      "csv": "csv/様子_オリヴィエ1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_オリヴィエ2.bin.lz",
+      "display_file": "様子_オリヴィエ2.bin.lz",
+      "csv": "csv/様子_オリヴィエ2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_オリヴィエ3.bin.lz",
+      "display_file": "様子_オリヴィエ3.bin.lz",
+      "csv": "csv/様子_オリヴィエ3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_オリヴィエ4.bin.lz",
+      "display_file": "様子_オリヴィエ4.bin.lz",
+      "csv": "csv/様子_オリヴィエ4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_カラム1.bin.lz",
+      "display_file": "様子_カラム1.bin.lz",
+      "csv": "csv/様子_カラム1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_カラム2.bin.lz",
+      "display_file": "様子_カラム2.bin.lz",
+      "csv": "csv/様子_カラム2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_カラム3.bin.lz",
+      "display_file": "様子_カラム3.bin.lz",
+      "csv": "csv/様子_カラム3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_カラム4.bin.lz",
+      "display_file": "様子_カラム4.bin.lz",
+      "csv": "csv/様子_カラム4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ガイア1.bin.lz",
+      "display_file": "様子_ガイア1.bin.lz",
+      "csv": "csv/様子_ガイア1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ガイア2.bin.lz",
+      "display_file": "様子_ガイア2.bin.lz",
+      "csv": "csv/様子_ガイア2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ガイア3.bin.lz",
+      "display_file": "様子_ガイア3.bin.lz",
+      "csv": "csv/様子_ガイア3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ガイア4.bin.lz",
+      "display_file": "様子_ガイア4.bin.lz",
+      "csv": "csv/様子_ガイア4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ギャンレル1.bin.lz",
+      "display_file": "様子_ギャンレル1.bin.lz",
+      "csv": "csv/様子_ギャンレル1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ギャンレル2.bin.lz",
+      "display_file": "様子_ギャンレル2.bin.lz",
+      "csv": "csv/様子_ギャンレル2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ギャンレル3.bin.lz",
+      "display_file": "様子_ギャンレル3.bin.lz",
+      "csv": "csv/様子_ギャンレル3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ギャンレル4.bin.lz",
+      "display_file": "様子_ギャンレル4.bin.lz",
+      "csv": "csv/様子_ギャンレル4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_クロム1.bin.lz",
+      "display_file": "様子_クロム1.bin.lz",
+      "csv": "csv/様子_クロム1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_クロム2.bin.lz",
+      "display_file": "様子_クロム2.bin.lz",
+      "csv": "csv/様子_クロム2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_クロム3.bin.lz",
+      "display_file": "様子_クロム3.bin.lz",
+      "csv": "csv/様子_クロム3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_クロム4.bin.lz",
+      "display_file": "様子_クロム4.bin.lz",
+      "csv": "csv/様子_クロム4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_グレゴ1.bin.lz",
+      "display_file": "様子_グレゴ1.bin.lz",
+      "csv": "csv/様子_グレゴ1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_グレゴ2.bin.lz",
+      "display_file": "様子_グレゴ2.bin.lz",
+      "csv": "csv/様子_グレゴ2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_グレゴ3.bin.lz",
+      "display_file": "様子_グレゴ3.bin.lz",
+      "csv": "csv/様子_グレゴ3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_グレゴ4.bin.lz",
+      "display_file": "様子_グレゴ4.bin.lz",
+      "csv": "csv/様子_グレゴ4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サイリ1.bin.lz",
+      "display_file": "様子_サイリ1.bin.lz",
+      "csv": "csv/様子_サイリ1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サイリ2.bin.lz",
+      "display_file": "様子_サイリ2.bin.lz",
+      "csv": "csv/様子_サイリ2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サイリ3.bin.lz",
+      "display_file": "様子_サイリ3.bin.lz",
+      "csv": "csv/様子_サイリ3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サイリ4.bin.lz",
+      "display_file": "様子_サイリ4.bin.lz",
+      "csv": "csv/様子_サイリ4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サーリャ1.bin.lz",
+      "display_file": "様子_サーリャ1.bin.lz",
+      "csv": "csv/様子_サーリャ1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サーリャ2.bin.lz",
+      "display_file": "様子_サーリャ2.bin.lz",
+      "csv": "csv/様子_サーリャ2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サーリャ3.bin.lz",
+      "display_file": "様子_サーリャ3.bin.lz",
+      "csv": "csv/様子_サーリャ3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_サーリャ4.bin.lz",
+      "display_file": "様子_サーリャ4.bin.lz",
+      "csv": "csv/様子_サーリャ4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シャンブレー1.bin.lz",
+      "display_file": "様子_シャンブレー1.bin.lz",
+      "csv": "csv/様子_シャンブレー1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シャンブレー2.bin.lz",
+      "display_file": "様子_シャンブレー2.bin.lz",
+      "csv": "csv/様子_シャンブレー2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シャンブレー3.bin.lz",
+      "display_file": "様子_シャンブレー3.bin.lz",
+      "csv": "csv/様子_シャンブレー3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シャンブレー4.bin.lz",
+      "display_file": "様子_シャンブレー4.bin.lz",
+      "csv": "csv/様子_シャンブレー4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シンシア1.bin.lz",
+      "display_file": "様子_シンシア1.bin.lz",
+      "csv": "csv/様子_シンシア1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シンシア2.bin.lz",
+      "display_file": "様子_シンシア2.bin.lz",
+      "csv": "csv/様子_シンシア2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シンシア3.bin.lz",
+      "display_file": "様子_シンシア3.bin.lz",
+      "csv": "csv/様子_シンシア3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_シンシア4.bin.lz",
+      "display_file": "様子_シンシア4.bin.lz",
+      "csv": "csv/様子_シンシア4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ジェローム1.bin.lz",
+      "display_file": "様子_ジェローム1.bin.lz",
+      "csv": "csv/様子_ジェローム1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ジェローム2.bin.lz",
+      "display_file": "様子_ジェローム2.bin.lz",
+      "csv": "csv/様子_ジェローム2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ジェローム3.bin.lz",
+      "display_file": "様子_ジェローム3.bin.lz",
+      "csv": "csv/様子_ジェローム3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ジェローム4.bin.lz",
+      "display_file": "様子_ジェローム4.bin.lz",
+      "csv": "csv/様子_ジェローム4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_スミア1.bin.lz",
+      "display_file": "様子_スミア1.bin.lz",
+      "csv": "csv/様子_スミア1.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_スミア2.bin.lz",
+      "display_file": "様子_スミア2.bin.lz",
+      "csv": "csv/様子_スミア2.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_スミア3.bin.lz",
+      "display_file": "様子_スミア3.bin.lz",
+      "csv": "csv/様子_スミア3.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_スミア4.bin.lz",
+      "display_file": "様子_スミア4.bin.lz",
+      "csv": "csv/様子_スミア4.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セルジュ1.bin.lz",
+      "display_file": "様子_セルジュ1.bin.lz",
+      "csv": "csv/様子_セルジュ1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セルジュ2.bin.lz",
+      "display_file": "様子_セルジュ2.bin.lz",
+      "csv": "csv/様子_セルジュ2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セルジュ3.bin.lz",
+      "display_file": "様子_セルジュ3.bin.lz",
+      "csv": "csv/様子_セルジュ3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セルジュ4.bin.lz",
+      "display_file": "様子_セルジュ4.bin.lz",
+      "csv": "csv/様子_セルジュ4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セレナ1.bin.lz",
+      "display_file": "様子_セレナ1.bin.lz",
+      "csv": "csv/様子_セレナ1.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セレナ2.bin.lz",
+      "display_file": "様子_セレナ2.bin.lz",
+      "csv": "csv/様子_セレナ2.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セレナ3.bin.lz",
+      "display_file": "様子_セレナ3.bin.lz",
+      "csv": "csv/様子_セレナ3.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_セレナ4.bin.lz",
+      "display_file": "様子_セレナ4.bin.lz",
+      "csv": "csv/様子_セレナ4.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソワレ1.bin.lz",
+      "display_file": "様子_ソワレ1.bin.lz",
+      "csv": "csv/様子_ソワレ1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソワレ2.bin.lz",
+      "display_file": "様子_ソワレ2.bin.lz",
+      "csv": "csv/様子_ソワレ2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソワレ3.bin.lz",
+      "display_file": "様子_ソワレ3.bin.lz",
+      "csv": "csv/様子_ソワレ3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソワレ4.bin.lz",
+      "display_file": "様子_ソワレ4.bin.lz",
+      "csv": "csv/様子_ソワレ4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソール1.bin.lz",
+      "display_file": "様子_ソール1.bin.lz",
+      "csv": "csv/様子_ソール1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソール2.bin.lz",
+      "display_file": "様子_ソール2.bin.lz",
+      "csv": "csv/様子_ソール2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソール3.bin.lz",
+      "display_file": "様子_ソール3.bin.lz",
+      "csv": "csv/様子_ソール3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ソール4.bin.lz",
+      "display_file": "様子_ソール4.bin.lz",
+      "csv": "csv/様子_ソール4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_チキ1.bin.lz",
+      "display_file": "様子_チキ1.bin.lz",
+      "csv": "csv/様子_チキ1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_チキ2.bin.lz",
+      "display_file": "様子_チキ2.bin.lz",
+      "csv": "csv/様子_チキ2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_チキ3.bin.lz",
+      "display_file": "様子_チキ3.bin.lz",
+      "csv": "csv/様子_チキ3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_チキ4.bin.lz",
+      "display_file": "様子_チキ4.bin.lz",
+      "csv": "csv/様子_チキ4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ティアモ1.bin.lz",
+      "display_file": "様子_ティアモ1.bin.lz",
+      "csv": "csv/様子_ティアモ1.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ティアモ2.bin.lz",
+      "display_file": "様子_ティアモ2.bin.lz",
+      "csv": "csv/様子_ティアモ2.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ティアモ3.bin.lz",
+      "display_file": "様子_ティアモ3.bin.lz",
+      "csv": "csv/様子_ティアモ3.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ティアモ4.bin.lz",
+      "display_file": "様子_ティアモ4.bin.lz",
+      "csv": "csv/様子_ティアモ4.csv",
+      "records": 13,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_デジェル1.bin.lz",
+      "display_file": "様子_デジェル1.bin.lz",
+      "csv": "csv/様子_デジェル1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_デジェル2.bin.lz",
+      "display_file": "様子_デジェル2.bin.lz",
+      "csv": "csv/様子_デジェル2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_デジェル3.bin.lz",
+      "display_file": "様子_デジェル3.bin.lz",
+      "csv": "csv/様子_デジェル3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_デジェル4.bin.lz",
+      "display_file": "様子_デジェル4.bin.lz",
+      "csv": "csv/様子_デジェル4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ドニ1.bin.lz",
+      "display_file": "様子_ドニ1.bin.lz",
+      "csv": "csv/様子_ドニ1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ドニ2.bin.lz",
+      "display_file": "様子_ドニ2.bin.lz",
+      "csv": "csv/様子_ドニ2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ドニ3.bin.lz",
+      "display_file": "様子_ドニ3.bin.lz",
+      "csv": "csv/様子_ドニ3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ドニ4.bin.lz",
+      "display_file": "様子_ドニ4.bin.lz",
+      "csv": "csv/様子_ドニ4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノノ1.bin.lz",
+      "display_file": "様子_ノノ1.bin.lz",
+      "csv": "csv/様子_ノノ1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノノ2.bin.lz",
+      "display_file": "様子_ノノ2.bin.lz",
+      "csv": "csv/様子_ノノ2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノノ3.bin.lz",
+      "display_file": "様子_ノノ3.bin.lz",
+      "csv": "csv/様子_ノノ3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノノ4.bin.lz",
+      "display_file": "様子_ノノ4.bin.lz",
+      "csv": "csv/様子_ノノ4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノワール1.bin.lz",
+      "display_file": "様子_ノワール1.bin.lz",
+      "csv": "csv/様子_ノワール1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノワール2.bin.lz",
+      "display_file": "様子_ノワール2.bin.lz",
+      "csv": "csv/様子_ノワール2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノワール3.bin.lz",
+      "display_file": "様子_ノワール3.bin.lz",
+      "csv": "csv/様子_ノワール3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ノワール4.bin.lz",
+      "display_file": "様子_ノワール4.bin.lz",
+      "csv": "csv/様子_ノワール4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_バジーリオ1.bin.lz",
+      "display_file": "様子_バジーリオ1.bin.lz",
+      "csv": "csv/様子_バジーリオ1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_バジーリオ2.bin.lz",
+      "display_file": "様子_バジーリオ2.bin.lz",
+      "csv": "csv/様子_バジーリオ2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_バジーリオ3.bin.lz",
+      "display_file": "様子_バジーリオ3.bin.lz",
+      "csv": "csv/様子_バジーリオ3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_バジーリオ4.bin.lz",
+      "display_file": "様子_バジーリオ4.bin.lz",
+      "csv": "csv/様子_バジーリオ4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_パリス1.bin.lz",
+      "display_file": "様子_パリス1.bin.lz",
+      "csv": "csv/様子_パリス1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_パリス2.bin.lz",
+      "display_file": "様子_パリス2.bin.lz",
+      "csv": "csv/様子_パリス2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_パリス3.bin.lz",
+      "display_file": "様子_パリス3.bin.lz",
+      "csv": "csv/様子_パリス3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_パリス4.bin.lz",
+      "display_file": "様子_パリス4.bin.lz",
+      "csv": "csv/様子_パリス4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フラヴィア1.bin.lz",
+      "display_file": "様子_フラヴィア1.bin.lz",
+      "csv": "csv/様子_フラヴィア1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フラヴィア2.bin.lz",
+      "display_file": "様子_フラヴィア2.bin.lz",
+      "csv": "csv/様子_フラヴィア2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フラヴィア3.bin.lz",
+      "display_file": "様子_フラヴィア3.bin.lz",
+      "csv": "csv/様子_フラヴィア3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フラヴィア4.bin.lz",
+      "display_file": "様子_フラヴィア4.bin.lz",
+      "csv": "csv/様子_フラヴィア4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フレデリク1.bin.lz",
+      "display_file": "様子_フレデリク1.bin.lz",
+      "csv": "csv/様子_フレデリク1.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フレデリク2.bin.lz",
+      "display_file": "様子_フレデリク2.bin.lz",
+      "csv": "csv/様子_フレデリク2.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フレデリク3.bin.lz",
+      "display_file": "様子_フレデリク3.bin.lz",
+      "csv": "csv/様子_フレデリク3.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_フレデリク4.bin.lz",
+      "display_file": "様子_フレデリク4.bin.lz",
+      "csv": "csv/様子_フレデリク4.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ブレディ1.bin.lz",
+      "display_file": "様子_ブレディ1.bin.lz",
+      "csv": "csv/様子_ブレディ1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ブレディ2.bin.lz",
+      "display_file": "様子_ブレディ2.bin.lz",
+      "csv": "csv/様子_ブレディ2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ブレディ3.bin.lz",
+      "display_file": "様子_ブレディ3.bin.lz",
+      "csv": "csv/様子_ブレディ3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ブレディ4.bin.lz",
+      "display_file": "様子_ブレディ4.bin.lz",
+      "csv": "csv/様子_ブレディ4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー女1.bin.lz",
+      "display_file": "様子_プレイヤー女1.bin.lz",
+      "csv": "csv/様子_プレイヤー女1.csv",
+      "records": 24,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー女2.bin.lz",
+      "display_file": "様子_プレイヤー女2.bin.lz",
+      "csv": "csv/様子_プレイヤー女2.csv",
+      "records": 24,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー女3.bin.lz",
+      "display_file": "様子_プレイヤー女3.bin.lz",
+      "csv": "csv/様子_プレイヤー女3.csv",
+      "records": 24,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー女4.bin.lz",
+      "display_file": "様子_プレイヤー女4.bin.lz",
+      "csv": "csv/様子_プレイヤー女4.csv",
+      "records": 24,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー援軍1.bin.lz",
+      "display_file": "様子_プレイヤー援軍1.bin.lz",
+      "csv": "csv/様子_プレイヤー援軍1.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー援軍2.bin.lz",
+      "display_file": "様子_プレイヤー援軍2.bin.lz",
+      "csv": "csv/様子_プレイヤー援軍2.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー援軍3.bin.lz",
+      "display_file": "様子_プレイヤー援軍3.bin.lz",
+      "csv": "csv/様子_プレイヤー援軍3.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー援軍4.bin.lz",
+      "display_file": "様子_プレイヤー援軍4.bin.lz",
+      "csv": "csv/様子_プレイヤー援軍4.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー男1.bin.lz",
+      "display_file": "様子_プレイヤー男1.bin.lz",
+      "csv": "csv/様子_プレイヤー男1.csv",
+      "records": 26,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー男2.bin.lz",
+      "display_file": "様子_プレイヤー男2.bin.lz",
+      "csv": "csv/様子_プレイヤー男2.csv",
+      "records": 26,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー男3.bin.lz",
+      "display_file": "様子_プレイヤー男3.bin.lz",
+      "csv": "csv/様子_プレイヤー男3.csv",
+      "records": 26,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_プレイヤー男4.bin.lz",
+      "display_file": "様子_プレイヤー男4.bin.lz",
+      "csv": "csv/様子_プレイヤー男4.csv",
+      "records": 26,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヘンリー1.bin.lz",
+      "display_file": "様子_ヘンリー1.bin.lz",
+      "csv": "csv/様子_ヘンリー1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヘンリー2.bin.lz",
+      "display_file": "様子_ヘンリー2.bin.lz",
+      "csv": "csv/様子_ヘンリー2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヘンリー3.bin.lz",
+      "display_file": "様子_ヘンリー3.bin.lz",
+      "csv": "csv/様子_ヘンリー3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヘンリー4.bin.lz",
+      "display_file": "様子_ヘンリー4.bin.lz",
+      "csv": "csv/様子_ヘンリー4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ベルベット1.bin.lz",
+      "display_file": "様子_ベルベット1.bin.lz",
+      "csv": "csv/様子_ベルベット1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ベルベット2.bin.lz",
+      "display_file": "様子_ベルベット2.bin.lz",
+      "csv": "csv/様子_ベルベット2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ベルベット3.bin.lz",
+      "display_file": "様子_ベルベット3.bin.lz",
+      "csv": "csv/様子_ベルベット3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ベルベット4.bin.lz",
+      "display_file": "様子_ベルベット4.bin.lz",
+      "csv": "csv/様子_ベルベット4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マリアベル1.bin.lz",
+      "display_file": "様子_マリアベル1.bin.lz",
+      "csv": "csv/様子_マリアベル1.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マリアベル2.bin.lz",
+      "display_file": "様子_マリアベル2.bin.lz",
+      "csv": "csv/様子_マリアベル2.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マリアベル3.bin.lz",
+      "display_file": "様子_マリアベル3.bin.lz",
+      "csv": "csv/様子_マリアベル3.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マリアベル4.bin.lz",
+      "display_file": "様子_マリアベル4.bin.lz",
+      "csv": "csv/様子_マリアベル4.csv",
+      "records": 12,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マルス1.bin.lz",
+      "display_file": "様子_マルス1.bin.lz",
+      "csv": "csv/様子_マルス1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マルス2.bin.lz",
+      "display_file": "様子_マルス2.bin.lz",
+      "csv": "csv/様子_マルス2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マルス3.bin.lz",
+      "display_file": "様子_マルス3.bin.lz",
+      "csv": "csv/様子_マルス3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マルス4.bin.lz",
+      "display_file": "様子_マルス4.bin.lz",
+      "csv": "csv/様子_マルス4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク女1.bin.lz",
+      "display_file": "様子_マーク女1.bin.lz",
+      "csv": "csv/様子_マーク女1.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク女2.bin.lz",
+      "display_file": "様子_マーク女2.bin.lz",
+      "csv": "csv/様子_マーク女2.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク女3.bin.lz",
+      "display_file": "様子_マーク女3.bin.lz",
+      "csv": "csv/様子_マーク女3.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク女4.bin.lz",
+      "display_file": "様子_マーク女4.bin.lz",
+      "csv": "csv/様子_マーク女4.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク男1.bin.lz",
+      "display_file": "様子_マーク男1.bin.lz",
+      "csv": "csv/様子_マーク男1.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク男2.bin.lz",
+      "display_file": "様子_マーク男2.bin.lz",
+      "csv": "csv/様子_マーク男2.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク男3.bin.lz",
+      "display_file": "様子_マーク男3.bin.lz",
+      "csv": "csv/様子_マーク男3.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_マーク男4.bin.lz",
+      "display_file": "様子_マーク男4.bin.lz",
+      "csv": "csv/様子_マーク男4.csv",
+      "records": 8,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ミリエル1.bin.lz",
+      "display_file": "様子_ミリエル1.bin.lz",
+      "csv": "csv/様子_ミリエル1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ミリエル2.bin.lz",
+      "display_file": "様子_ミリエル2.bin.lz",
+      "csv": "csv/様子_ミリエル2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ミリエル3.bin.lz",
+      "display_file": "様子_ミリエル3.bin.lz",
+      "csv": "csv/様子_ミリエル3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ミリエル4.bin.lz",
+      "display_file": "様子_ミリエル4.bin.lz",
+      "csv": "csv/様子_ミリエル4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リズ1.bin.lz",
+      "display_file": "様子_リズ1.bin.lz",
+      "csv": "csv/様子_リズ1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リズ2.bin.lz",
+      "display_file": "様子_リズ2.bin.lz",
+      "csv": "csv/様子_リズ2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リズ3.bin.lz",
+      "display_file": "様子_リズ3.bin.lz",
+      "csv": "csv/様子_リズ3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リズ4.bin.lz",
+      "display_file": "様子_リズ4.bin.lz",
+      "csv": "csv/様子_リズ4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リヒト1.bin.lz",
+      "display_file": "様子_リヒト1.bin.lz",
+      "csv": "csv/様子_リヒト1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リヒト2.bin.lz",
+      "display_file": "様子_リヒト2.bin.lz",
+      "csv": "csv/様子_リヒト2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リヒト3.bin.lz",
+      "display_file": "様子_リヒト3.bin.lz",
+      "csv": "csv/様子_リヒト3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リヒト4.bin.lz",
+      "display_file": "様子_リヒト4.bin.lz",
+      "csv": "csv/様子_リヒト4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リベラ1.bin.lz",
+      "display_file": "様子_リベラ1.bin.lz",
+      "csv": "csv/様子_リベラ1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リベラ2.bin.lz",
+      "display_file": "様子_リベラ2.bin.lz",
+      "csv": "csv/様子_リベラ2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リベラ3.bin.lz",
+      "display_file": "様子_リベラ3.bin.lz",
+      "csv": "csv/様子_リベラ3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_リベラ4.bin.lz",
+      "display_file": "様子_リベラ4.bin.lz",
+      "csv": "csv/様子_リベラ4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_レンハ1.bin.lz",
+      "display_file": "様子_レンハ1.bin.lz",
+      "csv": "csv/様子_レンハ1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_レンハ2.bin.lz",
+      "display_file": "様子_レンハ2.bin.lz",
+      "csv": "csv/様子_レンハ2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_レンハ3.bin.lz",
+      "display_file": "様子_レンハ3.bin.lz",
+      "csv": "csv/様子_レンハ3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_レンハ4.bin.lz",
+      "display_file": "様子_レンハ4.bin.lz",
+      "csv": "csv/様子_レンハ4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロラン1.bin.lz",
+      "display_file": "様子_ロラン1.bin.lz",
+      "csv": "csv/様子_ロラン1.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロラン2.bin.lz",
+      "display_file": "様子_ロラン2.bin.lz",
+      "csv": "csv/様子_ロラン2.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロラン3.bin.lz",
+      "display_file": "様子_ロラン3.bin.lz",
+      "csv": "csv/様子_ロラン3.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロラン4.bin.lz",
+      "display_file": "様子_ロラン4.bin.lz",
+      "csv": "csv/様子_ロラン4.csv",
+      "records": 14,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロンクー1.bin.lz",
+      "display_file": "様子_ロンクー1.bin.lz",
+      "csv": "csv/様子_ロンクー1.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロンクー2.bin.lz",
+      "display_file": "様子_ロンクー2.bin.lz",
+      "csv": "csv/様子_ロンクー2.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロンクー3.bin.lz",
+      "display_file": "様子_ロンクー3.bin.lz",
+      "csv": "csv/様子_ロンクー3.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ロンクー4.bin.lz",
+      "display_file": "様子_ロンクー4.bin.lz",
+      "csv": "csv/様子_ロンクー4.csv",
+      "records": 9,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ンン1.bin.lz",
+      "display_file": "様子_ンン1.bin.lz",
+      "csv": "csv/様子_ンン1.csv",
+      "records": 16,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ンン2.bin.lz",
+      "display_file": "様子_ンン2.bin.lz",
+      "csv": "csv/様子_ンン2.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ンン3.bin.lz",
+      "display_file": "様子_ンン3.bin.lz",
+      "csv": "csv/様子_ンン3.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ンン4.bin.lz",
+      "display_file": "様子_ンン4.bin.lz",
+      "csv": "csv/様子_ンン4.csv",
+      "records": 15,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴァルハルト1.bin.lz",
+      "display_file": "様子_ヴァルハルト1.bin.lz",
+      "csv": "csv/様子_ヴァルハルト1.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴァルハルト2.bin.lz",
+      "display_file": "様子_ヴァルハルト2.bin.lz",
+      "csv": "csv/様子_ヴァルハルト2.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴァルハルト3.bin.lz",
+      "display_file": "様子_ヴァルハルト3.bin.lz",
+      "csv": "csv/様子_ヴァルハルト3.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴァルハルト4.bin.lz",
+      "display_file": "様子_ヴァルハルト4.bin.lz",
+      "csv": "csv/様子_ヴァルハルト4.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴィオール1.bin.lz",
+      "display_file": "様子_ヴィオール1.bin.lz",
+      "csv": "csv/様子_ヴィオール1.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴィオール2.bin.lz",
+      "display_file": "様子_ヴィオール2.bin.lz",
+      "csv": "csv/様子_ヴィオール2.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴィオール3.bin.lz",
+      "display_file": "様子_ヴィオール3.bin.lz",
+      "csv": "csv/様子_ヴィオール3.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴィオール4.bin.lz",
+      "display_file": "様子_ヴィオール4.bin.lz",
+      "csv": "csv/様子_ヴィオール4.csv",
+      "records": 10,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴェイク1.bin.lz",
+      "display_file": "様子_ヴェイク1.bin.lz",
+      "csv": "csv/様子_ヴェイク1.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴェイク2.bin.lz",
+      "display_file": "様子_ヴェイク2.bin.lz",
+      "csv": "csv/様子_ヴェイク2.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴェイク3.bin.lz",
+      "display_file": "様子_ヴェイク3.bin.lz",
+      "csv": "csv/様子_ヴェイク3.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_ヴェイク4.bin.lz",
+      "display_file": "様子_ヴェイク4.bin.lz",
+      "csv": "csv/様子_ヴェイク4.csv",
+      "records": 11,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_拾得.bin.lz",
+      "display_file": "様子_拾得.bin.lz",
+      "csv": "csv/様子_拾得.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_旧マルス1.bin.lz",
+      "display_file": "様子_旧マルス1.bin.lz",
+      "csv": "csv/様子_旧マルス1.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_旧マルス2.bin.lz",
+      "display_file": "様子_旧マルス2.bin.lz",
+      "csv": "csv/様子_旧マルス2.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_旧マルス3.bin.lz",
+      "display_file": "様子_旧マルス3.bin.lz",
+      "csv": "csv/様子_旧マルス3.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_旧マルス4.bin.lz",
+      "display_file": "様子_旧マルス4.bin.lz",
+      "csv": "csv/様子_旧マルス4.csv",
+      "records": 2,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_武器経験.bin.lz",
+      "display_file": "様子_武器経験.bin.lz",
+      "csv": "csv/様子_武器経験.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_経験.bin.lz",
+      "display_file": "様子_経験.bin.lz",
+      "csv": "csv/様子_経験.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "様子_能力.bin.lz",
+      "display_file": "様子_能力.bin.lz",
+      "csv": "csv/様子_能力.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "死亡.bin.lz",
+      "display_file": "死亡.bin.lz",
+      "csv": "csv/死亡.csv",
+      "records": 62,
+      "tr_imported": 0
+    },
+    {
+      "file": "独り言.bin.lz",
+      "display_file": "独り言.bin.lz",
+      "csv": "csv/独り言.csv",
+      "records": 57,
+      "tr_imported": 0
+    },
+    {
+      "file": "相性占い.bin.lz",
+      "display_file": "相性占い.bin.lz",
+      "csv": "csv/相性占い.csv",
+      "records": 144,
+      "tr_imported": 0
+    },
+    {
+      "file": "紹介文.bin.lz",
+      "display_file": "紹介文.bin.lz",
+      "csv": "csv/紹介文.csv",
+      "records": 96,
+      "tr_imported": 0
+    },
+    {
+      "file": "通信.bin.lz",
+      "display_file": "通信.bin.lz",
+      "csv": "csv/通信.csv",
+      "records": 69,
+      "tr_imported": 0
+    },
+    {
+      "file": "遭遇戦.bin.lz",
+      "display_file": "遭遇戦.bin.lz",
+      "csv": "csv/遭遇戦.csv",
+      "records": 7,
+      "tr_imported": 0
+    },
+    {
+      "file": "配信.bin.lz",
+      "display_file": "配信.bin.lz",
+      "csv": "csv/配信.csv",
+      "records": 771,
+      "tr_imported": 0
+    }
+  ]
+}

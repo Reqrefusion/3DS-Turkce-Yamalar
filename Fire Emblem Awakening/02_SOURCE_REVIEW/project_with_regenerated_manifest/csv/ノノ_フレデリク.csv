@@ -1,0 +1,936 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_ノノ_フレデリク_Ｃ,"$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi.$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|Hiiiiii !$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Qu'est-ce que... ?! Mais, attendez !$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Oui ? Qu'y a-t-il ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Pourquoi vouliez-vous fuir, Nowi ?
+Vous aurais-je fait peur ?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|J'ai fait un cauchemar la nuit dernière,
+quelqu'un me volait mon panier de fruits.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah. Je vois...$k$pEuh... Non, en fait, je ne vois pas. Quel est
+le rapport ? Pourquoi me fuyez-vous ?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Parce que c'était VOUS le voleur,
+et que je tiens à mes fruits !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Cela m'attriste d'apprendre que je vous
+ai causé du tort, même en rêve.$k$p$E怒,|Peut-être accepteriez-vous ma ration
+de fruits de ce soir en compensation ?$k$pEt peut-être voudrez-vous bien me rendre
+un service, également ?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_8|Pour une ration de fruits supplémentaire,
+demandez-moi ce que vous voulez !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Eh bien, j'espérais que nous pourrions
+passer plus de temps ensemble.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|Oui... Euh, non. Ça ne vaut pas des fruits.
+Et puis... vous n'êtes pas trop mon type.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|Mademoiselle ! Ce n'est pas ce que vous
+croyez ! Quelle idée saugrenue...$k$pJ'aimerais voir votre puissance
+de dragon à l'œuvre.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Hein ? Mais pourquoi ?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_9|Les chances de croiser un dragon
+sont plutôt faibles.$k$pEn affronter un serait une expérience
+très enrichissante !$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Mais ne seriez-vous pas terrorisé ?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Si, c'est pourquoi j'ai besoin de votre aide.
+La peur de l'inconnu est la plus dangereuse.$k$pEt j'aimerais réussir à dépasser cette peur.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|Je ne sais pas si c'est une très bonne idée...$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_18|Et pour deux rations de fruits, alors ?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|Oh ! Les fruits ! C'est vrai, j'avais presque
+oublié ! Dans ce cas, pas de problème !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi.$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|Iiieks!$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Wa--
+Nein, wartet!$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Ja? Was gibt es?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Warum wolltet Ihr fliehen, meine Dame?
+Habe ich Euch irgendwie verärgert?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Letzte Nacht hatte ich einen Albtraum.$k$pJemand stahl mir meinen Korb
+mit Früchten.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Oh. Ja, ich verstehe, dass eine solche
+Sache...$k$pObwohl, eigentlich nicht. Weshalb brachte
+das Euch dazu, davonzulaufen?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Weil DU der Dieb warst und ich nicht noch
+mehr Früchte verlieren wollte!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Das ist bedauerlich. Ich würde Euch niemals
+ein Leid antun wollen - auch nicht im Traum.$k$p$E怒,|Vielleicht löst es das Problem, wenn ich
+Euch heute Abend meine Früchte überlasse?$k$pUnd Ihr müsstet dafür nur eine Kleinigkeit
+für mich tun.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_8|Für eine Extraportion Früchte würde ich
+alles tun!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Nun denn, ich hatte gehofft, wir könnten
+etwas mehr Zeit miteinander verbringen.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|...Ähm, nein. Für kein Obst der Welt.
+Außerdem bist du wirklich nicht mein Typ.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|Meine Dame! Das war nicht als Antrag
+gemeint! Welch unehrenhafte Vorstellung!$k$p...Ich wollte, dass Ihr mir Eure Macht als
+Drache zeigt.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Häh? Aber warum?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_9|Es gibt nur wenige Gelegenheiten, den
+Kampf mit einem Drachen zu üben.$k$pEs wäre eine ausgesprochen wertvolle
+Erfahrung für mich!$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Aber hättest du denn keine Angst?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Aus diesem Grund brauche ich Eure Hilfe.$k$pDie Angst vor dem Unbekannten ist die
+gefährlichste aller Ängste.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|Ich bin mir irgendwie unschlüssig...$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_18|...Wie wäre es mit zwei Rationen Obst?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|Oh, klar! Das hatte ich beinahe vergessen!
+Alles klar, einverstanden!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi.$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|Uaaah!$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Cosa... No, aspettate!$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Sì? Cosa vuoi?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Perché avete tentato di fuggire, mia
+signora? Vi ho offeso in qualche modo?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Ieri notte ho avuto un incubo.
+Qualcuno mi rubava il cestino della frutta...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah. Certo, capisco che una
+contingenza del genere...$k$pEhm, no, in verità non capisco. Perché
+ciò vi ha fatto fuggire, di grazia?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Perché il ladro eri TU e io
+ci tengo alla mia frutta!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Deplorevole. Mi rammarica avervi fatto
+un tale torto... seppur in sogno.$k$p$E怒,|Forse potrei fare ammenda offrendovi
+la mia porzione di frutta questa sera?$k$pVi chiederei solo una modesta
+cortesia in cambio.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_8|Per della frutta extra, farei qualsiasi cosa!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Ebbene, auspicavo di poter
+passare più tempo con voi.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|No! La frutta non mi piace così
+tanto. Scusa, ma non sei il mio tipo.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|Mia signora! Non voleva essere una
+proposta! Che idea sconveniente!$k$pMi auguravo che poteste mostrarmi
+la vostra potenza di drago.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Ah? E perché?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_9|Le opportunità di duellare
+con un drago sono rare.$k$pSolo un assaggio di combattimento
+sarebbe un'esperienza preziosa.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Sicuro che non te la farai sotto?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Perciò mi è d'uopo il vostro aiuto. La più
+pericolosa delle paure è quella dell'ignoto.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|Non sono convinta...$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_18|E se vi offrissi due porzioni di frutta?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|Giusto! Quasi dimenticavo!
+Va bene, d'accordo!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi...$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|¡Ayyy!$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|¡¿Qu...?! ¡No, esperad!$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|A ver, ¿qué ocurre?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|¿Por qué queríais huir, mi señora?
+¿He hecho algo que os haya molestado?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Anoche tuve una pesadilla. Soñé que
+alguien me robaba la cesta de la fruta.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ajá... Sí, ya entiendo...$k$pBueno... En realidad, no. ¿Qué relación
+tiene eso con que salgáis corriendo?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|¡Pues que, en mi sueño, TÚ eras el ladrón
+y yo no quería perder mi fruta!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Lamento grandemente el haberos
+agraviado, incluso en el plano onírico.$k$p$E怒,|Permitid que os ceda mi ración de fruta
+de esta tarde como acto de redención.$k$pAunque querría proponeros una cosa
+a cambio...$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_8|¡Lo que haga falta por
+un poco de fruta!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Bien, pues me gustaría que
+pasáramos más tiempo juntos.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|Vale, no. Eso no lo haría ni por toda la fruta
+del mundo. Además, no eres mi tipo.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|¡Mi señora! ¡Mi proposición no iba por ese
+camino! ¡Qué idea más deshonrosa!$k$pQuiero que me mostréis hasta dónde
+llega el poder de un dragón.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|¿De verdad?
+¿Por qué?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_9|Veréis... Luchar contra un dragón no es algo
+que ocurra con demasiada frecuencia.$k$p¡Y seguro que hasta un combate de práctica
+ha de ser una experiencia sin igual!$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Pero lo más probable es que te
+espantes y todo eso, ¿no?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Por eso necesito vuestra ayuda: el miedo a
+lo desconocido es el más peligroso.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|No lo tengo muy claro...$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_18|¿Dos raciones
+de fruta?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|¡Ah, es verdad! ¡Casi se me olvida!
+¡Muy bien, de acuerdo!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi.$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|Eeek!$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Wh―?! No, wait!$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Yes? What is it?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Why did you attempt to flee, milady?
+Have I done something to anger you?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Last night, I had a nightmare about my
+basket of fruit being stolen...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah. Yes, I see how such a thing
+might be...$k$pEr, except I don't. Why did that
+make you want to run away?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Because YOU were the thief, and I didn't
+want to lose any more fruit!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|This is unfortunate. I hate to think I
+wronged you―dream or otherwise.$k$p$E怒,|Perhaps it would clear the air if I offered
+you my ration of fruit this evening?$k$pAnd I only ask one small thing in return.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_8|For extra fruit, I'll do anything!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|Well then, I was hoping we might
+spend more time together.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|...Yeah, no. That's not worth fruit.
+Plus you're not really my type.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|Milady! I did NOT mean it as a proposal!
+What a dishonourable idea!$k$p...I want you to show me your
+dragon might.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Huh? But why?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_9|Opportunities to spar with a dragon
+are few and far between.$k$pTo get even a taste of dragon combat
+would be a most valuable experience!$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Won't you be all
+scared and stuff?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_15|That is why I need your help. Fear of the
+unknown is the fear most dangerous.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|I'm not sure about this...$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_18|...You'd have two
+rations of fruit?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|Oh, right! I almost forgot!
+Okay, sure!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvjSE_VOICE_FREDERIK_EVT_9|$SveSE_VOICE_FREDERIK_EVT_15|Ah, Nowi.$k
+$Wsノノ|$Wa$E苦,汗|$SvpSE_VOICE_NONO_EVT_18|Eee!$k
+$Wsノノ|$Wd$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Ne?! Hayır, bekle!$k
+$Wmノノ|7$w0|$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_16|Evet? Nedir?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Neden kaçmaya çalıştiniz leydim?
+Seni kızdiracak bir şey mi yaptım?$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_14|Dün gece meyve sepetimin
+çalinmasiyla ilgili bir kabus gördüm...$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_6|Ah. Evet, bunun neden korkutucu
+olabileceğini anlıyorum...$k$p...Aslında hayır, anlamıyorum. Bu neden
+kaçmak istemene sebep oldu?$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_12|Çünkü hırsız SENDİN ve daha fazla
+meyve kaybetmek istemedim!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Bu talihsiz bir durum. Sana haksızlık
+ettiğimi düşünmekten nefret ediyorum -
+rüyanda ya da başka bir şekilde.$k$p$E怒|Belki bu akşam meyve payımı sana versem
+aramız biraz düzelir mi?$k$pVe karşılığında sadece küçük bir şey
+istiyorum.$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_8|Fazladan meyve için her şeyi yaparım!$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_15|O halde birlikte daha fazla zaman
+geçirebileceğimizi umuyordum.$k
+$Wsノノ|$Wa$Eキメ,照|$SvpSE_VOICE_NONO_EVT_7|...Evet, hayır. Bu meyveye değmez. Ayrıca
+sen gerçekten benim tipim değilsin.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_12|Leydim! Bunu bir teklif olarak
+kastetmedim! Ne kadar onursuz bir fikir!$k$p...Bana ejderha kudretini
+göstermeni istiyorum.$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_13|Ha? Ama neden?$k
+$Wsフレデリク|$Wa$E怒|$SvpSE_VOICE_FREDERIK_EVT_9|Bir ejderhayla dövüşme
+firsatlari çok azdır.$k$pEjderha savaşinin tadına varmak bile
+çok değerli bir deneyim olacaktır!$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_6|Hepiniz
+korkmaz mısınız?$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_15|Bu yüzden yardımına ihtiyacım var.
+Bilinmeyenden duyulan korku en tehlikeli
+korkudur.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_12|Bundan emin değilim...$k
+$Wsフレデリク|$Wa$Eキメ|$SvpSE_VOICE_FREDERIK_EVT_18|...İki porsiyon meyve
+ister misin?$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_11|Ah, doğru! Neredeyse unutuyordum!
+Tamam, elbette!$k
+$Sbs1000|"
+1,MID_支援_ノノ_フレデリク_Ｂ,"$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_2|Frederick, tout va bien ?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Gnhhh... Oui... Tout va... parfaitement bien.
+Je sens à peine... cette petite brûlure.$k$pSi je l'ignore, elle finira par guérir...
+Un jour...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|Vous êtes sûr ? Je vous ai brûlé pas mal
+de poils. Ça va repousser de travers...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Oh. Ça a l'air si horrible que ça ?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Hmm... C'est bizarre, il y en qui partent
+dans tous les sens, d'autres frisés...$k$pHi hi ! C'est plutôt drôle en fait !
+Hi hi hi !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_16|Je crois que nous devrions en rester là
+et laisser mon corps récupérer.$k$pCe fut une expérience très enrichissante,
+grâce à vous.$k$pJe dois repartir m'entraîner pendant que la
+douleur est encore vive dans mon esprit.$k
+$Wsノノ|$Wa$E通常,|...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Tout va bien, Nowi ?
+Êtes-vous blessée ?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_10|C'est juste que... vous êtes si stupide !$k$pVous avez vu dans quel état vous êtes ?
+Et sans personne pour s'occuper de vous...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Je me dois d'affronter ces épreuves, si
+je veux pouvoir protéger tout le monde.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Mais pourquoi insistez-vous pour les subir
+tout seul ? Demandez de l'aide !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Où voulez-vous en venir ?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Vous avez dit que vous retourniez vous
+entraîner. Vous y allez seul, n'est-ce pas ?$k$pLa solitude est un mal. Je le sais bien.
+Avant de venir ici, j'étais seule moi aussi.$k$p$E怒,|Je suis triste de vous voir travailler si dur
+sans personne avec vous...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Mademoiselle, votre cœur est tendre
+et généreux.$k$p$E笑,|Mais je ne suis pas seul quand des gens
+comme vous se soucient de mon bien-être.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常,|Alors... vous ne souffrez pas de solitude ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Pas du tout ! Alors, nous battrons-nous à
+nouveau quand mes blessures auront guéri ?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_4|Bien sûr, ce sera amusant !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_2|Frederick, geht es dir gut?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Stöhn... J-ja, meine Dame... Alles gut... Eine
+kleine Verbrennung... K-kaum zu spüren.$k$pWENN ich sie einfach ignoriere... wird sie
+heilen... Früher oder später...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|Wirklich? Ich hab ziemlich viel Haar
+angesengt. Was, wenn es komisch wächst?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Oh... S-sieht es so schlimm aus?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Nun, es ist ganz kraus, stachelig und steht
+in alle Richtungen ab.$k$pHihihi! Eigentlich sieht es ganz witzig aus!
+Hihihihi!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_16|Besser, wir hören erst einmal auf, damit
+sich mein Körper erholen kann.$k$pDas war eine sehr lehrreiche Erfahrung.
+Vielen Dank.$k$pIch muss trainieren, solange der Schmerz
+der Wunden noch frisch ist.$k
+$Wsノノ|$Wa$E通常,|...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Geht es Euch gut, Nowi?
+Seid Ihr verletzt?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_10|Ich denke gerade daran, wie dumm du doch
+bist!$k$pDu verletzt dich so sehr und dabei hast du
+niemanden, der sich um dich kümmert!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Ich muss mich dem Ganzen unterziehen,
+wenn ich alle anderen beschützen will.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Aber warum bestehst du darauf, das allein
+zu machen? Du kannst dir helfen lassen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Worauf wollt Ihr hinaus, meine Dame?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Du sagtest, du willst wieder weiter
+trainieren, richtig? Also, so ganz allein?$k$pAber dann wirst du einsam. Ich weiß das.
+Bevor ich hierher kam, war ich auch allein.$k$p$E怒,|Es macht mich traurig, wenn ich dich allein
+arbeiten und trainieren sehe.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Meine Dame, Ihr habt ein gütiges und
+sanftes Herz.$k$p$E笑,|Aber wie könnte ich einsam sein, wenn
+jemand wie Ihr sich um mein Wohl sorgt?$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常,|Also fühlst du dich gar nicht allein?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Kein Stück! Wenn ich mich erholt habe,
+könnten wir doch wieder trainieren, oder?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_4|Sicher. Das wird lustig!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_2|Frederick, va tutto bene?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Ohi... S-Sì, mia signora, tutto benissimo...
+Una bruciatura insignificante...$k$pQuasi non la sento. Basta che la ignori...
+e guarirà da sé... prima o poi.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|Sicuro? Ti ho incenerito un bel po' di
+capelli. E se ti ricrescessero tutti strani?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Oh. H-Ho un aspetto terribile?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Beh, sono un po' crespi e sparati per aria...
+Sembri un istrice.$k$pIh ih! Sei piuttosto buffo! Ih ih ih!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_16|Allora sarà il caso di sospendere per
+garantirmi un giusto tempo di recupero.$k$pGrazie a voi ho vissuto un'esperienza
+estremamente educativa.$k$pDevo tornare ad allenarmi finché il dolore
+delle ferite è ancora fresco nel mio ricordo.$k
+$Wsノノ|$Wa$E通常,|...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|State bene, Nowi?
+Siete ferita?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_10|Pensavo a quanto sei sciocco!$k$pFarti così male, senza nessuno che
+si prenda cura di te come si deve.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Devo saper affrontare prove come
+questa se voglio proteggere tutti.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Ma perché insisti a farlo da solo?
+Puoi chiedere aiuto.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Dove volete arrivare, mia signora?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Hai detto che vuoi tornare ad allenarti.
+Intendevi da solo, giusto?$k$pMa così ti isoli. E io so cosa significhi.
+Prima di arrivare qui, anch'io ero tutta sola.$k$p$E怒,|Mi rattrista sapere che ti eserciti e ti dai
+da fare senza nessuno a farti compagnia.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Mia signora, avete un cuore dolce e gentile.$k$p$E笑,|Ma non mi sentirò mai solo finché ci sono
+persone come voi a preoccuparsi per me.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常,|Quindi non avverti per niente la solitudine?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Niente affatto. Appena le mie ferite saranno
+guarite, forse potremo combattere ancora?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_4|Certo. Sarà divertente!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_2|Frederick, ¿estás bien?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|¡Aaau! S-sí, mi señora... Estoy bien... Es una
+quemadura muy pequeña... Apenas la noto.$k$pSi no le hago caso... se curará sola...
+Simplemente hay que darle tiempo...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|¿Estás seguro? Te he quemado un montón
+de pelo. ¿Y si crece con una forma rara?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Oh... ¿T-tan mal aspecto tiene?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Bueno... Está bastante alborotado por
+aquí, encrespado por allá...$k$p¡Ji, ji! ¡La verdad es que tienes una pinta
+muy graciosa! ¡Ji, ji, ji!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_16|Entonces será mejor que lo dejemos por
+hoy para que mi cuerpo se recupere.$k$pOs lo agradezco, ha sido una experiencia
+extremadamente instructiva.$k$pAhora debo continuar con mi entrenamiento
+antes de que olvide el dolor de mis heridas.$k
+$Wsノノ|$Wa$E通常,|(...)$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|¿Os encontráis bien, Nowi?
+¿Estáis herida?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_10|¡Estoy pensando en lo estúpido que eres!$k$p¿Cómo puedes dejar que te hieran así si
+no tienes a nadie que te cuide después?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Debo someterme a estas adversidades
+para ser capaz de protegerlos a todos.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Pero ¿por qué insistes en hacerlo todo
+tú solo? ¡Puedes pedir ayuda!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|¿Adónde queréis llegar,
+mi señora?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|Ibas a continuar tu entrenamiento, ¿no?
+Eso quiere decir que no entrenas con nadie.$k$pDebes de sentirte muy solo. Lo sé. Yo
+también me sentía así antes de venir aquí.$k$p$E怒,|Me entristece saber que te entrenas y te
+esfuerzas tanto y nadie te ayuda.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Mi señora, poseéis un corazón amable
+y gentil.$k$p$E笑,|Mas no puedo sentirme solo si sé que
+alguien como vos piensa en mi bienestar.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常,|Entonces, ¿no te sientes solo?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|¡En absoluto! ¿Os gustaría combatir contra
+mí de nuevo cuando me haya recuperado?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_4|Claro que sí. ¡Va a
+ser muy divertido!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_2|Frederick, are you all right?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|*groan* Y-yes, milady... Completely fine...
+Such a small burn... I c-can hardly feel it.$k$pIf I just ignore it, it will heal.
+Eventually...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|Are you sure? I burned off an awful lot
+of hair. What if it grows back all weird?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Oh. D-does it appear grievous?$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_16|Well, it's kind of all frizzy and spiky
+and sticking out.$k$pHee hee! It's actually pretty funny!
+Hee hee hee!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_16|Then we had best stop for now and give
+my body a chance to recover.$k$pThis has been a very educational
+experience, thanks to you.$k$pI must return to my training while the pain
+of the wounds remains fresh in my mind.$k
+$Wsノノ|$Wa$E通常,|...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Are you all right, Nowi?
+Are you injured?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_10|I'm just thinking how stupid you are!$k$pGetting yourself all hurt like that,
+with no one to look after you properly!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|I must put myself through such trials
+if I am to protect everyone.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|But why do you insist on doing it by
+yourself? You can ask for help!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|What are you driving at, milady?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_14|You said you were going to return to
+training, right? Meaning, on your own?$k$pBut that'll make you lonely. I should know.
+Before I came here, I was all alone, too.$k$p$E怒,|It makes me sad to see you working and
+training so hard with no one around you.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Milady, you have a kind and gentle heart.$k$p$E笑,|But I couldn't possibly be lonely when those
+like you are thinking about my welfare.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常,|So you don't feel lonely at all?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Not a bit. So once my wounds have healed,
+perhaps we can spar once again?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_4|Sure. That'll be fun!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_2|Frederick, iyi misin?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|*inilti* E-evet leydim... Tamamen iyi...
+Ne kadar küçük bir yanık... H-pek
+hissetmiyorum.$k$pEğer görmezden gelirsem
+iyileşecek. Sonunda...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_13|Emin misin? Çok fazla saçimi
+yaktim. Ya tuhaf bir şekilde büyürse?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Ah. Aci verici mi görünüyor?$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_16|Biraz kivircik, dikenli ve
+dışarı çıkıyor.$k$pHee hee! Aslında oldukça komik!
+Hee hee hee!$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_16|O halde şimdilik durup vücuduma
+iyileşme şansı versek iyi olur.$k$pBu sizin sayenizde çok
+eğitici bir deneyim oldu.$k$pYaralarin acisi hâlâ
+tazeyken antrenmanima dönmeliyim.$k
+$Wsノノ|$Wa$E通常|...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|İyi misin Nowi?
+Yaralı mısın?$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_10|Ne kadar aptal olduğunu düşünüyorum!$k$pSana doğru dürüst bakacak kimse
+yokken kendini bu şekilde incittin!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Herkesi korumak istiyorsam kendimi bu
+tür sinavlardan geçirmeliyim.$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_12|Peki neden bunu kendi başına yapmakta
+ısrar ediyorsun? Yardım isteyebilirsiniz!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Ne yapmaya çalışıyorsunuz leydim?$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_14|Antrenmanlara döneceğini
+söylemiştin, değil mi? Yani tek başına mı?$k$pAma bu seni yalnızlastiracak. Bilmeliyim.
+Buraya gelmeden önce ben de tamamen
+yalnızdım.$k$p$E怒|Etrafinizda kimse yokken bu kadar sıkı
+çalıştiginizi ve antrenman yaptığinizi
+görmek beni üzüyor.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Hanımefendi, nazik ve yumuşak bir kalbiniz
+var.$k$p$E笑|Ama sizin gibiler benim refahimi
+düşünürken muhtemelen yalnız kalamam.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_8|$E通常|Yani kendini hiç yalnız hissetmiyor musun?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Biraz değil. Yani yaralarim iyileştiginde
+belki bir kez daha dövüşebiliriz?$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_4|Elbette. Bu eğlenceli olacak!$k
+$Sbs1000|"
+2,MID_支援_ノノ_フレデリク_Ａ,"$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, êtes-vous libre pour un autre combat
+d'entraînement ?$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Mais nous nous sommes déjà battus hier !
+ET avant-hier !$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_20|Oui, mais je suis si près de pouvoir
+anticiper vos attaques...$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑,|Oh, D'accord. Si vous tenez tant que ça
+à jouer avec moi...$k$p$E通常,|Pourquoi êtes-vous si obsédé par l'idée
+de mieux combattre ?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_18|Je dois être fort pour protéger Chrom
+et ses alliés. Cette guerre l'exige.$k$pEt puis, mieux je me bats, et mieux je peux
+former les Veilleurs.$k$p$E怒,|Cela réduira le nombre de pertes tout en
+améliorant nos chances de victoire.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|En plus de faire de vous le plus grand héros
+qui soit !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常,|J'en doute. De plus, je ne cours pas après
+les compliments, la gloire ou la célébrité.$k$pMon unique but est d'assurer la survie
+de mes camarades.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Moi, J'ADORE les compliments !$k$pÇa ne vous intéresse pas même un tout
+petit peu, la gloire ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑,|Je suis humain, Nowi. Bien sûr que
+j'apprécie les compliments, moi aussi.$k$p$E通常,|Mais la reconnaissance et la gloire ne
+peuvent pas être des buts en soi.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_9|Waouh ! Vous êtes vraiment un chevalier !$k$pMais QUELQU'UN doit bien vous féliciter
+parfois, alors autant que ce soit moi !$k$pAlors... Bravo, Frederick ! Beau travail !
+Vous êtes le meilleur chevalier du monde !$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Ha ha ! Eh bien, merci, Nowi.
+Vous me rappelez ma mère.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_20|Eh ! N'oubliez pas que je suis votre aînée
+de plusieurs siècles !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Certes. J'oublie trop souvent quelle femme
+sage et mûre vous pouvez être.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Hi hi hi ! J'ADORE les compliments !
+Et vous êtes très doué pour en faire !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Je ne dis que la vérité.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_23|En fait, vous êtes si doué que nous devrions
+passer plus de temps ensemble.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_27|Ce serait avec joie !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, habt Ihr Zeit? Ich hatte auf einen
+weiteren Übungskampf gehofft.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Aber wir haben doch erst gestern
+gekämpft! UND vorgestern auch!$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_20|Ja, aber ich stehe GANZ kurz davor zu
+erkennen, wann Ihr einen Odemangriff nutzt.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑,|Oh, also gut. Wenn du SOOO viel spielen
+magst...$k$p$E通常,|Warum bist du immer so versessen darauf,
+im Kampf besser zu werden?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_18|Ich muss stark sein, damit ich Chrom und
+seine Verbündeten schützen kann.$k$pDas verlangt dieser Krieg von mir.$k$pAußerdem kann ich die Hirten besser
+ausbilden, wenn ich selbst mehr weiß.$k$p$E怒,|So senken wir die Verluste im Kampf und
+erhöhen unsere Chancen auf den Sieg.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|Und es wird dich zum größten Helden der
+Geschichte machen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常,|Unwahrscheinlich. Ich tue dies nicht des
+Lobes, des Ruhmes oder der Ehre wegen.$k$pIch will nur, dass so viele Kameraden diesen
+Krieg überleben wie möglich.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|Ich liebe es mehr als ALLES andere, gelobt
+zu werden!$k$pUnd der ganze Ruhm ist dir wirklich
+vollkommen schnuppe?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑,|Ich bin nur ein Mensch, meine Dame, daher
+weiß ich Lob natürlich sehr zu schätzen.$k$p$E通常,|Doch Bestätigung und Ruhm können nicht
+um ihretwillen allein das Ziel sein.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_9|Donnerwetter, du verhältst dich ja wie ein
+echter Ritter!$k$pAber jemand MUSS dir doch sagen, wie
+klasse du bist. Das kann ich ja übernehmen!$k$pAlso, äh... Toll gemacht, Frederick! Gute
+Arbeit! Du bist der beste unserer Ritter!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Haha! Ich danke Euch, Nowi.
+Ihr erinnert mich an meine Mutter.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_20|Nun, vergiss nicht: Ich BIN um viele
+Jahrhunderte älter als du!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Ja, selbstverständlich. Ich vergesse oftmals,
+dass Ihr eine weise und reife Frau seid.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Hihihihihihi! Jetzt lobst du MICH!
+Und das machst du ausgezeichnet!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Ich sage nur die Wahrheit.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_23|Tatsächlich bist du so gut darin, dass wir
+öfter gemeinsam trainieren sollten.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_27|Es wäre mir ein Vergnügen!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, siete libera? Speravo che
+potessimo duellare ancora.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Ma l'abbiamo già fatto ieri!
+E anche l'altro ieri!$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_20|Sì, ma sono a un soffio dal sapere
+anticipare i vostri attacchi di fuoco.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑,|Oh, va bene. Se ci tieni TANTO...$k$p$E通常,|Perché sei così fissato con il perfezionare
+le tue abilità di combattimento?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_18|Devo essere forte per proteggere Chrom e
+gli altri. Questa guerra lo richiede.$k$pInoltre, più apprendo, più conoscenze
+posso trasmettere agli altri Pastori.$k$p$E怒,|Così potremo ridurre le perdite in battaglia
+e aumentare le nostre chance di vittoria.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|E tu potrai diventare il più
+grande eroe di tutti i tempi!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常,|Inverosimile. Cionondimeno, non lo
+faccio per le lusinghe o la gloria.$k$pIl mio unico intento è garantire la
+sopravvivenza a più compagni possibile.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|A me piacciono le lusinghe
+più di QUALSIASI cosa!$k$pNon ti importa della gloria
+neanche un pochino?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑,|Sono un essere umano, mia signora...
+Gli apprezzamenti sono sempre ben accetti.$k$p$E通常,|Ma la mera approvazione e la gloria
+non possono essere l'unico fine.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_9|Wow, sei un autentico cavaliere!$k$pMa QUALCUNO deve dirti quanto
+sei grande. Quindi lo farò io!$k$pPerciò, ehm... Bravo, Frederick! Ottimo
+lavoro! Sei il miglior cavaliere in assoluto!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Oh, beh, grazie, Nowi.
+Mi ricordate mia madre.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_20|Non dimenticare che io ho qualche
+centinaia d'anni più di te!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Indubbiamente. Spesso dimentico che
+siete una donna saggia e matura.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Uh ih ih! Ora sei tu a lusingarmi!
+E lo sai fare egregiamente!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Dico solo la verità.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_23|Anzi, ti viene così bene che credo che
+dovremmo allenarci a lottare più spesso.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_27|Sarebbe un onore!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, ¿tenéis algo que hacer? Quisiera
+volver a entrenar con vos.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Pero ¡si ya entrenamos juntos ayer!
+¡Y también anteayer!$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_20|Sí, pero estoy a punto de adivinar
+cuándo vais a soltar una llamarada.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑,|Bueno, vale. Si TANTAS ganas tienes
+de jugar...$k$p$E通常,|¿Por qué te obsesiona tanto mejorar
+tus capacidades como guerrero?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_18|Debo ser fuerte para proteger a Chrom y a
+nuestros aliados. Solo así podremos vencer.$k$pAdemás, cuanto más aprenda, más podré
+enseñar a los demás custodios.$k$p$E怒,|Eso reducirá las bajas de cada batalla y
+aumentará las posibilidades de victoria.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|¡Y tú te convertirás en el héroe
+más grande de todos los tiempos!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常,|Lo dudo. Y aunque así fuera, no hago esto
+para conseguir fama, gloria ni alabanzas.$k$pMi único objetivo es que mis camaradas
+salgan con vida de esta guerra.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|¡Pues a mí me ENCANTA que me alaben!$k$p¿Es que la gloria no te importa ni
+siquiera un poquito?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑,|Sigo siendo humano, mi señora, y aprecio
+que mi trabajo sea reconocido.$k$p$E通常,|Pero la gloria y la aprobación no pueden
+ser mi objetivo principal.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_9|¡Dioses! ¡Pareces un caballero de verdad!$k$pPero ALGUIEN debe decirte lo magnífico
+que eres... y ese alguien ¡puedo ser yo!$k$pAsí que... Estooo... ¡Bien hecho, Frederick!
+¡Buen trabajo! ¡No hay nadie como tú!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Je... Vaya, muchas gracias, Nowi.
+Me recordáis a mi madre.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_20|Bueno, al fin y al cabo, te llevo
+unos cuantos siglos, ¿no?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Cierto. A veces olvido que sois
+una mujer sabia y madura.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|¡Ji, ji, ji! Ahora eres tú quien me adula!
+¡Y lo estás haciendo muy bien!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Me limito a decir la verdad.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_23|De hecho, lo haces tan bien que pienso que
+deberíamos pasar más tiempo practicando.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_27|¡Será todo un placer!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, are you free? I was hoping we
+might have another sparring session.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|But we just had a fight yesterday!
+AND the day before that!$k
+$Wsフレデリク|$Wa$Eキメ,|$SvpSE_VOICE_FREDERIK_EVT_20|Yes, but I am so close to anticipating
+when you unleash a breath attack.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑,|Oh, okay. If you want to play THAT much...$k$p$E通常,|Why are you always so obsessed about
+getting better at fighting?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_18|I must be strong so I can protect Chrom
+and our allies. This war demands no less.$k$pAlso, the more I learn, the more I can pass
+on to the other Shepherds.$k$p$E怒,|This will reduce battlefield casualties and
+increase the odds of eventual victory.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_11|And it'll make you the
+biggest hero ever!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常,|Unlikely. And in any case, I do not do
+this for praise or glory.$k$pMy only aim is to ensure that as many of my
+comrades as possible survive this war.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_6|I love being praised more
+than ANYTHING!$k$pDon't you care about the
+glory even just a little bit?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑,|I am but human, milady―any praise that
+comes my way is highly appreciated.$k$p$E通常,|But approbation and glory cannot
+by themselves be your goal.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_9|Gosh, you're just like a real knight!$k$pBut SOMEONE has to tell you how great
+you are―and it might as well be me!$k$pSo, er... Well done, Frederick! Good job!
+You're the best knight ever!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Heh. Why, thank you, Nowi.
+You remind me of my mother.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_20|Well, don't forget, I AM like several
+centuries older than you!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Yes, of course. I often forget that
+you are a wise, mature woman.$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Tee hee hee! Now you're praising ME!
+And you do it ever so well!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|I only speak the truth.$k
+$Wsノノ|$Wa$Eキメ,|$SvpSE_VOICE_NONO_EVT_23|In fact, you're so good at it, I think we
+should spend more time sparring.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_27|It would be my pleasure!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1_2|100|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_9|Nowi, boş musun? Bir idman daha
+yapalım diye düşünüyordum.$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_13|Ama dün kavga ettik! VE
+ondan önceki gün!$k
+$Wsフレデリク|$Wa$Eキメ|$SvpSE_VOICE_FREDERIK_EVT_20|Evet ama ne zaman nefes saldırısı
+başlatacağını tahmin etmeye o kadar
+yakınım ki.$k
+$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_4|$E笑|Tamam. Bu kadar oynamak istiyorsan...$k$p$E通常|Neden dövüşmede daha iyi olma
+konusunda bu kadar takintilisin?$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_18|Chrom'u ve müttefiklerimizi koruyabilmek
+için güçlü olmalıyım. Bu savaş daha azını
+gerektirmez.$k$pAyrıca ne kadar çok öğrenirsem diğer
+Çobanlara da o kadar çok şey
+aktarabilirim.$k$p$E怒|Bu, savaş alanındaki kayıpları azaltacak
+ve nihai zafer olasılığını artiracaktır.$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_11|Ve bu seni gelmiş geçmiş en
+büyük kahraman yapacak!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|$E通常|Olası değil. Ve ne olursa olsun bunu övgü
+ya da san için yapmıyorum.$k$pTek amacım mümkün olduğu kadar çok
+yoldaşımın bu savaştan sağ çikmasini
+sağlamaktir.$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_6|Övülmeyi her şeyden
+çok seviyorum!$k$pBiraz da olsa
+ihtisami umursamıyorsun değil mi?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|$E笑|Ben bir insanım leydim, bana gelen
+her türlü övgü çok takdir edilir.$k$p$E通常|Ancak takdir ve zafer tek
+başına hedefiniz olamaz.$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_9|Tanrım, tıpkı gerçek bir şövalye gibisin!$k$pAma BİRİSİ size ne kadar harika olduğunuzu
+söylemeli ve bu ben de olabilirim!$k$pYani... Aferin, Frederick! Aferin! Sen
+gelmiş geçmiş en iyi şövalyesin!$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_10|Heh. Teşekkürler Nowi.
+Bana annemi hatırlatıyorsun.$k
+$Wsノノ|$Wa$Eキメ|$SvpSE_VOICE_NONO_EVT_20|Unutma, ben senden birkaç
+yüzyil daha yaşlıyım!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_21|Evet elbette. Senin bilge, olgun bir
+kadın olduğunu sık sık unutuyorum.$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_21|İşte hee hee! Şimdi de BENİ övüyorsun!
+Ve bunu çok iyi yapıyorsun!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Ben sadece gerçeği konuşuyorum.$k
+$Wsノノ|$Wa$Eキメ|$SvpSE_VOICE_NONO_EVT_23|Aslında bunda o kadar iyisin ki
+idmana daha çok zaman ayırmalıyız.$k
+$Wsフレデリク|$Wa$E怒|$SvpSE_VOICE_FREDERIK_EVT_27|Bu benim için bir zevk olurdu!$k
+$Sbs1000|"
+3,MID_支援_ノノ_フレデリク_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|Frederick ! Entraînons-nous !
+Je vais me changer en dragon pour vous !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_2|C'est inhabituel... Normalement, c'est moi
+qui vous défie.$k$pNos sessions d'entraînement auraient-elles
+suscité votre intérêt ?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Pas vraiment. J'ai juste décidé que nous
+devrions nous entraîner plus souvent.$k$p$Eキメ,|Après un dur entraînement, je me souviens
+toujours de vous féliciter.$k$pMême si personne n'y fait attention, je veux
+que vous sachiez que moi, oui.$k$p$E通常,|Et, autre chose, quand vous prenez un jour
+de repos, je veux le prendre avec vous !$k$pAinsi nous pourrons nous tenir compagnie
+et nous ne serons plus seuls.$k$p$E笑,|Nous serons plus forts et pourrons aider
+Chrom et les autres, ET s'amuser !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ,|Mais dans ce cas... nous serions
+tout le temps ensemble.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Vous... me détestez ? S'il vous plaît,
+dites-moi que ce n'est pas vrai !$k$pParce que moi, je ne vous déteste pas !
+Je vous aime beaucoup, BEAUCOUP !$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Je vous apprécie aussi, Nowi.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Non ! Je n'ai pas juste dit que je vous
+appréciais... Je vous AIME.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_22|Ah...$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_9|J'adore le fait que vous travailliez dur pour
+les autres, même quand vous êtes fatigué.$k$p$E笑,|ET vous pensez toujours à protéger
+les autres... J'aime ça aussi !$k$pÇa me donne envie de VOUS protéger !$k$p$E通常,|Alors, euh... Est-ce que vous m'aimez ?
+En tant que femme, je veux dire.$k$pParce que si vous ressentez la même chose
+que moi, vous devez me le dire.$k$p$E通常,照|S'il vous plaît, Frederick !
+L'attente est insoutenable !$k
+$Wsフレデリク|$Wa...$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|Après une confession si franche et
+si directe, je ne saurais mentir.$k$pJe désirais vous en parler lorsque j'y aurais
+été le mieux préparé.$k$p$E笑,照|Nowi, je suis en effet tombé amoureux
+de vous.$k$pNous avons passé tant de temps ensemble
+récemment, et j'ai compris que...$k$p$Eキメ,照|Eh bien, que vous êtes la personne la plus
+importante dans ma vie.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|WOUHOUUUU !$k$p$Eキメ,|Alors, nous allons nous marier, maintenant ?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|Si vous voulez bien me faire cet honneur.$k$pMalheureusement, je n'ai pas d'anneau
+sur moi.$k$pJe vais aller de ce pas chez le joailler
+et lui en commander un.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|Oh, attendez ! Avant d'y aller, battons-nous
+encore une fois !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Eh bien, je suppose que nous avons
+le temps de faire un autre combat...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|Frederick! Komm schon, lass uns trainieren!
+Ich verwandele mich auch in einen Drachen!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_2|Oh, wie ungewöhnlich. Normalerweise
+fordere ich Euch zum Kampf heraus.$k$pHat etwas Euer Interesse an unseren
+Übungskämpfen geweckt?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Eigentlich nicht. Ich hab nur entschieden,
+dass wir öfter zusammen üben sollten.$k$p$Eキメ,|Weißt du, ich lobe dich immer, wenn du dich
+bemühst und sage dir, wie mutig du bist.$k$pUnd wenn niemand deine harte Arbeit zu
+schätzen weiß, will ich es eben tun!$k$p$E通常,|Und noch etwas: Wenn du dir einen Tag frei
+nimmst, will ich den Tag mit dir verbringen!$k$pDann können wir einander Gesellschaft
+leisten und keiner von uns wird je allein sein.$k$p$E笑,|Wir werden stärker, können Chrom mehr
+aushelfen, und es wird ein Riesenspaß!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ,|Aber dann... würden wir beinahe jeden
+Augenblick miteinander verbringen.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|...Du hasst mich doch jetzt nicht, oder?
+Bitte sag, dass du mich nicht hasst!$k$pDenn ich hasse dich nicht!
+Ich mag dich wirklich echt ganz DOLL!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Ich mag dich auch, Nowi.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|Nein! Nicht diese Art von mögen.
+Ich meine, ich hab dich ECHT lieb.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_22|...Oh.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_9|Ich liebe es, wie du dich für andere einsetzt,
+selbst wenn du total erschöpft bist.$k$p$E笑,|Außerdem liebe ich, wie du immer
+überlegst, wie du andere beschützen kannst.$k$pDas bringt MICH dazu, DICH beschützen
+zu wollen!$k$p$E通常,|Also, ähm, hast du mich lieb? So als Frau
+und all das?$k$pDenn wenn du für mich dasselbe empfindest
+wie ich für dich... will ich es von dir hören!$k$p$E通常,照|Bitte, Frederick!
+Spann mich nicht auf die Folter!$k
+$Wsフレデリク|$Wa...$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|Bei diesem offenen und direkten Geständnis
+ziemt es sich für mich nicht, zu lügen.$k$pEigentlich hatte ich vor, das zu tun, wenn
+ich besser vorbereitet bin.$k$p$E笑,照|...Aber, Nowi, ich habe mich tatsächlich in
+dich verliebt.$k$pWir haben in letzter Zeit so viel zusammen
+gemacht. Da habe ich erkannt...$k$p$Eキメ,照|Nun, dass du die wichtigste Person in
+meinem Leben bist.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|JUCHHUUUUUUUUU!$k$p$Eキメ,|Dann müssen wir jetzt also heiraten,
+richtig?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|Du würdest mir damit eine große Ehre
+erweisen.$k$pDoch bedauerlicherweise habe ich noch
+keinen passenden Ring für dich gefunden.$k$pIch mache mich gleich auf den Weg zum
+Juwelier in der Stadt und bestelle einen.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|Oh, warte! Lass uns noch einmal kämpfen,
+bevor du gehst!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Nun, ich nehme an, wir haben noch Zeit für
+eine weitere Runde...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|Frederick, alleniamoci ancora un po'.
+Mi trasformerò in drago per te!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_2|Singolare... di norma sono
+io a sfidarvi a duello.$k$pQualcosa nei nostri esercizi ha
+destato la vostra curiosità?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Non esattamente. Ho solo deciso che tu e
+io dovremmo allenarci insieme più spesso.$k$p$Eキメ,|Quando t'impegnerai, io ti farò sempre i
+complimenti e ti dirò che sei coraggioso.$k$pSe nessun altro riconosce i tuoi sforzi,
+io non dimenticherò mai di farlo.$k$p$E通常,|E un'altra cosa. Quando ti prenderai
+un giorno libero, lo farò anch'io.$k$pCosì ci faremo compagnia e
+nessuno di noi sarà mai solo.$k$p$E笑,|Diventeremo più forti, riusciremo ad aiutare
+meglio Chrom... e sarà anche divertente!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ,|Significherebbe, dunque, passare
+insieme ogni momento del giorno.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Non mi odii, vero?
+Ti prego, di' di no!$k$pPerché io non ti odio!
+Anzi, mi piaci UN SACCO!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Anche io vi stimo molto, Nowi.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|No! Non intendevo in quel senso.
+Cioè, tu mi piaci nel senso che MI PIA-CI.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_22|Ah.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_9|Ti adoro quando ti impegni tanto per
+gli altri, anche quando sei stanco.$k$p$E笑,|E poi è fantastico che cerchi sempre di
+trovare un modo per proteggere la gente.$k$pMi fa venire voglia di proteggere TE!$k$p$E通常,|Perciò, ecco, io ti piaccio?
+Intendo, come donna?$k$pPerché se provi per me quello che io provo
+per te, vorrei che... che me lo dicessi.$k$p$E通常,照|Ti prego, Frederick!
+Non tenermi sulle spine!$k
+$Wsフレデリク|$Wa...$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|Una dichiarazione così franca e
+schietta merita altrettanta onestà.$k$pIn verità, pianificavo di compiere questo
+passo quando sarei stato più preparato...$k$p$E笑,照|Ebbene, Nowi, mi sono innamorato di voi.$k$pAbbiamo passato tanto tempo insieme
+ultimamente da realizzare che... sì...$k$p$Eキメ,照|... insomma, che voi siete la persona più
+importante della mia vita, senza dubbio.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|YUUUUUUPPIII!$k$p$Eキメ,|Quindi adesso ci dobbiamo sposare, eh?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|Se vorrete farmi il grande onore.$k$pMi duole ammetterlo, ma non ho
+ancora scelto un anello adatto a voi.$k$pMi reco immediatamente dal gioielliere
+del villaggio per ordinarvene uno.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|Oh, aspetta! Prima che te ne
+vada, combattiamo ancora!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Beh, suppongo che ci sia
+abbastanza tempo...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|¡Frederick, vamos a practicar un poco más!
+Me transformaré en dragón para la ocasión.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_2|Vaya, esto es sorprendente. Normalmente
+soy yo el que hace esa petición.$k$p¿Hay algo que haya reforzado tu interés
+en nuestras sesiones de práctica?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|No es eso. He decidido que deberíamos
+practicar juntos más a menudo.$k$p$Eキメ,|Siempre te elogio y te recuerdo lo audaz
+que eres cuando te veo entrenar, ¿no?$k$pPuede que nadie valore tus esfuerzos,
+pero ¡al menos yo quiero hacerlo!$k$p$E通常,|Y otra cosa: cuando te tomes un día libre,
+¡quiero pasarlo contigo!$k$pAsí podremos hacernos compañía el uno
+al otro y nunca más estaremos solos.$k$p$E笑,|Nos haremos más fuertes, podremos ayudar
+a Chrom... ¡y nos lo pasaremos en grande!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ,|Pero entonces... estaríamos
+juntos en todo momento.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|Tú no me odias, ¿verdad?
+¡Por favor, dime que no!$k$p¡Porque yo no te odio! En realidad...
+¡Me gustas mucho, mucho, MUCHO!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|Tú también me
+gustas, Nowi.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|¡No! Pero no me gustas de esa manera.
+Mis sentimientos por ti son ESPECIALES.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_22|Ah...$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_9|Me encanta que siempre estés haciendo
+algo por los demás, aunque estés agotado.$k$p$E笑,|Y me encanta que siempre estés pensando
+en maneras de proteger a la gente.$k$p¡Todo eso hace que yo quiera protegerte
+a ti!$k$p$E通常,|Ejem... En fin, o sea, ¿te gusto... así?
+Ya sabes, como mujer y todo eso.$k$pPorque si sientes por mí lo mismo que
+yo por ti, quiero... que me lo digas.$k$p$E通常,照|¡Por favor, Frederick!
+¡No me tengas en ascuas!$k
+$Wsフレデリク|$Wa(...)$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|Después de una confesión tan franca y
+directa, solo puedo decir la verdad.$k$pDe hecho, era algo que pensaba hacer
+cuando lo tuviera todo bien preparado.$k$p$E笑,照|Escucha, Nowi... no hay duda de que
+me he enamorado de ti.$k$pÚltimamente pasamos mucho tiempo
+juntos y me he dado cuenta de que...$k$p$Eキメ,照|Bueno, de que eres la persona más
+importante de mi vida.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|¡BIEEEEEEEEEN!$k$p$Eキメ,|Bueno, pues supongo que ahora
+debemos casarnos, ¿verdad?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|Solo si quisieras concederme tal honor.$k$pPero, por desgracia, aún no he encontrado
+un anillo que sea digno de tu encanto.$k$pHe de visitar al joyero de la ciudad para
+encargar uno inmediatamente.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|¡Eh, espera! ¡Vamos a librar otro
+combate antes de que te vayas!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Bueno, supongo que hay
+tiempo para uno más...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|Frederick! Let's practise some more.
+I'll turn into a dragon for you!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_2|Now this is unusual―normally, it is
+I who challenges you to battle.$k$pHas something piqued your interest
+in our training sessions?$k
+$Wsノノ|$Wa$E笑,|$SvpSE_VOICE_NONO_EVT_21|Not really. I just decided that you and me
+should practise together more often.$k$p$Eキメ,|See, when you try hard, I always remember
+to praise you and say how brave you are.$k$pEven if no one else appreciates all your
+hard work, I want to make sure I do.$k$p$E通常,|And, another thing. When you take a day
+off, I want to take a day off with you!$k$pThen we can keep each other company,
+and neither of us will ever be alone.$k$p$E笑,|We'll get stronger, we'll be able to help
+out Chrom more, and it'll be fun!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ,|But then...we would be spending
+nearly every waking moment together.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_13|...You don't hate me, do you?
+Please say you don't!$k$pBecause I don't hate you! In fact,
+I really, really, REALLY like you!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_10|I like you, too, Nowi.$k
+$Wsノノ|$Wa$E怒,|$SvpSE_VOICE_NONO_EVT_12|No! I don't mean that kind of like.
+I mean, I LIKE YOU like you.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_22|...Ah.$k
+$Wsノノ|$Wa$E通常,|$SvpSE_VOICE_NONO_EVT_9|I love how you're always working so hard
+for others, even when you're tired.$k$p$E笑,|Plus I love how you're always thinking of
+ways to protect people.$k$pIt makes ME want to protect YOU!$k$p$E通常,|So, um, do you like me? Like, as a woman
+and all that?$k$p'Cause if you feel about me like I do
+for you, I...I want you to tell me.$k$p$E通常,照|Please, Frederick!
+Don't keep me in suspense!$k
+$Wsフレデリク|$Wa...$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|After such a forthright confession, it would
+ill behove me not to answer in kind.$k$pIn truth, I was planning to do this when I
+was better prepared...$k$p$E笑,照|...But, Nowi, I have in fact fallen in love
+with you.$k$pWe have spent so much time together
+lately, and I came to realise...$k$p$Eキメ,照|Well, that you are the most important
+person in my life.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|YAAAAAAAAAY!$k$p$Eキメ,|So I suppose we should get
+married now, right?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|If you will do me the great honour.$k$pBut unfortunately, I have not yet
+picked out a suitable ring for you.$k$pI shall go to the jeweller in town
+and order one immediately.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|Oh, wait! Before you go,
+let's have another fight!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Well, I suppose there is always
+time for just one more...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmノノ|7$Wmフレデリク|3$w0|$Wsノノ|$Wa$SvpSE_VOICE_NONO_EVT_2|Frederick! Biraz daha pratik yapalım.
+Senin için bir ejderhaya dönüseceğim!$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_2|Bu alışılmadık bir durum; normalde
+sizi savaşmaya davet eden benim.$k$pEğitim oturumlarimizda ilginizi
+çeken bir şey oldu mu?$k
+$Wsノノ|$Wa$E笑|$SvpSE_VOICE_NONO_EVT_21|Tam olarak değil. Seninle daha sık
+birlikte pratik yapmamız gerektiğine karar
+verdim.$k$p$Eキメ|Görüyorsun ya, çok çabaladiginda seni
+övmeyi ve ne kadar cesur olduğunu
+söylemeyi her zaman hatırlıyorum.$k$pHiç kimse sizin sıkı çalışmanizi takdir
+etmese bile, bunu yaptığimdan emin olmak
+istiyorum.$k$p$E通常|Ve başka bir şey. Bir gün izin aldığinda,
+seninle bir gün izin almak istiyorum!$k$pO zaman birbirimize eşlik edebiliriz
+ve hiçbirimiz asla yalnız olmayacağiz.$k$p$E笑|Güçleneceğiz, Chrom'a daha fazla yardımcı
+olabileceğiz ve çok eğlenceli olacak!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|$Eキメ|Ama o zaman... uyanık olduğumuz neredeyse
+her ani birlikte geçiriyor olurduk.$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_13|...benden nefret etmiyorsun, değil
+mi? Lütfen yapmadigini söyle!$k$pÇünkü senden nefret etmiyorum! Aslında
+senden gerçekten, gerçekten, GERÇEKTEN
+hoşlanıyorum!$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_10|Ben de senden hoşlanıyorum Nowi.$k
+$Wsノノ|$Wa$E怒|$SvpSE_VOICE_NONO_EVT_12|HAYIR! O tür bir şeyi kastetmiyorum.
+Demek istediğim, senden hoşlanıyorum.$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_22|...Ah.$k
+$Wsノノ|$Wa$E通常|$SvpSE_VOICE_NONO_EVT_9|Yorgun olsan bile başkalari için her
+zaman bu kadar çok çalışmani seviyorum.$k$p$E笑|Ayrıca her zaman insanları korumanin
+yollarını düşünmeni seviyorum.$k$pBu bende seni koruma isteği uyandırıyor!$k$p$E通常|Peki benden hoşlanıyor musun? Bir kadın
+olarak falan mı?$k$pÇünkü eğer benim sana hissettiğim gibi sen
+de benim hakkımda hissediyorsan,
+ben...bana söylemeni istiyorum.$k$p$E通常,照|Lütfen
+Frederick! Beni merakta bırakma!$k
+$Wsフレデリク|$Wa...$k$p$E通常,照|$SvpSE_VOICE_FREDERIK_EVT_25|Bu kadar açık bir itiraftan sonra aynı
+şekilde cevap vermemek bana yakışmaz.$k$pAslında bunu daha hazırlıkli olduğum bir
+zamanda yapmayı planlıyordum...$k$p$E笑,照|...Ama Nowi, aslında sana aşık
+oldum.$k$pSon zamanlarda birlikte o kadar çok
+zaman geçirdik ki, şunu fark ettim ki...$k$p$Eキメ,照|Sen benim hayatimdaki en
+önemli kişisin.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_11|YAAAAAAAAAAY!$k$p$Eキメ|Sanırım artık
+evlenmeliyiz, değil mi?$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_15|Eğer bana büyük bir onur verirseniz.$k$pAma ne yazık ki henüz sana
+uygun bir yüzük seçemedim.$k$pŞehirdeki kuyumcuya gidip
+hemen sipariş vereceğim.$k
+$Wsノノ|$Wa$E笑,照|$SvpSE_VOICE_NONO_EVT_4|Durun! Gitmeden önce
+bir kavga daha yapalım!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_10|Sanırım her zaman bir tane
+daha için zaman vardır...$k
+$Sbs1000|"

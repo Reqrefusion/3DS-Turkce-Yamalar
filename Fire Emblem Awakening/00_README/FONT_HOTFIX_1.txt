@@ -1,0 +1,20 @@
+FEA TÜRKÇE PASS202 — FONT HOTFIX 1
+================================
+
+SORUN
+-----
+Önceki Türkçe font paketinde U+0131 (ı) glifi System, UI_L, UI_M, UI_S ve
+Debug fontlarında U+0069 (i) bitmapinin aynısıydı. Bu yüzden çeviride gerçek
+"ı" yazmasına rağmen oyunda "i" gibi görünüyordu.
+
+DÜZELTME
+---------
+Altı fontun tamamında ı glifi tekrar üretildi. Karakter metrikleri korunup
+yalnız üstteki nokta bölgesi kaldırıldı. ank fontundaki doğru davranış da
+korundu.
+
+KURULUM
+--------
+Mevcut Pass202 yamasının romfs/fonts klasöründeki 6 .bfnt.lz dosyasını bu
+pakettekilerle değiştirin. Luma kullanıyorsanız Luma_EUR_SD_ROOT/luma
+klasörünü SD kart köküne birleştirebilirsiniz.

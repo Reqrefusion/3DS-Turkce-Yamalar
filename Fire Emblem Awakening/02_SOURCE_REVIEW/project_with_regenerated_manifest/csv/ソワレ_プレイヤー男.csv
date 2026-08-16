@@ -1,0 +1,832 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_ソワレ_プレイヤー男_Ｃ_PCM1,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Oh là là... Bon, Sully, il faut arrêter de se
+laisser aller...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sully ? Est-ce que ça va ? Pourquoi
+tu te tiens le ventre en marmonnant... ?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|Je vais bien ! Ce n'est rien !
+Occupe-toi de tes oignons !$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Tu as vraiment l'air mal en point.
+Tu n'es pas blessée, au moins ?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|J'ai pris du poids et perdu de la masse
+musculaire.$k$p$E苦,汗|Tu le crois, ça ?! Nous sommes en guerre,
+et moi, je prends du bide.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Tu en es sûre ? Je ne vois pas une seule
+once de graisse sur toi, pourtant...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|C'est que tu ne regardes pas très bien !$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Eh bien... Je ne t'imaginais pas comme ça...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|De quoi est-ce que tu parles ?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Oh, euh... Je ne pensais pas que tu étais
+du genre à te soucier de ton apparence.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|$E怒,|Mais t'as de l'eau dans le crâne ?!
+C'est pas possible !$k$pCe n'est pas une question d'apparence !$k$pJ'ai perdu de la masse musculaire !$k$pÇa va affecter mes compétences de
+combat et je vais me faire tuer !$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|D'accord, d'accord ! Désolé ! Bien sûr, je
+comprends ! Ne me frappe pas !$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Te frapper ?! Pourquoi je te frapperais ?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|En tout cas, si tu tiens tellement à perdre
+du poids, tu pourrais essayer ça...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Snif... Pouah ! Quelle pestilence !
+C'est quoi ce truc verdâtre ?!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|C'est une espèce d'algue séchée très rare.
+Je l'ai achetée en ville.$k$pLe marchand m'a dit qu'elle contenait « une
+quantité extrême de fibres ».$k$pPuis il a ricané tel un maniaque et répété
+« extrême » en faisant une petite danse.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Hmm... On dirait que c'est risqué...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Mais tu aimes le risque...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Oh ! Tu me mets au défi d'essayer ?
+Ha ha ! Soit ! Défi relevé !$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Parfait ! Moi aussi, dernièrement, j'ai pris
+du poids et j'espérais m'en servir...$k$pJe voulais essayer mais je n'avais pas le
+courag... euh, le temps ! Le temps...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Hé hé ! Tu t'enfiles trop de pâtisseries !
+C'est ça, ton problème !$k$pTrès bien, $Nu. Voyons qui de
+nous deux retrouvera la ligne en premier !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Ach, verdammt! Los jetzt, Sully!
+Stell dich nicht so an!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sully? Geht es dir gut? Du hältst dir die
+Seite und murmelst etwas vor dich hin.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|Schon gut! Es ist nichts!
+...Lass mich in Ruhe!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Du siehst nicht aus, als wäre NICHTS, Sully.
+Bist du etwa verletzt?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|...Ich hab etwas zugelegt und meine
+Muskelmasse hat abgenommen.$k$p$E苦,汗|Kaum zu glauben, hm? Wir führen einen
+Krieg und ich hab 'nen Bauch gekriegt!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Bist du sicher? Ich kann nämlich kein
+Gramm Fett an dir erkennen.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|Dann schaust du nicht genau hin!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Hmm... So habe ich dich bisher noch
+nie erlebt.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Was zum Geier meinst du damit?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Ich meine nur... Ich dachte, du wärst keine
+Frau, die sich um ihr Gewicht sorgt.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Bei den Göttern. Du bist echt so ein
+verdammter Idiot!$k$pHier geht es nicht um meine FIGUR!
+Ich hab gesagt, ich hab Muskeln verloren!$k$pUnd das hat Auswirkungen auf den Kampf
+und führt dazu, dass ich GETÖTET werde!$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Aaah! Ich meine, ja! Natürlich! Ich verstehe!
+B-bitte tu mir nicht weh...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|...Ach, schon gut. Was verstehst du
+schon davon?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Äh, aber wenn du dir Sorgen um dein
+Gewicht machst, versuch doch mal das hier.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Schnüffel... Ihr Götter! Wie das stinkt!
+Was ist das? Eine Art Dörrfleisch?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Das sind seltene, getrocknete Algen.
+Ich habe sie in der Stadt gekauft.$k$pDer Händler meinte, sie enthalten enorme
+Mengen an Ballaststoffen.$k$pDann wiederholte er das Wort ENORM noch
+mal, hat gelacht und einen Tanz aufgeführt.$k$p...War schon ein seltsamer Kauz,
+wenn ich so darüber nachdenke.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Klingt riskant.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Na ja, aber du bist doch so mutig.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Forderst du mich heraus? Na dann!
+Ich werde es probieren!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Wunderbar! Ich... habe nämlich mittlerweile
+selbst einen recht großen Bauch gekriegt.$k$pMit dem Zeug hatte ich gehofft, ihn wieder
+loszuwerden.$k$pAber ich, ähm, habe mich nicht getraut,
+es selbst auszutesten.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|HA! Du isst zu viele Kuchen! Das ist
+dein Problem!$k$pNa gut, $Nu. Die Wette gilt!
+Mal sehen, wer von uns schneller abnimmt!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Ah, per la malora. Dai, Sully,
+concentrati e non ci pensare...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Cosa fai, Sully? Mormoravi tra
+te e te tenendoti il fianco.$k$pStai bene?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|Sì, non ho niente! Lasciami in pace!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Non mi sembra affatto che tu stia bene.
+Non sarai ferita?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|No, io... Ah, va bene. Ho messo su peso
+e la mia massa muscolare è affaticata.$k$p$E苦,汗|Da non crederci! C'è una guerra
+da vincere e io ingrasso.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Cosa? Ne sei proprio sicura? A me sembri
+in forma smagliante... come sempre.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|Allora non guardi attentamente.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Non credevo ci tenessi a queste cose.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Cosa cavolo vuoi dire?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Beh, mi riferisco al fatto che non pensavo
+che a una come te interessasse la linea.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|...$k$pSei proprio un grandissimo imbecille.$k$pL'aspetto fisico non c'entra niente, idiota!
+È solo un problema di massa muscolare!$k$pLo sai che incide sull'agilità nella lotta.
+E da questo dipende la mia vita!$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|S-Sì, certo, ho capito! Chiaro e tondo!
+T-Ti prego, non infilzarmi...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Ma che dici? Perché diavolo
+dovrei infilzarti?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Aehm... Ascolta, se vuoi davvero ritrovare
+il tuo peso forma, potresti provare questo.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Sniff! Miseria, che puzza!
+Cos'è, uno scherzo?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|No, sono alghe secche. Sembra siano
+molto rare. Le ho comprate al borgo.$k$pIl commerciante ha detto che contengono
+""un'elevata quantità di fibre"".$k$pPoi ha ripetuto la parola ""elevata""
+e ha ridacchiato a passo di danza.$k$pEra proprio un tipo strano.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Mmmh... Sembra una cosa rischiosa.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Beh, di certo il coraggio non ti manca...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Mi stai sfidando? Va bene!
+Fammele provare!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Bene! Sai, anch'io ho messo su un
+po' di pancetta recentemente...$k$pAnch'io avrei voluto provare queste alghe,
+ma ho avuto pau- ehm, troppo da fare!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|AH! Mangi troppe crostate, ecco perché!$k$pBene, $Nu. Scommettiamo che
+riuscirò a perdere peso prima di te!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Oh, demonios...
+¡Venga, Sully! ¡Espabila!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sully, ¿murmurabas algo? ¿Por qué
+te estás sujetando el costado así?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|¡No pasa nada! ¡Estoy bien!
+¡Déjame en paz!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Pues no parece que estés MUY bien.
+No estarás herida, ¿verdad?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|No, es que he ganado peso y
+he perdido masa muscular.$k$p$E苦,汗|¿Te lo puedes creer? Estamos en medio de
+una guerra... ¡y yo engordando!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Ah, ¿sí? Pues yo te veo estupenda,
+como siempre.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|Pues te tendrás que fijar más...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Vaya, vaya... No conocía esa faceta tuya.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|¿De qué demonios estás hablando?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|A ver... Yo pensaba que eras de ese tipo de
+personas que no se preocupan por la figura.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|¡Uf! ¡Eres más tonto que un zapato!$k$pEsto no tiene nada que ver con el físico,
+sino con la masa muscular, ¿te enteras?$k$pY eso sí se va a notar en los combates.
+¡Me harán PICADILLO!$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|¡Ay! Quiero decir... ¡Sí, sí, tienes razón!
+P-pero no me hagas daño, por favor...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|¿Qué? Pero ¿por qué demonios
+iba a hacerte daño?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Eeh... no sé, pero bueno... Si tanto te
+preocupa estar en forma, prueba esto.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|¡Puaj! ¡Huele a rayos!
+¿Qué es esto? Parece cecina.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Bueno, en realidad son unas algas poco
+comunes. Las compré en el pueblo.$k$pEl tendero dijo que tenían ""un alto
+contenido en fibra"".$k$pLuego repitió de nuevo la palabra ""alto""
+y se puso a canturrear y bailar...$k$pSí que era un tipo raro...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Mmm... Me parece un poco arriesgado.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Bueno, ¿tú no eres una mujer valiente?$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|¡Ah! ¿Me estás retando? ¡Ya verás!
+¡Trae para acá!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|¡Estupendo! Porque últimamente he
+engordado un poco y quería perder peso.$k$pPero no me atrevía a probarl... Quiero
+decir, no he tenido tiempo para probarlas.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Se te ha ido la mano con los pasteles, ¿eh?$k$pMuy bien, $Nu. ¡Veamos quién se
+pone en forma antes!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Ah, crap. Come on, Sully,
+get your damn act together...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sully? What are you mumbling about?
+...And why are you holding your side?$k$pIs everything all right?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_16|I'm fine! It's nothing!
+...Leave me alone!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|You look anything but fine, Sully.
+You're not hurt, are you?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|No, I... All right, I put on weight and my
+muscle mass is down.$k$p$E苦,汗|You believe that? We're fighting a war,
+and I'm getting a gut.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|What? Are you sure? You look great
+to me―same as ever.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|Then you aren't looking hard enough.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Well, this is a side of you
+I've never seen.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|The hell you talking about?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Well, I just...didn't think you were the
+kind of person to worry about her figure.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Gods, but you are a blooming ninny.$k$pThis isn't about LOOKS!
+I said my muscle mass had dropped!$k$pAnd that's going to affect combat,
+which could get my arse KILLED!$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Eeeep! I mean, um, yes! Of course!
+I get it! ...P-please don't hurt me...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Hurt you? Why in the hell
+would I do that?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|*ahem* Well, if you ARE worried about
+weight redistribution, you could try this.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|*sniff* Gods, it smells like horse slop!
+What is it, some kind of jerky?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|It's a rare form of dried seaweed, actually.
+I bought it back in town.$k$pThe shopkeeper said it contained
+""insane quantities of fibre"".$k$pThen he just kept saying ""insane"", and
+cackled while doing a little dance...$k$pQuite an odd fellow, really.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Hmm... Sounds risky.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Well, I know how brave you are...$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_12|Is that a dare? Fine then!
+I'll try it!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Great! To tell the truth, I've put on a
+few pounds myself lately...$k$pI've been meaning to try the seaweed but
+was too scar―er, busy! Too busy.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|HA! Too much pie―that's your problem!$k$pAll right then, $Nu.
+Let's see who can get in shape faster!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Ah, lanet olsun. Hadi Sully, toparlan
+artık...$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sully mu? Ne hakkında mırıldanıyorsun?
+...Peki neden kendi tarafini tutuyorsun?$k$pHer şey yolunda mı?$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_16|Ben iyiyim! Mühim değil!
+...Beni yalnız bırakın!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Hiç de iyi görünmüyorsun, Sully.
+Yaralı değilsin, değil mi?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Hayır, ben... Tamam, kilo aldım ve
+kas kütlem azaldı.$k$p$E苦,汗|Buna inanıyor musun? Bir savaş veriyoruz
+ve cesaretim artıyor.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Ne? Emin misin? Bana harika
+görünüyorsun; her zamanki gibi.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_10|O zaman yeterince dikkatli bakmıyorsun.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_18|Bu senin hiç görmedigim
+bir tarafın.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_2|Sen neden bahsediyorsun?$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Sadece... görünüşünü dert edecek biri
+olduğunu düşünmemiştim.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Tanrım, ama sen çiçek açan bir ahmaksin.$k$pBunun GÖRÜNÜŞLERLE alakasi
+yok! Kas kütlemin düştüğünü söyledim!$k$pBu da dövüşü etkileyecek ve
+bu da kiçimi öldürebilir!$k
+$Wsusername|$Wa$E苦|$SvpSE_VOICE_PLAYER_M#_EVT_27|Eeep! Yani, evet! Elbette!
+Anladım! ...L-lütfen bana zarar verme...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Canını mı acıttı? Bunu
+neden yapayım ki?$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_13|*öhöm* Eğer ağırligin yeniden dağıtılması
+konusunda endiseleniyorsaniz bunu
+deneyebilirsiniz.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|*burnunu çeker* Tanrım, at pisliği gibi
+kokuyor!
+Nedir bu, bir çeşit kuruyemis mi?$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_17|Aslında kurutulmuş deniz yosununun nadir
+görülen bir seklidir. Şehirden geri aldım.$k$pDükkan sahibi, içinde ""aşırı
+miktarda lif"" bulundugunu söyledi.$k$pSonra ""deli"" demeye devam etti ve
+küçük bir dans yaparken kikirdadi...$k$pGerçekten çok tuhaf bir adam.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Hımm... Kulağa riskli geliyor.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_10|Ne kadar cesur olduğunu biliyorum...$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_12|Bu bir cesaret mi? Peki o
+zaman! Deneyeceğim!$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Harika! Gerçeği söylemek gerekirse, son
+zamanlarda ben de birkaç kilo aldım...$k$pDeniz yosununu denemek istiyordum ama çok
+daha korkutucuydu, meşguldüm! Çok meşgul.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_8|HA! Çok fazla pasta var, bu senin sorunun!$k$pPeki o zaman $Nu.
+Bakalım kim daha hızlı forma girebilecek?$k
+$Sbs1000|"
+1,MID_支援_ソワレ_プレイヤー男_Ｂ_PCM1,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Gnnnh... Uuaaaargh...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|S... Sully ? Oh, bon sang ! Sully, ça va ?!
+Tu ressembles à un cadavre !$k$pJe n'ai jamais vu quelqu'un de si maigre !
+Et ta peau a viré au VERT !$k$pÇa m'a tout l'air d'un empoisonnement !
+Qu'est-ce que tu as mangé dernièrement ?!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Juste... tes algues... séchées...$k$pJ'ai avalé... tout le sac... hier soir...
+Ooorgh... Uuurgh...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Attends... TOUT le sac ?!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|C'est si... grave ?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, tu es censée en déchirer un tout petit
+morceau et le réhydrater d'abord.
+$k$pLa portion que je t'ai donnée était pour
+un mois... et tu as tout mangé.$k$pOh, mon dieu !$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|Je te... tuerai... pour ça...$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Sully, je suis vraiment désolé.
+J'aurais dû être plus précis !$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_11|Uuurgh... C'est... de ma faute...
+Je n'aurais pas dû... céder à la facilité...$k$pMais je ne referai pas... la même erreur...$k$pJe vais reprendre... l'entraînement et...
+regagner du muscle... dès que j'irai mieux.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Je ne sais pas comment, mais je trouverai
+un moyen de t'aider ! Je me sens si mal...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Eh bien... Je ne sais pas, mais...$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Oh... Je... Je... Ça me... reprend...
+BEEEUUUAAARG !$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|Pfiou... Je n'aimerais pas être à sa place.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Hnnngh...
+Uuurks...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|S-Sully? Ihr Götter! Sully! Was ist los?
+Du siehst ja schrecklich aus!$k$pVollkommen ausgemergelt und dünn!
+...Und deine Haut ist GRÜN!$k$pDu bist wohl vergiftet worden!
+Was hast du in letzter Zeit gegessen?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|N-nur die... Algen... die du mir...
+gegeben hast...$k$pHab letzte Nacht... alles... gegessen...
+Oooooh... Uuurks...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|...Die ganze Packung?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Ist... das... schlecht?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, man bricht ein kleines Stück ab und
+schluckt es mit ordentlich Wasser herunter!$k$pDie Packung war für einen ganzen Monat.
+Wenn du die ganz gegessen hast...$k$pOh, bei den Göttern! Dein armes Gedärm!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|Dafür... stirbst du... Versprochen!$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Es tut mir so leid, Sully! Ich hätte es dir
+besser erklären müssen!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_11|Ja... darum werde... ich dich... töten!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_18|A-also! Ich hole wohl besser einen Heiler
+und etwas Medizin. Ja?$k$pUnd wenn es dir besser geht, trainiere ich
+mit dir so viel du willst! Versprochen!$k$pWir bauen Muskeln auf die gute alte Art
+auf! Äh, in Ordnung? Ja? B-bitte?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|I-ich nehm... dich beim Wort...$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Uuurks... Muss in die Büsche...$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|...Puh! Ich beneide sie wirklich nicht.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Nnngh...
+Arrrgh...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|S-Sully? Oh, dei, che ti è successo?!
+Sei uno scheletro!$k$pNon ho mai visto nessuno così pelle e ossa!
+Sei diventata VERDE!$k$pForse è un avvelenamento da cibo!
+Cos'hai mangiato?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|L-Le alghe secche... che mi hai dato tu...$k$pHo ingoiato l'intero sacchetto ieri notte...
+Ohhh... Unnngh...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|L'intero sacchetto???$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Non... dovevo?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, avresti dovuto prenderne solo un
+grammo e scioglierlo prima nell'acqua.$k$pQuello che ti ho dato bastava per un
+mese e ti sei divorata l'intera scorta...$k$pOh, per gli dei. Avrai l'intestino sottosopra!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|Sei... morto...$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Sully, mi dispiace tantissimo!
+Avrei dovuto spiegarti meglio cosa farne!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_11|Grrr... è colpa... m-mia, volevo
+prendere una scorciatoia...$k$pMa non farò più lo stesso errore...$k$pRiprenderò ad allenarmi... ricostruirò i
+muscoli... non appena starò meglio...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Lascia che ti aiuti in qualche modo.
+Mi sento così in colpa...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Oh, non saprei... Come vuoi...$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|D-Dei... Mi sta venendo un altro crampo...
+MMMPF!$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|Cavolo... Deve farle davvero male...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Gññññ...
+Aaaarg...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|¡S-Sully! ¡Cielos! ¡¿Qué te ocurre?!
+¡Pareces un cadáver!$k$p¡Jamás había visto a nadie tan escuálido!
+¿¡Y qué te pasa en la piel!? ¡Está VERDE!$k$pSully, ¡creo que te han envenenado!
+¿¡Qué ha sido lo último que has comido!?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|L-las... algas secas que... me diste.$k$pAnoche m-me... comí la... bolsa entera.
+Aaaah... Gññññ...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|¡¿Que te comiste la bolsa entera?!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Sí... ¿Qué pasa?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, se supone que solo debes tomar
+un trozo pequeño hidratado con agua.$k$p¡La bolsa que te di era para un mes!
+Si te la comiste entera...$k$p¡Por los dioses! ¡Tus pobres tripas!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|T-te voy... a... matar.$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|¡Lo siento! ¡Ha sido culpa mía! ¡Tendría que
+haberte explicado cuál era la dosis!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_11|No... Yo tengo... la maldita culpa...
+por querer... tomar atajos.$k$pArg, no volveré... a cometer el mismo error.$k$pEmpezaré a entrenar y... fortaleceré mis
+músculos... en cuanto me sienta mejor...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Pero déjame que te ayude de alguna
+manera. Me siento fatal por todo esto.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|B-bueno... Está bien.$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Rayos... Otra vez no...
+Gñññ...$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|¡Uf! No me gustaría estar en su pellejo.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Nnngh... Yearrrgh...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_19|S-Sully? Oh, gods, Sully, what's wrong?!
+You look like a corpse!$k$pSo worn out and thin!
+...And your skin―it's GREEN!$k$pHave you been poisoned?
+What have you eaten lately?!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|J-just the...dried seaweed...you gave me...$k$pAte the...whole bag...last night...
+Oooooo... Unnngh...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Wait...did you say...
+the WHOLE bag?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Is...that bad...?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, you're supposed to tear off a tiny
+piece and rehydrate it with water first.$k$pThe chunk I gave you was a month's supply.
+If you ate the whole thing...$k$pOh, dear heavens. Your poor bowels!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|Kill... Kill...
+you...for this...$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_27|Sully, I am so, so sorry! I should
+have explained in more detail!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_11|Grr... My own...d-damn fault,
+taking...shortcuts...$k$pBut I won't...make that mistake
+again...$k$pGonna start training... Rebuild
+muscles... Soon as I'm better...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_18|You must let me help you somehow.
+I just feel so awful about this.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Well... I don't know... Maybe...$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Oh g-gods... Here it comes again...
+HPPPMF!$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|...Yikes, that did not sound good...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Nnngh... Yaaaargh...$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_19|S-Sully? Tanrılar, neyin var?! Ceset gibi
+görünüyorsun!$k$pÇok bitkin ve zayıfsın! ...Tenin de YEŞİL!$k$pZehirlendin mi?
+Son zamanlarda ne yedin?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|S-sadece... bana verdiğin kurutulmuş
+yosunu...$k$pDün gece... tüm paketi... yedim...
+Ooooo... Unnngh...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Bir dakika... TÜM paketi mi dedin?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Bu... kötü mü...?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Sully, ondan minicik bir parça koparıp
+önce suda bekletmen gerekiyordu.$k$pSana verdiğim miktar bir aylıktı. Hepsini
+yediysen...$k$pAman tanrılar. Zavallı bağırsakların!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_17|Seni... bunun için... öldüreceğim...$k
+$Wsusername|$Wa$E苦|$SvpSE_VOICE_PLAYER_M#_EVT_27|Sully, gerçekten çok üzgünüm! Daha
+ayrıntılı anlatmalıydım!$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_11|Grr... Kendi... kahrolası hatam...
+kestirme yola başvurdum...$k$pAma... bir daha aynı hatayı
+yapmayacağım...$k$pİyileşir iyileşmez... antrenmana dönüp...
+kaslarımı geri kazanacağım...$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_18|Bir şekilde yardım etmeme izin ver.
+Kendimi korkunç hissediyorum.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_22|Şey... Bilmiyorum... Belki...$k$p$w500|$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ah t-tanrılar... Yine geliyor... HPPPMF!$k
+$Wsソワレ|$Wd$w0|$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_34|...Eyvah. Kulağa hiç iyi gelmedi...$k
+$Sbs1000|"
+2,MID_支援_ソワレ_プレイヤー男_Ａ_PCM1,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_27|Hah ! Yaaah !$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Tu as l'air plus en forme que jamais, Sully !
+Tu te sens mieux, je suppose ?$k$pEt regardez-moi un peu tous ces muscles !
+Ton entraînement a payé.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Je progresse. Mais j'ai toujours
+un peu de graisse, là.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Où ça, là ?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Hé ! Bas les pattes !$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Euh... Sully ? Ce n'est pas de la graisse,
+c'est de la peau...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Hein ?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|Je savais bien que tu te trompais quand
+tu disais avoir de la graisse en trop.$k$pTu t'entraînes plus que quiconque,
+c'était impossible...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|De la peau, hein ?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|C'est probablement l'effet qu'a eu l'algue
+sur ton métabolisme...$k$pTu as perdu beaucoup de poids la dernière
+fois, et la peau est encore détendue.$k$pEncore une semaine de combat et on n'y
+verra plus rien.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Hmm... Tu as sûrement raison.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Crois-moi. Tu es dans une forme parfaite.$k$pEt je me suis entraîné avec toi toute la
+semaine, j'en sais quelque chose.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Bon, si tu le dis...$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Je crois bien que tu as gagné notre pari.
+Mon poids, lui, n'a pas bougé d'un iota.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Eh bien, si je peux te donner un conseil,
+n'essaye pas ces fichues algues ! Ha ha !$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Euh... Ha ! Ha ha ha ! N... Non, c'est sûr.
+Ce serait vraiment stup...$k$p$E苦,汗|AÏE ! Houlà... ! Gnnn...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Je n'arrive pas à y croire ! Ne me dis pas
+que tu en as mangé !$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|Tu n'arrêtais pas de... mincir...
+Il fallait que... je te rattrape...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Imbécile ! Tu as oublié ce qui m'est arrivé
+à cause de ce truc ?!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|Non, tu... Aïe ! Tu avais raison...
+Je... je dois... BEEEUUUAAARG !$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Eh bien... Je n'aimerais pas être à sa place.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_27|Haaaja!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Du bist in ausgezeichneter Form, Sully!
+Fühlst du dich jetzt besser?$k$pUnd SCHAU sich einer deine Muskeln an!
+Ich denke, das Training zahlt sich aus.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Langsam wird es. Ich habe aber immer noch
+ein bisschen Speck hier.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Wo, da?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Behalt deine Flossen besser bei dir, sonst
+schneide ich sie dir ab!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Äh, Sully? Das ist kein Speck.
+Das ist nur eine Hautfalte.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Was?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|Ich wusste, da stimmt was nicht, als du
+mir sagtest, du würdest speckig werden.$k$pDu trainierst schließlich härter als alle,
+die ich kenne!$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Hautfalten, hm?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Das ist wohl eine Hinterlassenschaft von
+den Algen.$k$pWährend der Sache hast du in kurzer
+Zeit sehr viel Gewicht verloren.$k$pDeine Muskeln müssen diese Lücken
+noch ausfüllen.$k$pNoch ein oder zwei Wochen Kampftraining
+und du wirst nichts mehr davon sehen.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Ha! Ich denke, da könnte was dran sein.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Vertrau mir. Du bist sehr gut in Form!$k$pIch habe die ganze Woche mit dir trainiert.
+Ich weiß also, wovon ich rede.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Ha... Na dann ist ja gut.$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Das heißt wohl, du hast unsere kleine Wette
+gewonnen. Mein Bauch ist unverändert.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Aber versuch besser nicht, ihn mit den
+verdammten Algen loszuwerden! Hahaha!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Äh... ha! H-haha! Das w-wäre wirklich nicht
+klug, oder?$k$p$E苦,汗|UUUURKS?!?
+...Oje!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|...Du hast davon gegessen, oder?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|D-du hast so schnell... abgenommen...
+M-musste... mithalten...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Du Idiot! Hast du vergessen, was das Zeug
+mit mir gemacht hat?!?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|N-nein, du... hast Recht... S-so sehr...
+Recht! Urks... Ich muss... gehen!$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|...Puh! Ich beneide ihn wirklich nicht.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_27|Ah! Uah-taaah!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Sei più in forma che mai, Sully!
+Presumo tu stia meglio.$k$pE guarda che muscoli!
+L'allenamento sta avendo i suoi risultati.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Sono a buon punto. Ho solo
+ancora un po' di grasso qui.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Dove? Qui?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Tieni quelle manacce a posto o te
+le taglio e ci faccio un origami!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Ehm... Sully, non è grasso.
+È solo un po' di pelle in eccesso.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Eh?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|Mi sembrava strano che fossi preoccupata
+di essere ingrassata.$k$pTu ti alleni più di tutti gli altri.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Dici che è pelle?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Forse è una conseguenza dell'eccessiva
+assunzione di alghe.$k$pHai perso un sacco di peso recentemente
+e i muscoli si stanno riassestando.$k$pDopo una settimana di allenamento e
+cibo sano scomparirà, ne sono certo.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Ah. Forse non hai tutti i torti.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Credimi se ti dico che sei in perfetta forma.$k$pMi sono allenato con te l'intera
+settimana, ne so qualcosa!$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Uh. Beh, mi fido.$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Hai vinto tu la nostra scommessa.
+La mia pancia non è scesa affatto.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Ah! L'importante è che non mangi anche
+tu quelle dannate alghe! Gh gh gh!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Ehm... ah! A-Ah ah ah!
+N-No, sarebbe davvero stupido farlo, ve-$k$p$E苦,汗|Nnngh!
+Oh oh.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Oh, non dirmi che l'hai fatto...
+Le hai mangiate?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|T-Tu continuavi... a dimagrire...
+N-Non volevo... perdere...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Sei un deficiente! L'hai visto anche
+tu cosa mi è successo!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|E-Ehm, sei... Ahi! Hai ragione... B-Bene, ora
+devo... proprio... scappare! MMMPF!$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Cavolo, deve fargli davvero male...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_27|¡UAAAAA! ¡JIAAAA!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|¡Sully! ¡Estás en mejor forma que nunca!
+Te sientes mucho mejor, ¿eh?$k$p¡Y mira qué músculos! Parece que el
+entrenamiento ha dado sus frutos.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Bueno, voy progresando, pero aún
+tengo algún que otro michelín.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|¿Dónde? ¿Aquí?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|¡Oye! ¡Quítame las manos de encima!
+¡Como me vuelvas a tocar, te las corto!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|V-vale, pero Sully... Eso no es grasa.
+Es piel flácida.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|¿Cómo?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|¡Ya decía yo! Me parecía raro que dijeras
+que estabas poniéndote fofa.$k$p¡Tú, que entrenas más que nadie!$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Conque piel, ¿eh?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Probablemente está así por el efecto
+de las algas.$k$pPerdiste mucho peso de golpe, y tus
+músculos se tienen que recuperar.$k$pSeguro que, con una semana más de
+entrenamiento, tu piel quedará tersa.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Mmm... Supongo que tiene sentido.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Confía en mí, Sully. Estás en buena forma.$k$pAdemás, llevo toda la semana entrenando
+contigo, así que sé de lo que hablo.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Bueno, te haré caso.$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Además, yo no he perdido ni un poco de
+barriga, así que tú ganas.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Vale, pero no vayas a probar esas
+malditas algas, ¡ja, ja, ja!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Eeh.. ¡J-Ja, ja! Claro que no.
+Habría que estar loco para...$k$p$E苦,汗|¿Eh? AAAARRRRG...
+Oh... No...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Has comido las algas, ¿verdad?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|E-es que tú... perdiste tanto peso que...
+q-quería seguirte el ritmo...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|¡Pedazo de idiota! ¡¿Es que has olvidado
+lo que me pasó por culpa de esa cosa?!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|N-no, t-tienes... ¡Burp! Tienes razón...
+B-bueno... ¡Tengo que irme!$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Vaya... No me gustaría estar en su pellejo.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_27|Hah! Yaaah!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Looking good, Sully!
+Feeling better, I take it?$k$pAnd just LOOK at those muscles!
+I'd say your training's paid off.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|I'm getting there. Still got a bit
+of flab right here though.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_10|Where? Here?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Hey! Hands off the merchandise!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Um, Sully? That's not fat.
+That's loose skin.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Huh?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|I knew something was weird when you told
+me you were worried about getting flabby.$k$pYou train harder than anyone I know.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Skin, huh?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|It's probably a result of the seaweed.$k$pYou lost a lot of weight during your trial,
+and the muscle is still filling in.$k$pGive it another week of combat and eating
+right, and it'll disappear soon enough.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|Huh. I guess that makes sense.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Trust me. You're in perfect shape.$k$pI should know―I've been training
+with you all week!$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_8|Huh... Well, all right then.$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|I guess that means you win our contest.
+My belly hasn't shrunk an inch.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Well, just don't go trying any of that
+damn seaweed! Har har har!$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Er...heh heh, n-no, that would
+be a foolish thing to―$k$p$E苦,汗|HuuuRRRRRRGH?!$k$p...Uh-oh.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_2|Oh, don't tell me...
+You ate the seaweed?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|Y-you kept getting...skinnier...
+I h-had to...catch up...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|You idiot! You saw what that
+stuff did to me!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|N-no, you're... Urk! You're right...
+S-s-so right... Gotta go! *GURRRF*$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Yikes, that did not sound good...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_27|Hah! Yaaah!$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_17|İyi görünüyorsun Sully!
+Daha iyi hissediyorsun, değil mi?$k$pŞu kaslara bak! Antrenmanın
+işe yaramış.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Toparlıyorum. Ama şurada
+hâlâ biraz yağ var.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_10|Nerede? Burada?$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Hey! Ellerini çek!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Şey, Sully? Bu yağ değil.
+Sadece gevşek deri.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_2|Ha?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_21|Bana sarkma konusunda endişelendiğini
+söylediğinde bir şeylerin tuhaf olduğunu
+biliyordum.$k$pTanıdığım herkesten daha sıkı
+çalışıyorsun.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_9|Gevşek deri, ha?$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Muhtemelen deniz yosununun bir sonucudur.$k$pO süreçte çok kilo verdin.
+Kasların hâlâ toparlanıyor.$k$pBir hafta daha savaş ve iyi beslen;
+o fazlalık kısa sürede gider.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_13|Ha. Sanırım bu mantıklı.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_20|Güven bana. Gayet formdasın.$k$pBiliyorum; bütün hafta seninle
+antrenman yaptım!$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_8|Hah... Peki, tamam o zaman.$k
+$Wsusername|$Wa$E苦,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Demek yarışmayı sen kazandın.
+Karnım bir santim bile küçülmedi.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_11|Sakın o lanet deniz yosununu
+denemeye kalkma! Har har har!$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_17|E...heh heh, h-hayır, bu
+aptalca bir şey olurdu―$k$p$E苦,汗|HuuuRRRRRRGH?!$k$p...Eyvah.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_2|Sakın bana söyleme... Deniz yosununu
+mu yedin?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_32|Sen... gittikçe... zayıfladın...
+ben de... sana yetişmeliydim...$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Seni aptal! O şeyin bana ne
+yaptığını gördün!$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_33|H-hayır, sen... Urk! Haklısın...
+Ç-çok haklısın... Gitmeliyim! *GURRRF*$k
+$Wsusername|$Wd$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_9|Eyvah, kulağa hiç iyi gelmedi...$k
+$Sbs1000|"
+3,MID_支援_ソワレ_プレイヤー男_Ｓ_PCM1,"$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|Tu te sens mieux, $Nu ?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Le plus dur est passé, merci.$k$pEt l'entraînement a fini par payer !$k$pJe me sens plus robuste, regarde
+un peu ces muscles !$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Fantastique !$k$pEt ma peau a repris son aspect normal !
+Tu vois ? Touche, tu comprendras !$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Euh...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Quoi ?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|La dernière fois que je t'ai touchée, tu m'as
+menacé de me couper les mains.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Oui, eh bien peut-être que ça a changé,
+maintenant.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_35|Alors, je peux peut-être te donner ça...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Un anneau ? Quoi ? C'est une demande
+en mariage ?$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|Je t'aime, Sully ! Je ne pense à rien d'autre
+qu'à toi !$k$pQuand je t'ai rencontrée, je t'ai trouvée
+dure et imposante.$k$pMais plus on s'est entraîné, plus j'ai réalisé
+à quel point tu étais extraordinaire !$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Je vois.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Alors, qu'est-ce que tu en dis ?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|J'ai beaucoup pensé à toi aussi,
+$Nu.$k$pEt je dois avouer que mes pensées n'étaient
+pas désagréables.$k$pAlors, oui, j'accepte.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|Excellent ! Je vais pouvoir me remettre à
+manger des tartes !$k
+$Wsソワレ|$Wa$E怒,|$WvQU'EST-CE QUE TU AS DIT ?!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k","$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|Geht's dir besser, $Nu?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Ich glaube, ich habe das Schlimmste
+überstanden. Den Göttern sei Dank!$k$pUnd ich glaube, das Training zahlt
+sich auch für mich endlich aus!$k$pMeine Muskeln sind gewaltig! Schau dir
+die Süßen an! Grrrrr...$k$pSie sind hart wie Granit!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|...Oha! Das ist WIRKLICH beeindruckend!$k$pOh! Und schau dir meine Haut an! Alles
+wieder normal! Sieh hin! Fühl mal!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Aaah!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...Was ist?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|A-als... Als ich dich zuletzt versucht habe
+anzufassen, hast du mir Gewalt angedroht!$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Schon... Aber ich glaube, jetzt macht es mir
+nichts mehr aus, von dir berührt zu werden.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_35|Wenn das so ist, sollte ich dir vielleicht
+gleich auch den hier geben.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...Ein Ring? Machst du mir gerade
+einen Antrag?$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|Ich liebe dich, Sully! Ich kann an nichts
+anderes mehr denken!$k$pAm Anfang dachte ich, du wärst diese
+große, böse und furchteinflößende Person.$k$pAber je mehr wir trainierten, desto mehr sah
+ich, was für ein toller Mensch du bist.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...Ich verstehe.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Also, was sagst du?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|...Ich glaube, ich hab auch 'ne Menge an
+dich gedacht, $Nu.$k$pHa! Sogar als ich dich wegen dieser
+verdammten Algen verflucht hab...$k$pAber ich gebe zu, deine Muskeln haben
+mich ziemlich beeindruckt. Haha...$k$pAlso ja, ich nehme an.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|JAAA! Oh, ich bin so froh! Endich kann ich
+mit dem Training aufhören...$k$pWas meinst du? Feiern wir, indem wir
+ein paar Kuchen essen?$k
+$Wsソワレ|$Wa$E怒,|$p$WvOH, DAS KANNST DU VERGESSEN!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k","$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|Stai meglio, $Nu?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Penso che la bufera sia
+passata, grazie al cielo.$k$pE l'allenamento finalmente
+sta dando i suoi frutti!$k$pI miei muscoli sono di roccia!
+Guarda questi piccoletti! Grrr...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|Wow. Davvero incredibile.$k$pEhi, e guarda la mia pelle! È tornato
+tutto a posto, vedi? Tocca, tocca!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Ehm...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Che c'è?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|N-Niente, è che l-l'altra volta hai
+minacciato di tagliarmi le mani...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Ah, già... Beh, forse ora non
+mi darebbe poi così fastidio.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_35|No? Se è così, forse è giunta
+l'ora che ti dia questo...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|Un anello? Mi stai chiedendo di sposarti?$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|Sully, io ti amo!
+Non faccio altro che pensare a te!$k$pAll'inizio mi sembravi solo scontrosa,
+cattiva e mi facevi anche un po' paura.$k$pMan mano che ci allenavamo, però, ho
+scoperto che sei una persona meravigliosa!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Capisco...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Allora, c-cosa ne pensi?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Anche io ho pensato molto
+a te, $Nu.$k$pAnche quando ti maledicevo dopo avermi
+dato quelle maledette alghe...$k$pE ammetto che quei muscoli fanno
+un certo effetto... Eh eh.$k$pPerciò sì, accetto la tua proposta.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|SÌ! Sono felicissimo!
+Finalmente posso smetterla di allenarmi...$k$pChe ne pensi di festeggiare
+con un po' di crostata?$k
+$Wsソワレ|$Wa$E怒,|$WvNON TI AZZARDARE!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k","$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|¿Te encuentras mejor, $Nu?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Sí, gracias a los dioses.
+Parece que lo peor ya ha pasado.$k$pAdemás, creo que el entrenamiento
+está empezando a dar sus frutos.$k$p¡Mira qué músculos! ¡Je! ¡Cómo se marcan!$k$pTe has quedado con la boca abierta, ¿eh?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|¡Vaya! Pues SÍ que estoy asombrada.$k$p¡Y mira mi piel! ¡Ha vuelto a la normalidad!
+¿Has visto? Mira, ¡toca!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Eeeeh...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|¿Qué pasa?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|N-nada... Es que la última vez que te toqué,
+me amenazaste con cortarme las manos.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Ah, ¿sí? Bueno... Quizá sea que ya...
+no me importa tanto.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_35|Vaya... En ese caso... será mejor que te dé
+esto.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|¡¿Un anillo?! ¡¿Me estás pidiendo
+matrimonio?!$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|¡Te quiero, Sully! ¡No hago nada más que
+pensar en ti todo el día!$k$pCuando te conocí, solo te veía como una
+mujer fuerte y grosera. Imponías bastante.$k$pPero a medida que íbamos entrenando, me
+fui dando cuenta de lo maravillosa que eres.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Ya...$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Bueno... ¿Qué me dices?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|Lo cierto es que últimamente yo también he
+estado pensando en ti, $Nu.$k$pSobre todo cuando maldecía tu nombre
+por haberme dado esas algas... Je.$k$pAunque admito que esos musculitos te
+dan un aspecto... fenomenal. Je, je.$k$pEn fin, lo que quería decirte era que yo...
+siento lo mismo por ti. Así que sí, acepto.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|¡SÍIIIII! ¡Al fin! ¡Qué felicidad!
+¡Ahora puedo dejar de entrenar!$k$p¿Qué te parece si merendamos unos
+cuantos pastelitos para celebrarlo?$k
+$Wsソワレ|$Wa$E怒,|$Wv¡¿QUÉ HAS DICHO?!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k","$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|Feeling better, $Nu?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|I think the storm has passed,
+thank goodness.$k$pPlus all the training's starting
+to finally pay off!$k$pMy muscles are hard as rocks!
+Just look at them! Rrrrrr...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|...Whoa, that IS impressive.$k$pHey, and check out my skin!
+It's all back to normal! See? Feel it!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Er...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...What?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|N-no, I just... L-last time I touched you,
+you threatened to take my hands off.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Yeah, well... Maybe I don't
+mind quite so much now.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_35|No...? In that case, maybe
+it's time I gave you this...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...A ring? Are you...
+Are you proposing to me?$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|I love you, Sully! I can't think about
+anything else!$k$pWhen we started out, I just saw you as
+this intimidating stranger...$k$pBut the more we trained, the more I saw
+what an amazing person you really are.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...I see.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|So, wh-what do you say?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|...I guess I've been thinking about you
+a lot as well, $Nu.$k$pHeh, even as I was cursing your name for
+that damn weight-loss seaweed...$k$pOf course, you showing off those muscles
+didn't hurt either, heh heh...$k$pWhat I want to say is...I feel the same way.
+So yes. I accept.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_17|YES! Oh, I'm so happy! I can
+finally quit all these workouts...$k$pWhat do you say, shall we have
+a few pies to celebrate?$k
+$Wsソワレ|$Wa$E怒,|$WvOH NO YOU DON'T!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k","$SbpSTRM_BGM_EVT_MYUNIT1|0|$t1$Wmソワレ|7$w0|$Wsソワレ|$Wa$Wmusername|3$w0|$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_6|Daha iyi hissetmek, $Nu?$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Sanırım fırtına geçti,
+çok şükür.$k$pÜstelik tüm eğitimler nihayet
+meyvesini vermeye başlıyor!$k$pKaslarim kaya kadar sert!
+Sadece onlara bakın! Rrrrr...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_8|...Vay canına, bu çok etkileyici.$k$pHey, cildime bir bak! Her
+şey normale döndü! Gördün mü? Hisset!$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_5|Şey...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...Ne?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_10|H-hayır, ben sadece... L-sana en son
+dokundugumda, ellerimi çekmekle tehdit
+etmistin.$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_13|Evet, peki... Belki artık o
+kadar da umursamıyorum.$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_35|HAYIR...? Bu durumda, belki de
+sana bunu vermemin zamanı gelmiştir...$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_2|...Yüzük mü? Sen... Bana
+evlenme teklif mi ediyorsun?$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_16|Seni seviyorum Sully! Başka hiçbir şey
+düşünemiyorum!$k$pYola çıktığımızda, seni korkutucu
+bir yabancı olarak gördüm...$k$pAma ne kadar çok eğitim alırsak, senin
+gerçekte ne kadar muhteşem bir insan
+olduğunu o kadar çok gördüm.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...Anlıyorum.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Peki ne diyorsun?$k
+$Wsソワレ|$Wa$SvpSE_VOICE_SOIREE_EVT_7|...sanırım ben de seni çok
+düşünüyordum. $Nu.$k$pHeh, o lanet kilo verdirici deniz yosunu
+için ismine küfrederken bile...$k$pTabii o kasları göstermenin de
+zararı olmadı, heh heh...$k$pSöylemek istediğim su...Ben de aynı
+şekilde hissediyorum. Yani evet. Kabul
+ediyorum.$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_17|EVET! Ah, o kadar mutluyum ki! Sonunda tüm
+bu antrenmanlari bırakabilirim...$k$pNe dersin, kutlamak için
+birkaç turta yiyelim mi?$k
+$Wsソワレ|$Wa$E怒|$WvAH HAYIR YAPMAYIN!$k
+$Sbs2000|$Fw1000|$Wsソワレ|$Wd$Wsusername|$Wd$w0|$bテロップ,Tlp_Ev_c018|$w0|$Fi1000|$SspSE_VOICE_SOIREE_EVT_M_1|$w0|$k"
+4,MID_支援_ソワレ_プレイヤー男_Ｃ_PCM2,,,,,,
+5,MID_支援_ソワレ_プレイヤー男_Ｂ_PCM2,,,,,,
+6,MID_支援_ソワレ_プレイヤー男_Ａ_PCM2,,,,,,
+7,MID_支援_ソワレ_プレイヤー男_Ｓ_PCM2,,,,,,
+8,MID_支援_ソワレ_プレイヤー男_Ｃ_PCM3,,,,,,
+9,MID_支援_ソワレ_プレイヤー男_Ｂ_PCM3,,,,,,
+10,MID_支援_ソワレ_プレイヤー男_Ａ_PCM3,,,,,,
+11,MID_支援_ソワレ_プレイヤー男_Ｓ_PCM3,,,,,,

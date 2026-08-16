@@ -1,0 +1,830 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_フレデリク_リズ_Ｃ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Hmm. C'est curieux. J'aurais juré qu'il
+se trouvait dans le coin...$k$p$E通常,|Ah ha ! Te voilà, Frederick ! Bah alors ?
+C'est quoi cet air grincheux ?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|C'est malheureusement l'air qui me
+caractérise... Puis-je vous être utile ?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Tu faisais quoi tout à l'heure ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Je vérifiais l'usure de notre matériel
+dans l'armurerie.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|Je vois ! Je vais te filer un coup de main,
+alors !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Je dois décliner votre offre, car vous
+risqueriez de vous blesser avec une arme...$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Tu exagères ! Tu me prends vraiment pour
+une enfant, hein ? Ou pour une incapable ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|Non, mais vous êtes une princesse sous
+ma protection.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Ouais, bla bla bla...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Vous aviez besoin de quelque chose ?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|Non, pas vraiment... Enfin, si ! J'aurais
+besoin que tu me rendes un service...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Comment puis-je vous servir ?$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_5|J'aimerais que tu m'entraînes comme tu le
+fais pour le reste du groupe.$k$pJ'en ai marre de rester toujours en retrait.
+Moi aussi, je veux mener la charge !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|C'est une bonne initiative. Et c'est avec
+plaisir que j'accepte de vous entraîner.$k$pMais avant d'y aller, vous devez savoir que
+je suis très exigeant. Réfléchissez bien.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_20|C'est tout réfléchi ! C'est parti !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Hm, das ist ja seltsam. Ich hätte schwören
+können, dass er hier irgendwo--$k$p$E通常,|Ahaaa! Da bist du ja, Frederick! ...Oh,
+warum das grummelige Gesicht?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ich fürchte, ich habe nur das eine Gesicht,
+meine Dame. Was kann ich für Euch tun?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Was machst du denn da hinten?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Ich überprüfe den Inhalt unseres
+Rüstlagers auf unbrauchbare Ausrüstung.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|Uuuh! Ich helfe dir dabei!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Das kann ich nicht zulassen. Ihr könntet
+Euch aus Versehen verletzen.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Hältst du mich für eine Idiotin?!?
+Also wirklich, Frederick!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|Ich halte Euch für die Prinzessin, für deren
+Schutz ich persönlich verantwortlich bin.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Ja, ja... Laaaaaaaangweilig!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Wolltet Ihr etwas Bestimmtes von mir?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|Oh, nein. Ich meine, ja, aber...
+Ich wollte dich um einen Gefallen bitten.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Wie kann ich Euch dienlich sein?$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_5|Ich will, dass du mich trainierst. So wie
+die anderen!$k$pIch bin es leid, immer hinterherzuhinken!
+Ich will mich behaupten können!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Eine sehr gute Idee! Ich helfe Euch gerne
+bei Eurem Training.$k$pAber ich muss Euch warnen. Ich bin ein
+strenger Lehrer. Wollt Ihr das wirklich?$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_20|Oh, auf jeden Fall!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Uh. Strano, avrei giurato di
+aver visto qualcuno qui...$k$p$E通常,|Ah ah! Eccoti qui, Frederick! Caspita,
+perché quell'espressione così seria?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Temo che questa sia la mia unica
+espressione. Posso aiutarvi?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Cosa stavi facendo lì dietro?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Stavo ispezionando la nostra armeria, alla
+ricerca di equipaggiamento danneggiato.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|Oooh! Ti aiuterò io, allora!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Non posso permetterlo.
+Vi potreste ferire con un'arma.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Pensi io sia una totale idiota?
+Sul serio, Frederick!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|Credo voi siate una principessa che ho
+giurato di proteggere a tutti i costi.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Sì, sì, e io credo tu sia così noiooooooso...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Avete davvero bisogno
+di qualcosa da me?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|Oh, no. Cioè, sì, ma... Vorrei
+chiederti un favore.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Per servirvi, mia signora.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_5|Vorrei allenarmi col resto del gruppo.$k$pSono stanca di restare sempre indietro.
+Anch'io voglio farmi valere!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Non è un'idea malvagia. Sarà un piacere
+potervi assistere nel vostro allenamento.$k$pTuttavia, non sono affatto tenero come
+insegnante. Rifletteteci bene.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_20|Ci ho già riflettuto!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Vaya, qué raro... Juraría que estaba
+aquí hace nada...$k$p$E通常,|¡Ah! ¡Ahí estás, Frederick!
+Dioses, ¿a qué viene esa cara?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Me temo que esta es la única cara que
+tengo, mi señora. ¿Necesitáis algo?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|¿Qué estás haciendo aquí solo?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Estaba inspeccionando la armería para
+detectar el equipo dañado o gastado.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|¡Ooooh! ¡Pues te ayudo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|No puedo permitíroslo. Os podríais cortar
+accidentalmente y no me lo perdonaría.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|¡¿Crees que soy una niña pequeña?! ¡¿O
+que soy idiota?! Venga, Frederick...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|Creo que sois mi princesa y que he
+jurado manteneros a salvo.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Sí, sí, bla, bla, bla...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|¿Me buscabais por algún
+motivo concreto?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|¿Eh? No... O sea, sí, pero... Verás,
+te quería pedir un favor.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|¿En qué puedo serviros?$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_5|Quiero que me entrenes exactamente igual
+que entrenas a los demás.$k$pYa estoy harta de que todos me saquen
+ventaja. Por una vez, quiero dejarlos atrás.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Creo que es una buena idea, y será un
+placer poder ayudaros.$k$pAunque os advierto que no soy un maestro
+permisivo. ¿Estáis segura de esto?$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_20|¡Oh, vaya si lo estoy!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Huh. That's odd. I could have
+sworn he was over here some―$k$p$E通常,|Ah ha! There you are, Frederick!
+...Geez, why the grumpy face?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|I fear this is the only face I have, milady.
+Was there something you needed?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|What are you doing back here?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Inspecting the contents of our armoury
+for worn or damaged equipment.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|Oooo! I'll help!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|I cannot allow that. You could
+cut yourself, or accidentally―$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Do you think I'm an idiot?!
+Honestly, Frederick!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|I think you are a princess whom
+I am duty-bound to keep safe.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Yeah, yeah, booooooring...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Was there something
+you needed from me?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|Oh, no. I mean, yes, but...
+I wanted to ask you a favour.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|How may I serve you?$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_5|I want you to train me like you do
+the others.$k$pI'm tired of struggling to keep up with
+everyone. I wanna hold my own!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|A fine idea―it would be my pleasure to
+assist in your training.$k$pThough I must warn you, I am not a gentle
+teacher. Be certain you want this.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_20|Oh, I am!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_18|Ha. Bu çok tuhaf. Onun bir ara
+burada olduğuna yemin edebilirdim.$k$p$E通常|Ah ha! İşte buradasın Frederick!
+...Tanrım, neden bu huysuz yüz?$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_13|Korkarım sahip olduğum tek yüz bu, leydim.
+İhtiyacınız olan bir şey mi vardı?$k
+$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_25|Burada ne yapıyorsun?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Cephaneligimizin içeriğini asinmis veya
+hasar görmüş ekipmanlar açısından
+inceliyoruz.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_24|Ooo! Yardım edeceğim!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Buna izin veremem. Kendinizi
+kesebilirsiniz ya da yanlışlikla―$k
+$Wsリズ|$Wa$E怒|$SvpSE_VOICE_LIZ_EVT_12|Benim bir aptal olduğumu mu
+düşünüyorsun? Gerçekten Frederick!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_20|Sanırım sen, güvende tutmakla
+yükümlü olduğum bir prensessin.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_11|Evet, evet, öööööööö...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Benden istediğin
+bir şey mi vardı?$k
+$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_19|Hayır. Yani evet ama...
+senden bir iyilik istemek istedim.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Size nasıl hizmet edebilirim?$k
+$Wsリズ|$Wa$Eキメ|$SvpSE_VOICE_LIZ_EVT_5|Diğerlerine yaptığın gibi beni de
+eğitmeni istiyorum.$k$pHerkese yetişmeye çalışmaktan yoruldum.
+Kendi ayaklarımın üzerinde durmak
+istiyorum!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_7|Güzel bir fikir; eğitiminize yardımcı
+olmaktan memnuniyet duyarım.$k$pSeni uyarmalıyım ama ben nazik bir
+öğretmen değilim. Bunu istediğinden emin
+ol.$k
+$Wsリズ|$Wa$E笑|$SvpSE_VOICE_LIZ_EVT_20|Ah, öyleyim!$k
+$Sbs1000|"
+1,MID_支援_フレデリク_リズ_Ｂ,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Approchez, Dame Lissa.
+Nous allons commencer l'entraînement.$k$pEt inutile de prendre la fuite, cette fois-ci.
+Je n'hésiterai pas à vous courser à cheval.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|C'était bien la peine d'ouvrir mon clapet... !$k$pFrederick, je t'en supplie ! J'ai des horribles
+courbatures à cause de l'autre fois !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Il faut donc vous entraîner davantage.
+Une remise en forme s'impose.$k$pAllons, du nerf ! Vous n'arriverez à rien si
+vous continuez à vous chercher des excuses.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_11|Je n'arriverai à rien non plus si je me tue
+à la besogne !$k$p$E通常,|J'ai besoin d'une pause, Frederick.
+Tu sais ce que ça veut dire, non ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Ce mot ne m'est pas étranger.
+Mais je n'en vois pas la nécessité.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|C'est pourtant pas sorcier !
+À vouloir en faire trop, on finit par craquer.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Mon devoir de chevalier est de vous
+protéger, Chrom et vous.$k$pJe me suis engagé à vous servir en tout
+temps. Je ne puis m'accorder aucun répit.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_14|Ton vrai souci c'est que tu es incapable
+de te détendre !$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_9|Oh, mince ! Ne me dis pas que c'est
+vraiment le cas ?!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Assez discuté... En position !
+Nous allons apprendre à éviter les flèches.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_18|Et si tu apprenais d'abord à éviter d'être
+sérieux comme un pape... ?$k
+$Wsフレデリク|$Wa...$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_21|Ahem, je vois qu'on a encore du pain sur
+la planche... On va faire une chose utile.$k$pTu m'apprends à parfaire ma technique et
+moi je t'apprends l'art de flemmarder.$k$pTu es bien tombé. Dans le genre flemmarde,
+tu ne trouveras pas mieux que moi en Ylisse.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Dame Lissa, le temps nous est compté,
+et nous ne pouvons pas...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_12|Quand on est paresseux, on trouve toujours
+le temps de ne rien faire !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Vous voulez m'apprendre à ne rien faire ?
+Mais c'est le triomphe de la fainéantise !$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|Tu as compris l'idée ! Bien, commençons !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Il n'est peut-être pas trop tard pour
+prendre la fuite à mon tour...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Kommt, meine Dame. Es wird Zeit für
+Eure Lektion.$k$pUnd lauft nicht wieder davon. Wenn es sein
+muss, hole ich sogar gleich mein Pferd.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|Argh... Ich und mein loses Mundwerk!$k$pFrederick, biiiitteeee! Mir tut immer noch
+alles von gestern weh!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Ein deutliches Zeichen dafür, dass Ihr mehr
+trainieren müsst! Ihr seid nicht in Form!$k$pKommt nun. Die Ausreden werden Euch
+sicher nicht stärker machen.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_11|Wenn ich mich zu Tode trainiere, werde
+ich aber auch nicht stärker!$k$p$E通常,|Ich brauche eine Pause, Frederick!
+Weißt du, was das ist? Eine Pause?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Ja, ich kenne das Konzept. Aber ich selbst
+habe kein Bedürfnis für Pausen.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|Wie ist das möglich? Man muss doch mal
+Dampf ablassen, sonst explodiert man!$k$pUnd glaub mir, das ist kein schöner Anblick.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Ich lebe, um Euch und Chrom zu dienen und
+zu beschützen. Dies ist meine Pflicht.$k$pMein ritterlicher Eid enthält keine Klausel
+bezüglich festgelegter Pausenzeiten.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_14|Weißt du was? Ich glaube, du WEISST
+einfach nicht, wie man sich entspannt!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_9|Es war ein Scherz... Hatte ich etwa Recht?
+Du weißt nicht, wie man sich entspannt?!?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|...Genug der Worte. Bezieht Stellung.
+Heute üben wir, Pfeilen auszuweichen.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_18|Wohl eher, Fragen auszuweichen.$k
+$Wsフレデリク|$Wa...$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_21|Na gut. Ich sehe schon, das wird ein
+bisschen mehr Arbeit. Wie wäre es damit...$k$pAls Ausgleich dafür, dass du mich trainierst,
+werde ich dir zeigen, wie man entspannt!$k$pDu solltest dich geehrt fühlen! Ich bin die
+entspannteste Person in ganz Ylisse!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Meine Dame, wir haben wirklich
+keine Zeit für so etwas.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_12|Wenn man sich keine Zeit nimmt, um Zeit
+zu verschwenden, lernt man nie, wie es geht.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Zeit auf das Lernen von Zeitverschwendung
+zu verschwenden klingt nach...$k$pNun ja, das klingt nach Zeitverschwendung.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|Genau! Also, dann legen wir mal los!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Vielleicht bin ich jetzt derjenige, der
+davonlaufen sollte...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Avanti, mia signora. È tempo di
+cominciare le nostre lezioni.$k$pE non provate a scappare di nuovo.
+Vi inseguirò a cavallo, se devo.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|Ugh, perché non so tenere la bocca chiusa?$k$pFrederick, ti preeego! Sono ancora
+dolorante per l'ultimo allenamento.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Un chiaro segno della necessità di allenarsi
+ancora. Dovete rimettervi in forma.$k$pAdesso fatevi avanti. Non diventerete
+mai più forte se state lì impalata.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_11|Non diventerò più forte nemmeno
+se mi alleno fino a morire!$k$p$E通常,|Ho bisogno di una pausa, Frederick.
+Sai cos'è una pausa?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Ne ho sentito parlare, sì. Ma, normalmente,
+non avverto il bisogno di fare pause.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|Com'è possibile? Tutti ne hanno bisogno!
+A forza di strafare finirai per farti male.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Il mio dovere di cavaliere consiste
+nel proteggere voi e Chrom.$k$pIl giuramento che ho prestato non
+prevede pause o tempo libero.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_14|Sai una cosa? Credo che tu
+non sappia come rilassarti.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_9|Oh no! Io stavo scherzando, ma tu...
+davvero non sai come rilassarti?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Bando alle chiacchiere. In posizione.
+Ci alleneremo a evitare le frecce.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_18|Hai già imparato a evitare le domande.$k
+$Wsフレデリク|$Wa...$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_21|D'accordo, d'accordo. Ho capito di
+avere ancora molto da imparare.$k$pCome ricompensa per avermi reso più forte,
+t'insegnerò a battere la fiacca. Che ne dici?$k$pDovresti sentirti onorato. Ti allenerà la più
+grande scansafatiche di tutta l'Ylisse!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Mia signora, non credo ci sia tempo per-$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_12|Se non troviamo del tempo da perdere,
+non imparerai mai a perderlo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Perdere tempo per imparare come perdere
+tempo mi pare una gran perdita di tempo.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|Appunto! Stai già imparando.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Forse dovrò essere io a trovare
+un modo per scappare via...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Vamos, mi señora. Es hora de vuestras
+lecciones diarias.$k$pY no tratéis de salir corriendo de nuevo.
+Iré a por mi caballo si es necesario.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|Arg... Cuándo aprenderé a cerrar la boca...$k$p¡Frederick, porfaaaaaaa! Tengo todo el
+cuerpo magullado tras la lección de ayer.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Señal inequívoca de que debéis entrenar
+más. No estáis en forma.$k$pVenga, venid. No os haréis más fuerte si
+os quedáis aquí inventando excusas.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_11|Tampoco me haré más fuerte si fallezco
+por exceso de entrenamiento, ¡¿no crees?!$k$p$E通常,|Necesito un descanso, Frederick.
+¿Sabes lo que es eso?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Es un concepto que conozco, por supuesto,
+mas no es algo que necesite.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|¿Cómo es posible? Si alguien no descansa,
+acaba reventando y eso no es agradable.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Mi misión y deber como caballero es
+serviros y protegeros, a vos y a Chrom.$k$pMi voto de caballero no dice nada
+acerca de descansos.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_14|¿Sabes qué? Creo que, en realidad,
+no tienes ni idea de cómo relajarte.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|(...)$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_9|¡Ja! ¡¿He dado en el clavo?!
+¡Y eso que lo decía de broma!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Es suficiente. Adoptad la postura adecuada.
+Hoy practicaremos cómo esquivar flechas.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_18|Yo más bien diría ""cómo
+esquivar preguntas"".$k
+$Wsフレデリク|$Wa(...)$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_21|Muy bien, vale. Veo que esto me va a llevar
+algo de tiempo. Te propongo un trato.$k$pA cambio de tu ayuda para hacerme más
+fuerte, te enseñaré el arte de hacer el vago.$k$pDeberías sentirte honrado. ¡En todo Ylisse,
+nadie sabe de esta materia más que yo!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Mi señora, me temo que no disponemos
+del tiempo necesario para...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_12|¡Nunca aprenderás a malgastar el
+tiempo si no empiezas a malgastarlo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Malgastar tiempo solo por aprender...
+¡es una enorme pérdida de tiempo!$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|¡Veo que lo captas!
+Así que vamos a empezar.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|¡Me parece que ahora soy yo quien
+debería echarse a correr!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Come, milady. It's time for your lessons.$k$pAnd don't bother trying to run away this
+time. I'll fetch my horse if need be.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|Guh... Me and my big mouth.$k$pFrederick, pleeeeease! My whole
+body's one big bruise after yesterday.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|A clear indication you need to train more.
+You're badly out of shape.$k$pNow come. You'll never get stronger
+by making excuses.$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_11|I won't get any stronger if I die
+from training too hard, either!$k$p$E通常,|I need a break, Frederick.
+Do you know what a break is?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|I'm familiar with the concept, yes. But it's
+not something I engage in personally.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|How is that possible? People need to let off
+steam or they explode. It's very messy.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|I exist to serve and protect you and Chrom.
+That is my role as a knight.$k$pThe oath I took did not include stipulations
+for time off.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_14|You know what? I think you just
+don't know HOW to relax.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_9|Wait! I thought I was joking... Was I right?!
+You don't know how to relax?!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|...Enough talk. Adopt your stance.
+We'll practice dodging arrows.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_18|More like dodging questions.$k
+$Wsフレデリク|$Wa...$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_21|All right, fine. I can see this is going to
+take some doing. So how about this:$k$pin exchange for you making me stronger,
+I'll train you in the art of slacking off.$k$pYou should feel honoured. I'm the best
+slacker in all Ylisse!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Milady, we really don't
+have time for―$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_12|If we don't make the time to waste,
+you'll never learn to waste time!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Wasting time learning how to better waste
+time seems a frightful waste of time indeed.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|Exactly! So let's get started.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Perhaps this time I should be the
+one running away...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_17|Gel leydim. Derslerinizin zamanı geldi.$k$pBu kez kaçmaya çalışma bile.
+Gerekirse atımı getiririm.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_17|Guh... Şu çenemi tutamıyorum.$k$pFrederick, lütfen sakin ol! Dünden sonra
+tüm vücudumda büyük bir morluk olustu.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Daha fazla antrenman yapmanız gerektiginin
+açık bir göstergesi. Fena halde
+formsuzsun.$k$pŞimdi gel. Bahaneler üreterek asla
+güçlenemezsiniz.$k
+$Wsリズ|$Wa$E怒|$SvpSE_VOICE_LIZ_EVT_11|Çok fazla antrenman yapmaktan
+ölürsem de daha fazla güçlenemeyeceğim!$k$p$E通常|Biraz molaya ihtiyacım var
+Frederick. Mola nedir biliyor musun?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Kavrama asinayim, evet. Ama bu kişisel
+olarak ilgilendigim bir konu değil.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_10|Bu nasıl mümkün olabilir? İnsanların
+stresi atmasi gerekiyor, yoksa
+patlayacaklar. Çok karmaşık.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Size ve Chrom'a hizmet etmek ve onları
+korumak için varım. Bir şövalye olarak
+benim rolüm budur.$k$pEttiğim yeminde izin
+şartı yoktu.$k
+$Wsリズ|$Wa$Eキメ|$SvpSE_VOICE_LIZ_EVT_14|Biliyor musun? Sanırım NASIL
+rahatlayacağınızı bilmiyorsunuz.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...$k
+$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_9|Bekle! Şaka yaptığımı sanıyordum...
+Haklı mıydım?! Nasıl rahatlayacağını
+bilmiyor musun?$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_17|...bu kadar konuşma yeter. Durusunuzu
+benimseyin. Oklardan kaçma alistirmasi
+yapacağız.$k
+$Wsリズ|$Wa$Eどや|$SvpSE_VOICE_LIZ_EVT_18|Daha çok sorulardan kaçmak gibi.$k
+$Wsフレデリク|$Wa...$k
+$Wsリズ|$Wa$Eどや|$SvpSE_VOICE_LIZ_EVT_21|Tamam, tamam. Bunun biraz zaman alacağını
+görebiliyorum. Peki buna ne dersiniz:$k$pBeni güçlendirmen karşılığında seni
+tembellik sanatı konusunda eğiteceğim.$k$pOnur duymalisiniz. Ben
+Ylisse'deki en iyi tembelim!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_2|Hanımefendi, gerçekten
+vaktimiz yok...$k
+$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_12|Eğer boşa harcayacak zaman yaratmazsak,
+zaman kaybetmeyi asla öğrenemezsiniz!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|Zamanı nasıl daha iyi harcayabileceğini
+öğrenmek için zaman harcamak gerçekten de
+korkunç bir zaman kaybı gibi görünüyor.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|Kesinlikle! Öyleyse başlayalım.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Belki bu sefer kaçan
+ben olmalıyım...$k
+$Sbs1000|"
+2,MID_支援_フレデリク_リズ_Ａ,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_14|Approche, Frederick. Nous allons
+commencer l'entraînement !$k$pInutile de te cacher. Ça se voit que tu n'as
+jamais joué à cache-cache !$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, te voilà !$k$p$E笑,|Allez, ne me dis pas que tu ne t'es pas
+amusé l'autre fois ?!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|Vous parlez d'errer sans but pendant des
+heures à importuner le reste du camp ?$k$pOu du champ où nous nous sommes
+allongés pour contempler bêtement le ciel ?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|C'était génial, non ?
+Une expérience régénérante et salvatrice !$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|C'était éreintant !$k$pJamais au cours de mes années de combat
+je ne m'étais senti aussi exténué.$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_17|Il faut donc apprendre à te détendre encore
+plus ! Une démise en forme s'impose !$k
+$Wsフレデリク|$Wa$E通常,|...$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|C'était vraiment une corvée, pour toi ?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Je ne parlerais point de... corvée.$k$pLe temps passé en votre compagnie était
+une expérience... nouvelle et précieuse.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_15|Ah, bien ! Je suis ravie de l'entendre !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Je ne vis que pour vous servir,
+Mademoiselle.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_30|Dans ce cas, suis-moi ! Si on ne contemple
+pas le ciel, personne ne le fera pour nous !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Nous sommes déjà restés à paresser hier.
+Pourquoi ne pas changer de routine ?$k$pLes jours pairs, nous nous entraînons.
+Les jours impairs, nous... paressons.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|Aïe !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_14|Komm, Frederick. Es wird Zeit für
+deine Lektion.$k$pUnd versteck dich nicht wieder.
+Du kannst das sowieso nicht gut.$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, da bist du ja.$k$p$E笑,|Komm schon! War es letztes Mal nicht ein
+Riesenspaß?!?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|Meint Ihr, als wir stundenlang ziellos durch
+das Lager streiften und Leute störten?$k$pOder als wir im Kornfeld lagen und die
+Wolken anstarrten?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|Beides! Das war fantastisch, oder?
+Verjüngend? Lebensverändernd?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|Es war anstrengend!$k$pIn all den Jahren, die ich für den Kampf
+trainiere, war ich noch nie so erschöpft!$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_17|Ein deutliches Zeichen dafür, dass du öfter
+entspannen musst. Du bist zu gut in Form!$k
+$Wsフレデリク|$Wa$E通常,|...$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|...Hat es dir wirklich gar nicht gefallen?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Nun... Ich sage nicht, dass es... ganz
+ohne Reiz war.$k$pDie Zeit, die wir gemeinsam auf
+Entdeckungsreise waren, war eine Erfahrung.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_15|Oh, wunderbar! Es freut mich so, das zu
+hören!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Wenn es Euch erfreut, freut es mich
+auch, meine Dame.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_30|Dann mal los! Diese Wolken starren sich
+ganz sicher nicht von allein an!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Wir haben uns gestern schon entspannt.
+Wie wäre es, wenn wir abwechseln?$k$pAn geraden Tagen... trainieren wir.
+An ungeraden Tagen... entspannen wir.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|Argh!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_14|Forza, Frederick.
+È ora della tua lezione.$k$pE non provare a nasconderti di nuovo.
+Posso scovarti ovunque.$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, eccoti qui.$k$p$E笑,|Su, non dirmi che l'ultima lezione
+non è stata divertente!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|Quella lezione in cui abbiano girovagato per
+ore senza meta, importunando tutti quanti?$k$pO quella in cui eravamo distesi sull'erba a
+fare niente se non osservare le nuvole?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|Già, è stato grandioso, non è vero?
+Rinvigorente? Illuminante?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|È stato sfiancante!$k$pIn tutti gli anni di allenamenti e battaglie
+non mi sono mai stancato tanto!$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_17|Un chiaro segno che devi rilassarti di più!
+Sei troppo in forma, Frederick.$k
+$Wsフレデリク|$Wa$E通常,|...$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|Sul serio non ti sei divertito?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Non posso dire non sia stato... divertente.$k$pIl tempo trascorso a girovagare con voi
+è stato un'esperienza nuova e preziosa.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_15|Oh, che bello! Sono così
+felice di sentirtelo dire!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Se voi siete felice, lo sono anch'io,
+mia signora.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_30|Bene, allora diamoci da fare! Quelle
+nuvole non si guarderanno da sole!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Abbiamo già oziato ieri.
+Vorrei proporre un programma alternativo.$k$pNei giorni pari ci alleniamo. Mentre
+nei giorni dispari... oziamo.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|Urca!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_14|Venga, Frederick. Es hora de
+tus lecciones.$k$pY esta vez no te molestes en
+esconderte. Se te da fatal.$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|(...)$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, ahí estás.$k$p$E笑,|Vamos, ¡admite que la última
+vez te lo pasaste de miedo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|¿Cuándo? ¿Cuando estuvimos vagando por
+el campamento molestando a la gente?$k$p¿O tal vez cuando estuvimos echados en
+un prado contemplando las nubes?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|Fue increíble y revitalizante ¿a que sí?
+¿No cambió tu forma de ver las cosas?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|¡Acabé exhausto!$k$pLlevo años combatiendo y entrenando, pero
+¡nunca me había sentido tan cansado!$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_17|¡Señal inequívoca de que debes relajarte
+más! Estás demasiado en forma, Frederick.$k
+$Wsフレデリク|$Wa$E通常,|(...)$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|¿De verdad que no te
+lo pasaste bien?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Bueno, he de reconocer que fue... agradable
+en cierto modo...$k$pLas exploraciones que realizamos juntos me
+han aportado una valiosa experiencia.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_15|¡Oh, cielos! ¡Cuánto me
+complace oír eso!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Solo vivo para complaceros,
+mi señora.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_30|¡Muy bien, pues empecemos! ¡Alguien
+tendrá que contemplar esas nubes!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|Ya estuvimos holgazaneando ayer...
+Os propongo un programa alternativo.$k$pEn los días pares, entrenamos; en los días
+impares... ¡Ejem! Nos relajamos.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|¡Jo!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_14|Come, Frederick. It's time for your lessons.$k$pAnd don't bother trying to hide this time.
+You're terrible at it, you know.$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, there you are.$k$p$E笑,|Come on, didn't we have fun last time?!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|Doing what? Wandering about camp,
+bothering the others for no cause?$k$pOr do you mean when we laid in a field,
+aimlessly staring at clouds for hours?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|Both! It was amazing, right? Rejuvenating?
+Life changing?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|It was exhausting!$k$pIn all my years of training and
+combat, I've never felt so tired!$k
+$Wsリズ|$Wa$Eキメ,|$SvpSE_VOICE_LIZ_EVT_17|A clear indication you need to relax more!
+You're too in shape, Frederick.$k
+$Wsフレデリク|$Wa$E通常,|...$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|...Did you seriously not enjoy ANY of it?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Well...I can't say it was...entirely
+unenjoyable...$k$pThe time we spent exploring was
+a new and valuable experience.$k
+$Wsリズ|$Wa$E笑,|$SvpSE_VOICE_LIZ_EVT_15|Oh, goody! I'm so happy to hear that.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|If you are happy, then I am happy, milady.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_30|Well then, let's get started! Those clouds
+aren't going to watch themselves!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_17|But we lazed about yesterday.
+I propose an alternating schedule.$k$pEven-numbered days, we train.
+Odd-numbered days, we...*ahem* Relax.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|Awww...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmリズ|7$w0|$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_14|Gel, Frederick. Ders vakti.$k$pBu kez saklanmaya çalışma. Bunda
+gerçekten berbatsın, biliyorsun.$k
+$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_23|...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_19|Ah, işte buradasın.$k$p$E笑|Hadi ama geçen sefer eğlenmedik mi?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_16|Ne yaparken? Kampta amaçsızca dolaşıp
+herkesi rahatsız ederken mi?$k$pYoksa bir tarlada uzanıp saatlerce
+amaçsizca bulutlara baktigimiz zamanı mı
+kastediyorsun?$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_25|İkisi de! Harikaydı, değil mi?
+Dinlendirici? Hayat değiştirici?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_18|Çok yorucuydu!$k$pTüm eğitim ve dövüş yıllarım boyunca
+kendimi hiç bu kadar yorgun
+hissetmemiştim!$k
+$Wsリズ|$Wa$Eキメ|$SvpSE_VOICE_LIZ_EVT_17|Demek daha çok dinlenmelisin! Fazla
+formdasın, Frederick.$k
+$Wsフレデリク|$Wa$E通常|...$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_24|...Cidden HİÇBİRİNDEN keyif almadın mi?$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_11|Şey...tamamen keyifsiz olduğunu
+söyleyemem...$k$pKesfetmek için harcadigimiz zaman
+yeni ve değerli bir deneyimdi.$k
+$Wsリズ|$Wa$E笑|$SvpSE_VOICE_LIZ_EVT_15|Yaşasın! Bunu duyduğuma çok sevindim.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Eğer siz mutluysaniz, ben de mutluyum
+leydim.$k
+$Wsリズ|$Wa$E通常|$SvpSE_VOICE_LIZ_EVT_30|O hâlde başlayalım! O bulutlar
+kendilerini seyretmeyecek!$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_17|Ama dün tembellik ettik. Gün aşırı
+yapmayı öneriyorum.$k$pÇift günler antrenman. Tek günlerse...
+*öhöm* Dinlenme.$k
+$Wsリズ|$Wa$E苦,汗|$SvpSE_VOICE_LIZ_EVT_27|Ah...$k
+$Sbs1000|"
+3,MID_支援_フレデリク_リズ_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Coucou, Frederick, je... hein ?
+Tu viens de cacher quelque chose ?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|Moi ? Aucunement...
+Puis-je faire quelque chose pour vous ?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Oui, me montrer ce que tu me caches !
+Mentir, c'est pas trop ton fort...$k$pCe ne serait pas l'anneau que tu as acheté
+en cachette quand on était au village ?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Rien ne vous échappe...$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Hi hi. Tu pensais pouvoir me cacher ça ?
+Je sais tout, moi !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|Dans ce cas, j'imagine que vous connaissez
+également mes intentions...$k$pEt que cet anneau vous est destiné...$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|...$k$pJ'avais plus ou moins deviné, mais on n'est
+jamais vraiment sûr de rien...$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|Ainsi, j'ai bien perdu mon temps à esquisser
+en vain mille façons de vous en faire part...$k$p$Eキメ,|Connaître quelqu'un depuis si longtemps
+ne comporte pas que des avantages...$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|Bravo, Frederick ! Je suis fière de te voir
+enfin maîtriser l'art de perdre son temps !$k$pÀ part ça... Tu veux que je te révèle
+quelque chose ?$k$p$Eキメ,照|Est-ce que... Est-ce que tu savais que tu
+étais le premier pour qui j'ai eu le béguin ?$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Mademoiselle... Je... Je l'ignorais.$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|Tu ne l'avais jamais remarqué ?! C'est fou
+ce que tu peux être aveugle, parfois !$k$p$Eどや,照|Mais tout est bien qui finit bien. J'aurai
+quand même réussi à réaliser mon rêve.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|De quel rêve parlez-vous ?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|Eh bien d'épouser mon premier amour !
+C'est un peu le rêve de toutes les filles.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Cela également, je l'ignorais...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|Et quel est ton rêve à toi ?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|De vous rendre heureuse à mes côtés et
+de m'assurer que vous me survivrez.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Bien, tope-la !$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Je... D'accord, Dame Lissa.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|Dis donc, ce serait bien que tu commences
+à m'appeler uniquement par mon prénom !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Fort... Fort bien... Lissa...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Hallo, Frederick! Ich... Hmm? Hihihi...
+Was hast du da eben hektisch weggesteckt?$k$pVersteckst du da etwas vor mir, Frederick?
+Hiiihihihi...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|Ich? Natürlich nicht, meine Dame. Ich doch
+nicht... Äh, wie kann ich Euch weiterhelfen?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Indem du mir zeigst, was du da versteckst.
+Du bist wirklich ein schlechter Lügner.$k$pIst das der Ring, den du letztens ""heimlich""
+gekauft hast, als wir in der Stadt waren?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...Ich war wohl nicht heimlich genug.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Hihihi! Denkst du, du könntest nach all den
+Jahren vor MIR ein Geheimnis bewahren?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|Dann wisst Ihr wohl auch, warum ich
+den Ring gekauft habe...$k$pUnd dass er für Euch gedacht ist.$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|...$k$pNa ja. Ich war mir ZIEMLICH sicher, aber
+man kann nie wissen, bis man es weiß.$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|...Dann war es wohl Zeitverschwendung, mir
+17 verschiedene Anträge auszudenken.$k$p$Eキメ,|Ihr kanntet mich schon immer so gut.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|Offenbar hast du gut trainiert! Ich bin stolz,
+dass du so toll Zeit verschwendet hast!$k$pUnd natürlich kenne ich dich gut, Frederick.
+Wieso auch nicht?$k$p$Eキメ,照|Du warst der erste Mann, in den ich
+mich jemals verliebt habe.$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Meine Dame, das... Ich war mir dessen
+nie bewusst!$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|Das war mir klar, auch wenn ich es SO oft
+SO deutlich gemacht habe!$k$pManchmal kannst du echt ziemlich blöde
+sein...$k$p$Eどや,照|Aber Ende gut, alles gut! Mein Traum
+wird schließlich Wirklichkeit! Hiiihihihi.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|Und was für ein Traum ist das?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|Meine erste Liebe zu heiraten!
+Davon träumt doch jedes Mädchen.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Ich fürchte, mit solchen Dingen
+kenne ich mich nicht aus...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|Aber du musst doch von etwas träumen,
+oder? Was ist dein Traum, Frederick?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|Euch zu dienen, zu schützen und Euch
+glücklich zu machen, solange wir leben.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Ha! Ich glaube, das kann ich dich tun
+lassen. Überzeug mich davon!$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Haha! Habt Dank, meine Dame.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|Na gut, du musst jetzt aber ECHT
+mal anfangen, mich Lissa zu nennen.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|N-nun gut... Lissa.
+Danke.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Ehi, Frederick, Io... Eh? Cosa stai cercando
+di nascondere così disperatamente?$k$pC'è qualcosa che non devo vedere,
+Frederick? Ih ih ih...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|Chi, io? Ehm, niente... mia signora!
+C-Come posso aiutarvi?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Per esempio mostrandomi quello che hai
+appena nascosto. Non sai proprio mentire.$k$pSi tratta dello stesso anello che hai preso
+in gran segreto mentre eravamo al borgo?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Non così in segreto, suppongo.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Eh eh. Pensavi veramente di nascondermi
+qualcosa dopo tutti questi anni?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|Dunque, immagino abbiate già capito
+per quale motivo ho un anello...$k$pE che questo motivo siete voi?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|...$k$pBeh, lo immaginavo, ma non
+si può mai sapere, giusto?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|Allora ho perso tempo a escogitare mille
+diverse proposte di matrimonio.$k$p$Eキメ,|Mi conoscete troppo bene... da sempre.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|Sei un ottimo allievo! Sono così orgogliosa
+di tutto il tempo che hai sprecato!$k$pE certo che ti conosco bene, Frederick.
+Non potrebbe essere altrimenti.$k$p$Eキメ,照|Sei stato la mia prima cotta.$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Mia signora... I-Io non avevo capito che...$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|So che non l'avevi capito... anche se
+ho fatto di tutto per fartelo capire!$k$pSenza offesa, ma a volte sei proprio ottuso!$k$p$Eどや,照|Alla fine, però, ho avuto il mio lieto fine,
+perché il sogno si è realizzato.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|E di quale sogno parlate?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|Sposare il primo amore, ovviamente!
+È un po' il sogno di tutte le ragazze.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Lo ignoravo completamente...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|Ma anche tu avrai un sogno, non è così?
+Qual è il tuo sogno, Frederick?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|Avervi al mio fianco, rendervi felice
+e proteggervi finché vivrò.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Ah beh, allora ci sto. Qua la mano!$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Ehm... Sì, mia signora. Grazie.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|D'ora in poi dovrai cominciare
+a chiamarmi Lissa!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|V-Va bene... Lissa.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Hola, Frederick. Oye... ¿Eh? ¿Qué es lo
+que has ocultado tan repentinamente?$k$p¿No me estarás escondiendo algo, verdad?
+Jii, jii, jii...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|¿Yo? Eeeh... No. En absoluto, mi señora.
+Yo no... ¡Ejem! ¿En qué puedo serviros?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Pues empieza por mostrarme lo que tienes
+ahí. Sabes que mentir se te da fatal.$k$pEs el anillo que recogiste ""furtivamente""
+cuando fuimos a la ciudad, ¿no?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|No tan furtivamente, por lo que parece.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Ji, ji... ¿Pensabas que podrías ocultarme
+algo después de pasar tantos años juntos?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|Entonces, supongo que también sabréis
+lo que me ha llevado a comprarlo...$k$pY que es un regalo para vos, ¿no es así?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|(...)$k$pBueno, me OLÍA algo así, pero una nunca
+está segura hasta que se asegura, ¿sabes?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|Pues he perdido el tiempo preparando una
+docena de maneras distintas de decíroslo.$k$p$Eキメ,|Me conocéis demasiado bien.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|¡Entonces sí que has aprendido! ¡Has estado
+perdiendo el tiempo como un profesional!$k$pY claro que te conozco bien, Frederick.
+¿Cómo no?$k$p$Eキメ,照|Tú fuiste mi primer amor.$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Mi señora, no... lo sabía.$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|Sé que no te diste cuenta, ¡y eso que en
+más de una ocasión resultó muy evidente!$k$pSi te soy sincera, a veces eres
+tremendamente despistado.$k$p$Eどや,照|Aunque al final todo ha salido bien,
+porque mi sueño se ha hecho realidad.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|¿Y qué sueño era ese?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|¡Casarme con mi primer amor, claro!
+¡Es el sueño de cualquier chica!$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Me temo que nunca hubiera...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|Aunque seguro que tú también tienes
+algún sueño, ¿verdad? ¿Cuál es?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|Mi sueño es serviros, protegeros y haceros
+feliz durante toda vuestra vida.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Bien, de acuerdo. Creo que no tengo
+inconveniente. ¡Pero habrás de ganártelo!$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Je... Gracias, mi señora.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|¡Oye, vas a tener que empezar
+a llamarme Lissa!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|M-muy bien... Lissa.
+Gracias.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Hello, Frederick, I... Huh? Tee hee...
+What was that you just frantically put away?$k$pAre you...hiding something from me,
+Frederick? Tee hee hee...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|Me? I, er, no. Of course not, milady!
+Not I... Now, how may I help you?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|By showing me what you're hiding.
+Honestly, you're a terrible liar.$k$pIt's that ring you ""secretly"" picked up last
+time we were goofing off in town, huh?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...Not so secretly, I see.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Hee hee. Did you really think you could
+keep secrets from ME, after all these years?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|Then I suppose you know
+my intention in buying it...$k$pAnd that it's meant for you?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|...$k$pWell, I was PRETTY sure, but it's never
+certain till it's certain, you know?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|...Then I suppose it was a waste of time
+drafting twelve different ways of telling you.$k$p$Eキメ,|You always did know me so well.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|It seems like I trained you well, too! I'm so
+proud of you for wasting so much time!$k$pAnd of course I know you well, Frederick.
+How could I not?$k$p$Eキメ,照|You were my first crush.$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Milady, I... I did not know.$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|I know you didn't, even though I made
+it SO obvious, SO many times!$k$pHonestly, you can be hopelessly
+dense sometimes.$k$p$Eどや,照|But I guess it worked out in the end,
+because I got my dream, tee hee.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|And what dream was that?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|To marry my first love, obviously!
+It's kinda every girl's dream.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|I'm afraid I wouldn't know...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|But you must have a dream of your own,
+right? What's your dream, Frederick?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|To serve you, to protect you, and to make
+you happy, for as long as we both shall live.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Hah, well, all right. I think I can let you
+do that. Twist my arm!$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Heh. Thank you, milady.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|Okay, you're going to HAVE to
+start calling me Lissa!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|V-very well...Lissa.
+Thank you.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmリズ|7$Wmフレデリク|3$w0|$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_25|Merhaba Frederick, ben... Hı? Hihi...
+Az önce neyi öyle telaşla sakladın?$k$pBenden bir şey mi saklıyorsun,
+Frederick? Hihi...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_12|Ben mi? Şey, hayır! Elbette değil,
+leydim. Nasıl yardımcı olabilirim?$k
+$Wsリズ|$Wa$E怒,|$SvpSE_VOICE_LIZ_EVT_12|Sakladığın şeyi göstererek.
+Gerçekten berbat yalan söylüyorsun.$k$pGeçen gün kasabada ""gizlice""
+aldığın o yüzük, değil mi?$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|...Pek gizli olmamış demek.$k
+$Wsリズ|$Wa$Eどや,|$SvpSE_VOICE_LIZ_EVT_14|Hihi. Bunca yıldan sonra benden
+sır saklayabileceğini mi sandın?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_19|O hâlde onu neden aldığımı da
+biliyorsundur...$k$pVe senin için olduğunu?$k
+$Wsリズ|$Wa$E通常,|$SvpSE_VOICE_LIZ_EVT_19|...$k$pNeredeyse emindim ama kesinleşmeden
+kesin diyemezdim, değil mi?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_6|...Demek sana söylemenin on iki yolunu
+hazırlamam boşunaymış.$k$p$Eキメ,|Beni hep çok iyi tanırdın.$k
+$Wsリズ|$Wa$SvpSE_VOICE_LIZ_EVT_15|$E笑,|Demek seni iyi eğitmişim!
+Boşa geçen zamanınla gurur duyuyorum!$k$pElbette seni iyi tanıyorum Frederick.
+Nasıl tanımam?$k$p$Eキメ,照|İlk aşkım sendin.$k
+$Wsフレデリク|$Wa$E苦,照|$SvpSE_VOICE_FREDERIK_EVT_2|Leydim, ben... Bilmiyordum.$k
+$Wsリズ|$Wa$E怒,照|$SvpSE_VOICE_LIZ_EVT_11|Biliyorum! Oysa defalarca
+apaçık belli etmiştim!$k$pBazen inanılmaz derecede
+kalın kafalı olabiliyorsun.$k$p$Eどや,照|Ama sonunda işe yaradı.
+Hayalim gerçek oldu, hihi.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E通常,|Neymiş o hayal?$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_20|İlk aşkımla evlenmek elbette!
+Her kızın hayali sayılır.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_22|Bunu bilemeyeceğim...$k
+$Wsリズ|$Wa$E通常,照|$SvpSE_VOICE_LIZ_EVT_25|Ama senin de bir hayalin vardır.
+Nedir, Frederick?$k
+$Wsフレデリク|$Wa$E怒,|$SvpSE_VOICE_FREDERIK_EVT_18|Yaşadığımız sürece sana hizmet etmek,
+seni korumak ve mutlu etmek.$k
+$Wsリズ|$Wa$Eどや,照|$SvpSE_VOICE_LIZ_EVT_24|Hah, pekâlâ. Buna izin verebilirim.
+Madem bu kadar ısrar ediyorsun!$k
+$Wsフレデリク|$Wa$E笑,照|$SvpSE_VOICE_FREDERIK_EVT_10|Heh. Teşekkür ederim, leydim.$k
+$Wsリズ|$Wa$E笑,照|$SvpSE_VOICE_LIZ_EVT_30|Tamam, artık bana
+Lissa demek ZORUNDASIN!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|P-pekâlâ... Lissa.
+Teşekkür ederim.$k
+$Sbs1000|"
