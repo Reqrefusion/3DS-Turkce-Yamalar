@@ -1,0 +1,17 @@
+ORIGINAL v1.3.0
+0065BD74  ldr r9, [...]
+0065BD78  mov r4, #0
+0065BD7C  add r0, r5, r4
+0065BD80  ldrb r0, [r0, #0xD4]
+...
+0065BD98  bl 0x00689490
+0065BD9C  add r4, r4, #1
+0065BDA0  cmp r4, #124
+
+CRASH CALLEE
+006894A8  ldr r1, [r0, r7, lsl #2]
+006894B0  ldr r2, [r1]   ; r7=0 => table[0]=NULL => crash
+
+PATCHED v8
+0065BD78  mov r4, #1
+=> index 0 is never presented to the resource loader; IDs 1..123 remain unchanged.

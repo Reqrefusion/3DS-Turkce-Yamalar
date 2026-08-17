@@ -1,0 +1,46 @@
+MH4U TR v32 - v1.3.0 CRASHGUARD v8 Teknik Raporu
+
+HEDEF
+- Base Title ID: 0004000000126300
+- Update Title ID: 0004000E00126300
+- Kullanılan executable: kullanıcının decrypted v1.3.0 update CXI içindeki .code (decompress edilmiş)
+- Decompressed .code SHA-256: a6d5278c851b6a6695d28626ecb1b031cbaf59e7f92d0656ba0b5b509ecdfe3f
+
+CRASH DUMP 00000053
+- SHA-256: e4745762aa89d7d4e5bec42bd0436154402d078864c81e36cce55c79c04964d5
+- PC: 0x006894B0
+- LR: 0x0065BD9C
+- FAR: 0x00000000
+- r1: 0x00000000
+- Hata sınıfı: NULL pointer dereference / ARM11 Data Abort
+
+KESİN KOD BULGUSU
+- Crash callee: 0x00689490
+- Crash instruction: 0x006894B0: ldr r2, [r1]
+- Çağıran döngü: 0x0065BD78..0x0065BDA4
+- Döngü 124 baytlık enemy/resource flag tablosunu 0..123 tarıyordu.
+- Resource pointer tablosu: 0x00EFC268, 124 kayıt.
+- table[0] = NULL; table[1..123] = non-NULL.
+- table[1] ilk kaynak yolu: enemy\em001\data\em001
+- Bu nedenle index 0 geçerli bir enemy resource değildir (em000 yok).
+- Dump'ta r7=0 olduğunda table[0] seçiliyor, r1=0 oluyor ve 0x006894B0'da düşüyor.
+
+V8 KORUMASI
+- Runtime adresi: 0x0065BD78
+- Decompressed .code file offset: 0x55BD78
+- Önce: 00 40 A0 E3 = mov r4, #0
+- Sonra: 01 40 A0 E3 = mov r4, #1
+- Etki: preload taraması yalnız geçerli enemy ID 1..123 üzerinde çalışır.
+- Geçerli hiçbir resource atlanmaz; table[0] zaten executable'da NULL'dur.
+- IPS uygulama testinde değişen toplam byte: 1 (yalnız offset 0x55BD78'de 00 -> 01).
+- Patched code SHA-256 (kontrol amaçlı, pakette full code.bin yok): 21a0dafdc3a3cb6b6ed29d1e6f7fa9d7a6ccb72d5faa7d35e024db7c67f3d81c
+
+LUMA YERLEŞİMİ
+- /luma/titles/0004000000126300/code.ips
+- IPS, decompressed .code offsetine uygulanır.
+- Game patching açık olmalıdır.
+
+EK QA
+- v7/v8 RomFS tarafı v1.3.0 update tabanlıdır.
+- Önceki testlerde 366/366 LMD parse->rebuild ve 427/427 ARC no-op rebuild byte-for-byte orijinal çıktı; generic repack bozulması bulunmadı.
+- v8 RomFS içeriği v7 ile aynıdır; yalnız code.ips eklendi.

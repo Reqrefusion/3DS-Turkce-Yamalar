@@ -1,0 +1,796 @@
+{
+  "core_common.arc": {
+    "update_size": 1481477,
+    "patched_size": 1474530,
+    "entries": 194,
+    "changed_entries": [
+      {
+        "index": 2,
+        "name": "loc\\lyt\\font\\font_loc_00_AM_NOMIP",
+        "type": "TEX\u0000",
+        "old_size": 524308,
+        "new_size": 524308
+      },
+      {
+        "index": 85,
+        "name": "eng\\msg\\common\\Common_eng",
+        "type": "lmd\u0000",
+        "old_size": 10427,
+        "new_size": 10523
+      },
+      {
+        "index": 86,
+        "name": "eng\\msg\\common\\Dialog_eng",
+        "type": "lmd\u0000",
+        "old_size": 4543,
+        "new_size": 4603
+      },
+      {
+        "index": 87,
+        "name": "eng\\msg\\common\\mapName_eng",
+        "type": "lmd\u0000",
+        "old_size": 1600,
+        "new_size": 1700
+      },
+      {
+        "index": 88,
+        "name": "eng\\msg\\common\\Menu_eng",
+        "type": "lmd\u0000",
+        "old_size": 88309,
+        "new_size": 90021
+      },
+      {
+        "index": 89,
+        "name": "eng\\msg\\itemName_eng",
+        "type": "lmd\u0000",
+        "old_size": 160877,
+        "new_size": 174841
+      },
+      {
+        "index": 90,
+        "name": "eng\\msg\\itemExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 386204,
+        "new_size": 395848
+      },
+      {
+        "index": 91,
+        "name": "eng\\msg\\emName_eng",
+        "type": "lmd\u0000",
+        "old_size": 9103,
+        "new_size": 9147
+      },
+      {
+        "index": 92,
+        "name": "eng\\msg\\emExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 47386,
+        "new_size": 44394
+      },
+      {
+        "index": 93,
+        "name": "eng\\msg\\common\\OtomoMenu_eng",
+        "type": "lmd\u0000",
+        "old_size": 17142,
+        "new_size": 17118
+      },
+      {
+        "index": 94,
+        "name": "eng\\msg\\common\\OtomoName_eng",
+        "type": "lmd\u0000",
+        "old_size": 13186,
+        "new_size": 13218
+      },
+      {
+        "index": 95,
+        "name": "eng\\msg\\common\\Help_eng",
+        "type": "lmd\u0000",
+        "old_size": 14009,
+        "new_size": 12509
+      },
+      {
+        "index": 96,
+        "name": "eng\\msg\\common\\HunterNote_eng",
+        "type": "lmd\u0000",
+        "old_size": 104159,
+        "new_size": 88655
+      },
+      {
+        "index": 97,
+        "name": "eng\\msg\\common\\levelQuest_eng",
+        "type": "lmd\u0000",
+        "old_size": 6695,
+        "new_size": 6327
+      },
+      {
+        "index": 98,
+        "name": "eng\\msg\\common\\Online_eng",
+        "type": "lmd\u0000",
+        "old_size": 7047,
+        "new_size": 6371
+      },
+      {
+        "index": 99,
+        "name": "eng\\msg\\common\\Save_eng",
+        "type": "lmd\u0000",
+        "old_size": 6593,
+        "new_size": 6217
+      },
+      {
+        "index": 100,
+        "name": "eng\\msg\\BodyName_eng",
+        "type": "lmd\u0000",
+        "old_size": 79633,
+        "new_size": 80177
+      },
+      {
+        "index": 101,
+        "name": "eng\\msg\\ArmName_eng",
+        "type": "lmd\u0000",
+        "old_size": 82592,
+        "new_size": 81940
+      },
+      {
+        "index": 102,
+        "name": "eng\\msg\\WaistName_eng",
+        "type": "lmd\u0000",
+        "old_size": 79350,
+        "new_size": 81986
+      },
+      {
+        "index": 103,
+        "name": "eng\\msg\\LegName_eng",
+        "type": "lmd\u0000",
+        "old_size": 83564,
+        "new_size": 84820
+      },
+      {
+        "index": 104,
+        "name": "eng\\msg\\HeadName_eng",
+        "type": "lmd\u0000",
+        "old_size": 80181,
+        "new_size": 83333
+      },
+      {
+        "index": 105,
+        "name": "eng\\msg\\AcceName_eng",
+        "type": "lmd\u0000",
+        "old_size": 1513,
+        "new_size": 1481
+      },
+      {
+        "index": 106,
+        "name": "eng\\msg\\BodyExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 107856,
+        "new_size": 105312
+      },
+      {
+        "index": 107,
+        "name": "eng\\msg\\ArmExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 105363,
+        "new_size": 103219
+      },
+      {
+        "index": 108,
+        "name": "eng\\msg\\WaistExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 103161,
+        "new_size": 98333
+      },
+      {
+        "index": 109,
+        "name": "eng\\msg\\LegExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 106191,
+        "new_size": 103043
+      },
+      {
+        "index": 110,
+        "name": "eng\\msg\\HeadExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 111832,
+        "new_size": 108608
+      },
+      {
+        "index": 111,
+        "name": "eng\\msg\\AcceExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 3864,
+        "new_size": 3628
+      },
+      {
+        "index": 112,
+        "name": "eng\\msg\\LswordName_eng",
+        "type": "lmd\u0000",
+        "old_size": 20175,
+        "new_size": 20315
+      },
+      {
+        "index": 113,
+        "name": "eng\\msg\\SwordName_eng",
+        "type": "lmd\u0000",
+        "old_size": 20230,
+        "new_size": 20286
+      },
+      {
+        "index": 114,
+        "name": "eng\\msg\\HammerName_eng",
+        "type": "lmd\u0000",
+        "old_size": 20479,
+        "new_size": 20359
+      },
+      {
+        "index": 115,
+        "name": "eng\\msg\\LanceName_eng",
+        "type": "lmd\u0000",
+        "old_size": 17634,
+        "new_size": 17682
+      },
+      {
+        "index": 116,
+        "name": "eng\\msg\\LightName_eng",
+        "type": "lmd\u0000",
+        "old_size": 15322,
+        "new_size": 15418
+      },
+      {
+        "index": 117,
+        "name": "eng\\msg\\HeavyName_eng",
+        "type": "lmd\u0000",
+        "old_size": 12878,
+        "new_size": 12982
+      },
+      {
+        "index": 118,
+        "name": "eng\\msg\\Lsword2Name_eng",
+        "type": "lmd\u0000",
+        "old_size": 18264,
+        "new_size": 18288
+      },
+      {
+        "index": 119,
+        "name": "eng\\msg\\AxeName_eng",
+        "type": "lmd\u0000",
+        "old_size": 16092,
+        "new_size": 16352
+      },
+      {
+        "index": 120,
+        "name": "eng\\msg\\Lance2Name_eng",
+        "type": "lmd\u0000",
+        "old_size": 18315,
+        "new_size": 18595
+      },
+      {
+        "index": 121,
+        "name": "eng\\msg\\BowName_eng",
+        "type": "lmd\u0000",
+        "old_size": 17072,
+        "new_size": 17008
+      },
+      {
+        "index": 122,
+        "name": "eng\\msg\\WswordName_eng",
+        "type": "lmd\u0000",
+        "old_size": 18919,
+        "new_size": 19455
+      },
+      {
+        "index": 123,
+        "name": "eng\\msg\\Hammer2Name_eng",
+        "type": "lmd\u0000",
+        "old_size": 15204,
+        "new_size": 15224
+      },
+      {
+        "index": 124,
+        "name": "eng\\msg\\RodName_eng",
+        "type": "lmd\u0000",
+        "old_size": 13068,
+        "new_size": 12988
+      },
+      {
+        "index": 125,
+        "name": "eng\\msg\\GaxeName_eng",
+        "type": "lmd\u0000",
+        "old_size": 10101,
+        "new_size": 10217
+      },
+      {
+        "index": 126,
+        "name": "eng\\msg\\InsectName_eng",
+        "type": "lmd\u0000",
+        "old_size": 2715,
+        "new_size": 2771
+      },
+      {
+        "index": 127,
+        "name": "eng\\msg\\LswordExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 22666,
+        "new_size": 23178
+      },
+      {
+        "index": 128,
+        "name": "eng\\msg\\SwordExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 22661,
+        "new_size": 23477
+      },
+      {
+        "index": 129,
+        "name": "eng\\msg\\HammerExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 23358,
+        "new_size": 23554
+      },
+      {
+        "index": 130,
+        "name": "eng\\msg\\LanceExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 19413,
+        "new_size": 19429
+      },
+      {
+        "index": 131,
+        "name": "eng\\msg\\LightExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 18853,
+        "new_size": 19393
+      },
+      {
+        "index": 132,
+        "name": "eng\\msg\\HeavyExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 15617,
+        "new_size": 15949
+      },
+      {
+        "index": 133,
+        "name": "eng\\msg\\Lsword2Exp_eng",
+        "type": "lmd\u0000",
+        "old_size": 21807,
+        "new_size": 22003
+      },
+      {
+        "index": 134,
+        "name": "eng\\msg\\AxeExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 18403,
+        "new_size": 18935
+      },
+      {
+        "index": 135,
+        "name": "eng\\msg\\Lance2Exp_eng",
+        "type": "lmd\u0000",
+        "old_size": 20302,
+        "new_size": 21194
+      },
+      {
+        "index": 136,
+        "name": "eng\\msg\\BowExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 19027,
+        "new_size": 18919
+      },
+      {
+        "index": 137,
+        "name": "eng\\msg\\WswordExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 21482,
+        "new_size": 22070
+      },
+      {
+        "index": 138,
+        "name": "eng\\msg\\Hammer2Exp_eng",
+        "type": "lmd\u0000",
+        "old_size": 17131,
+        "new_size": 17211
+      },
+      {
+        "index": 139,
+        "name": "eng\\msg\\RodExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 12807,
+        "new_size": 12807
+      },
+      {
+        "index": 140,
+        "name": "eng\\msg\\GaxeExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 11604,
+        "new_size": 12028
+      },
+      {
+        "index": 141,
+        "name": "eng\\msg\\skillName_eng",
+        "type": "lmd\u0000",
+        "old_size": 23430,
+        "new_size": 24570
+      },
+      {
+        "index": 142,
+        "name": "eng\\msg\\skillExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 48689,
+        "new_size": 47977
+      },
+      {
+        "index": 143,
+        "name": "eng\\msg\\skillType_eng",
+        "type": "lmd\u0000",
+        "old_size": 11734,
+        "new_size": 12418
+      },
+      {
+        "index": 144,
+        "name": "eng\\msg\\skillTypeExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 32961,
+        "new_size": 32569
+      },
+      {
+        "index": 145,
+        "name": "eng\\msg\\catSkillName_eng",
+        "type": "lmd\u0000",
+        "old_size": 6553,
+        "new_size": 6581
+      },
+      {
+        "index": 146,
+        "name": "eng\\msg\\catSkillExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 12444,
+        "new_size": 11820
+      },
+      {
+        "index": 147,
+        "name": "eng\\msg\\otSkillName_eng",
+        "type": "lmd\u0000",
+        "old_size": 9372,
+        "new_size": 9700
+      },
+      {
+        "index": 148,
+        "name": "eng\\msg\\otSkillExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 25387,
+        "new_size": 25395
+      },
+      {
+        "index": 149,
+        "name": "eng\\msg\\OtArmorName_eng",
+        "type": "lmd\u0000",
+        "old_size": 14624,
+        "new_size": 14732
+      },
+      {
+        "index": 150,
+        "name": "eng\\msg\\OtHelmName_eng",
+        "type": "lmd\u0000",
+        "old_size": 14079,
+        "new_size": 14611
+      },
+      {
+        "index": 151,
+        "name": "eng\\msg\\OtWeaponName_eng",
+        "type": "lmd\u0000",
+        "old_size": 15181,
+        "new_size": 15357
+      },
+      {
+        "index": 152,
+        "name": "eng\\msg\\OtArmorExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 35847,
+        "new_size": 35235
+      },
+      {
+        "index": 153,
+        "name": "eng\\msg\\OtHelmExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 34650,
+        "new_size": 33694
+      },
+      {
+        "index": 154,
+        "name": "eng\\msg\\OtWeaponExp_eng",
+        "type": "lmd\u0000",
+        "old_size": 36412,
+        "new_size": 36036
+      },
+      {
+        "index": 155,
+        "name": "eng\\msg\\common\\HunterNoteEQ_eng",
+        "type": "lmd\u0000",
+        "old_size": 41445,
+        "new_size": 41821
+      }
+    ],
+    "unexpected_non_lmd_changes": []
+  },
+  "core_dlc.arc": {
+    "update_size": 1116752,
+    "patched_size": 1116795,
+    "entries": 78,
+    "changed_entries": [
+      {
+        "index": 21,
+        "name": "eng\\msg\\networkMsg_eng",
+        "type": "lmd\u0000",
+        "old_size": 10563,
+        "new_size": 10763
+      },
+      {
+        "index": 22,
+        "name": "eng\\msg\\DLC_eng",
+        "type": "lmd\u0000",
+        "old_size": 37400,
+        "new_size": 36220
+      }
+    ],
+    "unexpected_non_lmd_changes": []
+  },
+  "core_lobby.arc": {
+    "update_size": 2983799,
+    "patched_size": 2979556,
+    "entries": 329,
+    "changed_entries": [
+      {
+        "index": 183,
+        "name": "eng\\msg\\lobby\\Lobby_eng",
+        "type": "lmd\u0000",
+        "old_size": 27174,
+        "new_size": 27058
+      },
+      {
+        "index": 184,
+        "name": "eng\\msg\\lobby\\Cec_eng",
+        "type": "lmd\u0000",
+        "old_size": 3776,
+        "new_size": 3588
+      },
+      {
+        "index": 185,
+        "name": "eng\\msg\\lobby\\LbMenu_eng",
+        "type": "lmd\u0000",
+        "old_size": 23195,
+        "new_size": 23503
+      },
+      {
+        "index": 186,
+        "name": "eng\\msg\\lobby\\C_counter_eng",
+        "type": "lmd\u0000",
+        "old_size": 7422,
+        "new_size": 7558
+      },
+      {
+        "index": 187,
+        "name": "eng\\msg\\lobby\\D_shop_eng",
+        "type": "lmd\u0000",
+        "old_size": 18527,
+        "new_size": 17999
+      },
+      {
+        "index": 188,
+        "name": "eng\\msg\\lobby\\Dora_eng",
+        "type": "lmd\u0000",
+        "old_size": 2077,
+        "new_size": 2089
+      },
+      {
+        "index": 189,
+        "name": "eng\\msg\\lobby\\E_makeshop_eng",
+        "type": "lmd\u0000",
+        "old_size": 20691,
+        "new_size": 20135
+      },
+      {
+        "index": 190,
+        "name": "eng\\msg\\lobby\\E_shop_eng",
+        "type": "lmd\u0000",
+        "old_size": 3663,
+        "new_size": 3351
+      },
+      {
+        "index": 191,
+        "name": "eng\\msg\\lobby\\Gallery_eng",
+        "type": "lmd\u0000",
+        "old_size": 35476,
+        "new_size": 33856
+      },
+      {
+        "index": 192,
+        "name": "eng\\msg\\lobby\\I_shop_eng",
+        "type": "lmd\u0000",
+        "old_size": 4019,
+        "new_size": 3739
+      },
+      {
+        "index": 193,
+        "name": "eng\\msg\\lobby\\Kitchen_eng",
+        "type": "lmd\u0000",
+        "old_size": 18608,
+        "new_size": 18368
+      },
+      {
+        "index": 194,
+        "name": "eng\\msg\\lobby\\Maka_eng",
+        "type": "lmd\u0000",
+        "old_size": 9249,
+        "new_size": 9069
+      },
+      {
+        "index": 195,
+        "name": "eng\\msg\\lobby\\Mon_nyan_eng",
+        "type": "lmd\u0000",
+        "old_size": 9301,
+        "new_size": 9001
+      },
+      {
+        "index": 196,
+        "name": "eng\\msg\\lobby\\O_bord_eng",
+        "type": "lmd\u0000",
+        "old_size": 24615,
+        "new_size": 24127
+      },
+      {
+        "index": 197,
+        "name": "eng\\msg\\lobby\\Pig_eng",
+        "type": "lmd\u0000",
+        "old_size": 8584,
+        "new_size": 8568
+      },
+      {
+        "index": 198,
+        "name": "eng\\msg\\lobby\\Post_eng",
+        "type": "lmd\u0000",
+        "old_size": 15797,
+        "new_size": 15645
+      },
+      {
+        "index": 199,
+        "name": "eng\\msg\\lobby\\Q_bord_eng",
+        "type": "lmd\u0000",
+        "old_size": 3555,
+        "new_size": 3471
+      },
+      {
+        "index": 200,
+        "name": "eng\\msg\\lobby\\Q_counter_eng",
+        "type": "lmd\u0000",
+        "old_size": 3474,
+        "new_size": 3458
+      },
+      {
+        "index": 201,
+        "name": "eng\\msg\\lobby\\R_makeshop_eng",
+        "type": "lmd\u0000",
+        "old_size": 4607,
+        "new_size": 4439
+      },
+      {
+        "index": 202,
+        "name": "eng\\msg\\lobby\\Room_s_eng",
+        "type": "lmd\u0000",
+        "old_size": 17175,
+        "new_size": 17027
+      },
+      {
+        "index": 203,
+        "name": "eng\\msg\\lobby\\Toami_eng",
+        "type": "lmd\u0000",
+        "old_size": 4522,
+        "new_size": 4322
+      },
+      {
+        "index": 204,
+        "name": "eng\\msg\\lobby\\LbHelp_eng",
+        "type": "lmd\u0000",
+        "old_size": 82315,
+        "new_size": 73083
+      },
+      {
+        "index": 205,
+        "name": "eng\\msg\\lobby\\ItemBox_eng",
+        "type": "lmd\u0000",
+        "old_size": 25904,
+        "new_size": 25052
+      },
+      {
+        "index": 206,
+        "name": "eng\\msg\\lobby\\GuildCard_eng",
+        "type": "lmd\u0000",
+        "old_size": 204310,
+        "new_size": 204942
+      },
+      {
+        "index": 207,
+        "name": "eng\\msg\\lobby\\OtTalk_eng",
+        "type": "lmd\u0000",
+        "old_size": 72379,
+        "new_size": 61775
+      },
+      {
+        "index": 208,
+        "name": "eng\\msg\\lobby\\GuestHunter_eng",
+        "type": "lmd\u0000",
+        "old_size": 29648,
+        "new_size": 29196
+      },
+      {
+        "index": 209,
+        "name": "eng\\msg\\lobby\\OtomoInfo_eng",
+        "type": "lmd\u0000",
+        "old_size": 898,
+        "new_size": 894
+      },
+      {
+        "index": 210,
+        "name": "eng\\msg\\lobby\\NpcName_eng",
+        "type": "lmd\u0000",
+        "old_size": 10232,
+        "new_size": 10228
+      },
+      {
+        "index": 211,
+        "name": "eng\\msg\\common\\CharMake_eng",
+        "type": "lmd\u0000",
+        "old_size": 15737,
+        "new_size": 15277
+      },
+      {
+        "index": 212,
+        "name": "eng\\msg\\networkMsg_eng",
+        "type": "lmd\u0000",
+        "old_size": 10563,
+        "new_size": 10763
+      },
+      {
+        "index": 213,
+        "name": "eng\\msg\\lobby\\Diva_eng",
+        "type": "lmd\u0000",
+        "old_size": 1961,
+        "new_size": 1937
+      },
+      {
+        "index": 214,
+        "name": "eng\\msg\\lobby\\Labo_eng",
+        "type": "lmd\u0000",
+        "old_size": 6041,
+        "new_size": 5677
+      }
+    ],
+    "unexpected_non_lmd_changes": []
+  },
+  "core_title.arc": {
+    "update_size": 1090063,
+    "patched_size": 1089940,
+    "entries": 65,
+    "changed_entries": [
+      {
+        "index": 30,
+        "name": "eng\\msg\\common\\Title_eng",
+        "type": "lmd\u0000",
+        "old_size": 13510,
+        "new_size": 12894
+      },
+      {
+        "index": 31,
+        "name": "eng\\msg\\common\\CharMake_eng",
+        "type": "lmd\u0000",
+        "old_size": 15737,
+        "new_size": 15277
+      }
+    ],
+    "unexpected_non_lmd_changes": []
+  },
+  "font_lfd": {
+    "count": 392,
+    "update_sha256": "f986bfc4271c86fc0c3108056e126b5fdbdbd95cf6e0d51eb03c2184577a001a",
+    "patched_sha256": "f986bfc4271c86fc0c3108056e126b5fdbdbd95cf6e0d51eb03c2184577a001a",
+    "byte_identical": true
+  }
+}
