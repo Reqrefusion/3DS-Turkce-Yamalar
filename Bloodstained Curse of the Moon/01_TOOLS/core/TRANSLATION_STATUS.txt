@@ -1,0 +1,45 @@
+Bloodstained COTM 3DS Türkçe çeviri - teknik durum
+==================================================
+Sürüm: Avrupa (CTR-N-BLMP)
+TitleID: 00040000001D3C00
+
+TTB kayıt sayıları:
+  Announce.ttb       6
+  BootReady.ttb     18
+  BossRush.ttb       8
+  CommonText.ttb     4
+  GameOver.ttb      10
+  Item.ttb        4068
+  MapCommon.ttb     96
+  Option.ttb        34
+  PauseMenu.ttb     56
+  Result.ttb       228
+  Save.ttb          44
+  StaffRoll.ttb    312
+  StageSelect.ttb   30
+  Title.ttb          8
+  TOPLAM           4922
+
+İlk geçiş:
+  Değiştirilen TTB: 10
+  Çevrilen kayıt:   130
+
+İlk geçişte değiştirilmeyen TTB'ler:
+  Item.ttb       - büyük ölçüde çok dilli/ortak motor kalıntısı gibi görünüyor
+  MapCommon.ttb  - başka Inti Creates içeriklerine ait ortak metinler barındırıyor
+  StaffRoll.ttb  - krediler
+  StageSelect.ttb- kayıtlar boş
+
+Font:
+  BMPFont.bfbctr deşifre + zlib açma başarılı.
+  ç ğ ı İ ö ş ü Ç Ğ Ö Ş Ü kod noktalarının tamamı bulundu.
+
+OSBCTR:
+  Şifre anahtarı/kap yapısı çözüldü.
+  İngilizce 8 dosyada format 4 / RGBA4444 bulundu.
+  N3DS 8x8 Morton swizzle + YFlip çözme/yazma uygulandı.
+  PNG çıkarma -> geri yazma testi, DemoText00_en.osbctr için SHA-256 düzeyinde birebir aynı dosyayı verdi.
+
+Tam çeviri için sonraki teknik hedef:
+  *_en.osbctr dosyalarındaki node/post veri bölgesinde karakter sprite dizilimini çözmek;
+  ardından opening/demo/tutorial/ending metinlerini Türkçe sprite dizilerine dönüştürmek.
