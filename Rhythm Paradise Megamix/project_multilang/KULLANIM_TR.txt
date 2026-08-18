@@ -1,0 +1,8 @@
+RHM TR v21 Çok Dilli Proje — Hızlı Kullanım
+
+1) project/EUENmessage/pajama_sarc/arc içindeki ilgili *.msbt.tsv dosyasını aç.
+2) English/French/German/Italian/Spanish sütunlarını karşılaştır; yalnız Turkish sütununu değiştir.
+3) [[TAG]], [[END]], [[PUA]] kodlarına dokunma.
+4) python build_text.py
+5) python validate_text_v21.py
+6) build/pajama.zlib dosyasını LayeredFS'te EUENmessage/pajama.zlib olarak kullan.

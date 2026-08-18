@@ -1,0 +1,8 @@
+v22 Çeviri Çalışma Akışı
+
+1) İlgili *.msbt.tsv dosyasını aç.
+2) Aynı satırdaki EN/FR/DE/IT/ES'i ve komşu replikleri karşılaştır.
+3) Sadece Turkish sütununu değiştir.
+4) [[TAG]], [[END]], [[PUA]] sırasını koru.
+5) python tools/build_v22.py
+6) Doğrulama otomatik çalışır.
