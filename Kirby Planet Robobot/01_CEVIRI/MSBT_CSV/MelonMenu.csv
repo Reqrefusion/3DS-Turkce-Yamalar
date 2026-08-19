@@ -1,0 +1,844 @@
+﻿index,label,EU_English,EU_French,EU_German,EU_Italian,EU_Spanish,JP_Japanese,US_English,US_French,US_Spanish,TR_Turkish,QA_Note
+0,HeaderLoQuestText,Select Quest,Choix de la quête,Mission wählen,⟦MSBT:0E000000020002005F00⟧Scegli una missione⟦MSBT:0E000000020002006400⟧,Misiones,クエストせんたく,Select Quest,Choix de la quête,Misiones,Görev Seç,
+1,HeaderLoJobForMyPlayerText,Select your role.,Choix du rôle,Rolle wählen,Scegli un ruolo,Habilidades,じぶんのジョブをえらぶ,Select your role.,Choix du rôle,Habilidades,Rolünü seç.,
+2,HeaderLoJobForAnotherPlayerText,⟦MSBT:0E000000020002005A00⟧Select friend's role.⟦MSBT:0E000000020002006400⟧,Choix du rôle,⟦MSBT:0E000000020002005F00⟧Taem-Rollen wählen⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Ruolo del compagno⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Habilidad del aliado⟦MSBT:0E000000020002006400⟧,おとものジョブをえらぶ,⟦MSBT:0E000000020002005A00⟧Select friend's role.⟦MSBT:0E000000020002006400⟧,Choix du rôle,⟦MSBT:0E000000020002005F00⟧Habilidad del aliado⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002004B00⟧Arkadaşının rolünü seç.⟦MSBT:0E000000020002006400⟧,
+3,HeaderLoMemberText,Team Members,Équipiers,Team-Mitglieder,Compagni,Aliados,メンバーかくにん,Team Members,Équipiers,Aliados,Takım Üyeleri,
+4,BackBtnText,Back,⟦MSBT:0E000000020002005500⟧Retour⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005800⟧Zurück⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Indietro⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Atrás⟦MSBT:0E000000020002006400⟧,もどる,Back,⟦MSBT:0E000000020002005500⟧Retour⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Atrás⟦MSBT:0E000000020002006400⟧,Geri,
+5,BackBtnNetText,Quit,⟦MSBT:0E000000020002005A00⟧Quitter⟦MSBT:0E000000020002006400⟧,Ende,Esci,Salir,おわる,Quit,⟦MSBT:0E000000020002005A00⟧Quitter⟦MSBT:0E000000020002006400⟧,Salir,Çık,
+6,QuestBtnText,Quest,Quête,MISSION,Missione,Misión,クエスト,Quest,Quête,Misión,Görev,
+7,ResultHeaderText1,Quest 1,Quête 1,MISSION 1,⟦MSBT:0E000000020002005500⟧Missione 1⟦MSBT:0E000000020002006400⟧,Misión 1,クエスト１,Quest 1,Quête 1,Misión 1,Görev 1,
+8,ResultHeaderText2,Quest 2,Quête 2,MISSION 2,⟦MSBT:0E000000020002005500⟧Missione 2⟦MSBT:0E000000020002006400⟧,Misión 2,クエスト２,Quest 2,Quête 2,Misión 2,Görev 2,
+9,ResultHeaderText3,Quest 3,Quête 3,MISSION 3,⟦MSBT:0E000000020002005500⟧Missione 3⟦MSBT:0E000000020002006400⟧,Misión 3,クエスト３,Quest 3,Quête 3,Misión 3,Görev 3,
+10,ResultHeaderText4,Quest 4,Quête 4,MISSION 4,⟦MSBT:0E000000020002005500⟧Missione 4⟦MSBT:0E000000020002006400⟧,Misión 4,クエスト４,Quest 4,Quête 4,Misión 4,Görev 4,
+11,ResultHeaderText5,Quest 5,Quête 5,MISSION 5,⟦MSBT:0E000000020002005500⟧Missione 5⟦MSBT:0E000000020002006400⟧,Misión 5,クエスト５,Quest 5,Quête 5,Misión 5,Görev 5,
+12,ResultHeaderText6,Quest EX,Quête EX,MISSION X,Missione X,Misión +,クエストEX,Quest EX,Quête EX,Misión EX,Görev EX,
+13,HeaderUpText,Team Quest,Aventure,TEAM-MISSION,⟦MSBT:0E000000020002005500⟧Modalità di squadra⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Misión en equipo⟦MSBT:0E000000020002006400⟧,おともとクエスト,Team Quest,Aventure,⟦MSBT:0E000000020002005F00⟧Misión en equipo⟦MSBT:0E000000020002006400⟧,Takım Görevi,
+14,HeaderUpSubText1,Quest 1,Quête 1,MISSION 1,⟦MSBT:0E000000020002005500⟧Missione 1⟦MSBT:0E000000020002006400⟧,Misión 1,クエスト１,Quest 1,Quête 1,Misión 1,Görev 1,
+15,HeaderUpSubText2,Quest 2,Quête 2,MISSION 2,⟦MSBT:0E000000020002005500⟧Missione 2⟦MSBT:0E000000020002006400⟧,Misión 2,クエスト２,Quest 2,Quête 2,Misión 2,Görev 2,
+16,HeaderUpSubText3,Quest 3,Quête 3,MISSION 3,⟦MSBT:0E000000020002005500⟧Missione 3⟦MSBT:0E000000020002006400⟧,Misión 3,クエスト３,Quest 3,Quête 3,Misión 3,Görev 3,
+17,HeaderUpSubText4,Quest 4,Quête 4,MISSION 4,⟦MSBT:0E000000020002005500⟧Missione 4⟦MSBT:0E000000020002006400⟧,Misión 4,クエスト４,Quest 4,Quête 4,Misión 4,Görev 4,
+18,HeaderUpSubText5,Quest 5,Quête 5,MISSION 5,⟦MSBT:0E000000020002005500⟧Missione 5⟦MSBT:0E000000020002006400⟧,Misión 5,クエスト５,Quest 5,Quête 5,Misión 5,Görev 5,
+19,HeaderUpSubText6,Quest EX,Quête EX,MISSION X,⟦MSBT:0E000000020002005500⟧Missione X⟦MSBT:0E000000020002006400⟧,Misión +,クエストEX,Quest EX,Quête EX,Misión EX,Görev EX,
+20,BossLevelText,Difficulty,Difficulté,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E000000020002005500⟧Schwierigk⟦MSBT:0E000000020002006400⟧.⟦MSBT:0E000000020002006400⟧,Difficoltà,Dificultad,なんいど,Difficulty,Difficulté,Dificultad,Zorluk,
+21,BestScoreText,Highest EXP,Record (exp.),Höchste ERF.,Record Punti Esp.,Récord,ハイスコアけいけんち,Highest EXP,Record (exp.),Récord,En Yüksek EXP,
+22,BossNameText1,Gigant Edge,Gigalame,⟦MSBT:0E000000020002005A00⟧Schwert-Koloss⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Mega cavaliere⟦MSBT:0E000000020002006400⟧,Filo Gigante,ギガントエッジ,Gigant Edge,Gigalame,Filo Gigante,Dev Kılıç,
+23,BossNameText2,Mr. Frosty,Frigor Efik,Dr. Eisbert,Dadopagos,Sr. Mórsez,ミスター・フロスティ,Mr. Frosty,Frigor Efik,Sr. Mórsez,Bay Ayaz,
+24,BossNameText3,Whispy Woods,Whispy Woods,Whispy Woods,Whispy Woods,Whispy Woods,ウィスピーウッズ,Whispy Woods,Whispy Woods,Whispy Woods,Whispy Woods,
+25,BossNameText4,Pyribbit,Cramaud,Pyrosch,Vulkan,Pirobúho,ヴォルゲロム,Pyribbit,Cramaud,Pirobúho,Pirovrak,
+26,BossNameText5,Landia,Landia,Landia,Landia,Landia,ランディア,Landia,Landia,Landia,Landia,
+27,BossNameText6,Landia EX,Landia EX,Landia X,Landia X,Landia +,ランディアEX,Landia EX,Landia EX,Landia EX,Landia EX,
+28,BossBywordText1,Steel Soldier,Soldat d'acier,Stählerner Krieger,Soldato d'acciaio,Soldado de acero,⟦MSBT:0E00000000000A00020006006F304C306D30⟧鋼の⟦MSBT:0E00000000000A0004000600783044305730⟧兵士,Steel Soldier,Soldat d'acier,Soldado de acero,Çelik Asker,
+29,BossBywordText2,Ice Beast,Monstre de glace,Eisige Bestie,⟦MSBT:0E000000020002005F00⟧Mostro di ghiaccio⟦MSBT:0E000000020002006400⟧,Bestia de hielo,⟦MSBT:0E00000000000A000200060053304A308A30⟧氷の⟦MSBT:0E00000000000A0002000600513082306E30⟧獣,Ice Beast,Monstre de glace,Bestia de hielo,Buz Canavarı,
+30,BossBywordText3,Ancient Tree,Arbre millénaire,Urzeit-Baum,Albero millenario,Árbol ancestral,⟦MSBT:0E00000000000C000200080044306B3057304830⟧古の⟦MSBT:0E00000000000C00040008005F30443058308530⟧大樹,Ancient Tree,Arbre millénaire,Árbol ancestral,Kadim Ağaç,
+31,BossBywordText4,Flaming Frog,Batracien de feu,Flammenfrosch,Rana di fuoco,Búho de fuego,⟦MSBT:0E00000000000A00020006007B306E304A30⟧炎の⟦MSBT:0E00000000000A00020006004B308F305A30⟧蛙,Flaming Frog,Batracien de feu,Búho de fuego,Alevli Kurbağa,
+32,BossBywordText5,Guardian Angel,Hydre gardienne,Quadraharpyia,Idra protettrice,Deidad guardiana,４つ⟦MSBT:0E00000000000800020004004F307330⟧首の⟦MSBT:0E00000000000800020004007E308230⟧守り⟦MSBT:0E00000000000800020004004C307F30⟧神,Guardian Angel,Hydre gardienne,Dragón guardián,Koruyucu Melek,
+33,BossBywordText6,Guardian Angel,Hydre gardienne,Quadraharpyia,Idra protettrice,Deidad guardiana,４つ⟦MSBT:0E00000000000800020004004F307330⟧首の⟦MSBT:0E00000000000800020004007E308230⟧守り⟦MSBT:0E00000000000800020004004C307F30⟧神,Guardian Angel,Hydre gardienne,Dragón guardián,Koruyucu Melek,
+34,BossProfileText1,"Battle beside your team!
+Work together to defeat
+the Steel Soldier hiding
+in the forest!","Le soldat d'acier se
+terre dans la forêt.
+Assemblez une équipe
+de choc pour le vaincre !","Kämpfe an der Seite
+deines Teams! Besiegt
+zusammen den stählernen
+Krieger im Walde!","Squadra pronta all'azione!
+La collaborazione è tutto
+per sconfiggere il Soldato
+d'acciaio nella foresta!","Lucha junto a tus aliados
+para vencer al soldado
+de acero que se oculta
+en el bosque.","⟦MSBT:0E00000000000A00040006006A304B307E30⟧仲間と ともに ⟦MSBT:0E00000000000E0004000A004D308730463068304630⟧共闘バトル！
+⟦MSBT:0E000000000008000200040082308A30⟧森に ひそむ　⟦MSBT:0E00000000000A00020006006F304C306D30⟧鋼の⟦MSBT:0E00000000000A0004000600783044305730⟧兵士を
+⟦MSBT:0E00000000000A000200060061304B308930⟧力を⟦MSBT:0E00000000000600020002004230⟧合わせて ⟦MSBT:0E00000000000600020002004630⟧打ち⟦MSBT:0E00000000000800020004005F304A30⟧倒せ！","Battle beside your team!
+Work together to defeat
+the Steel Soldier hiding
+in the forest!","Le soldat d'acier se
+cache dans la forêt.
+Assemblez une équipe
+de choc pour le vaincre!","Lucha junto a tus aliados
+para vencer al soldado
+de acero que se oculta
+en el bosque.","Takımınla savaş!
+Ormandaki Çelik Asker'i
+birlikte yen!",
+35,BossProfileText2,"Tame the wild Ice
+Beast who stalks
+the moonlit lake!","Rendez-vous au lac, et
+tentez de dompter ce
+monstre de glace une
+fois pour toutes !","Zähme die eisige Bestie,
+die im Mondlicht die Ufer
+des Sees unsicher macht!","Il selvaggio Mostro di
+ghiaccio che si aggira
+lungo il lago al chiaro di
+luna deve essere domato!","Derrotad a la bestia
+de hielo que acecha
+en el lago bajo la luz
+de la luna.","⟦MSBT:0E000000000008000200040088308B30⟧夜の⟦MSBT:0E00000000000A000400060053306F309330⟧湖畔に あらわれた
+おちゃめで あばれん⟦MSBT:0E00000000000800020004007C304630⟧坊な
+⟦MSBT:0E00000000000A000200060053304A308A30⟧氷の⟦MSBT:0E00000000000A0002000600513082306E30⟧獣を こらしめて！","Tame the wild Ice Beast
+who stalks the
+moonlit lake!","Rendez-vous au lac, et
+tentez de dompter ce
+monstre de glace une
+fois pour toutes!","Derrota a la criatura
+de hielo que acecha
+en el lago bajo la luz
+de la luna.","Ay ışığındaki gölde gezen
+vahşi Buz Canavarı'nı
+dize getir!",
+36,BossProfileText3,"Fell the ancient tree that
+lives in the old ruins. Just
+watch out for worms and
+falling apples!","Cet arbre n'abandonnera
+pas les ruines sans se
+défendre... Attention aux
+pommes et aux vers !","Fälle den Baum, der in
+den Ruinen lebt. Aber
+hüte dich vor Gewürm
+im Holz und vor Fallobst!","È tempo di abbattere
+l'Albero millenario tra le
+rovine. Ma attenzione a
+vermi e mele che cadono!","⟦MSBT:0E000000020002005500⟧Acabad con el árbol
+ancestral que vive en las
+ruinas, pero ¡cuidado con
+los gusanos y las manzanas!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000000000A000400060044305B304D30⟧遺跡に⟦MSBT:0E00000000000600020002005930⟧住まう ⟦MSBT:0E00000000000C000200080044306B3057304830⟧古の⟦MSBT:0E00000000000C00040008005F30443058308530⟧大樹！
+リンゴと⟦MSBT:0E00000000000A0004000600513080305730⟧毛虫が ふってきても
+みんなで⟦MSBT:0E000000000008000200040044306930⟧挑めば ⟦MSBT:0E000000000008000200040053308F30⟧怖くない！","Fell the Ancient Tree
+who lives in the old ruins.
+But watch out for worms
+and falling apples!","Cet arbre n'abandonnera
+pas les ruines sans se
+défendre... Attention aux
+pommes et aux vers!","⟦MSBT:0E000000020002005500⟧Acaba con el árbol
+ancestral que vive en las
+ruinas, pero ¡ten cuidado con
+los gusanos y las manzanas!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005A00⟧Harabelerdeki Kadim Ağacı
+devir. Tırtıllara ve
+düşen elmalara
+dikkat!⟦MSBT:0E000000020002006400⟧",
+37,BossProfileText4,"A giant burning frog?!
+Quick - make it croak
+before it hops back into
+the volcano!","Vite ! Donnez une raclée
+à ce crapaud géant avant
+qu'il n'aille se réfugier au
+cœur du volcan !","Ein Riesen-Feuerfrosch?
+Schnell! Versohl ihm den
+Popo, bevor er wieder in
+die Flammen hüpft!","Una gigantesca Rana
+di fuoco?! Deve essere
+sconfitta prima che salti
+di nuovo nel vulcano!","⟦MSBT:0E000000020002005A00⟧¿Un enorme búho
+llameante? ¡Rápido, dadle su
+merecido antes de que
+vuelva al volcán!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000000000A00020006007B306E304A30⟧炎を まといし ⟦MSBT:0E00000000000C00040008004D30873060304430⟧巨大な⟦MSBT:0E00000000000A00020006004B308F305A30⟧蛙！
+マグマにかえる その⟦MSBT:0E00000000000800020004007E304830⟧前に
+その おしりを ⟦MSBT:0E00000000000800020004005F305F30⟧叩いてやる！","A giant Flaming Frog?!
+Quick! Spank it silly
+before it hops back
+to the volcano!","Vite! Donnez une raclée
+à ce crapaud géant avant
+qu'il n'aille se réfugier au
+cœur du volcan!","⟦MSBT:0E000000020002005A00⟧¿Un enorme búho
+llameante? Rápido, dale su
+merecido antes de que
+vuelva al volcán.⟦MSBT:0E000000020002006400⟧","Dev alevli kurbağa?!
+Volkana dönmeden önce
+çabuk yen!",
+38,BossProfileText5,"Dark clouds loom over
+the mountaintop...
+Prepare to fight the great
+four-headed guardian!","Préparez-vous à
+affronter la terrible
+gardienne du sommet
+de la montagne !","Dunkle Wolken liegen
+über allen Gipfeln... Bist
+du bereit, die vierköpfige
+Harpyie zu bekämpfen?","Nuvole scure avvolgono
+il picco della montagna...
+Ecco l'Idra protettrice a
+quattro teste!","⟦MSBT:0E000000020002005500⟧Negros nubarrones se ciernen
+sobre la montaña. ¡Preparaos
+para luchar contra el guardián
+de cuatro cabezas!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000000000C00040008004230933046309330⟧暗雲⟦MSBT:0E00000000000600020002005F30⟧立ちこめる ⟦MSBT:0E00000000000E0004000A0055309330613087304630⟧山頂…
+４つ⟦MSBT:0E00000000000800020004004F307330⟧首の⟦MSBT:0E00000000000800020004007E308230⟧守り⟦MSBT:0E00000000000800020004004C307F30⟧神と
+クライマックス⟦MSBT:0E00000000000E0004000A004D308730463068304630⟧共闘バトル！","Dark clouds loom over
+the mountaintop...
+Prepare to fight the Four-
+Headed Guardian Angel!","Préparez-vous à
+affronter la terrible
+gardienne du sommet
+de la montagne!","⟦MSBT:0E000000020002005500⟧Negros nubarrones se ciernen
+sobre la montaña. ¡Prepárate
+para luchar contra el guardián
+de cuatro cabezas!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005500⟧Dağ tepesinde kara bulutlar...
+Dört başlı
+koruyucuyla savaşmaya
+hazırlan!⟦MSBT:0E000000020002006400⟧",
+39,BossProfileText6,"The four-headed guardian
+has descended and
+unleashed its true power!
+Only you can stop it!","La gardienne à quatre
+têtes déchaîne toute
+sa fureur. Vous devez
+l'arrêter !","Die vierköpfige Harpyie
+ist herabgestiegen...
+Es wird ernst! Nur du
+kannst sie noch stoppen!","L'Idra protettrice ha
+deciso di scatenare
+tutto il suo potere!
+Deve essere fermata!","El guardián cuatricéfalo
+ha revelado su verdadero
+poder. ¡Solo vosotros
+podéis detenerlo!","なんと　⟦MSBT:0E000000000008000200040057309330⟧真の⟦MSBT:0E00000000000A000200060061304B308930⟧力を ⟦MSBT:0E00000000000C00040008004B3044307B304630⟧解放した
+４つ⟦MSBT:0E00000000000800020004004F307330⟧首の⟦MSBT:0E00000000000800020004007E308230⟧守り⟦MSBT:0E00000000000800020004004C307F30⟧神が ⟦MSBT:0E00000000000C0004000800533046308A309330⟧降臨！
+⟦MSBT:0E00000000000A00040006006A304B307E30⟧仲間と ともに ⟦MSBT:0E00000000000C0004000800673093305B306430⟧伝説を⟦MSBT:0E000000000008000200040064304F30⟧作れ！","The four-headed Guardian
+Angel has descended and
+unleashed its true power!
+Only you can stop it!","La gardienne à quatre
+têtes déchaîne toute
+sa fureur. Vous devez
+l'arrêter!","El guardián de cuatro
+cabezas ha revelado su
+verdadero poder. ¡Solo tú
+puedes detenerlo!","Dört başlı koruyucu indi,
+gerçek gücünü açığa çıkardı!
+Onu durdurmak sana kaldı!",
+40,JobBtnNameText1,Sword Hero,⟦MSBT:0E000000020002005A00⟧Héros à l'épée⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Heldenschwert⟦MSBT:0E000000020002006400⟧,Spada eroica,⟦MSBT:0E000000020002005100⟧Rey de la espada⟦MSBT:0E000000020002006400⟧,ヒーローソード,Sword Hero,⟦MSBT:0E000000020002005A00⟧Héros à l'épée⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005100⟧Rey de la espada⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002004600⟧Kılıç Kahramanı⟦MSBT:0E000000020002006400⟧,
+41,JobBtnNameText2,Beam Mage,⟦MSBT:0E000000020002005A00⟧Roi des rayons⟦MSBT:0E000000020002006400⟧,Magiebeam,⟦MSBT:0E000000020002005A00⟧Raggio magico⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Señor del rayo⟦MSBT:0E000000020002006400⟧,マジックビーム,Beam Mage,⟦MSBT:0E000000020002005A00⟧Roi des rayons⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Señor del rayo⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005000⟧Işın Büyücüsü⟦MSBT:0E000000020002006400⟧,
+42,JobBtnNameText3,⟦MSBT:0E000000020002006100⟧Hammer Lord⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Maestro marto⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Schwerhammer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Mastro martello⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧As del martillo⟦MSBT:0E000000020002006400⟧,ヘビィハンマー,⟦MSBT:0E000000020002006100⟧Hammer Lord⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Maestro marto⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧As del martillo⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Çekiç Ustası⟦MSBT:0E000000020002006400⟧,
+43,JobBtnNameText4,⟦MSBT:0E000000020002006200⟧Dr Healmore⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Doc. prodige⟦MSBT:0E000000020002006400⟧,Heiler,⟦MSBT:0E000000020002005500⟧Dottore mistico⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Doctor erudito⟦MSBT:0E000000020002006400⟧,ヒールドクター,⟦MSBT:0E000000020002006200⟧Dr. Healmore⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Doc. prodige⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Doctor erudito⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Şifa Doktoru⟦MSBT:0E000000020002006400⟧,
+44,JobNameText1,Sword Hero,Héros à l'épée,Heldenschwert,Spada eroica,⟦MSBT:0E000000020002005F00⟧Rey de la espada⟦MSBT:0E000000020002006400⟧,ヒーローソード,Sword Hero,Héros à l'épée,⟦MSBT:0E000000020002005F00⟧Rey de la espada⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Kılıç Kahramanı⟦MSBT:0E000000020002006400⟧,
+45,JobNameText2,Beam Mage,Roi des rayons,Magiebeam,⟦MSBT:0E000000020002006400⟧Raggio magico⟦MSBT:0E000000020002006400⟧,Señor del rayo,マジックビーム,Beam Mage,Roi des rayons,Señor del rayo,Işın Büyücüsü,
+46,JobNameText3,⟦MSBT:0E000000020002006100⟧Hammer Lord⟦MSBT:0E000000020002006400⟧,Maestro marto,⟦MSBT:0E000000020002006100⟧Schwerhammer⟦MSBT:0E000000020002006400⟧,Mastro martello,As del martillo,ヘビィハンマー,⟦MSBT:0E000000020002006100⟧Hammer Lord⟦MSBT:0E000000020002006400⟧,Maestro marto,As del martillo,⟦MSBT:0E000000020002006100⟧Çekiç Ustası⟦MSBT:0E000000020002006400⟧,
+47,JobNameText4,⟦MSBT:0E000000020002005F00⟧Doctor Healmore⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Docteur prodige⟦MSBT:0E000000020002006400⟧,Heiler,Dottore mistico,Doctor erudito,ヒールドクター,⟦MSBT:0E000000020002005F00⟧Doctor Healmore⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Docteur prodige⟦MSBT:0E000000020002006400⟧,Doctor erudito,⟦MSBT:0E000000020002005F00⟧Şifa Doktoru⟦MSBT:0E000000020002006400⟧,
+48,JobBywordText1,The blade master!,Le maître des lames !,Der Meister der Klinge!,Il maestro della lama!,⟦MSBT:0E000000020002005500⟧¡Usa el poder de la espada!⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000000000C00040008005330463057308530⟧攻守に⟦MSBT:0E00000000000600020002005F30⟧長けた⟦MSBT:0E00000000000A0004000600513093305730⟧剣士！,The blade master!,Le maître des lames!,⟦MSBT:0E000000020002005500⟧¡Usa el poder de la espada!⟦MSBT:0E000000020002006400⟧,Kılıç Ustası!,
+49,JobBywordText2,The timely magician!,Le magicien du temps !,Der Meister der Magie!,Il mago del tempo!,⟦MSBT:0E000000020002005500⟧¡La magia es tu aliada!⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000000000A000400060058304B309330⟧時間をとめる⟦MSBT:0E00000000000E0006000A007E307B30463064304B30⟧魔法使い！,The timely magician!,Le magicien du temps!,⟦MSBT:0E000000020002005500⟧¡La magia es tu aliada!⟦MSBT:0E000000020002006400⟧,Zaman Büyücüsü!,
+50,JobBywordText3,The powerful warrior!,Le puissant guerrier !,Der mächtige Krieger!,Il potente guerriero!,⟦MSBT:0E000000020002005500⟧¡Aplasta a tus adversarios!⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000000000C00040008005530443053304630⟧最高パワーの⟦MSBT:0E0000000000100006000C005830853046305B3093305730⟧重戦士！,The powerful warrior!,Le puissant guerrier!,⟦MSBT:0E000000020002005500⟧¡Aplasta a tus adversarios!⟦MSBT:0E000000020002006400⟧,Güçlü Savaşçı!,
+51,JobBywordText4,The scholarly healer!,Le savant guérisseur !,Der weise Heiler!,Lo studioso guaritore!,¡La alquimia es tu arma!,⟦MSBT:0E00000000000C00040008004B30443075304F30⟧回復サポートの⟦MSBT:0E00000000000A00040006004C304F305730⟧学士！,The scholarly healer!,Le savant guérisseur!,¡La alquimia es tu arma!,Bilge Şifacı!,
+52,JobLevelText,Level,Niveau,Level,Livello,Nivel,レベル,Level,Niveau,Nivel,Seviye,
+53,JobTotalExpText,EXP,Exp.,ERF.,⟦MSBT:0E000000020002005A00⟧Punti Esp.⟦MSBT:0E000000020002006400⟧,Exp.,けいけんち,EXP,Exp.,Exp.,EXP,
+54,JobParamHpText,Stamina,⟦MSBT:0E000000020002005A00⟧Santé⟦MSBT:0E000000020002006400⟧,Kraft,Energia,Vida,たいりょく,Stamina,⟦MSBT:0E000000020002005A00⟧Santé⟦MSBT:0E000000020002006400⟧,Vida,Can,
+55,JobParamAtkText,Attack,⟦MSBT:0E000000020002005A00⟧Attaque⟦MSBT:0E000000020002006400⟧,Angriff,Attacco,Ataque,こうげき,Attack,⟦MSBT:0E000000020002005A00⟧Attaque⟦MSBT:0E000000020002006400⟧,Ataque,Saldırı,
+56,JobParamCureText,Recovery,⟦MSBT:0E000000020002005A00⟧Récupération⟦MSBT:0E000000020002006400⟧,Heilung,Recupero,Curación,かいふく,Recovery,⟦MSBT:0E000000020002005A00⟧Récupération⟦MSBT:0E000000020002006400⟧,Curación,İyileşme,
+57,JobParamMeteorText,Team Meteor,⟦MSBT:0E000000020002005A00⟧Union météore⟦MSBT:0E000000020002006400⟧,Coop-Meteor,⟦MSBT:0E000000020002005500⟧Meteora amica⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Aerolito amigo⟦MSBT:0E000000020002006400⟧,フレンドメテオ,Team Meteor,⟦MSBT:0E000000020002005A00⟧Union météore⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Aerolito amigo⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005000⟧Takım Meteoru⟦MSBT:0E000000020002006400⟧,
+58,JobTotalExpValueText,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,
+59,JobNextExpValueText,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,
+60,JobNextLevelExpText,Next,⟦MSBT:0E000000020002005500⟧Prochain niv.⟦MSBT:0E000000020002006400⟧,Noch,Prossimo,Siguiente,NEXT,Next,⟦MSBT:0E000000020002005500⟧Prochain niv.⟦MSBT:0E000000020002006400⟧,Siguiente,Sonraki,
+61,JobNextLevelExpFullText,Max!,Maximum !,Max.!,Massimo!,¡Máximo!,MAX！,Max!,Maximum!,¡Máximo!,Maks!,
+62,JobHitPointValueText,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,
+63,MemberCheckHeadText,Press ⟦MSBT:0E00000003000400FF4B32FF⟧Set Off ⟦MSBT:0E00000003000400000000FF⟧to start!,Touchez ⟦MSBT:0E00000003000400FF4B32FF⟧Commencer⟦MSBT:0E00000003000400000000FF⟧ !,Start: ⟦MSBT:0E00000003000400FF4B32FF⟧Aufbrechen ⟦MSBT:0E00000003000400000000FF⟧drücken!,⟦MSBT:0E000000020002005F00⟧Premi ⟦MSBT:0E00000003000400FF4B32FF⟧Partenza ⟦MSBT:0E00000003000400000000FF⟧per iniziare!⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Toca ⟦MSBT:0E00000003000400FF4B32FF⟧¡Vamos! ⟦MSBT:0E00000003000400000000FF⟧para comenzar.⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000003000400FF4B32FF⟧しゅつげき⟦MSBT:0E00000003000400000000FF⟧で スタート！,Select ⟦MSBT:0E00000003000400FF4B32FF⟧Set Off ⟦MSBT:0E00000003000400000000FF⟧to start!,Touchez ⟦MSBT:0E00000003000400FF4B32FF⟧Commencer⟦MSBT:0E00000003000400000000FF⟧!,⟦MSBT:0E000000020002005500⟧Toca ⟦MSBT:0E00000003000400FF4B32FF⟧¡Vamos! ⟦MSBT:0E00000003000400000000FF⟧para comenzar.⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Başlamak için ⟦MSBT:0E00000003000400FF4B32FF⟧Yola Çık⟦MSBT:0E00000003000400000000FF⟧'a bas!⟦MSBT:0E000000020002006400⟧,
+64,MemberCheckBodyText,"Once everyone has selected
+a role, begin your quest!","Tout le monde a choisi son
+rôle ? Alors, c'est parti !","Wenn alle ihre Rolle gewählt
+haben, beginnt die Mission!","Dopo che tutti hanno scelto un
+ruolo, la missione può iniziare!","⟦MSBT:0E000000020002005A00⟧La misión empezará en cuanto
+todos hayan elegido una habilidad.⟦MSBT:0E000000020002006400⟧","ぜんいんの ジョブが きまったら
+クエストを スタートしよう！","Once everyone has selected
+a role, begin your quest!","Tout le monde a choisi son
+rôle? Alors, c'est parti!","⟦MSBT:0E000000020002005A00⟧La misión empezará en cuanto
+todos hayan elegido una habilidad.⟦MSBT:0E000000020002006400⟧","Herkes rolünü seçince
+göreve başla!",
+65,MemberCheckBodyTextWithAI,"You can also change your
+⟦MSBT:0E00000003000400FF4B32FF⟧teammates' roles⟦MSBT:0E00000003000400000000FF⟧! Once you're
+ready, set off!","Vous pouvez modifier le ⟦MSBT:0E00000003000400FF4B32FF⟧rôle
+⟦MSBT:0E00000003000400000000FF⟧de vos ⟦MSBT:0E00000003000400FF4B32FF⟧équipiers⟦MSBT:0E00000003000400000000FF⟧. Si tout est
+prêt, la quête peut commencer !","Du kannst auch die ⟦MSBT:0E00000003000400FF4B32FF⟧Rollen der
+einzelnen Spieler⟦MSBT:0E00000003000400000000FF⟧ ändern. Bist
+du bereit, kannst du aufbrechen!","Puoi anche cambiare i ⟦MSBT:0E00000003000400FF4B32FF⟧ruoli dei
+tuoi compagni⟦MSBT:0E00000003000400000000FF⟧! Quando tutto
+sarà pronto, potrete partire!","Si quieres, puedes cambiar la
+⟦MSBT:0E00000003000400FF4B32FF⟧habilidad de tus aliados⟦MSBT:0E00000003000400000000FF⟧.
+¡Prepárate, que esto empieza!","⟦MSBT:0E00000003000400FF4B32FF⟧おとものジョブ⟦MSBT:0E00000003000400000000FF⟧も へんこう できるぞ！
+じゅんびが できたら しゅつげきだ！","You can also change your
+⟦MSBT:0E00000003000400FF4B32FF⟧teammates' roles⟦MSBT:0E00000003000400000000FF⟧! Once you're
+ready, set off!","Vous pouvez modifier le ⟦MSBT:0E00000003000400FF4B32FF⟧rôle
+⟦MSBT:0E00000003000400000000FF⟧de vos ⟦MSBT:0E00000003000400FF4B32FF⟧équipiers⟦MSBT:0E00000003000400000000FF⟧. Si tout est
+prêt, la quête peut commencer!","Si quieres, puedes cambiar la
+⟦MSBT:0E00000003000400FF4B32FF⟧habilidad de tus aliados⟦MSBT:0E00000003000400000000FF⟧.
+¡Prepárate y entra en acción!","Takım arkadaşlarının
+⟦MSBT:0E00000003000400FF4B32FF⟧rollerini⟦MSBT:0E00000003000400000000FF⟧ de değiştirebilirsin.
+Hazırsan yola çık!",
+66,MemberCheckDecideBtnText,Set Off,⟦MSBT:0E000000020002005F00⟧Commencer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Aufbrechen⟦MSBT:0E000000020002006400⟧,Partenza,¡Vamos!,しゅつげき,Set Off,⟦MSBT:0E000000020002005F00⟧Commencer⟦MSBT:0E000000020002006400⟧,¡Vamos!,Yola Çık,
+67,OperationBtnText,Controls,Commandes,Steuerung,Comandi,Controles,そうさせつめい,Controls,Commandes,Controles,Kontroller,
+68,MemberBtnLevelText,Level,⟦MSBT:0E000000020002005A00⟧Niveau⟦MSBT:0E000000020002006400⟧,Level,⟦MSBT:0E000000020002005A00⟧Livello⟦MSBT:0E000000020002006400⟧,Nivel,レベル,Level,⟦MSBT:0E000000020002005A00⟧Niveau⟦MSBT:0E000000020002006400⟧,Nivel,⟦MSBT:0E000000020002004B00⟧Seviye⟦MSBT:0E000000020002006400⟧,
+69,MemberBtnJobText1,"Sword
+Hero","Héros à
+l'épée",Ritter,"Spada
+eroica","⟦MSBT:0E000000020002005F00⟧Rey de la
+espada⟦MSBT:0E000000020002006400⟧","ヒーロー
+ソード","Sword
+Hero","Héros à
+l'épée","⟦MSBT:0E000000020002005F00⟧Rey de la
+espada⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002004100⟧Kılıç
+Kahramanı⟦MSBT:0E000000020002006400⟧",
+70,MemberBtnJobText2,"⟦MSBT:0E000000020002005F00⟧Doctor
+Healmore⟦MSBT:0E000000020002006400⟧","Docteur
+prodige",Heiler,"Dottore
+mistico","Doctor
+erudito","ヒール
+ドクター","⟦MSBT:0E000000020002005F00⟧Doctor
+Healmore⟦MSBT:0E000000020002006400⟧","Docteur
+prodige","Doctor
+erudito","⟦MSBT:0E000000020002005A00⟧Şifa
+Doktoru⟦MSBT:0E000000020002006400⟧",
+71,MemberBtnJobText3,"Hammer
+Lord","Maestro
+marto",Krieger,"Mastro
+martello","As del
+martillo","へビィ
+ハンマー","Hammer
+Lord","Maestro
+marto","As del
+martillo","Çekiç
+Ustası",
+72,MemberBtnJobText4,"Beam
+Mage","Roi des
+rayons",Magier,"Raggio
+magico","Señor
+del rayo","マジック
+ビーム","Beam
+Mage","Roi des
+rayons","Señor
+del rayo","Işın
+Büyücüsü",
+73,ConfirmDialogYesBtnText,Yes,Oui,Ja,Sì,Sí,はい,Yes,Oui,Sí,Evet,
+74,ConfirmDialogNoBtnText,No,Non,Nein,No,No,いいえ,No,Non,No,Hayır,
+75,ConfirmDialogWindowText,"Are you ready to
+⟦MSBT:0E00000003000400FF4B32FF⟧set off ⟦MSBT:0E00000003000400000000FF⟧on your quest?","La quête va ⟦MSBT:0E00000003000400FF4B32FF⟧commencer⟦MSBT:0E00000003000400000000FF⟧.
+Tout est prêt ?","Bereit, die Mission zu
+starten und ⟦MSBT:0E00000003000400FF4B32FF⟧aufzubrechen⟦MSBT:0E00000003000400000000FF⟧?","Vuoi ⟦MSBT:0E00000003000400FF4B32FF⟧partire⟦MSBT:0E00000003000400000000FF⟧ per
+la missione?","¿Todo listo para ⟦MSBT:0E00000003000400FF4B32FF⟧comenzar
+⟦MSBT:0E00000003000400000000FF⟧la misión?","クエストに ⟦MSBT:0E00000003000400FF4B32FF⟧しゅつげき ⟦MSBT:0E00000003000400000000FF⟧します。
+よろしいですか？","Are you ready to
+⟦MSBT:0E00000003000400FF4B32FF⟧set off ⟦MSBT:0E00000003000400000000FF⟧on your quest?","La quête va ⟦MSBT:0E00000003000400FF4B32FF⟧commencer⟦MSBT:0E00000003000400000000FF⟧.
+Tout est prêt?","¿Todo listo para ⟦MSBT:0E00000003000400FF4B32FF⟧comenzar
+⟦MSBT:0E00000003000400000000FF⟧la misión?","Göreve ⟦MSBT:0E00000003000400FF4B32FF⟧yola çıkmaya⟦MSBT:0E00000003000400000000FF⟧
+hazır mısın?",
+76,TitleEndBtnText,Quit,⟦MSBT:0E000000020002005A00⟧Quitter⟦MSBT:0E000000020002006400⟧,Ende,Esci,Salir,おわる,Quit,⟦MSBT:0E000000020002005A00⟧Quitter⟦MSBT:0E000000020002006400⟧,Salir,Çık,
+77,TitleSingleBtnText,Team Quest,Aventure,⟦MSBT:0E000000020002005500⟧Team-Mission⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005000⟧Modalità di squadra⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005000⟧Misión en equipo⟦MSBT:0E000000020002006400⟧,おともとクエスト,Team Quest,Aventure,⟦MSBT:0E000000020002005000⟧Misión en equipo⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Takım Görevi⟦MSBT:0E000000020002006400⟧,
+78,TitleMultiBtnText,Wireless Quest,Mode sans fil,⟦MSBT:0E000000020002005500⟧Drahtlos-Mission⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Modalità wireless⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005000⟧Misión inalámbrica⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000000000C00040008006430463057309330⟧通信でクエスト,Wireless Quest,Mode sans fil,⟦MSBT:0E000000020002005000⟧Misión inalámbrica⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002004B00⟧Kablosuz Görev⟦MSBT:0E000000020002006400⟧,
+79,TitleHeaderLoText,Game Mode,Choix du mode,Modusauswahl,Modalità di gioco,Modos de juego,モードせんたく,Game Mode,Choix du mode,Modos de juego,Oyun Modu,
+80,TipsSword1HeaderText,Sword Hero's Special,Pouvoir du héros à l'épée,Ritter-Spezialtechnik,Specialità (Spada eroica),⟦MSBT:0E000000020002005500⟧Ataque del rey de la espada⟦MSBT:0E000000020002006400⟧,ヒーローソードの ひっさつ⟦MSBT:0E00000000000800020004008F305630⟧技,Sword Hero's Special,Pouvoir du héros à l'épée,⟦MSBT:0E000000020002005500⟧Ataque del rey de la espada⟦MSBT:0E000000020002006400⟧,Kılıç Kahramanı Özeli,
+81,TipsSword1BodyText,"Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Spin Slash⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Lame tourbillon⟦MSBT:0E00000003000400000000FF⟧. Il y a
+trois niveaux de charge !","Halte ⟦MSBT:0E00010001000000⟧ gedrückt, um deinen
+⟦MSBT:0E00000003000400FFDE00FF⟧Rundumschlag⟦MSBT:0E00000003000400000000FF⟧ aufzuladen. Es gibt
+drei verschiedene Ladungsstufen!","Tieni premuto ⟦MSBT:0E00010001000000⟧ per caricare
+l'⟦MSBT:0E00000003000400FFDE00FF⟧Attacco rotante⟦MSBT:0E00000003000400000000FF⟧! Ci sono
+tre livelli di carica!","Mantén pulsado ⟦MSBT:0E00010001000000⟧ para activar
+el ⟦MSBT:0E00000003000400FFDE00FF⟧espadazo con giro⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!","⟦MSBT:0E00010001000000⟧⟦MSBT:0E00000000000800020004006A304C30⟧長おしで ⟦MSBT:0E00000003000400FFDE00FF⟧⟦MSBT:0E00000000000800020004004B304430⟧回てんぎり⟦MSBT:0E00000003000400000000FF⟧が さくれつ！
+３だんかいまで チャージが できる！","Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Spin Slash⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Lame tourbillon⟦MSBT:0E00000003000400000000FF⟧. Il y a
+trois niveaux de charge!","⟦MSBT:0E000000020002006400⟧Mantén oprimido ⟦MSBT:0E00010001000000⟧ para activar
+el ⟦MSBT:0E00000003000400FFDE00FF⟧ataque torbellino⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00010001000000⟧ basılı tut,
+⟦MSBT:0E00000003000400FFDE00FF⟧Döner Kesik⟦MSBT:0E00000003000400000000FF⟧ için güç biriktir!
+3 şarj seviyesi var!",
+82,TipsHammer1HeaderText,Hammer Lord's Special,⟦MSBT:0E000000020002005F00⟧Pouvoir du maestro marto⟦MSBT:0E000000020002006400⟧,Krieger-Spezialtechnik,⟦MSBT:0E000000020002005F00⟧Specialità (Mastro martello)⟦MSBT:0E000000020002006400⟧,Ataque del as del martillo,ヘビィハンマーの ひっさつ⟦MSBT:0E00000000000800020004008F305630⟧技,Hammer Lord's Special,⟦MSBT:0E000000020002005F00⟧Pouvoir du maestro marto⟦MSBT:0E000000020002006400⟧,Ataque del as del martillo,Çekiç Ustası Özeli,
+83,TipsHammer1BodyText,"Press and hold ⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Hammer Flip⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010006000000⟧ et ⟦MSBT:0E00010001000000⟧ pour charger
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Marteau ardent⟦MSBT:0E00000003000400000000FF⟧. Il y a trois
+niveaux de charge !","Halte  ⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧ gedrückt, um deinen
+⟦MSBT:0E00000003000400FFDE00FF⟧Feuerzorn⟦MSBT:0E00000003000400000000FF⟧ aufzuladen. Es gibt drei
+verschiedene Ladungsstufen!","Tieni premuto ⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧ per caricare
+l'⟦MSBT:0E00000003000400FFDE00FF⟧Iper martellata⟦MSBT:0E00000003000400000000FF⟧! Ci sono tre livelli
+di carica!","Mantén pulsados ⟦MSBT:0E00010006000000⟧ y ⟦MSBT:0E00010001000000⟧ para
+activar el ⟦MSBT:0E00000003000400FFDE00FF⟧martillo ígneo⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!","⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧⟦MSBT:0E00000000000800020004006A304C30⟧長おしで ⟦MSBT:0E00000003000400FFDE00FF⟧おにごろし⟦MSBT:0E00000000000A00040006004B3048309330⟧火炎ハンマー！⟦MSBT:0E00000003000400000000FF⟧
+３だんかいまで チャージが できる！","Press and hold ⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Hammer Flip⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010006000000⟧ et ⟦MSBT:0E00010001000000⟧ pour charger
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Marteau ardent⟦MSBT:0E00000003000400000000FF⟧. Il y a trois
+niveaux de charge!","⟦MSBT:0E000000020002006400⟧Mantén oprimidos ⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧ para
+activar el ⟦MSBT:0E00000003000400FFDE00FF⟧martillo ígneo⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00010006000000⟧+⟦MSBT:0E00010001000000⟧ basılı tut,
+⟦MSBT:0E00000003000400FFDE00FF⟧Çekiç Taklası⟦MSBT:0E00000003000400000000FF⟧ için güç biriktir!
+3 şarj seviyesi var!",
+84,TipsDoctor1HeaderText,Doctor Healmore's Special,⟦MSBT:0E000000020002005F00⟧Pouvoir du docteur prodige⟦MSBT:0E000000020002006400⟧,Heiler-Spezialtechnik,⟦MSBT:0E000000020002005F00⟧Specialità (Dottore mistico)⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Especialidad del doctor erudito⟦MSBT:0E000000020002006400⟧,ヒールドクターの ひっさつ⟦MSBT:0E00000000000800020004008F305630⟧技,Doctor Healmore's Special,⟦MSBT:0E000000020002005F00⟧Pouvoir du docteur prodige⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Especialidad del doctor erudito⟦MSBT:0E000000020002006400⟧,Şifa Doktoru Özeli,
+85,TipsDoctor1BodyText,"Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Healing Area⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger votre
+⟦MSBT:0E00000003000400FFDE00FF⟧Zone de soins⟦MSBT:0E00000003000400000000FF⟧. Il y a trois niveaux
+de charge !","Halte ⟦MSBT:0E00010001000000⟧ gedrückt, um deine
+⟦MSBT:0E00000003000400FFDE00FF⟧Heilungszone⟦MSBT:0E00000003000400000000FF⟧ aufzuladen. Es gibt
+drei verschiedene Ladungsstufen!","Tieni premuto ⟦MSBT:0E00010001000000⟧ per caricare
+la ⟦MSBT:0E00000003000400FFDE00FF⟧Terapia intensiva⟦MSBT:0E00000003000400000000FF⟧! Ci sono
+tre livelli di carica!","Mantén pulsado ⟦MSBT:0E00010001000000⟧ para activar
+el ⟦MSBT:0E00000003000400FFDE00FF⟧área de curación⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!","⟦MSBT:0E00010001000000⟧⟦MSBT:0E00000000000800020004006A304C30⟧長おしで キズをいやす ⟦MSBT:0E00000003000400FFDE00FF⟧ヒーリングエリア！
+⟦MSBT:0E00000003000400000000FF⟧３だんかいまで チャージが できる！","Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your ⟦MSBT:0E00000003000400FFDE00FF⟧Healing Area⟦MSBT:0E00000003000400000000FF⟧! There are
+three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger votre
+⟦MSBT:0E00000003000400FFDE00FF⟧Zone de soins⟦MSBT:0E00000003000400000000FF⟧. Il y a trois niveaux
+de charge!","Mantén oprimido ⟦MSBT:0E00010001000000⟧ para activar
+el ⟦MSBT:0E00000003000400FFDE00FF⟧área de curación⟦MSBT:0E00000003000400000000FF⟧. ¡Hay
+tres niveles de potencia!","⟦MSBT:0E00010001000000⟧ basılı tut,
+⟦MSBT:0E00000003000400FFDE00FF⟧Şifa Alanı⟦MSBT:0E00000003000400000000FF⟧ için güç biriktir!
+3 şarj seviyesi var!",
+86,TipsBeam1HeaderText,Beam Mage's Special,Pouvoir du roi des rayons,Magier-Spezialtechnik,Specialità (Raggio magico),Poder del señor del rayo,マジックビームの ひっさつ⟦MSBT:0E00000000000800020004008F305630⟧技,Beam Mage's Special,Pouvoir du roi des rayons,Poder del señor del rayo,Işın Büyücüsü Özeli,
+87,TipsBeam1BodyText,"Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your clock-stopping ⟦MSBT:0E00000003000400FFDE00FF⟧Time Beam⟦MSBT:0E00000003000400000000FF⟧!
+There are three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger votre
+⟦MSBT:0E00000003000400FFDE00FF⟧Rayon temporel ⟦MSBT:0E00000003000400000000FF⟧qui arrête le temps.
+Il y a trois niveaux de charge !","Halte ⟦MSBT:0E00010001000000⟧ gedrückt, um mit dem ⟦MSBT:0E00000003000400FFDE00FF⟧Zeit-
+Beam⟦MSBT:0E00000003000400000000FF⟧ die Zeit anzuhalten. Es gibt
+drei verschiedene Ladungsstufen!","Tieni premuto ⟦MSBT:0E00010001000000⟧ per caricare il
+⟦MSBT:0E00000003000400FFDE00FF⟧Raggio temporale⟦MSBT:0E00000003000400000000FF⟧ e fermare il
+tempo! Ci sono tre livelli di carica!","Mantén pulsado ⟦MSBT:0E00010001000000⟧ para activar la
+⟦MSBT:0E00000003000400FFDE00FF⟧ráfaga temporal ⟦MSBT:0E00000003000400000000FF⟧y detener el reloj.
+¡Hay tres niveles de potencia!","⟦MSBT:0E00010001000000⟧⟦MSBT:0E00000000000800020004006A304C30⟧長おしで てきの⟦MSBT:0E00000000000A000400060058304B309330⟧時間をとめる ⟦MSBT:0E00000003000400FFDE00FF⟧タイムビーム！⟦MSBT:0E00000003000400000000FF⟧
+３だんかいまで チャージが できる！","Press and hold ⟦MSBT:0E00010001000000⟧ to charge
+your clock-stopping ⟦MSBT:0E00000003000400FFDE00FF⟧Time Beam⟦MSBT:0E00000003000400000000FF⟧!
+There are three levels of charge!","Maintenez ⟦MSBT:0E00010001000000⟧ pour charger votre
+⟦MSBT:0E00000003000400FFDE00FF⟧Rayon temporel ⟦MSBT:0E00000003000400000000FF⟧qui arrête le temps.
+Il y a trois niveaux de charge!","⟦MSBT:0E000000020002006400⟧Mantén oprimido ⟦MSBT:0E00010001000000⟧ para activar la
+⟦MSBT:0E00000003000400FFDE00FF⟧ráfaga temporal ⟦MSBT:0E00000003000400000000FF⟧y detener el reloj.
+¡Hay tres niveles de potencia!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00010001000000⟧ basılı tutup zamanı durduran
+⟦MSBT:0E00000003000400FFDE00FF⟧Zaman Işını⟦MSBT:0E00000003000400000000FF⟧ için güç biriktir!
+3 şarj seviyesi var!",
+88,TipsSword2HeaderText,Sword Hero's Shield Power,Bouclier du héros à l'épée,Ritter-Abwehrschild,Scudo (Spada eroica),Escudo heroico,ヒーローソードの シールド,Sword Hero's Shield Power,Bouclier du héros à l'épée,Escudo heroico,Kılıç Kahramanı Kalkanı,
+89,TipsSword2BodyText,"Press ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ to activate your
+⟦MSBT:0E00000003000400FFDE00FF⟧Hero Shield⟦MSBT:0E00000003000400000000FF⟧! Protect your
+teammates inside the barrier!","Appuyez sur ⟦MSBT:0E00010004000000⟧ ou ⟦MSBT:0E00010005000000⟧ pour activer
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Bouclier héroïque ⟦MSBT:0E00000003000400000000FF⟧et protéger
+vos coéquipiers !","Drücke ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧, um deinen ⟦MSBT:0E00000003000400FFDE00FF⟧Helden-
+schild⟦MSBT:0E00000003000400000000FF⟧ zu aktivieren! Schütze deine
+Partner innerhalb seiner Barriere!","Premi ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ per attivare lo
+⟦MSBT:0E00000003000400FFDE00FF⟧Scudo eroico⟦MSBT:0E00000003000400000000FF⟧! Proteggi i compagni
+all'interno della barriera!","Pulsa ⟦MSBT:0E00010004000000⟧ o ⟦MSBT:0E00010005000000⟧ para activar el ⟦MSBT:0E00000003000400FFDE00FF⟧escudo
+heroico⟦MSBT:0E00000003000400000000FF⟧. ¡Protege a los aliados que
+estén dentro del escudo!","⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧で ⟦MSBT:0E00000003000400FFDE00FF⟧ヒーローシールド！⟦MSBT:0E00000003000400000000FF⟧
+バリアをつくって なかまを⟦MSBT:0E00000000000800020004007E308230⟧守ろう！","Press ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ to activate your
+⟦MSBT:0E00000003000400FFDE00FF⟧Hero Shield⟦MSBT:0E00000003000400000000FF⟧! Protect your
+mates inside the barrier!","Appuyez sur ⟦MSBT:0E00010004000000⟧ ou ⟦MSBT:0E00010005000000⟧ pour activer
+votre ⟦MSBT:0E00000003000400FFDE00FF⟧Bouclier héroïque ⟦MSBT:0E00000003000400000000FF⟧et protéger
+vos coéquipiers!","Oprime ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ para activar el ⟦MSBT:0E00000003000400FFDE00FF⟧escudo
+heroico⟦MSBT:0E00000003000400000000FF⟧. ¡Protege a los aliados que
+estén dentro del escudo!","⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ ile ⟦MSBT:0E00000003000400FFDE00FF⟧Kahraman Kalkanı⟦MSBT:0E00000003000400000000FF⟧ aç!
+Bariyerin içindeki takım
+arkadaşlarını koru!",
+90,TipsLithographHeaderText,Power Tablets,Fragments de météore,Steintafeln,Tavolette dell'amicizia,Tablas de la amistad,⟦MSBT:0E00000000000800020004005B304D30⟧石ばんを ⟦MSBT:0E00000000000600020002006630⟧手にいれよう,Power Tablets,Fragments de météore,Tablas de la amistad,Güç Tabletleri,
+91,TipsLithographBodyText,"If you continuously attack
+an enemy, you can get
+⟦MSBT:0E00000003000400FFDE00FF⟧Power Tablets ⟦MSBT:0E00000003000400000000FF⟧for your team.","Attaquez l'ennemi sans relâche
+afin de faire apparaître des
+⟦MSBT:0E00000003000400FFDE00FF⟧fragments de météore⟦MSBT:0E00000003000400000000FF⟧.","Attackierst du kontinuierlich einen
+Gegner, erhältst du ⟦MSBT:0E00000003000400FFDE00FF⟧Steintafeln ⟦MSBT:0E00000003000400000000FF⟧für
+dein Team.","Se attacchi continuamente un
+nemico, puoi ottenere ⟦MSBT:0E00000003000400FFDE00FF⟧tavolette
+dell'amicizia ⟦MSBT:0E00000003000400000000FF⟧per la tua squadra.","Si atacas continuamente a un
+enemigo, conseguirás ⟦MSBT:0E00000003000400FFDE00FF⟧tablas de
+la amistad ⟦MSBT:0E00000003000400000000FF⟧para tu equipo.","てきに たくさん こうげきを⟦MSBT:0E00000000000600020002004230⟧当てて
+ぜんいんで ⟦MSBT:0E00000003000400FFDE00FF⟧⟦MSBT:0E00000000000800020004005B304D30⟧石ばんを あつめよう！⟦MSBT:0E00000003000400000000FF⟧","If you continuously attack
+an enemy, you can get
+⟦MSBT:0E00000003000400FFDE00FF⟧Power Tablets ⟦MSBT:0E00000003000400000000FF⟧for your team.","Attaquez l'ennemi sans relâche
+afin de faire apparaître des
+⟦MSBT:0E00000003000400FFDE00FF⟧fragments de météore⟦MSBT:0E00000003000400000000FF⟧.","Si atacas continuamente a un
+enemigo, conseguirás ⟦MSBT:0E00000003000400FFDE00FF⟧tablas de
+la amistad ⟦MSBT:0E00000003000400000000FF⟧para tu equipo.","Düşmana art arda vurup
+takımın için ⟦MSBT:0E00000003000400FFDE00FF⟧Güç Tabletleri⟦MSBT:0E00000003000400000000FF⟧
+topla!",
+92,TipsMeteorHeaderText,Team Meteor,Union météore,Coop-Meteor,Meteora amica,Aerolito amigo,⟦MSBT:0E00000000001400080010004D30873046308A3087304F308F305630⟧協力技 フレンドメテオ,Team Meteor,Union météore,Aerolito amigo,Takım Meteoru,
+93,TipsMeteorBodyText,"Collect enough Power Tablets to
+execute a ⟦MSBT:0E00000003000400FFDE00FF⟧Team Meteor⟦MSBT:0E00000003000400000000FF⟧ move!
+It does huge damage to enemies!","Ramassez tous les fragments de
+météore pour lancer une attaque
+dévastatrice : l'⟦MSBT:0E00000003000400FFDE00FF⟧union météore⟦MSBT:0E00000003000400000000FF⟧ !","Sammle genug Steintafeln, um
+einen ⟦MSBT:0E00000003000400FFDE00FF⟧Coop-Meteor⟦MSBT:0E00000003000400000000FF⟧ zu entfesseln.
+Er fügt Gegnern großen Schaden zu!","Raccogli tavolette dell'amicizia a
+sufficienza per eseguire la mossa
+⟦MSBT:0E00000003000400FFDE00FF⟧Meteora amica⟦MSBT:0E00000003000400000000FF⟧! È devastante!","⟦MSBT:0E000000020002005A00⟧Si conseguís suficientes tablas de
+la amistad, podréis invocar al ⟦MSBT:0E00000003000400FFDE00FF⟧aerolito
+amigo⟦MSBT:0E00000003000400000000FF⟧, que causa gran daño al enemigo.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000000000800020004005B304D30⟧石ばんを あつめて ⟦MSBT:0E00000003000400FFDE00FF⟧フレンドメテオ⟦MSBT:0E00000003000400000000FF⟧を はつどう！
+みんなで ⟦MSBT:0E0000000000100004000C004D30873046308A3087304F30⟧協力して ⟦MSBT:0E000000000008000200040060304430⟧大ダメージを ねらえ！","Collect enough Power Tablets to
+execute a ⟦MSBT:0E00000003000400FFDE00FF⟧Team Meteor⟦MSBT:0E00000003000400000000FF⟧ move!
+It does huge damage to enemies!","Ramassez tous les fragments de
+météore pour lancer une attaque
+dévastatrice : l'⟦MSBT:0E00000003000400FFDE00FF⟧union météore⟦MSBT:0E00000003000400000000FF⟧!","⟦MSBT:0E000000020002005A00⟧Si consigues suficientes tablas de
+la amistad, podrás invocar al ⟦MSBT:0E00000003000400FFDE00FF⟧aerolito
+amigo⟦MSBT:0E00000003000400000000FF⟧, que causa gran daño al enemigo.⟦MSBT:0E000000020002006400⟧","Yeterince Güç Tableti topla,
+⟦MSBT:0E00000003000400FFDE00FF⟧Takım Meteoru⟦MSBT:0E00000003000400000000FF⟧ yap!
+Düşmanlara büyük hasar verir!",
+94,TipsReviveHeaderText,Revival Spell,Sort de vie,Wiederbelebung,Incantesimo vitale,Conjuro resucitador,ふっかつの じゅもん,Revival Spell,Sort de vie,Conjuro resucitador,Diriltme Büyüsü,
+95,TipsReviveBodyText,"Move near an injured
+teammate and press ⟦MSBT:0E00010003000000⟧
+to cast a ⟦MSBT:0E00000003000400FFDE00FF⟧revival ⟦MSBT:0E00000003000400000000FF⟧spell!","Approchez-vous d'un coéquipier
+tombé au combat, et appuyez sur
+⟦MSBT:0E00010003000000⟧ pour le faire ⟦MSBT:0E00000003000400FFDE00FF⟧revenir à la vie ⟦MSBT:0E00000003000400000000FF⟧!","Drücke in der Nähe eines leblosen
+Mitspielers ⟦MSBT:0E00010003000000⟧, um einen Zauber zur
+⟦MSBT:0E00000003000400FFDE00FF⟧Wiederbelebung⟦MSBT:0E00000003000400000000FF⟧ zu wirken!","Avvicinati a un compagno ferito
+e premi ⟦MSBT:0E00010003000000⟧ per lanciare un
+⟦MSBT:0E00000003000400FFDE00FF⟧Incantesimo vitale⟦MSBT:0E00000003000400000000FF⟧!","Acércate a un aliado herido y
+pulsa ⟦MSBT:0E00010003000000⟧ para lanzar un ⟦MSBT:0E00000003000400FFDE00FF⟧conjuro
+resucitador⟦MSBT:0E00000003000400000000FF⟧.","たおれた なかまの ちかくに かけより
+⟦MSBT:0E00010003000000⟧をおして ⟦MSBT:0E00000003000400FFDE00FF⟧ふっかつ⟦MSBT:0E00000003000400000000FF⟧させよう！","Move near an injured
+teammate and press ⟦MSBT:0E00010003000000⟧
+to cast a ⟦MSBT:0E00000003000400FFDE00FF⟧revival ⟦MSBT:0E00000003000400000000FF⟧spell!","Approchez-vous d'un coéquipier
+tombé au combat, et appuyez sur
+⟦MSBT:0E00010003000000⟧ pour le faire ⟦MSBT:0E00000003000400FFDE00FF⟧revenir à la vie⟦MSBT:0E00000003000400000000FF⟧!","Acércate a un aliado herido y
+oprime ⟦MSBT:0E00010003000000⟧ para lanzar un ⟦MSBT:0E00000003000400FFDE00FF⟧conjuro
+resucitador⟦MSBT:0E00000003000400000000FF⟧.","Yaralı bir takım arkadaşına yaklaş,
+⟦MSBT:0E00010003000000⟧'e bas ve ⟦MSBT:0E00000003000400FFDE00FF⟧diriltme⟦MSBT:0E00000003000400000000FF⟧
+büyüsü yap!",
+96,TipsMultiPlayHeaderText,Wireless Quest,Mode sans fil,Drahtlos-Mission,Modalità wireless,Misión inalámbrica,⟦MSBT:0E00000000000C00040008006430463057309330⟧通信でクエスト,Wireless Quest,Mode sans fil,Misión inalámbrica,Kablosuz Görev,
+97,TipsMultiPlayBodyText,"You'll get ⟦MSBT:0E00000003000400FFDE00FF⟧extra experience points⟦MSBT:0E00000003000400000000FF⟧
+if you play in ⟦MSBT:0E00000003000400FFDE00FF⟧Wireless Quest⟦MSBT:0E00000003000400000000FF⟧ mode!","Jouez en ⟦MSBT:0E00000003000400FFDE00FF⟧mode sans fil⟦MSBT:0E00000003000400000000FF⟧, et vous
+obtiendrez des ⟦MSBT:0E00000003000400FFDE00FF⟧points d'expérience
+ supplémentaires⟦MSBT:0E00000003000400000000FF⟧ !","Spiele ⟦MSBT:0E00000003000400FFDE00FF⟧Drahtlos-Missionen⟦MSBT:0E00000003000400000000FF⟧, um
+⟦MSBT:0E00000003000400FFDE00FF⟧zusätzliche Erfahrungspunkte
+⟦MSBT:0E00000003000400000000FF⟧zu sammeln!","Se giochi in ⟦MSBT:0E00000003000400FFDE00FF⟧modalità wireless⟦MSBT:0E00000003000400000000FF⟧
+ottieni ⟦MSBT:0E00000003000400FFDE00FF⟧Punti Esperienza extra⟦MSBT:0E00000003000400000000FF⟧!","La ⟦MSBT:0E00000003000400FFDE00FF⟧misión inalámbrica⟦MSBT:0E00000003000400000000FF⟧ te da puntos
+de ⟦MSBT:0E00000003000400FFDE00FF⟧experiencia extra⟦MSBT:0E00000003000400000000FF⟧.","⟦MSBT:0E00000003000400FFDE00FF⟧「⟦MSBT:0E00000000000C00040008006430463057309330⟧通信でクエスト」⟦MSBT:0E00000003000400000000FF⟧を あそべば
+⟦MSBT:0E00000003000400FFDE00FF⟧より⟦MSBT:0E00000000000800020004004A304A30⟧多くの けいけんち⟦MSBT:0E00000003000400000000FF⟧が もらえるぞ！","Play ⟦MSBT:0E00000003000400FFDE00FF⟧Wireless Quest ⟦MSBT:0E00000003000400000000FF⟧mode to
+get ⟦MSBT:0E00000003000400FFDE00FF⟧extra experience⟦MSBT:0E00000003000400000000FF⟧ points!","Jouez en ⟦MSBT:0E00000003000400FFDE00FF⟧mode sans fil⟦MSBT:0E00000003000400000000FF⟧, et vous
+obtiendrez des ⟦MSBT:0E00000003000400FFDE00FF⟧points d'expérience⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E00000003000400FFDE00FF⟧
+ supplémentaires⟦MSBT:0E00000003000400000000FF⟧!","La ⟦MSBT:0E00000003000400FFDE00FF⟧misión inalámbrica⟦MSBT:0E00000003000400000000FF⟧ te da puntos
+de ⟦MSBT:0E00000003000400FFDE00FF⟧experiencia extra⟦MSBT:0E00000003000400000000FF⟧.","⟦MSBT:0E00000003000400FFDE00FF⟧Kablosuz Görev⟦MSBT:0E00000003000400000000FF⟧ modunda
+oynarsan ⟦MSBT:0E00000003000400FFDE00FF⟧ekstra EXP⟦MSBT:0E00000003000400000000FF⟧ kazanırsın!",
+98,TipsMouthFeedHeaderText,Feed Me,Un petit en-cas !,Fit füttern!,Cibo rigenerante,¡Dame de comer!,くちうつしで かいふく,Feed Me,Ravitaillement,¡Dame de comer!,Besle,
+99,TipsMouthFeedBodyText,"Pick up some food and ⟦MSBT:0E00000003000400FFDE00FF⟧feed⟦MSBT:0E00000003000400000000FF⟧
+it to a teammate to restore
+their stamina!","Ramassez de la nourriture et
+⟦MSBT:0E00000003000400FFDE00FF⟧donnez-la⟦MSBT:0E00000003000400000000FF⟧ à un coéquipier pour
+qu'il récupère un peu de santé.","Sammle Snacks und ⟦MSBT:0E00000003000400FFDE00FF⟧füttere⟦MSBT:0E00000003000400000000FF⟧ damit
+einen Mitspieler ⟦MSBT:0E00000003000400FFDE00FF⟧fit⟦MSBT:0E00000003000400000000FF⟧, um seine Kraft
+aufzufrischen.","Raccogli del cibo e ⟦MSBT:0E00000003000400FFDE00FF⟧dallo da
+mangiare⟦MSBT:0E00000003000400000000FF⟧ a un compagno, così
+da ripristinare la sua energia!","Coge comida y ⟦MSBT:0E00000003000400FFDE00FF⟧dásela⟦MSBT:0E00000003000400000000FF⟧ a un aliado
+para que recupere vida.","たべものを とって なかまに ⟦MSBT:0E000000000008000200040061304B30⟧近づこう！
+⟦MSBT:0E00000003000400FFDE00FF⟧くちうつし⟦MSBT:0E00000003000400000000FF⟧で たいりょく かいふくだ！","Pick up some food and ⟦MSBT:0E00000003000400FFDE00FF⟧feed⟦MSBT:0E00000003000400000000FF⟧
+it to a teammate to restore
+his or her stamina!","Ramassez de la nourriture et
+⟦MSBT:0E00000003000400FFDE00FF⟧donnez-la⟦MSBT:0E00000003000400000000FF⟧ à un coéquipier pour
+qu'il récupère un peu de santé.","Recoge comida y ⟦MSBT:0E00000003000400FFDE00FF⟧dásela⟦MSBT:0E00000003000400000000FF⟧ a un aliado
+para que recupere vida.","Yemek alıp bir takım arkadaşını
+⟦MSBT:0E00000003000400FFDE00FF⟧besle⟦MSBT:0E00000003000400000000FF⟧; dayanıklılığı
+yenilensin!",
+100,TipsGuardHeaderText,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Guard,Se protéger avec ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Blocken,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Parata,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Cubrirse,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧で ガード,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Guard,Se protéger avec ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Cubrirse,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ Korun,
+101,TipsGuardBodyText,"Press ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ to ⟦MSBT:0E00000003000400FFDE00FF⟧guard
+⟦MSBT:0E00000003000400000000FF⟧against enemy attacks!","Appuyez sur ⟦MSBT:0E00010004000000⟧ ou ⟦MSBT:0E00010005000000⟧ pour
+⟦MSBT:0E00000003000400FFDE00FF⟧vous protéger⟦MSBT:0E00000003000400000000FF⟧ contre les
+attaques des ennemis.","Drücke ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧, um gegnerische
+Attacken zu ⟦MSBT:0E00000003000400FFDE00FF⟧blocken⟦MSBT:0E00000003000400000000FF⟧!","Premi ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ per ⟦MSBT:0E00000003000400FFDE00FF⟧parare
+⟦MSBT:0E00000003000400000000FF⟧gli attacchi dei nemici!","Pulsa ⟦MSBT:0E00010004000000⟧ o ⟦MSBT:0E00010005000000⟧ para ⟦MSBT:0E00000003000400FFDE00FF⟧cubrirte ⟦MSBT:0E00000003000400000000FF⟧y
+protegerte de los ataques
+enemigos.","⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧で てきの こうげきを ⟦MSBT:0E00000003000400FFDE00FF⟧ガード！⟦MSBT:0E00000003000400000000FF⟧ 
+ダメージを うけないぞ！","Press ⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ to ⟦MSBT:0E00000003000400FFDE00FF⟧guard
+⟦MSBT:0E00000003000400000000FF⟧against enemy attacks!","Appuyez sur ⟦MSBT:0E00010004000000⟧ ou ⟦MSBT:0E00010005000000⟧ pour
+⟦MSBT:0E00000003000400FFDE00FF⟧vous protéger⟦MSBT:0E00000003000400000000FF⟧ contre les
+attaques des ennemis.","Oprime ⟦MSBT:0E00010004000000⟧ o ⟦MSBT:0E00010005000000⟧ para ⟦MSBT:0E00000003000400FFDE00FF⟧cubrirte ⟦MSBT:0E00000003000400000000FF⟧y
+protegerte de los ataques
+enemigos.","⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ ile ⟦MSBT:0E00000003000400FFDE00FF⟧korun⟦MSBT:0E00000003000400000000FF⟧,
+düşman saldırılarını engelle!",
+102,TipsJustGuardHeaderText,Perfect Guard,Protection optimale,Perfekter Block,Parata perfetta,Defensa perfecta,ジャストガード,Perfect Guard,Protection optimale,Defensa perfecta,Kusursuz Korunma,
+103,TipsJustGuardBodyText,"Guard at the last second before an
+attack to execute a ⟦MSBT:0E00000003000400FFDE00FF⟧Perfect Guard⟦MSBT:0E00000003000400000000FF⟧!","Protégez-vous juste avant
+qu'un ennemi vous attaque
+pour une ⟦MSBT:0E00000003000400FFDE00FF⟧protection optimale ⟦MSBT:0E00000003000400000000FF⟧!","Blocke kurz vor einem Angriff, um
+den ⟦MSBT:0E00000003000400FFDE00FF⟧perfekten Block⟦MSBT:0E00000003000400000000FF⟧ auszuführen.","Per eseguire una ⟦MSBT:0E00000003000400FFDE00FF⟧parata
+perfetta⟦MSBT:0E00000003000400000000FF⟧, effettuala un
+istante prima dell'attacco!","Para una ⟦MSBT:0E00000003000400FFDE00FF⟧defensa perfecta⟦MSBT:0E00000003000400000000FF⟧,
+¡cúbrete justo antes de que
+te ataquen!","こうげきを うけるタイミングで
+ガードすれば ⟦MSBT:0E00000003000400FFDE00FF⟧ジャストガード ⟦MSBT:0E00000003000400000000FF⟧はつどう！","Guard at the last second before an
+attack to execute a ⟦MSBT:0E00000003000400FFDE00FF⟧Perfect Guard⟦MSBT:0E00000003000400000000FF⟧!","Protégez-vous juste avant
+qu'un ennemi vous attaque
+pour une ⟦MSBT:0E00000003000400FFDE00FF⟧protection optimale⟦MSBT:0E00000003000400000000FF⟧!","Para una ⟦MSBT:0E00000003000400FFDE00FF⟧defensa perfecta⟦MSBT:0E00000003000400000000FF⟧,
+¡cúbrete justo antes de que
+te ataquen!","Saldırıdan hemen önce korunup
+⟦MSBT:0E00000003000400FFDE00FF⟧Kusursuz Korunma⟦MSBT:0E00000003000400000000FF⟧ yap!",
+104,UnlockDialogQuest2Text,⟦MSBT:0E00000003000400FF4B32FF⟧Quest 2⟦MSBT:0E00000003000400000000FF⟧ is now unlocked!,La ⟦MSBT:0E00000003000400FF4B32FF⟧quête 2⟦MSBT:0E00000003000400000000FF⟧ est disponible !,"⟦MSBT:0E00000003000400FF4B32FF⟧Mission 2⟦MSBT:0E00000003000400000000FF⟧ ist jetzt
+freigeschaltet!",Hai sbloccato la ⟦MSBT:0E00000003000400FF4B32FF⟧Missione 2⟦MSBT:0E00000003000400000000FF⟧!,⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión 2⟦MSBT:0E00000003000400000000FF⟧. ⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000003000400FF4B32FF⟧クエスト２⟦MSBT:0E00000003000400000000FF⟧が かいほうされた！,⟦MSBT:0E00000003000400FF4B32FF⟧Quest 2⟦MSBT:0E00000003000400000000FF⟧ is now unlocked!,La ⟦MSBT:0E00000003000400FF4B32FF⟧quête 2⟦MSBT:0E00000003000400000000FF⟧ est disponible!,⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión 2⟦MSBT:0E00000003000400000000FF⟧. ⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000003000400FF4B32FF⟧Görev 2⟦MSBT:0E00000003000400000000FF⟧ açıldı!,
+105,UnlockDialogQuest3And4Text,"⟦MSBT:0E00000003000400FF4B32FF⟧Quests 3⟦MSBT:0E00000003000400000000FF⟧ and ⟦MSBT:0E00000003000400FF4B32FF⟧4 ⟦MSBT:0E00000003000400000000FF⟧are
+now unlocked!","Les ⟦MSBT:0E00000003000400FF4B32FF⟧quêtes 3⟦MSBT:0E00000003000400000000FF⟧ et ⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧ sont
+disponibles !","⟦MSBT:0E00000003000400FF4B32FF⟧Mission 3⟦MSBT:0E00000003000400000000FF⟧ und ⟦MSBT:0E00000003000400FF4B32FF⟧4 ⟦MSBT:0E00000003000400000000FF⟧sind
+jetzt freigeschaltet.","Hai sbloccato
+le ⟦MSBT:0E00000003000400FF4B32FF⟧Missioni 3 ⟦MSBT:0E00000003000400000000FF⟧e ⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧!","⟦MSBT:0E000000020002005A00⟧Has desbloqueado las
+⟦MSBT:0E00000003000400FF4B32FF⟧misiones 3 ⟦MSBT:0E00000003000400000000FF⟧y ⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E000000020002005A00⟧.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧クエスト３⟦MSBT:0E00000003000400000000FF⟧と ⟦MSBT:0E00000003000400FF4B32FF⟧クエスト４⟦MSBT:0E00000003000400000000FF⟧が 
+かいほうされた！","⟦MSBT:0E00000003000400FF4B32FF⟧Quests 3⟦MSBT:0E00000003000400000000FF⟧ and ⟦MSBT:0E00000003000400FF4B32FF⟧4 ⟦MSBT:0E00000003000400000000FF⟧are
+now unlocked!","Les ⟦MSBT:0E00000003000400FF4B32FF⟧quêtes 3⟦MSBT:0E00000003000400000000FF⟧ et ⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧ sont
+disponibles!","⟦MSBT:0E000000020002005A00⟧Has desbloqueado las
+⟦MSBT:0E00000003000400FF4B32FF⟧misiones 3 ⟦MSBT:0E00000003000400000000FF⟧y ⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E000000020002005A00⟧.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Görev 3⟦MSBT:0E00000003000400000000FF⟧ ve ⟦MSBT:0E00000003000400FF4B32FF⟧4⟦MSBT:0E00000003000400000000FF⟧
+açıldı!",
+106,UnlockDialogQuest5Text,"⟦MSBT:0E00000003000400FF4B32FF⟧Quest 5⟦MSBT:0E00000003000400000000FF⟧ is now unlocked!
+Prepare for the final battle!",La ⟦MSBT:0E00000003000400FF4B32FF⟧quête 5⟦MSBT:0E00000003000400000000FF⟧ est disponible !,"⟦MSBT:0E00000003000400FF4B32FF⟧Mission 5⟦MSBT:0E00000003000400000000FF⟧ ist jetzt
+freigeschaltet! Bist du bereit
+für deinen letzten Kampf?","Hai sbloccato la ⟦MSBT:0E00000003000400FF4B32FF⟧Missione 5⟦MSBT:0E00000003000400000000FF⟧!
+Preparati per lo scontro
+finale!","⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión 5⟦MSBT:0E00000003000400000000FF⟧.
+¡Prepárate para la batalla final!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧クエスト５⟦MSBT:0E00000003000400000000FF⟧が かいほうされた！
+ラストバトルに ⟦MSBT:0E00000000000C00040008005730873046308A30⟧勝利せよ！","⟦MSBT:0E00000003000400FF4B32FF⟧Quest 5⟦MSBT:0E00000003000400000000FF⟧ is now unlocked!
+Prepare for the final battle!",La ⟦MSBT:0E00000003000400FF4B32FF⟧quête 5⟦MSBT:0E00000003000400000000FF⟧ est disponible!,"⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión 5⟦MSBT:0E00000003000400000000FF⟧.
+¡Prepárate para la batalla final!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Görev 5⟦MSBT:0E00000003000400000000FF⟧ açıldı!
+Son savaşa hazırlan!",
+107,UnlockDialogQuestExText,"⟦MSBT:0E00000003000400FF4B32FF⟧Quest EX ⟦MSBT:0E00000003000400000000FF⟧is unlocked.
+Can you claim victory
+in the true final battle?","La ⟦MSBT:0E00000003000400FF4B32FF⟧quête EX⟦MSBT:0E00000003000400000000FF⟧ est disponible.
+Saurez-vous relever
+cet ultime défi ?","⟦MSBT:0E00000003000400FF4B32FF⟧Mission X ⟦MSBT:0E00000003000400000000FF⟧ist jetzt
+freigeschaltet. Wirst du auch
+im allerletzten Kampf siegen
+können?","Hai sbloccato la ⟦MSBT:0E00000003000400FF4B32FF⟧Missione X⟦MSBT:0E00000003000400000000FF⟧!
+Farai tua la vittoria nel vero
+scontro finale?","⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión +⟦MSBT:0E00000003000400000000FF⟧.
+¡Se acerca la batalla definitiva!⟦MSBT:0E000000020002006400⟧","なんと ⟦MSBT:0E00000003000400FF4B32FF⟧クエストEX⟦MSBT:0E00000003000400000000FF⟧が
+かいほうされた！
+⟦MSBT:0E000000000008000200040057309330⟧真のラストバトルに ⟦MSBT:0E00000000000C00040008005730873046308A30⟧勝利できるか？","⟦MSBT:0E00000003000400FF4B32FF⟧Quest EX ⟦MSBT:0E00000003000400000000FF⟧is unlocked.
+Can you claim victory
+in the true final battle?","La ⟦MSBT:0E00000003000400FF4B32FF⟧quête EX⟦MSBT:0E00000003000400000000FF⟧ est disponible.
+Saurez-vous relever
+cet ultime défi?","⟦MSBT:0E000000020002005A00⟧Has desbloqueado la ⟦MSBT:0E00000003000400FF4B32FF⟧misión EX⟦MSBT:0E00000003000400000000FF⟧.
+¡Se acerca la batalla definitiva!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Görev EX⟦MSBT:0E00000003000400000000FF⟧ açıldı.
+Gerçek son savaşta
+kazanabilir misin?",
+108,UnlockDialogCPSingleText,"Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧a friend has joined the team⟦MSBT:0E00000003000400000000FF⟧!","Vos exploits font le tour du
+monde. ⟦MSBT:0E00000003000400FF4B32FF⟧Un nouvel allié a
+décidé de se joindre à vous ⟦MSBT:0E00000003000400000000FF⟧!","Dein Ruhm wächst, und
+⟦MSBT:0E00000003000400FF4B32FF⟧ein Freund hat sich dir
+angeschlossen⟦MSBT:0E00000003000400000000FF⟧!","Avendo saputo delle tue
+gesta, ⟦MSBT:0E00000003000400FF4B32FF⟧un amico si è unito
+alla squadra⟦MSBT:0E00000003000400000000FF⟧!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧un aliado⟦MSBT:0E000000020002005A00⟧
+ha decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧","かつやくを ききつけて
+⟦MSBT:0E00000003000400FF4B32FF⟧おともが ⟦MSBT:0E00000000000A0004000600723068308A30⟧１人 なかまになった！⟦MSBT:0E00000003000400000000FF⟧","Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧a friend has joined the team⟦MSBT:0E00000003000400000000FF⟧!","Vos exploits font le tour du
+monde. ⟦MSBT:0E00000003000400FF4B32FF⟧Un nouvel allié a
+décidé de se joindre à vous⟦MSBT:0E00000003000400000000FF⟧!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧un aliado⟦MSBT:0E000000020002005A00⟧
+ha decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005F00⟧Başarıların duyuldu!
+⟦MSBT:0E00000003000400FF4B32FF⟧Bir arkadaş takıma katıldı⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧",
+109,UnlockDialogCPSingleCompleteText,"Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧a friend has joined the team!
+⟦MSBT:0E00000003000400000000FF⟧Your team is now full!","⟦MSBT:0E00000003000400FF4B32FF⟧Un nouvel allié a décidé de
+se joindre à vous⟦MSBT:0E00000003000400000000FF⟧. Votre
+équipe est au complet !","Dein Ruhm wächst, und
+⟦MSBT:0E00000003000400FF4B32FF⟧ein Freund hat sich dir
+angeschlossen⟦MSBT:0E00000003000400000000FF⟧! Dein Team
+ist jetzt komplett!","Avendo saputo delle tue
+gesta, ⟦MSBT:0E00000003000400FF4B32FF⟧un amico si è unito
+alla squadra⟦MSBT:0E00000003000400000000FF⟧! Sei al completo!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧un aliado⟦MSBT:0E000000020002005A00⟧
+ha decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.
+¡Ahora tu equipo está completo!⟦MSBT:0E000000020002006400⟧","かつやくを ききつけて
+⟦MSBT:0E00000003000400FF4B32FF⟧おともが ⟦MSBT:0E00000000000A0004000600723068308A30⟧１人 なかまになった！⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000000000A000400060088306B309330⟧４人のなかまが そろったぞ！","Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧a friend has joined the team!
+⟦MSBT:0E00000003000400000000FF⟧Your team is now full!","⟦MSBT:0E00000003000400FF4B32FF⟧Un nouvel allié a décidé de
+se joindre à vous⟦MSBT:0E00000003000400000000FF⟧. Votre
+équipe est complète!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧un aliado⟦MSBT:0E000000020002005A00⟧
+ha decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.
+¡Ahora tu equipo está completo!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005F00⟧Başarıların duyuldu!
+⟦MSBT:0E00000003000400FF4B32FF⟧Bir arkadaş takıma katıldı⟦MSBT:0E00000003000400000000FF⟧!
+Takımın artık dolu!⟦MSBT:0E000000020002006400⟧",
+110,UnlockDialogCPDoubleCompleteText,"Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧two friends have joined
+the team! ⟦MSBT:0E00000003000400000000FF⟧Your team is full!","⟦MSBT:0E00000003000400FF4B32FF⟧Deux alliés ont décidé de
+se joindre à vous. ⟦MSBT:0E00000003000400000000FF⟧Votre
+équipe est au complet !","Dein Ruhm wächst, und
+⟦MSBT:0E00000003000400FF4B32FF⟧zwei Freunde haben sich dir
+angeschlossen⟦MSBT:0E00000003000400000000FF⟧! Dein Team
+ist jetzt komplett!","Avendo saputo delle tue
+gesta, ⟦MSBT:0E00000003000400FF4B32FF⟧due amici si sono uniti
+alla squadra⟦MSBT:0E00000003000400000000FF⟧! Sei al completo!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧dos aliados⟦MSBT:0E000000020002005A00⟧
+han decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.
+¡Ahora tu equipo está completo!⟦MSBT:0E000000020002006400⟧","かつやくを ききつけて
+⟦MSBT:0E00000003000400FF4B32FF⟧おともが ⟦MSBT:0E00000000000A000400060075305F308A30⟧２人 なかまになった！⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000000000A000400060088306B309330⟧４人のなかまが そろったぞ！","Hearing of your exploits,
+⟦MSBT:0E00000003000400FF4B32FF⟧two friends have joined
+the team! ⟦MSBT:0E00000003000400000000FF⟧Your team is full!","⟦MSBT:0E00000003000400FF4B32FF⟧Deux alliés ont décidé de
+se joindre à vous. ⟦MSBT:0E00000003000400000000FF⟧Votre
+équipe est au complet!","⟦MSBT:0E000000020002005A00⟧Al oír tus hazañas, ⟦MSBT:0E00000003000400FF4B32FF⟧dos aliados⟦MSBT:0E000000020002005A00⟧
+han decidido unirse a tu equipo⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧.
+¡Ahora tu equipo está completo!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005F00⟧Başarıların duyuldu!
+⟦MSBT:0E00000003000400FF4B32FF⟧İki arkadaş takıma katıldı⟦MSBT:0E00000003000400000000FF⟧!
+Takımın artık dolu!⟦MSBT:0E000000020002006400⟧",
+111,UnlockDialogOKBtnText,Next,Suite,Weiter,Avanti,Seguir,つぎへ,Next,Suite,Seguir,İleri,
+112,ClientWaitText,"Waiting for teammates...
+(Press ⟦MSBT:0E00010001000000⟧ to go back)","En attente d'équipiers...
+(Appuyez sur ⟦MSBT:0E00010001000000⟧
+pour annuler.)","Auf Mitspieler warten...
+(Zurück: ⟦MSBT:0E00010001000000⟧ drücken)","In attesa di compagni...
+(Premi ⟦MSBT:0E00010001000000⟧ per annullare.)","Esperando a los aliados...
+(Pulsa ⟦MSBT:0E00010001000000⟧ para volver.)","ほかの⟦MSBT:0E000000000008000200040072306830⟧人を まっています
+(⟦MSBT:0E00010001000000⟧ボタンで もどる)","Waiting for teammates...
+(Press ⟦MSBT:0E00010001000000⟧ to go back.)","En attente d'équipiers...
+(Appuyez sur ⟦MSBT:0E00010001000000⟧
+pour annuler.)","Esperando a los aliados...
+(Oprime ⟦MSBT:0E00010001000000⟧ para volver).","Takım arkadaşları
+bekleniyor...
+(Geri dön: ⟦MSBT:0E00010001000000⟧)",
+113,ClientWaitQSelText,⟦MSBT:0E000000020002005A00⟧Waiting for quest selection...⟦MSBT:0E000000020002006400⟧,L'hôte choisit une quête...,⟦MSBT:0E000000020002005500⟧Auf Missionsauswahl warten...⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Scelta della missione in corso...⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Tu aliado está eligiendo misión.⟦MSBT:0E000000020002006400⟧,クエストけっていを まっています,⟦MSBT:0E000000020002005A00⟧Waiting for quest selection...⟦MSBT:0E000000020002006400⟧,L'hôte choisit une quête...,⟦MSBT:0E000000020002005500⟧Tu aliado está eligiendo misión.⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Görev seçimi bekleniyor...⟦MSBT:0E000000020002006400⟧,
+114,NetHeaderUpText,Wireless Quest,Mode sans fil,⟦MSBT:0E000000020002005500⟧DRAHTLOS-MISSION⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Modalità wireless⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Misión inalámbrica⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E00000000000C00040008006430463057309330⟧通信でクエスト,Wireless Quest,Mode sans fil,⟦MSBT:0E000000020002005A00⟧Misión inalámbrica⟦MSBT:0E000000020002006400⟧,Kablosuz Görev,
+115,NetGroupSearchTitle,Please join a team.,Choix de l'équipe,⟦MSBT:0E000000020002006200⟧Bitte tritt einer Gruppe bei.⟦MSBT:0E000000020002006400⟧,Unisciti a una squadra.,Equipos,グループを えらんでください,Please join a team.,Choix de l'équipe,Equipos,Bir takıma katıl.,
+116,NetGroupSearchExplain,"Select ⟦MSBT:0E00000003000400FF4B32FF⟧Create Team⟦MSBT:0E00000003000400000000FF⟧ to
+create a new team.","Sélectionnez ⟦MSBT:0E00000003000400FF4B32FF⟧Nouv. équipe ⟦MSBT:0E00000003000400000000FF⟧pour
+créer une nouvelle équipe.","Wähle ⟦MSBT:0E00000003000400FF4B32FF⟧Gruppe erstellen⟦MSBT:0E00000003000400000000FF⟧, um eine
+neue Gruppe zu erstellen.","Seleziona ⟦MSBT:0E00000003000400FF4B32FF⟧Crea squadra⟦MSBT:0E00000003000400000000FF⟧ per
+creare una nuova squadra.","Selecciona ⟦MSBT:0E00000003000400FF4B32FF⟧Crear equipo ⟦MSBT:0E00000003000400000000FF⟧para
+crear un equipo nuevo.","グループが １つもないときや
+あたらしく つくりたいときは
+⟦MSBT:0E00000003000400FF4B32FF⟧「グループをつくる」⟦MSBT:0E00000003000400000000FF⟧を えらんでください","Select ⟦MSBT:0E00000003000400FF4B32FF⟧Create Team⟦MSBT:0E00000003000400000000FF⟧ to
+create a new team.","Sélectionnez ⟦MSBT:0E00000003000400FF4B32FF⟧Nouv. équipe ⟦MSBT:0E00000003000400000000FF⟧pour
+créer une nouvelle équipe.","Selecciona ⟦MSBT:0E00000003000400FF4B32FF⟧Crear equipo ⟦MSBT:0E00000003000400000000FF⟧para
+crear un equipo nuevo.","Yeni bir takım kurmak için
+⟦MSBT:0E00000003000400FF4B32FF⟧Takım Kur⟦MSBT:0E00000003000400000000FF⟧'u seç.",
+117,NetGroupWaitEntryTitle,Searching for teammates!,Recherche d'équipiers...,Suche Mitspieler!,Ricerca di compagni...,Buscando aliados...,なかまを ぼしゅう⟦MSBT:0E00000000000A0002000600613085304630⟧中！,Searching for teammates!,Recherche d'équipiers...,Buscando aliados...,Takım arkadaşları aranıyor!,
+118,NetGroupWaitEntryExplain,"Players without the software
+can play via ⟦MSBT:0E00000003000400FF4B32FF⟧Download Play
+⟦MSBT:0E00000003000400000000FF⟧from the HOME Menu.","⟦MSBT:0E000000020002005000⟧Les joueurs ne possédant pas le
+logiciel peuvent jouer via le ⟦MSBT:0E00000003000400FF4B32FF⟧mode
+téléchargement ⟦MSBT:0E00000003000400000000FF⟧dans le menu HOME.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005A00⟧Spieler ohne eigene Version
+der Software können  über das
+HOME-Menü via ⟦MSBT:0E00000003000400FF4B32FF⟧Download-Spiel
+⟦MSBT:0E00000003000400000000FF⟧beitreten!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005500⟧I giocatori non in possesso del
+software possono unirsi tramite la
+⟦MSBT:0E00000003000400FF4B32FF⟧modalità download ⟦MSBT:0E00000003000400000000FF⟧nel menu HOME.⟦MSBT:0E000000020002006400⟧","Los usuarios que no tengan
+el programa pueden unirse
+mediante el ⟦MSBT:0E00000003000400FF4B32FF⟧modo descarga
+⟦MSBT:0E00000003000400000000FF⟧desde el menú HOME.","ソフトを もっていない⟦MSBT:0E000000000008000200040072306830⟧人も
+HOMEメニューの
+⟦MSBT:0E00000003000400FF4B32FF⟧ダウンロードプレイ⟦MSBT:0E00000003000400000000FF⟧で さんか できます","Players without the software
+can play via ⟦MSBT:0E00000003000400FF4B32FF⟧Download Play
+⟦MSBT:0E00000003000400000000FF⟧from the HOME Menu.","⟦MSBT:0E000000020002005000⟧Les joueurs ne possédant pas le
+logiciel peuvent jouer via le ⟦MSBT:0E00000003000400FF4B32FF⟧mode
+téléchargement ⟦MSBT:0E00000003000400000000FF⟧dans le menu HOME.⟦MSBT:0E000000020002006400⟧","Los usuarios que no tengan
+el programa pueden unirse
+mediante el ⟦MSBT:0E00000003000400FF4B32FF⟧modo descarga
+⟦MSBT:0E00000003000400000000FF⟧desde el menú HOME.","⟦MSBT:0E000000020002005000⟧Yazılımı olmayanlar
+HOME Menüsündeki ⟦MSBT:0E00000003000400FF4B32FF⟧İndirme Oyunu⟦MSBT:0E00000003000400000000FF⟧ ile
+katılabilir.⟦MSBT:0E000000020002006400⟧",
+119,NetGroupWaitEntryExplainDLApp,"You must ⟦MSBT:0E00000003000400FF4B32FF⟧update your
+system⟦MSBT:0E00000003000400000000FF⟧ before using the
+Download Play feature.","Une ⟦MSBT:0E00000003000400FF4B32FF⟧mise à jour de la console
+⟦MSBT:0E00000003000400000000FF⟧est nécessaire pour utiliser
+le mode téléchargement.","⟦MSBT:0E000000020002005A00⟧Du musst dein System ⟦MSBT:0E00000003000400FF4B32FF⟧aktuali- 
+sieren⟦MSBT:0E00000003000400000000FF⟧, bevor du ein ⟦MSBT:0E00000003000400FF4B32FF⟧Download- 
+Spiel⟦MSBT:0E00000003000400000000FF⟧ beginnen kannst.⟦MSBT:0E000000020002006400⟧","Per poter attivare
+la modalità download devi
+⟦MSBT:0E00000003000400FF4B32FF⟧aggiornare la tua console⟦MSBT:0E00000003000400000000FF⟧.","Es necesario ⟦MSBT:0E00000003000400FF4B32FF⟧actualizar la
+consola ⟦MSBT:0E00000003000400000000FF⟧antes de usar el
+modo descarga.","⟦MSBT:0E00000003000400FF4B32FF⟧システムバージョンが ⟦MSBT:0E000000000008000200040075308B30⟧古い⟦MSBT:0E00000000000C00040008007B3093305F304430⟧本体⟦MSBT:0E00000003000400000000FF⟧とは
+ダウンロードプレイ できません","You must ⟦MSBT:0E00000003000400FF4B32FF⟧update⟦MSBT:0E00000003000400000000FF⟧ your 
+system before using the 
+Download Play feature.","Une ⟦MSBT:0E00000003000400FF4B32FF⟧mise à jour de la console
+⟦MSBT:0E00000003000400000000FF⟧est nécessaire pour utiliser
+le mode téléchargement.","Es necesario ⟦MSBT:0E00000003000400FF4B32FF⟧actualizar la
+consola ⟦MSBT:0E00000003000400000000FF⟧antes de usar el
+modo descarga.","⟦MSBT:0E00000003000400FF4B32FF⟧İndirme Oyunu⟦MSBT:0E00000003000400000000FF⟧'nu
+kullanmadan önce sistemini
+güncellemelisin.",
+120,NetGroupWaitCommonLo,Please wait...,Veuillez patienter...,Bitte warten...,Attendi...,Espera un momento...,しばらく おまちください,Please wait...,Veuillez patienter...,Espera un momento...,Lütfen bekle...,
+121,NetGroupWaitWithCancelLo,"Please wait...
+(Press ⟦MSBT:0E00010001000000⟧ to go back.)","Veuillez patienter...
+(Appuyez sur ⟦MSBT:0E00010001000000⟧
+pour annuler.)",Bitte warten...,"Attendi...
+(Premi ⟦MSBT:0E00010001000000⟧ per annullare.)","Espera un momento...
+(Pulsa ⟦MSBT:0E00010001000000⟧ para volver.)","しばらく おまちください
+(⟦MSBT:0E00010001000000⟧ボタンで もどる)","Please wait...
+(Press ⟦MSBT:0E00010001000000⟧ to go back.)","Veuillez patienter...
+(Appuyez sur ⟦MSBT:0E00010001000000⟧
+pour annuler.)","Espera un momento...
+(Oprime ⟦MSBT:0E00010001000000⟧ para volver).","Lütfen bekle...
+(Geri dönmek için ⟦MSBT:0E00010001000000⟧'ye bas.)",
+122,NetGroupNumText,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,
+123,NetGroupSlashText,/,/,/,/,⟦MSBT:0E000000020002005A00⟧/⟦MSBT:0E000000020002006400⟧,/,/,/,⟦MSBT:0E000000020002005A00⟧/⟦MSBT:0E000000020002006400⟧,/,
+124,NetGroupAllNumText,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,⟦MSBT:0E00020001000000⟧,
+125,NetGroupMakeGroupText,Create Team,Nouv. équipe,⟦MSBT:0E000000020002005000⟧Gruppe erstellen⟦MSBT:0E000000020002006400⟧,Crea squadra,Crear equipo,グループをつくる,Create Team,Nouv. équipe,Crear equipo,Takım Kur,
+126,NetGroupCloseGroupText,Confirm,⟦MSBT:0E000000020002005A00⟧Confirmer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Start⟦MSBT:0E000000020002006400⟧,Inizia,⟦MSBT:0E000000020002005A00⟧Confirmar⟦MSBT:0E000000020002006400⟧,しめきる,Confirm,⟦MSBT:0E000000020002005A00⟧Confirmer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Confirmar⟦MSBT:0E000000020002006400⟧,Onayla,
+127,NetErrorDefaultText,"A ⟦MSBT:0E00000003000400FF4B32FF⟧network error⟦MSBT:0E00000003000400000000FF⟧ occurred.
+Returning to title screen.","Une ⟦MSBT:0E00000003000400FF4B32FF⟧erreur réseau⟦MSBT:0E00000003000400000000FF⟧ est
+survenue. Vous allez
+retourner à l'écran titre.","⟦MSBT:0E00000003000400FF4B32FF⟧Fehler bei der Daten-
+übertragung.⟦MSBT:0E00000003000400000000FF⟧ Der Titel-
+bildschirm wird aufgerufen.","⟦MSBT:0E00000003000400FF4B32FF⟧Errore di comunicazione⟦MSBT:0E00000003000400000000FF⟧.
+Tornerai allo schermo
+del titolo.","⟦MSBT:0E000000020002005500⟧⟦MSBT:0E000000020002005500⟧Se ha producido un ⟦MSBT:0E00000003000400FF4B32FF⟧error
+de conexión⟦MSBT:0E00000003000400000000FF⟧. Vas a regresar
+a la pantalla del título.⟦MSBT:0E000000020002005500⟧⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00000000000C00040008006430463057309330⟧通信エラー⟦MSBT:0E00000003000400000000FF⟧が
+はっせいしました。
+タイトルへ もどります。","A ⟦MSBT:0E00000003000400FF4B32FF⟧communication error
+⟦MSBT:0E00000003000400000000FF⟧occurred. Returning
+to the title screen.","Une ⟦MSBT:0E00000003000400FF4B32FF⟧erreur de communication
+⟦MSBT:0E00000003000400000000FF⟧est survenue. Vous allez
+retourner à l'écran titre.","⟦MSBT:0E000000020002005500⟧⟦MSBT:0E000000020002005500⟧Se ha producido un ⟦MSBT:0E00000003000400FF4B32FF⟧error
+de conexión⟦MSBT:0E00000003000400000000FF⟧. Vas a regresar
+a la pantalla del título.⟦MSBT:0E000000020002005500⟧⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Ağ hatası⟦MSBT:0E00000003000400000000FF⟧ oluştu.
+Başlık ekranına dönülüyor.",
+128,NetErrorDefaultTextDLP,"A network error occurred.
+Press ⟦MSBT:0E0001000F000000⟧HOME to return
+to the HOME Menu.","Une erreur réseau est
+survenue. Appuyez
+sur ⟦MSBT:0E0001000F000000⟧ pour retourner
+au menu HOME.","Netzwerkfehler!
+Drücke ⟦MSBT:0E0001000F000000⟧, um zum HOME-
+Menü zurückzukehren.","Errore di comunicazione.
+Premi ⟦MSBT:0E0001000F000000⟧ per tornare
+al menu HOME.","Se ha producido un error
+de conexión. Pulsa ⟦MSBT:0E0001000F000000⟧ para
+volver al menú HOME.","⟦MSBT:0E00000000000C00040008006430463057309330⟧通信エラーが はっせいしました。
+⟦MSBT:0E0001000F000000⟧HOMEを おすと
+HOMEメニューに もどります。","A communication error
+occurred. Press ⟦MSBT:0E0001000F000000⟧HOME to
+return to the HOME Menu.","Une erreur de communication 
+est survenue. Appuyez
+sur ⟦MSBT:0E0001000F000000⟧ pour retourner
+au menu HOME.","Se ha producido un error
+de conexión. Oprime ⟦MSBT:0E0001000F000000⟧
+para volver al menú HOME.","Ağ hatası oluştu.
+HOME Menüsüne dönmek için
+⟦MSBT:0E0001000F000000⟧'a bas.",
+129,NetErrorWirelessOffText,"⟦MSBT:0E00000003000400FF4B32FF⟧Wireless communication⟦MSBT:0E00000003000400000000FF⟧ must
+be ⟦MSBT:0E00000003000400FF4B32FF⟧enabled⟦MSBT:0E00000003000400000000FF⟧.","Avant de continuer, vérifiez
+que ⟦MSBT:0E00000003000400FF4B32FF⟧la communication sans
+fil⟦MSBT:0E00000003000400000000FF⟧ est bien ⟦MSBT:0E00000003000400FF4B32FF⟧activée⟦MSBT:0E00000003000400000000FF⟧.","Betätige den ⟦MSBT:0E00000003000400FF4B32FF⟧WLAN-Schalter⟦MSBT:0E00000003000400000000FF⟧,
+um die drahtlose Verbindung
+zu ⟦MSBT:0E00000003000400FF4B32FF⟧aktivieren⟦MSBT:0E00000003000400000000FF⟧.","La ⟦MSBT:0E00000003000400FF4B32FF⟧comunicazione wireless⟦MSBT:0E00000003000400000000FF⟧
+deve essere ⟦MSBT:0E00000003000400FF4B32FF⟧attivata⟦MSBT:0E00000003000400000000FF⟧.","⟦MSBT:0E000000020002005A00⟧Activa la ⟦MSBT:0E00000003000400FF4B32FF⟧comunicación⟦MSBT:0E000000020002005A00⟧
+inalámbrica ⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧antes de continuar.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000000000C00040008007B3093305F304430⟧本体の ⟦MSBT:0E00000003000400FF4B32FF⟧むせん⟦MSBT:0E00000000000C00040008006430463057309330⟧通信きのう⟦MSBT:0E00000003000400000000FF⟧を
+⟦MSBT:0E00000003000400FF4B32FF⟧ON⟦MSBT:0E00000003000400000000FF⟧に してください。","⟦MSBT:0E00000003000400FF4B32FF⟧Wireless communication⟦MSBT:0E00000003000400000000FF⟧ must
+be ⟦MSBT:0E00000003000400FF4B32FF⟧enabled⟦MSBT:0E00000003000400000000FF⟧.","Avant de continuer, vérifiez
+que ⟦MSBT:0E00000003000400FF4B32FF⟧la communication sans
+fil⟦MSBT:0E00000003000400000000FF⟧ est bien ⟦MSBT:0E00000003000400FF4B32FF⟧activée⟦MSBT:0E00000003000400000000FF⟧.","⟦MSBT:0E000000020002005A00⟧Activa la ⟦MSBT:0E00000003000400FF4B32FF⟧comunicación⟦MSBT:0E000000020002005A00⟧
+inalámbrica ⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400000000FF⟧antes de continuar.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Kablosuz iletişim⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF4B32FF⟧açık⟦MSBT:0E00000003000400000000FF⟧ olmalı.",
+130,NetEndConfirmDialogWindowText,"⟦MSBT:0E00000003000400FF4B32FF⟧Quit the game ⟦MSBT:0E00000003000400000000FF⟧and return
+to the title screen?
+(The team will be disbanded.)","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MSBT:0E00000003000400000000FF⟧ et retourner
+à l'écran titre ?
+(L'équipe sera dissoute.)","⟦MSBT:0E000000020002005F00⟧⟦MSBT:0E00000003000400FF4B32FF⟧Spiel beenden ⟦MSBT:0E00000003000400000000FF⟧und zurück zum
+Titelbildschirm? (Die aktuelle
+Gruppensitzung wird beendet.)⟦MSBT:0E000000020002006400⟧","Vuoi ⟦MSBT:0E00000003000400FF4B32FF⟧uscire dal gioco⟦MSBT:0E00000003000400000000FF⟧ e
+tornare allo schermo del
+titolo? (La squadra verrà
+sciolta.)","⟦MSBT:0E000000020002005A00⟧¿Quieres ⟦MSBT:0E00000003000400FF4B32FF⟧abandonar la partida ⟦MSBT:0E00000003000400000000FF⟧y
+volver a la pantalla del título?
+(Se disolverá el equipo.)⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧ゲームを やめて⟦MSBT:0E00000003000400000000FF⟧
+タイトルへ もどりますか？
+(グループは かいさんされます)","⟦MSBT:0E00000003000400FF4B32FF⟧Quit the game ⟦MSBT:0E00000003000400000000FF⟧and return
+to the title screen?
+(The team will be disbanded.)","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MSBT:0E00000003000400000000FF⟧ et retourner
+à l'écran titre?
+(L'équipe sera dissoute.)","⟦MSBT:0E000000020002005A00⟧¿Quieres ⟦MSBT:0E00000003000400FF4B32FF⟧abandonar la partida ⟦MSBT:0E00000003000400000000FF⟧y
+volver a la pantalla del título?
+(Se disolverá el equipo).⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FF4B32FF⟧Oyundan çık⟦MSBT:0E00000003000400000000FF⟧ ve
+başlık ekranına dön?
+(Takım dağılacak.)",
+131,NetQuestDecideConfirmDialogWindowText,"Do you want to challenge
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧?","Ce choix vous convient-il ?
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧","Willst du dich
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧ stellen?","Vuoi affrontare la
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧?","¿Quieres elegir la
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧?","⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧ ⟦MSBT:0E00000003000400000000FF⟧に
+ちょうせん しますか？","Do you want to challenge
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧?","Ce choix vous convient-il?
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧","¿Quieres elegir la
+⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧?","⟦MSBT:0E00000003000400FF4B32FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧
+seçilsin mi?",
+132,NetQuestCancelledText,The quest has ended.,La quête est terminée.,⟦MSBT:0E000000020002005A00⟧Mission wurde abgebrochen.⟦MSBT:0E000000020002006400⟧,La missione è stata annullata.,La misión ha terminado.,クエストを やめました,The quest has ended.,La quête est terminée.,La misión ha terminado.,Görev sona erdi.,
