@@ -1,0 +1,906 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_グレゴ_サーリャ_Ｃ,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Ha ha ! Je t'ai trouvée, Tharja !
+J'veux t'poser une question, t'es d'accord ?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Non. Je suis occupée. Désolée.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_2|Alors, tu veux pas faire ami-ami avec
+un vieux loup comme moi...$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Ton âge n'a rien à voir là-dedans.$k$pMe lier d'amitié avec toi ne présente
+simplement aucun intérêt.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Rah ! T'as une vraie langue de vipère,
+on dirait bien !$k$pT'aurais pu dire, j'sais pas, que mon odeur
+t'inconfortait, j'serais moins insulté...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_8|Tu pourrais sentir la rose, tu ne
+m'intéresserais toujours pas.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Ah ! Alors, une aut' question ! Pourquoi
+tu m'détestes, hein, hein ?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_3|J'ai dit que je ne voulais pas te parler.
+Serais-tu sourd ?!$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_14|Bah, un vétéran comme moi, ça entend
+que c'que ça veut entendre.$k$pÇa m'permet de vivre plus vieux, aussi.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_2|Oh ? Vraiment ?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Ha ha, tout d'un coup, t'es bien curieuse,
+je trouve !$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Si cela est vrai, cela explique pourquoi mes
+malédictions ne marchent pas sur toi !$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Mais moi, j'ai encore une autre question !$k$pPourquoi t'essayais d'me jeter un sort,
+hein ?!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_5|En quoi cela importe ? Il n'a pas
+marché de toute façon...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Ha ha ! C'est ptêt' pour ça alors, que tu
+m'aimes pas ! Ta malédiction marche pas !$k$pHa ! Tu fais moins la fière, là... Parce qu'en
+fait, tu passes pour une débutante... !$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Moque-toi si tu veux, malheureux...
+J'aurais le dernier mot, tu verras...$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|Euh, alors, j'ai encore une question !$k$pOh ! Elle a disparu...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Aha! Da du sein ja!$k$pGregor muss stellen Frage.
+Das sein in Ordnung, ja?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Ich bin beschäftigt.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_2|Ah! Du nicht wollen, dass Leute dich sehen
+sprechen mit altem Mann wie Gregor.$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Dein Alter hat nichts damit zu tun. Ich bin
+nur nicht an einem Gespräch interessiert.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Ho! Kleines Mädchen haben scharfe Zunge!
+Wie Schlange, voll mit bösem Gift!$k$pDu so tun, als würden nicht mögen Duft von
+altem Mann. So Gregor weniger beleidigt.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_8|Es würde auch nichts ändern, wenn du nach
+Rosen und frischem Gras riechen würdest.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Warum du hassen netten Gregor, hm?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_3|Ich sagte, ich will nicht mit dir reden!
+...Warum redest du dann noch?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_14|Alter Mann Gregor nur hören, was gefallen.
+Seeehr nützliche Eigenschaft in Leben!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_2|...Ist das so?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oho! JETZT böses Mädchen Interessen
+zeigen auf Gregor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Das würde erklären, warum meine Flüche
+bei dir nicht wirken...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh, nein! Warum du werfen bösen Zauber
+auf armen Gregor?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_5|Ist es denn wichtig? Der verdammte
+Zauber hat sowieso nicht funktioniert.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Aha! Darum du sein so unhöflich!
+Weil Gregor gegen Hexerei immun!$k$pIch machen dich erwecken Anschein von...
+Wie heißen... Einfänger?$k$pNein! Das sein falsches Wort.$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Warte du nur! Du hättest dich nicht über
+mich lustig machen sollen, alter Mann!$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|Warte, böses Mädchen! Gregor noch haben
+lange Liste mit Fragen zu stellen!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Hah! Qui è Tharja!$k$pGregor vuole fare domanda.
+Bene, sì?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Ho da fare.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_2|Ah! Tu no vuole essere vista parlare
+con vecchio uomo come Gregor.$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|L'età non c'entra niente.
+Non ho voglia di parlare e basta.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Uh, signorina con lingua di serpente.
+Molto velenosa.$k$pTharja potrebbe almeno dire che Gregor
+puzza. Gregor è meno offeso.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_8|Potresti anche profumare di gelsomini
+e rose. Non mi importerebbe.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Perché tu odia amico Gregor, eh?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_3|Mi sembra di averti detto di non aver voglia
+di parlarti... perché sei ancora qui?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_14|Vecchi uomini come Gregor sentire solo
+quello che volere. Molto utile nella vita.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_2|Dici sul serio?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oh oh! Ora sì che ragazza con frangetta
+mostra interesse in Gregor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Questo potrebbe spiegare come mai con te
+i miei incantesimi non funzionano.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh no! Perché tu cerca di fare fatture
+malvagie su povero Gregor?!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_5|Che importa?
+Tanto non hanno funzionato.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Ah ah! Ecco perché tu è così scortese.
+Gregor immune ai tuoi incantesimi!$k$pIo fa sembrare te... come si dice...
+Scema? Dilettante? Cose così?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Prendimi pure in giro, vecchio.
+Mi vendicherò. Aspetta e vedrai...$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|Tu aspetta, ragazza con frangetta! Gregor
+ha lunga lista di domande da fare!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|¡Ajá! ¡Ahí estar!$k$pGregor necesitar preguntar.
+No problema, ¿sí?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Estoy ocupada.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_2|¡Ah! Tú no querer que otros ver con
+viejo Gregor.$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|La edad no tiene nada que ver.
+No me interesa hablar en general.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|¡Vaya! Muchachita tener lengua de
+serpiente. Estar llena de maldad.$k$pPoder decir que no gustar olor de Gregor.
+Así Gregor menos insultado.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_8|Podrías oler a rosas y a hierba recién
+cortada. Habría dicho lo mismo.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|¿Por qué no gustar Gregor? Gregor ser
+amistoso, ¿sí?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_3|He dicho que no quería hablar contigo.
+¿Por qué sigues hablando...?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_14|Viejo Gregor solo escuchar lo que querer.
+Ser algo muy útil para vida.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_2|¿Es eso cierto...?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|¡Jo, jo! ¡AHORA chica malvada
+estar interesada en Gregor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Es porque tal vez sea eso lo que impide
+que mis maldiciones te afecten.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|¡Oh, no! ¡¿Por qué intentar lanzar maldición
+sobre pobre Gregor?!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_5|¿Qué importa? Al fin y al cabo, el hechizo
+no funcionó.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|¡AJÁ! ¡Por ESO ser tan grosera! ¡Gregor
+ser inmune a brujería de chica!$k$pHacerte quedar como... ¿cómo decir?
+¿Boba? ¿Novata? Algo así...$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Búrlate todo lo que quieras, vejestorio.
+¡Me las pagarás, ya lo verás!$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|¡Esperar, chica malvada! ¡Gregor querer
+hacer muchas más preguntas! $k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Ah-ha! There is Tharja!$k$pGregor is needing to ask question.
+Is all right, yes?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|I'm busy.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_2|Ah! You are not wanting be seen talking
+to old man like Gregor.$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Age has nothing to do with it.
+I'm just not interested in talking.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Oy, little girl have tongue like snake.
+Very full of evil.$k$pTharja could pretend to not liking old-man
+smell at least. Then Gregor is less insulted.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_8|You could smell like roses and
+fresh-cut grass. It wouldn't matter.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Why are you hating friendly Gregor?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_3|I said I didn't want to talk to you.
+...So why are you still talking?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_14|Old man like Gregor only hears what
+he wants. Very useful skill in life, yes?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_2|...Is that true?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oy, NOW evil girl is expressing
+interestedness in Gregor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Because that would explain why
+my curses never work on you.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh no! Why are you trying to cast
+evil hex on poor Gregor?!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_5|What does it matter?
+The damned spell didn't work anyway.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Ah-ha! This is why you are being so rude.
+Gregor is immune to your witchery!$k$pI make you look like...how you say?
+Fool? Amateur? This sort of thing?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Go ahead and mock me, old man.
+I'll have my revenge, just you wait...$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|Wait, evil girl! Gregor is still having
+long list of questions to ask!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_4|Aha! İşte Tharja!$k$pGregor soru sormak ister. Sorun yok,
+evet?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Meşgulüm.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_2|Ah! Gregor gibi ihtiyarla konuşurken
+görülmek istemiyorsun.$k
+$Wsサーリャ|$Wa$E怒|$SvpSE_VOICE_SALLYA_EVT_24|Yaşın bununla ilgisi yok. Sadece
+konuşmak istemiyorum.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_5|Oy, küçük kızın dili yılan gibi. Çok
+kötü.$k$pTharja hiç değilse ihtiyar kokusunu
+sevmiyor gibi yapsın. Gregor daha az alınır.$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_8|Gül ve taze biçilmiş çimen gibi
+koksan bile fark etmezdi.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_8|Neden dost Gregor'dan nefret
+ediyorsun?$k
+$Wsサーリャ|$Wa$E怒|$SvpSE_VOICE_SALLYA_EVT_3|Seninle konuşmak istemediğimi
+söyledim. ...Peki neden hâlâ konuşuyorsun?$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_14|Gregor gibi ihtiyar yalnız istediğini
+duyar. Hayatta faydalı beceri, evet?$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_2|...bu doğru mu?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_11|Oy! ŞİMDİ kötü kız Gregor'la
+ilgileniyor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_10|Demek lanetlerimin sende neden işe
+yaramadığını bu açıklıyor.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oy! Zavallı Gregor'a neden kötü büyü
+yapmaya çalışıyorsun?!$k
+$Wsサーリャ|$Wa$E怒|$SvpSE_VOICE_SALLYA_EVT_5|Ne önemi var? O lanet büyü zaten
+işe yaramadı.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Aha! Bu yüzden kabasın. Gregor senin
+büyüne bağışık!$k$pGregor seni nasıl gösteriyor... aptal?
+Acemi? Öyle bir şey?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Alay et bakalım, ihtiyar. İntikamımı
+alacağım, görürsün...$k
+$Wsサーリャ|$Wd$w0|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_1|Bekle, kötü kız! Gregor'un daha çok
+sorusu var!$k
+$Sbs1000|"
+1,MID_支援_グレゴ_サーリャ_Ｂ,"$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Attends voir, Tharja ! Viens donc par là
+et écoute-moi un peu...$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_21|Tu es tenace. Je vais te lancer un sort pour
+fermer définitivement ton clapet !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Bah, tes malédictions, elles marchent pas
+sur ma personne, c'est toi qui l'as dit !$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|Mais quelle plaie...$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Ha ! J'suis bien embêté qu'tu me détestes
+pour ça, mais on peut rien y faire...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_5|Tu veux qu'on soit amis ?
+Alors prouve-moi ta loyauté...$k$pDonne moi tes ongles et une mèche de tes
+cheveux. Je trouverai bien quelque chose !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|D'accord, mais 'faut d'abord qu'tu
+répondes à mes questions.$k$pD'habitude, j't'aurais ptêt' demandé si
+t'avais d'jà des plans pour la soirée...$k$pMais aujourd'hui, j'sais m'tenir !$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|Je t'écoute. Mais je ne répondrai qu'à
+une seule question !$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oh, non... J'en avais deux, en fait.
+Mais bon, allez, j'vais droit au but !$k$p$E怒,|Tu connaîtrais pas un petit sort pour,
+j'sais pas, ressusciter les morts ?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Toujours les mêmes questions ! Sais-tu
+combien de fois on m'a demandé ça ?$k$pC'est aussi énervant que le classique :
+« Peux-tu me rendre immortel ? »...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Alors, tu peux pas l'faire, ça veut dire ?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Non, personne ne peut faire ça.$k$p$E通常,|Toutefois...$k$p... si tu veux parler aux morts, je peux
+arranger ça.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_13|Vraiment ?!$k$pAh oui, oui, parfait, ça m'suffit ! Tu dois
+m'aider à parler à un mort !$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Ce n'est pas si facile. Il faut beaucoup de
+préparation...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|S'il te plaît. Fais ça pour moi ! J'te donne
+même mon âme en échange !$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|Ton âme ? Vraiment ?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|Croix d'bois, croix d'fer ! C'est pas des
+blagues, là !$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_17|Eh bien, dans ce cas, je peux certainement
+faire quelque chose pour toi.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|Oh ! J'serai vraiment bien reconnaissant !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Hallo! Warum böses Mädchen nicht reden
+mit Gregor? Er toller Kerl! Sehr lustig!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_21|...Ich sollte einen permanenten Fluch der
+Stille auf dich legen, alter Mann!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Hoho! Böse Zauber nicht wirken bei Gregor!
+Du dich erinnern?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|Ich war... im LEBEN... noch NIE... so
+WÜTEND!$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Du besser aufhören mit dem Ärger und den
+Fäusten, die sich ballen!$k$pGregor wollen nur reden!
+Wollen einfach plauschig sein!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_5|Du willst mit mir befreundet sein?
+Dann beweise es!$k$pGib mir ein Stück von deinem Fingernagel
+und eine Locke deines Haares!$k$pDann kann ich einen wirklich dauerhaften
+Zauber auf dich legen!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Wenn Gregor zustimmen zu unheiligen
+Bedingungen, du beantworten Frage! Ja?$k$pMeistens, Gregor nur wissen wollen, was
+böses Mädchen planen für Abendessen.$k$pAber nicht heute.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|...Ich gewähre dir eine Frage.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oh, das sein traurig. Gregor haben lange
+Liste mit Fragen. Müssen kürzen...$k$p$E怒,|Böses Mädchen kennen Magie, die beleben
+Tote wieder zum Leben?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Soll DAS ernsthaft deine Frage sein?$k$pDas ist beinahe so schlimm wie die dumme
+Frage nach Unsterblichkeit! Seufz...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Du also sagen, du nicht können tun das?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Nein, Gregor. Das kann ich nicht.
+Das kann niemand.$k$p$E通常,|Wenn du jedoch mit den Toten REDEN
+willst, könnte ich da etwas arrangieren.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_13|Im Ernst?!? Oh, ja! Das sein mehr als
+genug.$k$pBitte, du müssen helfen Gregor mit
+dem Sprechen zu toter Person!$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|So einfach ist das nicht. Es bedarf SEHR viel
+Arbeit und ausführlicher Vorbereitungen.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|Bitte, du müssen tun!
+Gregor geben dir seine Seele im Austausch!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|...Wiiiiirklich?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|Gregor schwören mit Hand auf Herz und
+bei seiner Ehre!$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_17|Nun, wenn du SO verzweifelt bist,
+lässt sich da sicher etwas machen.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|Gregor sein dann für immer
+in deinen Schulden.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Uh, perché ragazza con frangetta non parla
+con Gregor? Lui buono come caramella!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_21|Ti meriteresti una maledizione
+permanente, vecchio.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Ah ah! Le magie di ragazza con frangetta
+non funzionare su Gregor! Ricorda tu?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|Non sono mai stata così... arrabbiata...
+in tutta la mia vita!$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|Tu deve dimenticare la rabbia
+e non fa muso duro.$k$pGregor vuole solo chiacchierare.
+Fare solo tre parole con te, sì?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_5|Se vuoi diventare mio amico,
+devi dimostrarmi la tua lealtà.$k$pDammi dei frammenti di unghie e un
+ciuffo di capelli per un incantesimo.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Se Gregor accetta la tua strana richiesta,
+tu deve rispondere a domanda, sì?$k$pSpesso Gregor vuole solo sapere se
+tu ha piani per cena, ma non oggi.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|Ti concedo una sola domanda.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oh, peccato. Gregor ha lunga lista.
+Ma fa solo una...$k$p$E怒,|Può ragazza con frangetta fare incantesimo
+che, come dire, fa tornare i morti?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Possibile che tutti me lo chiedano?$k$pÈ come dire: ""Puoi rendermi
+immortale?"" Uff!$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Quindi tu non può fare questo?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|No, Gregor. Non posso.
+Nessuno può fare una cosa del genere.$k$p$E通常,|Ma se ti basta poter parlare con i morti,
+forse posso fare qualcosa per te.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_13|Veramente? Oh sì, questo
+è già molto sufficiente!$k$pTu deve aiutare Gregor a parlare
+con persona andata, prego te.$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Sappi che non è una cosa facile. Ci vuole
+molto lavoro e TANTA preparazione.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|Tu deve farlo, prego te! Gregor dà
+a te la sua anima in cambio, sì?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|Davvero?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|Gregor giura sul suo cuore!
+Gregor sincero come il vino!$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_17|Beh, forse posso fare qualcosa,
+visto che sei così disperato...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|Gregor è in debito con te per sempre!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|¡Eh! ¿Chica malvada seguir sin hablar con
+Gregor? ¡Gregor simpático! ¡Reír sin parar!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_21|Debería lanzarte una maldición de silencio
+perpetuo, anciano.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|¡Ja, ja! ¡Hechizos de chica malvada no
+afectar a Gregor! ¿Recordar?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|¡No he estado... tan furiosa...
+en toda mi VIDA!$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|¡Tú deber olvidar tanta furia y aflojar
+puños apretados! ¡Jo, jo, jo!$k$pGregor solo querer hablar.
+Hacer un poco de charla, ¿sí?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_5|¿Quieres que seamos amigos? Antes
+deberás demostrar tu lealtad.$k$p¡Dame unos recortes de uñas y algo de pelo
+para que realice un hechizo que funcione!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|Si Gregor cumplir condiciones, tú
+responder pregunta, ¿sí?$k$pNormalmente Gregor querer saber si chica
+malvada querer cenar con él, pero no hoy.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|Te concedo una pregunta.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oh, eso ser malo. Gregor tener muchas
+preguntas. Pero él escoger...$k$p$E怒,|¿Chica malvada saber hechizo que poder...
+cómo decir... resucitar muertos?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|¿En serio? ¿ESA es tu pregunta?$k$p¡Es casi tan estúpido como preguntarme
+si te puedo hacer inmortal! ¡Grrrr!$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|¿Entonces qué? ¿Poder hacerlo?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|No, Gregor. No puedo. Nadie puede.$k$p$E通常,|Pero podría hacer algo si quisieras HABLAR
+con los muertos.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_13|¡¿Ser verdad?! ¡Oh, sí, eso ser suficiente!$k$pPor favor, ¡ayudar a Gregor a hablar con
+persona muerta!$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|¿Sabes, Gregor? Eso no es fácil. Requiere
+mucho trabajo y MUCHA preparación.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|¡Por favor, deber hacer! Gregor ofrecer
+alma a cambio, ¿sí?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|¿En seeeeeeerio...?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|¡Gregor jurar por más sagrada!$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_17|Bueno, si estás TAN desesperado... es
+posible que pueda hacer algo.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|¡Gregor deberte favor!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Oy, why is evil girl still not talking? Gregor
+is nice guy! Laugh like bowl of jelly!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_21|...I should inflict a permanent
+silence curse on you, old man.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Ho ho! Evil girl's spells not work on Gregor!
+Are you remembering this?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|I have...never been...this angry...
+in my entire life!$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_4|You should forget with all the anger and
+the making of the clenched fists.$k$pGregor only want to chat.
+Make with the small speech, yes?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_5|You want to be friends with me?
+Then prove your loyalty.$k$pGive me nail clippings and a lock of hair
+so I can cast a spell that sticks.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_8|If Gregor agrees to your unholy terms,
+you must answer question, yes?$k$pMost times Gregor only wants to know if
+evil girl have dinner plans. But, not today.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|...You get one question.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oh, this is too bad. Gregor have long
+list. But he will narrow down...$k$p$E怒,|Does evil girl know magic spell that
+can, how you say, bring back dead?$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_24|Seriously? That's your question?$k$pIt's almost as bad as ""can you make
+me immortal?"" Ugggh!$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|So then, you cannot do this?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|No, Gregor. I can't. No one can.$k$p$E通常,|Now if you want to TALK to the dead,
+that's something I could maybe arrange.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_13|Is for truly? Oh yes, that would be
+more than enough!$k$pPlease, you must help Gregor
+talk to dead person.$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|It's not easy, you know. It takes a lot
+of work, and a LOT of preparation.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|Please, you must do this!
+Gregor gives you soul in exchange, yes?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|...Really, now?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|Cross Gregor's heart
+and hope to die!$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_17|Well, if you're that desperate,
+maybe I can do something...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|Then Gregor is being
+always in your debt.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|Oy, kötü kız niye hâlâ konuşmuyor?
+Gregor iyi adam! Neşeli, evet?$k
+$Wsサーリャ|$Wa$E怒|$SvpSE_VOICE_SALLYA_EVT_21|...Sana kalıcı bir suskunluk laneti
+koymalıyım, ihtiyar.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_15|Ho ho! Kötü kızın büyüsü Gregor'da
+işlemiyor! Hatırladın mı?$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_15|Hayatım boyunca...hiç...bu
+kadar...kızgın olmamıştım!$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_4|Öfkeyi ve yumruk sıkmayı bırak.$k$pGregor sadece sohbet istiyor. Biraz
+konuşalım, evet?$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_5|Benimle arkadaş olmak ister misin? O
+zaman sadakatinizi kanıtlayın.$k$pBana tırnak parçaları ve bir tutam saç
+ver; bu kez tutan bir büyü yapayım.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_8|Gregor kabul ederse sen de soruyu
+cevaplayacaksın, evet?$k$pÇoğu zaman Gregor yalnız kötü kızın
+akşam planını sorar. Ama bugün değil.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_20|...Tek soru.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Oy, yazık. Gregor'un uzun listesi var.
+Ama birini seçer...$k$p$E怒|Kötü kız ölüyü geri getiren büyü
+biliyor mu?$k
+$Wsサーリャ|$Wa$E怒|$SvpSE_VOICE_SALLYA_EVT_24|Cidden? Sorunuz bu mu?$k$pNeredeyse ""Beni ölümsüz yapabilir
+misin?"" kadar kötü. Ugg!$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|O halde bunu yapamaz mısın?$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_18|Hayır, Gregor. Yapamam. Kimse yapamaz.$k$p$E通常|Ama ölülerle KONUŞMAK istiyorsan, onu
+belki ayarlayabilirim.$k
+$Wsグレゴ|$Wa$E怒|$SvpSE_VOICE_GREGO_EVT_13|Gerçekten mi? Oy, bu fazlasıyla yeter!$k$pLütfen, Gregor'un ölü kişiyle
+konuşmasına yardım et.$k
+$Wsサーリャ|$Wa$E苦,汗|$SvpSE_VOICE_SALLYA_EVT_14|Kolay değil. Çok çalışma ve ÇOK
+hazırlık ister.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_29|Lütfen yap! Gregor karşılığında ruhunu
+verir, evet?$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_1|...Ciddi misin?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_10|Gregor namusu üzerine söz verir!$k
+$Wsサーリャ|$Wa$Eキメ|$SvpSE_VOICE_SALLYA_EVT_17|Madem bu kadar çaresizsin,
+belki bir şeyler yapabilirim...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_18|O zaman Gregor sana hep borçlu kalır.$k
+$Sbs1000|"
+2,MID_支援_グレゴ_サーリャ_Ａ,"$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Hé, Tharja ! T'as fini les recherches ? Lu les
+bons tomes, rassemblé les ingrédients ?$k$pDis que oui ! Allez ! J'veux vraiment lui
+parler à cette personne, moi !$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|Je suis prête. Quelle âme veux-tu invoquer ?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Bah, c'est mon frère. Il s'appelle Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|Vous avez le même nom ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Oui. Quand il est mort, j'ai pris son nom,
+disons, pour l'faire exister encore un peu...$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|Oh ! Voilà qui explique pourquoi mes
+malédictions ne marchent pas sur toi.$k$pLe frère dont tu as pris le nom a laissé
+quelque chose d'inachevé, un regret.$k$pIl s'accroche encore à ce monde, et le
+nom lui appartient à lui, pas à toi.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Et donc, c'est pour ça qu'tes sorts
+sont pas bien efficaces ?$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_5|En effet.$k$pUne malédiction n'a pas d'effet si l'on
+ne connaît pas le vrai nom de la cible.$k$pJe comprends à présent comment
+tu as réussi à t'en protéger.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Tu veux connaître mon vrai nom ? Pour
+m'jeter un sort ?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_4|Plus tard. Pour l'instant, je veux que tu
+te concentres sur ton frère...$k$pConcentre-toi. Représente-toi son visage,
+sa voix... Maintenant, essaie de lui parler.$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Gregor ? Gregor ! Hé ho, frérot !
+Tu m'entends, là ?$k
+$Wsサーリャ|$Wa$E苦,汗|(Mon frère ? C'est toi... ?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Oh, dis donc ! On dirait vraiment lui !
+T'as invoqué l'âme de mon frère !$k
+$Wsサーリャ|$Wa(Mon frère...)$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|Frérot ! J'veux m'excuser. J'ai fait des tas
+de mauvaises choses parce que t'es mort.$k$pSi tu m'en veux, faut m'le dire, tout d'suite.
+Si j'peux me racheter, dis-moi comment.$k
+$Wsサーリャ|$Wa(Non ! Je ne t'en veux pas. Tu as fait
+tout ce que tu as pu pour me sauver.)$k$p(Tu ne dois pas te sentir coupable. Tu es
+brave et je serai fier de toi, toujours.)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Gregor, j'suis désolé ! J'voulais t'sauver
+mais les bandits... y'en avait bien trop !$k
+$Wsサーリャ|$Wa(Je ne t'ai jamais rien reproché, mon frère,
+Tu as mon pardon. Tu dois te pardonner...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|Snif ! Gregor...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_9|Alors ? Est-ce que tu as dit
+ce que tu avais à dire ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_19|Oui. Merci, Tharja.$k$pMon frère a été capturé par des bandits et
+j'ai pas pu l'sauver...$k$pJ'ressens encore la tristesse... Mais
+aujourd'hui, grâce à toi, j'ai pu m'excuser.$k$pJ'ai plus de regrets. Tu peux prendre
+mon âme. Je suis satisfait.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|...$k$pJe suis un peu fatiguée...
+La prochaine fois, peut-être...$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_10|Ah, bon... Alors, j'ramène mon âme
+la prochaine fois et tu pourras la prendre !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Tharja! Du alles fertig für Zauber? Fertig
+mit lesen Bücher? Mit sammeln Fledermaus?$k$pBitte sagen Ja! Gregor wollen sehr viel
+sprechen mit toter Person!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|Ich bin bereit. Nun denn...
+Wessen Seele soll ich herbeirufen?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Gregors Bruder. Sein Name sein Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|...Ihr habt denselben Namen?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Wenn Gregor sterben, Gregor nehmen
+Namen Gregor. Das sein gutes Gedenken.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|...Bei den Göttern! Darum haben
+meine Flüche ihr Ziel verfehlt!$k$pDein Bruder, dessen Name du trägst, muss
+noch etwas im Diesseits zu tun haben.$k$pWenn er in dieser Welt festhängt, gehört
+der Name immer noch zu ihm.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Und darum gruselige Magie nicht
+funktionieren. Ja?$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_5|Ein Fluch gelingt nur, wenn man den
+wahren Namen des Zieles kennt.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Du wollen Gregors wahren Namen, ja?
+Damit du ihn bezaubern können?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_4|Später. Jetzt müssen wir uns erst
+einmal auf deinen Bruder konzentrieren.$k$pDenk an sein Gesicht...
+Denk an seine Stimme...$k$pJetzt. Sprich zu ihm!$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Hallo? Gregor? Johooo?
+Du mich hören?$k
+$Wsサーリャ|$Wa$E苦,汗|(Bruder... Du sein das?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Oh, das klingen genau wie er!
+Du herbeirufen Seele von Bruder!$k
+$Wsサーリャ|$Wa(Mein Bruder...)$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|Oh, Bruder! Es mir tun so leid, dass du
+sterben wegen böser Sache von mir!$k$pWenn du wütend sein mit mir, du sagen,
+damit ich machen kann wieder gut!$k
+$Wsサーリャ|$Wa(Ich nicht wütend sein...
+Du alles versuchen, mich zu retten...)$k$p(Du nicht fühlen Schulden...
+Ich sein stolz auf dich...)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh, Gregor! Ich wollen dich retten damals!
+Aber so viele Banditen! Zu viele!$k
+$Wsサーリャ|$Wa(Du müssen vergeben dir selbst, Bruder...)$k$p(Müssen vergeeeeben...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|Schluchz... G-Gregor...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_9|Nun? Hast du gesagt, was du zu
+sagen hattest?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_19|J-ja! Ich dir danken schön.$k$pBruder von Gregor sterben durch Banditen
+und nicht helfen können damals.$k$pLassen großen Stein in Herzen von Gregor.
+Aber jetzt, Stein herunterfallen.$k$pGregor haben kein Bedauern mehr.
+Du können nehmen Seele von Gregor jetzt.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|...$k$pIch... bin ein wenig müde.
+Vielleicht beim nächsten Mal.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_10|Gregor bringen Seele mit beim nächsten
+Treffen. Du dann nehmen. Ja?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Tharja! Tu ha finito studiare magia, sì?
+Letto i tomi? Raccolto ali di pipistrello?$k$pPrego te dire sì. Gregor vuole tanto
+parlare con persona andata!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|Sì, sono pronta. Allora...
+Qual è l'anima che vuoi evocare?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Il fratello di Gregor. Lui si chiama Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|Vi chiamate nello stesso modo?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Dopo che lui morì, Gregor prese suo nome.
+Sembra omaggio giusto per lui.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|Oh, dei. Ecco perché gli incantesimi
+non hanno mai funzionato con te!$k$pTuo fratello forse è morto mentre stava
+ancora portando a termine un compito.$k$pSe è rimasto aggrappato a questo mondo,
+questo nome appartiene ancora a lui.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|In questo modo magia che
+fa paura non funziona, sì?$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_5|Non posso lanciare una maledizione a una
+persona di cui non conosco il vero nome.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Tu vuole sapere ora il vero nome di Gregor,
+sì? Così tu può fare incantesimo?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_4|Più tardi. Ora dobbiamo concentrarci
+su tuo fratello.$k$pImmagina il suo volto...
+la sua voce...$k$pE ora parlagli...$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Ehi, Gregor? Yuuu huuu!
+Tu sente me?$k
+$Wsサーリャ|$Wa$E苦,汗|(Fratello... tu è mio fratello?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Oh, è lui, sì!
+Tharja sta evocando l'anima di fratello!$k
+$Wsサーリャ|$Wa(Fratello...)$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|Oh, fratello! Io è così triste che tu è
+morto per cosa cattiva che ho fatto!$k$pSe tu porta rancore, tu dice adesso e
+io faccio penitenza per l'ingiustizia.$k
+$Wsサーリャ|$Wa(Io non porta rancore verso di te...
+tu ha fatto possibile per salvarmi...)$k$p(Tu non deve sentire colpevole...
+Io è fiero di te...)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh, Gregor! Io voleva salvare te,
+ma i banditi essere troppi!$k
+$Wsサーリャ|$Wa(Tu deve perdonarti, fratello...)$k$p(Perdonarti...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|Sniff. G-Gregor...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_9|Allora? Hai detto tutto quello
+che volevi dire?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_19|S-Sì. Grazie a Tharja.$k$pFratello di Gregor fu preso da banditi
+e lui non riuscì a salvarlo.$k$pPrima c'era grande vuoto nel suo cuore,
+ma ora è colmato.$k$pGregor non ha altri rimorsi.
+Tu può prendere sua anima o altro.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|...$k$pSono... sono un po' stanca adesso.
+Forse la prossima volta.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_10|Gregor porta anima prossima volta di
+incontro. Tu poi prende anima, sì?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|¡Tharja! Investigar hechizo ¿sí? ¿Leer
+grimorios? ¿Recoger alas murciélagas?$k$p¡Decir sí, por favor! ¡Gregor querer hablar
+con persona muerta cuanto antes!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|Estoy preparada. Muy bien, entonces...
+¿De quién es el alma que debo invocar?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Ser mi hermano. Llamarse Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|¿Os llamáis igual?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Cuando él morir, yo tomar su nombre.
+Parecer tributo adecuado.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|Oh, dioses. ¡POR ESO no funcionaban
+las maldiciones!$k$pEl hermano cuyo nombre tomaste debió
+de morir dejando asuntos pendientes.$k$pSi sigue unido a este mundo, es posible
+que el nombre le siga perteneciendo.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Y eso hacer que magia siniestra no
+funcionar, ¿sí?$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_5|Las maldiciones no funcionan si no sabes el
+nombre auténtico de aquel que las recibe.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Tú querer saber nombre auténtico de
+Gregor, ¿sí? ¿Para poder hechizar?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_4|Más tarde. Ahora centrémonos en tu
+hermano.$k$pImagina su cara... Imagina su voz...$k$pAhora.
+Habla con él.$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|¿Hola? ¿Gregor? ¿Estar ahí?
+¿Poder oírme?$k
+$Wsサーリャ|$Wa$E苦,汗|(Hermano... ¿eres tú...?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Vaya, ¡parecer ser su voz! ¡Estar invocando
+alma de hermano!$k
+$Wsサーリャ|$Wa(Hermano mío...)$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|¡Sentir mucho que tú morir por mala cosa
+que yo hacer!$k$pSi guardar rencor, decir ahora y yo
+compensar por injusticia.$k
+$Wsサーリャ|$Wa(No te guardo ningún rencor... Hiciste lo
+que pudiste para salvarme...)$k$p(No te sientas culpable... Estoy orgulloso
+de ti...)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|¡Oh, Gregor! ¡Querer salvar, pero haber
+demasiados bandidos!$k
+$Wsサーリャ|$Wa(Debes perdonarte a ti mismo, hermano...)$k$p(Perdonaaaaarte...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|¡Snif! G-Gregor...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_9|¿Y bien? ¿Has dicho lo que
+tenías que decir?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_19|Sí. Gracias a ti.$k$pHermano de Gregor ser víctima de
+bandidos, y Gregor no poder salvar.$k$pHaber gran agujero en corazón de Gregor,
+pero ahora agujero desaparecer.$k$pGregor no tener remordimientos. Tú tomar
+alma y hacer lo que querer.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|(...)$k$pAhora... estoy un poco cansada.
+Tal vez la próxima vez.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_10|Gregor traer alma próxima vez.
+Entonces tomar, ¿sí?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Tharja! You finish researching spell, yes?
+Read all tomes? Collect bat wing?$k$pPlease say yes. Gregor is very much
+wanting to talk to dead person!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|I am ready. Now then...
+Whose soul do you wish to summon?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Gregor's brother.
+His name is Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|...You have the same name?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|When he died, Gregor took Gregor's name.
+Is fitting tribute, no?$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|...Oh, gods. That's why the curses
+never worked!$k$pThe brother whose name you took must
+have died with unfinished business.$k$pIf he clings to this world, the name
+would still belong to him.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|And that make spooky magic
+not work right, yes?$k
+$Wsサーリャ|$Wa$Eキメ,|$SvpSE_VOICE_SALLYA_EVT_5|A curse won't stick if you don't know
+the true name of the intended target.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|You want to know Gregor's real name
+now, yes? So you can charm him?$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_4|Later. Right now, we need
+to focus on your brother.$k$pImagine his face...
+Imagine his voice...$k$pNow... Talk to him.$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Hello? Gregor? Yoo-hoo!
+Are you hearing?$k
+$Wsサーリャ|$Wa$E苦,汗|(Brother... Is that you...?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Oy, is sounding just like him!
+Tharja is summoning soul of brother!$k
+$Wsサーリャ|$Wa(My brother...)$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|Oh, brother! I am so sorry you die
+because of bad thing I did!$k$pIf you bear grudge, tell me now.
+I atone for injustice!$k
+$Wsサーリャ|$Wa(I bear no grudge against you...
+You did all you could to save me...)$k$p(You must not feel guilty...
+I am proud of you...)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Oh, Gregor! I try to save you,
+but bandits were so many!$k
+$Wsサーリャ|$Wa(You must forgive yourself, Brother...)$k$p(Forgive...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|*sniff* Oy, G-Gregor...$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_9|Well? Did you say what
+you had to say?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_19|Y-yes. All thanks to Tharja.$k$pGregor's brother was taken by bandits,
+and he could not save him.$k$pGregor had large hole in heart,
+but now hole has been filled in.$k$pGregor have no more regrets.
+You can take soul or whatever now.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|...$k$pI'm...a little tired.
+Perhaps next time.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_10|Gregor brings soul next time we meet.
+You take then, yes?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Tharja! Büyü araştırması bitti, evet?
+Kitaplar okundu? Yarasa kanadı toplandı?$k$pLütfen evet deyin. Gregor ölen
+kişiyle konuşmayı çok istiyor!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_3|Hazırım. Şimdi o zaman...
+Kimin ruhunu çağırmak istiyorsunuz?$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Gregor'un
+kardeşi. Adı Gregor.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_2|...aynı isme mi sahipsiniz?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_10|Gregor öldüğünde Gregor'un adını aldı.
+Uygun bir haraç mı, değil mi?$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_1|$SveSE_VOICE_SALLYA_EVT_8|...Tanrım. Bu yüzden lanetler hiçbir
+zaman işe yaramadı!$k$pAdını aldığın kardeş yarım
+kalmış bir iş yüzünden ölmüş olmalı.$k$pEğer bu dünyaya tutunursa bu isim
+hâlâ ona ait olacaktır.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Bu da ürkütücü büyünün işe
+yaramadığını gösteriyor, değil mi?$k
+$Wsサーリャ|$Wa$Eキメ|$SvpSE_VOICE_SALLYA_EVT_5|Hedeflenen hedefin gerçek adını
+bilmiyorsanız lanet kalıcı olmaz.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Şimdi Gregor'un gerçek adını istiyorsun,
+öyle mi? Onu büyülemek için?$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_4|Daha sonra. Şu anda
+kardeşine odaklanmamız gerekiyor.$k$pYüzünü hayal edin...
+Sesini hayal edin...$k$pŞimdi... Onunla konuş.$k
+$Sbv30|500|$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Merhaba? Gregor mu?
+Heeey! Duyuyor musun?$k
+$Wsサーリャ|$Wa$E苦,汗|(Kardeşim... Sen misin...?)$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_13|Oy, tıpkı onun gibi konuşuyor!
+Tharja kardeşinin ruhunu çağırıyor!$k
+$Wsサーリャ|$Wa(Erkek kardeşim...)$k
+$Wsグレゴ|$Wa$E通常|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_12|Ah, kardeşim! Yaptığım kötü bir şey
+yüzünden öldüğün için çok üzgünüm!$k$pEğer kin besliyorsan hemen söyle.
+Adaletsizliğin kefaretini ödüyorum!$k
+$Wsサーリャ|$Wa(Sana kin beslemiyorum... Beni
+kurtarmak için elinden geleni yaptın...)$k$p(Kendini suçlu hissetmemelisin...
+Seninle gurur duyuyorum...)$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_12|Ah, Gregor! Seni kurtarmaya çalışıyorum
+ama haydutlar o kadar çoktu ki!$k
+$Wsサーリャ|$Wa(Kendini bağışlamalısın kardeşim...)$k$p(Affetmek...)$k
+$Sbv100|1000|$Wsグレゴ|$Wa$E苦,汗|*burnunu çeker* Oy, G-Gregor...$k
+$Wsサーリャ|$Wa$E通常|$SvpSE_VOICE_SALLYA_EVT_9|Ee? Söylemen
+gerekeni söyledin mi?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_19|Evet. Hepsi Tharja'ya teşekkürler.$k$pGregor'un kardeşi haydutlar tarafından
+kaçırıldı ve onu kurtaramadı.$k$pGregor'un kalbinde büyük bir boşluk
+vardı ama artık bu boşluk dolduruldu.$k$pGregor'un artık pişmanlığı
+yok. Ruhu falan alabilirsin artık.$k
+$Wsサーリャ|$Wa$SvjSE_VOICE_SALLYA_EVT_5|$SveSE_VOICE_SALLYA_EVT_25|...$k$pBen...biraz yorgunum.
+Belki bir dahaki sefere.$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_10|Gregor bir dahaki buluşmamızda ruhu
+getiriyor. O zaman alırsın, değil mi?$k
+$Sbs1000|"
+3,MID_支援_グレゴ_サーリャ_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Tharja. J'veux encore te remercier...
+C'était un beau cadeau qu'tu m'as fait.$k$pJ'ai parlé à mon frère et puis j'me
+suis excusé et puis il m'a pardonné.$k$pGrâce à toi, j'suis un homme tout neuf !$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Ah ? Tu es bien le seul à y avoir
+gagné quelque chose.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Bah, j'te remercie et tu m'lances un
+regard furieux ? Y a un problème ?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Depuis que j'ai hébergé l'âme de ton frère,
+quelque chose me perturbe.$k$pJe n'arrête pas de penser à toi.
+C'est extrêmement irritant !$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Ha ha ! J'ai saisi... J'comprends vite, moi,
+tu sais. T'es tombée amoureuse de moi.$k$pC'est pas la première fois qu'ça m'arrive !$k$pMais ça va. J't'aime aussi, moi. J't'ai même
+apporté un cadeau, d'ailleurs.$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|Un anneau ?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Oui, regarde à l'intérieur, y'a même mon
+nom gravé dessus !$k$pSi t'acceptes, on à qu'à graver ton nom
+aussi ! Y'aura Gregor et puis Tharja à côté !$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|Gregor... Alors tu vas continuer de porter
+le nom de ton frère ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Bah oui. Grâce à toi, j'sais qu'il m'a
+pardonné, qu'il m'en veut pas !$k$pMaintenant, j'peux porter son nom avec
+fierté. Et pis, je l'aime ce nom : Gregor !$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Oui, c'est autant le sien que le tien
+à présent.$k$pHin hin. Cela veut dire que mes sorts
+seront efficaces sur toi maintenant.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|Ha ! Pour toi, j'ferais n'importe quoi ! Tu
+peux m'changer en gros crapaud, tiens !$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|Hmm, non, ça ira. Et puis j'ai une
+bien meilleure idée... Hin hin...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Gregor müssen Tharja danken erneut!
+Du ihm machen großen Gefallen!$k$pBruder hören Entschuldigung und vergeben
+Gregor. Jetzt Gregor neuer Mann!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Aha? Nun, dann ist wenigstens einer
+von uns glücklich.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|He! Gregor sagen Danke viele Male
+und viele Male mehr!$k$pWarum du ihm geben bösen Blick der
+zornigen Schlange dafür?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Seit ich von der Seele deines Bruders
+besessen war... stimmt etwas mit mir nicht.$k$pIch kann nicht aufhören, an dich zu denken.
+Es ist äußerst nervenaufreibend!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Aha! Du dich verlieben in Gregor! Das sein
+in Ordnung... Das Gregor schon kennen.$k$pSein wirklich gut. Gregor dich auch mögen.
+Darum er dir bringen dieses Geschenk!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|...Das ist ein Ring.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Lesen auf Innenseite! Da stehen Gregors
+Name. Sein gute Gravur!$k$pWenn du annehmen, wir gravieren deinen
+Namen direkt neben Gregors Namen!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|Du willst also weiterhin den Namen deines
+Bruders verwenden?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Dank dir, ich wissen, dass er vergeben
+Gregor für unglücklichen, gewaltvollen Tod.$k$pSo Gregor tragen den Namen nun mit Stolz!
+...Er außerdem daran gewöhnt sein.$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Nun, er gehört jetzt zu dir wie er einst zu
+deinem Bruder gehörte, denke ich.$k$p...Hehe. Vielleicht funktionieren ja jetzt
+ein paar meiner Flüche.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|Für dich, Gregor tun alles! Auch gut,
+wenn du ihn verwandeln in Kröte!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|Ich denke, das wird nicht nötig sein.
+...Ich habe eine bessere Idee. Hehehe!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Gregor deve ringraziare di nuovo Tharja.
+Tu ha fatto grande favore a lui!$k$pFratello ha ascoltato e perdonato Gregor.
+Ora lui è come uomo nuovo!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Sì? Beh, almeno uno dei due è felice.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oh, ma Gregor dice grazie tante
+volte e ancora una volta!$k$pPerché tu lancia a me quello
+sguardo assassino?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Da quando ho accolto l'anima di tuo
+fratello, mi è successo qualcosa...$k$pNon riesco a smettere di pensare a te.
+Questa cosa è molto seccante...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Ah ah! Tu è innamorata di Gregor?
+Nullo problemo. Capitato già in passato.$k$pMa è cosa bella. Anche tu piace a Gregor.
+Ecco perché lui porta a te regalo!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|Un anello...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Tu guarda all'interno.
+Ha inciso nome di Gregor!$k$pSe tu accetta, noi incidere il tuo nome
+accanto a Gregor. Insieme per sempre!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|Hai intenzione di continuare a
+usare il nome di tuo fratello?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Grazie a te, io sa che lui ha perdonato
+Gregor per morte ingiusta e violenta.$k$pOra Gregor porta nome con orgoglio!
+Lui poi ormai è abituato a questo nome.$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Ormai è diventato il tuo vero nome,
+come lo era di tuo fratello.$k$pMmmh... Forse ora alcuni dei miei
+incantesimi avranno effetto su di te.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|Gregor fa qualsiasi cosa per te.
+Anche se tu trasforma lui in rospo.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|No, non penso sarà necessario.
+E poi ho un'idea migliore... Kh kh kh.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Gregor deber agradecer a Tharja otra vez.
+¡Tharja hacer gran favor!$k$pHermano escuchar disculpas y perdonar.
+¡Ahora Gregor ser hombre nuevo!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Más te vale estar agradecido. Al menos,
+uno de nosotros está feliz y contento...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Sí, ¡Gregor dar gracias muchas, muchas
+veces!$k$p¿Por qué mirar a Gregor con tanta furia?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Desde que hice de receptáculo para el alma
+de tu hermano, me siento... extraña.$k$pNo puedo dejar de pensar en ti. ¡Es algo
+realmente molesto!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|¡Ajá! ¡Tú enamorar de Gregor!
+Estar bien. Gregor haber visto antes.$k$pPero no problema. A Gregor gustar tú
+también. ¡Por eso Gregor traer regalo!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|Es un anillo...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|¡Mirar dentro! ¡Tener grabado nombre
+de Gregor!$k$pSi tú aceptar, entonces anotar nombre
+junto a mío. ¡Juntos siempre!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|¿Así que piensas seguir utilizando el
+nombre de tu hermano?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Gracias a ti, Gregor saber que hermano
+perdonar por muerte violenta.$k$pAhora Gregor llevar nombre con orgullo...
+Además, estar acostumbrado a nombre.$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Bueno, supongo que es tanto tuyo
+como de tu hermano...$k$pJe... Es posible que a partir de ahora te
+afecten algunas de mis maldiciones.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|Gregor hacer cualquier cosa por ti.
+Convertirse en sapo, si tú querer.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|No creo que eso haga falta. Además,
+tengo una idea mejor... Ji, ji, ji.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Gregor must thank Tharja again.
+You did him great favour!$k$pBrother hears apology and forgives Gregor.
+Now he is like new man!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Yeah? Well that makes
+one of us who's happy.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oy, but Gregor says thank you
+many times over.$k$pWhy are you giving him that
+evil glare of fury?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Ever since I hosted the soul of your brother,
+something has been...wrong with me.$k$pI can't stop thinking about you.
+It's...incredibly annoying.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Ah... You fall in love with Gregor?
+Is okay. He sees same thing before.$k$pBut, is good. Gregor likes you, too.
+That is why he is bringing you present!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|...This is a ring.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Look on inside. Is having Gregor's
+name carved in!$k$pIf you accept, then we carve your
+name next to Gregor's. Together forever!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|...You intend to continue using
+the name of your brother?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Thanks to you, I know he forgives Gregor
+for unfortunate and violent death.$k$pSo now Gregor bears his name with pride!
+...He also very used to it by now.$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Well, it's as much yours as
+your brother's, I suppose.$k$p...Hmm. Maybe now some of my
+curses will actually stick.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|For you, Gregor do anything.
+Even if it turns him into toad.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|I don't think that will be necessary.
+Besides, I've got a better idea... Heh heh...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmサーリャ|7$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_19|Gregor yine teşekkür etmeli, Tharja.
+Sen ona büyük iyilik yaptın!$k$pKardeş özrü duydu, Gregor'u affetti.
+Şimdi Gregor yeni adam gibi!$k
+$Wsサーリャ|$Wa$E怒,|$SvpSE_VOICE_SALLYA_EVT_14|Öyle mi? En azından birimiz
+mutlu demek.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Ama Gregor çok çok kez
+teşekkür ediyor!$k$pNeden Gregor'a öyle öfkeli,
+kötü kötü bakıyorsun?$k
+$Wsサーリャ|$Wa$E,照|$SvjSE_VOICE_SALLYA_EVT_22|$SveSE_VOICE_SALLYA_EVT_14|Kardeşinin ruhunu taşıdığımdan beri
+bende bir şeyler... ters.$k$pSeni düşünmeden edemiyorum.
+Bu... inanılmaz sinir bozucu.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Aha... Sen Gregor'a âşık oldun?
+Sorun yok. Gregor bunu daha önce gördü.$k$pAma iyi. Gregor da seni seviyor.
+O yüzden sana hediye getirdi!$k
+$Wsサーリャ|$Wa$E通常,|$SvpSE_VOICE_SALLYA_EVT_1|...Bu bir yüzük.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|İçine bak. Gregor'un adı
+kazınmış!$k$pKabul edersen adını Gregor'unkinin
+yanına kazırız. Sonsuza dek birlikte!$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_5|...Kardeşinin adını kullanmaya
+devam mı edeceksin?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Senin sayende biliyorum: o, Gregor'u
+o talihsiz ölüm için affetti.$k$pŞimdi Gregor onun adını gururla taşır!
+...Zaten iyice alıştı da.$k
+$Wsサーリャ|$Wa$E笑,|$SvpSE_VOICE_SALLYA_EVT_17|Sanırım artık o ad en az kardeşin
+kadar sana da ait.$k$p...Hmm. Belki artık lanetlerimden
+bazıları gerçekten tutar.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|Senin için Gregor her şeyi yapar.
+Kurbağaya dönüşse bile.$k
+$Wsサーリャ|$Wa$SvpSE_VOICE_SALLYA_EVT_6|Buna gerek olacağını sanmıyorum.
+Hem daha iyi bir fikrim var... Heh heh...$k
+$Sbs1000|"

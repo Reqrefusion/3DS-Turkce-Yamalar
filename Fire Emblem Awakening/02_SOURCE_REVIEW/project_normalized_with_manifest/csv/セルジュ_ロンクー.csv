@@ -1,0 +1,767 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_セルジュ_ロンクー_Ｃ,"$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_2|Dis, Lon'zu ?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_4|Qu'est-ce qu'il y a ?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Cette question peut te paraître étrange,
+mais...$k$pViendrais-tu d'un quartier pauvre ?
+Aurais-tu... grandi dans la rue... ?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Je ne sais pas de quoi tu parles.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_10|Je vois... Il devait sûrement s'agir d'un
+autre Lon'zu.$k
+$Wsロンクー|$Wa$E通常,|Ça doit être ça.$k
+$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_14|Et tu ne connais donc sûrement pas non
+plus une jeune femme nommée Ke'ri... ?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_19|Où... Où as-tu entendu ce nom ?!$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_5|Ah ha ! C'est bien de toi qu'ils m'avaient
+parlé !$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|Qui ça, « ils » ?!
+Et qu'est-ce que tout cela veut dire ?!$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|J'ai rencontré les parents de Ke'ri.$k$pC'était il y a longtemps, quand j'étais à
+Regna Ferox avec Minerva.$k$pJe les avais sauvés d'une troupe de bandits
+qui sévissaient à l'extérieur de la ville.$k$pIls m'ont raconté que leur fille avait été
+tuée par ces mêmes brigands.$k$p$E怒,|Plus tard, j'ai appris qu'un jeune homme
+nommé Lon'zu était avec elle ce jour-là.$k$pEt qu'il s'était battu comme un diable pour
+essayer de la sauver, en vain, hélas.$k$pQuand j'ai fait ta connaissance, je me suis
+dit que...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Je me suis battu, oui. Mais au final, c'est
+elle qui est morte pour me protéger.$k$pSon père et sa mère m'ont haï pour cela,
+et m'ont tenu responsable de sa mort.$k$pJe n'étais pour eux qu'un gamin des mauvais
+quartiers qui leur avait volé leur fille unique.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|En fait, à ce sujet...$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Assez... Je ne supporte pas d'en parler.$k$p$Eキメ,|J'aimerais être seul maintenant.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|Attends, Lon'zu !$k$p$E通常,|Tu ne connais pas la fin de l'histoire !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_2|Sag mal, Lon'zu?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_4|Was ist?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Die Frage mag dir seltsam vorkommen,
+aber...$k$pBist du nicht im Armutsviertel aufgewachsen
+und hast auf der Straße gelebt?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Ich weiß nicht, wovon Ihr redet.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_10|...Oh, dann muss es ein anderer
+Lon'zu gewesen sein.$k
+$Wsロンクー|$Wa$E通常,|Das muss es wohl sein.$k
+$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_14|Aber du KANNTEST ein junges
+Mädchen namens Ke'ri. Richtig?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_19|Woher kennt Ihr diesen Namen?!?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_5|Aha! Also WARST du es, von dem
+sie mir erzählt haben!$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|Wer hat Euch was erzählt?
+WAS hat das zu bedeuten?!?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|Ich traf die Eltern von Ke'ri.$k$pVor sehr langer Zeit, als ich mit Minerva
+in Regna Ferox war.$k$pIch rettete sie vor einer Bande von
+Räubern, außerhalb ihres Dorfes.$k$pSie erzählten mir, dass ihre Tochter von
+denselben Banditen getötet worden war.$k$p$E怒,|Später erfuhr ich, dass an jenem Tag ein
+junger Mann namens Lon'zu bei ihr war.$k$p...Und, dass er wie ein Dämon gekämpft
+haben soll, um sie zu beschützen.$k$pNatürlich schöpfte ich gleich Verdacht,
+als ich dir vorgestellt wurde--$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Ich kämpfte, ja! Aber am Ende war sie
+es, die starb, als sie mich beschützte.$k$pIhre Eltern hassten mich. Sie gaben mir
+die Schuld an ihrem Tod.$k$pIch war nur ein armer Straßenjunge und
+hatte ihnen ihre einzige Tochter genommen.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Nun, dazu muss ich sagen--$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Genug. Ich ertrage es nicht, darüber
+zu reden.$k$p$Eキメ,|Ich würde jetzt gerne allein sein.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|Warte, Lon'zu!$k$p$E通常,|Die Geschichte geht noch weiter!
+Es gibt da etwas, was du noch nicht weißt...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_2|Posso chiederti una cosa, Lon'zu?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_4|Di che si tratta?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Forse la mia domanda ti suonerà
+un po' strana, ma...$k$pÈ vero che sei cresciuto nei quartieri
+poveri? Praticamente per strada?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Non ho la più pallida idea
+di cosa tu stia dicendo.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_10|Oh. Allora ti avrò confuso con un altro.$k
+$Wsロンクー|$Wa$E通常,|Può darsi.$k
+$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_14|Però conoscevi una ragazza
+di nome Ke'ri, vero?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_19|Come fai a sapere di lei?!$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_5|Ah ah! Allora sei tu il Lon'zu
+di cui mi hanno parlato!$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|Chi ti ha parlato di me?
+Che significa tutto questo?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|Ho conosciuto i genitori di Ke'ri.$k$pTanto tempo fa, quando ero nei
+Regna Ferox con Minerva.$k$pLi salvai da alcuni banditi
+alla periferia della città.$k$pMi raccontarono che la loro figlia era
+stata uccisa da delinquenti come quelli.$k$p$E怒,|Al momento della tragedia la ragazza si
+trovava con un ragazzo di nome Lon'zu...$k$p... che ha lottato fino allo stremo delle
+forze per difenderla. Invano.$k$pQuando ti ho conosciuto, la prima
+cosa che ho pensato è stata...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Ho lottato, è vero. Ma alla fine è stata
+lei a morire per proteggermi.$k$pI suoi genitori mi odiavano.
+Mi incolparono della sua morte.$k$pEro uno squattrinato venuto dai bassifondi
+e ho portato via la loro unica figlia.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Ci sarebbe una cosa...$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Basta. Non ne voglio più parlare.$k$p$Eキメ,|Vorrei restare da solo, ora.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|Aspetta, Lon'zu!$k$p$E通常,|C'è una cosa che devi sape-$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_2|¿Lon'zu?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_4|¿Sí?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Esta pregunta puede parecerte extraña,
+pero...$k$p¿Creciste en los suburbios y te criaste
+en las calles?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|No sé de qué estás hablando.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_10|Vaya, entonces debo de haberme
+confundido de Lon'zu.$k
+$Wsロンクー|$Wa$E通常,|Seguramente.$k
+$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_14|Pero CONOCISTE a una joven llamada
+Ke'ri, ¿verdad?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_19|¿¡Dónde has escuchado ese nombre!?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_5|¡Ajá! ¡Así que ERAS tú la persona de la que
+me hablaron!$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|¿¡Quién te lo dijo!?
+¿¡Y a qué viene todo esto!?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|Llegué a conocer a los padres de Ke'ri.$k$pFue hace mucho tiempo, cuando estaba
+en Regna Ferox con Minerva.$k$pLos salvé de un grupo de bandidos que
+los atacó fuera de la ciudad.$k$pMe dijeron que su hija había muerto a
+manos del mismo grupo de bandidos.$k$p$E怒,|Más tarde escuché que un joven llamado
+Lon'zu estaba con ella en ese momento.$k$pY que luchó como un león tratando
+de protegerla, aunque fue en vano...$k$pY como es natural, cuando nos presentaron
+empecé a atar cabos...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Luché, sí. Pero al final, fue ella la que murió
+protegiéndome.$k$pSus padres me odiaban. Pensaban que
+murió por culpa mía.$k$pEra un chico sin techo que vivía en los
+suburbios y les robó a su única hija.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Hablando de eso, en realidad...$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Ya basta. No soporto hablar de ese asunto.$k$p$Eキメ,|Me marcho. Necesito estar solo.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|¡Espera, Lon'zu!$k$p$E通常,|Hay ciertos detalles de la historia que
+desconoces...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_2|Say, Lon'qu?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_4|What?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|This might be a strange
+question, but...$k$pDid you grow up in the slums?
+Living in the streets?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|I have no idea what
+you're talking about.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_10|Oh. Then it must have
+been a different Lon'qu.$k
+$Wsロンクー|$Wa$E通常,|Must have been.$k
+$Wsセルジュ|$Wa$E怒,|$SvpSE_VOICE_SERGE_EVT_14|But you did know a young
+girl called Ke'ri, didn't you?$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_19|Where did you hear that name?!$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_5|Ah ha! It was you that
+they told me about!$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|Who is they? What is the
+meaning of all this?!$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|I met Ke'ri's parents.$k$pA while back, when I was in
+Regna Ferox with Minerva.$k$pI saved them from a pack of
+bandits outside the town.$k$pThey told me that their daughter had
+been killed by the very same outlaws.$k$p$E怒,|Later I heard a young boy named
+Lon'qu was with her at the time.$k$p...And that he fought like a demon in
+a vain attempt to protect her.$k$pNaturally, when I was introduced
+to you, I started thinking―$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|I fought, yes. But in the end, it
+was she who died protecting me.$k$pHer mother and father hated me.
+They blamed me for her death.$k$pI was a homeless boy from the slums,
+and I stole their only daughter.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Actually, about that―$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Enough. I cannot bear to speak of it.$k$p$Eキメ,|I would like to be alone now.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|Wait, Lon'qu!$k$p$E通常,|There's more to the tale
+than you know...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_2|Söylesene Lon'qu?$k
+$Wsロンクー|$Wa$E怒|$SvpSE_VOICE_RONKUU_EVT_4|Ne?$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_8|Bu garip bir soru
+olabilir ama...$k$pGecekondu mahallesinde mi
+büyüdünüz? Sokaklarda yaşamak mı?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Neden bahsettiğin
+hakkında hiçbir fikrim yok.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_10|Ah. O halde farklı
+bir Lon'qu olsa gerek.$k
+$Wsロンクー|$Wa$E通常|Öyle olmalı.$k
+$Wsセルジュ|$Wa$E怒|$SvpSE_VOICE_SERGE_EVT_14|Ama Ke'ri adında genç
+bir kızı tanıyordun, değil mi?$k
+$Wsロンクー|$Wa$E怒|$SvpSE_VOICE_RONKUU_EVT_19|Bu ismi nereden duydun?$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_5|Ah ha! Bana
+bahsettikleri sendin!$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_7|Onlar kim? Bütün
+bunların anlamı nedir?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_3|Ke'ri'nin ailesiyle tanıştım.$k$pBir süre önce
+Minerva'yla Regna Ferox'tayken.$k$pOnları kasabanın dışındaki bir
+haydut sürüsünden kurtardım.$k$pBana kızlarının da aynı kanun kaçakları
+tarafından öldürüldüğünü söylediler.$k$p$E怒|Daha sonra o sırada Lon'qu adında genç
+bir çocuğun da yanında olduğunu duydum.$k$p...Ve onu korumak için nafile bir girişimde
+bulunarak bir iblis gibi savaştığını.$k$pDoğal olarak seninle
+tanıştirildiğimda şunu düşünmeye başladım:$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Savaştım evet. Ama sonuçta
+beni korurken ölen o oldu.$k$pAnnesi ve babası benden nefret ediyordu.
+Onun ölümünden beni sorumlu tuttular.$k$pBen kenar mahallelerden evsiz bir
+çocuktum ve onların tek kızını çaldım.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_11|Aslında bu konuda―$k
+$Wsロンクー|$Wa$SvpSE_VOICE_RONKUU_EVT_11|Yeter. Bundan bahsetmeye dayanamıyorum.$k$p$Eキメ|Artık yalnız kalmak isterim.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_14|Bekle, Lon'qu!$k$p$E通常|Hikâyede bildiğinizden çok
+daha fazlası var...$k
+$Sbs1000|"
+1,MID_支援_セルジュ_ロンクー_Ｂ,"$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Lon'zu ?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|Encore toi ?! Va-t'en !$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_3|Je dois te parler. L'histoire de Ke'ri et de
+ses parents est plus compliquée que ça.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|Quand bien même, je ne tiens pas à
+l'entendre.$k$pSi tu éprouves la moindre pitié, cesse de
+me rappeler mes erreurs du passé.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Tu seras intéressé, crois-moi.$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|Je ne pense pas !$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|Ses parents ne t'ont pas haï, Lon'zu.
+Ils t'étaient même reconnaissants.$k$pC'est vrai que quand Ke'ri a été tuée,
+ils t'en ont d'abord voulu.$k$pMais ensuite, ils ont appris avec quelle
+ardeur tu avais tenté de la défendre.$k$pEt lorsque tu as quitté ton quartier, ils
+savaient que c'était de leur faute.$k
+$Wsロンクー|$Wa$E苦,汗|...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Peu de temps après sa mort, ils trouvèrent
+son journal intime.$k$pElle y racontait combien elle tenait à toi et
+quel précieux ami tu étais pour elle.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Votre amitié la rendait heureuse, ce qui les
+a rendus heureux à leur tour.$k$p$E通常,|Alors, tu vois, ils ne te haïssent pas...
+Plus maintenant.$k$pEt je sais qu'ils voudraient que tu le saches.$k
+$Wsロンクー|$Wa$E通常,|...$k$p$E笑,|$SvpSE_VOICE_RONKUU_EVT_23|Merci de m'avoir transmis ce message.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|À ton service.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_8|Ça fait du bien... de se sentir pardonné.$k$p$E苦,汗|Et pourtant, je doute que cette plaie
+puisse vraiment se refermer un jour...$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_14|*soupir*$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Lon'zu?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|Ihr schon wieder! Verschwindet!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_3|Wir müssen reden. Die Geschichte von
+Ke'ri und ihren Eltern geht noch weiter!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|Das mag sein, aber ich will nichts mehr
+davon hören!$k$pWenn Ihr zur Gnade fähig seid, dann lasst
+diese Angelegenheit bitte ruhen.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Aber du wirst das hören wollen.$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|Das denke ich nicht!$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|Ihre Eltern hassten dich nicht, Lon'zu!
+Sie waren dir dankbar!$k$pEs stimmt, dass sie dir anfangs die Schuld
+für den Tod von Ke'ri gaben.$k$pDoch dann hörten sie, wie verzweifelt du
+gekämpft hattest, um sie zu retten.$k$pAls du die Stadt verlassen hast,
+wussten sie, dass es ihre Schuld war.$k
+$Wsロンクー|$Wa$E苦,汗|...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Bald nach Ke'ris Tod
+fanden sie ihr Tagebuch.$k$pSie sahen, was für ein guter Freund
+du ihr gewesen warst.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Eure Freundschaft machte Ke'ri glücklich
+und das machte auch ihre Eltern glücklich.$k$p$E通常,|Sie hassen dich also nicht.
+Zumindest nicht mehr.$k$pUnd ich bin mir sicher, sie hätten gewollt,
+dass du das erfährst.$k
+$Wsロンクー|$Wa$E通常,|...$k$p$E笑,|$SvpSE_VOICE_RONKUU_EVT_23|Danke, dass Ihr die Nachricht
+überbracht habt.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Es war mir ein Vergnügen.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_8|Es ist... gut zu wissen, dass
+mir vergeben wurde.$k$p$E苦,汗|Und doch bezweifele ich, dass diese
+Wunde jemals völlig heilen wird.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_14|Seufz...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Lon'zu?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|Ancora tu? Lasciami in pace!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_3|Devo parlarti. C'è una cosa che devi
+sapere. Riguarda Ke'ri e i suoi genitori.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|Di qualunque cosa si tratti,
+non mi interessa.$k$pNon hai un minimo di compassione?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Lo dico nel tuo interesse.$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|Non credo proprio!$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|I suoi genitori non ti odiavano, Lon'zu,
+anzi, erano grati per quello che avevi fatto.$k$pSì, è vero, all'inizio erano convinti
+che fosse stata tutta colpa tua...$k$p... ma poi scoprirono che avevi cercato
+disperatamente di salvarla.$k$pE quando sei sparito nel nulla, si sono
+resi conto che era colpa loro.$k
+$Wsロンクー|$Wa$E苦,汗|...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Poco dopo la morte di Ke'ri,
+hanno trovato il suo diario...$k$p... e hanno scoperto che eri stato
+un amico straordinario per lei.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Tu rendevi felice lei e di riflesso anche loro.$k$p$E通常,|Non serbano più rancore nei tuoi confronti.$k$pE vorrebbero che tu lo sapessi.$k
+$Wsロンクー|$Wa$E通常,|...$k$p$E笑,|$SvpSE_VOICE_RONKUU_EVT_23|Grazie per avermi recapitato
+il messaggio.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|L'ho fatto con piacere.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_8|È bello sapere di essere stati perdonati.$k$p$E苦,汗|Tuttavia, temo che questa ferita
+resterà sempre aperta...$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_14|Sigh.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|¿Lon'zu?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|¿Otra vez tú? ¡Lárgate!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_3|Tenemos que hablar. Tengo que contarte
+algo sobre la historia de Ke'ri y sus padres.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|No me importa, no tengo ningún interés en
+saber nada más sobre el tema.$k$pPor favor, deja de ahondar en ese asunto si
+es que te queda una gota de compasión.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Estoy segura de que es algo que
+NECESITAS saber.$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|¡Pues yo creo que no!$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|Sus padres no te odiaban, Lon'zu.
+Te estaban agradecidos.$k$pEs cierto que te echaron la culpa cuando
+su hija fue asesinada de esa manera.$k$pPero más tarde se enteraron de que habías
+intentado salvarla por todos los medios.$k$pY luego, cuando desapareciste de la ciudad,
+supieron que era por su culpa.$k
+$Wsロンクー|$Wa$E苦,汗|(...)$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Poco después de su desafortunada muerte,
+encontraron su diario.$k$pDescubrieron que habías sido un muy buen
+amigo para ella hasta el final.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|(...)$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Tu amistad la hizo feliz y eso, a su vez, los
+hizo felices.$k$p$E通常,|Así que no te odian. Al menos, ya no.$k$pY sé que les gustaría que lo supieras.$k
+$Wsロンクー|$Wa$E通常,|(...)$k$p$E笑,|$SvpSE_VOICE_RONKUU_EVT_23|Gracias por... transmitirme su mensaje.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Ha sido todo un placer.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_8|Saber que me han perdonado es un alivio.$k$p$E苦,汗|Pero creo que esta herida nunca
+se cerrará del todo...$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_14|(...)$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Lon'qu?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|You again. Begone!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_3|We have to talk. There's more to
+the story of Ke'ri and her parents.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|Even so, I have no wish to hear it.$k$pIf there is any mercy in your heart,
+you will leave the matter be.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|You will want to hear this.$k
+$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|I think not!$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|Her parents did not hate you, Lon'qu.
+They were grateful to you.$k$pIt's true that when Ke'ri was killed,
+they blamed you for her death.$k$pBut then they learned how desperately
+you tried to save her.$k$pAnd when you vanished from the slum,
+they knew that it was their fault.$k
+$Wsロンクー|$Wa$E苦,汗|...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Soon after Ke'ri died,
+they found her diary.$k$pThey discovered what a good
+friend you had been to her.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Your friendship made her happy,
+and that, in turn, made them happy.$k$p$E通常,|So they don't hate you.
+Not any more.$k$pAnd I know they would
+want you to know that.$k
+$Wsロンクー|$Wa$E通常,|...$k$p$E笑,|$SvpSE_VOICE_RONKUU_EVT_23|Thank you for delivering the message.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|It's my pleasure.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_8|It is...good to be forgiven.$k$p$E苦,汗|And yet, I doubt this wound
+can ever truly heal.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_14|*sigh*$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_SERIOUS2|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_2|Lon'qu mu?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_8|Yine sen. Defol!$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_3|Konuşmamız lazım. Ke'ri ve
+ailesinin hikâyesinde daha fazlası var.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_10|Yine de bunu duymaya hiç niyetim yok.$k$pEğer yüreğinizde bir merhamet varsa,
+meseleyi kendi haline bırakırsınız.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_11|Bunu duymak isteyeceksiniz.$k
+$Wsロンクー|$Wa$E怒|$SvpSE_VOICE_RONKUU_EVT_7|Bence hayır!$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_5|Ailesi senden nefret etmiyordu
+Lon'qu. Sana minnettardılar.$k$pKe'ri öldürüldüğünde onun ölümünden
+seni sorumlu tuttukları doğru.$k$pAma sonra onu ne kadar çaresizce
+kurtarmaya çalıştığını öğrendiler.$k$pGecekondudan kaybolunca bunun kendi
+suçları olduğunu anladılar.$k
+$Wsロンクー|$Wa$E苦,汗|...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_29|Ke'ri öldükten kısa süre
+sonra günlüğünü buldular.$k$pOnun için ne kadar iyi bir
+arkadaş olduğunu keşfettiler.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|...$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_17|Arkadaşlığınız onu mutlu
+etti ve bu da onları mutlu etti.$k$p$E通常|Yani senden nefret
+etmiyorlar. Artık değil.$k$pVe bunu bilmeni
+isteyeceklerini biliyorum.$k
+$Wsロンクー|$Wa$E通常|...$k$p$E笑|$SvpSE_VOICE_RONKUU_EVT_23|Mesajı ilettiğiniz için teşekkür ederiz.$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_11|Benim için zevkti.$k
+$Wsロンクー|$Wa$E通常|$SvpSE_VOICE_RONKUU_EVT_8|Affedilmek güzel bir şey.$k$p$E苦,汗|Ama yine de bu yaranın gerçekten
+iyileşebileceğinden şüpheliyim.$k
+$Wsロンクー|$Wd$w0|$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_14|*iç çeker*$k
+$Sbs1000|"
+2,MID_支援_セルジュ_ロンクー_Ａ,"$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Eh bien, Lon'zu, on croirait que tu portes
+toute la misère du monde sur tes épaules...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Je me sens comme d'habitude.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Je te connais trop bien pour croire ça.
+Je te sens distrait.$k$pTiens, par exemple, Minerva se tient juste
+derrière toi et tu n'as rien remarqué !$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|AAAAH !$k$pMais à quoi joues-tu ?!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_16|Hé hé. Au moins, ça t'a un peu réveillé.$k$pÉcoute, j'ai exhumé un passé que tu voulais
+oublier, et je me sens coupable.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Ne t'excuse pas, s'il te plaît.$k$p$Eキメ,|Tu as eu raison de venir me parler et je
+suis heureux de connaître la vérité.$k$pQuand tu m'as parlé de leur pardon, j'ai
+cru que cela me ferait souffrir davantage.$k$p$E通常,|Mais, depuis ce moment, les cauchemars
+qui me harcèlent se sont... atténués.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_6|Des cauchemars ?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Maintes fois ai-je dû revivre pendant mon
+sommeil le sombre jour où elle m'a quitté.$k$pKe'ri est morte à cause de notre amitié.
+C'est une erreur que je ne répéterai pas.$k$pJ'ai juré que jamais je ne laisserai quelqu'un
+devenir assez proche pour être en danger...$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|C'est donc pour cela que tu as peur
+du contact avec les femmes...$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_15|Mes cauchemars ne s'estomperont jamais
+complètement, pas plus que ma peur.$k$pMais, pour la première fois, j'entrevois
+l'avenir de façon différente.$k$p$E笑,|Je te remercie grandement, Zelcher.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Je n'ai fait que te dire ce que je savais.$k$pMais nous pourrions peut-être essayer de
+guérir tes plaies ensemble, si tu veux ?$k$pOn pourrait aller faire une balade à dos de
+wyverne... Peut-être un pique-nique...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Je ne suis pas... prêt.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_16|Oh. Je comprends, bien sûr.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_14|Mais si tu as une autre idée de ce qui
+pourrait aider...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_18|Je te tiendrai au courant !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Du wirkst, als würdest du das Leid der
+ganzen Welt auf deinen Schultern tragen.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Mir geht es wie immer.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Ich weiß, dass das nicht stimmt.
+Dich lenkt etwas ab!$k$pIch meine, Minerva steht direkt hinter dir
+und du hast sie noch nicht einmal bemerkt!$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|AAAAH!$k$pW-was spielt Ihr für ein närrisches
+Spiel mit mir?!?$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_16|Ha! Das hat dich ein wenig aufgeweckt!$k$pLon'zu, ich wühlte in einem Teil deiner
+Vergangenheit, den du vergessen wolltest.$k$pDafür wollte ich mich entschuldigen.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Entschuldigt Euch nicht.$k$p$Eキメ,|Es war richtig, dass Ihr mit mir geredet habt
+und ich bin froh, die Wahrheit zu kennen.$k$pIch dachte, die Vergebung ihrer Eltern
+würde nur mehr Schmerz mit sich bringen.$k$p$E通常,|Aber seitdem ich davon weiß, sind die
+Albträume, die ich hatte, weniger geworden.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_6|Albträume?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Ich träumte viele Male von dem Tag, als sie
+starb, während sie mich beschützen wollte.$k$pKe'ri starb, weil sie meine Freundin war.
+Diesen Fehler werde ich nie wieder begehen.$k$pIch schwor mir, nie wieder jemanden nah an
+mich heran zu lassen.$k$pDadurch würde auch niemand mehr
+derart wegen mir verletzt werden.$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|...Darum fürchtest du dich vor dem
+Kontakt zu Frauen.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_15|Meine Albträume und meine Angst vor Nähe
+werden wohl nie vollständig verschwinden.$k$pDoch zum ersten Mal kann ich hoffen, dass
+es vielleicht irgendwann einmal besser wird.$k$p$E笑,|Habt Dank, Zelcher.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Ich sagte dir nur, was ich wusste.$k$p...Aber wenn du es zulässt, können wir
+gemeinsam an deinen Problemen arbeiten.$k$pWie wäre es mit einem Ritt auf Minerva
+und einem gemeinsamen Picknick--$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Ich bin... noch nicht bereit.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_16|Oh! Ja, natürlich nicht.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_14|Aber wenn Euch sonst etwas einfällt,
+das helfen könnte, dann...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_18|Teile ich es dir sofort mit.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Sembri particolarmente
+malinconico, Lon'zu.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Sarà una tua impressione.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Ti conosco abbastanza bene ormai.
+Sei distratto da qualche pensiero.$k$pMinerva è a un metro da te e non
+te ne sei nemmeno accorto!$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|UAAAH!$k$pM-Ma che scherzo è questo?!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_16|Eh. Almeno ti ha dato una svegliata.$k$pSenti, Lon'zu. Mi dispiace di avere riportato
+a galla un episodio che volevi dimenticare.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Non devi scusarti.$k$p$Eキメ,|Hai fatto bene a parlarmi.
+Almeno adesso conosco la verità.$k$pPensavo che il perdono dei suoi genitori
+mi avrebbe portato solo altre angosce.$k$p$E通常,|Ma da allora, gli incubi che mi
+perseguitano sono... diminuiti.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_6|Gli incubi?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Ho rivissuto quell'evento quasi ogni notte.$k$pKe'ri è morta perché era mia amica.
+Non ripeterò più lo stesso errore.$k$pHo giurato a me stesso che non avrei mai
+permesso a nessuno di essermi così vicino...$k$p... da potergli fare del male.$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|Adesso capisco perché hai così
+paura di legare con le donne.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_15|Non mi libererò mai completamente da
+questi incubi e da queste paure.$k$pMa per la prima volta, posso almeno
+sperare in un futuro migliore.$k$p$E笑,|Grazie, Zelcher.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Ti ho detto solo quello che sapevo.$k$pVorrei aiutarti a rimarginare quella
+ferita, se tu me lo permetterai.$k$pPotremmo andare a fare un giro sul dorso
+di Minerva e magari fare un picnic...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Non... sono ancora pronto.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_16|Oh. Certo, dovevo immaginarmelo.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_14|Ma se ti vengono in mente altre idee...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_18|Te lo farò sapere.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Parece que estés cargando con todo el
+peso del mundo, Lon'zu.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Estoy igual que siempre.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|Te conozco bien, sé que hay algo que
+te preocupa.$k$p¡Minerva está justo detrás de ti y ni te has
+dado cuenta!$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|¡Aaaaaaah!$k$p¡¿Qué bromas son esas?!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_16|Je. Bueno, al menos he conseguido que
+reacciones un poco.$k$pEscucha, Lon'zu. Desenterré una parte del
+pasado que querías olvidar, y lo siento.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|No te disculpes.$k$p$Eキメ,|Hiciste bien en hablar conmigo, y me alegra
+saber la verdad.$k$pCuando supe que sus padres me habían
+perdonado, pensé que el dolor no se iría.$k$p$E通常,|Pero desde entonces, las pesadillas que me
+atormentaban se han... reducido.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_6|¿Pesadillas?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Más de una noche he revivido el momento
+en el que ella murió protegiéndome.$k$pKe'ri murió porque era mi amiga y
+nunca más volveré a cometer ese error.$k$pJuré que jamás permitiría a nadie acercarse
+a mí para evitar que algo así se repitiera.$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|Y de ahí viene tu miedo a relacionarte
+con mujeres...$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_15|Mis pesadillas nunca remitirán, y lo mismo
+pasará con mi miedo al amor y a la amistad.$k$pAunque, por primera vez, empiezo a creer
+en un futuro que podría ser diferente.$k$p$E笑,|Gracias, Zelcher.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|Solo te he dicho lo que sabía.$k$pPero si me lo permites, podría ayudarte
+a curar esa vieja herida.$k$pPodríamos empezar con una vuelta a lomos
+de Minerva y después tomar una meriend...$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|No. Todavía no estoy preparado para eso.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_16|Ah, claro, es normal. Lo siento.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_14|Pero si se te ocurre algo que pueda
+ayudarme...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_18|Te lo diré enseguida.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|You look to have the weight of the
+world on your shoulders, Lon'qu.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|I am the same as always.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_11|I know you better than that.
+You're distracted by something.$k$pI mean, Minerva is right behind you
+and you haven't even noticed!$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_7|Agh!$k$pWh-what fool's game are you playing?!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_16|Heh. Well, that woke you up a little.$k$pListen, Lon'qu. I dredged up a past
+you wanted to forget, and I'm sorry.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Do not apologise.$k$p$Eキメ,|You were right to talk to me,
+and I'm glad to know the truth.$k$pWhen you spoke of her parents' forgiveness,
+I thought it would only bring more pain.$k$p$E通常,|But, since then, the nightmares that
+plague me have become...fewer.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_6|Nightmares?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Many a night have I been forced to relive
+the moment she died protecting me.$k$pKe'ri died because she was my friend.
+Never again shall I repeat that mistake.$k$pI vowed that I would let no one get close
+enough to be hurt by me again.$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|...So this is why you fear to have
+contact with women.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_15|My nightmares will never fade completely,
+nor will my fear of friendship and love.$k$pBut for the first time, I can imagine
+a future that might be different.$k$p$E笑,|Thank you, Cherche.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_11|I only told you what I knew.$k$p...But perhaps, if you would allow, we can
+try to cure the remaining hurt together?$k$pFor a start, we could go for a ride on
+Minerva. Perhaps even bring a picnic―$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|I am...not ready.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_16|Oh. Yes, of course not.$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_14|But, if you can think of something
+else that might help...$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_18|I will let you know.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_YASASHISA1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_2|Dünyanın yükünü omuzlarında taşıyor
+gibisin, Lon'qu.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Ben her zamanki gibi aynıyım.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_11|Seni bundan daha iyi
+tanıyorum. Bir şey dikkatinizi dağıtıyor.$k$pYani Minerva tam arkanda ve
+sen farkına bile varmadın!$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒|$SvpSE_VOICE_RONKUU_EVT_7|Ah!$k$pNe aptalca bir oyun oynuyorsun?$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_16|Heh. Bu seni biraz uyandırdı.$k$pDinle, Lon'qu. Unutmak istediğin
+bir geçmişi araştırdım ve özür dilerim.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_11|Özür dilemeyin.$k$p$Eキメ|Benimle konuşmakta haklıydın
+ve gerçeği öğrendiğime sevindim.$k$pAnne babasının affından söz edince bunun
+yalnız daha çok acı getireceğini sandım.$k$p$E通常|Ama o zamandan beri beni
+rahatsız eden kabuslar... azaldı.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_6|Kâbuslar mı?$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_4|Pek çok gece onun beni korurken öldüğü
+ani yeniden yaşamak zorunda kaldım.$k$pKe'ri benim arkadaşım olduğu için öldü.
+Bir daha asla bu hatayı tekrarlamayacağım.$k$pBir daha kimsenin bana zarar verecek kadar
+yaklaşmasına izin vermeyeceğime yemin ettim.$k
+$Wsセルジュ|$Wa$E苦,汗|$SvpSE_VOICE_SERGE_EVT_10|...Demek bu yüzden kadınlarla temas
+kurmaktan korkuyorsun.$k
+$Wsロンクー|$Wa$E通常|$SvpSE_VOICE_RONKUU_EVT_15|Ne kabuslarım, ne de dostluk ve
+aşk korkularım tamamen yok olacak.$k$pAma ilk defa farklı olabilecek
+bir gelecek hayal edebiliyorum.$k$p$E笑|Teşekkürler Cherche.$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_11|Sana sadece bildiklerimi söyledim.$k$p...Ama belki izin verirseniz, kalan acıyı
+birlikte iyileştirmeye çalışabiliriz?$k$pBaşlangıç olarak Minerva'ya binebiliriz.
+Belki piknik bile getirebilirsin―$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Ben...hazır değilim.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_16|Ah. Evet, elbette hayır.$k
+$Wsロンクー|$Wa$E通常|$SvpSE_VOICE_RONKUU_EVT_14|Ama eğer yardımcı olabilecek başka
+bir şey düşünürseniz...$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_18|Size bildireceğim.$k
+$Sbs1000|"
+3,MID_支援_セルジュ_ロンクー_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Et voilà, c'est parti. Surtout, dis-le-moi si
+tu commences à te sentir mal.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Je suis prêt.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Hmm... Par où commencer... ?$k$pOù toucher un dangereux épéiste qui a la
+phobie du contact physique ?$k$pQu'en penses-tu, Minerva ?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_10|Allez, ne me fais pas attendre, je t'en prie.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_9|Ne sois pas si impatient, s'il te plaît !$k$pMinerva et moi discutons de l'endroit le
+plus propice pour débuter ta thérapie.$k$pJe suis sûre que la tête serait une
+expérience terrible pour toi...$k$p$E通常,照|Hein ? Lon'zu ? Pourquoi est-ce que
+tu me prends la main ?$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_11|On sera encore là demain si je ne prends
+pas l'initiative !$k$pCela te déplaît-il que je te tienne la main ?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|Non, pas du tout.$k$p$E苦,汗|Mais c'est de ton bien-être à toi dont nous
+devons nous préoccuper... Ça va ?$k
+$Wsロンクー|$Wa$E笑,|$SvpSE_VOICE_RONKUU_EVT_14|Au début, j'ai dû surmonter ma peur, mais
+maintenant... Je me sens serein.$k$pJe ne pense pas que je serais capable d'en
+faire autant avec une autre femme que toi.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|En tout cas, c'est un beau progrès !$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Dis-moi, Zelcher, pourquoi m'aides-tu ?
+Qu'ai-je fait pour mériter ta gentillesse ?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_13|Qu'as-tu fait ? Je ne peux pas t'aider par
+simple bonté de cœur ?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|En ce monde, une telle bienveillance est un
+don très rare...$k$p$E通常,|Zelcher, je souhaite t'offrir ceci.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_9|Un anneau ? Cela veut-il dire...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|Tu as guéri les plaies de mon cœur en y
+remplaçant la douleur par de l'amour.$k$pPour la première fois, je vois pour moi
+un avenir sans solitude.$k$pTe joindras-tu à moi pour cette aventure ?
+Acceptes-tu de m'épouser ?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|Avec joie !$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|J'avais peur que tu dises non...$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|Et moi, j'avais peur que tu ne me le
+demandes jamais !$k$pN'est-ce pas, Minerva ?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|... Ouille. Elle dit que si tu me déçois, elle
+se fera un plaisir de croquer tes membres...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Elle n'en aura jamais l'occasion...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Alles klar! Auf geht's! Sag Bescheid, wenn
+du dich irgendwie unwohl fühlst.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Ich bin bereit.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Hmm... Ich bin mir nicht sicher, ob das
+der beste Weg ist, um zu beginnen.$k$pWo berührt man einen tödlichen
+Schwertmeister, der das nicht will?$k$p...Was denkst du, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_10|...Bitte fahr fort!$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_9|Sei nicht so ungeduldig, Lon'zu.$k$pMinerva und ich beraten noch, wie wir
+deine Therapie am besten anfangen.$k$pIch denke, dich am Kopf zu berühren
+fändest du etwas gruselig.$k$p$E通常,照|...Huch? Lon'zu! Was machst du mit
+meiner Hand?$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_11|Wenn ich nicht die Initiative ergreife,
+stehen wir hier noch den Rest des Tages.$k$pStört es dich, wenn ich deine Hand
+so halte?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|Nein, überhaupt nicht.$k$p$E苦,汗|Wir sollten uns eher deinetwegen
+Sorgen machen. Geht es dir gut?$k
+$Wsロンクー|$Wa$E笑,|$SvpSE_VOICE_RONKUU_EVT_14|...Zuerst war es schwierig. Doch jetzt fühlt
+es sich fast... beruhigend an.$k$pIch glaube nicht, dass ich das mit einer
+anderen Frau als dir tun könnte.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Nun, das ist doch schon mal ein Fortschritt!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Sag mir, Zelcher! Warum hilfst du mir?
+Was habe ich getan, um das zu verdienen?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_13|Kann es nicht einfach sein, dass ich
+ein gutes Herz habe?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|...Nur wenige auf dieser Welt wären
+so gütig.$k$p$E通常,|Ich will dir den hier geben, Zelcher.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_9|Ein Ring? Heißt das etwa...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|Du hast die Wunden in meinem Herzen
+geheilt und sie durch deine Liebe ersetzt.$k$pZum ersten Mal sehe ich eine Zukunft
+vor mir, in der ich nicht allein bin.$k$pSchließt du dich mir in diesem Abenteuer
+an? Willst du mich heiraten?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|Mit Freuden!$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|Ich hatte Angst, du würdest Nein sagen...$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|Und ich hatte Angst, du würdest
+mich nie fragen!$k$pStimmt's, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|Ach, du liebe Zeit! Sie sagt, wenn du mich
+enttäuschst, wird sie dir die Beine abbeißen.$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Dann gebe ich ihr besser keinen Grund,
+sich auf mich zu stürzen.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Ecco, ci siamo. Avvertimi quando
+inizi a sentire fastidio.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Sono pronto.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Mmmh... Non so da dove iniziare.$k$pDove potrei toccare un temibile spadaccino
+che non vuole essere toccato?$k$pChe cosa ne pensi, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_10|Per me basta che inizi.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_9|Lon'zu, cerca di essere un po' paziente!$k$pIo e Minerva stiamo cercando di individuare
+dove iniziare la terapia contro l'avversione.$k$pDunque, forse partire dal viso
+sarebbe troppo per te...$k$p$E通常,照|Lon'zu? Che cosa stai facendo
+con la mia mano?$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_11|Se non prendo l'iniziativa io,
+rischiamo che si faccia notte.$k$pTi dispiace se ti tengo la mano?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|No, affatto.$k$p$E苦,汗|Però sei tu il paziente. Come ti senti?$k
+$Wsロンクー|$Wa$E笑,|$SvpSE_VOICE_RONKUU_EVT_14|L'impatto è stato duro, ma ora
+avverto un senso... di pace.$k$pPenso che non mi riuscirebbe con
+nessun'altra donna all'infuori di te.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Bene! Vedo che stiamo facendo progressi!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Perché mi aiuti, Zelcher?
+Cosa ho fatto per meritarmelo?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_13|Non potrebbe essere per puro altruismo?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|Ci sono poche donne buone
+e oneste come te.$k$p$E通常,|Zelcher, voglio darti questo.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_9|Un anello? Significa che...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|Il mio cuore era a pezzi, ma
+tu l'hai rimesso insieme.$k$pPer la prima volta, vedo un
+futuro in cui non sono solo.$k$pVuoi unirti a me in questa avventura?
+Vuoi sposarmi?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|Non voglio altro!$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|Temevo che mi avresti detto di no...$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|E io temevo che non me
+l'avresti mai chiesto!$k$pDico bene, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|Accidenti. Ha detto che ti staccherà
+gli arti a morsi, se mi farai soffrire.$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Allora non le darò motivo
+di avercela con me.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|Muy bien, vamos allá. Si te empiezas
+a sentir mal, dímelo de inmediato.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Estoy listo.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Mmm... No sé por dónde empezar.$k$p¿Dónde tocarías a un letal espadachín
+que no quiere que lo toquen?$k$p¿Tú qué opinas, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_10|Por favor, acabemos con esto cuanto antes.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_9|Vamos, Lon'zu, ¡no seas impaciente!$k$pMinerva y yo estamos determinando cómo
+deberíamos empezar tu tratamiento.$k$pSupongo que lo mejor sería empezar con la
+cabeza...$k$p$E通常,照|Eeeh... Lon'zu, ¿qué estás haciendo con mi
+mano?$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_11|Estaremos aquí todo el día si no tomo yo
+la iniciativa.$k$p¿Te sientes incómoda si te cojo la mano
+así?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|No... en absoluto.$k$p$E苦,汗|Eeeh, ¿no deberíamos preocuparnos de
+cómo te sientes tú? ¿Te encuentras bien?$k
+$Wsロンクー|$Wa$E笑,|$SvpSE_VOICE_RONKUU_EVT_14|Al principio, pensaba que sería muy difícil,
+pero ahora me siento... casi en paz.$k$pCreo que eres la única mujer con la que
+podría hacer esto.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Bueno, ¡esto es todo un progreso!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Dime, Zelcher, ¿por qué me quieres
+ayudar? ¿Qué he hecho para merecerlo?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_13|¿No puedo hacerlo simplemente porque
+es lo correcto y tengo buen corazón?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|No quedan muchas personas así de...
+honradas en este mundo.$k$p$E通常,|Zelcher, quiero darte esto.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_9|¿Un anillo? ¿Es un anillo de...?$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|Has curado las heridas de mi corazón y
+las has reemplazado por amor.$k$pPor primera vez, puedo ver un futuro en el
+que no estoy solo.$k$p¿Puedo contar contigo en él?
+¿Te casarías conmigo?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|¡Claro que sí!$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|Tenía miedo de que dijeras ""no""...$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|¡Y yo ni siquiera tuve el valor para hablarte
+de mis sentimientos!$k$p¿Verdad, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|Oh, cielos. Dice que, si me decepcionas,
+te arrancará las extremidades...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Tranquila. No pienso darle a Minerva
+ni un solo motivo para tomarla conmigo.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_2|All right, here we go. Let me know the
+moment you start to feel queasy.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|I am ready.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_8|Hmm... I'm not sure the best place to start.$k$pWhere does one touch a deadly swordsman
+who does not want to be touched?$k$pWhat do you think, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒,|$SvpSE_VOICE_RONKUU_EVT_10|Please just get on with it.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_9|Now, Lon'qu, don't be so impatient.$k$pMinerva and I are discussing the best
+place to begin your aversion therapy.$k$pI bet the head would be very scary
+for you.$k$p$E通常,照|...Huh? Lon'qu? What are you doing
+with my hand?$k
+$Wsロンクー|$Wa$E通常,|$SvpSE_VOICE_RONKUU_EVT_11|We'll be standing here all day if
+I don't take the initiative.$k$pDoes it displease you when I
+hold your hand like this?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|No, not at all.$k$p$E苦,汗|But you're the one we should be worried
+about. Are you feeling all right?$k
+$Wsロンクー|$Wa$E笑,|$SvpSE_VOICE_RONKUU_EVT_14|At first it was difficult, but now
+it feels almost...peaceful.$k$pI don't think I could do this with
+any other woman but you.$k
+$Wsセルジュ|$Wa$E笑,|$SvpSE_VOICE_SERGE_EVT_17|Well, this is progress!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Tell me, Cherche. Why do you help me?
+What have I done to deserve it?$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_13|Can't I do it out of the goodness
+of my own heart?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|Few in this world would
+ever be so decent.$k$p$E通常,|Cherche, I want you
+to have this.$k
+$Wsセルジュ|$Wa$E通常,|$SvpSE_VOICE_SERGE_EVT_9|A ring? Does this mean...$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|You have healed the wounds in my
+heart and replaced them with love.$k$pFor the first time, I can see a future
+in which I am not alone.$k$pWill you join me in this adventure?
+Will you marry me?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|Gladly!$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|I was afraid you'd say no.$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|And I was afraid you'd never ask!$k$pRight, Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|...Oh, dear. She says that if you let
+me down, she'll bite your limbs off.$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Don't worry. I shall not give Minerva
+any reason to turn on me.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmセルジュ|7$Wmロンクー|3$w0|$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_2|Tamam, işte başlıyoruz. Miden
+bulanmaya başlayınca bana haber ver.$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Hazırım.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_8|Hmm... Başlamak için en iyi yerin neresi
+olduğundan emin değilim.$k$pDokunulmak istemeyen ölümcül bir
+kılıç ustasına nereye dokunulur?$k$pNe düşünüyorsun Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsロンクー|$Wa$E怒|$SvpSE_VOICE_RONKUU_EVT_10|Lütfen devam et.$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_9|Lon'qu, bu kadar sabırsız olma.$k$pMinerva ve ben kaçınma terapisine
+başlamak için en iyi yeri tartışıyoruz.$k$pEminim bu kafa senin için çok korkutucu
+olacaktır.$k$p$E通常,照|...Ha? Lon'qu mu? Benim elimle ne
+yapıyorsun?$k
+$Wsロンクー|$Wa$E通常|$SvpSE_VOICE_RONKUU_EVT_11|Eğer ben inisiyatif almazsam
+bütün gün burada duracağız.$k$pElini bu şekilde tutmam
+seni rahatsız ediyor mu?$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_11|Hayır, hiç de değil.$k$p$E苦,汗|Ama endişelenmemiz gereken kişi
+sensin. Kendini iyi hissediyor musun?$k
+$Wsロンクー|$Wa$E笑|$SvpSE_VOICE_RONKUU_EVT_14|İlk başta zordu ama şimdi
+neredeyse...huzurlu geliyor.$k$pBunu senden başka hiçbir kadınla
+yapabileceğimi sanmıyorum.$k
+$Wsセルジュ|$Wa$E笑|$SvpSE_VOICE_SERGE_EVT_17|Peki, bu bir ilerleme!$k
+$Wsロンクー|$Wa$E苦,汗|$SvpSE_VOICE_RONKUU_EVT_12|Söyle bana Cherche. Neden bana yardım
+ediyorsun? Ben bunu hak edecek ne yaptım?$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_13|Sırf içimden geldiği için
+yapamaz mıyım?$k
+$Wsロンクー|$Wa$Eキメ,汗|$SvpSE_VOICE_RONKUU_EVT_16|Bu dünyada bu kadar iyi yürekli
+insan pek azdır.$k$p$E通常|Cherche, bunu
+almanı istiyorum.$k
+$Wsセルジュ|$Wa$E通常|$SvpSE_VOICE_SERGE_EVT_9|Bir yüzük mü? Bu şu anlama mı geliyor?$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_4|Yüreğimdeki yaraları
+iyileştirip, yerini sevgiyle doldurdun.$k$pİlk defa yalnız olmadığım bir
+gelecek görebiliyorum.$k$pBu macerada bana katılır mısın?
+Benimle evlenir misin?$k
+$Wsセルジュ|$Wa$E笑,照|$SvpSE_VOICE_SERGE_EVT_3|Memnuniyetle!$k
+$Wsロンクー|$Wa$E笑,照|$SvpSE_VOICE_RONKUU_EVT_14|Hayır demenden korkuyordum.$k
+$Wsセルジュ|$Wa$SvpSE_VOICE_SERGE_EVT_18|Ve asla sormayacaksın diye korktum!$k$pDeğil mi Minerva?$k
+$Wc$w500|$SspSE_EVT_DRAGON_VOICE1|$w1500|$Wsセルジュ|$Wa$E通常,照|$SvpSE_VOICE_SERGE_EVT_16|...Ah hayatım. Eğer beni hayal kırıklığına
+uğratırsan uzuvlarını ısıracağını söylüyor.$k
+$Wsロンクー|$Wa$E通常,照|$SvpSE_VOICE_RONKUU_EVT_15|Merak etme. Minerva'ya bana saldırması
+için bir sebep vermeyeceğim.$k
+$Sbs1000|"

@@ -1,0 +1,23 @@
+{
+  "release": "FEA Turkish Pass241",
+  "source_package": "FEA_TR_Review_Pass241_ManualSequential_3501_4500_CumulativeFull_Multilang_ContextVoice_PixelSafe_TextPatch.zip",
+  "package_type": "FULL_CUMULATIVE_TRANSLATION",
+  "region_target": "PAL/EUR",
+  "target_language_slot": "U (English)",
+  "csv_files": 854,
+  "records": 15817,
+  "tr_nonblank_records": 14931,
+  "tr_blank_records": 886,
+  "tr_different_from_english_records": 13429,
+  "patched_files": 846,
+  "roundtrip_text_mismatches": 0,
+  "dotless_i_u0131_source_count": 122337,
+  "dotless_i_u0131_output_count": 122337,
+  "ready_u_files": 854,
+  "font_files": 6,
+  "font_turkish_glyph_check": "PASS: Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü in all 6 fonts",
+  "message_verify": "PASS: 854 files / 15817 records",
+  "filename_repair": "770 mojibake Japanese CSV names decoded CP437->UTF-8; 84 exact names",
+  "full_m_sha256": "e2faec47eb45a134fefb191bef14ba22069ef6b8a1784a48f6acd9116f1e392f",
+  "fonts_fixed_sha256": "d02ddd63c8f5f44296f3aee41d45f1194bbb344b498a0b74a0ed454fcc172bec"
+}

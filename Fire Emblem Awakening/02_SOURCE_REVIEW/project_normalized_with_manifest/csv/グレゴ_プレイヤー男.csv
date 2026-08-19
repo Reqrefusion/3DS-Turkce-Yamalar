@@ -1,0 +1,938 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_グレゴ_プレイヤー男_Ｃ_PCM1,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Tiens, $Nu. Bois donc ça.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Hum ? Qu'est-ce que c'est ?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Un médicament spécial. Il a pas très
+bon goût mais c'est bon pour ta santé.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Un médicament ? Mais je me sens bien...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Vraiment ? T'es sûr ? Pas d'mal de gorge ?
+Pas de toux ?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Maintenant que tu en parles, ma gorge
+me fait un peu mal...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Oui, pendant l'combat, t'avais le souffle
+un peu rauque. Comme un vieil âne...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Tu as entendu ça dans toute l'agitation du
+combat ? Ton ouïe doit être très fine.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|Pour un mercenaire comme moi, la santé
+c'est capital. Un soldat doit rester fort.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Oui, tu as raison. Je ne fais pas assez
+attention à ma santé...$k$pQuelles précautions prends-tu pour ne
+pas tomber malade ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|J'ai trois règles ! Faut s'gargariser, s'laver
+les mains, et prendre sa température !$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|Oh, d'accord. Cela n'a pas l'air si
+compliqué. D'autres secrets ou conseils ?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|Y a bien quelque chose... Seuls les hommes
+peuvent le faire. Mais c'est un secret...$k$pJ'devrais peut-être le partager avec toi...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Hmm, pourquoi pas...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Il faut dormir ensemble dans la même
+couche pour partager la chaleur du corps !$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Je te demande pardon ?!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Le corps refroidit vite la nuit. Avec le froid,
+les p'tits muscles sont tout endoloris !$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|Euh, ça ira ! Je préfère utiliser des
+couvertures supplémentaires !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Hier, $Nu.
+Du das hier austrinken, ja?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Hmm? Was ist das denn?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Sein besondere Medizin, die Gregor auf
+mühsamen Reisen trinken.$k$pSchmecken wie Boden von altem Brunnen,
+aber sein sehr gut für dich.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Ich brauche keine Medizin, Gregor.
+Mir geht es gut.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Du nicht haben schmerzenden Rachen?
+Verstopfte Lungenflügel?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Nun, da du es erwähnst... mein Hals
+schmerzt schon ein wenig.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|In Schlacht Gregor dich hören atmen.
+Klingen wie sterbendes, altes Maultier.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Dein Gehör muss fantastisch sein, wenn du
+das während des Schlachtenlärmes hörst.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|Für Mietklinge wie Gregor Gesundheit sehr
+wichtig. Soldat müssen stark bleiben, ja?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Ich denke, du hast Recht. Ich achte wirklich
+nicht genug auf meine Gesundheit.$k$pWas für Maßnahmen triffst du, um nicht
+krank zu werden?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor haben drei Regeln: Gurgeln,
+Hände waschen und Temperatur messen.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|Oh, das klingt leichter als ich dachte.
+Sonst noch irgendwelche geheimen Tricks?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|Gregor haben noch eine Sache. Aber das
+sein sehr geheim und nur für Männer.$k$pDu sein auch Mann, ja?
+Vielleicht Gregor dir erzählen...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Das klingt interessant.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Du schlafen in selbem Bett mit Gregor!
+Wir teilen Körperwärme.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Habe ich das... richtig verstanden?!?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Körper werden sehr kalt in der Nacht, ja?
+So Muskeln bleiben beweglicher!$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|Äh... Vielleicht verwende ich einfach eine
+zusätzliche Decke oder so etwas.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Tu prende questo, $Nu.
+Tu vuole bere, sì?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Mmmh? Cos'è?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Medicina speciale che Gregor
+beve in lunghi viaggi!$k$pSembra fondo di vecchio pozzo,
+ma fa bene a te.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|Non sento il bisogno di curarmi.
+Sto bene, Gregor.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Tu non ha mal di gola?
+No respiro pesante?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Ora che mi ci fai pensare,
+ho la gola un po' infiammata.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|In battaglia Gregor ascolta tuo respiro.
+Tu ha voce roca come asino mezzo morto.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Devi avere un udito perfetto per sentire
+il mio respiro in tutto quel trambusto.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|Per mercenario come Gregor, salute è
+prima cosa. Soldato dev'essere forte, sì?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Direi proprio di sì. In effetti non bado
+granché alla salute come dovrei.$k$pQuali sono i tuoi rimedi per
+tenere lontani i malanni?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor ha tre regole: gargarismi, lavare
+spesso mani e misurare temperatura!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|Oh. Non mi sembra molto complicato.
+Hai altri trucchetti da rivelarmi?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|Forse Gregor ha altro trucco, ma è
+molto segreto. Solo per uomini.$k$pTu è anche uomo, sì?
+Forse Gregor confida a te...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Mi hai incuriosito.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Tu dorme in letto con Gregor!
+Così noi dividere calore dei corpi!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Come, scusa?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Corpi diventare freddi di notte, sì?
+Questo tiene muscoli agili!$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|Ehm... Credo che forse opterò
+per una coperta più pesante.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Venir, $Nu.
+Beber esto, ¿sí?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|¿Mmm? ¿Qué es?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|¡Ser medicina especial que Gregor beber
+cuando hacer viaje agotador!$k$pSaber a cloaca, pero ser buena para ti.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|No necesito ninguna medicina, Gregor.
+Me encuentro bien.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|¿No sentir irritación en garganta?
+¿No tener pulmón hecho puré?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Bueno, ahora que lo dices, TENGO la
+garganta un poco irritada.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Gregor escucharte respirar en combate.
+Sonar como viejo burro moribundo.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Debes de tener un oído impresionante para
+poder detectar eso en medio del combate.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|Para mercenario como Gregor, salud ser
+importante. Soldado deber ser fuerte, ¿sí?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|Puede que tengas razón. Últimamente no
+me cuido tanto como debería.$k$p¿Y qué haces para mantenerte tan sano?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor tener tres normas: ¡hacer gárgaras,
+limpiar manos y comprobar temperatura!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|Ah, pues parece bastante fácil...
+¿Algún otro truco?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|Gregor tener otro truco, pero ser muy
+secreto. Solo poder hacerlo los hombres.$k$pTú también ser hombre, ¿sí?
+Gregor compartir contigo...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Parece interesante...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|¡Deber dormir en misma cama que Gregor!
+¡Así compartir calor corporal!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|¡¿Cómo?!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Cuerpo ser muy frío de noche, ¿sí?
+¡Así músculos no enfriar!$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|Mmm... Tal vez baste con utilizar una manta
+más o algo así.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Here, $Nu.
+You will drink this, yes?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Hmm? What is it?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Is special medicine Gregor
+drinks on hard journey!$k$pTastes like bottom of old well,
+but is very good for you.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|I don't need medicine, Gregor.
+I feel fine.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|You have no hurting throat?
+No hacking up of lung?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Well, now that you mention it,
+my throat has been a little sore...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|In battle, Gregor hear you breathe.
+Is raspy like old dying donkey.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|You must have a terrific sense of hearing
+to notice that over the din of combat.$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|For sellsword like Gregor, health very
+important. Soldier must be strong, yes?$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|I daresay you're right. I don't pay as
+much attention to my health as I should.$k$pWhat kind of precautions do you take
+to avoid becoming ill?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor have three rules: gargle,
+wash hands, and take temperature!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|Oh. That sounds easy enough.
+Any other tricks?$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|Gregor may have one more thing,
+but is very secret. Only men can do.$k$pYou are man too, yes?
+Maybe Gregor share with you...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|This sounds interesting.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|You sleep in same bed as Gregor!
+Then we share body heat!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|I beg your pardon?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Body becomes very cold at night, yes?
+This keeps muscles limber!$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|An extra blanket will do just fine,
+thank you.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|İşte,
+$Nu. Bunu içeceksin, değil mi?$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_5|Hmm? Nedir?$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Gregor'un zorlu
+yolculukta içtiği özel ilaç mı?$k$pTadı eski kuyunun dibi gibi
+ama sizin için çok iyi.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|İlaca ihtiyacım yok Gregor. Kendimi
+iyi hissediyorum.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Boğaz ağrısı yok mu?
+Ciğer söken öksürük yok mu?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Şimdi sen söyleyince
+boğazım biraz ağrıdı...$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Savaşta Gregor nefes aldığınızı duyar.
+Ölmekte olan yaşlı eşek gibi hırıltılı.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Savaş gürültüsünde bunu duymak için
+müthiş kulakların olmalı.$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_15|Gregor gibi paralı askerler için sağlık çok
+önemlidir. Asker güçlü olmalı, değil mi?$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_18|Sanırım haklısın. Sağlığıma
+gerektiği kadar dikkat etmiyorum.$k$pHastalanmamak için ne gibi
+önlemler alıyorsunuz?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Gregor'un üç kuralı var: Gargara
+yapmak, elleri yıkamak ve ateşini ölçmek!$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_21|Ah. Bu yeterince kolay görünüyor.
+Başka numara var mı?$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_2|Gregor'un bir şeyi daha olabilir ama bu
+çok gizlidir. Sadece erkekler yapabilir.$k$pSen de erkeksin, değil
+mi? Belki Gregor seninle paylaşır...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Bu kulağa ilginç geliyor.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Gregor'la aynı yatakta uyu!
+Sonra vücut ısısını paylaşırız!$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_7|Efendim?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Geceleri vücut çok soğuk oluyor, değil
+mi? Bu kasları esnek tutar!$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_31|Fazladan bir battaniye işe yarayacaktır,
+teşekkürler.$k
+$Sbs1000|"
+1,MID_支援_グレゴ_プレイヤー男_Ｂ_PCM1,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Oh, Gregor... Je voulais te remercier pour
+ton remède, il m'a fait un bien fou.$k$pPar contre, il m'a fait faire des rêves bien
+étranges...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|T'as pas rêvé d'moi, par hasard ?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Euh...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|Ha ha ! J'le savais ! Tu rougis ! Ho ho !
+T'as rêvé qu'on dormait ensemble, non ?$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|Mais non, on n'était pas dans un lit !
+On volait dans les airs...$k$pPuis on s'est posé... sur le soleil, je crois.
+J'ai posé ma tête sur tes genoux...$k$pBah, c'était un horrible cauchemar !$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Oui, j'fais cet effet à plein d'gens. Ils me
+voient, et après, ils rêvent de moi, quoi.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|Je ne veux pas rêver de toi ! Du coup, je
+n'ai pas fermé l'œil depuis plusieurs jours !$k$pCe n'est pas matière à plaisanter. Regarde,
+mes yeux sont injectés de sang.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|C'est pas ma faute, ça arrive, parfois...
+D'habitude avec les femmes, tu m'diras...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Ha ha. Très drôle. Ce n'est vraiment pas
+le moment de plaisanter !$k$pAlors même que nous parlons, des frissons
+me parcourent le dos...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Hmm, $Nu. Laisse-moi un peu
+regarder tes yeux, pour voir.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Euh, non ! Ne t'approche pas de moi !$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|T'es étrange, toi, tu sais. Tu veux pas te
+calmer un peu ?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Les yeux injectés de sang, les frissons,
+les rêves bizarres...$k$pTu t'es pas fait piquer par un insecte,
+récemment ?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|À vrai dire, oui. Un gros mille-pattes m'a
+piqué à la cheville l'autre jour...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|J'le savais ! T'as dû être infecté.$k$pIl faut qu'tu t'fasses soigner !
+Ta vie est en grand danger, là !$k
+$Wsusername|$Wa$E苦,|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|Vraiment ? C'est si dangereux que ça ?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Sag mal, Gregor? Ich wollte dir für deine
+Medizin danken.$k$pSie hat mir sehr geholfen... Aber ich hatte
+davon einen sehr seltsamen Traum.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Gregor sein Teil von Traum vielleicht?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Ähm...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|Hohoho! Es sein wahr! Du träumen von
+teilen Bett mit Gregor!$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|Wir waren nicht in einem Bett!
+Wir sind durch die Luft geflogen...$k$pDann sind wir gelandet... Ich glaube,
+auf der Sonne.$k$pUnd dann habe ich meinen Kopf auf
+dein Knie gelegt und mich ausgeruht...$k$pIhr Götter... Was für ein schrecklicher
+Albtraum...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Du nicht fühlen wie etwas Besonderes.
+Gregor diesen Effekt haben bei Leuten.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|Ich habe seit Tagen nicht mehr geschlafen!
+Seit Tagen!$k$pSieh dir meine Augen an!
+Sie sind ganz rot vor Schlafmangel!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|Manchmal Gregor wirken so auf Leute.
+Meistens auf die Damen, aber--$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Das ist nicht lustig! Es gibt nichts
+Schlimmeres, als zu träumen, man sei wach!$k$pMir läuft es jetzt gerade w-wieder
+eiskalt den Rücken herunter...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Eiskalt? Hmm... Hier, $Nu.
+Lassen Gregor schauen in dein Auge.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Nein! Bleib mir fern!$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|Du sein seltsame Person.
+Jetzt sein ruhig und halten still.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Rote Augen... Kaltes Gefühl in Rücken...
+Träume von hässlichem Mann...$k$pDu wurden gebissen von Insekt in
+letzter Zeit?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Ja, tatsächlich. Ein großer Tausendfüßler
+hat mich letztens in den Fuß gebissen.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|Ho, das sein furchtbar! Du leiden an
+Krankheit von schlimmem Insektenbiss!$k$pWir müssen Behandlung starten sofort!
+Gregor fürchten um dein Leben!$k
+$Wsusername|$Wa$E苦,|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|W-wirklich? Ist es so gefährlich?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Ehi, Gregor. Volevo ringraziarti per
+quella medicina che mi hai dato.$k$pMi sentivo come nuovo dopo averla presa...
+Però ho fatto dei sogni un po' strani.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Gregor è nei tuoi sogni?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Ehm...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|Uh uh! Allora è vero! Tu ha sognato
+di dormire in tenda con Gregor!$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|Macché! Ho sognato di
+volare con te nel cielo...$k$pPoi arrivavamo sul sole, credo, e io
+poggiavo la mia testa sul tuo ginocchio.$k$pDei, che incubo...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Tu non è speciale. Gregor fa stesso
+effetto a tante persone.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|Da allora, sono giorni che non
+riesco a dormire! Giorni!$k$pGuarda i miei occhi!
+Sono iniettati di sangue!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|A volte Gregor fa questo effetto...
+Di solito sulle donne, ma...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Non è divertente! È tutto
+fuorché divertente!$k$pHo ancora i b-brividi...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Brividi? Mmmh... Tu viene, $Nu.
+Gregor guarda te negli occhi da vicino.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|No! Non ti avvicinare!$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|Tu è tipo strano.
+Ora tu fa silenzio!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Occhi iniettati di sangue,
+brividi... strani sogni...$k$pTu recentemente morso da insetto, sì?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|A pensarci bene, un grosso millepiedi mi ha
+morso la caviglia qualche giorno fa, ma...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|Uh, questo è terribile! Tu soffre per brutta
+infezione causata da grosso insetto!$k$pTu deve curarti subito.
+Gregor teme per tua vita.$k
+$Wsusername|$Wa$E苦,|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|D-Davvero? È così pericolosa?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Oye, Gregor, te quería dar las gracias por
+la medicina que me diste el otro día.$k$p¡Me sentí como nuevo!... Aunque
+después tuve un sueño muy raro.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|¿Gregor aparecer en sueño?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Eeeh...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|¡Jo, jo, jo! ¡Gregor acertar! ¡Soñar que
+compartir cama con Gregor!$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|¡No estábamos en una cama! Volábamos
+por el aire y aterrizábamos en el Sol, creo...$k$pDespués me dormía con la cabeza apoyada
+en tus rodillas... Dioses, fue horrible...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|No sentir especial. Gregor tener mismo
+efecto en mucha gente.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|¡Hace días que no duermo! ¡Días!$k$p¡Mírame los ojos! ¡No pueden estar más
+irritados!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|Gregor tener este efecto... sobre todo,
+en mujeres, pero...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|¡No tiene gracia! ¡Nada de gracia!$k$pCada vez que me acuerdo, siento
+escalofríos por la espalda...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Mmm... Venir, $Nu.
+Dejar que Gregor ver ojos.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|¡No! ¡Aléjate de mí!$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|Tú ser persona rara...
+¡Tú quedar tranquilo y callar!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|(...)$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Ojos irritados... Escalofríos en espalda...
+Sueños extraños...$k$p¿Picar un bicho últimamente?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|La verdad es que sí. Un enorme milpiés
+me picó en el tobillo el otro día.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|¡Vaya, esto ser terrible! ¡Tú tener peligrosa
+infección transmitida por bicho enorme!$k$pDeber aplicar tratamiento de inmediato.
+¡Gregor temer que vida estar en juego!$k
+$Wsusername|$Wa$E苦,|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|¿D-de verdad? ¿Tan peligroso es?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|Say, Gregor? I wanted to thank you
+for that medicine you gave me.$k$pI was feeling great after taking it...but
+I think it gave me strange dreams.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Is Gregor maybe in these strange dreams?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Er...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|Ho ho ho! Is true! You dream of
+sharing bed with Gregor!$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|We weren't in a bed!
+We were flying through the air...$k$pThen we landed...on the sun, I think.
+And I rested my head on your knee...$k$pGods, it was horrible...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Do not be feeling special. Gregor have
+that effect on many people.$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|Since then, I haven't slept
+in days! Days!$k$pLook at my eyes!
+They're bloodshot!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|Sometimes Gregor have this effect...
+Usually on the women, but―$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|It's not funny! It is most DEFINITELY
+not funny!$k$pI have ch-chills up my back even as
+we speak...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Chills? Hmm... Here, $Nu.
+Let Gregor look in eyes.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|No! Stay away from me!$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|You are strange person.
+Now make with the hushing!$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Bloodshot eyes... Chills on spine...
+Strange dream...$k$pYou had insect bite not long ago, yes?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Er, yes, actually. A great big millipede
+bit me on the ankle the other day, but...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|Oy, is so terrible! You suffer dangerous
+infection carried by large bug!$k$pWe must render treatment with no delay.
+Gregor fear your life is at stake.$k
+$Wsusername|$Wa$E苦,|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|R-really? It's that serious?$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_19|Söylesene Gregor? Geçen verdiğin ilaç
+için teşekkür etmek istiyordum.$k$pİçince harika hissettim ama...
+garip rüyalar görmeye başladım.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_5|Gregor da bu garip rüyalarda mı var?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Şey...$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_6|Ho ho ho! Doğru! Gregor'la aynı
+yatağı paylaşmayı düşlüyorsun!$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|Yatakta değildik!
+Havada uçuyorduk...$k$pSonra... sanırım güneşe indik.
+Başımı da dizine koydum...$k$pTanrılar, korkunçtu...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Kendini özel sanma. Gregor
+çok kişide böyle etki yapar.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_11|O zamandan beri günlerdir uyumadım!
+Günlerdir!$k$pGözlerime bak!
+Kan çanağına döndüler!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_14|Gregor bazen böyle etki yapar...
+Genelde kadınlarda ama―$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Hiç komik değil! Hem de
+KESİNLİKLE komik değil!$k$pKonuşurken bile sırtımdan
+ürpertiler geçiyor...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Ürperti? Hımm... Gel, $Nu.
+Gregor gözlerine baksın.$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_7|Hayır! Benden uzak dur!$k
+$Wsグレゴ|$Wa$E怒|$SvpSE_VOICE_GREGO_EVT_12|Sen tuhaf insan.
+Şimdi sus bakalım!$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_29|...$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_6|Kan çanağı gözler... Sırtta ürperti...
+Tuhaf rüya...$k$pYakın zamanda böcek ısırdı seni, evet?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Ee, evet. Geçen gün kocaman bir
+kırkayak bileğimi ısırdı ama...$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|Oy, çok kötü! Büyük böcek tehlikeli
+hastalık bulaştırmış sana!$k$pHemen tedavi gerek. Gregor korkuyor;
+hayatın tehlikede olabilir.$k
+$Wsusername|$Wa$E苦|$SvjSE_VOICE_PLAYER_M#_EVT_26|$SveSE_VOICE_PLAYER_M#_EVT_28|G-gerçekten mi? O kadar ciddi mi?$k
+$Sbs1000|"
+2,MID_支援_グレゴ_プレイヤー男_Ａ_PCM1,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu. Tu t'portes bien ?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Oui, et c'est grâce à toi. Je me sens déjà
+beaucoup mieux.$k$pNos guérisseurs ont dit que si tu n'étais
+pas intervenu, je n'aurais pas survécu.$k$pJe te dois la vie, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Ouais, parfois, les vieux comme moi en
+savent un p'tit peu plus, tu vois.$k$p$E通常,|T'es habile, toi, mais un vétéran comme moi
+peut encore t'apprendre des choses.$k$pÉcoute tes aînés et un jour, tu pourras être
+aussi rusé que moi.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Je ferai attention à ce que tu dis,
+désormais. J'aurais dû le faire plus tôt !$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Bah, pas la peine de t'en faire ! L'eau a
+coulé sous l'pont, comme on dit ! Mais...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Quoi ? Quelque chose te trouble encore ?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Tu fais toujours ces rêves ? Ceux où on vole
+et où tu poses ta tête sur mes genoux ?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|Oh, non. Plus maintenant, heureusement !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Ah, bien. J'aurai pas à t'faire payer
+pour ma présence.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Me faire payer pour ton apparition dans
+mes rêves ?! En voilà une drôle d'idée !$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Bon, tu rêves plus d'moi, alors on va plus
+y penser.$k$p$E通常,|Pas d'maladie, pas d'cauchemar, pas
+d'cauchemar, pas d'apparitions.$k$pPas d'apparition, pas d'paiement. Pas
+d'paiement... pas d'paiement.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Hmm... Oui. En tout cas, je vais veiller de
+près à ma santé, dorénavant !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Bien ! T'es très motivé, j'te fais confiance.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu.
+Wie gehen voran mit Erholung?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Gut, dank dir.$k$pDie Heiler sagen, ich hätte sterben können,
+hättest du die Krankheit nicht bemerkt.$k$pIch schulde dir mein Leben, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Hohoho! Manchmal alter, verrückter Mann
+wissen ein Ding oder zwei, ja?$k$p$E通常,|Du sein kluger Bursche, aber alter Mann wie
+Gregor dich können lehren ein paar Dinge.$k$pDu hören auf ältere Leute und vielleicht du
+sein so weise wie Gregor irgendwann.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Tut mir leid. Ich werde in Zukunft darauf
+achten, mehr auf dich zu hören.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Das klingen wie gute Musik in Ohren.
+Aber...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Was ist? Bereitet dir sonst noch
+etwas Sorgen?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Du immer noch haben Albtraum? In dem
+du ruhen auf Knie von Gregor?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|Nein, nicht mehr. Den Göttern sei Dank!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Gut... Sonst Gregor müssen nehmen
+Honorar für Erscheinen in Traum.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Einen LOHN?!? Für einen TRAUM?!?
+Das ist doch lächerlich...$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Aber wenn du sagen kein Traum mehr,
+dann sein in Ordnung.$k$pWir sagen, erster Traum war Probe.
+Gregor dir machen Freundschaftsangebot.$k$p$E通常,|Von jetzt an du achten auf Gesundheit, ja?
+Dann keine bösen Träume mehr.$k$pWenn du wieder schwach sein, du können
+ruhen auf Knie von Gregor, ja?$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Ich versichere dir, dass ich sehr gut auf
+meine Gesundheit achten werde.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Du klingen sehr motiviert, also Gregor
+dir das glauben.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu.
+Come tu sta ora?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Bene, grazie a te.$k$pI guaritori hanno detto che sarei morto se
+tu non mi avessi fatto curare in tempo.$k$pMi hai salvato la vita, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Uh uh! A volte vecchio uomo strambo
+sa qualcosa di utile, sì?$k$p$E通常,|Tu è giovane in gamba, ma uomo vecchio
+come Gregor insegna molte cose a te.$k$pSe tu ascolta vecchi, tu forse in futuro
+diventa intelligente come Gregor.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Hai ragione. D'ora in poi ascolterò
+attentamente i tuoi consigli.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Questa è acqua passata.
+Però...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|Cosa c'è? A cosa stai pensando?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Tu ha ancora sogni da incubo
+in cui tu vola con Gregor?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|No, grazie agli dei.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Bene. Altrimenti Gregor fa pagare te
+biglietto per vedere lui in sogno.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|Un biglietto? Per un sogno?
+Ma è ridicolo!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Però se tu dice niente sogno,
+tu non paga biglietto.$k$pPrimo sogno vale come prova.
+Gregor offre grande sconto.$k$p$E通常,|Allora tu cura te stesso così
+tu non ha incubi, sì?$k$pSe tu è di nuovo malato, tu può dormire
+sul mio ginocchio senza costi aggiuntivi.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Ti assicuro che sarò molto
+attento alla mia salute.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Tu sembra molto motivato!
+Gregor crede a te!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu.
+¿Cómo ir recuperación?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Bien, gracias a ti.$k$pLos sanadores dicen que podría haber
+muerto si no te hubieras dado cuenta.$k$pTe debo la vida, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|¡Jo, jo, jo! Viejo chalado saber un par
+de cosas, ¿sí?$k$p$E通常,|Ser muchachito listo, pero hombre viejo
+como Gregor poder enseñar mucho.$k$pSi escuchar a mayores, un día poder ser
+tan listo como Gregor.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Lo siento, a partir de ahora te prestaré
+mucha más atención.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Eso ser agua pasada. Pero...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|¿Qué? ¿Hay algo más que te preocupe?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|¿Seguir teniendo pesadilla en que quedar
+dormido en rodillas de Gregor?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|¡No, gracias a los dioses eso ha terminado!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Ser bueno... porque Gregor tener que
+cobrar honorarios por aparecer en sueño.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|¡¿HONORARIOS?! ¡¿Por aparecer en un
+SUEÑO?! ¡Eso es ridículo!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Pero si decir que no soñar más... suponer
+que no haber problema.$k$pPrimera sesión ser solo ensayo, ¿sí?
+¡Gregor hacer gran descuento!$k$p$E通常,|Ahora tener que cuidar salud para no tener
+más malos sueños, ¿sí?$k$pSi tú volver a sentir débil, tú poder
+descansar cabeza sobre rodillas gratis.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Puedo garantizarte que prestaré mucha más
+atención a mi salud de ahora en adelante.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Parecer motivado, ¡Gregor creerte!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu.
+How is recovery?$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|Good, thanks to you.$k$pThe healers said if you hadn't caught the
+infection when you did, I'd have died.$k$pI owe you my life, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Oh ho ho! Sometimes batty old man
+know thing or two, yes?$k$p$E通常,|You are clever young lad, but old man like
+Gregor can be teaching you many things.$k$pYou listen to elders, and one day you
+might be smart like Gregor.$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|Heh, yes, I'll certainly pay closer
+attention from now on.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|That is water running under bridge.
+But...$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|What? Is something still troubling you?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|You still have nightmare dream? Where
+you fly and put head on Gregor's knee?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|Not any more, thank the gods.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Is good... Because Gregor has to charge
+performance fee for appearing in dream.$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|A performance fee? For a dream?!
+That's ridiculous!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|But if you say no more dream,
+then is okay.$k$pWe call first one rehearsal.
+Gregor give steep discount.$k$p$E通常,|Now, you look after health so you
+see no more bad dreams, yes?$k$pIf you get weak again, you can
+rest head on knee, no charge.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|I assure you, I will be watching
+my health very carefully.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|You sound very with the motivation!
+Gregor believes you!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|Ah, $Nu.
+İyileşme nasıl?$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_13|Güzel, sayende.$k$pŞifacılar, enfeksiyonu zamanında fark
+etmeseydin öleceğimi söyledi.$k$pSana hayatımı borçluyum Gregor.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Ah ho ho! Bazen çatlak yaşlı adam bir
+iki şey bilir, değil mi?$k$p$E通常|Zeki bir gençsin ama Gregor gibi yaşlı bir
+adam sana birçok şey öğretiyor olabilir.$k$pBüyüklerin sözünü dinlersen bir gün
+Gregor gibi akıllı olabilirsin.$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Heh, evet, bundan sonra kesinlikle
+daha dikkatli olacağım.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|O mesele artık geride kaldı.
+Ama...$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_5|Ne? Hâlâ seni rahatsız eden bir şey mi
+var?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Hâlâ o kâbusu görüyor musun? Hani uçup
+başını Gregor'un dizine koyduğun?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|Artık değil, tanrılara şükür.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|İyi... Çünkü Gregor rüyada görünmek
+için performans ücreti almak zorunda.$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_7|Performans ücreti mi? Bir rüya
+için mi? Bu çok saçma!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Ama artık rüya görmek yok
+diyorsan sorun yok.$k$pİlk prova diyoruz. Gregor
+büyük bir indirim yapıyor.$k$p$E通常|Artık kötü rüyalar görmemek için
+sağlığınıza dikkat edin, değil mi?$k$pTekrar zayıflarsan, hiçbir ücret
+ödemeden başını dizine koyabilirsin.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Sizi temin ederim, sağlığıma
+çok dikkat edeceğim.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Çok motivasyonlu görünüyorsun!
+Gregor sana inanıyor!$k
+$Sbs1000|"
+3,MID_支援_グレゴ_プレイヤー男_Ｃ_PCM2,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|ほれ、$Nu。
+こいつを飲んどけ。$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|え？　なにこれ？$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|俺が旅先でよく使ってる薬だ。
+ちょーっと苦いが、我慢しとけ。$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|薬って…僕はどこも悪くないよ？$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|ほんとにそうか？
+喉の奥に違和感はねぇか？$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|え…あぁ、そう言われてみれば
+ちょっといがいがするかも…$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|そーいうこった。さっきの戦いのとき
+呼吸がおかしかったからな。$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|え？　他人の呼吸がおかしいのに
+気づいたの…？　すごいね。$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_15|健康にだけはこだわってんだよ。
+傭兵は体が資本、ってな。$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_18|健康管理も仕事のうちということだね。
+僕も見習わないと…$k$pグレゴは普段、
+どんなことに気をつけてるの？$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|うがい、手洗い、体を温める。
+この三つが基本だな。$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_21|へぇ…意外と普通だね。
+なにか秘訣とかはないの？$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|秘訣か…あるにはあるぜ。
+あれは男にしかできねぇんだよなぁ。$k$pお前は男だから
+もしやりたいってんなら…$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|…まぁ、何なのかは聞かないでおこう。$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|あーもうひとつ、添い寝っつー
+とっておきの秘訣もあるぜ。$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_7|はい？　何言ってるんだ！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|はっはっ、遠慮すんなよ。$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_31|しないよ！$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|Al, $Nu.
+Bunu iç.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_5|Ha? Bu ne?$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Yolculukta hep kullandığım ilaç bu.
+Biraz acıdır, dayan.$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_10|İlaç mı? Benim hiçbir yerim ağrımıyor ki.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Gerçekten mi?
+Boğazında bir gariplik yok mu?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_5|Şey... söyleyince
+biraz gıcık var sanki...$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Aynen öyle. Az önceki savaşta
+nefesin tuhaftı.$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_7|Ha? Nefesimdeki değişikliği
+fark ettin mi? Vay be.$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_15|Sağlığıma dikkat ederim. Paralı
+askerin sermayesi bedenidir.$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_18|Sağlık kontrolü de işin parçası demek.
+Ben de örnek almalıyım...$k$pGregor, normalde neye dikkat edersin?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Gargara, el yıkama, sıcak kalma. Üç
+temel kural bu.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_21|Vay... Beklediğimden normalmiş.
+Bir püf noktası yok mu?$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_2|Püf noktası mı? Var aslında.
+Ama sadece erkeklerin yapacağı türden.$k$pSen de erkeksin.
+İstersen...$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|...Neymiş diye sormasam daha iyi.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Bir de yan yana uyumak diye
+gizli bir yöntem var.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_7|Ne? Ne diyorsun sen?!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Haha, çekinme.$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_31|Yapmam!$k
+$Sbs1000|"
+4,MID_支援_グレゴ_プレイヤー男_Ｂ_PCM2,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_19|グレゴ。この間は薬、
+ありがとう。$k$pあの夜かなり熱が上がったんだけど、
+次の日にはすっかり下がってたよ。$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|熱に浮かされて
+おかしな夢は見なかったか？$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|うっ…$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|なーんだよ、なに赤くなってんだ？
+俺と添い寝する夢でも見たか？$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|添い寝じゃないけど…
+膝枕をされてる夢を…。とんだ悪夢だよ…！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|あー、なるほどねぇ。それで俺の顔見て
+胸がときめいちまってるわけだ。$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_11|…あれ以来、眠るのが怖くて
+睡眠不足なんだよ。$k$p冗談でもそういうこと
+言うのはやめてくれ…$k$pほら、寝不足のせいで目が赤いだろう。$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_14|夢から始まる恋があっても
+いいと思うがねぇ、俺は。$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_9|はいはい、面白い冗談だね。$k$pうぅ…なんだかまた
+背中がぞくぞくしてきたよ。$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|？　おい、$Nu。
+ちょっと目を見せてみろ。$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|ちょ、ちょっとグレゴ、
+本気で怒るよ？$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|黙ってろ！$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_29|！！$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|この充血の仕方…背中の悪寒…。
+あんた、最近虫に刺されたことは？$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|あった…かも。$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|…質の悪い病原体を運ぶやつに
+刺されちまったかもしれねぇな。$k$p行くぞ。早めに処置しとかねぇと
+下手すりゃ命にかかわる。$k
+$Wsusername|$Wa$E苦,|$SvpSE_VOICE_PLAYER_M#_EVT_26|あ…う、うん…。
+ありがとう…$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_19|Gregor, geçen günkü ilaç için sağ ol.$k$pO gece ateşim çok yükseldi ama
+ertesi gün tamamen düştü.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_5|Ateşler içinde tuhaf rüyalar görmedin
+ya?$k
+$Wsusername|$Wa$E苦,照|$SvpSE_VOICE_PLAYER_M#_EVT_33|Ugh...$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_6|Ne o, niye kızardın?
+Benimle yattığını mı gördün?$k
+$Wsusername|$Wa$E怒,照|$SvpSE_VOICE_PLAYER_M#_EVT_10|Yan yana değildik ama...
+Dizinde yatıyordum. Korkunçtu!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_9|Haa, demek yüzümü görünce
+kalbin o yüzden çarpıyor.$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_11|...O zamandan beri uyumaktan korkuyorum.
+Uykusuz kaldım.$k$pŞaka da olsa öyle şeyler söyleme...$k$pBak, uykusuzluktan gözlerin kıpkırmızı.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_14|Bence rüyada başlayan bir aşkın
+zararı yok.$k
+$Wsusername|$Wa$E通常,照|$SvpSE_VOICE_PLAYER_M#_EVT_9|Peki peki, komik şaka.$k$pUgh... Yine
+sırtımdan ürperti geçti.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|$Nu ile
+birlikte.$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_7|B-bekle Gregor, gerçekten kızacağım!$k
+$Wsグレゴ|$Wa$E怒|$SvpSE_VOICE_GREGO_EVT_12|Sus!$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_29|！！$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_6|Bu göz kızarıklığı... sırt ürpertisi...
+Son zamanlarda böcek ısırdı mı?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_11|Olmuş... olabilir.$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_7|...Belki de kötü bir hastalık taşıyan
+bir şey ısırmıştır.$k$pHadi. Erken müdahale etmezsek
+canına bile mal olabilir.$k
+$Wsusername|$Wa$E苦|$SvpSE_VOICE_PLAYER_M#_EVT_26|Aa... e-evet.
+Sağ ol...$k
+$Sbs1000|"
+5,MID_支援_グレゴ_プレイヤー男_Ａ_PCM2,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|$Nu。
+その後の経過はどうだ？$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_13|あ、グレゴ。
+おかげさまで順調だよ。$k$pグレゴの処置がなかったら
+危なかったかもしれないって$k$pクロムの侍医の方に言われた。
+グレゴは命の恩人だね。$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|たまには年長者の言うことを
+素直に聞いてみろってこった。$k$p$E通常,|あんたは非凡なもんを持ってるが、
+まーだまだ足りねぇことも多い。$k$p学べることは年長者から大いに学べ。
+せめて青い果実が熟すまで、ってな。$k
+$Wsusername|$Wa$E笑,|$SvpSE_VOICE_PLAYER_M#_EVT_16|ほんとにそうだね。
+この前は変な人扱いしてすまない。$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|そーれはかまわねぇんだが…$k
+$Wsusername|$Wa$E通常,|$SvpSE_VOICE_PLAYER_M#_EVT_5|何か気になることでも？$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|俺に膝枕されたっつー悪夢は
+もう見なくなったのか？$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|あ、そういえばあれ以来、
+見た覚えがないね。どうして？$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|いやー、まだ夢に俺が出続けるようなら
+そろそろ出演料でも頂こうかと思ってな！$k
+$Wsusername|$Wa$E怒,|$SvpSE_VOICE_PLAYER_M#_EVT_7|なっ…！　何だよそれ！
+心配しなくても、もう見ないよあんな夢！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|ははっ、そりゃー残念だ。$k$p$E通常,|ま、もうそんな悪夢を見ねぇように
+体調には気をつけるこったな。$k$pもし倒れたりしたら、
+現実での俺の膝枕が待ってるぜー？$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|…ひぃぃぃぃ！！
+ぜ、絶対に気を付ける！$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|はっはっは！！　その意気だ！$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|$Nu. İyileşme nasıl?$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_13|Ah, Gregor. Sayende gayet iyiyim.$k$pGregor müdahale etmeseydi
+tehlikeli olabilirmiş...$k$pChrom'un doktoru söyledi.
+Gregor, hayatımı kurtardın.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Arada bir büyüğünün sözünü
+dinle.$k$p$E通常|Sende sıra dışı bir yetenek var
+ama hâlâ çok eksiğin var.$k$pÖğrenebildiğini büyüklerinden öğren.
+Ham meyve olgunlaşana kadar.$k
+$Wsusername|$Wa$E笑|$SvpSE_VOICE_PLAYER_M#_EVT_16|Gerçekten öyle.
+Geçen gün sana tuhaf demiştim, özür.$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|O sorun değil ama...$k
+$Wsusername|$Wa$E通常|$SvpSE_VOICE_PLAYER_M#_EVT_5|Aklına takılan bir şey mi var?$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Dizimde yattığın o kâbusu
+artık görmüyor musun?$k
+$Wsusername|$Wa$SvpSE_VOICE_PLAYER_M#_EVT_13|Doğru ya, o günden beri görmedim.
+Neden acaba?$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Rüyanda görünmeye devam edersem
+yakında ücret isteyeceğim!$k
+$Wsusername|$Wa$E怒|$SvpSE_VOICE_PLAYER_M#_EVT_7|Ne?! O da ne demek!
+Merak etme, o rüyayı bir daha görmem!$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Ha ha, ne yazık.$k$p$E通常|O kâbusu bir daha görmemek için
+sağlığına dikkat et.$k$pYine bayılırsan bu kez gerçekten
+dizimde yatarsın, haberin olsun!$k
+$Wsusername|$Wa$E通常,汗|$SvpSE_VOICE_PLAYER_M#_EVT_9|Hiii!
+K-kesinlikle edeceğim!$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Ha ha ha! İşte bu!$k
+$Sbs1000|"
+6,MID_支援_グレゴ_プレイヤー男_Ｃ_PCM3,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|ほれ、$Nu。
+こいつを飲んどけ。$k
+$Wsusername|$Wa$E通常,|？$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|俺が旅先でよく使ってる薬だ。
+ちょーっと苦いが、我慢しとけ。$k
+$Wsusername|$Wa$E怒,汗|……！$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|どこも悪くない？　ほんとにそうか？
+喉の奥に違和感はねぇか？$k
+$Wsusername|$Wa$E苦,汗|！！！！！$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_8|ほーら見ろ。言われてみれば
+喉が調子悪いだろ。$k$pそーいうこった。さっきの戦いのとき
+呼吸がおかしかったからな。$k$p$E笑,|はは、俺ぐらいになると
+そういうことに気づけるのさ。$k$p健康にだけはこだわってんだよ。
+傭兵は体が資本、ってな。$k
+$Wsusername|$Wa$E通常,|……？$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|ああ、ふだん気をつけてんのは
+うがい、手洗い、体を温める。$k$pこの三つが基本だな。$k
+$Wsusername|$Wa$E笑,|……？$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_2|秘訣か…あるにはあるぜ。
+あれは男にしかできねぇんだよなぁ。$k$pお前は男だから
+もしやりたいってんなら…$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|あーもうひとつ、添い寝っつー
+とっておきの秘訣もあるぜ。$k
+$Wsusername|$Wa$E苦,汗|……！？$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|はっはっ、遠慮すんなよ。
+して欲しいんならいつでも…$k
+$Wsusername|$Wa$E怒,|……！$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|Al, $Nu.
+Bunu iç.$k
+$Wsusername|$Wa$E通常|？$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Yolculukta hep kullandığım ilaç bu.
+Biraz acıdır, dayan.$k
+$Wsusername|$Wa$E怒,汗|……！$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_5|Bir şeyin yok mu? Emin misin?
+Boğazında gariplik yok mu?$k
+$Wsusername|$Wa$E苦,汗|!!!$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_8|Bak işte. Dikkat edince boğazının
+kötü olduğunu fark ettin.$k$pAynen öyle. Az önceki savaşta
+nefesin tuhaftı.$k$p$E笑|Ha ha, benim kadar tecrübeli olunca
+bunları fark ediyorsun.$k$pSağlığıma dikkat ederim. Paralı
+askerin sermayesi bedenidir.$k
+$Wsusername|$Wa$E通常|……？$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Genelde gargara yaparım, ellerimi
+yıkar, sıcak tutarım.$k$pTemel olan bu üçü.$k
+$Wsusername|$Wa$E笑|……？$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_2|Püf noktası mı? Var aslında.
+Ama sadece erkeklerin yapacağı türden.$k$pSen de erkeksin.
+İstersen...$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Bir de yan yana uyumak diye
+gizli bir yöntem var.$k
+$Wsusername|$Wa$E苦,汗|……！？$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_14|Ha ha, çekinme.
+İstersen her zaman...$k
+$Wsusername|$Wa$E怒|……！$k
+$Sbs1000|"
+7,MID_支援_グレゴ_プレイヤー男_Ｂ_PCM3,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_1|おう、$Nu。
+具合良くなったみてえだな。$k
+$Wsusername|$Wa$E笑,|……！$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_5|熱に浮かされて
+おかしな夢は見なかったか？$k
+$Wsusername|$Wa$E苦,照|……$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_6|なーんだよ、なに赤くなってんだ？
+俺と添い寝する夢でも見たか？$k
+$Wsusername|$Wa$E通常,汗|…………$k$p$E苦,汗|………！$k
+$Wsグレゴ|$Wa$Eキメ,|$SvpSE_VOICE_GREGO_EVT_9|へぇー、添い寝する夢は見てないけど
+俺に膝枕される悪夢を見たって？$k$pあー、なるほどねぇ。それで俺の顔見て
+胸がときめいちまってるわけだ。$k
+$Wsusername|$Wa$E怒,照|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|そう怒んなって。夢から始まる恋があっても
+いいと思うがねぇ、俺は。$k
+$Wsusername|$Wa$E苦,照汗|～～～～～！$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|ははは、背中に悪寒が走っただって？
+ただの冗談だよ、冗談…って、$k$p$E通常,|？　おい、$Nu。
+ちょっと目を見せてみろ。$k
+$Wsusername|$Wa$E怒,照|………！！$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_12|いいから黙って見せろ！$k
+$Wsusername|$Wa$E通常,|……！！$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|この充血の仕方…背中の悪寒…。
+あんた、最近虫に刺されたことは…？$k
+$Wsusername|$Wa…………$k$p$E苦,汗|……！！$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_11|あ？　心当たりがあるって？
+こいつはもしかすると…$k$p…質の悪い病原体を運ぶやつに
+刺されちまったかもしれねぇな。$k$p行くぞ。早めに処置しとかねぇと
+下手すりゃ命にかかわる。$k
+$Wsusername|$Wa$E苦,汗|！！！！！$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_1|$Nu, daha iyi görünüyorsun.$k
+$Wsusername|$Wa$E笑|……！$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_5|Ateşler içinde tuhaf rüyalar görmedin
+ya?$k
+$Wsusername|$Wa$E苦,照|……$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_6|Ne o, niye kızardın?
+Benimle yattığını mı gördün?$k
+$Wsusername|$Wa$E通常,汗|…………$k$p$E苦,汗|………！$k
+$Wsグレゴ|$Wa$Eキメ|$SvpSE_VOICE_GREGO_EVT_9|Yan yana değilmişiz de
+dizimde yatmışsın, öyle mi?$k$pHaa, demek yüzümü görünce
+kalbin o yüzden çarpıyor.$k
+$Wsusername|$Wa$E怒,照|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_8|Kızma. Rüyada başlayan bir aşkın
+zararı yok.$k
+$Wsusername|$Wa$E苦,照汗|～～～～～！$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Ha ha, sırtından ürperti mi geçti?
+Şaka yaptım sadece... Ama dur,$k$p$E通常|$Nu ile
+birlikte.$k
+$Wsusername|$Wa$E怒,照|………！！$k
+$Wsグレゴ|$Wa$E怒|$SvpSE_VOICE_GREGO_EVT_12|Kes sesini de göster!$k
+$Wsusername|$Wa$E通常|……！！$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Bu göz kızarıklığı... sırt ürpertisi...
+Son zamanlarda böcek ısırdı mı?$k
+$Wsusername|$Wa…………$k$p$E苦,汗|……！！$k
+$Wsグレゴ|$Wa$E苦,汗|$SvpSE_VOICE_GREGO_EVT_11|Ha? Bir şey hatırladın mı?
+O zaman bu...$k$p...Belki de kötü bir hastalık taşıyan
+bir şey ısırmıştır.$k$pHadi. Erken müdahale etmezsek
+canına bile mal olabilir.$k
+$Wsusername|$Wa$E苦,汗|!!!$k
+$Sbs1000|"
+8,MID_支援_グレゴ_プレイヤー男_Ａ_PCM3,,,,,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_1|$Nu。
+その後の経過はどうだ？$k
+$Wsusername|$Wa$E笑,|……！$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|たまには年長者の言うことを
+素直に聞いてみろってこった。$k$p$E通常,|あんたは非凡なもんを持ってるが、
+まーだまだ足りねぇことも多い。$k$p学べることは年長者から大いに学べ。
+せめて青い果実が熟すまで、ってな。$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|別に謝ることはねーよ。
+そーれはかまわねぇんだが…$k
+$Wsusername|$Wa$E通常,|……？$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|俺に膝枕されたっつー悪夢は
+もう見なくなったのか？$k$pん？　あれ以来見てねぇのか。
+そいつは残念だな…$k
+$Wsusername|$Wa？$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|いやー、まだ夢に俺が出続けるようなら
+そろそろ出演料でも頂こうかと思ってな！$k
+$Wsusername|$Wa$E怒,|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|ははっ、もう俺の夢は見ねぇって？
+そりゃー残念だ。$k$p$E通常,|ま、もうそんな悪夢を見ねぇように
+体調には気をつけるこったな。$k$pもし倒れたりしたら、
+現実での俺の膝枕が待ってるぜー？$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|はっはっは！！　その意気だ！$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmusername|7$w0|$Wsusername|$Wa$Wmグレゴ|3$w0|$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_1|$Nu. İyileşme nasıl?$k
+$Wsusername|$Wa$E笑|……！$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Arada bir büyüğünün sözünü
+dinle.$k$p$E通常|Sende sıra dışı bir yetenek var
+ama hâlâ çok eksiğin var.$k$pÖğrenebildiğini büyüklerinden öğren.
+Ham meyve olgunlaşana kadar.$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_7|Özür dilemene gerek yok.
+O kısmı dert etmiyorum da...$k
+$Wsusername|$Wa$E通常|……？$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_11|Dizimde yattığın o kâbusu
+artık görmüyor musun?$k$pHm? O zamandan beri görmedin mi?
+Yazık olmuş...$k
+$Wsusername|$Wa？$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Rüyanda görünmeye devam edersem
+yakında ücret isteyeceğim!$k
+$Wsusername|$Wa$E怒|……！$k
+$Wsグレゴ|$Wa$SvpSE_VOICE_GREGO_EVT_3|Ha ha! Artık beni rüyanda
+görmeyecek misin? Yazık.$k$p$E通常|O kâbusu bir daha görmemek için
+sağlığına dikkat et.$k$pYine bayılırsan bu kez gerçekten
+dizimde yatarsın, haberin olsun!$k
+$Wsusername|$Wa$E苦,汗|……！$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Ha ha ha! İşte bu!$k
+$Sbs1000|"

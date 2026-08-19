@@ -1,0 +1,975 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_フレデリク_マリアベル_Ｃ,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Hmm...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, Maribelle. Comment allez-vous ?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Bien, merci Frederick.
+Je voulais justement vous parler.$k$pEst-ce vrai ce que l'on raconte ?
+Vous êtes un majordome professionnel ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Un majordome ? Grand dieu, non.
+Je ne connais rien à ce métier.$k$pJe suis un chevalier, Madame.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh ? Ce n'est pas ce que j'ai entendu...
+Mais vous savez, les rumeurs...$k$pEuh... Que faites-vous ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Je prépare les habits de la princesse
+Lissa pour demain.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|Cela ressemble beaucoup à ce que ferait
+un majordome.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Probablement. Mais je ne fais cela que si
+j'ai du temps de libre entre les batailles.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|Et que ferez-vous après avoir fini de lui
+préparer ses vêtements ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|J'irai voir en cuisine où en est le dîner et
+choisirai le menu pour demain.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|Mais vous ÊTES un majordome, en fait !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|Madame, certains de mes devoirs peuvent
+sembler être ceux d'un majordome, mais...$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_18|J'ai passé ma vie chez les nobles et, à n'en
+pas douter, vous êtes un majordome !$k$pServir le thé ? Nettoyer l'argenterie ? Faire
+les poussières ? Clairement, vous êtes...$k
+$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$WvJE NE SUIS PAS UN MAJORDOME !$k$pJ'aime juste que les choses soient propres
+et en ordre.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_5|Eh bien, vous êtes très compétent.$k$pVous voudriez peut-être venir à mon
+manoir pour former mon personnel ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Madame, je ne crois pas...$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|Honnêtement, il devient impossible de
+trouver du personnel qualifié de nos jours !$k$pEt notre majordome est si vieux qu'il ne
+peut plus travailler tous les jours...$k$pNous ne voulons évidemment pas l'épuiser
+jusqu'à le tuer. Imaginez le scandale !$k$pMais une maison doit être entretenue, et
+que ferons-nous lorsqu'il cassera sa pipe ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Votre empathie est sans borne.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_6|Nous devrons bien un jour le laisser partir
+en retraite, et lorsqu'il sera parti...$k$pVous me rendriez un grand service si vous
+pouviez former notre personnel.$k$pJe suis sûre qu'ils pourraient énormément
+apprendre de vous !$k$pCe serait juste le temps que nous lui
+trouvions un remplaçant, bien sûr.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Madame, pour la dernière fois, je suis un
+chevalier ! Je ne suis pas et n'ai jamais...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_11|D'accord ! Alors montrez-leur juste ce que
+vous faites ici !$k$pVous apprenez aux recrues à se battre ?
+Eh bien là, le combat serait contre la saleté.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Certes, je suis chargé de l'instruction des
+jeunes Veilleurs...$k$p$E通常,|Mais ils savent presque tous déjà se battre.
+Je leur prodigue surtout des conseils.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh, bon sang ! Vous ne pourriez pas rendre
+les choses plus compliquées, encore ?!$k$pBon, dans ce cas, formez-MOI et je LES
+formerai !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Vous... former, Madame ?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Oui, formez-moi à toutes ces tâches
+ménagères.$k$pEt lorsque j'aurai appris vos secrets, je
+m'occuperai moi-même du manoir !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Eh bien, je crois que c'est envisageable...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Hmm...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, Maribelle. Wie ist Euer Befinden?
+Ich hoffe, es geht Euch gut?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Ja, danke, Frederick. Gut, dass Ihr hier
+seid. Ich muss mit Euch reden.$k$pStimmt es, was man hört? Seid Ihr ein
+ausgebildeter Hausdiener?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Ein Diener? Meine Güte, nein! Mit solcher
+Arbeit kenne ich mich überhaupt nicht aus.$k$pIch bin ein Ritter, meine Dame.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh? Ich habe anderslautende Gerüchte
+gehört. Aber Ihr wisst ja, wie das ist...$k$pÄh, was tut Ihr eigentlich hier?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Ich lege die Kleidung für Prinzessin
+Lissa für morgen zurecht.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|...Das scheint mir etwas zu sein, was
+ein Hausdiener tun würde.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Das mag sein. Aber ich tue das nur, wenn
+ich nach dem... Töten und so Zeit habe.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|Und was werdet Ihr tun, wenn Ihr mit
+diesen Kleidern fertig seid?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Ich überprüfe die Vorbereitungen für das
+Abendessen und erstelle das morgige Menü.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|Ihr SEID ein Hausdiener!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|Gute Dame, obwohl einige meiner Pflichten
+denen eines Dieners ähneln, versichere ich--$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_18|Ich bin in Adelshäusern aufgewachsen.
+Ihr, mein Herr, SEID ein Diener!$k$pTee servieren? Porzellan abstauben? Das
+gute Silber polieren? Ihr seid ganz sicher--$k
+$Wsフレデリク|$Wa$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$p$WvICH BIN KEIN DIENER!$k$p...Ich mag es einfach, wenn alles schön
+geordnet und sauber ist.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_5|Nun, Ihr seid zumindest sehr fähig
+darin, dies sicherzustellen.$k$pWürdet Ihr also vielleicht in mein Landgut
+kommen und meine Dienerschaft ausbilden?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Meine Dame, ich denke nicht, dass--$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|Ehrlich gesagt ist es heutzutage unheimlich
+schwer, gutes Personal zu finden.$k$pUnser Hausdiener ist sehr alt und liegt
+ständig mit der Gicht darnieder.$k$pWir wollen den alten Mann sicher nicht zu
+Tode arbeiten. Das wäre skandalös!$k$pAber ein Haushalt will geführt werden!
+Was sollen wir tun, wenn er uns wegstirbt?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|...Euer Mitgefühl ist geradezu rührend.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_6|In Kürze müssen wir unserem alten
+Hausdiener wohl das Gnadenbrot gewähren.$k$pIn der Zwischenzeit wäre es sehr freundlich
+von Euch, wenn Ihr einspringen könntet.$k$pIch bin mir sicher, Ihr könntet unserer
+Dienerschaft eine Menge beibringen!$k$p...Natürlich würdet Ihr nur bleiben müssen,
+bis wir einen neuen Hausdiener finden.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Meine Dame, zum letzten Mal! Ich bin ein
+Ritter. Kein Diener! Das werde ich nie sein!$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_11|Gut! Dann zeigt ihnen einfach, wie man
+aufräumt und was Ihr sonst hier so tut.$k$pIhr lehrt unsere Rekruten, wie man kämpft.
+Dies ist dasselbe, nur bekämpft man Dreck!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Nun, es ist wahr, dass ich die jungen Hirten
+bei der Ausbildung unterstütze...$k$p$E通常,|Aber sie sind die Besten des Reiches und
+ich diene ihnen mehr als Berater.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Bei den Göttern! Ihr macht es mir
+WIRKLICH nicht leicht!$k$pNun gut! Dann bildet MICH aus, damit
+ich SIE ausbilden kann. In Ordnung?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Euch... ausbilden, meine Dame?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Auch ich gehöre zu den Besten! Also bildet
+mich gefälligst im Dienen aus!$k$pWenn ich Eure Kunst beherrsche, kann
+ich unseren Landsitz selbst aufräumen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Nun, ich denke, das ist akzeptabel...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Uhm...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, Maribelle. State bene?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Sì, grazie, Frederick. Mi fa piacere che
+siate qui, volevo giusto parlarvi.$k$pÈ vero quello che dicono di voi? Avete
+ricevuto un'educazione da maggiordomo?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Maggiordomo? Cielo, no. Non saprei da
+dove cominciare con un lavoro simile.$k$pIo sono un cavaliere, mia signora.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh? Avevo sentito diversamente. Suppongo
+che siano solo illazioni infondate...$k$pEhi, cosa state facendo?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Sto stendendo gli abiti della principessa
+Lissa, affinché siano asciutti domani.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|Sembra proprio il tipo di mansione
+adatta alla servitù.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Sembra di sì, ma lo faccio solo nei ritagli
+di tempo libero tra battaglie e uccisioni.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|E cosa farete dopo avere
+messo fuori il bucato?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Mi dedicherò ai preparativi per la cena e
+all'organizzazione dei pasti di domani.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|Voi SIETE un maggiordomo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|Mia signora, alcune delle mie mansioni
+ricordano la servitù, ma vi assicuro-$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_18|Ho trascorso tutta la mia vita in residenze
+nobiliari e voi, signore, siete un servitore!$k$pServire il tè? Lucidare l'argenteria?
+Siete senza dubbio un-$k
+$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$WvNON SONO UN SERVITORE!$k$pSemplicemente amo ordine e pulizia.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_5|Beh, sembrate comunque molto portato.$k$pPertanto, potreste di grazia visitare il
+mio castello e istruire la mia servitù?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Mia signora, non credo che-$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|Francamente è un'impresa ardua trovare
+del personale qualificato oggigiorno!$k$pIl nostro maggiordomo è così vecchio
+da non riuscire a lavorare con costanza.$k$pOra, non vorremo affaticare a morte quel
+pover'uomo, immaginate lo scandalo!$k$pMa una casa non si gestisce da sola e
+cosa faremo quando lui tirerà le cuoia?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|La vostra sensibilità è commovente.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_6|Prima o poi dovremo pur consentire
+al vecchio servitore di ritirarsi.$k$pLo considererei come un favore personale
+se voi poteste istruire i nostri sottoposti.$k$pSono sicura ci siano così tante cose
+che potreste insegnare loro!$k$pAlmeno fino al momento in cui saremo
+in grado di trovare un degno sostituto.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Mia signora, lo ripeto, io sono un cavaliere!
+Non sono, non sono stato, né mai sarò un-$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_11|Magnifico! Allora mostrategli soltanto come
+mettere in ordine, quello che già fate qui!$k$pSapete già istruire le reclute alla guerra...
+Sarà una guerra contro il sudiciume.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Beh, sì, certamente so come istruire
+i Pastori più giovani...$k$p$E通常,|Ma si tratta delle menti più brillanti del
+reame, e mi limito a dare consigli.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh, santi numi. Sembra si tratti
+di una missione impossibile!$k$pD'accordo allora. Perché non istruite ME
+affinché io possa insegnare a LORO?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Istruire... voi, mia signora?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Esatto. Anch'io ho una mente brillante!
+Insegnatemi a essere ordinata.$k$pE una volta carpiti tutti i vostri segreti,
+riuscirò a gestire la magione da sola!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Beh, credo si possa fare...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Mmm...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, muy buenas, Maribelle.
+Espero que os encontréis bien.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Sí, gracias Frederick. Me alegro de que
+estéis aquí. Quiero hablar con vos.$k$p¿Es cierto lo que dicen? ¿Habéis recibido
+formación como senescal?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|¿Como senescal? Cielos, no. No sabría
+cómo hacer ese tipo de trabajo...$k$pSoy caballero, mi señora.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Ah, ¿sí? Eso no es lo que he escuchado. En
+fin, supongo que solo era un rumor...$k$pEeeh... ¿Qué estáis haciendo?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Estoy preparando los trajes que va
+a vestir la princesa Lissa mañana.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|Esa tarea parece típica de
+un... senescal, ¿no es así?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Quizá, pero solo la hago si tengo tiempo
+después de... matar enemigos y demás.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|¿Y qué haréis cuando estos trajes
+estén listos y bien dispuestos?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Veré cómo marchan los preparativos para
+la cena y elaboraré el menú de mañana.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|¡Sí que sois un senescal!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|Mi buena señora, algunas de mis tareas son
+propias de un senescal, pero os aseguro...$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_18|¡Me he criado entre la nobleza, mi señor,
+y vos sois un senescal!$k$p¿Servir el té? ¿Limpiar el polvo? ¿Pulir los
+cubiertos de plata? No hay duda de que...$k
+$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$Wv¡NO SOY NINGÚN SENESCAL!$k$pEjem... Me gusta que todo esté limpio y
+ordenado, nada más y nada menos.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_5|Bueno, pues se os da extremadamente
+bien.$k$pTal vez podríais venir a mi mansión para
+instruir al servicio. ¿Qué os parece?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|¿Instruir al...? ¡Mi señora,
+no creo que...!$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|¡Es que resulta asaz difícil conseguir
+un servicio decente estos días!$k$pNuestro senescal es muy viejo ya y está de
+baja por la gota un día sí y otro también.$k$pY no queremos que el pobre hombre muera
+de extenuación. ¡Sería un escándalo!$k$pPero una mansión no se cuida sola. ¿Qué
+haremos cuando estire la pata?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|Vuestra compasión resulta
+sobrecogedora.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_6|Sí, cuando llegue la hora, tendremos que
+jubilar a nuestro viejo senescal.$k$pPero lo consideraría un favor personal si
+vos formarais al personal más joven.$k$p¡Estoy segura de que podríais enseñarles
+infinidad de cosas!$k$pY solo sería hasta que encontráramos otro
+senescal, por supuesto.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Por supuest... ¡No!$k$pMi señora, no lo repetiré: ¡soy caballero!
+No soy, ni he sido jamás, un senes...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_11|¡Es igual! ¡Solo debéis enseñarles a ordenar
+las cosas! O lo que sea que hacéis aquí...$k$pEntrenáis a los nuevos, ¿no? Esto es algo...
+similar, con la suciedad por enemigo.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Bueno, sí, es cierto que colaboro en la
+instrucción de los nuevos reclutas...$k$p$E通常,|pero esos soldados son los mejores del
+reino; solo me limito a darles consejos.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Por todos los dioses... Sí que me
+lo estáis poniendo difícil...$k$pMuy bien. ¿Por qué no me enseñas a mí
+para que yo pueda enseñarles a ellos.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|¿Enseñaros a vos,
+mi señora?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|¡Yo también soy de lo mejor del reino! Así
+que sí, deberéis enseñarme a ser ordenada.$k$pCuando conozca vuestros secretos, ¡podré
+poner orden en mi mansión por mi cuenta!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Bien, supongo que eso podría considerarse
+un poco más... aceptable.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Hmm...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, Maribelle. I hope you are well.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Yes, thank you, Frederick. It's good that
+you're here; I wanted to talk to you.$k$pIs it true what they say? That you're
+a professionally trained steward?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|A steward? Gracious, no. I wouldn't
+have a clue about such work.$k$pI am a knight, milady.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh? That's not what I heard. But I
+suppose rumours have a way of...$k$pEr, what are you doing?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|I am laying out Princess Lissa's
+garments for the morrow.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|...That seems like something a
+steward might do.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|I suppose. But, I only do so if I have
+spare time after...killing and such.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|And what will you do after you
+finish laying out these garments?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|I shall check on the dinner preparations
+and then plan tomorrow's menu.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|You ARE a steward!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|My good lady, while some of my duties may
+resemble those of a steward, I assure you―$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_18|I have spent a lifetime in noble houses,
+and you, sir, are a steward!$k$pServing tea? Dusting china? Polishing the
+good silver? You are most definitely a―$k
+$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$WvI AM NOT A STEWARD!$k$p...I just like things to be neat and tidy.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_5|Well, you're terribly good at it.$k$pSo perhaps you would come to
+my manor and instruct my staff?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Milady, I don't think―$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|Frankly, it's impossible to get good help
+these days!$k$pOur head steward is so old, and he's off
+with the gout nearly every other day.$k$pNow, we don't want to work the poor man
+to death―just think of the scandal!$k$pBut a house can't maintain itself, and what
+will we do when he kicks the bucket?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|...Your sympathy is touching.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_6|Eventually yes, we'll have to put our poor
+old steward out to pasture.$k$pBut I would consider it a personal favour
+if you trained our young staff in the interim.$k$pI'm sure there are so many things you
+could teach them!$k$p...This is just until we have a new man
+in place, of course.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Milady, for the last time, I am a knight!
+I am not, nor have I ever been, a ste―$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_11|Fine! Then just show them how to tidy up
+or whatever it is you do around here!$k$pYou teach recruits how to fight, yes?
+This is the same, except you fight filth.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Well, yes. It's true that I help instruct the
+younger Shepherds...$k$p$E通常,|But they are the best and brightest of the
+realm, and I merely offer advice.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Oh, good heavens. You couldn't POSSIBLY
+make this any more complicated!$k$pFine then. Why don't YOU teach ME
+so I can teach THEM?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Teach...you, milady?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|I'm nothing if not best and bright! So, yes.
+You shall teach me tidiness.$k$pAnd once I've learned your secrets, I can
+put our manor back to order myself!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Well, I suppose that is acceptable...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_4|Hmm...$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_13|Ah, Maribelle. Umarım iyisindir.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_12|Evet, teşekkürler Frederick. Burada
+olman iyi; Seninle konuşmak istedim.$k$pSöyledikleri doğru mu? Profesyonel
+eğitimli bir kâhya mısınız?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Bir kâhya mı? Tanrım, hayır. Böyle bir
+çalışma hakkında hiçbir fikrim olmazdı.$k$pBen bir şövalyeyim leydim.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Ah? Benim duyduğum bu değildi. Ama
+sanırım söylentilerin bir yolu var...$k$pEee, ne yapıyorsun?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Yarın için Prenses Lissa'nın
+elbiselerini hazırlıyorum.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_6|...Bu bir kahyanın yapabileceği
+bir şeye benziyor.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|Sanırım. Ama bunu ancak cinayetten
+sonra boş zamanım olursa yaparım.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|Peki bu giysileri yerleştirmeyi
+bitirdikten sonra ne yapacaksınız?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Akşam yemeği hazırlıklarını kontrol edip
+yarının menüsünü planlayacağım.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_2|Sen bir kâhyasın!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_12|Leydim, bazı görevlerim kahyanınkine
+benzese de sizi temin ederim ki―$k
+$Wsマリアベル|$Wa$Eキメ|$SvpSE_VOICE_MARIABELL_EVT_18|Ömrümü asil ailelerin konaklarında
+geçirdim; siz bir kahyasınız!$k$pÇay servis etmek? Çinilerin tozunu almak?
+Gümüşü parlatmak? Sen kesinlikle bir―$k
+$Wsフレデリク|$Wa$SvjSE_VOICE_FREDERIK_EVT_6|$SveSE_VOICE_FREDERIK_EVT_22|$WvBEN KÂHYA DEĞİLİM!$k$p...her şeyin temiz ve düzenli olmasını
+seviyorum.$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_5|Sen bu işte çok iyisin.$k$pO hâlde malikaneme gelip çalışanlarıma
+eğitim verir misiniz?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|Leydim, sanmıyorum...$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_9|Açıkçası bu günlerde iyi bir yardım
+almak imkânsız!$k$pBaş kâhyamız çok yaşlı ve neredeyse
+her gün gut hastalığına yakalanıyor.$k$pZavallı adamı ölesiye çalıştırmak
+istemiyoruz; skandalı bir düşünün!$k$pAma bir ev kendi kendine ayakta duramaz
+ve o ölünce ne yapacağız?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|...sempatiniz çok dokunaklı.$k
+$Wsマリアベル|$Wa$Eキメ|$SvpSE_VOICE_MARIABELL_EVT_6|Eninde sonunda evet, zavallı yaşlı kahyamızı
+meraya göndermek zorunda kalacağız.$k$pAma bu arada genç kadromuzu eğitirseniz
+bunu kişisel bir iyilik olarak görürüm.$k$pEminim onlara öğretebileceğiniz o kadar
+çok şey vardır ki!$k$p...tabii ki aramıza yeni bir
+adam gelene kadar.$k
+$Wsフレデリク|$Wa$E苦,汗|$SvpSE_VOICE_FREDERIK_EVT_3|Leydim, son kez: Ben şövalyeyim!
+Kâhya değilim, hiç olmadım!$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_11|Güzel! O zaman onlara toparlamayı ya
+da burada ne yapıyorsan onu göster!$k$pAcemilere dövüş öğretiyorsun, değil
+mi? Aynısı, yalnız düşmanın pislik.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|Evet, evet. Genç Çobanlara eğitim vermeye
+yardım ettiğim doğru...$k$p$E通常|Ama onlar diyarın en iyileri ve en parlakları
+ve ben sadece tavsiyelerde bulunuyorum.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_13|Aman tanrım. Bunu daha da karmaşık hâle
+getiremezdin herhâlde!$k$pPeki öyleyse. Neden BANA öğretmiyorsun ki
+ben de ONLARA öğretebileyim?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|Öğretmek mi istiyorsunuz leydim?$k
+$Wsマリアベル|$Wa$E笑|$SvpSE_VOICE_MARIABELL_EVT_5|Ben en iyisi ve en zekisiyim! Evet.
+Bana düzeni öğreteceksin.$k$pVe sırlarınızı öğrendikten sonra
+malikanemizi yeniden düzene sokabilirim!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_25|Eh, sanırım bu kabul edilebilir...$k
+$Sbs1000|"
+1,MID_支援_フレデリク_マリアベル_Ｂ,"$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Ahem... Madame ? Maribelle ?
+Il est l'heure de se réveiller.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_4|Euuuuuuaaaah... Déjà ?$k$p$E怒,|Mais... ! Où est le soleil ?
+On n'y voit rien dehors !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|La journée d'un majordome commence
+avant l'aurore.$k$pEt à moins d'avoir mal compris, vous vouliez
+étudier le travail d'un majordome, non ?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|Euh, oui. C'est ce que j'ai dit, non ?
+Enfin, je crois...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Bien. Nous commencerons donc par les
+tâches matinales.$k$pUn majordome doit préparer le thé pour
+ses seigneurs avant leur réveil.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|*bâillement* Mais je suis SIIIIIIII fatiguée...$k$p$E通常,|Mais je devrais arriver à faire bouillir de...$k$p$E苦,汗|Oh, nom d'un... ! Cette bouilloire stupide
+s'est renversée !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Faites-en donc bouillir à nouveau.
+Mais cette fois, faites attention.$k$pEt puisque vous venez de gâcher le thé de
+votre maître, que devez-vous dire ?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_17|Je vous en prie, c'est ridicule...$k$p... Bon, d'accord ! Désolée d'avoir renversé
+le thé, blablabla...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|C'EST INACCEPTABLE !$k$pMaintenant, réessayez mais en y mettant
+plus de conviction.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|*grommellement*$k$pSeigneur Frederick, je vous prie d'excuser
+ma maladresse ! Cela n'arrivera plus !$k$pCar la prochaine fois, c'est sur votre tête
+que je renverserai la bouilloire...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|J'ose espérer que vos grommellements
+étaient aussi en règles.$k$pNous allons maintenant nous occuper de
+l'argenterie. Vous, polissez les cuillères.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|Mais il me prend pour qui, à me faire polir
+des couverts ? Je suis une DAME !$k$pJe devrais lui polir sa lance avant de la
+lui mettre dans le...$k$p$Eキメ,|Oh ! Vous voilà, Monseigneur ! J'ai fini !
+Cet éclat convient-il à Monseigneur ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|...$k$pC'EST INACCEPTABLE !$k$pJe veux pouvoir me voir dans ces cuillères !
+Recommencez !$k
+$Wsマリアベル|$Wa$Eキーッ,|$SvpSE_VOICE_MARIABELL_EVT_28|GRRRRRRRRR !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Räusper... Maribelle? Meine Dame?
+Es ist Morgen. Zeit aufzustehen.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_4|Hnnngh... Sch-schon? So früh?$k$p$E怒,|Moment mal! Wo ist die Sonne?!?
+Es ist noch stockdunkel draußen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Das Tagwerk eines Dieners beginnt vor
+Sonnenaufgang, meine Dame.$k$pUnd wenn ich mich nicht irre, wolltet Ihr
+die Kunst des Dienens erlernen.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|Urks, ja. Das habe ich wohl gesagt, nicht
+wahr? Das glaube ich zumindest...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Gut. Dann lasst uns mit unseren
+morgendlichen Pflichten beginnen.$k$pEin Diener bereitet den Tee für seinen
+Herren vor, bevor dieser erwacht.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|GÄÄÄHN... Ich bin aber so müde!$k$p$E通常,|Na ja, eine Kanne Tee werde ich wohl
+noch kochen könn--$k$p$E苦,汗|Verflucht noch eins! Die bescheuerte
+Teekanne ist umgefallen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Dann kocht bitte erneut Wasser auf.
+Seid diesmal aber vorsichtiger.$k$pNun, da Ihr eine Kanne des besten
+Tees Eures Herren vergeudet habt...$k$pWas müsst Ihr da sagen?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_17|Wirklich?!? Das ist doch...$k$pOh, na gut! Tut mir leid wegen des blöden
+Tees! Blablabla! Wie auch immer!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|INAKZEPTABEL!$k$p...Noch mal, und diesmal will ich hören,
+dass Ihr es auch so meint!$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Grummel... Brummel...$k$pOh, Herr Frederick! Bitte vergebt mir mein
+Missgeschick! Es kommt nicht wieder vor!$k$p...Beim nächsten Mal kippe ich den heißen
+Tee nämlich gleich über Euren Schädel!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Ich gehe davon aus, dass Euer Gemurmel
+keinerlei Unhöflichkeiten enthielt.$k$pNun denn! Auf zum Silberbesteck!
+Heute kümmert Ihr Euch um die Löffel.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|...Für wen hält der sich, dass er mich Löffel
+polieren lässt? Ich bin eine feine DAME!$k$pIch sollte seine Lanze polieren und sie
+ihm in seinen verdammten--$k$p$Eキメ,|Hier, bitte, mein Herr! Ich bin fertig, mein
+Herr! Erfreut Euch der Glanz, mein Herr?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|...$k$pINAKZEPTABEL!$k$pIch will mein Spiegelbild darin erkennen!
+...Fangt von vorn an.$k
+$Wsマリアベル|$Wa$Eキーッ,|$SvpSE_VOICE_MARIABELL_EVT_28|GRRRRRRRRR!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Aehm! Maribelle? Mia signora?
+È mattina. Ora di alzarsi.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_4|Mmmh... M-Mattina? Di già?$k$p$E怒,|Un momento! Dov'è il sole?
+È notte fonda lì fuori!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Un buon servitore si alza prima dell'alba.$k$pE se non vado errato, il vostro desiderio era
+quello di apprendere l'arte della servitù.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|Argh, sì, era proprio quello il mio desiderio.
+L'ho detto io stessa... Credo.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Bene. Allora diamoci da fare e cominciamo
+con le nostre mansioni mattutine.$k$pUn buon servitore deve preparare
+il tè prima che i signori si sveglino.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|YAAAWN. Sono TAAANTO stanca...$k$p$E通常,|Ma credo di riuscire a bollire un po' di a-$k$p$E苦,汗|Oh, quello stupido pentolino è caduto!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Allora mettete l'acqua sul fuoco di nuovo.
+Questa volta prestando più attenzione.$k$pOra, cosa si dice dopo aver sprecato
+il pregiato tè del vostro padrone?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_17|Su, andiamo! Non direte sul serio...$k$pOh, d'accordo. Mi dispiace aver fatto
+cadere lo stupido tè, bla, bla, bla...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|INACCETTABILE!$k$pAvanti, un po' d'impegno.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Grrr!!!$k$pOh, mio stimato signore, perdonate la
+mia goffaggine! Non succederà più!$k$p(Anche perché la prossima volta lo verserò
+sulla vostra zucca vuota...)$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Così va meglio, eccezione fatta per
+quel continuo borbottio sottovoce.$k$pAdesso dobbiamo occuparci dell'argenteria.
+Oggi siete responsabile dei cucchiaini.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|(Chi si crede di essere a farmi lucidare
+le posate. Sono una SIGNORA io!)$k$p(Dovrei piuttosto lucidare quella sua
+lancia e dargli un colpo in testa...)$k$p$Eキメ,|Ecco, mio signore! Ho finito, mio signore!
+La brillantezza vi soddisfa, mio signore?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|...$k$pINACCETTABILE!$k$pVoglio vedermi riflesso su quelle posate.
+Cominciate daccapo.$k
+$Wsマリアベル|$Wa$Eキーッ,|$SvpSE_VOICE_MARIABELL_EVT_28|GRRR!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|¡Ejem!... Maribelle... Mi señora...
+Ya es de día. Hora de levantarse.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_4|Gñññaah... ¿D-de día? ¿YA?$k$p$E怒,|¡Espera! ¡¿Dónde está el Sol?! Ahí fuera
+aún está oscuro como boca de lobo.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|El día de un senescal empieza antes
+del amanecer.$k$pY, según tengo entendido, dejasteis claro
+que queríais aprender este... arte.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|¿Arte? Eeeh... Sí, claro que lo dije,
+¿verdad? Al menos, eso creo...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Bien. Pongámonos cuanto antes con
+las tareas matutinas.$k$pUn senescal debe preparar el té para sus
+señores antes de que se despierten.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|¡OOOAAAAAH!... Estoy TAAAN
+cansada...$k$p$E通常,|Mmm... Supongo que puedo hervir
+un poco de...$k$p$E苦,汗|¡Oh, rayos! ¡He tirado la dichosa
+tetera!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Pues volved a hervir el agua, pero esta
+vez, hacedlo con cuidado.$k$pHabéis malgastado una tetera con el mejor
+té de vuestro señor. ¿Qué debéis decir?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_17|¿Lo decís en serio? Simplemente estamos...$k$p¡Oh, está bien! Siento mucho haber tirado
+vuestro estúpido té y bla, bla, bla...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|¡INADMISIBLE! Ahora, volved a intentarlo.
+Y ponedle un poco de sentimiento...$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|(...)$k$p¡Oh, Frederick, mi estimado señor, disculpad
+mi torpeza! ¡No volverá a ocurrir!$k$pPorque la próxima vez me encargaré de que
+se derrame sobre vuestra estúpida cabeza.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|¡Daré por sentado que no decíais nada
+inapropiado mientras mascullabais!$k$pBien. Ahora prepararemos la cubertería.
+Hoy estaréis al cargo de las cucharas.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|¿Pulir la cubertería? ¿Cucharas? ¿Quién
+se cree que es? ¿O soy? ¡Soy una DAMA!$k$pDebería pulir esa lanza que lleva y
+ensartársela por el...$k$p$Eキメ,|¡Aquí tenéis, mi señor! ¡Todo listo, mi
+señor! ¿El pulido satisface a mi señor?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|(...)$k$p¡INADMISIBLE!$k$pQuiero verme reflejado en la superficie...
+Volved a empezar.$k
+$Wsマリアベル|$Wa$Eキーッ,|$SvpSE_VOICE_MARIABELL_EVT_28|¡GRRRRRRRRR!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_9|Ahem! Maribelle? Milady?
+It's morning. Time to wake up.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_4|Unnngh...m-morning? Already?$k$p$E怒,|Wait one second! Where's the sun?!
+It's pitch black outside!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|A steward's day begins before dawn.$k$pAnd unless I am mistaken, you expressed a
+desire to study the arts of stewardship.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|Ugh, yes, I did say that, didn't I?
+At least, I think I did...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Good. Then let us begin with our morning
+duties.$k$pA steward must prepare tea for the lords
+and ladies before they wake.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|*YAAAAAAWN* I'm SOOO tired...$k$p$E通常,|But I suppose I can manage to boil a―$k$p$E苦,汗|Oh, blast! The stupid kettle fell over!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Then please boil the water again.
+And this time, do so carefully.$k$pNow, as you have wasted a pot of your
+master's finest tea, what do you say?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_17|Really, now! This is simply...$k$pOh, all right! I'm sorry for spilling the
+stupid tea and blah blah whatever.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|UNACCEPTABLE!$k$p...Now then. Try it again,
+this time like you mean it.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|*grumble, grumble*$k$pOh, dearest Lord Frederick, please forgive
+my clumsiness! It shall never happen again!$k$p(...Because next time I'll spill it on your
+stupid head.)$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|I shall assume your mumbling was all
+above board.$k$pNow then! We must prepare the silverware.
+Today you are in charge of spoons.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|...Who does he think he is, making me polish
+cutlery? I'm a LADY!$k$pI ought to polish that lance of his and
+cram it up his...$k$p$Eキメ,|Here you are, milord! All done, milord!
+Does the shininess please milord?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|...$k$pUNACCEPTABLE!$k$pI want to see my reflection on
+the surface... Start again.$k
+$Wsマリアベル|$Wa$Eキーッ,|$SvpSE_VOICE_MARIABELL_EVT_28|GRRRRRRRRR!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_TENNEN1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_9|Öhöm! Maribelle mi?
+Leydim? Sabah oldu. Uyanma zamanı.$k
+$Wsマリアベル|$Wa$E笑|$SvpSE_VOICE_MARIABELL_EVT_4|Unngh...günaydın? Çoktan?$k$p$E怒|Bir saniye bekle! Güneş nerede?
+Dışarısı zifiri karanlık!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_13|Bir kahyanın günü şafaktan önce başlar.$k$pVe yanılmıyorsam, yöneticilik sanatlarını
+inceleme arzunuzu dile getirmiştiniz.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_15|Ah, evet, bunu söyledim, değil mi? En
+azından öyle yaptığımı düşünüyorum...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|İyi. O halde sabah görevlerimize
+başlayalım.$k$pBir kâhya, lordlar ve leydiler uyanmadan
+önce onlara çay hazırlamalıdır.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|*YAAAAAAAWN* ÇOK yoruldum...$k$p$E通常|Ama sanırım biraz kaynatmayı başarabilirim...$k$p$E苦,汗|Ah, kahretsin! Aptal çaydanlık devrildi!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_3|Daha sonra lütfen suyu tekrar kaynatın. Ve
+bu sefer bunu dikkatli bir şekilde yapın.$k$pŞimdi, efendinin en güzel çayından bir
+demliği israf ettiğine göre ne dersin?$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_17|Gerçekten, şimdi! Bu sadece...$k$pTamam! Aptal çayı döktüğüm için
+özür dilerim falan filan.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_11|KABUL EDİLEMEZ!$k$p...Şimdi tekrar dene,
+bu kez gerçekten içinden gelerek.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_16|*homurdanır*$k$pAh sevgili Lord Frederick, sakarlığımı
+bağışlayın! Bir daha olmayacak!$k$p(...Çünkü bir dahaki sefere bunu senin
+aptal kafana dökeceğim.)$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_18|Mırıldandıklarınızda kötü niyet
+olmadığını varsayacağım.$k$pŞimdi o zaman! Gümüş eşyaları
+hazırlamalıyız. Bugün kaşıklardan sorumlusun.$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_8|...Bana çatal bıçak parlatma işi veren
+kim sanıyor kendini? Ben bir HANIMEFENDİYİM!$k$pOnun mızrağını cilalayıp onun
+içine sokmalıyım...$k$p$Eキメ|İşte buradasınız lordum! Her şey bitti,
+lordum! Parlaklık hoşunuza gider mi lordum?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_19|...$k$pKABUL EDİLEMEZ!$k$pYüzeydeki yansımamı görmek
+istiyorum... Yeniden başla.$k
+$Wsマリアベル|$Wa$Eキーッ|$SvpSE_VOICE_MARIABELL_EVT_28|GRRRRRRRRR!$k
+$Sbs1000|"
+2,MID_支援_フレデリク_マリアベル_Ａ,"$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah, Maribelle ! Vous êtes déjà debout ?$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_18|Vous savez, une fois qu'on y est habitué,
+ce n'est pas si dur de se lever tôt.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Excellent. Et puisque vous êtes prête,
+commençons l'entraînement, voulez-vous ?$k$pCommencez par faire le thé, ensuite j'aurai
+une caisse d'argenterie à vous faire polir.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒,|Attendez, Frederick !
+Laissez-moi m'en occuper !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒,|Pardon ?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|C'est juste que... Je m'inquiète pour votre
+pied. Je vous ai vu vous blesser l'autre jour.$k$pVous devriez essayer de vous reposer.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Eh bien... Oui, je vous le concède, cette
+blessure me dérange un peu.$k$pHonnêtement, je suis flatté que vous ayez
+remarqué. Personne d'autre ne l'a vue.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_12|C'est grâce à l'entraînement que vous avez
+eu la gentillesse de me prodiguer.$k$pJe fais attention à ces détails, maintenant.
+Alors, Monseigneur... Un peu de thé ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ,|Oh, mais ce thé est excellent !
+Quel mélange d'herbes utilisez-vous ?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|C'est une concoction médicinale spéciale
+pour votre pied.$k$pJ'ai discuté avec l'apothicaire hier soir, qui
+me l'a vivement recommandée.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Oh, Maribelle...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_3|Ou... Oui ?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_28|Vous avez pris mes leçons à cœur et
+compris le vrai sens du mot « service » !$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_15|Vous croyez ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Je ne suis pas majordome, mais je m'efforce
+constamment d'être un meilleur chevalier.$k$pLa considération envers les autres...
+Le désir d'aider ceux dans le besoin...$k$pJe parle, bien sûr, du service comme pilier
+de la chevalerie.$k
+$Wsマリアベル|$WaJe n'avais jamais fait le rapprochement...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|N'importe qui peut apprendre à manier une
+arme ou à monter à cheval.$k$pMais l'esprit de la chevalerie vient du plus
+profond de soi !$k$pMaribelle, vous avez prouvé que vous
+compreniez ces valeurs.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, je suis... honorée que vous le
+pensiez.$k$pJe vais continuer à m'entraîner et ne jamais
+oublier vos leçons !$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Bien ! Rien ne me ferait plus plaisir que de
+vous voir développer vos talents !$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_21|Oh, mais vous continuerez à me donner des
+leçons, n'est-ce pas, Frederick ?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_4|Si c'est ce que vous souhaitez, Madame.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah, Maribelle! Ihr seid schon früh wach,
+wie ich sehe.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_18|Oh, sobald man sich an das frühe Aufstehen
+gewöhnt hat, ist es eigentlich nicht schlimm.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Exzellent. Sollen wir also mit Eurer
+Ausbildung fortfahren?$k$pKocht zunächst den Tee und dann habe ich
+hier eine Menge Silberbesteck zum Polieren.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒,|Halt, Frederick! Lasst mich Euch
+das abnehmen!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒,|Wie bitte?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|Es ist nur... Ich mache mir Sorgen wegen
+der Verletzung, die Ihr heute erlitten habt.$k$pIhr wisst schon. Die an Eurem Fuß.
+Ihr solltet heute lieber ruhen.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Nun, ich gebe zu, dass meine Verletzung
+mich ein wenig behindert.$k$pIch bin ehrlich gesagt erstaunt, dass Ihr
+es bemerkt habt. Ihr seid die Einzige.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_12|Das habe ich der Ausbildung zu verdanken,
+die Ihr mir freundlicherweise gegeben habt.$k$pMir fallen nun solche Details viel öfter auf.
+...Nun denn. Tee, mein Herr?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ,|Oh, dieser Tee ist wahrlich exzellent!
+Habt Ihr eine neue Mischung verwendet?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Es ist eine spezielle Heilmischung für
+Euren Fuß.$k$pIch sprach letzte Nacht mit dem Apotheker
+und er empfahl sie mir wärmstens.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Also, Maribelle...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_3|J-ja?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_28|Ihr habt Eure Ausbildung ernst genommen
+und versteht, was es heißt, zu dienen.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_15|Findet Ihr?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Ich bin kein Hausdiener, aber ich strebe
+stets danach, ein besserer Ritter zu werden.$k$pAn andere zu denken...
+Hilfsbedürftigen zu helfen...$k$pDies ist die Seele jeden Dienstes und auch
+das Herz aller ritterlichen Tugenden.$k
+$Wsマリアベル|$WaIch war mir der Verbindung nie bewusst...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Waffen- und Reitkunst kann jeder erlernen,
+der ein Schwert zu führen vermag.$k$pDoch der Geist der ritterlichen Tugenden
+muss von innen kommen!$k$pMaribelle, Ihr habt bewiesen, dass Ihr
+in der Lage seid, anderen zu dienen.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, es... ehrt mich, dass Ihr so
+von mir denkt.$k$pIch werde weiter trainieren und Eure
+Lektionen stets im Kopf behalten.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Gut! Nichts bereitet mir mehr Freude,
+als andere zum Dienen zu inspirieren.$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_21|Oh, aber Ihr WERDET mich doch weiter
+ausbilden. Nicht wahr, Frederick?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_4|Wie Ihr wünscht, meine Dame.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah, Maribelle! Già in piedi, vedo.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_18|Sapete, ormai sono abituata ad alzarmi
+presto. Non è poi così male.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Eccellente. Che ne dite di cominciare
+il nostro addestramento, allora?$k$pPreparate il tè, nel frattempo prenderò
+la cassa con l'argenteria da lucidare.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒,|Fermatevi, Frederick! Lasciate fare a me!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒,|Perché?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|È solo che... sono preoccupata per il piede
+che vi siete ferito in battaglia l'altro giorno.$k$pDovreste provare a riposarvi.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Beh, lo ammetto. Mi ha creato
+qualche problema.$k$pSono onorato che l'abbiate notato.
+Nessun altro se n'era accorto.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_12|È tutto merito dell'addestramento che siete
+stato così gentile da concedermi.$k$pPresto maggiore attenzione ai dettagli.
+Dunque, mio signore? Tè?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ,|Oh, questo tè ha un gusto delizioso!
+Avete scelto una varietà speciale?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Si tratta di una speciale pozione
+curativa per il vostro piede.$k$pHo parlato con l'alchimista ieri sera,
+e me l'ha consigliato vivamente.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Oh, Maribelle...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_3|S-Sì?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_28|Avete preso le mie lezioni davvero a cuore,
+cogliendone il senso più profondo!$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_15|Lo pensate veramente?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Non sono un servitore, ma cerco ogni
+giorno di migliorarmi come cavaliere.$k$pAttenzione verso gli altri... Aiuto
+nel momento del bisogno...$k$pNaturalmente, mi riferisco allo spirito
+del servire su cui si fonda la cavalleria.$k
+$Wsマリアベル|$WaNon ci avevo mai pensato...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Scherma ed equitazione possono
+essere insegnati a chiunque.$k$pMa la vera cavalleria non s'insegna!$k$pMaribelle, avete dimostrato di capire
+cosa significhi aiutare gli altri.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, le vostre parole mi onorano.$k$pContinuerò a esercitarmi duramente
+e non dimenticherò le vostre lezioni!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Bene! Niente potrebbe darmi maggiore
+gioia dell'ispirare il vostro talento!$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_21|Oh, allora continuerete a darmi
+lezioni, non è vero, Frederick?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_4|Se questo è il vostro volere, mia signora.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|¡Ah, Maribelle! Ya veo que os habéis
+levantado temprano...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_18|Una vez que te acostumbras, esto de
+madrugar no está tan mal.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Excelente. ¿Seguimos con nuestro
+entrenamiento entonces?$k$pPrimero, debéis hervir el té y, después, os
+daré un cajón con cubiertos para pulir.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒,|¡Espera, Frederick!
+¡Déjame que coja eso!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒,|¿Cómo?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|Es que me preocupa esa herida que te
+hiciste en el pie en la batalla del otro día.$k$pTienes que intentar descansar.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Bueno... Sí, admito que la herida resulta
+algo molesta...$k$pSi os soy sincero, me halaga que os hayáis
+percatado. Nadie más lo ha hecho.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_12|Es gracias a todo el entrenamiento por el
+que me has hecho pasar tan gentilmente.$k$pAhora me fijo en los pequeños detalles.
+Ejem... Bien, mi señor, ¿queréis té?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ,|¡Vaya! Esta infusión es sublime.
+¿Estáis utilizando hojas diferentes?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Lo cierto es que se trata de un preparado
+curativo especial para la herida de tu pie.$k$pAyer por la noche hablé con el boticario y
+me lo recomendó fervorosamente.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Me sorprendéis, Maribelle...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_3|¿S-sí?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_28|Os habéis tomado mis lecciones en serio y
+¡habéis entendido lo que significa servir!$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_15|¿Eso crees?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Puede que no sea senescal... pero siempre
+intento mejorar como caballero.$k$pRespeto por los que me rodean... Voluntad
+de ayudar a todo el que lo necesita...$k$pMe refiero, obviamente, al ideal de servicio
+sobre el que se asienta la caballerosidad.$k
+$Wsマリアベル|$WaNunca había visto tal conexión...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Cualquiera capaz de blandir una espada
+puede aprender esgrima y equitación.$k$p¡Pero la caballerosidad reside en el interior!$k$pMaribelle, me acabáis de demostrar que
+entendéis lo que significa servir al prójimo.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, me... Tus palabras me
+honran.$k$p¡Voy a seguir con mi entrenamiento
+y nunca olvidaré tus lecciones!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|¡Bien! ¡Nada me complace más que
+expandir el amor por la servidumbre!$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_21|Oh, pero SEGUIRÁS dándome lecciones,
+¿verdad, Frederick?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_4|Lo haré si así lo deseáis, mi señora.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Ah, Maribelle! Up early, I see.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_18|You know, once you get used to it,
+this early morning lark isn't so bad.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Excellent. Shall we proceed with our
+training, then?$k$pFirst you must boil the tea, and then I have
+a chest of silverware that needs polishing.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒,|Wait, Frederick!
+Let me take that.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒,|Excuse me?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|It's just... I'm worried about the foot you
+hurt in battle the other day.$k$pYou should be trying to rest.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Well, I concede the injury is
+troubling me somewhat...$k$pFrankly, I'm flattered you noticed.
+No one else has.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_12|It's thanks to the steward training you've
+been kind enough to give me.$k$pI spot details like that all the time now.
+...Well then, milord? Tea?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ,|My, but this tea is excellent!
+Are you using a new leaf?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|It's a special vulnerary concoction
+for your foot.$k$pI spoke to the apothecary last night,
+and he said it came highly recommended.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Why, Maribelle...$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_3|Y-yes?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_28|You have taken my lessons to heart and
+understand the true spirit of service!$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_15|Do you think so?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|I may not be a steward, but I constantly
+strive to be a better knight.$k$pConsideration for others...
+Willingness to assist any in need...$k$pI speak, of course, of the spirit of
+service that is at the core of chivalry.$k
+$Wsマリアベル|$WaI never made the connection...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Weaponry and horsemanship can be taught
+to any capable of swinging a blade.$k$pBut the spirit of chivalry comes from within!$k$pMaribelle, you have shown that you
+understand what it means to serve others.$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, I'm...honoured that you think so.$k$pI'm going to keep up my training and never
+forget your lessons!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Good! Nothing pleases me more
+than inspiring a love of service!$k
+$Wsマリアベル|$Wa$Eキメ,|$SvpSE_VOICE_MARIABELL_EVT_21|Oh, you WILL continue to give
+me lessons, won't you, Frederick?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_4|If that is your wish, milady.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_3|800|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_6|Ah, Maribelle! Erken kalkmışsın.$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_18|Biliyor musun, alışınca bu erken kalkma
+işi o kadar da kötü değil.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_17|Harika. O halde eğitimimize
+devam edelim mi?$k$pÖnce çayı kaynat. Sonra da parlatılacak
+bir sandık gümüş takım var.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_11|$E怒|Dur
+Frederick! Şunu alayım.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_1|$E怒|Affedersin?$k
+$Wsマリアベル|$Wa$E苦,汗|$SvpSE_VOICE_MARIABELL_EVT_20|Sadece... Geçen gün savaşta incittiğin
+ayağın için endişeleniyorum.$k$pDinlenmeye çalışmalısın.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E苦,汗|Yaramın beni biraz rahatsız
+ettiğini kabul ediyorum...$k$pAçıkçası bunu fark ettiğin için gururum
+okşandı. Başka kimse fark etmedi.$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_12|Bana verme nezaketini gösterdiğiniz
+kâhya eğitimi sayesinde.$k$pArtık her zaman bunun gibi detayları
+görüyorum. ...Peki o zaman efendim? Çay?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_6|$Eキメ|Aman Tanrım, bu çay mükemmel!
+Yeni yaprak mı kullanıyorsunuz?$k
+$Wsマリアベル|$Wa$E笑|$SvpSE_VOICE_MARIABELL_EVT_5|Ayağın için özel bir İksir karışımı.$k$pDün gece eczacıyla konuştum ve
+şiddetle tavsiye edildiğini söyledi.$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_22|Ah, Maribelle...$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_3|E-evet?$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_28|Derslerimi ciddiye aldınız ve
+gerçek hizmet ruhunu anladınız!$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_15|Öyle mi düşünüyorsun?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|Bir kâhya olmayabilirim ama sürekli olarak
+daha iyi bir şövalye olmak için çabalıyorum.$k$pBaşkalarını düşünmek... İhtiyacı olan
+herkese yardım etme isteği...$k$pElbette şövalyeliğin
+temelindeki hizmet ruhundan bahsediyorum.$k
+$Wsマリアベル|$WaAradaki bağı hiç kurmamıştım...$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_15|Silah kullanma ve binicilik, kılıç sallama
+becerisine sahip herkese öğretilebilir.$k$pAma şövalyelik ruhu içten gelir!$k$pMaribelle, başkalarına hizmet etmenin ne
+demek olduğunu anladığını gösterdin.$k
+$Wsマリアベル|$Wa$E笑|$SvpSE_VOICE_MARIABELL_EVT_5|Frederick, böyle düşünmenden onur duydum.$k$pEğitimime devam edeceğim ve derslerinizi
+asla unutmayacağım!$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_6|İyi! Hiçbir şey beni hizmet sevgisine
+ilham vermekten daha fazla memnun etmiyor!$k
+$Wsマリアベル|$Wa$Eキメ|$SvpSE_VOICE_MARIABELL_EVT_21|Bana ders vermeye devam
+edeceksin, değil mi Frederick?$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_4|Eğer dileğiniz buysa leydim.$k
+$Sbs1000|"
+3,MID_支援_フレデリク_マリアベル_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Alors ? Qu'en dites-vous ?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|C'est délicieux, Frederick ! Votre thé à la
+myrtille est absolument divin.$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Et pourtant votre mélange de l'autre jour
+n'a rien à lui envier, Maribelle.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Mon cher Frederick, j'ai réfléchi...$k$pQuand cette guerre sera finie, êtes-vous
+sûr de ne pas vouloir venir au manoir ?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒,|Mais nous avions un arrangement ! Je vous
+formais, et vous formiez votre personnel !$k
+$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_24|Je sais... Mais plus j'y pense et plus je
+crois que VOUS devriez venir.$k$pS'il vous plaît ?
+Même pour seulement quelques temps ?$k$p$E通常,照|Parce que si vous veniez... nous pourrions...
+passer plus de temps ensemble...$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_7|Comme un serviteur et sa maîtresse ?$k$p$Eキメ,|Non. Je ne puis accepter.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Me détestez-vous, Frederick ?
+Suis-je si horrible ?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_11|En fait, mon affection pour vous a même
+grandi. Plus que vous ne l'imaginez...$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|Que voulez-vous dire ?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_24|Mon affection est telle que j'accepterais de
+rejoindre votre manoir à une condition...$k$pQue vous acceptiez de m'épouser !$k$p$E通常,照|Maribelle, mon amour !
+Me feriez-vous cet honneur ?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|C'est un anneau ? Pour MOI ?!
+Dieux, qu'il est beau !$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|La pierre est modeste, mais je l'ai polie
+jusqu'à ce qu'elle brille autant que vous.$k$pVoudriez-vous bien l'accepter ?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Oh, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|BIEN SÛR !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Was denkt Ihr?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Deliziös, Frederick! Ihr bereitet einen
+wunderbaren Holundertee zu!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Und doch ist er kaum zu vergleichen mit
+dem, den Ihr zubereitet, Maribelle.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Mein lieber Frederick.
+Ich habe nachgedacht...$k$pWollt Ihr nach diesem schrecklichen Krieg
+nicht doch in meinen Landsitz kommen?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒,|A-aber wir hatten doch vereinbart, dass Ihr
+Eure Dienerschaft selbst ausbildet...$k
+$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_24|Ja... Aber je mehr ich überlege, desto mehr
+weiß ich, dass IHR es tun müsst!$k$p...Oh, bitte! Nicht einmal für kurze Zeit?$k$p$E通常,照|Denn dann könnten wir... Nun ja...
+Wir könnten öfter zusammen sein!$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_7|Zusammen wie Diener und Herrin?$k$p$Eキメ,|Nein, das muss ich ablehnen.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Hasst Ihr mich denn so sehr, Frederick?
+...Bin ich so schrecklich anzusehen?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_11|In Wahrheit mag ich Euch... sehr.
+Vielleicht sogar mehr, als Ihr vermutet.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|W-was meint Ihr damit?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_24|So sehr sogar, dass ich bereit wäre, mich
+Eurem Haushalt anzuschließen.$k$p...Allerdings nur unter einer Bedingung.$k$pIhr müsst mich zum Mann nehmen!$k$p$E通常,照|Meine liebe Maribelle! Wollt Ihr meine
+Frau werden?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|Ist das ein Ring? Für MICH?!?
+Ihr Götter, er ist wunderschön!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|Der Stein ist bescheiden, aber ich habe ihn
+poliert, bis er Eurem Glanz gerecht wurde.$k$pWerdet Ihr meinen Antrag annehmen?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Oh, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|NATÜRLICH werde ich das!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|Come vi sembra?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|Davvero delizioso, Frederick! Il vostro
+tè al sambuco è impareggiabile.$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Sono i vostri magnifici infusi a
+essere inarrivabili, Maribelle.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Frederick, caro. Stavo pensando...$k$pQuando questa guerra disumana sarà finita,
+non vi piacerebbe venire alla mia magione?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒,|M-Ma eravamo d'accordo che sareste
+stata voi a istruire il personale!$k
+$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_24|Sì, lo so. Ma più ci penso, più capisco
+che dovete assolutamente esserci voi.$k$pVi prego! Nemmeno per un breve periodo?$k$p$E通常,照|In questo modo... ecco... noi potremmo
+stare insieme più di frequente.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_7|Insieme come servitore e padrona?$k$p$Eキメ,|No. Non posso accettarlo.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Mi odiate così tanto, Frederick?
+Sono così orribile ai vostri occhi?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_11|Al contrario... Tengo molto a voi.
+Forse, più di quanto sospettiate.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|C-Cosa intendete dire?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_24|Tengo così tanto a voi che verrei alla
+vostra magione a una sola condizione...$k$pChe mi accettiate come vostro marito!$k$p$E通常,照|Maribelle, amore mio!
+Mi concedereste l'onore di sposarmi?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|È un anello? Per ME?!
+Cielo, è bellissimo!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|Una pietra modesta, in verità, ma lucidata
+al punto da brillare come voi, mia signora.$k$pPotete accettarla?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Oh, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|Ma CERTO che sì!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|¿Qué os parece?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|¡Está delicioso, Frederick! ¡Haces
+un té de saúco maravilloso!$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|Aunque así sea, no puede compararse con
+el que vos preparáis, Maribelle.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Frederick, querido... he estado pensando...$k$p¿Seguro que no te gustaría venir a mi
+mansión cuando esta salvaje guerra acabe?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒,|¿Cómo? ¡T-teníamos un trato! ¡Erais vos
+la que formaríais a vuestro servicio!$k
+$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_24|Sí, lo sé, pero cuanto más pienso en ello,
+más me convenzo de que has de ser tú.$k$pPor favor... ¿Ni siquiera durante un breve
+periodo de tiempo?$k$p$E通常,照|Porque entonces podríamos... Bueno, ya
+sabes... Pasar más tiempo juntos.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_7|¿Juntos? ¿Como señora
+y sirviente?$k$p$Eキメ,|No. Lo siento, mas debo
+negarme.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|¿Me odias, Frederick?
+¿Tan terrible te parezco?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_11|En realidad... he empezado a apreciaros tal
+y como sois. Más de lo que podáis suponer.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|¿Q-qué quieres decir?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_24|De hecho, os aprecio tanto que me gustaría
+unirme a vuestra casa con una condición...$k$p¡Que me aceptéis en ella como consorte!$k$p$E通常,照|¡Maribelle, amada mía! ¿Me concederíais
+ese honor?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|¿Es eso un anillo? ¡¿Y es para MÍ?! ¡Dioses,
+es precioso! ¡Y deja ya de vosearme!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|Je. je... Está bien... ¿Podríais...?
+¿Podrías aceptarlo? ¿Me aceptas a mí?$k$pLa gema no es gran cosa, pero la he pulido
+para que brille tanto como tú, Maribelle.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Oh, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|¡POR SUPUESTO que sí!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_6|How do you find it?$k
+$Wsマリアベル|$Wa$E笑,|$SvpSE_VOICE_MARIABELL_EVT_5|It's delicious, Frederick! You do make a
+wonderful cup of elderberry tea.$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_11|And yet it hardly compares to
+your own brew, Maribelle.$k
+$Wsマリアベル|$Wa$E通常,|$SvpSE_VOICE_MARIABELL_EVT_4|Frederick, dear. I've been thinking...$k$pWhen this beastly war is over, are you sure
+you won't consider coming to the manor?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒,|B-but we had an arrangement.
+You were to teach your domestic staff...$k
+$Wsマリアベル|$Wa$E怒,|$SvpSE_VOICE_MARIABELL_EVT_24|Yes, I know. But the more I think about it,
+the more I realise it simply MUST be you.$k$p...Please? Not even for a short while?$k$p$E通常,照|Because then we could... Well, you see...
+We could be together more often.$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_7|Together as servant and lady?$k$p$Eキメ,|No. I must refuse.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Do you hate me, Frederick?
+...Am I so awful to look upon?$k
+$Wsフレデリク|$Wa$E通常,|$SvpSE_VOICE_FREDERIK_EVT_11|In truth, I have grown...very fond of you.
+More, perhaps, than you suspect.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|Wh-what do you mean?$k
+$Wsフレデリク|$Wa$E笑,|$SvpSE_VOICE_FREDERIK_EVT_24|So fond, in fact, that I would be willing to
+join your household on one condition...$k$pThat you take me as your husband!$k$p$E通常,照|Maribelle, my love! Will you do me the
+honour?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|Is that a ring? For ME?!
+Gods, it's beautiful!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|The stone is modest, but I polished it until
+it shone as radiant as you, milady.$k$pWon't you please accept it?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Oh, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|Of COURSE I will!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmマリアベル|7$Wmフレデリク|3$w0|$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_6|Onu nasıl buluyorsun?$k
+$Wsマリアベル|$Wa$E笑|$SvpSE_VOICE_MARIABELL_EVT_5|Çok lezzetli, Frederick! Harika bir
+fincan mürver çayı yapıyorsunuz.$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_11|Ama yine de kendi biranız
+Maribelle ile karşılaştırılamaz.$k
+$Wsマリアベル|$Wa$E通常|$SvpSE_VOICE_MARIABELL_EVT_4|Frederick, canım. Düşünüyordum da...$k$pBu canavarca savaş bittiğinde malikaneye
+gelmeyi düşünmeyeceğinden emin misin?$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_2|$E怒|A-ama anlaşmıştık. Ev çalışanlarına eğitim
+verecektin...$k
+$Wsマリアベル|$Wa$E怒|$SvpSE_VOICE_MARIABELL_EVT_24|Evet biliyorum. Ama düşündükçe bunun
+kesinlikle SEN olman gerektiğini anlıyorum.$k$p...Lütfen? Kısa bir süreliğine de olsa
+değil mi?$k$p$E通常,照|Çünkü o zaman biz... Yani, görüyorsun...
+Daha sık birlikte olabiliriz.$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_7|Hizmetçi ve hanımefendi olarak birlikte
+mi?$k$p$Eキメ|Hayır. Reddetmeliyim.$k
+$Wsマリアベル|$Wa$E怒,汗|$SvpSE_VOICE_MARIABELL_EVT_16|Benden nefret mi ediyorsun Frederick?
+...Bakılmayacak kadar berbat mıyım?$k
+$Wsフレデリク|$Wa$E通常|$SvpSE_VOICE_FREDERIK_EVT_11|Gerçekte, büyüdüm... seni çok sevdim.
+Belki de sandığınızdan daha fazlası.$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_15|$E苦,照汗|Ne demek istiyorsun?$k
+$Wsフレデリク|$Wa$E笑|$SvpSE_VOICE_FREDERIK_EVT_24|O kadar düşkündüm ki, bir şartla sizin
+evinize katılmaya razı olurdum...$k$pBeni kocan olarak kabul etmeni!$k$p$E通常,照|Maribelle, aşkım! Bu onuru bana bahseder
+misin?$k
+$Wsマリアベル|$Wa$E通常,照|$SvpSE_VOICE_MARIABELL_EVT_3|Bu bir yüzük mü? Benim
+için?! Tanrılar, çok güzel!$k
+$Wsフレデリク|$Wa$SvpSE_VOICE_FREDERIK_EVT_9|$E笑,照|Taş mütevazı ama sizin kadar
+parıldayana kadar onu cilaladım leydim.$k$pLütfen kabul etmez misin?$k
+$Wsマリアベル|$Wa$SvpSE_VOICE_MARIABELL_EVT_4|$E通常,照|Ah, Frederick...$k$p$SvpSE_VOICE_MARIABELL_EVT_5|$E笑,照|Elbette yapacağım!$k
+$Sbs1000|"

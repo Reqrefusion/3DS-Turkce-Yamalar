@@ -1,0 +1,765 @@
+﻿index,key,F,G,I,S,U,TR
+0,MID_支援_グレゴ_ソワレ_Ｃ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_6|Hé, Gregor !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Beh alors ? Les jeunes, ça doit respecter
+les anciens, j'te ferais remarquer.$k$pY faut m'appeler « monsieur », tu vois ?
+Je suis vieux, non ? Faut qu'tu sois polie.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|C'est ça... Bon, écoute, il paraît que tu es
+un as à l'épée. C'est vrai ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Bah oui, y'a plein de braves qui pourraient
+t'le confirmer... Enfin, y pourraient...$k$p... s'ils étaient pas morts en m'affrontant !
+HA HA ! J'adore cette blague...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Fantastique. Alors que dis-tu de faire
+un duel avec moi ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Hmm... Combien tu m'paierais, pour ça ?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|Tu veux que je te paie pour
+de l'entraînement ?$k$pOn est alliés, tête d'enclume !
+Tu devrais m'aider gratuitement !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|J'suis un mercenaire, ma p'tite !
+Faut bien qu'je mange, pas vrai ?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|C'est TOI que je vais manger !$k$p...$k$pBon... D'accord... Mais si je te paie, alors
+j'ai le droit de poser une condition.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Hmhm... laquelle ?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_7|Tu clames être un combattant hors pair,
+mais comment puis-je en être sûre ?$k$pSi au premier signe de danger, tu te roules
+en boule au sol, c'est de l'argent gâché !$k$pAlors, voici le marché : je ne paierai que si
+tu parviens à m'apprendre quelque chose.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Elle est belle ET dure en affaire, la brave
+dame ! Tu veux une garantie, quoi ?$k$p$E怒,|Eh ben, j'accepte, mais seulement si moi
+aussi j'peux poser une condition...$k$pLe perdant d'vra exaucer une requête du
+vainqueur ! Même si elle est humiliante !$k$pAlors, marché conclu ? Sauf si t'es
+une poule mouillée, en vrai ?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_12|Marché conclu ! J'en ai assez des hommes
+comme toi qui sous-estiment les femmes !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_15|Ah ! Mais non ! Pas du tout !
+Je sous-estime personne, moi.$k$pSurtout pas une femme bien musclée et
+aguerrie comme toi.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_18|Ça devrait être intéressant...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_6|Hallo, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Traurige Zeiten, wenn Jünglinge wie du nicht
+ansprechen alte Leute wie sich gehören.$k$pDu sollen Gregor nennen mein Herr!
+Er sein sehr alt, ja? Es nur sein höflich!$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Wie du meinst. Hör zu. Ich hab gehört, du
+seist ein beeindruckender Kämpfer. Richtig?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Viele tapfere Männer das sagen würden
+über Gregors Kampfstil!$k$pEs sein zu schade, sie alle tot! Hohoho!
+Gregor lieben diesen Witz!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Wunderbar. Dann sollten wir uns duellieren!
+Was meinst du?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Hmmm... Was du bezahlen Gregor?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|Du willst Gold für einen Übungskampf?!?$k$pWir sind Verbündete, du verdammter Idiot!
+Du solltest mir ohne Bezahlung helfen!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Gregor sein mächtige Mietklinge mit
+mächtiger Klinge! Müssen Essen kaufen, ja?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|DICH kauf ich mir gleich, du--$k$p...$k$pNa gut. In Ordnung. Aber wenn ich dich
+bezahlen soll, habe ich Bedingungen.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Bedingungen?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_7|Du sagst, du seist ein guter Kämpfer, aber
+woher soll ich das wissen?$k$pVielleicht läufst du ja beim ersten Zeichen
+von Ärger davon? Dann steh ich blöd da!$k$pHier also die Bedingung: Ich bezahl dich
+nur, wenn du mir was Neues beibringst.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Schöne Frau sein zähe Händlerin!
+Sie wollen Gold-Zurück-Garantie!$k$p$E怒,|Aber Gregor akzeptieren, solange Gregor
+eigene Bedingung setzen kann...$k$pVerlierer müssen tun eine Sache, die
+Sieger verlangen, auch wenn sein peinlich!$k$pWir haben Geschäft? Oder sein du piepsige,
+kleine Angstmaus?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_12|Abgemacht! Ich hab genug von Kerlen wie
+dir, die Frauen wie mich unterschätzen!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_15|Ho, da liegen du falsch gewickelt!
+Gregor unterschätzen niemanden!$k$pBesonders nicht muskelbepackte Frau
+mit kurzer Lunte!$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_18|Dann könnte das hier interessant werden.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_6|Ehi, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Che tempi ingrati se i giovani rivolgersi
+a vecchi senza titolo giusto!$k$pTu deve chiamare me signor Gregor! Lui è
+vecchio, sì? Tu tratta lui con educazione.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Vabbè. Senti, ho saputo che hai uno stile di
+combattimento incredibilmente forte. Vero?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Molti uomini coraggiosi volere testimoniare
+com'è bravo Gregor con la spada.$k$pPeccato loro essere tutti morti! Uh uh uh!
+Oh, a Gregor piace tanto questa battuta.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Bene. Allora che ne dici di sfidarci io e te?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Mmmh... Cosa tu dà a Gregor di soldi?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|Vuoi essere pagato per
+fare pratica di scherma?$k$pSiamo alleati, vecchio. Dovresti aiutarmi
+senza chiedere niente in cambio!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Gregor è mercenario per soldi!
+Lui deve comprare arrosto a cena, no?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Ti ci faccio io arrosto, vecchio!$k$p...$k$pOh, non importa. Va bene, ma visto che
+pago, ho delle condizioni da dettare.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Condizioni?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_7|Sostieni di essere un grande guerriero,
+ma come faccio a esserne certa?$k$pPotresti metterti a guaire alla prima
+stoccata e io avrei solo perso i soldi!$k$pTi propongo un accordo: ti pagherò solo se
+riuscirai a insegnarmi qualcosa di nuovo.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Bella donna cerca di fare un affare.
+Vuole essere sicura di non perdere soldi!$k$p$E怒,|Gregor accetta, però anche
+lui ha una condizione...$k$pChi perde deve obbedire a una richiesta
+del vincitore! Anche se umiliante!$k$pNoi avere accordo, o tu è gattino
+spaventato che si nasconde?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_12|Affare fatto! Sono stufa di uomini come
+te che sottovalutano donne come me!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_15|Uh, tu sbagli...
+Gregor non sottovaluta nessuno.$k$pIn particolare non signorina palestrata
+con capelli corti e armata fino ai denti.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_18|La cosa si fa interessante.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_6|¿Qué tal, Gregor?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|¡Ser triste ver que jóvenes no hablar a
+mayores con respeto!$k$p¡Tú deber llamar Gregor ""señor""! Él ser
+viejo, ¿sí? Ser lo más correcto.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Como quieras. Escucha, dicen por ahí que
+tu estilo de lucha es muy eficaz. ¿Es cierto?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Muchos hombres valientes poder confirmar
+pericia de Gregor con espada.$k$p¡Ser pena que todos estar muertos!
+¡Ja, ja, ja! Gregor gustar mucho chistes.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Genial... ¿Te apetecería enfrentarte a mí?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Mmm... ¿Qué pagar a Gregor?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|¡¿Quieres que te pague por practicar
+conmigo?! $k$p¡Somos aliados, pedazo de memo!
+¡Deberías ayudarme sin cobrar!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|¡Gregor ser mercenario bueno con espada!
+Y tener que pagar comida, ¿no?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|¡Ya te daré yo comida!$k$p(...)$k$pBueno, da igual. Está bien, pero si te pago,
+quiero que se cumplan ciertas condiciones.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|¿Condiciones?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_7|Dices ser un luchador de élite, pero
+¿cómo puedo estar segura de eso?$k$p¡También puede que eches a correr ante el
+peligro, y yo habré malgastado mi dinero!$k$pAsí que te propongo esto: solo te pagaré si
+consigues enseñarme algo nuevo.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|¡A mujer bonita gustar regatear! ¡Querer
+garantizar inversión!$k$p$E怒,|Pero Gregor aceptar, si Gregor poner
+condición también...$k$pPerdedor cumplir orden de ganador,
+¡aunque ser humillante!$k$p¿Aceptar o no?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_12|¡Acepto! ¡Estoy harta de que hombres como
+tú subestimen a mujeres como yo!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_15|¡Vaya, tú estar equivocada! Gregor no
+subestimar a nadie.$k$pEspecialmente si ser mujer musculosa con
+ganas de pelea.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_18|Bien, parece que esto va a ser interesante.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_6|Hey, Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_5|Is sad times when youngsters address
+elders without proper title!$k$pSully should be calling Gregor ""sir""!
+He is old, yes? Is only polite.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Whatever. Listen, I hear you have a fighting
+style that's fearsomely effective. That true?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Many brave men will testify to
+Gregor's skill with blade.$k$pIs too bad all are being dead! Ho ho ho!
+Oh, Gregor love that joke.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_8|Great. Then what say you and I
+have a duel?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Mmm... What you pay Gregor?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|You want to be paid for fencing practice?$k$pWe're allies, you old coot.
+You should be helping me for free!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_5|Gregor is sellsword who swings swell sword!
+Dinner must get on table somehow, no?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|I'll put you on the table, old man!$k$p...$k$pNever mind. Fine. But if I pay you,
+I get to set some conditions.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Conditions?$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_7|You say you're a top fighter, but how do
+I really know that?$k$pYou might curl into a ball at the first sign
+of trouble, and then I'm out good coin!$k$pSo here's the deal: I only pay if you
+manage to teach me something new.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Beautiful lady is driving for hard bargain.
+She is craving coin-back guarantee!$k$p$E怒,|But Gregor accepts, so long as he sets
+condition of his own...$k$pLoser must obey one request from
+winner! Even if humiliating!$k$pWe have deal, yes? Or are you like
+the cat who is scared?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_12|Deal. I'm tired of men like you
+underestimating women like me!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_15|Oy, but you are wrong...
+Gregor underestimate no one.$k$pEspecially not muscle-bound lady
+with great chip on shoulder.$k
+$Wsソワレ|$Wa$E笑,|$SvpSE_VOICE_SOIREE_EVT_18|Then this should be interesting.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_6|Merhaba Gregor.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_5|Gençlerin büyüklere uygun unvan
+olmadan hitap ettiği üzücü zamanlar!$k$pSully, Gregor'a ""efendim"" demeliydi! O
+yaşlı, değil mi? Sadece kibar.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Her neyse. Dinle, korkunç derecede etkili bir
+dövüş tarzın olduğunu duydum. Bu doğru mu?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Pek çok cesur adam Gregor'un kılıç
+kullanma becerisine tanıklık edecektir.$k$pHerkesin ölmesi çok kötü! Ho ho ho!
+Gregor bu şakaya bayılıyor.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_8|Harika. O zaman sen ve ben düello
+yapmaya ne dersiniz?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_4|Mmm... Gregor'a ne kadar ödüyorsun?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_2|Eskrim antrenmanı için para mı almak
+istiyorsunuz?$k$pBiz müttefikiz, ihtiyar sersem.
+Bana bedavaya yardım etmelisin!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_5|Gregor kılıç sallayan paralı asker!
+Akşam yemeği bir yolla gelmeli, değil mi?$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Seni masaya yatıracağım ihtiyar!$k$p...$k$pBoş ver. İyi. Ama sana para
+ödersem bazı şartlar koyacağım.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_6|Koşullar?$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_7|Üst düzey bir dövüşçü olduğunu söylüyorsun
+ama bunu gerçekten nasıl bileceğim?$k$pİlk sorun belirtisinde top gibi
+kıvrılabilirsin, sonra da param biter!$k$pAnlaşma şu: Yalnızca bana yeni bir şey
+öğretmeyi başarırsan ödeme yaparım.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_10|Güzel hanım sıkı pazarlık yapıyor. Para
+iade garantisi istiyor!$k$p$E怒|Ama Gregor kendi şartlarını belirlediği
+sürece kabul ediyor...$k$pKaybeden, kazananın bir isteğine uymak
+zorundadır! Aşağılayıcı da olsa!$k$pAnlaştık, değil mi? Yoksa
+korkan kedi gibi misin?$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_12|Anlaştık. Senin gibi erkeklerin benim
+gibi kadınları küçümsemesinden bıktım!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_15|Oy ama yanılıyorsun...
+Gregor kimseyi küçümsemez.$k$pHele omzunda koca bir öfke taşıyan
+kaslı kadını hiç küçümsemez.$k
+$Wsソワレ|$Wa$E笑|$SvpSE_VOICE_SOIREE_EVT_18|O zaman bu ilginç olmalı.$k
+$Sbs1000|"
+1,MID_支援_グレゴ_ソワレ_Ｂ,"$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Bonjour, Gregor.$k
+$Wsグレゴ|$Wa$E通常,|...$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Oh, c'est pas vrai...
+Bonjour, MONSIEUR Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Bonjour, Sully ! Bah dis donc, ça fait un bail
+qu'on s'est pas vus, toi et moi.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Je veux un autre duel avec toi. Un vrai.
+Et pas de retenue, cette fois !$k$pJe me suis entraînée dur depuis notre
+dernière rencontre. Je suis prête !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Tu t'es entraînée dur ? Ho ho !
+J'vais avoir du fil à retordre, ça veut dire !$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_17|On a tellement débattu des termes du duel
+l'autre fois, que j'en ai perdu le combat.$k$pEt puis tu devais me donner une punition
+humiliante, mais tu ne l'as pas fait !$k$pMe faire t'appeler « monsieur », ça ne me
+motive pas assez. Je veux plus !$k$pAlors, debout ! Lève-toi et viens te battre
+pour ton honneur !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_2|Bah, on est tout seuls, ici... On a pas
+à s'battre... pour l'honneur en plus... !$k$pC'est p'têt' plutôt le moment de s'dire des
+p'tits mots doux... Qu'est-ce que t'en dis ?$k$p$E通常,|$SvpSE_VOICE_GREGO_EVT_21|Enfin, si c'est avec l'épée qu'tu veux parler,
+d'accord. J'parle aussi cette langue.$k$pMais alors, quand tu perdras, j'te ferai faire
+un truc vraiment vraiment humiliant...$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_26|C'est parti !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Hallo, Gregor.$k
+$Wsグレゴ|$Wa$E通常,|...$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Oh, beim Donner des...
+Hallo, Gregor, MEIN HERR!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Hallo, Sully! Gregor dich fast nicht
+hören zuerst.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Ich will noch ein Duell mit dir. Ein ernstes!
+Kein Zurückhalten! Keine Regeln!$k$pIch hab seit unserem letzten Kampf hart
+trainiert und ich bin bereit.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Training hart, du sagen?
+Das klingen nach böser Sache für Gregor.$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_17|Beim letzten Mal haben wir so lange über
+Bedingungen gestritten, dass ich verlor!$k$pDann hättest du mich mit was Peinlichem
+bestrafen sollen, hast du aber nicht!$k$pMich dazu zu zwingen, dich mein Herr zu
+nennen, ist nicht motivierend genug!$k$pAlso los! Steh auf und stell dich mir für
+ein Duell um deine Ehre!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_2|Ho! Wir hier allein sein, ja?
+Warum sprechen von Kampf um Ehre?$k$pGregor denken, wir können flüstern Nettes
+in unsere Ohren stattdessen.$k$p$E通常,|$SvpSE_VOICE_GREGO_EVT_21|Aber wenn du wollen mit Schwert reden...
+Stahlkuss klingen auch gut in Gregors Ohr!$k$pDoch wenn du verlieren, Gregor dich zu
+SEHR peinlichem Ding zwingen!$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_26|Zeig mir, was du kannst!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ehi, Gregor.$k
+$Wsグレゴ|$Wa$E通常,|...$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Oh, per tutte le... Ehi, ""signor Gregor"".$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Oh, ciao, Sully!
+Gregor non ti vedeva prima.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Voglio sfidarti di nuovo a duello. Uno serio.
+Senza nessun limite!$k$pMi sono allenata duramente dal nostro
+ultimo incontro e penso di essere pronta.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Duramente, tu dice?
+Questa non è buona notizia per Gregor!$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_17|L'altra volta abbiamo sprecato tempo a
+chiarire le condizioni e alla fine ho perso.$k$pPoi tu avresti dovuto impormi una punizione
+umiliante ma non l'hai fatto.$k$pChiedermi di chiamarti ""signore"" non è
+sufficiente. Voglio ben altro!$k$pAvanti! Basta poltrire e fammi vedere
+quello che vali, per il tuo onore!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_2|Uh, noi essere soli, sì?
+Perché parlare di duello e onore?$k$pGregor pensa questo è momento buono
+per sussurrarsi dolci parole alle orecchie!$k$p$E通常,|$SvpSE_VOICE_GREGO_EVT_21|Ma se tu vuole parlare con spade, va bene.
+A Gregor piace suono di bacio d'acciaio.$k$pMa quando tu perderà, Gregor ti fa fare
+una cosa molto, molto umiliante.$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_26|Fatti sotto!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Hola, Gregor.$k
+$Wsグレゴ|$Wa$E通常,|(...)$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Arg, por todos los...
+Hola, Gregor, mi señor...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|¡Hola, Sully! Gregor no verte antes.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Quiero otro duelo contigo. Uno en serio.
+¡Sin restricciones!$k$pHe estado entrenando mucho desde
+nuestro último combate, y creo estar lista.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|¿Tú entrenar mucho? ¡Parecer que Gregor
+estar en problemas!$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_17|Pasamos tanto tiempo fijando las normas
+del maldito combate que acabé perdiendo.$k$p¡Deberías haberme infligido un castigo
+humillante, pero no lo hiciste!$k$pObligarme a llamarte ""señor"" no basta.
+¡Necesito algo que me motive más!$k$pAsí es que... ¡Vamos! ¡Mueve el culo y
+demuestra lo que vales enfrentándote a mí!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_2|¡Esperar! Estar solos ¿sí? ¿Por qué hablar
+de luchas y honor?$k$p¡Gregor creer que ser buen momento para
+decir cosas románticas y dulces!$k$p$E通常,|$SvpSE_VOICE_GREGO_EVT_21|Pero si querer hablar con acero, estar bien:
+sonido de espadas también ser dulce.$k$pCuando tú perder, Gregor obligar a hacer
+algo MUY humillante.$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_26|¡Te estoy esperando!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Hello, Gregor.$k
+$Wsグレゴ|$Wa$E通常,|...$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Oh, for the love of...
+Hello, ""Sir Gregor.""$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Oh, hello, Sully.
+Gregor not seeing you there.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|I want another duel with you. A serious one.
+No holds barred!$k$pI've been training hard since our last
+skirmish, and I think I'm ready.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Training hard?
+Is sounding like bad news for Gregor!$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_17|We spent so much time arguing over terms
+the other day that I lost the damn fight.$k$pThen you were supposed to come up with
+a humiliating punishment, but you didn't.$k$pJust making me call you ""sir"" isn't enough
+motivation. I need more!$k$pSo come on! Get off your butt and duel
+me for your very honour!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_2|Oy, we are having place to ourselves, yes?
+Why speak of fighting and honour?$k$pGregor thinks this is good time to whisper
+sweet nothings into ears.$k$p$E通常,|$SvpSE_VOICE_GREGO_EVT_21|But, if talking with swords is better, okay.
+Kiss of steel is also sweet sound to Gregor.$k$pBut when you lose, Gregor make you do
+very, very, very humiliating something.$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_26|Let's go!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_HEIWA1_2|50|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Merhaba, Gregor.$k
+$Wsグレゴ|$Wa$E通常|...$k
+$Wsソワレ|$Wa$E苦,照|$SvpSE_VOICE_SOIREE_EVT_17|Ah, Tanrılar aşkına...
+Merhaba, ""Sör Gregor.""$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Ah, merhaba Sully.
+Gregor seni orada görmedi.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Seninle bir düello daha istiyorum.
+Hem de ciddi. Kural yok!$k$pSon kapışmamızdan beri çok çalıştım.
+Artık hazırım.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_15|Çok çalıştın?
+Bu Gregor için kötü haber!$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_17|Geçen sefer şartları tartışmaktan
+dövüşü resmen kaybettim.$k$pSonra bana küçük düşürücü bir ceza
+verecektin ama vermedin.$k$pSana ""sör"" demek yetmiyor.
+Daha güçlü bir teşvik gerek!$k$pHadi! Kalk da onurun için
+benimle düello et!$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_2|Oy, burada yalnızız, evet?
+Niye dövüş ve onur konuşuyoruz?$k$pGregor der ki şimdi kulağa
+tatlı söz fısıldama zamanı.$k$p$E通常|$SvpSE_VOICE_GREGO_EVT_21|Ama kılıçla konuşmak iyiyse, tamam.
+Çelik öpücüğü de Gregor için tatlı.$k$pAma kaybedince Gregor sana çok,
+çok, çok utandırıcı şey yaptıracak.$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_26|Hadi başlayalım!$k
+$Sbs1000|"
+2,MID_支援_グレゴ_ソワレ_Ａ,"$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Bonjour, Sullinou !$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|Arrête de m'appeler comme ça.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Ha ha ha ! T'aimes pas « Sullinou » ? Mais
+ça t'va bien ! C'est mignon !$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Ça n'a rien de mignon, vieux bouc rongé
+par les puces !$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Oh, chuis blessé, là ! C'est normal, en tant
+que compagnons d'armes...$k$p... faut qu'on s'trouve des p'tits noms !$k$pEn plus, ça montre l'amitié, le respect...
+« Sullinou, mon alliée brave et fidèle » !$k$pAllons, j'suis ton ami, Sullinou...
+Y a pas de quoi rougir.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|Je... Je ne rougis pas.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_11|Ha ! Mais, j'vois bien que c'est pas
+le surnom qui t'fait rougir !$k$pTu connais la vraie raison, non, Sullinou ?
+T'es secrètement amoureuse de moi !$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Répète ça encore une fois et je t'enfonce
+mon épée si profondément dans le...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Ho ho ! J'aime les femmes qui ont du
+caractère. J'devrais te taquiner plus !$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|Et moi, peut-être que je devrais faire de toi
+un paillasson !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Ah, Sullinou ! Tu sors ton épée et tu
+m'défies en duel, c'est ça ?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_29|Tu as insulté mon honneur pour
+la dernière fois !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_22|Et si tu perds ?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_25|Alors tu pourras faire ce que tu veux de
+cet honneur et de ma vie.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_21|C'est bon, j'accepte tes termes, Sullinou !
+J'suis prêt quand tu veux.$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Ho, Sullyli!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|...Nenn mich nicht so!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Hohoho! Du nicht mögen Name Sullyli?
+Der zu dir passen! Sehr damenhaft!$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Daran ist überhaupt nichts damenhaft, du
+flohverseuchter Ziegenbock!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Du verletzen Gregor! Wenn Kameraden
+kämpfen, sie sich geben Kosenamen.$k$pEs sein Zeichen von Freundschaft und
+gegenseitigem Respekt, ja?$k$p""Ho, Sullyli, tapfere und treue Verbündete!""$k$pOh, Gregor und Sullyli sein doch Freunde.
+Du nicht müssen anlaufen wie rotes Obst.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|Ich... bin nicht rot geworden.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_11|Aber neuartiger Name sein nicht einziger
+Grund für Schamesröte von Sullyli, ja?$k$pDu wollen hören wahren Grund, ja?
+Du insgeheim lieben Gregor!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Sag das noch einmal und ich ramme dir
+mein Schwert so tief in dein--$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Hohoho! Gregor mögen Frau mit Feuer
+in Kopf! Vielleicht dich weiter ärgern!$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|Und vielleicht verarbeite ich dich ja dann
+auch zu WYVERNFUTTER!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Ho, Sullyli? Du ziehen dein Schwert?
+Du wollen kämpfen mit Gregor erneut?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_29|Du hast mich und meine Ehre zum letzten
+Mal beleidigt!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_22|...Und was, wenn du verlieren?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_25|Dann gehören dir mein Leben und meine
+Ehre, und du kannst frei darüber verfügen!$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_21|Gregor nehmen Bedingungen von Sullyli an.
+Bereit, wenn Sullyli es sein...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Uh, Sullyuccia!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|La vuoi smettere di chiamarmi così?$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Uh uh! Non piace nome Sullyuccia?
+Ma sta bene a te. Molto signorina.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Ma che signorina e signorina,
+vecchio asino pulcioso!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|Tu ferisce Gregor. Quando gli alleati
+combattere, loro darsi nomignoli, sì?$k$pIn segno di amicizia e rispetto, sì? ""Ave,
+Sullyuccia, coraggiosa e fedele compagna!""$k$pAvanti, Gregor e Sullyuccia essere amici.
+Tu non deve arrossire.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|Non sto... arrossendo.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_11|Il nuovo nome non è unico motivo
+per cui Sullyuccia è in imbarazzo!$k$pTu sa vero motivo, sì?
+Tu innamorata segretamente di Gregor!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Dillo un'altra volta e ti infilo
+la spada su per il di-$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Uh uh! A Gregor piacere donne focose!
+Quasi quasi lui prende in giro te ancora!$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|E io quasi quasi ti trasformo
+in uno zerbino!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Uh, Sullyuccia! Tu sfodera l'arma
+e sfida Gregor a duello?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_29|È l'ultima volta che ti lascio
+offendere me e il mio onore!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_22|E se Sully perde? Cosa succede?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_25|A quel punto la mia vita e il mio onore ti
+apparteranno e potrai farne quel che vuoi.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_21|Gregor accetta condizioni di Sullyuccia!
+In guardia...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|¡Eh, Pequesully!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|Deja de llamarme así.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|¡Jo, jo, jo! ¿No gustar nombre Pequesully?
+Ser perfecto para ti, muy femenino.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|¡No tiene nada de femenino, perro infestado
+de pulgas!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|¡Gregor sentirse mal! Cuando camaradas
+luchar juntos, utilizar nombres cariñosos.$k$pSer señal de amistad y respeto ¿sí? ""¡Esta
+ser Pequesully, valiente y leal aliada!""$k$pVamos, Gregor y Pequesully ser amigos.
+No tener que ponerse colorada.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|No me estoy... poniendo colorada.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_11|¡Jo, jo, jo! ¡Nuevo nombre no ser única
+razón Pequesully estar avergonzada!$k$pTú saber auténtica razón, ¿sí? ¡Estar
+enamorada de Gregor, pero nadie saber!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Si vuelves a decir eso, te clavaré mi
+espada en el...$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|¡Jo, jo, jo! ¡Gregor gustar mujer rabiosa!
+¡Tal vez bromear un poco más contigo!$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|¡Y puede que yo acabe haciéndote
+morder el polvo!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|¡Venga, Pequesully! ¿Sacar espada y
+combatir con Gregor?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_29|¡Esta es la última vez que me faltas
+al respeto, maldita sea!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_22|¿Y si perder?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_25|Entonces puedes hacer lo que quieras,
+tanto con mi vida como con mi honor.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_21|¡Gregor aceptar condiciones de Pequesully!
+Empezar cuando Pequesully querer...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_9|Oy, Sullykins.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|Stop calling me that.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_14|Ho ho! You no like name Sullykins?
+But name suits you. Very ladylike.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|There's nothing ladylike about it,
+you flea-ridden old goat!$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_4|You wound Gregor. When comrades
+fight together, they give pet name, yes?$k$pIs sign of friendship and respect, yes?
+""Hail, Sullykins, brave and faithful ally!""$k$pCome, Gregor and Sullykins are friends.
+No need to make with the blushings.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|I'm not...blushing.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_11|But newfangled name is not only reason
+Sullykins is embarrassed!$k$pYou know real reason, yes?
+Sully secretly in love with Gregor!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|You say that again,
+and I'll shove my sword so―$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_15|Ho ho ho! Gregor likes woman with steam-
+filled head! Maybe he teases you more.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|And maybe I'll turn you
+into a doormat!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Oy, Sullykins. You draw your sword
+and challenge Gregor to do battle?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_29|You have insulted me and my honour
+for the last damn time!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_22|And if Sully loses? Then what?$k
+$Wsソワレ|$Wa$E怒,|$SvpSE_VOICE_SOIREE_EVT_25|Then that life and honour are yours
+to do with as you will.$k
+$Wsグレゴ|$Wa$E怒,|$SvpSE_VOICE_GREGO_EVT_21|Gregor accepts terms from Sullykins!
+Is ready when she is...$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_ITAZURA1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Gregor.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_9|Oy, Sullycik.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_5|Bana öyle demeyi bırak.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_14|Ho ho! Sullycik'i sevmiyor musun? Ama
+sana yakışıyor. Çok hanım hanımcık.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_16|Bunda hanımefendiye özgü hiçbir şey yok,
+seni pire basmış yaşlı keçi!$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_4|Gregor'u yaraladın. Yoldaşlar savaşınca
+birbirine lakap takar, değil mi?$k$pDostluk ve saygı işareti, değil mi?
+""Selam Sullycik, cesur ve sadık yoldaş!""$k$pHaydi, Gregor ve Sullycik arkadaşlar.
+Kızarmalarla uğraşmaya gerek yok.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_17|Ben... kızarmıyorum.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_11|Ancak Sullycik'in utanmasının tek
+nedeni yeni çıkan isim değil!$k$pGerçek sebebini biliyorsun,
+değil mi? Sully gizlice Gregor'a âşık!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|Bunu bir daha
+söylersen kılıcımı öylece savururum-$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_15|Ho ho ho! Gregor ateş püsküren kadın
+sever! Belki sana daha çok takılır.$k
+$Wsソワレ|$Wa$E怒,照|$SvpSE_VOICE_SOIREE_EVT_28|Belki de seni
+paspasa çeviririm!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_11|Oy, Sullycik. Kılıcını çekip
+Gregor'a savaş için meydan mı okuyorsun?$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_29|Son kez bana ve
+şerefime hakaret ettin!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_22|Ya Sully kaybederse? Sonra ne olacak?$k
+$Wsソワレ|$Wa$E怒|$SvpSE_VOICE_SOIREE_EVT_25|O zaman bu yaşam ve onur sizindir,
+dilediğiniz gibi kullanabilirsiniz.$k
+$Wsグレゴ|$Wa$E怒|$SvpSE_VOICE_GREGO_EVT_21|Gregor Sullycik'in şartlarını kabul
+ediyor! O hazır olduğunda...$k
+$Sbs1000|"
+3,MID_支援_グレゴ_ソワレ_Ｓ,"$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Gregor ? Je voulais te demander quelque
+chose au sujet de notre dernier duel.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Tu veux contester les résultats, p'têt' ?
+J'trouve qu'y a rien à ajouter, moi.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Non. J'accepte que tu sois meilleur
+que moi... Du moins pour le moment.$k$pMais je ne peux pas accepter la punition
+que tu m'as donnée après ta victoire !$k$pJ'ai perdu le duel, cependant tu refuses
+de réclamer ton prix !$k$pAllons, dis-moi ce que tu veux, que je
+puisse enfin dormir la nuit !$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Ça m'intéresse plus trop, d'me battre
+contre une femme comme toi.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|QUOI ?! Mais qu'est-ce que tu veux dire ?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|On a combattu plusieurs fois. J'ai gagné
+à chaque fois. Ça m'suffit.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Je sais que tu as gagné ! Alors si tu refuses
+seulement parce que je suis une femme...$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|Pas parce que t'es une femme...
+Mais parce que c'est toi.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Qu'est-ce que c'est encore que
+ces salades ?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|J'peux pas combattre une femme alors que
+bon... je l'aime comme un fou, quoi !$k$pAlors, au lieu de sortir mon épée, j't'ai
+acheté un p'tit cadeau...$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|C'est un... anneau ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|J'veux t'épouser. Tu veux bien ?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|Je ne comprends pas... Pourquoi moi ?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Parce que t'es une femme remarquable !
+T'es forte, brave, et puis fière aussi !$k$pÇa fait longtemps que j't'admire de loin,
+Sullinou.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|J'sais que j'suis vieux, balafré et plus en
+très bon état. J'comprendrai si tu refuses.$k$pMais refuse pas à cause des duels !
+Mon pauvre cœur tiendrait pas le choc.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|Je ne dirais pas « non » à cause de ça.$k$pJe ne le dirais pas du tout, à vrai dire...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_3|Euh... J'suis perdu, là.
+Tu veux dire... Que c'est un oui ?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|J'ai beaucoup appris de toi, Gregor.$k$pSur le combat et les épées, c'est sûr...
+Mais aussi sur l'honneur et le respect.$k$p$E笑,照|Je crois qu'on ferait une sacrée bonne
+équipe tous les deux, si on se mariait.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_10|Oh, j'suis tellement heureux ! Regarde-moi !
+J'en danse de joie !$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Gregor? Ich wollte dich etwas zu unserem
+Duell von letzter Woche fragen.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Wenn du wollen diskutieren über Ergebnis,
+Gregor nichts zu sagen haben.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Nein. Ich akzeptiere, dass du besser bist.
+...Zumindest im Moment.$k$pAber ich finde die Strafe für meine
+Niederlage nicht akzeptabel.$k$pIch habe ein Duell verloren, aber du willst
+den verdammten Gewinn nicht einstreichen!$k$pAlso sag mir, was du willst und gut ist!
+Dann kann ich endlich ruhig schlafen!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor sein nicht mehr interessiert an
+Wettbewerb mit Frau wie dir.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Was zum Geier soll DAS nun wieder heißen?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Gregor oft mit dir kämpfen.
+Gregor oft gewinnen. Es sein genug.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Ich hab schon zugegeben, dass du
+besser bist!$k$pWenn du also nicht mit mir kämpfen willst,
+weil ich eine Frau bin, dann--$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|Es nicht sein, weil du sein Frau.
+Es sein, weil du sein Sully.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Oh, und was soll DAS nun wieder heißen?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor kann nicht kämpfen gegen Frau,
+die er so wild lieben!$k$pAlso er dir kaufen schönes Geschenk,
+statt dich zu schlagen mit Schwert!$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|...Ist das ein Ring?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor wollen dich heiraten, ja?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|Ich verstehe nicht... Warum mich?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Weil du sein feine Frau!
+Stark und stolz und mutig!$k$pGregor schon lange bewundern
+Sullyli aus der Entfernung!$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor wissen, er sein alter, narbiger Mann
+mit dickem Bauch. Er ein Nein akzeptieren.$k$pAber sagen nicht Nein wegen der Duelle!
+Gregors armes Herz das nicht ertragen.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|Deshalb würde ich auch nicht Nein sagen.$k$p...Ehrlich gesagt, gibt es überhaupt keinen
+Grund für mich, Nein zu sagen.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_3|Öhm, jetzt Gregor sein verwirrt.
+Das bedeuten Ja?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|Du hast mir viel beigebracht, Gregor.$k$pÜber den Schwertkampf und Duelle,
+aber auch über Ehre und Respekt.$k$p$E笑,照|Ich glaub, wir würden gut zusammen
+passen, wenn wir heiraten sollten.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_10|Oh, glückliche Worte! Gregor jetzt müssen
+tanzen den Tanz der Freude!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Gregor, volevo chiederti una cosa che
+riguarda il duello della scorsa volta.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Se tu vuole contestare il risultato,
+Gregor non ha niente da dire.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|No. Ammetto che tu sia più bravo di me.
+Almeno per ora.$k$pMa non riesco ad accettare la punizione
+che mi hai inflitto dopo la sconfitta.$k$pIo ho perso un duello senza appello e tu
+ti rifiuti di rivendicare il dannato premio.$k$pDimmi qual è la tua richiesta così tagliamo
+corto e mi metto il cuore in pace!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor non è più interessato a essere
+in competizione con donna come te.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|E questo cosa diavolo vorrebbe dire?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Gregor ha lottato con te molte volte.
+Gregor ha vinto molte volte. Basta così.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Ho già ammesso che hai vinto! Se ti rifiuti
+solo perché sono una donna, guarda che...$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|Non è perché tu è donna.
+È perché tu è Sully.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Ah grazie, ora è più chiaro.
+Che diavolo significa?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor non può combattere donna
+che lui ama così follemente.$k$pInvece di batterti con la spada,
+lui compra regalo d'amore.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|È un anello?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor vuole sposare te, sì?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|Non capisco... Perché proprio me?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Perché tu è donna straordinaria.
+Forte, coraggiosa e fiera!$k$pGregor ammira da molto tempo
+Sullyuccia da lontano.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor sa che lui è vecchio con pancetta
+e cicatrici. Se tu dice no, lui capisce.$k$pMa tu non rifiuta solo per duello! Il povero
+cuore di Gregor non lo accetterebbe.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|Non rifiuterei per quel motivo.$k$pA dire il vero, non rifiuterei affatto.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_3|Ehm, Gregor è confuso. Sully dice di sì?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|Gregor, da te ho imparato un sacco.$k$pSull'arte della scherma, certo.
+Ma anche sull'onore e sul rispetto.$k$p$E笑,照|Se ci sposassimo, sono certa che insieme
+faremmo una dannatissima ottima squadra.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_10|Oh, parole di allegria!
+Gregor fa passi di danza dalla felicità!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|¿Gregor? Quería preguntarte algo sobre
+el duelo de la semana pasada.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|Si querer discutir sobre resultado, Gregor
+no tener nada que decir.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|No, no. Reconozco que eres mejor que yo.
+Al menos... por ahora.$k$p¡Gregor, no puedo aceptar el castigo que
+me impusiste por perder!$k$p¡Ganaste el duelo limpiamente, pero te
+negaste a reclamar el maldito premio!$k$p¡Acabemos con esto de una vez! ¡Establece
+el precio de mi derrota y déjame tranquila!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|¡Gregor no querer seguir compitiendo con
+mujer como tú!$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|¡¿Qué demonios quieres decir con ESO?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Gregor luchar contigo muchas veces y
+ganar muchas veces. Ser suficiente.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|¡Ya he reconocido que ganaste! Así que si
+te estás negando porque soy mujer...$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|No ser porque tú mujer.
+Ser porque tú ser Sully.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|¡Ah! Y dime, ¿QUÉ quieres decir con eso?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor no poder luchar con mujer si estar
+locamente enamorado de ella.$k$pAsí que en vez de golpear con espada,
+Gregor comprar bonito regalo.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|¿Eso es un anillo?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor querer casar contigo, ¿sí?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|No lo entiendo... ¿Por qué yo?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|¡Porque tú ser mujer perfecta!
+¡Ser fuerte, valiente y orgullosa!$k$pHacer tiempo que Gregor admirar
+a Pequesully en secreto.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|(...)$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor saber que ser viejo con barriga y
+cicatrices. Así que estar bien si decir no.$k$pPero ¡no decir no por resultado de duelos!
+Corazón de Gregor no poder soportar.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|Yo nunca te diría que no por eso.$k$pY, de hecho, no pienso decirlo.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_3|Eeeh, Gregor no entender.
+¿Eso ser sí?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|He aprendido mucho de ti, Gregor.$k$pY no solo sobre esgrima y técnicas de
+espada. También sobre honor y respeto.$k$p$E笑,照|Creo que, si nos casáramos, formaríamos
+un equipo condenadamente bueno.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_10|¡Oh, estar contento de escuchar eso!
+¡Gregor hacer baile de felicidad!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Gregor? I wanted to ask you something
+about our duel last week.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_6|If you want to dispute results,
+Gregor have nothing to say.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|No. I accept that you're better.
+...For now, at least.$k$pBut I can't accept the punishment you
+gave me for losing.$k$pI lost a duel fair and true, yet you
+refuse to claim the damn prize.$k$pNow name your terms so we can be done
+with this and I can sleep at night!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor is no longer interested in
+competition with woman like you.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|What the hell does that mean?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_11|Gregor fights with you many times.
+Gregor wins many times. Is enough.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|I already admitted you won! So if you're
+gonna refuse just because I'm a woman―$k
+$Wsグレゴ|$Wa$E通常,|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|Is not because you are woman.
+Is because you are Sully.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Oh, so now what does THAT mean?!$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor cannot fight woman who he is
+loving so madly.$k$pSo instead of beating you with sword,
+he buys you lovely gift instead.$k
+$Wsソワレ|$Wa$E通常,|$SvpSE_VOICE_SOIREE_EVT_13|...Is that a ring?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_7|Gregor is wanting to marry you, yes?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|I don't understand... Why me?$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_10|Because you are fine woman.
+Strong and brave and proud!$k$pGregor is long time admiring
+Sullykins from afar.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_4|Gregor knows he is old man with many scars
+and fattened belly. So is okay if you say no.$k$pBut do not be saying so because of duels!
+That, Gregor's poor heart could not take.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|I wouldn't say no because of that.$k$p...And actually, I wouldn't say no
+at all.$k
+$Wsグレゴ|$Wa$E通常,|$SvpSE_VOICE_GREGO_EVT_3|Wait... Gregor is confused.
+Is meaning Sully says yes?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|I've learned a lot from you, Gregor.$k$pAbout fencing and swordsmanship, sure.
+But also honour and respect.$k$p$E笑,照|I think we could make a pretty
+damn fine team if we married.$k
+$Wsグレゴ|$Wa$E笑,|$SvpSE_VOICE_GREGO_EVT_10|Oh, words of joyfulness!
+Gregor will do his happy dance!$k
+$Sbs1000|","$SbpSTRM_BGM_EVT_LOVE1|0|$t1$Wmソワレ|7$Wmグレゴ|3$w0|$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_5|Gregor? Geçen haftaki düellomuzla ilgili
+sana bir şey sormak istiyordum.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_6|Sonuçlara itiraz etmek istiyorsanız
+Gregor'un söyleyecek hiçbir şeyi yok.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_11|Hayır. Senin daha iyi olduğunu kabul
+ediyorum. ...en azından şimdilik.$k$pAma kaybettiğim için bana verdiğin
+cezayı kabul edemem.$k$pDüelloyu mertçe kaybettim ama sen lanet
+ödülü almıyorsun.$k$pŞimdi şartlarınızı söyleyin de bu işi
+bitirelim ve ben de geceleri uyuyabileyim!$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Gregor artık senin gibi bir
+kadınla rekabet etmekle ilgilenmiyor.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Bu ne anlama geliyor?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_11|Gregor seninle birçok kez kavga ediyor.
+Gregor birçok kez kazanır. Yeterli.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_17|Kazandığını zaten kabul ettim! Yani
+sırf kadın olduğum için reddedeceksen-$k
+$Wsグレゴ|$Wa$E通常|$SvjSE_VOICE_GREGO_EVT_10|$SveSE_VOICE_GREGO_EVT_4|Kadın olduğun için değil.
+Çünkü sen Sully'sin.$k
+$Wsソワレ|$Wa$E苦,汗|$SvpSE_VOICE_SOIREE_EVT_16|Peki bu ne anlama geliyor?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_4|Gregor bu kadar delice sevdiği
+kadınla dövüşemez.$k$pYani seni kılıçla dövmek yerine
+sana çok güzel bir hediye alıyor.$k
+$Wsソワレ|$Wa$E通常|$SvpSE_VOICE_SOIREE_EVT_13|...bu bir yüzük mü?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_7|Gregor seninle evlenmek istiyor, değil mi?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_2|Anlamıyorum... Neden ben?$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_10|Çünkü sen iyi bir
+kadınsın. Güçlü, cesur ve gururlu!$k$pGregor uzun süredir Sullycik'e
+uzaktan hayranlık duyuyor.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_16|...$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_4|Gregor yaşlı, yaralı ve göbekli
+adamdır. Hayır dersen sorun yok.$k$pAma bunu düellolar yüzünden söylemeyin!
+Gregor'un zavallı kalbi buna dayanamadı.$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_11|Bundan dolayı hayır diyemem.$k$p...Aslında kesinlikle hayır
+diyemem.$k
+$Wsグレゴ|$Wa$E通常|$SvpSE_VOICE_GREGO_EVT_3|Durun... Gregor'un kafası karıştı.
+Sully'nin evet dediği anlamına mı geliyor?$k
+$Wsソワレ|$Wa$E通常,照|$SvpSE_VOICE_SOIREE_EVT_12|Senden çok şey öğrendim Gregor.$k$pEskrim ve kılıç ustalığı hakkında elbette.
+Ama aynı zamanda onur ve saygı.$k$p$E笑,照|Eğer evlenirsek çok iyi bir
+takım olabileceğimizi düşünüyorum.$k
+$Wsグレゴ|$Wa$E笑|$SvpSE_VOICE_GREGO_EVT_10|Ah, neşe dolu sözler!
+Gregor mutlu dansını yapacak!$k
+$Sbs1000|"

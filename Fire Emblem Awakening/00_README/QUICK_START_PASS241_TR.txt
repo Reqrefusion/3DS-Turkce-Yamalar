@@ -1,0 +1,42 @@
+FIRE EMBLEM AWAKENING TÜRKÇE YAMA — PASS241
+============================================
+
+Bu sürüm Pass241 tam kümülatif Türkçe çevirisini içerir.
+Önceki font düzeltmesi de dahildir: Türkçe "ı" U+0131 artık gerçek dotsuz gliftir.
+
+HAZIR İÇERİK
+------------
+romfs/m/U/
+  854 adet Türkçeleştirilmiş .bin.lz
+
+romfs/fonts/
+  6 adet Türkçeleştirilmiş .bfnt.lz
+  Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü destekli
+
+LUMA / EUR
+----------
+Paket içindeki:
+  Luma_EUR_SD_ROOT/luma/
+
+klasörünü SD kartın köküne birleştirin.
+
+Hedef yol:
+  /luma/titles/000400000009F100/romfs/m/U/
+  /luma/titles/000400000009F100/romfs/fonts/
+
+Luma'da "Enable game patching" açık olmalıdır.
+
+EMÜLATÖR / ÇIKARILMIŞ ROMFS
+----------------------------
+Paket kökündeki "romfs" klasörünü oyunun mod/romfs dizinine birleştirin.
+
+DOĞRULAMA
+---------
+- 854 CSV / 15.817 kayıt kaynak alınmıştır.
+- 13.429 metin / 846 dosya İngilizce U slotuna farklı Türkçe metin olarak yazılmıştır.
+- Çıktı tekrar açılmıştır: 854 dosya / 15.817 kayıt PASS.
+- CSV TR -> oyun U satır karşılaştırması: 15.817/15.817 eşleşme.
+- "ı" U+0131 sayısı: kaynak 122.337, çıktı 122.337.
+- 6 fontta 12 Türkçe karakterin tamamı doğrulanmıştır.
+- Pass241 ZIP'indeki 770 mojibake Japonca CSV dosya adı otomatik olarak doğru
+  UTF-8 adına çevrilip orijinal dosyalarla eşleştirilmiştir.
