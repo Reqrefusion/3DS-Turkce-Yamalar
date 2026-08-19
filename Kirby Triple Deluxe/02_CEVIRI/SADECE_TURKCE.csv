@@ -1,0 +1,2424 @@
+﻿file,index,label,TR_Turkish
+Arena.msbt,0,TitleStartBtn,Başla
+Arena.msbt,1,TitleRankingBtn,Sıralama
+Arena.msbt,2,TitleExitBtn,Geri
+Arena.msbt,3,LoseRetryBtn,Yeniden Dene
+Arena.msbt,4,LoseEndBtn,Çık
+Arena.msbt,5,LoseMessage,⟦MSBT:0E000000020002004B00⟧Bir dahaki sefere başaracaksın...⟦MSBT:0E000000020002006400⟧
+Arena.msbt,6,LoseMessage2,⟦MSBT:0E000000020002004B00⟧Şampiyon olmak kolay değil.⟦MSBT:0E000000020002006400⟧
+Arena.msbt,7,LoseMessage3,⟦MSBT:0E000000020002004700⟧Şampiyon olmaya çok yaklaştın!⟦MSBT:0E000000020002006400⟧
+Arena.msbt,8,LoseMessage4,⟦MSBT:0E000000020002004600⟧Gerçek şampiyon olmak kolay değil.⟦MSBT:0E000000020002006400⟧
+Arena.msbt,9,LoseMessage5,⟦MSBT:0E000000020002003E00⟧Gerçek şampiyon olmaya çok yaklaştın!⟦MSBT:0E000000020002006400⟧
+Arena.msbt,10,RankingText,Sıralamalar
+Arena.msbt,11,RankingEndBtn,Geri
+Arena.msbt,12,RankingRivalTime,StreetPass
+Arena.msbt,13,RankingRivalName,Rakip
+Arena.msbt,14,RankingLoMainText,"⟦MSBT:0E000000020002005A00⟧En iyi ⟦MSBT:0E00000003000400FF693CFF⟧sürelerini⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E000000020002006400⟧
+⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF693CFF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ ile paylaş!⟦MSBT:0E000000020002006400⟧
+⟦MSBT:0E000000020002005A00⟧Rakiplerinin sürelerini geç,⟦MSBT:0E000000020002006400⟧
+⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF693CFF⟧Şampiyon⟦MSBT:0E00000003000400000000FF⟧ ol!⟦MSBT:0E000000020002006400⟧"
+Arena.msbt,15,RankingLoMainText2,"⟦MSBT:0E000000020002005700⟧⟦MSBT:0E00000003000400E73C24FF⟧En iyi sürelerini⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400E73C24FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ ile paylaş!
+Rakiplerinin sürelerini geç ve
+⟦MSBT:0E00000003000400E73C24FF⟧Gerçek Şampiyon⟦MSBT:0E00000003000400000000FF⟧ ol!⟦MSBT:0E000000020002006400⟧"
+Arena.msbt,16,CommonRoundText,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00020001000000⟧ kaldı⟦MSBT:0E000000020002006400⟧
+Arena.msbt,17,CommonClearIcon,⟦MSBT:0E000000020002004400⟧Tamam⟦MSBT:0E000000020002006400⟧
+Arena.msbt,18,MainNextText,⟦MSBT:0E000000020002005500⟧Sonraki⟦MSBT:0E000000020002006400⟧
+Arena.msbt,19,MainRestText,Kalan
+Arena.msbt,20,RankingRoundText,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00020001000000⟧ kaldı⟦MSBT:0E000000020002006400⟧
+Arena.msbt,21,TimeSepMinSec,:
+Arena.msbt,22,TimeSepSecMsec,","
+Arena.msbt,23,TimeBeforeStartMin,--
+Arena.msbt,24,TimeBeforeStartSec,--
+Arena.msbt,25,TimeBeforeStartMsec,--
+Arena.msbt,26,TimeHiddenMin,??
+Arena.msbt,27,TimeHiddenSec,??
+Arena.msbt,28,TimeHiddenMsec,??
+CheckSaveData.msbt,0,CreateFile,"⟦MSBT:0E00000003000400FF4600FF⟧Kayıt verisi⟦MSBT:0E00000003000400000000FF⟧
+oluşturuluyor.
+Lütfen bekleyin."
+CheckSaveData.msbt,1,CreateFileSuccess,⟦MSBT:0E00000003000400FF4600FF⟧Kayıt verisi⟦MSBT:0E00000003000400000000FF⟧ oluşturuldu.
+CheckSaveData.msbt,2,RecreateFile,"⟦MSBT:0E00000003000400FF4600FF⟧Kayıt verisi⟦MSBT:0E00000003000400000000FF⟧ yeniden
+oluşturuluyor.
+Lütfen bekleyin."
+CheckSaveData.msbt,3,RepairData,"⟦MSBT:0E00000003000400FF4600FF⟧Kayıt verisi⟦MSBT:0E00000003000400000000FF⟧ bozuldu.
+Yeni veri oluşturuluyor.
+Lütfen bekleyin..."
+CheckSaveData.msbt,4,ErrorOccured,Bir ⟦MSBT:0E00000003000400FF4600FF⟧hata ⟦MSBT:0E00000003000400000000FF⟧oluştu.
+CheckSaveData.msbt,5,IsExecFormat,"⟦MSBT:0E00000003000400FF4600FF⟧Kayıt verisi⟦MSBT:0E00000003000400000000FF⟧ yeniden
+oluşturulsun mu?"
+CheckSaveData.msbt,6,MiiDBFormatted,"⟦MSBT:0E00000003000400FF4600FF⟧Mii Oluşturucu⟦MSBT:0E00000003000400000000FF⟧'nun
+⟦MSBT:0E00000003000400FF4600FF⟧kayıt verisi⟦MSBT:0E00000003000400000000FF⟧ bozulmuştu.
+Yeni kayıt verisi oluşturuldu."
+CheckSaveData.msbt,7,CreateExtSaveData,
+CheckSaveData.msbt,8,RecreateExtSaveData,
+CheckSaveData.msbt,9,NotFoundSDCard,
+CheckSaveData.msbt,10,NotEnoughSpaceSDCard,
+CommonUI.msbt,0,DialogYes,⟦MSBT:0E000000020002005300⟧Evet⟦MSBT:0E000000020002006400⟧
+CommonUI.msbt,1,DialogNo,⟦MSBT:0E000000020002005000⟧Hayır⟦MSBT:0E000000020002006400⟧
+CommonUI.msbt,2,DialogOK,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+CommonUI.msbt,3,SaveInfoMessage,Kaydediliyor...
+CommonUI.msbt,4,TitleRights,"©2014 HAL Laboratory, Inc. / Nintendo"
+DeGo.msbt,0,CommonLabelLevel,Sv
+DeGo.msbt,1,TitleNewGameBtn,⟦MSBT:0E000000020002004F00⟧Yeni Macera⟦MSBT:0E000000020002006400⟧
+DeGo.msbt,2,TitleContinueBtn,Devam Et
+DeGo.msbt,3,TitleBestTimeBtn,En İyi Süre
+DeGo.msbt,4,TitleEndBtn,Çık
+DeGo.msbt,5,ContinueStartBtn,Başla
+DeGo.msbt,6,ContinueEndBtn,Geri
+DeGo.msbt,7,StepShowRecordBtn,"⟦MSBT:0E000000020002006400⟧Süreyi
+Gör⟦MSBT:0E000000020002006400⟧"
+DeGo.msbt,8,LevelClearTitle,⟦MSBT:0E000000020002004E00⟧Bitirme Süresi⟦MSBT:0E000000020002006400⟧
+DeGo.msbt,9,LevelClearBestTime,En İyi Süre
+DeGo.msbt,10,LevelClearTotalTime,Toplam
+DeGo.msbt,11,LevelClearBtn,Sonraki
+DeGo.msbt,12,RecordEndBtnStep,Geri
+DeGo.msbt,13,GameClearLevelResultBtn,⟦MSBT:0E000000020002004E00⟧Bitirme Süresi⟦MSBT:0E000000020002006400⟧
+DeGo.msbt,14,GameClearExitLevelResultBtn,Geri
+DeGo.msbt,15,GameClearEndBtn,Çık
+DeGo.msbt,16,GameClearBestTime,EN İYİ
+DeGo.msbt,17,GameClearNewRecord,YENİ!
+DeGo.msbt,18,TimeSepHourMin,:
+DeGo.msbt,19,TimeSepMinSec,:
+DeGo.msbt,20,TimeSepSecMsec,","
+DeGo.msbt,21,TimeNotAvailableHour,-
+DeGo.msbt,22,TimeNotAvailableMin,-
+DeGo.msbt,23,TimeNotAvailableSec,-
+DeGo.msbt,24,TimeNotAvailableMsec,-
+DeGo.msbt,25,BestTimeMyRecordTitle,En İyi Süre
+DeGo.msbt,26,BestTimeMyLevel,Sv
+DeGo.msbt,27,BestTimeRivalRecordTitle,⟦MSBT:0E000000020002005600⟧StreetPass Süresi⟦MSBT:0E000000020002006400⟧
+DeGo.msbt,28,BestTimeRivalLevel,Sv
+DeGo.msbt,29,BestTimeStageClearTime,Bitirme Süresi
+DeGo.msbt,30,BestTimeExplain,"⟦MSBT:0E000000020002006300⟧⟦MSBT:0E00000003000400FFDE00FF⟧En iyi Dedede Turu⟦MSBT:0E00000003000400000000FF⟧
+sürelerini ⟦MSBT:0E00000003000400FFDE00FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧'le
+paylaş; arkadaşlarının
+rekorunu geç!⟦MSBT:0E000000020002006400⟧"
+DeGo.msbt,31,BestTimeEndBtn,⟦MSBT:0E000000020002006400⟧Geri⟦MSBT:0E000000020002006400⟧
+DeGo.msbt,32,SaveDialogText,"Bir dahaki oynayışında,
+⟦MSBT:0E00000003000400FF4B32FF⟧Devam Et⟦MSBT:0E00000003000400000000FF⟧'i seçerek
+kaldığın yerden oynayabilirsin."
+DeGo.msbt,33,GameOverContinueBtn,Devam Et
+DeGo.msbt,34,GameOverExitBtn,Oyundan Çık
+DeGo.msbt,35,TutorialHeader1,"⟦MSBT:0E000000020002005A00⟧Dedede, Dedede Turu'na çıkıyor!⟦MSBT:0E000000020002006400⟧"
+DeGo.msbt,36,TutorialHeader2,Işın Geçitleriyle zaman kazan!
+DeGo.msbt,37,TutorialHeader3,Acımasız bir DX patron!
+DeGo.msbt,38,TutorialContent1,"⟦MSBT:0E000000020002005800⟧Kraliyet usulü bir
+⟦MSBT:0E00000003000400FFDE00FF⟧zamana karşı yarış⟦MSBT:0E00000003000400000000FF⟧!
+⟦MSBT:0E00000003000400FFDE00FF⟧Hikâye moduna⟦MSBT:0E00000003000400000000FF⟧ göre daha az
+iyileştirme eşyası bulacaksın.⟦MSBT:0E000000020002006400⟧"
+DeGo.msbt,39,TutorialContent2,"⟦MSBT:0E000000020002005800⟧⟦MSBT:0E00000003000400FFDE00FF⟧Işın Geçitlerini⟦MSBT:0E00000003000400000000FF⟧ bulup
+daha ilerideki bölümlere
+atla. Harika ⟦MSBT:0E00000003000400FFDE00FF⟧kestirmelerdir⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+DeGo.msbt,40,TutorialContent3,"⟦MSBT:0E000000020002005800⟧Yolda ⟦MSBT:0E00000003000400FFDE00FF⟧DX patronlarla⟦MSBT:0E00000003000400000000FF⟧
+savaşacak, sonunda da onun
+⟦MSBT:0E00000003000400FFDE00FF⟧intikamıyla⟦MSBT:0E00000003000400000000FF⟧ yüzleşeceksin.⟦MSBT:0E000000020002006400⟧"
+Den.msbt,0,GameOverExitButtonTitle,Bölüm Seçimi
+Den.msbt,1,GameOverRestartButtonTitle,Tekrar Dene
+Den.msbt,2,PauseRestartButtonTitle,Baştan
+Den.msbt,3,PauseContinueButtonTitle,⟦MSBT:0E000000020002005A00⟧Devam⟦MSBT:0E000000020002006400⟧
+Den.msbt,4,PauseEndButtonTitle,Çık
+Den.msbt,5,PauseDialogYesButtonTitle,⟦MSBT:0E000000020002004E00⟧Evet⟦MSBT:0E000000020002006400⟧
+Den.msbt,6,PauseDialogNoButtonTitle,⟦MSBT:0E000000020002004B00⟧Hayır⟦MSBT:0E000000020002006400⟧
+Den.msbt,7,PauseDialogRetryText,"⟦MSBT:0E00000003000400FFDE00FF⟧Baştan⟦MSBT:0E00000003000400000000FF⟧ denemek
+ister misin?"
+Den.msbt,8,PauseDialogExitText,"Oyundan çıkıp ⟦MSBT:0E00000003000400FFDE00FF⟧bölüm
+seçimine⟦MSBT:0E00000003000400000000FF⟧ dönülsün mü?"
+Den.msbt,9,PauseBgUpText00,⟦MSBT:0E000000020002004600⟧Yüksek Zıplama⟦MSBT:0E000000020002006400⟧
+Den.msbt,10,PauseBgUpText01,Ters Vuruş
+Den.msbt,11,PauseBgLoText00,⟦MSBT:0E000000020002004600⟧Yüksek Zıplama⟦MSBT:0E000000020002006400⟧
+Den.msbt,12,PauseBgLoText01,Ters Vuruş
+Den.msbt,13,PauseBgLoText02,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00000003000400FFDE00FF⟧Davula indiğinde⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00010000000000⟧'ya bas.⟦MSBT:0E000000020002006400⟧
+Den.msbt,14,PauseBgLoText03,"⟦MSBT:0E000000020002004B00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Art arda yüksek zıpla⟦MSBT:0E00000003000400000000FF⟧, daha yükseğe çık!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,15,PauseBgLoText04,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00000003000400FFDE00FF⟧Zıplamanın zirvesinde⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00010000000000⟧'ya bas!⟦MSBT:0E000000020002006400⟧
+Den.msbt,16,TitleStartBtn,Başla
+Den.msbt,17,TitleButtonLv1,Seviye 1
+Den.msbt,18,TitleButtonLv2,Seviye 2
+Den.msbt,19,TitleButtonLv3,Seviye 3
+Den.msbt,20,TitleButtonExtra,Ekstra
+Den.msbt,21,TitleHeaderLv1,Seviye 1
+Den.msbt,22,TitleHeaderLv2,Seviye 2
+Den.msbt,23,TitleHeaderLv3,Seviye 3
+Den.msbt,24,TitleHeaderExtra,Ekstra
+Den.msbt,25,TitleButtonExit,Çık
+Den.msbt,26,TitleButtonToTitle,Geri
+Den.msbt,27,TitleButtonBack,Geri
+Den.msbt,28,TitleButtonRanking,Sıralama
+Den.msbt,29,TitleButtonTutorial,Öğretici
+Den.msbt,30,TitleButtonTutorialStart,Başla
+Den.msbt,31,TitleBarHiscoreText,En İyi
+Den.msbt,32,TitleInfoLv1,Yeşil Çayırlar
+Den.msbt,33,TitleInfoLv1RankingHeader,Yeşil Çayırlar
+Den.msbt,34,TitleInfoLv1ExpUL,"⟦MSBT:0E000000020002005A00⟧Yeni başlayanlar için ideal.
+Ritme uy ve
+⟦MSBT:0E00010000000000⟧ basarak ⟦MSBT:0E00000003000400FFDE00FF⟧zıpla⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,35,TitleInfoLv2,Gurme Koşusu
+Den.msbt,36,TitleInfoLv2RankingHeader,Gurme Koşusu
+Den.msbt,37,TitleInfoLv2ExpL,"Açmak için ⟦MSBT:0E00000003000400FFDE00FF⟧Seviye 1⟦MSBT:0E00000003000400000000FF⟧'i
+tamamla!"
+Den.msbt,38,TitleInfoLv2ExpUL,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Gurme⟦MSBT:0E00000003000400000000FF⟧ pistte ⟦MSBT:0E00000003000400FFDE00FF⟧tempo⟦MSBT:0E00000003000400000000FF⟧ hızlanır!
+⟦MSBT:0E00000003000400FFDE00FF⟧Hareketli davullara⟦MSBT:0E00000003000400000000FF⟧
+dikkat et!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,39,TitleInfoLv3,Dedede Teması
+Den.msbt,40,TitleInfoLv3RankingHeader,Dedede Teması
+Den.msbt,41,TitleInfoLv3ExpL,"Açmak için ⟦MSBT:0E00000003000400FFDE00FF⟧Seviye 1⟦MSBT:0E00000003000400000000FF⟧'i
+tamamla!"
+Den.msbt,42,TitleInfoLv3ExpUL,"⟦MSBT:0E000000020002005A00⟧Kralın kendi tema şarkısı.
+⟦MSBT:0E00000003000400FFDE00FF⟧Hızlı tempo⟦MSBT:0E00000003000400000000FF⟧ yüzünden
+davullar ⟦MSBT:0E00000003000400FFDE00FF⟧kırılabilir⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,43,TitleInfoExtra,Uzak Gezgin
+Den.msbt,44,TitleInfoExtraRankingHeader,Uzak Gezgin
+Den.msbt,45,TitleInfoExtraExpL,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Diğer tüm seviyelerde⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FFDE00FF⟧altın madalya⟦MSBT:0E00000003000400000000FF⟧ kazandığında
+oynanabilir!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,46,TitleInfoExtraExpUL,"⟦MSBT:0E000000020002005A00⟧Diğer seviyelerde ustaysan
+zorlu ⟦MSBT:0E00000003000400FFDE00FF⟧bonus bölüme⟦MSBT:0E00000003000400000000FF⟧
+meydan oku. Bol şans!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,47,ResultBtnExit,Bölüm Seçimi
+Den.msbt,48,ResultBtnRetry,Tekrar Dene
+Den.msbt,49,ResultBonusTime,"Zaman
+Bonusu"
+Den.msbt,50,ResultBonusTime2,Zaman Bonusu
+Den.msbt,51,ResultBonusBackBeat,"Mükemmel
+Ters Vuruş"
+Den.msbt,52,ResultBonusBackBeat2,⟦MSBT:0E000000020002003C00⟧Mükemmel Ters Vuruş⟦MSBT:0E000000020002006400⟧
+Den.msbt,53,ResultBonusNoDamage,Hasarsız
+Den.msbt,54,ResultBonusNoDamage2,Hasarsız
+Den.msbt,55,ResultBonusCoin,"Tüm
+Jetonlar"
+Den.msbt,56,ResultBonusCoin2,Tüm Jetonlar
+Den.msbt,57,ResultClearTimeText,⟦MSBT:0E000000020002004600⟧Bitirme Süresi⟦MSBT:0E000000020002006400⟧
+Den.msbt,58,TutorialTextPage1,"⟦MSBT:0E000000020002005000⟧Davullarda ⟦MSBT:0E00000003000400FFDE00FF⟧Kral Dedede⟦MSBT:0E00000003000400000000FF⟧'yi
+zıplat! ⟦MSBT:0E00010009000000⟧ ile ilerle,
+⟦MSBT:0E00000003000400FFDE00FF⟧hedefe⟦MSBT:0E00000003000400000000FF⟧ ulaş!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,59,TutorialTextPage2,"⟦MSBT:0E000000020002005300⟧Davula inerken ⟦MSBT:0E00010000000000⟧'ya basıp
+⟦MSBT:0E00000003000400FFDE00FF⟧yüksek zıpla⟦MSBT:0E00000003000400000000FF⟧! Art arda
+yüksek zıplarsan daha
+yükseğe çıkarsın!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,60,TutorialTextPage3,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Müzik Jetonları⟦MSBT:0E00000003000400000000FF⟧ topla,
+puan kazan ve
+⟦MSBT:0E00000003000400FFDE00FF⟧rekor kır⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,61,TutorialTextPage4,"⟦MSBT:0E000000020002005500⟧Zıplamanın ⟦MSBT:0E00000003000400FFDE00FF⟧zirvesinde⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00010000000000⟧'ya bas; ⟦MSBT:0E00000003000400FFDE00FF⟧ters vuruşta⟦MSBT:0E00000003000400000000FF⟧
+alkışlayıp puanını
+artır!⟦MSBT:0E000000020002006400⟧"
+Den.msbt,62,TutorialContent01Text01,⟦MSBT:0E000000020002005B00⟧Kral Dedede⟦MSBT:0E000000020002006400⟧
+Den.msbt,63,TutorialContent01Text02,Süre Sınırı
+Den.msbt,64,TutorialContent02Text01,⟦MSBT:0E000000020002004E00⟧Yüksek Zıplama⟦MSBT:0E000000020002006400⟧
+Den.msbt,65,TutorialContent03Text01,Müzik Jetonları
+Den.msbt,66,TutorialContent03Text02,⟦MSBT:0E000000020002005F00⟧500 puan⟦MSBT:0E000000020002006400⟧
+Den.msbt,67,TutorialContent03Text03,⟦MSBT:0E000000020002005F00⟧200 puan⟦MSBT:0E000000020002006400⟧
+Den.msbt,68,TutorialContent03Text04,50⟦MSBT:0E000000020002005F00⟧ puan⟦MSBT:0E000000020002006400⟧
+Den.msbt,69,TutorialContent04Text01,Ters Vuruş
+FightSingle.msbt,0,AbilitySelectHeaderText,Kopya Yeteneği Seç
+FightSingle.msbt,1,AbilitySelectButtonBack,Geri
+FightSingle.msbt,2,AbilitySelectButtonStart,Başla
+FightSingle.msbt,3,SingleModeText,Tek Oyuncu
+FightSingle.msbt,4,BestTimeText,En İyi Süre
+FightSingle.msbt,5,LevelTextAbilitySelectLo,Zorluk
+FightSingle.msbt,6,LevelEasyAbilitySelectLo,Kolay
+FightSingle.msbt,7,LevelNormalAbilitySelectLo,Normal
+FightSingle.msbt,8,LevelHardAbilitySelectLo,Zor
+FightSingle.msbt,9,LevelVeryHardAbilitySelectLo,⟦MSBT:0E000000020002006400⟧Çok Zor⟦MSBT:0E000000020002006400⟧
+FightSingle.msbt,10,LevelTextAbilitySelectUp,Zorluk
+FightSingle.msbt,11,LevelEasyAbilitySelectUp,Kolay
+FightSingle.msbt,12,LevelNormalAbilitySelectUp,Normal
+FightSingle.msbt,13,LevelHardAbilitySelectUp,Zor
+FightSingle.msbt,14,LevelVeryHardAbilitySelectUp,Çok Zor
+FightSingle.msbt,15,LevelTextResultLo,Zorluk
+FightSingle.msbt,16,LevelEasyResultLo,Kolay
+FightSingle.msbt,17,LevelNormalResultLo,Normal
+FightSingle.msbt,18,LevelHardResultLo,Zor
+FightSingle.msbt,19,LevelVeryHardResultLo,Çok Zor
+FightSingle.msbt,20,LevelTextBattleLo,Zorluk
+FightSingle.msbt,21,LevelEasyBattleLo,Kolay
+FightSingle.msbt,22,LevelNormalBattleLo,Normal
+FightSingle.msbt,23,LevelHardBattleLo,Zor
+FightSingle.msbt,24,LevelVeryHardBattleLo,⟦MSBT:0E000000020002006200⟧Çok Zor⟦MSBT:0E000000020002006400⟧
+FightSingle.msbt,25,BattleClearTime,Bitirme Süresi
+FightSingle.msbt,26,ResultClearTime,Toplam Süre
+FightSingle.msbt,27,ResultClearTimeShort,Toplam
+FightSingle.msbt,28,ShadowKirbyName,Gölge Kirby
+FightSingle.msbt,29,RemindBattleText,⟦MSBT:0E000000020002005000⟧Kalan:⟦MSBT:0E000000020002006400⟧
+FightSingle.msbt,30,GameOverContinueText,Devam
+FightSingle.msbt,31,GameOverExitText,Çık
+FightSingle.msbt,32,GameOverDialog,Çıkmak istiyor musun?
+FightSingle.msbt,33,AbilityWhip,Kırbaç
+FightSingle.msbt,34,AbilityCutter,Kesici
+FightSingle.msbt,35,AbilitySword,Kılıç
+FightSingle.msbt,36,AbilityNinja,Ninja
+FightSingle.msbt,37,AbilityParasol,Şemsiye
+FightSingle.msbt,38,AbilityHammer,Çekiç
+FightSingle.msbt,39,AbilityBeam,Işın
+FightSingle.msbt,40,AbilityFighter,Dövüşçü
+FightSingle.msbt,41,AbilityBomb,Bomba
+FightSingle.msbt,42,AbilitySniper,Okçu
+FightTitle.msbt,0,SingleBtn,⟦MSBT:0E000000020002004800⟧Tek Oyuncu⟦MSBT:0E000000020002006400⟧
+FightTitle.msbt,1,MultiBtn,⟦MSBT:0E000000020002004B00⟧Çok Oyuncu⟦MSBT:0E000000020002006400⟧
+FightTitle.msbt,2,TrainingBtn,Antrenman
+FightTitle.msbt,3,EndBtn,⟦MSBT:0E000000020002005500⟧Çık⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,0,HeaderMulti,Çok Oyunculu
+FightVs.msbt,1,HeaderTraining,Antrenman
+FightVs.msbt,2,ExplainWait,Lütfen bekleyin...
+FightVs.msbt,3,ExplainWaitWithCancel,"Lütfen bekleyin...
+⟦MSBT:0E000000020002005A00⟧(İptal için ⟦MSBT:0E00010001000000⟧ tuşuna basın.)⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,4,ExplainSendDLP,"İndirme Oyunu verileri
+aktarılıyor..."
+FightVs.msbt,5,ExplainMapRandom,Rastgele harita seçildi.
+FightVs.msbt,6,ExplainMapBattlefield,Çiçek Diyarı seçildi.
+FightVs.msbt,7,ExplainMapCastleLololo,Lololo Kalesi seçildi.
+FightVs.msbt,8,ExplainMapDededeRing,⟦MSBT:0E000000020002006300⟧Dedede Arenası seçildi.⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,9,ExplainMapBubblyClouds,⟦MSBT:0E000000020002006100⟧Pofuduk Bulutlar seçildi.⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,10,ExplainMapFactory,Fabrika Turu seçildi.
+FightVs.msbt,11,ExplainMapForestCoo,Coo'nun Ormanı seçildi.
+FightVs.msbt,12,ExplainMapLastStage,⟦MSBT:0E000000020002005B00⟧Başka Bir Boyut seçildi.⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,13,OperationHeroSelect,⟦MSBT:0E00010004000000⟧ ⟦MSBT:0E00010005000000⟧ Renk değiştir       ⟦MSBT:0E00010003000000⟧ Ayarlar
+FightVs.msbt,14,OperationHeroSelectNoColorChange,⟦MSBT:0E00010003000000⟧ Ayarlar
+FightVs.msbt,15,OperationAbilitySelect,⟦MSBT:0E00010004000000⟧ ⟦MSBT:0E00010005000000⟧ Renk değiştir     ⟦MSBT:0E00010010000000⟧⟦MSBT:0E00010011000000⟧⟦MSBT:0E00010012000000⟧ Kontroller
+FightVs.msbt,16,VSExplainGhostTitle,⟦MSBT:0E000000020002006400⟧Hayalet Kirby Hakkında⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,17,VSExplainGhostContent,"⟦MSBT:0E000000020002005A00⟧Nakavt olsan bile,
+⟦MSBT:0E00000003000400FFFF00FF⟧Hayalet Kirby⟦MSBT:0E00000003000400000000FF⟧ olarak devam et!
+Rakiplerine ⟦MSBT:0E00000003000400FFFF00FF⟧saldır⟦MSBT:0E00000003000400000000FF⟧ ve
+⟦MSBT:0E00000003000400FFFF00FF⟧yeniden diril⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,18,VSExplainGhostComment,"⟦MSBT:0E000000020002005300⟧Hayalet Kirby, ⟦MSBT:0E00000003000400D2230DFF⟧çok oyunculu⟦MSBT:0E00000003000400000000FF⟧ ve ⟦MSBT:0E00000003000400D2230DFF⟧antrenman⟦MSBT:0E00000003000400000000FF⟧ modlarında görünür.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,19,VSExplainHandicapTitle,
+FightVs.msbt,20,VSExplainHandicapContent,
+FightVs.msbt,21,VSExplainHandicapComment,
+FightVs.msbt,22,ComplementReady,"⟦MSBT:0E000000020002005C00⟧⟦MSBT:0E00000003000400FFFF00FF⟧Yapay zekâ ayarlarını⟦MSBT:0E00000003000400000000FF⟧
+buradan değiştirebilirsin.
+Bitirince ⟦MSBT:0E00000003000400FFFF00FF⟧Tamam⟦MSBT:0E00000003000400000000FF⟧'ı seç.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,23,ComplementReadyNoCom,"Hazırlığın bitince
+⟦MSBT:0E00000003000400FFFF00FF⟧Tamam⟦MSBT:0E00000003000400000000FF⟧'ı seç."
+FightVs.msbt,24,ComplementWaitOtherPlayer,Diğer oyuncular hâlâ seçiyor.
+FightVs.msbt,25,ComplementEntryCom,"⟦MSBT:0E00000003000400FFFF00FF⟧Dövüşecek kimse yok⟦MSBT:0E00000003000400000000FF⟧!
+Lütfen bir CPU rakibi ekle."
+FightVs.msbt,26,GroupSearchTitle,Lütfen bir gruba katılın.
+FightVs.msbt,27,GroupSearchTitleNoRuby,Lütfen bir gruba katılın.
+FightVs.msbt,28,GroupSearchExplain,"Yeni grup oluşturmak için
+⟦MSBT:0E00000003000400FFFF00FF⟧Grup Oluştur⟦MSBT:0E00000003000400000000FF⟧'u seç."
+FightVs.msbt,29,GroupJoinedTitle,Rakipler bekleniyor...
+FightVs.msbt,30,GroupJoinedTitleNoRuby,Rakipler bekleniyor...
+FightVs.msbt,31,GroupJoinedExplain,"Oyuna sahip olmayanlar
+HOME Menüsündeki
+⟦MSBT:0E00000003000400FFFF00FF⟧İndirme Oyunu⟦MSBT:0E00000003000400000000FF⟧ ile
+katılabilir!"
+FightVs.msbt,32,GroupJoinedExplainDLApp,"Sistemini ⟦MSBT:0E00000003000400FFFF00FF⟧güncellemeden⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FFFF00FF⟧İndirme Oyunu⟦MSBT:0E00000003000400000000FF⟧
+özelliğini kullanamazsın."
+FightVs.msbt,33,DialogExitUseNet,"⟦MSBT:0E00000003000400FF4B32FF⟧Oyundan çıkıp⟦MSBT:0E00000003000400000000FF⟧
+başlık ekranına dönülsün mü?
+(Grup oturumu bitecek.)"
+FightVs.msbt,34,DialogErrorDefault,"⟦MSBT:0E000000020002005A00⟧Bir ⟦MSBT:0E00000003000400FF4B32FF⟧iletişim hatası⟦MSBT:0E00000003000400000000FF⟧ oluştu.
+Başlık ekranına dönülüyor.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,35,DialogErrorDefaultDLP,"⟦MSBT:0E000000020002006400⟧Bir iletişim
+hatası oluştu.
+HOME Menüsüne dönmek için
+⟦MSBT:0E0001000F000000⟧ tuşuna basın. ⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,36,DialogErrorWirelessOff,"⟦MSBT:0E000000020002005500⟧Kablosuz iletişimi açmak için
+⟦MSBT:0E00000003000400FF4B32FF⟧kablosuz anahtarını⟦MSBT:0E00000003000400000000FF⟧ yukarı itin.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,37,AddLabel,⟦MSBT:0E000000020002006400⟧Ekle⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,38,NoneLabel,Yok
+FightVs.msbt,39,AILevelLabel,Güç
+FightVs.msbt,40,HandiLevelSelectLabel,Handikap
+FightVs.msbt,41,HandiLevelSelectValueOverSweet,⟦MSBT:0E000000020002005A00⟧Çok Kolay⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,42,HandiLevelSelectValueSweet,⟦MSBT:0E000000020002005A00⟧Kolay⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,43,HandiLevelSelectValueNormal,⟦MSBT:0E000000020002005A00⟧Normal⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,44,HandiLevelSelectValueHot,⟦MSBT:0E000000020002005A00⟧Zor⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,45,HandiLevelSelectValueOverHot,⟦MSBT:0E000000020002005A00⟧Çok Zor⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,46,HandiLevelSelectValueAuto,Otomatik
+FightVs.msbt,47,HandiHeroBtnValueOverSweet,⟦MSBT:0E000000020002005700⟧Çok Kolay⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,48,HandiHeroBtnValueSweet,Kolay
+FightVs.msbt,49,HandiHeroBtnValueNormal,Normal
+FightVs.msbt,50,HandiHeroBtnValueHot,Zor
+FightVs.msbt,51,HandiHeroBtnValueOverHot,⟦MSBT:0E000000020002005900⟧Çok Zor⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,52,ComRemoveLabel,⟦MSBT:0E000000020002005F00⟧Kaldır⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,53,AbilitySelectTitle,⟦MSBT:0E000000020002006400⟧Yetenek Seç⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,54,HeroSelectTitle,Oyuncu Ayarları
+FightVs.msbt,55,MapSelectTitle,Bölüm Seç
+FightVs.msbt,56,BackButtonTitle,Geri
+FightVs.msbt,57,EndButtonTitle,⟦MSBT:0E000000020002005000⟧Bitir⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,58,NextButtonTitle,İleri
+FightVs.msbt,59,StartButtonTitle,Başlat
+FightVs.msbt,60,CreateGroupButtonTitle,Grup Oluştur
+FightVs.msbt,61,EntryCloseButtonTitle,Başlat
+FightVs.msbt,62,PlayerDecidedButtonTitle,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,63,AbilityDecidedButtonTitle,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,64,OptionTitle,Ayarlar
+FightVs.msbt,65,OptionWait,"Ayarlar değiştiriliyor.
+Lütfen bekleyin."
+FightVs.msbt,66,OptionOkButtonTitle,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,67,OptionItemTitle,Eşyalar
+FightVs.msbt,68,OptionItemValue0,Yok
+FightVs.msbt,69,OptionItemValue1,Normal
+FightVs.msbt,70,OptionItemValue2,Çok
+FightVs.msbt,71,OptionGimmickTitle,Tehlikeler
+FightVs.msbt,72,OptionGimmickValue0,Kapalı
+FightVs.msbt,73,OptionGimmickValue1,Açık
+FightVs.msbt,74,OptionGimmickValue2,
+FightVs.msbt,75,OptionGhostTitle,Hayaletler
+FightVs.msbt,76,OptionGhostValue0,Kapalı
+FightVs.msbt,77,OptionGhostValue1,Açık
+FightVs.msbt,78,OptionHandiTitle,Handikap
+FightVs.msbt,79,OptionHandiValue0,Manuel
+FightVs.msbt,80,OptionHandiValue1,Otomatik
+FightVs.msbt,81,MapSelecting,Seçiliyor
+FightVs.msbt,82,MapNameRandom,Rastgele
+FightVs.msbt,83,MapNameBtnRandom,Rastgele
+FightVs.msbt,84,MapNameBtnNoRubyRandom,Rastgele
+FightVs.msbt,85,MapNameBattlefield,Çiçek Diyarı
+FightVs.msbt,86,MapNameBtnBattlefield,"Çiçek
+Diyarı"
+FightVs.msbt,87,MapNameBtnNoRubyBattlefield,"Çiçek
+Diyarı"
+FightVs.msbt,88,MapNameCastleLololo,Lololo Kalesi
+FightVs.msbt,89,MapNameBtnCastleLololo,"Lololo
+Kalesi"
+FightVs.msbt,90,MapNameBtnNoRubyCastleLololo,"Lololo 
+Kalesi"
+FightVs.msbt,91,MapNameDededeRing,Dedede Arenası
+FightVs.msbt,92,MapNameBtnDededeRing,"Dedede
+Arenası"
+FightVs.msbt,93,MapNameBtnNoRubyDededeRing,"Dedede
+Arenası"
+FightVs.msbt,94,MapNameBubblyClouds,Pofuduk Bulutlar
+FightVs.msbt,95,MapNameBtnBubblyClouds,"Pofuduk 
+Bulutlar"
+FightVs.msbt,96,MapNameBtnNoRubyBubblyClouds,"Pofuduk 
+Bulutlar"
+FightVs.msbt,97,MapNameFactory,Fabrika Turu
+FightVs.msbt,98,MapNameBtnFactory,"Fabrika 
+Turu"
+FightVs.msbt,99,MapNameBtnNoRubyFactory,"Fabrika 
+Turu"
+FightVs.msbt,100,MapNameForestCoo,Coo'nun Ormanı
+FightVs.msbt,101,MapNameBtnForestCoo,"Coo'nun
+Ormanı"
+FightVs.msbt,102,MapNameBtnNoRubyForestCoo,"Coo'nun
+Ormanı"
+FightVs.msbt,103,MapNameLastStage,⟦MSBT:0E000000020002006300⟧Başka Bir Boyut⟦MSBT:0E000000020002006400⟧
+FightVs.msbt,104,MapNameBtnLastStage,"Başka Bir 
+Boyut"
+FightVs.msbt,105,MapNameBtnNoRubyLastStage,"Başka Bir 
+Boyut"
+FightVs.msbt,106,TipsAboutOption,"⟦MSBT:0E000000020002005A00⟧Oyuncu Ayarları ekranında
+⟦MSBT:0E00000003000400FFFF00FF⟧⟦MSBT:0E00010003000000⟧⟦MSBT:0E00000003000400000000FF⟧ ile ⟦MSBT:0E00000003000400FFFF00FF⟧Ayarlar⟦MSBT:0E00000003000400000000FF⟧ menüsünü aç.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,107,TipsAboutOptionForChild,"⟦MSBT:0E000000020002005400⟧Ev sahibi, ⟦MSBT:0E00000003000400FFFF00FF⟧Oyuncu Ayarları⟦MSBT:0E00000003000400000000FF⟧ ekranında
+⟦MSBT:0E00010003000000⟧ ile ⟦MSBT:0E00000003000400FFFF00FF⟧Ayarları⟦MSBT:0E00000003000400000000FF⟧ değiştirebilir.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,108,TipsAboutAutoHandicap,"Ayarlar menüsünde ⟦MSBT:0E00000003000400FFFF00FF⟧Handikap
+⟦MSBT:0E00000003000400000000FF⟧ayarını ⟦MSBT:0E00000003000400FFFF00FF⟧Otomatik⟦MSBT:0E00000003000400000000FF⟧ yapabilirsin."
+FightVs.msbt,109,TipsAboutHandicapSweet,"⟦MSBT:0E000000020002005A00⟧Handikabı ⟦MSBT:0E00000003000400FFFF00FF⟧Kolay⟦MSBT:0E00000003000400000000FF⟧ yaparsan,
+bazen ⟦MSBT:0E00000003000400FFFF00FF⟧otomatik savunma⟦MSBT:0E00000003000400000000FF⟧ devreye girer.⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,110,TipsAboutHandicapHot,"⟦MSBT:0E000000020002005700⟧Handikap ayarı şunları etkiler:
+⟦MSBT:0E00000003000400FFFF00FF⟧can⟦MSBT:0E00000003000400000000FF⟧, ⟦MSBT:0E00000003000400FFFF00FF⟧hasar⟦MSBT:0E00000003000400000000FF⟧, ⟦MSBT:0E00000003000400FFFF00FF⟧iyileşme⟦MSBT:0E00000003000400000000FF⟧ ve daha fazlası!⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,111,TipsAboutGhost,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FFFF00FF⟧Hayalet Kirby⟦MSBT:0E00000003000400000000FF⟧ olursan, rakiplerine
+saldırıp kendini ⟦MSBT:0E00000003000400FFFF00FF⟧diriltebilirsin⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,112,TipsAboutGuard,"⟦MSBT:0E00000003000400FFFF00FF⟧Savunmak ⟦MSBT:0E00000003000400000000FF⟧için ⟦MSBT:0E00010004000000⟧ veya ⟦MSBT:0E00010005000000⟧ kullan;
+tüm hasarı engellersin!"
+FightVs.msbt,113,TipsAboutJustGuard,"⟦MSBT:0E000000020002005A00⟧Saldırıdan hemen önce savunup
+⟦MSBT:0E00000003000400FFFF00FF⟧kusursuz savunma⟦MSBT:0E00000003000400000000FF⟧ yap!⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,114,TipsAboutHappningStar,"⟦MSBT:0E000000020002005800⟧⟦MSBT:0E00000003000400FFFF00FF⟧Aksiyon Yıldızı⟦MSBT:0E00000003000400000000FF⟧'na vur;
+etkinleşince ortalık karışır!⟦MSBT:0E000000020002006400⟧"
+FightVs.msbt,115,AbilityWhip,Kırbaç
+FightVs.msbt,116,AbilityCutter,Kesici
+FightVs.msbt,117,AbilitySword,Kılıç
+FightVs.msbt,118,AbilityNinja,Ninja
+FightVs.msbt,119,AbilityParasol,Şemsiye
+FightVs.msbt,120,AbilityHammer,Çekiç
+FightVs.msbt,121,AbilityBeam,Işın
+FightVs.msbt,122,AbilityFighter,Dövüşçü
+FightVs.msbt,123,AbilityBomb,Bomba
+FightVs.msbt,124,AbilitySniper,Okçu
+FightVs.msbt,125,AbilityNormalHeroPanel,Kirby
+FightVs.msbt,126,AbilityWhipHeroPanel,Kırbaç
+FightVs.msbt,127,AbilityCutterHeroPanel,Kesici
+FightVs.msbt,128,AbilitySwordHeroPanel,Kılıç
+FightVs.msbt,129,AbilityNinjaHeroPanel,Ninja
+FightVs.msbt,130,AbilityParasolHeroPanel,Şemsiye
+FightVs.msbt,131,AbilityHammerHeroPanel,Çekiç
+FightVs.msbt,132,AbilityBeamHeroPanel,Işın
+FightVs.msbt,133,AbilityFighterHeroPanel,Dövüşçü
+FightVs.msbt,134,AbilityBombHeroPanel,Bomba
+FightVs.msbt,135,AbilitySniperHeroPanel,Okçu
+GameInfo.msbt,0,AbilityDropButtonTitle,"Yeteneği
+Bırak"
+GameInfo.msbt,1,PauseButtonTitle,Mola
+GameInfo.msbt,2,TiltResetButtonTitle,⟦MSBT:0E000000020002006200⟧Eğimi Sıfırla⟦MSBT:0E000000020002006400⟧
+GameInfo.msbt,3,GuideBoardFirstSunStone,"İçinde ⟦MSBT:0E00000003000400FF4600FF⟧güneşin gücü⟦MSBT:0E00000003000400000000FF⟧ var!
+Bulabildiğin kadar topla ve
+patrona giden yolu aç!"
+GameInfo.msbt,4,AssistStarWindowItemTitle,⟦MSBT:0E000000020002005700⟧Bandanalı Waddle Dee sana eşya verdi!⟦MSBT:0E000000020002006400⟧
+GameInfo.msbt,5,AssistStarWindowItemText,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Bandanalı
+Waddle Dee⟦MSBT:0E00000003000400000000FF⟧'den daha iyi
+eşyalar almak için
+⟦MSBT:0E00000003000400FFDE00FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ kullan!⟦MSBT:0E000000020002006400⟧"
+GameInfo.msbt,6,AssistStarWindowTouchTitle,Yardım Yıldızı bir destek eşyasıdır!
+GameInfo.msbt,7,AssistStarWindowTouchText,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FFDE00FF⟧Yardım Yıldızları⟦MSBT:0E00000003000400000000FF⟧
+alt ekrana ⟦MSBT:0E00000003000400FFDE00FF⟧dokunarak
+⟦MSBT:0E00000003000400000000FF⟧veya ⟦MSBT:0E00010003000000⟧ tuşuna basarak
+kullanılabilir.⟦MSBT:0E000000020002006400⟧"
+GameInfo.msbt,8,BossNameWhispyflowers,Çiçekli Ağaç
+GameInfo.msbt,9,BossNameWhispyflowersEx,Çiçekli Ağaç DX
+GameInfo.msbt,10,BossNameMisterfrosty,Bay Ayaz
+GameInfo.msbt,11,BossNameMisterfrostyEx,Bay Ayaz DX
+GameInfo.msbt,12,BossNameGigantedge,Kılıç Devi
+GameInfo.msbt,13,BossNameGigantedgeEx,Kılıç Devi DX
+GameInfo.msbt,14,BossNameGrandwheelie,Büyük Teker
+GameInfo.msbt,15,BossNameGrandwheelieEx,Büyük Teker DX
+GameInfo.msbt,16,BossNamePaincia,Boyatra
+GameInfo.msbt,17,BossNamePainciaEx,Boyatra DX
+GameInfo.msbt,18,BossNameKracko,Kracko
+GameInfo.msbt,19,BossNameKrackoEx,Kracko DX
+GameInfo.msbt,20,BossNameTogurogaraga,Kıvrak Çıngırak
+GameInfo.msbt,21,BossNameTogurogaragaEx,Kıvrak Çıngırak DX
+GameInfo.msbt,22,BossNameFlamegalboros,Alev Galboros
+GameInfo.msbt,23,BossNameFlamegalborosEx,Alev Galboros DX
+GameInfo.msbt,24,BossNameHelmehorn,Boynuzkafa
+GameInfo.msbt,25,BossNameHelmehornEx,Boynuzkafa DX
+GameInfo.msbt,26,BossNameBonkers,Bonkers
+GameInfo.msbt,27,BossNameBonkersEx,Bonkers DX
+GameInfo.msbt,28,BossNameMaskeddedede,Maskeli Dedede
+GameInfo.msbt,29,BossNameSectniavine,Sectonia Sarmaşığı
+GameInfo.msbt,30,BossNameQueensectnia,Kraliçe Sectonia
+GameInfo.msbt,31,BossNameQueensectniaEx,Kraliçe Sectonia DX
+GameInfo.msbt,32,BossNameVolgerom,Pirovrak
+GameInfo.msbt,33,BossNameVolgeromEx,Pirovrak DX
+GameInfo.msbt,34,BossNameSectniaflower,Sectonia'nın Çiçeği
+GameInfo.msbt,35,BossNameMaskeddedede2,⟦MSBT:0E000000020002005300⟧Maskeli Dedede'nin İntikamı⟦MSBT:0E000000020002006400⟧
+GameInfo.msbt,36,BossNameBlocky,Blocky
+GameInfo.msbt,37,BossNameBlockyEx,Blocky DX
+GameInfo.msbt,38,BossNameBlackdedede,Gölge Dedede
+GameInfo.msbt,39,BossNameDarkmetaknight,⟦MSBT:0E000000020002004E00⟧Karanlık Meta Knight'ın İntikamı⟦MSBT:0E000000020002006400⟧
+GameInfo.msbt,40,BossNameSectniasoul,Sectonia'nın Ruhu
+GameOver.msbt,0,ButtonContinue,Devam Et
+GameOver.msbt,1,ButtonExit,Çık
+GoalGame.msbt,0,SpecialBonus,Özel Bonus
+GoalGame.msbt,1,PushBtnText,Bas
+KeyChain.msbt,0,Title,"Anahtarlık
+Koleksiyonu"
+KeyChain.msbt,1,BtnEnd,Geri
+KeyChain.msbt,2,BtnGameCoin,Oyun Paraları
+KeyChain.msbt,3,RotateKey,⟦MSBT:0E00010004000000⟧⟦MSBT:0E00010005000000⟧
+KeyChain.msbt,4,RotateText,Döndür
+KeyChain.msbt,5,ZoomKey,⟦MSBT:0E00010000000000⟧
+KeyChain.msbt,6,ZoomTextLarge,⟦MSBT:0E000000020002006400⟧Büyüt +⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,7,ZoomTextSmall,⟦MSBT:0E000000020002004B00⟧Küçült -⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,8,NoDataText,Bu anahtarlık sende yok.
+KeyChain.msbt,9,RestExchangeCount,⟦MSBT:0E000000020002005A00⟧Kalan ⟦MSBT:0E00020001000000⟧⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,10,Numeral,ad.
+KeyChain.msbt,11,DialogGameCoinMain,"Üç ⟦MSBT:0E00000003000400FF4B32FF⟧Oyun Parası⟦MSBT:0E00000003000400000000FF⟧ karşılığında
+bir ⟦MSBT:0E00000003000400FF4B32FF⟧anahtarlık⟦MSBT:0E00000003000400000000FF⟧ alabilirsin.
+Bir tane almak ister misin?"
+KeyChain.msbt,12,DialogGameCoinNotEnough,"Yeterli ⟦MSBT:0E00000003000400FF4B32FF⟧Oyun Paran⟦MSBT:0E00000003000400000000FF⟧ yok.
+Bir ⟦MSBT:0E00000003000400FF4B32FF⟧anahtarlık⟦MSBT:0E00000003000400000000FF⟧ için
+⟦MSBT:0E00000003000400FF4B32FF⟧üç Oyun Parası⟦MSBT:0E00000003000400000000FF⟧ gerekir."
+KeyChain.msbt,13,DialogGameCoinAlreadyExchanged,"Bir seferde ⟦MSBT:0E00000003000400FF4B32FF⟧beş anahtarlık⟦MSBT:0E00000003000400000000FF⟧
+alabilirsin. Daha fazlası için
+⟦MSBT:0E00000003000400FF4B32FF⟧bir bölümü tamamla⟦MSBT:0E00000003000400000000FF⟧."
+KeyChain.msbt,14,DialogEmpty,"⟦MSBT:0E00000003000400FF4B32FF⟧Henüz hiç anahtarlığın yok.⟦MSBT:0E00000003000400000000FF⟧
+Bölümlerde onları ara!"
+KeyChain.msbt,15,DialogEmptyButton,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,16,DialogUse,Al
+KeyChain.msbt,17,DialogCancel,İptal
+KeyChain.msbt,18,DialogClose,⟦MSBT:0E000000020002003C00⟧Tamam⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,19,MessageWindowGetNormal,"Yeni anahtarlık:
+⟦MSBT:0E00000003000400FF4600FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧!"
+KeyChain.msbt,20,MessageWindowGetRare,"Nadir anahtarlık:
+⟦MSBT:0E00000003000400FF4600FF⟧⟦MSBT:0E00020002000000⟧⟦MSBT:0E00000003000400000000FF⟧!"
+KeyChain.msbt,21,MessageWindowGetSunStoneComplete,"⟦MSBT:0E000000020002006200⟧Tüm Güneş Taşlarını topladığın için
+⟦MSBT:0E00000003000400FF4600FF⟧Kraliçe Sectonia ⟦MSBT:0E00000003000400000000FF⟧anahtarlığını aldın!⟦MSBT:0E000000020002006400⟧"
+KeyChain.msbt,22,MessageWindowCollectorLvUp,"⟦MSBT:0E000000020002006000⟧⟦MSBT:0E00000003000400FF4600FF⟧⟦MSBT:0E00020001000000⟧⟦MSBT:0E00000003000400000000FF⟧ tür anahtarlık topladın
+ve ⟦MSBT:0E00000003000400FF4600FF⟧⟦MSBT:0E00020002000000⟧ ⟦MSBT:0E00000003000400000000FF⟧rütbesine ulaştın!⟦MSBT:0E000000020002006400⟧"
+KeyChain.msbt,23,MessageWindowCollectorLvUpMax,"⟦MSBT:0E000000020002005A00⟧Anahtarlık Koleksiyonunu
+⟦MSBT:0E00000003000400FF4600FF⟧tamamladın⟦MSBT:0E00000003000400000000FF⟧! Artık bir
+⟦MSBT:0E00000003000400FF4600FF⟧anahtarlık ustasısın⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+KeyChain.msbt,24,CollectorLv1Name,⟦MSBT:0E000000020002005F00⟧Acemi Toplayıcı⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,25,CollectorLv2Name,⟦MSBT:0E000000020002005200⟧Hevesli Toplayıcı⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,26,CollectorLv3Name,Anahtarlık Avcısı
+KeyChain.msbt,27,CollectorLv4Name,⟦MSBT:0E000000020002005E00⟧Rüya Diyarı Haydudu⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,28,CollectorLv5Name,Kirby Delisi
+KeyChain.msbt,29,CollectorLv6Name,⟦MSBT:0E000000020002005A00⟧Efsane Toplayıcı⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,30,CollectorLv7Name,⟦MSBT:0E000000020002005C00⟧Süperstar Toplayıcı⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,31,CollectorLv8Name,Anahtarlık Ustası
+KeyChain.msbt,32,#Name,
+KeyChain.msbt,33,NameK1000,Kirby
+KeyChain.msbt,34,NameK1001,Süzülen Kirby
+KeyChain.msbt,35,NameK1002,Warp Yıldızı
+KeyChain.msbt,36,NameK1003,Baygın Kirby
+KeyChain.msbt,37,NameK1004,Waddle Dee
+KeyChain.msbt,38,NameK1005,Bronto
+KeyChain.msbt,39,NameK1006,Cikcik
+KeyChain.msbt,40,NameK1007,Boz Ayı
+KeyChain.msbt,41,NameK1008,Lololo & Lalala
+KeyChain.msbt,42,NameK1009,Bombala
+KeyChain.msbt,43,NameK1010,Kral Dedede
+KeyChain.msbt,44,NameK1011,Nane Yaprağı
+KeyChain.msbt,45,NameK1012,Süper Acı Köri
+KeyChain.msbt,46,NameK1013,Whispy Woods
+KeyChain.msbt,47,NameK1014,Şaşkın Dedede
+KeyChain.msbt,48,NameFck000,Kirby
+KeyChain.msbt,49,NameFck001,İçine Çeken Kirby
+KeyChain.msbt,50,NameFck002,Topta Kirby
+KeyChain.msbt,51,NameFck003,Kılıç Kirby
+KeyChain.msbt,52,NameFck004,Taş Kirby
+KeyChain.msbt,53,NameFck005,Waddle Doo
+KeyChain.msbt,54,NameFck006,Kıvılcım
+KeyChain.msbt,55,NameFck007,Alev Kafa
+KeyChain.msbt,56,NameFck008,⟦MSBT:0E000000020002005E00⟧Kılıç Şövalyesi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,57,NameFck009,Büyük Bombacı
+KeyChain.msbt,58,NameFck010,Bonkers
+KeyChain.msbt,59,NameFck011,Ateş Aslanı
+KeyChain.msbt,60,NameFck012,Kracko
+KeyChain.msbt,61,NameFck013,Meta Knight
+KeyChain.msbt,62,NameFck014,Kral Dedede
+KeyChain.msbt,63,NameFck015,Maksi Domates
+KeyChain.msbt,64,NameFck016,UFO Kirby
+KeyChain.msbt,65,NameFck017,⟦MSBT:0E000000020002005200⟧Kâbus'un Güç Küresi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,66,NameK2000,Kirby
+KeyChain.msbt,67,NameK2001,Kesici Kirby
+KeyChain.msbt,68,NameK2002,Rick & Kirby
+KeyChain.msbt,69,NameK2003,Coo & Kirby
+KeyChain.msbt,70,NameK2004,Kine & Kirby
+KeyChain.msbt,71,NameK2005,Sir Keskin
+KeyChain.msbt,72,NameK2006,Bouncy
+KeyChain.msbt,73,NameK2007,Elieel
+KeyChain.msbt,74,NameK2008,Masher
+KeyChain.msbt,75,NameK2009,Master Green
+KeyChain.msbt,76,NameK2010,İfrit
+KeyChain.msbt,77,NameK2011,Bay Ayaz
+KeyChain.msbt,78,NameK2012,Nruff & Nelly
+KeyChain.msbt,79,NameK2013,Ice Dragon
+KeyChain.msbt,80,NameK2014,Kara Madde
+KeyChain.msbt,81,NameK2015,Gökkuşağı Damlası
+KeyChain.msbt,82,NameSdx000,Kirby
+KeyChain.msbt,83,NameSdx001,Yüzen Kirby
+KeyChain.msbt,84,NameSdx002,Teker Sürücüsü
+KeyChain.msbt,85,NameSdx003,⟦MSBT:0E000000020002005F00⟧Kanatlı Kirby⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,86,NameSdx004,Ayna Kirby
+KeyChain.msbt,87,NameSdx005,Jet Kirby
+KeyChain.msbt,88,NameSdx006,Yo-Yo Kirby
+KeyChain.msbt,89,NameSdx007,Knuckle Joe
+KeyChain.msbt,90,NameSdx008,⟦MSBT:0E000000020002005A00⟧Bıçak Şövalyesi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,91,NameSdx009,⟦MSBT:0E000000020002004B00⟧Biyo Kıvılcım⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,92,NameSdx010,Gim
+KeyChain.msbt,93,NameSdx011,Tac
+KeyChain.msbt,94,NameSdx012,Plasma Wisp
+KeyChain.msbt,95,NameSdx013,⟦MSBT:0E000000020002005600⟧Şemsiyeli Waddle Dee⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,96,NameSdx014,Bronto
+KeyChain.msbt,97,NameSdx015,Şapkacık
+KeyChain.msbt,98,NameSdx016,Sevimli
+KeyChain.msbt,99,NameSdx017,⟦MSBT:0E000000020002005E00⟧Balta Şövalyesi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,100,NameSdx018,Squishy
+KeyChain.msbt,101,NameSdx019,Bonkers
+KeyChain.msbt,102,NameSdx020,Bugzzy
+KeyChain.msbt,103,NameSdx021,Şef Kawasaki
+KeyChain.msbt,104,NameSdx022,Meta Knight
+KeyChain.msbt,105,NameSdx023,⟦MSBT:0E000000020002005D00⟧Bukalemun Kolu⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,106,NameSdx024,Kaslı Heykel
+KeyChain.msbt,107,NameSdx025,Marx
+KeyChain.msbt,108,NameSdx026,Dyna Blade
+KeyChain.msbt,109,NameSdx027,Yıldız Gemisi
+KeyChain.msbt,110,NameSdx028,Kaptan Vul
+KeyChain.msbt,111,NameK3000,Kirby
+KeyChain.msbt,112,NameK3001,Temizlikçi Kirby
+KeyChain.msbt,113,NameK3002,İğneli Kirby
+KeyChain.msbt,114,NameK3003,Şemsiyeli Rick
+KeyChain.msbt,115,NameK3004,Kıvılcımlı Kine
+KeyChain.msbt,116,NameK3005,İğneli Coo
+KeyChain.msbt,117,NameK3006,Temizlikçi Chuchu
+KeyChain.msbt,118,NameK3007,Kor
+KeyChain.msbt,119,NameK3008,Dikencik
+KeyChain.msbt,120,NameK3009,Ağcı
+KeyChain.msbt,121,NameK3010,Pacto
+KeyChain.msbt,122,NameK3011,Küpruh
+KeyChain.msbt,123,NameK3012,Gabon
+KeyChain.msbt,124,NameK3013,⟦MSBT:0E000000020002005B00⟧Nruff & Waddle Dee⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,125,NameK3014,Küçük Bombacı
+KeyChain.msbt,126,NameK3015,⟦MSBT:0E000000020002005E00⟧Süpürgeli Şapkacı⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,127,NameK3016,Mumbies
+KeyChain.msbt,128,NameK3017,Blocky
+KeyChain.msbt,129,NameK3018,Pon & Con
+KeyChain.msbt,130,NameK3019,Acro
+KeyChain.msbt,131,NameK3020,⟦MSBT:0E000000020002005800⟧Tatlı Şey Çizimi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,132,NameK3021,Kara Madde
+KeyChain.msbt,133,NameK3022,Patron Mücadelesi
+KeyChain.msbt,134,NameK3023,Aşk-Aşk Çubuğu
+KeyChain.msbt,135,NameAgbk000,Kirby
+KeyChain.msbt,136,NameAgbk001,Kılıç Kirby
+KeyChain.msbt,137,NameAgbk002,Yanan Kirby
+KeyChain.msbt,138,NameAgbk003,Buz Kirby
+KeyChain.msbt,139,NameAgbk004,Çekiç Kirby
+KeyChain.msbt,140,NameAgbk005,⟦MSBT:0E000000020002004F00⟧Yüksek Zıplama Kirby⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,141,NameAgbk006,Alevci
+KeyChain.msbt,142,NameAgbk007,Sir Keskin
+KeyChain.msbt,143,NameAgbk008,Bombacı
+KeyChain.msbt,144,NameAgbk009,Kasırga
+KeyChain.msbt,145,NameAgbk010,⟦MSBT:0E000000020002005E00⟧Kılıç Şövalyesi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,146,NameAgbk011,İğnecik
+KeyChain.msbt,147,NameAgbk012,Lazer Topu
+KeyChain.msbt,148,NameAgbk013,⟦MSBT:0E000000020002005400⟧Havalı Hayalet⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,149,NameAgbk014,UFO
+KeyChain.msbt,150,NameAgbk015,Kaya
+KeyChain.msbt,151,NameAgbk016,Yengeç
+KeyChain.msbt,152,NameAgbk017,Scarfy
+KeyChain.msbt,153,NameAgbk018,Dikentop
+KeyChain.msbt,154,NameAgbk019,Topçu
+KeyChain.msbt,155,NameAgbk020,Phan Phan
+KeyChain.msbt,156,NameAgbk021,Bay Tik-Tak
+KeyChain.msbt,157,NameAgbk022,Bay Ayaz
+KeyChain.msbt,158,NameAgbk023,⟦MSBT:0E000000020002005000⟧Bay Parıltı & Bay Parlak⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,159,NameAgbk024,⟦MSBT:0E000000020002005C00⟧Ağır Köstebek⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,160,NameAgbk025,Kral Dedede
+KeyChain.msbt,161,NameAgbk026,Yenilmez Şeker
+KeyChain.msbt,162,NameAgbk027,Kâbus Büyücüsü
+KeyChain.msbt,163,NameAgbk028,Yıldız Asası
+KeyChain.msbt,164,NameAgbk029,1 Can Meta Knight
+KeyChain.msbt,165,NameKagami000,⟦MSBT:0E000000020002005D00⟧Telefondaki Kirby⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,166,NameKagami001,Dört Renkli Kirby
+KeyChain.msbt,167,NameKagami002,Melek Kirby
+KeyChain.msbt,168,NameKagami003,Füze Kirby
+KeyChain.msbt,169,NameKagami004,Mini Kirby
+KeyChain.msbt,170,NameKagami005,Güm-Güm
+KeyChain.msbt,171,NameKagami006,Pofuduk
+KeyChain.msbt,172,NameKagami007,Boksör
+KeyChain.msbt,173,NameKagami008,Kupido
+KeyChain.msbt,174,NameKagami009,Golem
+KeyChain.msbt,175,NameKagami010,⟦MSBT:0E000000020002005C00⟧Ağır Şövalye⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,176,NameKagami011,Öpücük
+KeyChain.msbt,177,NameKagami012,Aynacık
+KeyChain.msbt,178,NameKagami013,Şakacı
+KeyChain.msbt,179,NameKagami014,Yuvarlak
+KeyChain.msbt,180,NameKagami015,Oburcuk
+KeyChain.msbt,181,NameKagami016,⟦MSBT:0E000000020002005700⟧Karanlık Meta Knight⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,182,NameKagami017,Aşçı
+KeyChain.msbt,183,NameKagami018,⟦MSBT:0E000000020002005600⟧Kutu Boksörü⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,184,NameKagami019,Bombajet
+KeyChain.msbt,185,NameKagami020,Usta El
+KeyChain.msbt,186,NameKagami021,Obur
+KeyChain.msbt,187,NameKagami022,Mega Titan
+KeyChain.msbt,188,NameKagami023,Usta Kılıç
+KeyChain.msbt,189,NameKagami024,Kara Zihin
+KeyChain.msbt,190,NameKagami025,Boyut Aynası
+KeyChain.msbt,191,NameTouch000,Top Kirby
+KeyChain.msbt,192,NameTouch001,Arabada Kirby
+KeyChain.msbt,193,NameTouch002,Taş Kirby
+KeyChain.msbt,194,NameTouch003,Teker Kirby
+KeyChain.msbt,195,NameTouch004,Balon Kirby
+KeyChain.msbt,196,NameTouch005,Dedede Topu
+KeyChain.msbt,197,NameTouch006,Meta Knight Topu
+KeyChain.msbt,198,NameTouch007,Waddle Dee Topu
+KeyChain.msbt,199,NameTouch008,Waddle Doo Topu
+KeyChain.msbt,200,NameTouch009,⟦MSBT:0E000000020002005F00⟧Mızraklı Waddle Dee⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,201,NameTouch010,Bouncy
+KeyChain.msbt,202,NameTouch011,Süzkanat
+KeyChain.msbt,203,NameTouch012,Balık
+KeyChain.msbt,204,NameTouch013,Balon
+KeyChain.msbt,205,NameTouch014,Güm
+KeyChain.msbt,206,NameTouch015,Para Madde
+KeyChain.msbt,207,NameTouch016,Kral Dedede
+KeyChain.msbt,208,NameTouch017,Paint Roller
+KeyChain.msbt,209,NameTouch018,Boyacı Cadı
+KeyChain.msbt,210,NameTouch019,⟦MSBT:0E000000020002005700⟧Kral Dedede Çizimi⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,211,NameTouch020,Güç Boya Fırçası
+KeyChain.msbt,212,NameDaroach000,Kirby
+KeyChain.msbt,213,NameDaroach001,⟦MSBT:0E000000020002005D00⟧Baloncuk Kirby⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,214,NameDaroach002,Hayvan Kirby
+KeyChain.msbt,215,NameDaroach003,Sihirli Kirby
+KeyChain.msbt,216,NameDaroach004,Metal Kirby
+KeyChain.msbt,217,NameDaroach005,Hayalet Kirby
+KeyChain.msbt,218,NameDaroach006,Gav Gav
+KeyChain.msbt,219,NameDaroach007,Baloncuk Kafa
+KeyChain.msbt,220,NameDaroach008,Ciyakçı
+KeyChain.msbt,221,NameDaroach009,Maiga
+KeyChain.msbt,222,NameDaroach010,Vızır
+KeyChain.msbt,223,NameDaroach011,Metalun
+KeyChain.msbt,224,NameDaroach012,Tavşan
+KeyChain.msbt,225,NameDaroach013,Bulutçu
+KeyChain.msbt,226,NameDaroach014,Starman
+KeyChain.msbt,227,NameDaroach015,Teker
+KeyChain.msbt,228,NameDaroach016,Bombuş
+KeyChain.msbt,229,NameDaroach017,Ateşçi
+KeyChain.msbt,230,NameDaroach018,Doc
+KeyChain.msbt,231,NameDaroach019,Fırfır
+KeyChain.msbt,232,NameDaroach020,Gürbüz
+KeyChain.msbt,233,NameDaroach021,Alevkuş
+KeyChain.msbt,234,NameDaroach022,Bayan Moley
+KeyChain.msbt,235,NameDaroach023,Kara Daroach
+KeyChain.msbt,236,NameDaroach024,Altın Waddle Dee
+KeyChain.msbt,237,NameDaroach025,Üçlü Yıldız
+KeyChain.msbt,238,NameDdx000,Kirby
+KeyChain.msbt,239,NameDdx001,Şef Kirby
+KeyChain.msbt,240,NameDdx002,⟦MSBT:0E000000020002005200⟧Mikrofon Kirby⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,241,NameDdx003,Uyuyan Kirby
+KeyChain.msbt,242,NameDdx004,Kesici Kirby
+KeyChain.msbt,243,NameDdx005,Ateş Kirby
+KeyChain.msbt,244,NameDdx006,Waddle Doo
+KeyChain.msbt,245,NameDdx007,Kuşkanat
+KeyChain.msbt,246,NameDdx008,Chilly
+KeyChain.msbt,247,NameDdx009,Aynabaz
+KeyChain.msbt,248,NameDdx010,Yanan Leo
+KeyChain.msbt,249,NameDdx011,Boz Ayı
+KeyChain.msbt,250,NameDdx012,Kabu
+KeyChain.msbt,251,NameDdx013,⟦MSBT:0E000000020002005600⟧Timsah⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,252,NameDdx014,Zumod
+KeyChain.msbt,253,NameDdx015,Anemon
+KeyChain.msbt,254,NameDdx016,⟦MSBT:0E000000020002005700⟧Bandanalı Waddle Dee⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,255,NameDdx017,Vızkuş
+KeyChain.msbt,256,NameDdx018,Gülcük
+KeyChain.msbt,257,NameDdx019,Ahtap
+KeyChain.msbt,258,NameDdx020,Büyük Bombacı
+KeyChain.msbt,259,NameDdx021,Demir Mam
+KeyChain.msbt,260,NameDdx022,Meta Knight
+KeyChain.msbt,261,NameDdx023,Kracko
+KeyChain.msbt,262,NameDdx024,Hızlı Çekim
+KeyChain.msbt,263,NameDdx025,Galacta Knight
+KeyChain.msbt,264,NameDdx026,Maskeli Dedede
+KeyChain.msbt,265,NameDdx027,Marx Ruhu
+KeyChain.msbt,266,NameDdx028,⟦MSBT:0E000000020002005800⟧Altın Yumurta Heykeli⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,267,NameDdx029,İkiz Ateş Aslanları
+KeyChain.msbt,268,NameDdx030,Bombala
+KeyChain.msbt,269,NameDdx031,Ağır Istakoz
+KeyChain.msbt,270,NameAtsumete000,Üç Kirby
+KeyChain.msbt,271,NameAtsumete001,Nakavt Kirby
+KeyChain.msbt,272,NameAtsumete002,Kuşçuk
+KeyChain.msbt,273,NameAtsumete003,Kurukafacık
+KeyChain.msbt,274,NameAtsumete004,Filizcik
+KeyChain.msbt,275,NameAtsumete005,Gorilcik
+KeyChain.msbt,276,NameAtsumete006,Örümcekçik
+KeyChain.msbt,277,NameAtsumete007,Meka Geg
+KeyChain.msbt,278,NameAtsumete008,Miğfer
+KeyChain.msbt,279,NameAtsumete009,Kaktüskule
+KeyChain.msbt,280,NameAtsumete010,Uykukök
+KeyChain.msbt,281,NameAtsumete011,Hamster
+KeyChain.msbt,282,NameAtsumete012,Kavun
+KeyChain.msbt,283,NameAtsumete013,Kafatası Lordu
+KeyChain.msbt,284,NameAtsumete014,On Kirby
+KeyChain.msbt,285,NameExtra000,Magolor
+KeyChain.msbt,286,NameExtra001,Örümza
+KeyChain.msbt,287,NameExtra002,Kraliçe Sectonia
+KeyChain.msbt,288,NameExtra003,Yünbaz
+KeyChain.msbt,289,#Category,
+KeyChain.msbt,290,CategoryK1,Kirby's Dream Land
+KeyChain.msbt,291,CategoryFck,"Kirby'nin
+Macerası"
+KeyChain.msbt,292,CategoryK2,Kirby's Dream Land 2
+KeyChain.msbt,293,CategorySdx,Kirby Super Star
+KeyChain.msbt,294,CategoryK3,Kirby's Dream Land 3
+KeyChain.msbt,295,CategoryAgbk,"Kirby: Rüya Diyarında
+Kâbus"
+KeyChain.msbt,296,CategoryKagami,"Kirby ve Muhteşem
+Ayna"
+KeyChain.msbt,297,CategoryTouch,"Kirby: Güç
+Fırçası"
+KeyChain.msbt,298,CategoryDaroach,Kirby: Fare Saldırısı
+KeyChain.msbt,299,CategoryDdx,⟦MSBT:0E000000020002006200⟧Kirby: Süper Yıldız Ultra⟦MSBT:0E000000020002006400⟧
+KeyChain.msbt,300,CategoryAtsumete,"Kirby: Toplu
+Saldırı"
+KeyChain.msbt,301,CategoryExtraIUK,"Kirby'nin Wii
+Macerası"
+KeyChain.msbt,302,CategoryExtraParufe,Kirby: Triple Deluxe
+KeyChain.msbt,303,CategoryExtraEpicYarn,Kirby'nin Epik Yünü
+Movie.msbt,0,TextSkip,ATLA
+Movie.msbt,1,Lv6Start_00,"Buralara kadar geldiğine inanamıyorum.
+Ne kadar da inatçısın!"
+Movie.msbt,2,Lv6Start_01,"Ama sen bile önümüzde
+diz çökeceksin."
+Movie.msbt,3,Lv6Start_02,"Ben, Örümza, Kraliçe Sectonia'nın
+planlarına karışmana izin veremem."
+Movie.msbt,4,Lv6Start_03,"Tahmin edeyim: Alt dünyanın
+kahramanını kurtarmaya geldin."
+Movie.msbt,5,Lv6Start_04,"Bu diyarın insanları kendilerini
+zeki sandılar."
+Movie.msbt,6,Lv6Start_05,"Rüya Sarmaşığı'nı kullanarak
+dünyalarını kurtarabileceklerini sandılar."
+Movie.msbt,7,Lv6Start_06,Ama planlarını hemen çözdüm.
+Movie.msbt,8,Lv6Start_07,Madem buraya kadar geldin...
+Movie.msbt,9,Lv6Start_08,Değerli kahramanını geri vereceğim.
+Movie.msbt,10,Lv6Start_09,"Ama hatırladığından biraz daha...
+saldırgan olabilir!"
+Movie.msbt,11,Lv6End_00,B-bunun anlamı ne?!
+Movie.msbt,12,Lv6End_01,Majesteleri ne emrettiyse onu yaptım.
+Movie.msbt,13,Lv6End_02,"Alt dünya önümde
+diz çökmeli!"
+Movie.msbt,14,Lv6End_03,"Yoksa... Alt dünyanın gerçek
+kahramanı sen misin?"
+Movie.msbt,15,Lv6End_04,Lanet olsun! Eğer bu doğruysa...
+Movie.msbt,16,Lv6End_05,Majesteleri! Kraliçe Sectonia!
+Movie.msbt,17,Lv6End_06,"Ah, yüce Sectonia!
+Lütfen beni kurtar-"
+Movie.msbt,18,Lv6End_07,Aaaaah!
+Movie.msbt,19,Lv6End_08,N-neden...?
+Movie.msbt,20,Lv6End_09,Zavallı Örümza...
+Movie.msbt,21,Lv6End_10,"Emirlere uymayan bir aptala
+ihtiyacım yok."
+Movie.msbt,22,Lv6End_11,"Pekâlâ, alt dünyanın kahramanı."
+Movie.msbt,23,Lv6End_12,"Bu diyar için
+canını mı tehlikeye atarsın?"
+Movie.msbt,24,Lv6End_13,"Gökyüzünün hükümdarı olan bana
+karşı mı duracaksın?"
+Movie.msbt,25,Lv6End_14,Pekâlâ...
+Movie.msbt,26,Lv6End_15,"Büyük Kraliçe Sectonia'nın
+önünde eğileceksin!"
+Movie.msbt,27,Lv6End_16,Güzelliğimin eşi benzeri yok...
+Movie.msbt,28,Lv6End_17,"Ve gücüm, değer verdiğin
+her şeyi ezecek!"
+Movie.msbt,29,Lv7Start_00,Hah... Ah...
+Movie.msbt,30,Lv7Start_01,Anlıyorum...
+Movie.msbt,31,Lv7Start_02,"Rüya Sarmaşığı'nın seçtiği
+kahramandan bunu beklerdim."
+Movie.msbt,32,Lv7Start_03,"Ama merak ediyorum... Bununla
+nasıl başa çıkacaksın?"
+Movie.msbt,33,Lv7Start_04,Gerçek güzellik... hükmetmektir.
+Movie.msbt,34,Lv7Start_05,"Rüya Sarmaşığı seni buraya kadar
+yönlendirdi."
+Movie.msbt,35,Lv7Start_06,"Ama çiçek açması
+senin sonun olacak!"
+Movie.msbt,36,Lv7Start_07,"Floralia, Rüya Diyarı ve
+bu koskoca gezegen!"
+Movie.msbt,37,Lv7Start_08,Hepiniz onur duymalısınız.
+Movie.msbt,38,Lv7Start_09,"Sonsuza dek...
+benim besinim olacaksın!"
+Movie.msbt,39,Ending_00,"Böylece Floralia, Kirby'nin kahramanca
+çabaları sayesinde kurtuldu."
+Movie.msbt,40,Ending_01,"Gökyüzü Halkı, kötü kraliçenin
+zalimliği altında uzun süre yaşadı."
+Movie.msbt,41,Ending_02,"Kendilerini kurtarmak için
+son bir çareye başvurdular."
+Movie.msbt,42,Ending_03,"Umutlarını ve hayallerini bir tohuma
+bağlayıp onu yeryüzüne gönderdiler⟦MSBT:0E000000020002006400⟧"
+Movie.msbt,43,Ending_04,"Amaçları, Rüya Diyarı'nın kahramanı
+Kirby'yi yardıma çağırmaktı."
+Movie.msbt,44,Ending_05,"Kral Dedede, Kirby sanılıp
+Örümza tarafından kaçırıldı."
+Movie.msbt,45,Ending_06,"Ama o rolünü oynamasaydı,
+Floralia harap olurdu."
+Movie.msbt,46,Ending_07,"Gerçekten de Rüya Sarmaşığı
+gizemli yollarla işler."
+Movie.msbt,47,Ending_08,"Her şey bittiğinde Kirby
+gökyüzüne baktı"
+Movie.msbt,48,Ending_09,"ve Rüya Sarmaşığı'nın
+tamamen çiçek açtığını gördü."
+Movie.msbt,49,Ending_10,"Floralia'nın hatırası ve
+Rüya Diyarı'nın yeni simgesi oldu."
+Movie.msbt,50,ActorName_0,Örümza:
+Movie.msbt,51,ActorName_1,Kraliçe Sectonia:
+Name.msbt,0,CharaKirby,Kirby
+Name.msbt,1,AbilityNormal,Kirby
+Name.msbt,2,AbilityIce,Buz
+Name.msbt,3,AbilityWhip,Kırbaç
+Name.msbt,4,AbilityWing,Kanat
+Name.msbt,5,AbilityCutter,Kesici
+Name.msbt,6,AbilityCrash,Patlama
+Name.msbt,7,AbilityStone,Taş
+Name.msbt,8,AbilitySpark,Kıvılcım
+Name.msbt,9,AbilitySpear,Mızrak
+Name.msbt,10,AbilitySleep,Uyku
+Name.msbt,11,AbilitySword,Kılıç
+Name.msbt,12,AbilityNinja,Ninja
+Name.msbt,13,AbilityParasol,Şemsiye
+Name.msbt,14,AbilityHammer,Çekiç
+Name.msbt,15,AbilityBeam,Işın
+Name.msbt,16,AbilityFire,Ateş
+Name.msbt,17,AbilityFighter,Dövüşçü
+Name.msbt,18,AbilityBomb,Bomba
+Name.msbt,19,AbilityMike,⟦MSBT:0E000000020002005A00⟧Mikrofon⟦MSBT:0E000000020002006400⟧
+Name.msbt,20,AbilityLeaf,Yaprak
+Name.msbt,21,AbilityWheel,⟦MSBT:0E000000020002006400⟧Teker⟦MSBT:0E000000020002006400⟧
+Name.msbt,22,AbilityBell,Çan
+Name.msbt,23,AbilitySniper,Okçu
+Name.msbt,24,AbilityBeetle,Böcek
+Name.msbt,25,AbilityCircus,Sirk
+Name.msbt,26,AbilityNeedle,İğne
+Name.msbt,27,AbilityBigbang,⟦MSBT:0E000000020002005F00⟧Hipernova⟦MSBT:0E000000020002006400⟧
+Name.msbt,28,AbilityDedede,⟦MSBT:0E000000020002005500⟧Kral Dedede⟦MSBT:0E000000020002006400⟧
+Name.msbt,29,PlayerNum1,1P
+Name.msbt,30,ComputerNum1,CPU1
+Name.msbt,31,ComputerNum2,CPU2
+Name.msbt,32,ComputerNum3,CPU3
+Name.msbt,33,ComputerNum4,CPU4
+PauseMenu.msbt,0,HeaderLv1,Güzel Tarlalar
+PauseMenu.msbt,1,HeaderLv2,Lolipop Diyarı
+PauseMenu.msbt,2,HeaderLv3,Eski Destan
+PauseMenu.msbt,3,HeaderLv4,Vahşi Dünya
+PauseMenu.msbt,4,HeaderLv5,Sonsuz Patlamalar
+PauseMenu.msbt,5,HeaderLv6,Kraliyet Yolu
+PauseMenu.msbt,6,HeaderLv7,Ebedi Rüya Diyarı
+PauseMenu.msbt,7,HeaderDeGoLv1,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,8,HeaderDeGoLv2,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 2⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,9,HeaderDeGoLv3,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 3⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,10,HeaderDeGoLv4,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 4⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,11,HeaderDeGoLv5,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 5⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,12,HeaderDeGoLv6,⟦MSBT:0E000000020002006400⟧Dedede Turu! - Sv. 6⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,13,HeaderStage1,Bölüm 1
+PauseMenu.msbt,14,HeaderStage2,Bölüm 2
+PauseMenu.msbt,15,HeaderStage3,Bölüm 3
+PauseMenu.msbt,16,HeaderStage4,Bölüm 4
+PauseMenu.msbt,17,HeaderStage5,Bölüm 5
+PauseMenu.msbt,18,HeaderStage6,Bölüm 6
+PauseMenu.msbt,19,HeaderStage7,Bölüm 7
+PauseMenu.msbt,20,HeaderStage8,Bölüm 8
+PauseMenu.msbt,21,HeaderRightDir,⟦MSBT:0E000000020002004A00⟧Sağa bakarken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,22,DialogExitStage,"⟦MSBT:0E000000020002005D00⟧Bulduğun Güneş Taşları ve
+anahtarlıklar ⟦MSBT:0E00000003000400FF4B32FF⟧kaydedilmeyecek⟦MSBT:0E00000003000400000000FF⟧.
+Bölümden çıkmak
+istediğine emin misin?⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,23,DialogExitWMap,"⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧
+menüye dönmek ister misin?"
+PauseMenu.msbt,24,DialogExitArena,"⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧ başlık
+ekranına dönülsün mü?"
+PauseMenu.msbt,25,DialogExitDeGo,"⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧ başlık
+ekranına dönülsün mü?"
+PauseMenu.msbt,26,DialogExitAbilityRoom,"Dünya haritasına
+dönmek ister misin?"
+PauseMenu.msbt,27,DialogExitFight,"⟦MSBT:0E000000020002005700⟧⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧ yetenek seçme
+ekranına dönmek ister misin?⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,28,CloseButtonTitle,Devam
+PauseMenu.msbt,29,ExitStageButtonTitle,⟦MSBT:0E000000020002006400⟧Çık⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,30,ExitLvMapButtonTitle,⟦MSBT:0E000000020002006400⟧Harita⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,31,ExitWMapButtonTitle,⟦MSBT:0E000000020002006400⟧Çık⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,32,ExitArenaButtonTitle,Çık
+PauseMenu.msbt,33,ExitDeGoButtonTitle,Çık
+PauseMenu.msbt,34,ExitFightButtonTitle,"⟦MSBT:0E000000020002006400⟧Yetenek
+Seç⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,35,PageAbilityTitle,Kontroller
+PauseMenu.msbt,36,PageCommandTitle,Kontroller
+PauseMenu.msbt,37,PageSpecialTitle,Özel
+PauseMenu.msbt,38,PageWMapTitle,
+PauseMenu.msbt,39,PageWMapHeader,Rüya Sarmaşığı
+PauseMenu.msbt,40,PageWMapLv1Name,Sv. 1
+PauseMenu.msbt,41,PageWMapLv2Name,Sv. 2
+PauseMenu.msbt,42,PageWMapLv3Name,Sv. 3
+PauseMenu.msbt,43,PageWMapLv4Name,Sv. 4
+PauseMenu.msbt,44,PageWMapLv5Name,Sv. 5
+PauseMenu.msbt,45,PageWMapLv6Name,Sv. 6
+PauseMenu.msbt,46,#Abl,
+PauseMenu.msbt,47,AblNormalTitle0,⟦MSBT:0E000000020002005000⟧Kirby Hakkında⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,48,AblNormalTitle1,⟦MSBT:0E000000020002005000⟧Kirby Hakkında 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,49,AblNormalTitle2,⟦MSBT:0E000000020002005000⟧Kirby Hakkında 2⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,50,AblNormalTitle3,⟦MSBT:0E000000020002005000⟧Kirby Hakkında 3⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,51,AblNormalInfo,"⟦MSBT:0E000000020002005500⟧Düşmanları içine çekip
+⟦MSBT:0E00000003000400FF6400FF⟧yeteneklerini al⟦MSBT:0E00000003000400000000FF⟧, sonra
+çeşit çeşit hareket yap!
+⟦MSBT:0E00000003000400FF6400FF⟧Rüya Sarmaşığı⟦MSBT:0E00000003000400000000FF⟧'na tırman
+ve ⟦MSBT:0E00000003000400FF6400FF⟧Kral Dedede⟦MSBT:0E00000003000400000000FF⟧'yi kurtar!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,52,AblNormalInfoArena,"⟦MSBT:0E000000020002005500⟧Kopya Yeteneğin yoksa
+⟦MSBT:0E00000003000400FF6400FF⟧İçine Çek ve Tükür⟦MSBT:0E00000003000400000000FF⟧ yapabilirsin.
+⟦MSBT:0E00010004000000⟧ veya ⟦MSBT:0E00010005000000⟧ ile ⟦MSBT:0E00000003000400FF6400FF⟧Havada Kaçış⟦MSBT:0E00000003000400000000FF⟧ yap!
+Zor durumdaysan ⟦MSBT:0E00010003000000⟧'e bas ya da
+⟦MSBT:0E00000003000400FF6400FF⟧Yardım Yıldızı⟦MSBT:0E00000003000400000000FF⟧'na ⟦MSBT:0E00000003000400FF6400FF⟧dokun⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,53,AblNormalWaterTitle0,⟦MSBT:0E000000020002005A00⟧Yüzme Kontrolleri⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,54,AblNormalWaterTitle1,⟦MSBT:0E000000020002005A00⟧Yüzme Kontrolleri 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,55,AblNormalWaterInfo,"⟦MSBT:0E000000020002005500⟧Kirby çok iyi yüzer ve
+su yüzeyinde bir iç lastik gibi
+⟦MSBT:0E00000003000400FF6400FF⟧süzülebilir⟦MSBT:0E00000003000400000000FF⟧. Su altında
+yeteneklerin sınırlıdır, ama
+⟦MSBT:0E00000003000400FF6400FF⟧Su Tabancası⟦MSBT:0E00000003000400000000FF⟧ zor durumda
+işine yarar.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,56,AblIceTitle0,Buz 
+PauseMenu.msbt,57,AblIceTitle1,Buz 1
+PauseMenu.msbt,58,AblIceTitle2,Buz 2
+PauseMenu.msbt,59,AblIceTitle3,Buz 3
+PauseMenu.msbt,60,AblIceInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Düşmanları⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF6400FF⟧Buz Nefesiyle⟦MSBT:0E00000003000400000000FF⟧
+dondur, sonra ⟦MSBT:0E00000003000400FF6400FF⟧Buz Tekmesiyle⟦MSBT:0E00000003000400000000FF⟧
+savur! Ayrıca ⟦MSBT:0E00000003000400FF6400FF⟧Buz Pateniyle⟦MSBT:0E00000003000400000000FF⟧
+yerde zarifçe süzül!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,61,AblWhipTitle0,Kırbaç
+PauseMenu.msbt,62,AblWhipTitle1,Kırbaç 1
+PauseMenu.msbt,63,AblWhipTitle2,Kırbaç 2
+PauseMenu.msbt,64,AblWhipTitle3,Kırbaç 3
+PauseMenu.msbt,65,AblWhipInfo,"⟦MSBT:0E000000020002005000⟧Bu maceracı Kopya Yeteneği,
+şık bir şapka ve ⟦MSBT:0E00000003000400FF6400FF⟧uzun menzilli⟦MSBT:0E00000003000400000000FF⟧
+bir kırbaç verir. Düşmanları
+ve eşyaları ⟦MSBT:0E00000003000400FF6400FF⟧tek hamlede⟦MSBT:0E00000003000400000000FF⟧
+kendine ⟦MSBT:0E00000003000400FF6400FF⟧çekebilirsin⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,66,AblWingTitle0,Kanat
+PauseMenu.msbt,67,AblWingTitle1,Kanat 1
+PauseMenu.msbt,68,AblWingTitle2,Kanat 2
+PauseMenu.msbt,69,AblWingTitle3,Kanat 3
+PauseMenu.msbt,70,AblWingInfo,"⟦MSBT:0E000000020002005500⟧Bu ⟦MSBT:0E00000003000400FF6400FF⟧ustalık isteyen⟦MSBT:0E00000003000400000000FF⟧ yetenekle
+havada türlü hareket yap!
+⟦MSBT:0E00000003000400FF6400FF⟧Mekik Döngüsü⟦MSBT:0E00000003000400000000FF⟧'yle göğe
+yüksel ve rakiplerine
+yukarıdan saldır!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,71,AblCutterTitle0,Kesici
+PauseMenu.msbt,72,AblCutterTitle1,Kesici 1
+PauseMenu.msbt,73,AblCutterTitle2,Kesici 2
+PauseMenu.msbt,74,AblCutterInfo,"⟦MSBT:0E000000020002005500⟧Fırlatılınca eline dönen
+bir bumerang. Güç yükleyip
+⟦MSBT:0E00000003000400FF6400FF⟧uçuş yolunu⟦MSBT:0E00000003000400000000FF⟧ yukarı ya da
+aşağı yönlendirebilir,
+⟦MSBT:0E00000003000400FF6400FF⟧ipleri de kesebilirsin⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,75,AblCrashTitle0,Patlama
+PauseMenu.msbt,76,AblCrashTitle1,Patlama 1
+PauseMenu.msbt,77,AblCrashInfo,"⟦MSBT:0E000000020002005500⟧Dev bir patlamayla düşmanları
+savur! ⟦MSBT:0E00000003000400FF6400FF⟧Yön Tuşlarına
+art arda bas⟦MSBT:0E00000003000400000000FF⟧ıp güç biriktir,
+sonra çevreni buharlaştır.
+Bu ⟦MSBT:0E00000003000400FF6400FF⟧nihai yetenek⟦MSBT:0E00000003000400000000FF⟧ yalnızca
+bir kez kullanılabilir;
+iyi değerlendir!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,78,AblStoneTitle0,Taş
+PauseMenu.msbt,79,AblStoneTitle1,Taş 1
+PauseMenu.msbt,80,AblStoneTitle2,Taş 2
+PauseMenu.msbt,81,AblStoneTitle3,Taş 3
+PauseMenu.msbt,82,AblStoneInfo,"⟦MSBT:0E000000020002005500⟧Taş yeteneğiyle Kirby
+coşar! ⟦MSBT:0E00000003000400FF6400FF⟧Yokuşlardan kay⟦MSBT:0E00000003000400000000FF⟧
+ve düşmanlarını ⟦MSBT:0E00000003000400FF6400FF⟧ez⟦MSBT:0E00000003000400000000FF⟧ip
+saniyeler içinde alt et!
+Bu kadar çok dönüşüm varken,
+sırada neye dönüşeceğini
+kim bilebilir!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,83,AblSparkTitle0,Kıvılcım
+PauseMenu.msbt,84,AblSparkTitle1,Kıvılcım 1
+PauseMenu.msbt,85,AblSparkTitle2,Kıvılcım 2
+PauseMenu.msbt,86,AblSparkInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Yön Tuşlarına
+art arda bas⟦MSBT:0E00000003000400000000FF⟧ıp güç biriktir,
+bir enerji bariyeri oluştur!
+Kıvılcım yeteneğiyle
+arazinin içinden bile
+⟦MSBT:0E00000003000400FF6400FF⟧plazma atışları yapabilirsin⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,87,AblSpearTitle0,Mızrak
+PauseMenu.msbt,88,AblSpearTitle1,Mızrak 1
+PauseMenu.msbt,89,AblSpearTitle2,Mızrak 2
+PauseMenu.msbt,90,AblSpearTitle3,Mızrak 3
+PauseMenu.msbt,91,AblSpearInfo,"⟦MSBT:0E000000020002005500⟧Gerçek bir savaşçının silahıdır.
+⟦MSBT:0E00000003000400FF6400FF⟧Çoklu Mızrak Saldırısı⟦MSBT:0E00000003000400000000FF⟧! Mızrak
+Atışı! ⟦MSBT:0E00000003000400FF6400FF⟧Ay Düşüşü⟦MSBT:0E00000003000400000000FF⟧! Mızrak
+yeteneği bunlar ve daha
+fazlasını emrine verir.
+Hatta mızrağı ⟦MSBT:0E00000003000400FF6400FF⟧su altında⟦MSBT:0E00000003000400000000FF⟧ bile
+kullanabilirsin!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,92,AblSleepTitle0,Uyku
+PauseMenu.msbt,93,AblSleepTitle1,Uyku 1
+PauseMenu.msbt,94,AblSleepInfo,"⟦MSBT:0E000000020002005500⟧Sadece... üç dakika daha,
+anne. Çok... esneee...
+uykuluyum. Beni...
+uyandıracaksan...
+⟦MSBT:0E00000003000400FF6400FF⟧Yön Tuşlarına...
+art arda bas⟦MSBT:0E00000003000400000000FF⟧.
+Zzzzzz... Zzzzzzz...⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,95,AblSwordTitle0,Kılıç
+PauseMenu.msbt,96,AblSwordTitle1,Kılıç 1 
+PauseMenu.msbt,97,AblSwordTitle2,Kılıç 2
+PauseMenu.msbt,98,AblSwordTitle3,Kılıç 3
+PauseMenu.msbt,99,AblSwordTitle4,Kılıç 4
+PauseMenu.msbt,100,AblSwordInfo,"⟦MSBT:0E000000020002005500⟧Yakın dövüş silahlarının
+tartışmasız kralı! ⟦MSBT:0E00000003000400FF6400FF⟧Delici
+Hamle⟦MSBT:0E00000003000400000000FF⟧, ⟦MSBT:0E00000003000400FF6400FF⟧Aşağı Saplama⟦MSBT:0E00000003000400000000FF⟧, ⟦MSBT:0E00000003000400FF6400FF⟧Dönen
+Kesik⟦MSBT:0E00000003000400000000FF⟧... liste uzar gider.
+⟦MSBT:0E00000003000400FF6400FF⟧Kılıç Dalışıyla⟦MSBT:0E00000003000400000000FF⟧ işi bitir,
+kılıcını göğe kaldır ve
+savaş narası at!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,101,AblNinjaTitle0,Ninja
+PauseMenu.msbt,102,AblNinjaTitle1,Ninja 1
+PauseMenu.msbt,103,AblNinjaTitle2,Ninja 2
+PauseMenu.msbt,104,AblNinjaTitle3,Ninja 3
+PauseMenu.msbt,105,AblNinjaTitle4,Ninja 4
+PauseMenu.msbt,106,AblNinjaInfo,"⟦MSBT:0E000000020002005500⟧Yakındaki bir ninja
+köyünden takviye
+çağrıldı! ⟦MSBT:0E00000003000400FF6400FF⟧Gölgelerin⟦MSBT:0E00000003000400000000FF⟧ içine kay
+ve ⟦MSBT:0E00000003000400FF6400FF⟧karanlıkta⟦MSBT:0E00000003000400000000FF⟧ kaybol. Zamanı
+gelince ⟦MSBT:0E00000003000400FF6400FF⟧Çiçek
+Fırtınası ⟦MSBT:0E00000003000400000000FF⟧tekniğini kullan!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,107,AblParasolTitle0,Şemsiye
+PauseMenu.msbt,108,AblParasolTitle1,Şemsiye 1
+PauseMenu.msbt,109,AblParasolTitle2,Şemsiye 2
+PauseMenu.msbt,110,AblParasolTitle3,Şemsiye 3
+PauseMenu.msbt,111,AblParasolInfo,"⟦MSBT:0E000000020002005500⟧Düşen cisimlere karşı ⟦MSBT:0E00000003000400FF6400FF⟧korun⟦MSBT:0E00000003000400000000FF⟧
+ya da havada ⟦MSBT:0E00000003000400FF6400FF⟧süzül⟦MSBT:0E00000003000400000000FF⟧. Su
+püskürterek düşmanlara saldır
+ve ⟦MSBT:0E00000003000400FF6400FF⟧yangınları söndür⟦MSBT:0E00000003000400000000FF⟧. Büyük
+finali ⟦MSBT:0E00000003000400FF6400FF⟧Sirk Fırlatışıyla⟦MSBT:0E00000003000400000000FF⟧ yap!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,112,AblHammerTitle0,Çekiç
+PauseMenu.msbt,113,AblHammerTitle1,Çekiç 1
+PauseMenu.msbt,114,AblHammerTitle2,Çekiç 2
+PauseMenu.msbt,115,AblHammerTitle3,Çekiç 3
+PauseMenu.msbt,116,AblHammerInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Kraldan emanet dev bir çekiç⟦MSBT:0E00000003000400000000FF⟧.
+Kayaları toza çevir, ⟦MSBT:0E00000003000400FF6400FF⟧kazıkları⟦MSBT:0E00000003000400000000FF⟧
+yere çak. Özel tekniğinle
+⟦MSBT:0E00000003000400FF6400FF⟧ateşli⟦MSBT:0E00000003000400000000FF⟧ bir patlama çıkar:
+⟦MSBT:0E00000003000400FF6400FF⟧Çekiç Taklası⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,117,AblBeamTitle0,Işın
+PauseMenu.msbt,118,AblBeamTitle1,Işın 1
+PauseMenu.msbt,119,AblBeamTitle2,Işın 2
+PauseMenu.msbt,120,AblBeamInfo,"⟦MSBT:0E000000020002005500⟧Yakıcı bir enerji ışını sal!
+Düşmanın yakınında
+⟦MSBT:0E00000003000400FF6400FF⟧Yakalama Işını⟦MSBT:0E00000003000400000000FF⟧nı kullan;
+havada ⟦MSBT:0E00000003000400FF6400FF⟧Işın Patlaması⟦MSBT:0E00000003000400000000FF⟧ yap,
+sonra ⟦MSBT:0E00000003000400FF6400FF⟧Dalga Işını⟦MSBT:0E00000003000400000000FF⟧ ile bitir!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,121,AblFireTitle0,Ateş
+PauseMenu.msbt,122,AblFireTitle1,Ateş 1
+PauseMenu.msbt,123,AblFireTitle2,Ateş 2
+PauseMenu.msbt,124,AblFireTitle3,Ateş 3
+PauseMenu.msbt,125,AblFireInfo,"⟦MSBT:0E000000020002005500⟧Bu ⟦MSBT:0E00000003000400FF6400FF⟧alevli ⟦MSBT:0E00000003000400000000FF⟧yetenek
+⟦MSBT:0E00000003000400FF6400FF⟧kor gibi⟦MSBT:0E00000003000400000000FF⟧ yakar! ⟦MSBT:0E00000003000400FF6400FF⟧Fitili⟦MSBT:0E00000003000400000000FF⟧ ateşle,
+yaklaşılmayacak kadar ısın!
+Ateştopuna dönüşüp
+havayı yakıp geç.
+⟦MSBT:0E00000003000400FF6400FF⟧Ateş Topu Cehennemi⟦MSBT:0E00000003000400000000FF⟧'nin
+alevlerini kucakla!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,126,AblFighterTitle0,Dövüşçü
+PauseMenu.msbt,127,AblFighterTitle1,Dövüşçü 1
+PauseMenu.msbt,128,AblFighterTitle2,Dövüşçü 2
+PauseMenu.msbt,129,AblFighterTitle3,Dövüşçü 3
+PauseMenu.msbt,130,AblFighterTitle4,Dövüşçü 4
+PauseMenu.msbt,131,AblFighterInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Dövüşçü⟦MSBT:0E00000003000400000000FF⟧ yeteneği şaka değil;
+tonla tekniğiyle en güçlü
+düşmanları bile devirebilirsin!
+Önüne çıkan rakipleri ⟦MSBT:0E00000003000400FF6400FF⟧nakavt et⟦MSBT:0E00000003000400000000FF⟧
+ve ⟦MSBT:0E00000003000400FF6400FF⟧zirveye doğru savaş⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,132,AblBombTitle0,Bomba
+PauseMenu.msbt,133,AblBombTitle1,Bomba 1
+PauseMenu.msbt,134,AblBombTitle2,Bomba 2
+PauseMenu.msbt,135,AblBombInfo,"⟦MSBT:0E000000020002005500⟧Başının üstüne ⟦MSBT:0E00000003000400FF6400FF⟧kocaman⟦MSBT:0E00000003000400000000FF⟧ bir
+bomba kaldır, ⟦MSBT:0E00000003000400FF6400FF⟧açıyı⟦MSBT:0E00000003000400000000FF⟧ ayarla ve
+⟦MSBT:0E00000003000400FF6400FF⟧fırlat⟦MSBT:0E00000003000400000000FF⟧. Uzaktan patlat ya da
+düşmanın hemen yanına bırak.
+⟦MSBT:0E00000003000400FF6400FF⟧GÜÜÜM⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,136,AblMikeTitle0,⟦MSBT:0E000000020002005A00⟧Mikrofon⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,137,AblMikeTitle1,⟦MSBT:0E000000020002005A00⟧Mikrofon 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,138,AblMikeTitle2,
+PauseMenu.msbt,139,AblMikeInfo,"⟦MSBT:0E000000020002005500⟧Vuuum... ⟦MSBT:0E00000003000400FF6400FF⟧cıııııızt⟦MSBT:0E00000003000400000000FF⟧!
+Mikrofon kontrol, bir iki.
+Sesi ⟦MSBT:0E00000003000400FF6400FF⟧sonuna kadar⟦MSBT:0E00000003000400000000FF⟧ açmak için
+gücünü biriktir. Kirby'nin
+⟦MSBT:0E00000003000400FF6400FF⟧üç şarkılık repertuvarı⟦MSBT:0E00000003000400000000FF⟧
+evi sallamaya yeter!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,140,AblLeafTitle0,Yaprak
+PauseMenu.msbt,141,AblLeafTitle1,Yaprak 1
+PauseMenu.msbt,142,AblLeafTitle2,Yaprak 2
+PauseMenu.msbt,143,AblLeafInfo,"⟦MSBT:0E000000020002005500⟧Bu keskin yetenekle rüzgârda
+⟦MSBT:0E00000003000400FF6400FF⟧savrulan bir yaprak ⟦MSBT:0E00000003000400000000FF⟧ol.
+Dilimlemek için
+⟦MSBT:0E00000003000400FF6400FF⟧dans eden yapraklardan
+⟦MSBT:0E00000003000400000000FF⟧bir fırtına oluştur, ya da
+Savunmanı aç ve -
+Hey, ⟦MSBT:0E00000003000400FF6400FF⟧nereye gittin⟦MSBT:0E00000003000400000000FF⟧?!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,144,AblWheelTitle0,⟦MSBT:0E000000020002006400⟧Teker⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,145,AblWheelTitle1,⟦MSBT:0E000000020002006400⟧Teker 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,146,AblWheelTitle2,⟦MSBT:0E000000020002006400⟧Teker 2⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,147,AblWheelInfo,"⟦MSBT:0E000000020002005500⟧Pedalı kökle,
+ve bir ⟦MSBT:0E00000003000400FF6400FF⟧Koşu⟦MSBT:0E00000003000400000000FF⟧ ile ileri atıl!
+Hızın olduğu sürece
+⟦MSBT:0E00000003000400FF6400FF⟧yenilmez⟦MSBT:0E00000003000400000000FF⟧sin, bebeğim! Sadece
+⟦MSBT:0E00000003000400FF6400FF⟧çukurlara dikkat et⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,148,AblBellTitle0,Çan
+PauseMenu.msbt,149,AblBellTitle1,Çan 1
+PauseMenu.msbt,150,AblBellTitle2,Çan 2
+PauseMenu.msbt,151,AblBellTitle3,Çan 3
+PauseMenu.msbt,152,AblBellInfo,"⟦MSBT:0E000000020002005500⟧Çın çın, ding dong!
+Altın çanı salla; tuhaf bir
+⟦MSBT:0E00000003000400FF6400FF⟧tını⟦MSBT:0E00000003000400000000FF⟧ etrafa yayılsın.
+Ve büyük final için
+⟦MSBT:0E00000003000400FF6400FF⟧Çın Finali⟦MSBT:0E00000003000400000000FF⟧'ni dene!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,153,AblSniperTitle0,Okçu
+PauseMenu.msbt,154,AblSniperTitle1,Okçu 1
+PauseMenu.msbt,155,AblSniperTitle2,Okçu 2
+PauseMenu.msbt,156,AblSniperTitle3,Okçu 3
+PauseMenu.msbt,157,AblSniperInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Doğru anı bekle⟦MSBT:0E00000003000400000000FF⟧
+ve ateş aç. Gölgelerde
+saklanıp ⟦MSBT:0E00000003000400FF6400FF⟧Keskin Nişancı⟦MSBT:0E00000003000400000000FF⟧ ol!
+Hassas nişan alışın,
+uzak mesafeden
+⟦MSBT:0E00000003000400FF6400FF⟧küçük bir hedefi⟦MSBT:0E00000003000400000000FF⟧
+vurmanı sağlar.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,158,AblBeetleTitle0,Böcek
+PauseMenu.msbt,159,AblBeetleTitle1,Böcek 1
+PauseMenu.msbt,160,AblBeetleTitle2,Böcek 2
+PauseMenu.msbt,161,AblBeetleTitle3,Böcek 3
+PauseMenu.msbt,162,AblBeetleTitle4,Böcek 4
+PauseMenu.msbt,163,AblBeetleInfo,"⟦MSBT:0E000000020002005500⟧Boynuzunda ışık parıldarken
+⟦MSBT:0E00000003000400FF6400FF⟧böceklerin kralı⟦MSBT:0E00000003000400000000FF⟧ gökte süzülür!
+Düşmanlara atılıp
+boynuzunla ⟦MSBT:0E00000003000400FF6400FF⟧yakala⟦MSBT:0E00000003000400000000FF⟧, sonra
+onları ⟦MSBT:0E00000003000400FF6400FF⟧yere çak⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,164,AblCircusTitle0,Sirk
+PauseMenu.msbt,165,AblCircusTitle1,Sirk 1
+PauseMenu.msbt,166,AblCircusTitle2,Sirk 2
+PauseMenu.msbt,167,AblCircusTitle3,Sirk 3
+PauseMenu.msbt,168,AblCircusInfo,"⟦MSBT:0E000000020002005A00⟧Gerçek mi? Hem de nasıl!
+Alevli çemberden atla,
+en iyi ⟦MSBT:0E00000003000400FF6400FF⟧Akrobasi⟦MSBT:0E00000003000400000000FF⟧
+hareketlerini sergile!
+Perde kapanınca düşmanların
+⟦MSBT:0E00000003000400FF6400FF⟧sirk hünerlerinin⟦MSBT:0E00000003000400000000FF⟧ şaka
+olmadığını anlayacak.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,169,AblNeedleTitle0,İğne
+PauseMenu.msbt,170,AblNeedleTitle1,İğne 1
+PauseMenu.msbt,171,AblNeedleTitle2,İğne 2
+PauseMenu.msbt,172,AblNeedleInfo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF6400FF⟧Sivri iğnelerle ⟦MSBT:0E00000003000400000000FF⟧
+kendini kapla; düşmanlarını
+dürt ve ⟦MSBT:0E00000003000400FF6400FF⟧duvarlara tutun⟦MSBT:0E00000003000400000000FF⟧!
+Ayrıca tavana ve
+zemine de iğne
+⟦MSBT:0E00000003000400FF6400FF⟧sapla⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,173,AblBigBangTitle0,Hipernova
+PauseMenu.msbt,174,AblBigBangTitle1,Hipernova 1
+PauseMenu.msbt,175,AblBigBangInfo,"⟦MSBT:0E000000020002005500⟧Rüya Sarmaşığı'ndaki ⟦MSBT:0E00000003000400FF6400FF⟧Mucize
+Meyvesi⟦MSBT:0E00000003000400000000FF⟧ Kirby'ye bu özel
+yeteneği verir. Enerji
+patlamasının ardından
+Kirby'nin midesi kara deliğe
+dönüşür ve ⟦MSBT:0E00000003000400FF6400FF⟧dev nesneleri⟦MSBT:0E00000003000400000000FF⟧
+içine çekebilir!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,176,AblGhostTitle1,Hayalet
+PauseMenu.msbt,177,AblDededeInfo,"⟦MSBT:0E000000020002005500⟧Sonunda: ⟦MSBT:0E00000003000400FF6400FF⟧Dedede Turu⟦MSBT:0E00000003000400000000FF⟧!
+Bu toprakları ⟦MSBT:0E00000003000400FF6400FF⟧Kraliçe Sectonia⟦MSBT:0E00000003000400000000FF⟧
+değil, ⟦MSBT:0E00000003000400FF6400FF⟧kral⟦MSBT:0E00000003000400000000FF⟧ yönetecek!
+Rüya Diyarı'nın kendini
+Büyük Kral ilan eden hükümdarı
+kendi ⟦MSBT:0E00000003000400FF6400FF⟧macerasına⟦MSBT:0E00000003000400000000FF⟧ çıkıyor!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,178,AblDededeTitle0,⟦MSBT:0E000000020002005000⟧Kral Dedede Hakkında⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,179,AblDededeTitle1,⟦MSBT:0E000000020002005000⟧Kral Dedede Hakkında 1⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,180,AblDededeTitle2,⟦MSBT:0E000000020002005000⟧Kral Dedede Hakkında 2⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,181,AblDededeTitle3,⟦MSBT:0E000000020002005000⟧Kral Dedede Hakkında 3⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,182,AblTiltTitle1,Eğim Kalibrasyonu
+PauseMenu.msbt,183,#Sp,
+PauseMenu.msbt,184,PageTitleSpecial,Özel
+PauseMenu.msbt,185,SpVSWhispyflowers,VS Çiçekli Ağaç
+PauseMenu.msbt,186,SpVSWhispyflowersInfo,"⟦MSBT:0E000000020002005A00⟧Bir zamanlar yüzen ⟦MSBT:0E00000003000400FF6400FF⟧Floralia⟦MSBT:0E00000003000400000000FF⟧
+krallığının küçük bir çiçeğiydi.
+Çiçekli Ağaç, Dedede'yi kaçıran gizemli
+⟦MSBT:0E00000003000400FF6400FF⟧Örümza⟦MSBT:0E00000003000400000000FF⟧'nın büyüsüyle saldırganlaşıp
+⟦MSBT:0E00000003000400FF6400FF⟧aşırı büyüdü⟦MSBT:0E00000003000400000000FF⟧. Bu ağacın jilet gibi
+çiçeklerine dikkat et!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,187,SpVSWhispyflowersEx,⟦MSBT:0E000000020002006200⟧VS Çiçekli Ağaç DX⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,188,SpVSWhispyflowersExInfo,"⟦MSBT:0E000000020002005A00⟧Bir zamanların ⟦MSBT:0E00000003000400FF6400FF⟧küçücük çiçeği⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF6400FF⟧devasa⟦MSBT:0E00000003000400000000FF⟧ bir boyuta ulaşıp çılgına döndü!
+Rüya Diyarı'nda yaşayan
+⟦MSBT:0E00000003000400FF6400FF⟧Whispy Woods⟦MSBT:0E00000003000400000000FF⟧ ile bağlantısı ise
+⟦MSBT:0E00000003000400FF6400FF⟧bilinmiyor⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,189,SpVSPaincia,VS Boyatra
+PauseMenu.msbt,190,SpVSPainciaInfo,"⟦MSBT:0E000000020002005A00⟧Bir zamanlar ⟦MSBT:0E00000003000400FF6400FF⟧doğumda ayrılan iki
+kız kardeşi⟦MSBT:0E00000003000400000000FF⟧ resmettiği söylenen
+bir ⟦MSBT:0E00000003000400FF6400FF⟧tablo⟦MSBT:0E00000003000400000000FF⟧ vardı. Yıllarca bir ressamın
+atölyesinde unutulup uyudu; sonra
+⟦MSBT:0E00000003000400FF6400FF⟧canlanıp⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF6400FF⟧dünyadan intikam
+almaya yemin etti⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,191,SpVSPainciaEx,VS Boyatra DX
+PauseMenu.msbt,192,SpVSPainciaExInfo,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF6400FF⟧Unutulmuş bir tablodan⟦MSBT:0E00000003000400000000FF⟧ doğan
+Boyatra DX, gizemli bir fırçanın
+eseri. ⟦MSBT:0E00000003000400FF6400FF⟧İntikam⟦MSBT:0E00000003000400000000FF⟧ için geri döndü.
+Acaba onu yaratan ⟦MSBT:0E00000003000400FF6400FF⟧ressam⟦MSBT:0E00000003000400000000FF⟧,
+ona biçim verdiğine pişman mı?⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,193,SpVSKracko,VS Kracko
+PauseMenu.msbt,194,SpVSKrackoInfo,"⟦MSBT:0E000000020002005A00⟧Görünüşe göre ⟦MSBT:0E00000003000400FF6400FF⟧Kracko ⟦MSBT:0E00000003000400000000FF⟧Floralia'yı
+kendi ⟦MSBT:0E00000003000400FF6400FF⟧bölgesinin⟦MSBT:0E00000003000400000000FF⟧ bir parçası yaptı.
+⟦MSBT:0E00000003000400FF6400FF⟧Gizemli bir güç ⟦MSBT:0E00000003000400000000FF⟧kaynağıyla beslendiği için
+saldırıları her zamankinden daha güçlü!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,195,SpVSKrackoEx,VS Kracko DX
+PauseMenu.msbt,196,SpVSKrackoExInfo,"⟦MSBT:0E000000020002005A00⟧Kirby Kracko'yu sayısız kez yendi,
+ama ⟦MSBT:0E00000003000400FF6400FF⟧bulutlar⟦MSBT:0E00000003000400000000FF⟧ hâlâ
+⟦MSBT:0E00000003000400FF6400FF⟧gökyüzünde⟦MSBT:0E00000003000400000000FF⟧ asılı kaldığı sürece
+Kracko ⟦MSBT:0E00000003000400FF6400FF⟧asla pes etmeyecek⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,197,SpVSTogurogaraga,⟦MSBT:0E000000020002005D00⟧VS Kıvrak Çıngıraklı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,198,SpVSTogurogaragaInfo,"⟦MSBT:0E000000020002005A00⟧Zamanın başlangıcından beri
+Gökyüzü Halkı'nın ⟦MSBT:0E00000003000400FF6400FF⟧saygı duyduğu⟦MSBT:0E00000003000400000000FF⟧
+dev bir yılan heykeli. Gövdesi
+göksel altın zırhla kaplı, ama
+eski metinlere göre ⟦MSBT:0E00000003000400FF6400FF⟧başı korumasız⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,199,SpVSTogurogaragaEx,⟦MSBT:0E000000020002005000⟧VS Kıvrak Çıngıraklı DX⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,200,SpVSTogurogaragaExInfo,"⟦MSBT:0E000000020002005A00⟧Bu heykelimsi yılan bir zamanlar
+⟦MSBT:0E00000003000400FF6400FF⟧Gökyüzü Halkı⟦MSBT:0E00000003000400000000FF⟧ tarafından barışın
+simgesi olarak görülürdü. Ancak
+⟦MSBT:0E00000003000400FF6400FF⟧kötü bir büyü⟦MSBT:0E00000003000400000000FF⟧ onu bozdu ve
+ülkede bir ⟦MSBT:0E00000003000400FF6400FF⟧baş belası⟦MSBT:0E00000003000400000000FF⟧ hâline geldi.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,201,SpVSVolgerom,VS Pirovrak
+PauseMenu.msbt,202,SpVSVolgeromInfo,"⟦MSBT:0E000000020002005A00⟧Bu kızgın kurbağa o kadar sıcak ki
+banyo suyuna ⟦MSBT:0E00000003000400FF6400FF⟧erimiş lav ⟦MSBT:0E00000003000400000000FF⟧kullanır!
+En sevdiği hobileri
+⟦MSBT:0E00000003000400FF6400FF⟧volkanik patlamalar⟦MSBT:0E00000003000400000000FF⟧ çıkarmak ve
+her yere zıplamaktır!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,203,SpVSVolgeromEx,VS Pirovrak DX
+PauseMenu.msbt,204,SpVSVolgeromExInfo,"⟦MSBT:0E000000020002005A00⟧Susuzluğunu ⟦MSBT:0E00000003000400FF6400FF⟧kaynar magma⟦MSBT:0E00000003000400000000FF⟧ ile giderir
+ve ⟦MSBT:0E00000003000400FF6400FF⟧erimiş lav taşları⟦MSBT:0E00000003000400000000FF⟧yla atıştırır. En
+⟦MSBT:0E00000003000400FF6400FF⟧acımasız ortamlar ⟦MSBT:0E00000003000400000000FF⟧bile Pirovrak'a
+rahatlatıcı gelir.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,205,SpVSMaskeddedede,⟦MSBT:0E000000020002006200⟧VS Maskeli Dedede⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,206,SpVSMaskeddededeInfo,"⟦MSBT:0E000000020002005A00⟧Örümza'nın hipnoz büyüsünün
+etkisi altında ve şimdi
+⟦MSBT:0E00000003000400FF6400FF⟧gizemli bir maske⟦MSBT:0E00000003000400000000FF⟧ takan güçlenmiş
+kral Kirby ile dövüşmek istiyor.
+⟦MSBT:0E00000003000400FF6400FF⟧Kendine gel, Kral Dedede⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,207,SpVSMaskeddededeRevenge,⟦MSBT:0E000000020002003C00⟧VS Maskeli Dedede'nin İntikamı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,208,SpVSMaskeddededeRevengeInfo,"⟦MSBT:0E000000020002005A00⟧Kirby'ye yenildikten sonra ⟦MSBT:0E00000003000400FF6400FF⟧yeniden
+güçlenen kral⟦MSBT:0E00000003000400000000FF⟧ enerjiyle dolup taşıyor!
+Kirby'nin rakibinin ⟦MSBT:0E00000003000400FF6400FF⟧sınırları kaldırıldı⟦MSBT:0E00000003000400000000FF⟧;
+artık ⟦MSBT:0E00000003000400FF6400FF⟧dev bir baltayı⟦MSBT:0E00000003000400000000FF⟧ kolayca savuruyor.
+Dikkat: bu ⟦MSBT:0E00000003000400FF6400FF⟧savaş makinesi⟦MSBT:0E00000003000400000000FF⟧
+kontrolden çıkmış!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,209,SpVSQueensectnia1,⟦MSBT:0E000000020002005D00⟧VS Kraliçe Sectonia⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,210,SpVSQueensectnia1Info,"⟦MSBT:0E000000020002005A00⟧Örümza'yı ⟦MSBT:0E00000003000400FF6400FF⟧büyüleyen⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF6400FF⟧kötü kraliçe⟦MSBT:0E00000003000400000000FF⟧,
+⟦MSBT:0E00000003000400FF6400FF⟧güzellik⟦MSBT:0E00000003000400000000FF⟧ ve ⟦MSBT:0E00000003000400FF6400FF⟧dünya hâkimiyeti⟦MSBT:0E00000003000400000000FF⟧ peşinde.
+Floralia'yı ele geçirip Gökyüzü Halkı'nı
+zalimliğiyle baskı altına aldı. Artık
+perde arkasındaki gerçek ⟦MSBT:0E00000003000400FF6400FF⟧beyinle⟦MSBT:0E00000003000400000000FF⟧
+yüzleşme zamanı!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,211,SpVSQueensectnia1Ex,⟦MSBT:0E000000020002005000⟧VS Kraliçe Sectonia DX⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,212,SpVSQueensectnia1ExInfo,"⟦MSBT:0E000000020002005A00⟧Sectonia ile Örümza bir zamanlar
+⟦MSBT:0E00000003000400FF6400FF⟧iyi arkadaştı⟦MSBT:0E00000003000400000000FF⟧, ama Sectonia
+kibire ve ⟦MSBT:0E00000003000400FF6400FF⟧büyüklük hezeyanlarına⟦MSBT:0E00000003000400000000FF⟧ kapıldı.
+Çok geçmeden kalbi karardı
+ve onu bugün olduğu
+⟦MSBT:0E00000003000400FF6400FF⟧güç düşkünü hükümdara⟦MSBT:0E00000003000400000000FF⟧ dönüştürdü.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,213,SpVSSectniaVine,⟦MSBT:0E000000020002005200⟧VS Sectonia Sarmaşığı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,214,SpVSSectniaVineInfo,"⟦MSBT:0E000000020002005A00⟧Sectonia'nın parazit türü, diğer
+canlılardan ⟦MSBT:0E00000003000400FF6400FF⟧güç emip⟦MSBT:0E00000003000400000000FF⟧ onları
+⟦MSBT:0E00000003000400FF6400FF⟧kontrol edebilecek⟦MSBT:0E00000003000400000000FF⟧ kadar zayıflatır.
+Gökyüzü Halkı ve Kral Dedede, kötü
+kraliçeye karşı koyup ⟦MSBT:0E00000003000400FF6400FF⟧Popstar'ı
+kurtarmaya⟦MSBT:0E00000003000400000000FF⟧ karar verdi.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,215,SpVSQueensectnia2,⟦MSBT:0E000000020002005D00⟧VS Kraliçe Sectonia⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,216,SpVSQueensectnia2Info,"⟦MSBT:0E000000020002005A00⟧Sectonia korkunç güzelliğini sergiliyor.
+Bedenini ⟦MSBT:0E00000003000400FF6400FF⟧Rüya Sarmaşığı'yla birleştirdi⟦MSBT:0E00000003000400000000FF⟧
+ve çılgınlığı içinde yalnız Floralia'yı değil,
+⟦MSBT:0E00000003000400FF6400FF⟧tüm Popstar'ı⟦MSBT:0E00000003000400000000FF⟧ yönetmek istiyor!
+⟦MSBT:0E00000003000400FF6400FF⟧Kötü kraliçeye⟦MSBT:0E00000003000400000000FF⟧ arzuladığı
+⟦MSBT:0E00000003000400FF6400FF⟧sonsuz güzellik uykusunu⟦MSBT:0E00000003000400000000FF⟧ tattır!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,217,SpVSBlackdedede,⟦MSBT:0E000000020002006100⟧VS Gölge Dedede⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,218,SpVSBlackdededeInfo,"⟦MSBT:0E000000020002005A00⟧Kraliçenin salonunda asılı duran
+⟦MSBT:0E00000003000400FF6400FF⟧gizemli bir aynanın⟦MSBT:0E00000003000400000000FF⟧ derinliklerinde
+karanlık kral ⟦MSBT:0E00000003000400FF6400FF⟧Gölge Dedede⟦MSBT:0E00000003000400000000FF⟧ bekliyor! Gelen
+herkese karşı savaşır; ama onun asıl rakibi
+⟦MSBT:0E00000003000400FF6400FF⟧kendi kalbindeki karanlıktır⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,219,SpVSDarkmetanight,⟦MSBT:0E000000020002003500⟧VS Karanlık Meta Knight'ın İntikamı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,220,SpVSDarkmetanightInfo,"⟦MSBT:0E000000020002005A00⟧Geri döndü... hem de intikam için.
+En güçlü savaşçının en karanlık ⟦MSBT:0E00000003000400FF6400FF⟧gölgesi⟦MSBT:0E00000003000400000000FF⟧.
+Aynanın ⟦MSBT:0E00000003000400FF6400FF⟧labirentinde⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF6400FF⟧çağlar boyunca⟦MSBT:0E00000003000400000000FF⟧
+mühürlü kalan bu kara şövalye,
+aklında tek bir şeyle döndü...
+⟦MSBT:0E00000003000400FF6400FF⟧İntikam⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,221,SpVSSectniaSoul,⟦MSBT:0E000000020002005700⟧VS Sectonia'nın Ruhu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,222,SpVSSectniaSoulInfo,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF6400FF⟧Örümza⟦MSBT:0E00000003000400000000FF⟧'nın son sözleri ve armağanları
+artık ona ulaşmıyor. Her şeyini yitiren
+eski kraliçeden geriye, deliliğe
+sürüklenmiş ⟦MSBT:0E00000003000400FF6400FF⟧acınası bir kabuk⟦MSBT:0E00000003000400000000FF⟧ kaldı.
+Dünyayı tüketti; tutunabildiği
+tek şey kendi kibri.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,223,SpVSSectniaSoulCore,⟦MSBT:0E000000020002005700⟧VS Sectonia'nın Ruhu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,224,SpVSSectniaSoulCoreInfo,"⟦MSBT:0E000000020002005A00⟧Sayısız bedenden güç emdi ve artık
+kendi ⟦MSBT:0E00000003000400FF6400FF⟧gerçek hâlini⟦MSBT:0E00000003000400000000FF⟧ hatırlayamıyor. Bir
+⟦MSBT:0E00000003000400FF6400FF⟧ses ona yardım teklif etti⟦MSBT:0E00000003000400000000FF⟧, ama artık
+⟦MSBT:0E00000003000400FF6400FF⟧sessizliğe gömüldü⟦MSBT:0E00000003000400000000FF⟧. ⟦MSBT:0E00000003000400FF6400FF⟧Gece bitmeden⟦MSBT:0E00000003000400000000FF⟧,
+ona ⟦MSBT:0E00000003000400FF6400FF⟧sonsuz güzellik uykusu⟦MSBT:0E00000003000400000000FF⟧ verilmeli.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,225,SpArena,Arena
+PauseMenu.msbt,226,SpArenaInfo,"⟦MSBT:0E000000020002005F00⟧⟦MSBT:0E00000003000400FF6400FF⟧Güçlü pembe pofuduk⟦MSBT:0E00000003000400000000FF⟧ saldırınca
+en güçlü patronlar bile diz çöker.
+Sonunda ⟦MSBT:0E00000003000400FF6400FF⟧zaferle ayakta
+kalabilecek misin⟦MSBT:0E00000003000400000000FF⟧?⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,227,SpTrueArena,Gerçek Arena
+PauseMenu.msbt,228,SpTrueArenaInfo,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF6400FF⟧DX patronlar⟦MSBT:0E00000003000400000000FF⟧, son savaşın
+perdesi açılırken kuliste bekliyor!
+Kıyasıya dövüşlerin sonunda
+⟦MSBT:0E00000003000400FF6400FF⟧Kâbus Dörtlüsü'ne⟦MSBT:0E00000003000400000000FF⟧ ulaşacaksın.
+⟦MSBT:0E00000003000400FF6400FF⟧Gerçek Arena⟦MSBT:0E00000003000400000000FF⟧ seni bekliyor!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,229,SpFight,⟦MSBT:0E000000020002005200⟧Kirby Dövüşçüleri⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,230,SpFightInfo,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF6400FF⟧Güçlü yeteneklerle⟦MSBT:0E00000003000400000000FF⟧ diğer
+Kirby'lere karşı savaş! Bu
+⟦MSBT:0E00000003000400FF6400FF⟧rüya savaş modunda⟦MSBT:0E00000003000400000000FF⟧ en fazla
+dört oyuncu kapışabilir. Favori
+yeteneğini ⟦MSBT:0E00000003000400FF6400FF⟧sonuna kadar⟦MSBT:0E00000003000400000000FF⟧ geliştir!⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,231,#AblNormal,
+PauseMenu.msbt,232,AblNormalDrawing,İçine Çek/Tükür
+PauseMenu.msbt,233,AblNormalDrawn,Yut/Kopyala
+PauseMenu.msbt,234,AblNormalJump,Zıpla/Süzül
+PauseMenu.msbt,235,AblNormalDash,Koşu
+PauseMenu.msbt,236,AblNormalSliding,Kay
+PauseMenu.msbt,237,AblNormalDump,Yeteneği Bırak
+PauseMenu.msbt,238,AblNormalAssistStar,"Yardım Yıldızını
+Kullan"
+PauseMenu.msbt,239,AblNormalGuard,Savunma
+PauseMenu.msbt,240,AblNormalGuard2,Sıyrıl
+PauseMenu.msbt,241,AblNormalGuard3,Havada Kaçış
+PauseMenu.msbt,242,AblNormalPlancha,Hızlı Düşüş
+PauseMenu.msbt,243,#AblNormalBtn,
+PauseMenu.msbt,244,AblNormalDrawingBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,245,AblNormalDrawnBtn,Düşmanı içine çekince ⟦MSBT:0E00010007000000⟧
+PauseMenu.msbt,246,AblNormalJumpBtn,⟦MSBT:0E00010000000000⟧
+PauseMenu.msbt,247,AblNormalDashBtn,⟦MSBT:0E00010009000000⟧ ⟦MSBT:0E00010009000000⟧
+PauseMenu.msbt,248,AblNormalSlidingBtn,⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010000000000⟧
+PauseMenu.msbt,249,AblNormalDumpBtn,⟦MSBT:0E00010002000000⟧
+PauseMenu.msbt,250,AblNormalAssistStarBtn,⟦MSBT:0E00010003000000⟧
+PauseMenu.msbt,251,AblNormalGuardBtn,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧
+PauseMenu.msbt,252,AblNormalGuard2Btn,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ + ⟦MSBT:0E0001000E000000⟧
+PauseMenu.msbt,253,AblNormalGuard3Btn,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ havada
+PauseMenu.msbt,254,AblNormalPlanchaBtn,⟦MSBT:0E00010007000000⟧⟦MSBT:0E00010007000000⟧ havada
+PauseMenu.msbt,255,#AblNormalWaterSwim,
+PauseMenu.msbt,256,AblNormalWaterSwim,Yüz
+PauseMenu.msbt,257,AblNormalWaterSwim2,Yukarı Yüz
+PauseMenu.msbt,258,AblNormalWaterPistol,Su Tabancası
+PauseMenu.msbt,259,AblNormalWaterAbl,⟦MSBT:0E000000020002004800⟧Bazı kopya yetenekleri su altında da kullanılabilir.⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,260,#AblNormalWaterSwimBtn,
+PauseMenu.msbt,261,AblNormalWaterSwimBtn,⟦MSBT:0E0001000E000000⟧
+PauseMenu.msbt,262,AblNormalWaterSwim2Btn,⟦MSBT:0E00010000000000⟧
+PauseMenu.msbt,263,AblNormalWaterPistolBtn,⟦MSBT:0E00010001000000⟧ su altında
+PauseMenu.msbt,264,#AblIce,
+PauseMenu.msbt,265,AblIceSlide,⟦MSBT:0E000000020002005A00⟧Buz Pateni⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,266,AblIceBreath,Buz Nefesi
+PauseMenu.msbt,267,AblIceKick,Buz Tekmesi
+PauseMenu.msbt,268,AblIceSprinkler,Buz Serpintisi
+PauseMenu.msbt,269,AblIceSprinklerFast,⟦MSBT:0E000000020002005800⟧Süper Buz Serpintisi⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,270,AblIceBlizzard,Buz Fırtınası
+PauseMenu.msbt,271,AblIceFill,Buz Emme
+PauseMenu.msbt,272,AblIceVomit,Buz Püskürtme
+PauseMenu.msbt,273,AblIceGuard,Buz Bloğu
+PauseMenu.msbt,274,AblIceGuardOff,Buz Saçılması
+PauseMenu.msbt,275,#AblIceBtn,
+PauseMenu.msbt,276,AblIceSlideBtn,Koşu
+PauseMenu.msbt,277,AblIceBreathBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,278,AblIceKickBtn,"Donmuş bir
+düşmana dokun"
+PauseMenu.msbt,279,AblIceSprinklerBtn,⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,280,AblIceSprinklerFastBtn,Koş + ⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,281,AblIceBlizzardBtn,"⟦MSBT:0E000000020002005200⟧Koş + ⟦MSBT:0E00010001000000⟧ tut ya da ⟦MSBT:0E00010001000000⟧'ye⟦MSBT:0E000000020002006400⟧
+⟦MSBT:0E000000020002005200⟧3 kez basıp tut⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,282,AblIceFillBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,283,AblIceVomitBtn,Buz Emme + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,284,AblIceGuardBtn,⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧
+PauseMenu.msbt,285,AblIceGuardOffBtn,"Buz Bloğundayken
+⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ bırak"
+PauseMenu.msbt,286,#AblWhip,
+PauseMenu.msbt,287,AblWhipSlash,Kırbaç Darbesi
+PauseMenu.msbt,288,AblWhipItemCatch,Her Kırbaç Saldırısı Eşya Toplar
+PauseMenu.msbt,289,AblWhipMultiAttack,100 Kırbaç
+PauseMenu.msbt,290,AblWhipRoof,Tavan Darbesi
+PauseMenu.msbt,291,AblWhipJump,Zıplama Darbesi
+PauseMenu.msbt,292,AblWhipTyphoon,Kırbaç Kasırgası
+PauseMenu.msbt,293,AblWhipCicleRibon,Kırbaç Deparı
+PauseMenu.msbt,294,AblWhipCapture,Kırbaçla Yakala
+PauseMenu.msbt,295,AblWhipBeatFront,Ön Vuruş
+PauseMenu.msbt,296,AblWhipBeatDouble,Çift Vuruş
+PauseMenu.msbt,297,AblWhipBeatBack,Geri Vuruş
+PauseMenu.msbt,298,AblWhipBeatHight,Yüksek Vuruş
+PauseMenu.msbt,299,#AblWhipBtn,
+PauseMenu.msbt,300,AblWhipSlashBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,301,AblWhipMultiAttackBtn,⟦MSBT:0E00010001000000⟧ art arda
+PauseMenu.msbt,302,AblWhipRoofBtn,⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,303,AblWhipJumpBtn,Havada ⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,304,AblWhipTyphoonBtn,"⟦MSBT:0E00010007000000⟧, sonra ⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,305,AblWhipCicleRibonBtn,Koş + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,306,AblWhipCaptureBtn,⟦MSBT:0E00010001000000⟧'yi tutup bırak
+PauseMenu.msbt,307,AblWhipBeatFrontBtn,"Kırbaçla Yakala + ⟦MSBT:0E00010001000000⟧ /
+Kırbaçla Yakala + ⟦MSBT:0E00010009000000⟧"
+PauseMenu.msbt,308,AblWhipBeatDoubleBtn,Kırbaçla Yakala + ⟦MSBT:0E00010007000000⟧
+PauseMenu.msbt,309,AblWhipBeatBackBtn,Kırbaçla Yakala + ⟦MSBT:0E00010008000000⟧
+PauseMenu.msbt,310,AblWhipBeatHightBtn,Kırbaçla Yakala + ⟦MSBT:0E00010006000000⟧
+PauseMenu.msbt,311,#AblWing,
+PauseMenu.msbt,312,AblWingFeatherGun,Tüy Tabancası
+PauseMenu.msbt,313,AblWingFeatherSnipe,Hedef Tüyü
+PauseMenu.msbt,314,AblWingHeading,Kondor Darbesi
+PauseMenu.msbt,315,AblWingFallingCombo,Kombo Bomba
+PauseMenu.msbt,316,AblWingDivingCombo,Kombo Dalış
+PauseMenu.msbt,317,AblWingFallingBomb,⟦MSBT:0E000000020002005D00⟧Dalış Bombası⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,318,AblWingDivingCondor,Kondor Dalışı
+PauseMenu.msbt,319,AblWingToss,Fırlatış
+PauseMenu.msbt,320,AblWingShuttleLoop,Mekik Döngüsü
+PauseMenu.msbt,321,AblWingFlapping,Kanat Çırpışı
+PauseMenu.msbt,322,#AblWingBtn,
+PauseMenu.msbt,323,AblWingFeatherGunBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,324,AblWingFeatherSnipeBtn,⟦MSBT:0E00010001000000⟧ + ⟦MSBT:0E0001000D000000⟧
+PauseMenu.msbt,325,AblWingHeadingBtn,"Koş + ⟦MSBT:0E00010001000000⟧ /
+Koş + ⟦MSBT:0E00010001000000⟧ havada"
+PauseMenu.msbt,326,AblWingFallingComboBtn,"Kondor Darbesinde
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,327,AblWingDivingComboBtn,"⟦MSBT:0E00010006000000⟧, sonra ⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧
+Kondor Darbesinde"
+PauseMenu.msbt,328,AblWingFallingBombBtn,⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,329,AblWingDivingCondorBtn,"Koş ve havada
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ bas"
+PauseMenu.msbt,330,AblWingTossBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,331,AblWingShuttleLoopBtn,"Fırlatır fırlatmaz
+⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,332,AblWingFlappingBtn,⟦MSBT:0E00010000000000⟧ havada
+PauseMenu.msbt,333,#AblCutter,
+PauseMenu.msbt,334,AblCutterBoomerang,⟦MSBT:0E000000020002006300⟧Kesici Bumerang⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,335,AblCutterDashAttack,Kesici Koşusu
+PauseMenu.msbt,336,AblCutterDrop,Süpürme Kesisi
+PauseMenu.msbt,337,AblCutterDropHight,Kesici Düşüş
+PauseMenu.msbt,338,AblCutterKaratake,Yarıcı Kesik
+PauseMenu.msbt,339,AblCutterFinalCombo,Son Kesik
+PauseMenu.msbt,340,AblCutterBoomerangHyper,Hiper Bumerang
+PauseMenu.msbt,341,#AblCutterBtn,
+PauseMenu.msbt,342,AblCutterBoomerangBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,343,AblCutterDashAttackBtn,Koş + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,344,AblCutterDropBtn,"Havadayken ⟦MSBT:0E00010001000000⟧'yi
+basılı tut"
+PauseMenu.msbt,345,AblCutterDropHightBtn,⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,346,AblCutterKaratakeBtn,"Düşman yakınında
+⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,347,AblCutterFinalComboBtn,"⟦MSBT:0E00010001000000⟧ düşman yakınında
+art arda bas"
+PauseMenu.msbt,348,AblCutterBoomerangHyperBtn,"⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak"
+PauseMenu.msbt,349,#AblCrash,
+PauseMenu.msbt,350,AblCrashFire,Patlama Ateş Topu
+PauseMenu.msbt,351,AblCrashHellFire,Süpernova
+PauseMenu.msbt,352,#AblCrashBtn,
+PauseMenu.msbt,353,AblCrashFireBtn,"⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak"
+PauseMenu.msbt,354,AblCrashHellFireBtn,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00010001000000⟧'yi tut, ⟦MSBT:0E0001000E000000⟧'e seri bas,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,355,#AblStone,
+PauseMenu.msbt,356,AblStoneNormal,Taş Değişimi
+PauseMenu.msbt,357,AblStoneFallingAir,Taş Ezme
+PauseMenu.msbt,358,AblStoneDash,Turbo Taş
+PauseMenu.msbt,359,AblStoneFallingAirHeavy,Ağır Ezme
+PauseMenu.msbt,360,AblStoneUpperCut,Taş Aparkatı
+PauseMenu.msbt,361,AblStoneCriticalUpperCut,Güçlü Aparkat
+PauseMenu.msbt,362,AblStoneSlide,Yokuş Kayışı
+PauseMenu.msbt,363,AblStoneRotate,Dön
+PauseMenu.msbt,364,AblStoneNoDamage,⟦MSBT:0E000000020002004E00⟧Taş hâlindeyken çoğu saldırı işlemez!⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,365,#AblStoneBtn,
+PauseMenu.msbt,366,AblStoneNormalBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,367,AblStoneFallingAirBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,368,AblStoneDashBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,369,AblStoneFallingAirHeavyBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,370,AblStoneUpperCutBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,371,AblStoneCriticalUpperCutBtn,"⟦MSBT:0E000000020002006400⟧Basılı tut
+⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,372,AblStoneSlideBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ bir yokuştayken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,373,AblStoneRotateBtn,"⟦MSBT:0E000000020002006400⟧Dönüşmüşken
+Koş⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,374,#AblSpark,
+PauseMenu.msbt,375,AblSparkAttack,Kıvılcım Saldırısı
+PauseMenu.msbt,376,AblSparkStored,Güç Şarjı
+PauseMenu.msbt,377,AblSparkArrow,Kıvılcım Oku
+PauseMenu.msbt,378,AblSparkLaser,Kıvılcım Lazer
+PauseMenu.msbt,379,AblSparkCannon,Kıvılcım Dalgası
+PauseMenu.msbt,380,AblSparkBarrier,Kıvılcım Bariyeri
+PauseMenu.msbt,381,#AblSparkBtn,
+PauseMenu.msbt,382,AblSparkAttackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,383,AblSparkStoredBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E0001000E000000⟧ çeşitli
+yönlere⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,384,AblSparkArrowBtn,⟦MSBT:0E000000020002006400⟧Küçük şarj + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,385,AblSparkLaserBtn,⟦MSBT:0E000000020002006400⟧Orta şarj + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,386,AblSparkCannonBtn,⟦MSBT:0E000000020002006400⟧Tam şarj + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,387,AblSparkBarrierBtn,"⟦MSBT:0E000000020002006400⟧Güç Şarjıyla
+oluşturulur⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,388,#AblSpear,
+PauseMenu.msbt,389,AblSpearAttack,⟦MSBT:0E000000020002004E00⟧Mızrak Saplaması⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,390,AblSpearAttackBack,Geri Saplama
+PauseMenu.msbt,391,AblSpearAttackUpper,Göğe İtiş
+PauseMenu.msbt,392,AblSpearAttackUnder,Ay Düşüşü
+PauseMenu.msbt,393,AblSpearThrow,Mızrak Atışı
+PauseMenu.msbt,394,AblSpearThrowShot,Mızrak Yağmuru
+PauseMenu.msbt,395,AblSpearRushAttack,Çoklu Mızrak
+PauseMenu.msbt,396,AblSpearHelicopter,⟦MSBT:0E000000020002005400⟧Mızrak Helikopteri⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,397,AblSpearAttackWater,⟦MSBT:0E000000020002006000⟧Su Altı İtişi⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,398,AblSpearAttackWaterUpper,Yüzey İtişi
+PauseMenu.msbt,399,AblSpearAttackWaterUnder,⟦MSBT:0E000000020002003E00⟧Su Altı Aşağı Saplama⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,400,#AblSpearBtn,
+PauseMenu.msbt,401,AblSpearAttackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,402,AblSpearAttackBackBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'e bastıktan sonra,
+⟦MSBT:0E00010008000000⟧ + ⟦MSBT:0E00010001000000⟧ bas⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,403,AblSpearAttackUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,404,AblSpearAttackUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,405,AblSpearThrowBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,406,AblSpearThrowShotBtn,"Koş + ⟦MSBT:0E00010001000000⟧
+havada art arda bas"
+PauseMenu.msbt,407,AblSpearRushAttackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ art arda⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,408,AblSpearHelicopterBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,409,AblSpearAttackWaterBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,410,AblSpearAttackWaterUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,411,AblSpearAttackWaterUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,412,#AblSleep,
+PauseMenu.msbt,413,AblSleepNormal,Uyku
+PauseMenu.msbt,414,AblSleepGetUp,Erken Uyanış
+PauseMenu.msbt,415,#AblSleepBtn,
+PauseMenu.msbt,416,AblSleepNormalBtn,"Otomatik
+olarak olur"
+PauseMenu.msbt,417,AblSleepGetUpBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E0001000E000000⟧ çeşitli
+yönlere⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,418,#AblSword,
+PauseMenu.msbt,419,AblSwordNormal,Tepeden Darbe
+PauseMenu.msbt,420,AblSwordBeam,Kılıç Işını
+PauseMenu.msbt,421,AblSwordComboAttack,⟦MSBT:0E000000020002004E00⟧Çoklu Kılıç Saldırısı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,422,AblSwordDril,Delici Hamle
+PauseMenu.msbt,423,AblSwordDash,Kılıç Dönüşü
+PauseMenu.msbt,424,AblSwordChopping,Kes ve Sapla
+PauseMenu.msbt,425,AblSwordChoppingUnder,Şapka İtişi
+PauseMenu.msbt,426,AblSwordUnder,Aşağı Saplama
+PauseMenu.msbt,427,AblSwordUpper,Yukarı Kesme
+PauseMenu.msbt,428,AblSwordMteoend,Kılıç Dalışı
+PauseMenu.msbt,429,AblSwordRoll,Dönen Kesik
+PauseMenu.msbt,430,AblSwordTornade,Girdap Darbesi
+PauseMenu.msbt,431,AblSwordSkyCharge,⟦MSBT:0E000000020002006200⟧Göksel Kılıç⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,432,AblSwordDashWater,Su Altı Dönüşü
+PauseMenu.msbt,433,#AblSwordBtn,
+PauseMenu.msbt,434,AblSwordNormalBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,435,AblSwordBeamBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ Tam canla⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,436,AblSwordComboAttackBtn,"⟦MSBT:0E000000020002005000⟧Tepeden Darbe sonrası
+⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,437,AblSwordDrilBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,438,AblSwordDashBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,439,AblSwordChoppingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,440,AblSwordChoppingUnderBtn,"⟦MSBT:0E000000020002006400⟧Havada ⟦MSBT:0E00010001000000⟧, ardından
+hızla ⟦MSBT:0E00010007000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,441,AblSwordUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,442,AblSwordUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,443,AblSwordMteoendBtn,"Yukarı Kesmede
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,444,AblSwordRollBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,445,AblSwordTornadeBtn,"⟦MSBT:0E000000020002006200⟧⟦MSBT:0E00010001000000⟧'yi basılı tut,⟦MSBT:0E000000020002006400⟧
+⟦MSBT:0E000000020002006200⟧bırak + ⟦MSBT:0E00010006000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,446,AblSwordSkyChargeBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧'yı basılı tut,
+sonra ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,447,AblSwordDashWaterBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,448,#AblNeedle,
+PauseMenu.msbt,449,AblNeedleAttack,İğne Saldırısı
+PauseMenu.msbt,450,AblNeedleWall,Duvara Yapış
+PauseMenu.msbt,451,AblNeedleBurn,İğne Patlaması
+PauseMenu.msbt,452,AblNeedleUpper,Mega İğne
+PauseMenu.msbt,453,AblNeedleForeignSpine,Düşen Diken
+PauseMenu.msbt,454,#AblNeedleBtn,
+PauseMenu.msbt,455,AblNeedleAttackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,456,AblNeedleWallBtn,"İğne Saldırısında
+duvara dokun"
+PauseMenu.msbt,457,AblNeedleBurnBtn,"⟦MSBT:0E00010001000000⟧'yi tut,
+⟦MSBT:0E0001000E000000⟧'e seri bas"
+PauseMenu.msbt,458,AblNeedleUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,459,AblNeedleForeignSpineBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,460,#AblNinja,
+PauseMenu.msbt,461,AblNinjaKunai,Bıçak Fırlat
+PauseMenu.msbt,462,AblNinjaSmoke,Duman Perdesi
+PauseMenu.msbt,463,AblNinjaFlowerShower,Çiçek Fırtınası
+PauseMenu.msbt,464,AblNinjaSlash,Şok
+PauseMenu.msbt,465,AblNinjaSlashCombo,Dörtlü Şok
+PauseMenu.msbt,466,AblNinjaDash,Gizli Kesme
+PauseMenu.msbt,467,AblNinjaKick,Ninja Tekmesi
+PauseMenu.msbt,468,AblNinjaAirDrop,Hava Düşüşü
+PauseMenu.msbt,469,AblNinjaHide,Klon Tekniği
+PauseMenu.msbt,470,AblNinjaStickWall,Duvar Tutuşu
+PauseMenu.msbt,471,AblNinjaStickWallKunai,Duvar Darbesi
+PauseMenu.msbt,472,AblNinjaTriangleJump,Duvar Zıplaması
+PauseMenu.msbt,473,AblNinjaWaterIn,⟦MSBT:0E000000020002006000⟧Gizli Su Tabancası⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,474,#AblNinjaBtn,
+PauseMenu.msbt,475,AblNinjaKunaiBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,476,AblNinjaSmokeBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,477,AblNinjaFlowerShowerBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧, sonra ⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,478,AblNinjaSlashBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,479,AblNinjaSlashComboBtn,"⟦MSBT:0E000000020002006400⟧Düşmanın yakınında
+⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,480,AblNinjaDashBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,481,AblNinjaKickBtn,⟦MSBT:0E000000020002006400⟧Havada ⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,482,AblNinjaAirDropBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,483,AblNinjaHideBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧ saldırıdan
+hemen önce⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,484,AblNinjaStickWallBtn,"Havada duvara doğru
+⟦MSBT:0E00010013000000⟧ basılı tut"
+PauseMenu.msbt,485,AblNinjaStickWallKunaiBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ duvara tutunurken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,486,AblNinjaTriangleJumpBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010000000000⟧ duvara tutunurken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,487,AblNinjaWaterInBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ su yüzeyinde
+yüzerken⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,488,#AblParasol,
+PauseMenu.msbt,489,AblParasolSwing,⟦MSBT:0E000000020002005D00⟧Şemsiye Savuruşu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,490,AblParasolSheild,Şemsiye Kalkanı
+PauseMenu.msbt,491,AblParasolDirection,⟦MSBT:0E000000020002004A00⟧Kalkan Yönünü Değiştir⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,492,AblParasolDril,Şemsiye Matkabı
+PauseMenu.msbt,493,AblParasolGuriguri,Şemsiye Dönüşü
+PauseMenu.msbt,494,AblParasolDiving,Şemsiye Dalışı
+PauseMenu.msbt,495,AblParasolThrow,Sirk Atışı
+PauseMenu.msbt,496,AblParasolFalling,Şemsiye Süzülüşü
+PauseMenu.msbt,497,AblParasolWaterDril,⟦MSBT:0E000000020002004900⟧Su Altı Şemsiye Matkabı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,498,AblParasolWaterDrilSplash,⟦MSBT:0E000000020002005C00⟧Yüzey Matkap Atışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,499,AblParasolWaterDiving,⟦MSBT:0E000000020002004800⟧Su Altı Şemsiye Dalışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,500,#AblParasolBtn,
+PauseMenu.msbt,501,AblParasolSwingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,502,AblParasolSheildBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,503,AblParasolDirectionBtn,"Şemsiye Kalkanında
+⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010013000000⟧ yönlerinden biri⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,504,AblParasolDrilBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,505,AblParasolGuriguriBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,506,AblParasolDivingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,507,AblParasolThrowBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,508,AblParasolFallingBtn,"⟦MSBT:0E000000020002006400⟧Düşerken
+etkinleşir⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,509,AblParasolWaterDrilBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ su altında⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,510,AblParasolWaterDrilSplashBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ su yüzeyinde
+yüzerken⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,511,AblParasolWaterDivingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,512,#AblHammer,
+PauseMenu.msbt,513,AblHammerNormal,Çekiç
+PauseMenu.msbt,514,AblHammerGiantSwing,Çekiç Savuruşu
+PauseMenu.msbt,515,AblHammerRoll,Dev Savurma
+PauseMenu.msbt,516,AblHammerRoolHyper,Ultra Dev Savurma
+PauseMenu.msbt,517,AblHammerUnder,Çekiç Fırıldağı
+PauseMenu.msbt,518,AblHammerFire,Çekiç Taklası
+PauseMenu.msbt,519,AblHammerBombThrow,Çekiç Atışı
+PauseMenu.msbt,520,AblHammerWaterRoll,⟦MSBT:0E000000020002006300⟧Su Altı Tekerleği⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,521,#AblHammerBtn,
+PauseMenu.msbt,522,AblHammerNormalBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,523,AblHammerGiantSwingBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,524,AblHammerRollBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,525,AblHammerRoolHyperBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,526,AblHammerFireBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,527,AblHammerUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,528,AblHammerBombThrowBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010002000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,529,AblHammerWaterRollBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,530,#AblBeam,
+PauseMenu.msbt,531,AblBeamWhip,Işın Kırbaç
+PauseMenu.msbt,532,AblBeamCicle,Döngü Işını
+PauseMenu.msbt,533,AblBeamMachinegun,Işın Patlaması
+PauseMenu.msbt,534,AblBeamCannon,Dalga Işını
+PauseMenu.msbt,535,AblBeamCaptuer,Yakalama Işını
+PauseMenu.msbt,536,#AblBeamBtn,
+PauseMenu.msbt,537,AblBeamWhipBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ ⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,538,AblBeamCicleBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,539,AblBeamMachinegunBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,540,AblBeamCannonBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,541,AblBeamCaptuerBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,542,#AblFire,
+PauseMenu.msbt,543,AblFireNormal,Ateş Nefesi
+PauseMenu.msbt,544,AblFireDirecrtion,Ateşi Yönlendir
+PauseMenu.msbt,545,AblFireBall,Alev Cehennemi
+PauseMenu.msbt,546,AblFireBurningAttack,Yak
+PauseMenu.msbt,547,AblFireBurningBurn,Kavurucu Yanma
+PauseMenu.msbt,548,AblFireSpin,Ateş Topu Dönüşü
+PauseMenu.msbt,549,AblFireRollingAttack,⟦MSBT:0E000000020002005F00⟧Ateş Yuvarlanışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,550,AblFireRollingJump,Ateş Zıplayışı
+PauseMenu.msbt,551,AblFireRollingClimb,Ateş Tırmanışı
+PauseMenu.msbt,552,#AblFireBtn,
+PauseMenu.msbt,553,AblFireNormalBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,554,AblFireDirecrtionBtn,⟦MSBT:0E000000020002006400⟧Ateş Nefesi + ⟦MSBT:0E0001000E000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,555,AblFireBallBtn,"Ateş Nefesi sırasında
+⟦MSBT:0E00010008000000⟧'yi basılı tut"
+PauseMenu.msbt,556,AblFireBurningAttackBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,557,AblFireBurningBurnBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010000000000⟧ yanarken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,558,AblFireRollBtn,
+PauseMenu.msbt,559,AblFireSpinBtn,"⟦MSBT:0E000000020002006400⟧Havada
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,560,AblFireRollingAttackBtn,"Ateş Topu Dönüşünde
+yere dokun"
+PauseMenu.msbt,561,AblFireRollingJumpBtn,"Ateş Yuvarlanışında
+⟦MSBT:0E00010000000000⟧'ya bas"
+PauseMenu.msbt,562,AblFireRollingClimbBtn,"Ateş Yuvarlanışı ya da
+Ateş Zıplayışında
+duvara dokun"
+PauseMenu.msbt,563,#AblFighter,
+PauseMenu.msbt,564,AblFighterJump,Volkan Yumruğu
+PauseMenu.msbt,565,AblFighterPanchi,Ezici Yumruk
+PauseMenu.msbt,566,AblFighterUnder,Ayak Süpürme
+PauseMenu.msbt,567,AblFighterSpinKick,Dönme Tekmesi
+PauseMenu.msbt,568,AblFighterTrampleKick,Aşağı Tekme
+PauseMenu.msbt,569,AblFighterDoubleKick,Çifte Tekme
+PauseMenu.msbt,570,AblFighterCannon,Güç Patlaması
+PauseMenu.msbt,571,AblFighterMegaCannon,⟦MSBT:0E000000020002005D00⟧Mega Güç Patlaması⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,572,AblFighterGigaCannon,⟦MSBT:0E000000020002005E00⟧Giga Güç Patlaması⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,573,AblFighterMegaCannonFast,⟦MSBT:0E000000020002004600⟧Anında Mega Güç Patlaması⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,574,AblFighterRisingBreak,Yükselen Darbe
+PauseMenu.msbt,575,AblFighterMoonSalto,⟦MSBT:0E000000020002005000⟧Ay Takla Tekmesi⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,576,AblFighterSkyKick,Hava Tekmesi
+PauseMenu.msbt,577,AblFighterCapture,Düşmanı Yakala
+PauseMenu.msbt,578,AblFighterThrow,Kol Atışı
+PauseMenu.msbt,579,AblFighterBackThrow,Judo Atışı
+PauseMenu.msbt,580,#AblFighterBtn,
+PauseMenu.msbt,581,AblFighterJumpBtn,"⟦MSBT:0E00010001000000⟧'e bas (ya da
+art arda bas)"
+PauseMenu.msbt,582,AblFighterPanchiBtn,⟦MSBT:0E00010001000000⟧'yi basılı tut
+PauseMenu.msbt,583,AblFighterUnderBtn,Koş + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,584,AblFighterSpinKickBtn,"Koş + ⟦MSBT:0E00010001000000⟧'yi
+basılı tut"
+PauseMenu.msbt,585,AblFighterTrampleKickBtn,⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,586,AblFighterDoubleKickBtn,"Havadayken
+⟦MSBT:0E00010001000000⟧'yi basılı tut"
+PauseMenu.msbt,587,AblFighterCannonBtn,"⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧'yi kısa süre
+basılı tut"
+PauseMenu.msbt,588,AblFighterMegaCannonBtn,"⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧'yi basılı tut
+(biraz daha uzun)"
+PauseMenu.msbt,589,AblFighterGigaCannonBtn,"⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧'yi basılı tut
+(çok daha uzun)"
+PauseMenu.msbt,590,AblFighterMegaCannonFastBtn,"⟦MSBT:0E00010007000000⟧ ⟦MSBT:0E00010009000000⟧ +
+⟦MSBT:0E00010001000000⟧'yi basılı tut"
+PauseMenu.msbt,591,AblFighterRisingBreakBtn,"⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧'yi
+basılı tut"
+PauseMenu.msbt,592,AblFighterMoonSaltoBtn,"⟦MSBT:0E00010001000000⟧ ⟦MSBT:0E000000020002006400⟧havada
+⟦MSBT:0E000000020002006400⟧düşman yakınında"
+PauseMenu.msbt,593,AblFighterSkyKickBtn,⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada
+PauseMenu.msbt,594,AblFighterCaptureBtn,"Düşman yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,595,AblFighterThrowBtn,"Yakala + ⟦MSBT:0E00010001000000⟧, ya da
+Yakala + ⟦MSBT:0E0001000B000000⟧"
+PauseMenu.msbt,596,AblFighterBackThrowBtn,"Düşmanı Yakala +
+⟦MSBT:0E0001000C000000⟧"
+PauseMenu.msbt,597,#AblBomb,
+PauseMenu.msbt,598,AblBombHold,Bomba Hazırlığı
+PauseMenu.msbt,599,AblBombThrow,Bomba Atışı
+PauseMenu.msbt,600,AblBombDirection,Hedef Atışı
+PauseMenu.msbt,601,AblBombBombing,Kendini İmha
+PauseMenu.msbt,602,AblBombStrikeBall,Bomba Yuvarlama
+PauseMenu.msbt,603,AblBombRunaway,Bomba Bırakışı
+PauseMenu.msbt,604,AblBombSet,Bomba Kur
+PauseMenu.msbt,605,#AblBombBtn,
+PauseMenu.msbt,606,AblBombHoldBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,607,AblBombThrowBtn,"Bomba Hazırlığında
+⟦MSBT:0E00010001000000⟧ bırak"
+PauseMenu.msbt,608,AblBombDirectionBtn,"Bomba Hazırlığında
+⟦MSBT:0E0001000E000000⟧"
+PauseMenu.msbt,609,AblBombBombingBtn,"Bomba Hazırlığında
+bombayı bırakma"
+PauseMenu.msbt,610,AblBombStrikeBallBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,611,AblBombRunawayBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ düşman yakınında⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,612,AblBombSetBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,613,#AblMike,
+PauseMenu.msbt,614,AblMikeMegaphone,Megafon
+PauseMenu.msbt,615,AblMikeDeath,⟦MSBT:0E000000020002004E00⟧Masa Mikrofonu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,616,AblMikeStand,⟦MSBT:0E000000020002005500⟧Sahne Mikrofonu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,617,AblMikeConcert,Tekrar!
+PauseMenu.msbt,618,#AblMikeBtn,
+PauseMenu.msbt,619,AblMikeMegaphoneBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ (ilk basış)⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,620,AblMikeDeathBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ (ikinci basış)⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,621,AblMikeStandBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ (üçüncü basış)⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,622,AblMikeConcertBtn,"⟦MSBT:0E000000020002005000⟧⟦MSBT:0E00010001000000⟧'yi tut, ⟦MSBT:0E0001000E000000⟧'e seri bas;
+üçüncüde bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,623,#AblLeaf,
+PauseMenu.msbt,624,AblLeafCutter,Yaprak Saldırısı
+PauseMenu.msbt,625,AblLeafBarrier,Yaprak Girdabı
+PauseMenu.msbt,626,AblLeafDisperse,Yaprak Saçılması
+PauseMenu.msbt,627,AblLeafDance,Yaprak Dansı
+PauseMenu.msbt,628,AblLeafHide,Yaprak Gizlenişi
+PauseMenu.msbt,629,AblLeafApper,Yaprak Çıkışı
+PauseMenu.msbt,630,AblLeafUpper,Yaprak Aparkatı
+PauseMenu.msbt,631,AblLeafUnder,Yaprak Yağmuru
+PauseMenu.msbt,632,#AblLeafBtn,
+PauseMenu.msbt,633,AblLeafCutterBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,634,AblLeafBarrierBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,635,AblLeafDisperseBtn,"Yaprak Girdabında
+⟦MSBT:0E00010001000000⟧ bırak"
+PauseMenu.msbt,636,AblLeafDanceBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,637,AblLeafHideBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,638,AblLeafUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,639,AblLeafUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,640,#AblWheel,
+PauseMenu.msbt,641,AblWheelDash,Koşu
+PauseMenu.msbt,642,AblWheelCancel,Dur
+PauseMenu.msbt,643,AblWheelJump,Zıpla
+PauseMenu.msbt,644,AblWheelDown,Vites Düşür
+PauseMenu.msbt,645,AblWheelRocket,⟦MSBT:0E000000020002006400⟧Roket Kalkışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,646,AblWheelSkyWheel,Gök Çarkı
+PauseMenu.msbt,647,AblWheelTurn,Dönüş
+PauseMenu.msbt,648,AblWheelTurnJump,Dönüş Zıplaması
+PauseMenu.msbt,649,#AblWheelBtn,
+PauseMenu.msbt,650,AblWheelDashBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,651,AblWheelCancelBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ koşarken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,652,AblWheelJumpBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010000000000⟧ koşarken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,653,AblWheelDownBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧⟦MSBT:0E00010007000000⟧ Koşarken
+havada⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,654,AblWheelRocketBtn,"⟦MSBT:0E000000020002006400⟧Koşarken ⟦MSBT:0E00010007000000⟧ tut,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,655,AblWheelSkyWheelBtn,"⟦MSBT:0E000000020002006400⟧Roket Kalkışında
+⟦MSBT:0E00010000000000⟧'ya bas⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,656,AblWheelTurnBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010008000000⟧ Koşarken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,657,AblWheelTurnJumpBtn,"Koşarken ⟦MSBT:0E00010013000000⟧'e
+art arda bas"
+PauseMenu.msbt,658,#AblBell,
+PauseMenu.msbt,659,AblBellRingDong,Ding-Ding
+PauseMenu.msbt,660,AblBellRingDingDong,Çın-Çın-Çan
+PauseMenu.msbt,661,AblBellKnockRingDong,Çın-Çın
+PauseMenu.msbt,662,AblBellFinalDingDong,Çın Finali
+PauseMenu.msbt,663,AblBellFinalDingDongFast,Hızlı Final
+PauseMenu.msbt,664,AblBellThrowBell,Çifte Çıngırak
+PauseMenu.msbt,665,AblBellTinkerMelody,Çıngırak Melodisi
+PauseMenu.msbt,666,AblBellInBell,Çan Bloğu
+PauseMenu.msbt,667,AblBellFloatRingDong,⟦MSBT:0E000000020002006000⟧Yüzen Çın-Çın⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,668,AblBellWaterRolling,⟦MSBT:0E000000020002004200⟧Su Altında Çifte Çın-Çın⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,669,#AblBellBtn,
+PauseMenu.msbt,670,AblBellRingDongBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,671,AblBellRingDingDongBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ art arda⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,672,AblBellKnockRingDongBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,673,AblBellFinalDingDongBtn,"Çın-Çın-Çan'da
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,674,AblBellFinalDingDongFastBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧'yı basılı tut,
+sonra ⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,675,AblBellThrowBellBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,676,AblBellTinkerMelodyBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,677,AblBellInBellBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010004000000⟧/⟦MSBT:0E00010005000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,678,AblBellFloatRingDongBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ su yüzeyinde
+süzülürken⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,679,AblBellWaterRollingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,680,#AblSniper,
+PauseMenu.msbt,681,AblSniperShot,Atış
+PauseMenu.msbt,682,AblSniperSnipeShot,Keskin Atış
+PauseMenu.msbt,683,AblSniperArrowSlash,Sihirli Yıldız Oku
+PauseMenu.msbt,684,AblSniperUnderShot,Keskin Nişancı
+PauseMenu.msbt,685,AblSniperSlash,Ok Darbesi
+PauseMenu.msbt,686,AblSniperSkyShot,Gök Atışı
+PauseMenu.msbt,687,AblSniperSkyShotShower,Gök Atışı Yağmuru
+PauseMenu.msbt,688,AblSniperJumping,Zıplayan Ok Atışı
+PauseMenu.msbt,689,AblSniperSquat,Kamuflaj
+PauseMenu.msbt,690,AblSniperSquatShot,Suikastçı
+PauseMenu.msbt,691,AblSniperCrawl,Sürün
+PauseMenu.msbt,692,#AblSniperBtn,
+PauseMenu.msbt,693,AblSniperShotBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,694,AblSniperSnipeShotBtn,"⟦MSBT:0E00010001000000⟧'yi tutup şarj et,
+sonra bırak"
+PauseMenu.msbt,695,AblSniperArrowSlashBtn,"⟦MSBT:0E00010001000000⟧'yi daha uzun tut,
+sonra bırak"
+PauseMenu.msbt,696,AblSniperUnderShotBtn,"⟦MSBT:0E00010001000000⟧ basılıyken
+⟦MSBT:0E0001000D000000⟧'dan birine bas"
+PauseMenu.msbt,697,AblSniperSlashBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,698,AblSniperSkyShotBtn,⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,699,AblSniperSkyShotShowerBtn,"⟦MSBT:0E00010006000000⟧'ya bas, ⟦MSBT:0E00010001000000⟧'yi tut,
+sonra bırak"
+PauseMenu.msbt,700,AblSniperJumpingBtn,"Koşup zıpla + ⟦MSBT:0E00010001000000⟧
+havada"
+PauseMenu.msbt,701,AblSniperSquatBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,702,AblSniperSquatShotBtn,"⟦MSBT:0E00010001000000⟧
+kamuflajlıyken"
+PauseMenu.msbt,703,AblSniperCrawlBtn,"Kamuflajda
+⟦MSBT:0E00010013000000⟧'den biri"
+PauseMenu.msbt,704,#AblBeetle,
+PauseMenu.msbt,705,AblBeetleHornUpper,Boynuz Aparkatı
+PauseMenu.msbt,706,AblBeetleBackSlash,Boynuz Serisi
+PauseMenu.msbt,707,AblBeetleRocketHorn,⟦MSBT:0E000000020002005C00⟧Roket Boynuzu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,708,AblBeetleRocketHornDiving,⟦MSBT:0E000000020002005800⟧Roket Boynuzu Dalışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,709,AblBeetleSpiralHorn,Sarmal Boynuz
+PauseMenu.msbt,710,AblBeetleHeadPress,Sertkafa Çarpması
+PauseMenu.msbt,711,AblBeetleHeadPressLanding,Yakalama Boynuzu
+PauseMenu.msbt,712,AblBeetleHoverWing,Süzülme Kanadı
+PauseMenu.msbt,713,AblBeetleCaptureThrow,Hızlı Fırlatma
+PauseMenu.msbt,714,AblBeetleCaptureDrill,Ezici Matkap
+PauseMenu.msbt,715,AblBeetleCaptureJumpHold,Fırlatıp Düşür
+PauseMenu.msbt,716,AblBeetleCaptureFall,Taç Bırakışı
+PauseMenu.msbt,717,AblBeetleCaptureHorn,Taşı
+PauseMenu.msbt,718,#AblBeetleBtn,
+PauseMenu.msbt,719,AblBeetleHornUpperBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,720,AblBeetleBackSlashBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ art arda⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,721,AblBeetleRocketHornBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,722,AblBeetleRocketHornDivingBtn,"Roket Boynuzu
+⟦MSBT:0E00010006000000⟧"
+PauseMenu.msbt,723,AblBeetleSpiralHornBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,724,AblBeetleHeadPressBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,725,AblBeetleHeadPressLandingBtn,"Düşmanın yakınında
+⟦MSBT:0E0001000B000000⟧ + ⟦MSBT:0E00010001000000⟧'den biri"
+PauseMenu.msbt,726,AblBeetleHoverWingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010000000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,727,AblBeetleCaptureThrowBtn,⟦MSBT:0E000000020002006400⟧Yakalama Boynuzu + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,728,AblBeetleCaptureDrillBtn,"⟦MSBT:0E000000020002006400⟧Yakalama Boynuzu +
+⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,729,AblBeetleCaptureJumpHoldBtn,"⟦MSBT:0E000000020002006400⟧Yakalama Boynuzu +
+⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,730,AblBeetleCaptureFallBtn,"⟦MSBT:0E000000020002006400⟧Yakalama Boynuzu +
+⟦MSBT:0E00010008000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,731,AblBeetleCaptureHornBtn,"⟦MSBT:0E000000020002006400⟧Yakalama Boynuzu +
+⟦MSBT:0E00010013000000⟧'den biri⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,732,#AblCircus,
+PauseMenu.msbt,733,AblCircusRollFrontBack,Takla
+PauseMenu.msbt,734,AblCircusRollBack,Geri Takla
+PauseMenu.msbt,735,AblCircusFlamingHoop,⟦MSBT:0E000000020002004E00⟧Ateş Çemberi Zıplayışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,736,AblCircusBalanceBall,Top Dengesi
+PauseMenu.msbt,737,AblCircusJuggling,Jonglör
+PauseMenu.msbt,738,AblCircusJugglingFire,Ateş Jonglörü
+PauseMenu.msbt,739,AblCircusTrampoline,Trambolin
+PauseMenu.msbt,740,AblCircusAcrobat,Akrobasi
+PauseMenu.msbt,741,AblCircusBaloon,Balon Sanatı
+PauseMenu.msbt,742,#AblCircusBtn,
+PauseMenu.msbt,743,AblCircusRollFrontBackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,744,AblCircusRollBackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ + ⟦MSBT:0E00010008000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,745,AblCircusFlamingHoopBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,746,AblCircusBalanceBallBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,747,AblCircusJugglingBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,748,AblCircusJugglingFireBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧ art arda bas⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,749,AblCircusTrampolineBtn,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧, sonra
+⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,750,AblCircusAcrobatBtn,"⟦MSBT:0E000000020002006400⟧Trambolindeyken,
+havada ⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,751,AblCircusBaloonBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧'yi basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,752,#AblBigBang,
+PauseMenu.msbt,753,AblBigBangVacuum,Hipernova Çekişi
+PauseMenu.msbt,754,AblBigBangMove,İçine Çek ve İlerle
+PauseMenu.msbt,755,#AblBigBangBtn,
+PauseMenu.msbt,756,AblBigBangVacuumBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,757,AblBigBangMoveBtn,"⟦MSBT:0E00010001000000⟧ basılıyken
+⟦MSBT:0E00010013000000⟧'den biri"
+PauseMenu.msbt,758,AblGhost,
+PauseMenu.msbt,759,AblGhostAttack,Saldırı
+PauseMenu.msbt,760,AblGhostDoubleAttack,Çifte Saldırı
+PauseMenu.msbt,761,AblGhostTackle,Hücum
+PauseMenu.msbt,762,AblGhostVanish,Yok Ol
+PauseMenu.msbt,763,AblGhostBtn,
+PauseMenu.msbt,764,AblGhostAttackBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,765,AblGhostDoubleAttackBtn,"⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak"
+PauseMenu.msbt,766,AblGhostTackleBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,767,AblGhostVanishBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010000000000⟧'yı basılı tut⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,768,#AblDedede,
+PauseMenu.msbt,769,AblDededeNormal,Çekiç
+PauseMenu.msbt,770,AblDededeBeam,Çekiç Dalgası
+PauseMenu.msbt,771,AblDededeGiantSwing,⟦MSBT:0E000000020002005900⟧Dev Dedede Savuruşu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,772,AblDededeRoll,Dev Savurma
+PauseMenu.msbt,773,AblDededeRollHyper,Ultra Savurma
+PauseMenu.msbt,774,AblDededeUnder,Çekiç Fırıldağı
+PauseMenu.msbt,775,AblDededeFire,⟦MSBT:0E000000020002005800⟧Dedede Çekiç Taklası⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,776,AblDededeBombThrow,⟦MSBT:0E000000020002004F00⟧Dedede Çekiç Atışı⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,777,AblDededeWaterRoll,⟦MSBT:0E000000020002004400⟧Su Altı Çekiç Savuruşu⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,778,AblDededeShot,Çekiç Topu
+PauseMenu.msbt,779,AblDededeSnipe,⟦MSBT:0E000000020002005800⟧Çekiç Topunu Nişanla⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,780,AblDededePlancha,Hızlı Düşüş
+PauseMenu.msbt,781,#AblDededeBtn,
+PauseMenu.msbt,782,AblDededeNormalBtn,⟦MSBT:0E00010001000000⟧
+PauseMenu.msbt,783,AblDededeBeamBtn,"Canın doluyken
+⟦MSBT:0E00010001000000⟧"
+PauseMenu.msbt,784,AblDededeGiantSwingBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,785,AblDededeRollBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,786,AblDededeRollHyperBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010001000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,787,AblDededeUnderBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,788,AblDededeFireBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010006000000⟧ + ⟦MSBT:0E00010001000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,789,AblDededeBombThrowBtn,⟦MSBT:0E000000020002006400⟧Koş + ⟦MSBT:0E00010002000000⟧⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,790,AblDededeWaterRollBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010001000000⟧ yüzerken⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,791,AblDededeShotBtn,"⟦MSBT:0E00010001000000⟧'yi basılı tut,
+sonra bırak"
+PauseMenu.msbt,792,AblDededeSnipeBtn,"⟦MSBT:0E0001000D000000⟧ yönlerinden biri,
+⟦MSBT:0E00010001000000⟧ basılıyken"
+PauseMenu.msbt,793,AblDededePlanchaBtn,⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00010007000000⟧⟦MSBT:0E00010007000000⟧ havada⟦MSBT:0E000000020002006400⟧
+PauseMenu.msbt,794,#AblTilt,
+PauseMenu.msbt,795,AblTiltNote1,"⟦MSBT:0E000000020002006400⟧Sistemi eğmekte zorlanıyorsan,
+dokunmatik ekrandaki
+⟦MSBT:0E00000003000400FF6400FF⟧Eğimi Sıfırla⟦MSBT:0E00000003000400000000FF⟧ seçeneğine dokun.⟦MSBT:0E000000020002006400⟧"
+PauseMenu.msbt,796,AblTiltNote2,"⟦MSBT:0E000000020002006400⟧Sistemi ⟦MSBT:0E00000003000400FF6400FF⟧düz bir yüzeye⟦MSBT:0E00000003000400000000FF⟧ koy
+ve kısa bir süre ⟦MSBT:0E00000003000400FF6400FF⟧hiç hareket ettirme⟦MSBT:0E00000003000400000000FF⟧.⟦MSBT:0E000000020002006400⟧"
+SoundRoom.msbt,0,Title,Müzikler
+SoundRoom.msbt,1,EndBtn,Çık
+SoundRoom.msbt,2,PlayInfoText,Parça
+StaffCredit.msbt,0,Staff,EKİP
+StaffCredit.msbt,1,Director,YÖNETMEN
+StaffCredit.msbt,2,Director_00,SHINYA KUMAZAKI
+StaffCredit.msbt,3,LeadLevelDesign,⟦MSBT:0E000000020002005E00⟧BAŞ BÖLÜM TASARIMI⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,4,LeadLevelDesign_00,YUKI ENDO
+StaffCredit.msbt,5,AssistantDirector,YARDIMCI YÖNETMEN
+StaffCredit.msbt,6,AssistantDirector_00,TATSUYA KAMIYAMA
+StaffCredit.msbt,7,AssistantDirector_01,NOBUYUKI OKADA
+StaffCredit.msbt,8,ProgramDirector,⟦MSBT:0E000000020002005400⟧PROGRAMLAMA YÖNETMENİ⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,9,ProgramDirector_00,HIROAKI NAKANO
+StaffCredit.msbt,10,LeadProgramming,BAŞ PROGRAMLAMA
+StaffCredit.msbt,11,LeadProgramming_00,YOSHIHIRO NAGATA
+StaffCredit.msbt,12,LeadActionProgramming,⟦MSBT:0E000000020002004D00⟧BAŞ AKSİYON PROGRAMLAMA⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,13,LeadActionProgramming_00,KATSUYOSHI SUMITOMO
+StaffCredit.msbt,14,Programming,PROGRAMLAMA
+StaffCredit.msbt,15,Programming_00,SHO TAJIMA
+StaffCredit.msbt,16,Programming_01,TOMOHIRO KAMOCHI
+StaffCredit.msbt,17,Programming_02,TAKASHI NOZUE
+StaffCredit.msbt,18,Programming_03,SHINICHI KAWAJI
+StaffCredit.msbt,19,Programming_04,YUKI NISHIMURA
+StaffCredit.msbt,20,Programming_05,MASASHI SATO
+StaffCredit.msbt,21,Programming_06,YUTAKA WATANABE
+StaffCredit.msbt,22,Programming_07,SHINYA WATANABE
+StaffCredit.msbt,23,Programming_08,HIROSHI OHNISHI
+StaffCredit.msbt,24,Programming_09,KEITA TANIFUJI
+StaffCredit.msbt,25,DesignDirector,TASARIM ŞEFİ
+StaffCredit.msbt,26,DesignDirector_00,TADASHI KAMITAKE
+StaffCredit.msbt,27,LeadDesign,BAŞ TASARIM
+StaffCredit.msbt,28,LeadDesign_00,KENICHIRO KITA
+StaffCredit.msbt,29,LeadDesign_01,MONAMI MATSUURA
+StaffCredit.msbt,30,LeadDesign_02,TSUYOSHI FUJITA
+StaffCredit.msbt,31,Design,⟦MSBT:0E000000020002005500⟧TASARIM⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,32,Design_00,AKIHIRO KANNO
+StaffCredit.msbt,33,Design_01,RIKI FUHRMANN
+StaffCredit.msbt,34,Design_02,RYUSEI MATSUO
+StaffCredit.msbt,35,Design_03,TETSUYA MOCHIDUKI
+StaffCredit.msbt,36,Design_04,AKIKO HAYASHI
+StaffCredit.msbt,37,Design_05,KENICHI SAKUMA
+StaffCredit.msbt,38,Design_06,HITOMU ITO
+StaffCredit.msbt,39,Design_07,YASUHIRO MUKAE
+StaffCredit.msbt,40,Design_08,TSUYOSHI WAKAYAMA
+StaffCredit.msbt,41,Design_09,HITOSHI KIKKAWA
+StaffCredit.msbt,42,MotifDesign,⟦MSBT:0E000000020002005C00⟧MOTİF TASARIM⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,43,MotifDesign_00,TADASHI HASHIKURA
+StaffCredit.msbt,44,MotifDesign_01,DAISUKE MORISHITA
+StaffCredit.msbt,45,MotifDesign_02,YUSUKE OTA
+StaffCredit.msbt,46,MotifDesign_03,TOMOMI MINAMI
+StaffCredit.msbt,47,UIDesign,⟦MSBT:0E000000020002005000⟧ARAYÜZ TAS.⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,48,UIDesign_00,YUKARI KEMMOCHI
+StaffCredit.msbt,49,UIDesign_01,YUMI TODO
+StaffCredit.msbt,50,UIDesign_02,SHIGEYUKI KAWATA
+StaffCredit.msbt,51,UIDesign_03,YUKI HONDA
+StaffCredit.msbt,52,Movie,VİDEO
+StaffCredit.msbt,53,Movie_00,KUNIO WATANABE
+StaffCredit.msbt,54,Modeling,⟦MSBT:0E000000020002005800⟧MODELLEME⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,55,Modeling_00,MINORU YOSHIKOSHI
+StaffCredit.msbt,56,Modeling_01,EMI IMAMURA
+StaffCredit.msbt,57,Modeling_02,KUMI HABUTA
+StaffCredit.msbt,58,DesignAdviser,⟦MSBT:0E000000020002005300⟧TASARIM DANIŞMANI⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,59,DesignAdviser_00,ASHURA BENIMARU ITOH
+StaffCredit.msbt,60,Sound,SES
+StaffCredit.msbt,61,Sound_00,HIROKAZU ANDO
+StaffCredit.msbt,62,Sound_01,JUN ISHIKAWA
+StaffCredit.msbt,63,VoiceActor,SES
+StaffCredit.msbt,64,VoiceActor_00,MAKIKO OHMOTO
+StaffCredit.msbt,65,TeamSupport,TAKIM DESTEĞİ
+StaffCredit.msbt,66,TeamSupport_00,SATOSHI MITSUHARA
+StaffCredit.msbt,67,TeamSupport_01,YOSHIMI TAKAHASHI
+StaffCredit.msbt,68,TeamSupport_02,SEIJI OTOGURO
+StaffCredit.msbt,69,TeamSupport_03,KOJI AKAIKE
+StaffCredit.msbt,70,PublicRelations,HALKLA İLİŞKİLER
+StaffCredit.msbt,71,PublicRelations_00,SATOSHI ISHIDA
+StaffCredit.msbt,72,PublicRelations_01,TOMOHIRO MINEMURA
+StaffCredit.msbt,73,Artwork,ÇİZİM
+StaffCredit.msbt,74,Artwork_00,MASAYO NAKAGAMI
+StaffCredit.msbt,75,Artwork_01,RIEKO KAWAHARA
+StaffCredit.msbt,76,Artwork_02,YUMIKO SANO
+StaffCredit.msbt,77,Artwork_03,YUKI YADA
+StaffCredit.msbt,78,Artwork_04,YASUKO SUGIYAMA
+StaffCredit.msbt,79,Artwork_05,SACHIKO NAKAMICHI
+StaffCredit.msbt,80,ManualEditing,⟦MSBT:0E000000020002005A00⟧KILAVUZ DÜZENİ⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,81,ManualEditing_00,KIYOMI ITANI
+StaffCredit.msbt,82,ManualEditing_01,YASUO INOUE
+StaffCredit.msbt,83,Testing,TEST
+StaffCredit.msbt,84,Testing_00,MASARU KOBAYASHI
+StaffCredit.msbt,85,Testing_01,AKIMITSU USHIKOSHI
+StaffCredit.msbt,86,Testing_02,DAI SUZUKI
+StaffCredit.msbt,87,Testing_03,DAISUKE FUJITA
+StaffCredit.msbt,88,Testing_04,SYUNTA SANO
+StaffCredit.msbt,89,Testing_05,HAL DEBUG TEAM
+StaffCredit.msbt,90,Testing_06,MARIO CLUB
+StaffCredit.msbt,91,Testing_07,NOA PRODUCT TESTING
+StaffCredit.msbt,92,TechnicalSupport,TEKNİK DESTEK
+StaffCredit.msbt,93,TechnicalSupport_00,TOMOKAZU TSURUOKA
+StaffCredit.msbt,94,TechnicalSupport_01,TAKAYUKI SUGANO
+StaffCredit.msbt,95,TechnicalSupport_02,RYOICHIRO ATONO
+StaffCredit.msbt,96,TechnicalSupport_03,TAKUYA ABE
+StaffCredit.msbt,97,TechnicalSupport_04,MUNEMASA KIMURA
+StaffCredit.msbt,98,TechnicalSupport_05,YUTA OGAWA
+StaffCredit.msbt,99,TechnicalSupport_06,SHINGO OKAMOTO
+StaffCredit.msbt,100,SpecialThanks,⟦MSBT:0E000000020002005F00⟧ÖZEL TEŞEKKÜR⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,101,SpecialThanks_00,SHIGEFUMI KAWASE
+StaffCredit.msbt,102,SpecialThanks_01,MASANOBU YAMAMOTO
+StaffCredit.msbt,103,SpecialThanks_02,KAZUYA KONISHI
+StaffCredit.msbt,104,SpecialThanks_03,JUNICHI AOYAGI
+StaffCredit.msbt,105,SpecialThanks_04,TAKAAKI KAZUNO
+StaffCredit.msbt,106,SpecialThanks_05,YOUSUKE FUKUNAGA
+StaffCredit.msbt,107,SpecialThanks_06,SHIGENOBU KASAI
+StaffCredit.msbt,108,SpecialThanks_07,YOSHIYA TANIGUCHI
+StaffCredit.msbt,109,SpecialThanks_08,KOUJIRO OKI
+StaffCredit.msbt,110,SpecialThanks_09,MASA MATSUBAYASHI
+StaffCredit.msbt,111,SpecialThanks_10,SOUTA SUGISAKI
+StaffCredit.msbt,112,SpecialThanks_11,SHUN YASAKA
+StaffCredit.msbt,113,SpecialThanks_12,KAZUYA SUETSUGU
+StaffCredit.msbt,114,SpecialThanks_13,SHINYA WAKAYAMA
+StaffCredit.msbt,115,SpecialThanks_14,ETSUKO SATO
+StaffCredit.msbt,116,SpecialThanks_15,HIROSHI FUJIE
+StaffCredit.msbt,117,SpecialThanks_16,TETSUYA NOTOYA
+StaffCredit.msbt,118,SpecialThanks_17,KENSUKE TANABE
+StaffCredit.msbt,119,SpecialThanks_18,KAZUHIRO YOSHIKAWA
+StaffCredit.msbt,120,ManagingDirector,GENEL MÜDÜR
+StaffCredit.msbt,121,ManagingDirector_00,YURIE HATTORI
+StaffCredit.msbt,122,ManagingDirector_01,KENTA NAKANISHI
+StaffCredit.msbt,123,ProjectManagement,⟦MSBT:0E000000020002006000⟧PROJE YÖNETİMİ⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,124,ProjectManagement_00,TETSUYA ABE
+StaffCredit.msbt,125,Producer,YAPIMCI
+StaffCredit.msbt,126,Producer_00,HIROAKI SUGA
+StaffCredit.msbt,127,Producer_01,HITOSHI YAMAGAMI
+StaffCredit.msbt,128,GeneralProducer,GENEL YAPIMCI
+StaffCredit.msbt,129,GeneralProducer_00,MASAYOSHI TANIMURA
+StaffCredit.msbt,130,GeneralProducer_01,SHINYA TAKAHASHI
+StaffCredit.msbt,131,ExecutiveProducer,YÜRÜTÜCÜ YAPIMCI
+StaffCredit.msbt,132,ExecutiveProducer_00,SATORU IWATA
+StaffCredit.msbt,133,Copyright_00,"HAL Laboratory, Inc. ve Nintendo, telif hakkı
+bakımından bu yazılımın yazarlarıdır. Tüm
+hakları saklıdır.
+©2014 HAL Laboratory, Inc. /
+Nintendo"
+StaffCredit.msbt,134,NOALocalizationManagement,
+StaffCredit.msbt,135,NOALocalizationManagement_00,
+StaffCredit.msbt,136,NOALocalizationManagement_01,
+StaffCredit.msbt,137,NOALocalizationManagement_02,
+StaffCredit.msbt,138,NOALocalizationManagement_03,
+StaffCredit.msbt,139,NOALocalizationManagement_04,
+StaffCredit.msbt,140,NOALocalization,
+StaffCredit.msbt,141,NOALocalization_00,
+StaffCredit.msbt,142,NOALocalization_01,
+StaffCredit.msbt,143,NOALocalization_02,
+StaffCredit.msbt,144,NOALocalization_03,
+StaffCredit.msbt,145,NOALocalization_04,
+StaffCredit.msbt,146,NOALocalization_05,
+StaffCredit.msbt,147,NOALocalization_06,
+StaffCredit.msbt,148,NOALocalization_07,
+StaffCredit.msbt,149,NOAProductTesting,
+StaffCredit.msbt,150,NOAProductTesting_00,
+StaffCredit.msbt,151,NOAProductTesting_01,
+StaffCredit.msbt,152,NOAProductTesting_02,
+StaffCredit.msbt,153,NOAProductTesting_03,
+StaffCredit.msbt,154,NOAProductTesting_04,
+StaffCredit.msbt,155,NOAProductTesting_05,
+StaffCredit.msbt,156,NOAProductTesting_06,
+StaffCredit.msbt,157,NOAProductTesting_07,
+StaffCredit.msbt,158,NOAProductTesting_08,
+StaffCredit.msbt,159,NOAProductTesting_09,
+StaffCredit.msbt,160,NOAProductTesting_10,
+StaffCredit.msbt,161,NOAProductTesting_11,
+StaffCredit.msbt,162,NOAProductTesting_12,
+StaffCredit.msbt,163,NOELocalisationProducer,⟦MSBT:0E000000020002005700⟧YERELLEŞTİRME YAPIMCISI⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,164,NOELocalisationProducer_00,CHRISTIAN MASSI
+StaffCredit.msbt,165,NOELocalisationProducer_01,FLAVIA MADONIA
+StaffCredit.msbt,166,NOELocalisationQualitySpecialist,"YERELLEŞTİRME
+KALİTE UZMANI"
+StaffCredit.msbt,167,NOELocalisationQualitySpecialist_00,AATISH PATTNI
+StaffCredit.msbt,168,NOELocalisationQualitySpecialist_01,SABRINA BRETANT
+StaffCredit.msbt,169,NOELocalisationQualitySpecialist_02,LAURA INNOCENTI
+StaffCredit.msbt,170,NOELocalisationQualitySpecialist_03,MARTINA DEIMEL
+StaffCredit.msbt,171,NOELocalisationQualitySpecialist_04,JOSÉ MANUEL MALAGÓN
+StaffCredit.msbt,172,NOEEuropeanTranslation,⟦MSBT:0E000000020002005A00⟧AVRUPA ÇEVİRİSİ⟦MSBT:0E000000020002006400⟧
+StaffCredit.msbt,173,NOEEuropeanTranslation_00,CULTURETRANSLATE
+StaffCredit.msbt,174,NOEEuropeanQa,AVRUPA TEST
+StaffCredit.msbt,175,NOEEuropeanQa_00,CULTURETRANSLATE
+StreetPass.msbt,0,CreateNotifyMii1,"⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass ⟦MSBT:0E00000003000400000000FF⟧açıksa,
+karşılaştığın ⟦MSBT:0E00000003000400FF4B32FF⟧Mii karakterleri⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass ⟦MSBT:0E00000003000400000000FF⟧üzerinden sana
+eşya ve anahtarlık getirir!"
+StreetPass.msbt,1,CreateSelect,"⟦MSBT:0E000000020002005F00⟧Bu oyun için
+⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass ⟦MSBT:0E00000003000400000000FF⟧verisi
+oluşturulsun mu?⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,2,CreateEnd,"⟦MSBT:0E000000020002005F00⟧⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ verileri
+oluşturuldu.⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,3,CreateEnd2,"⟦MSBT:0E000000020002005D00⟧⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass ⟦MSBT:0E00000003000400000000FF⟧etkin kalacak,
+bu yazılım kapatılsa bile.⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,4,DeleteSelect,"Bu oyun için ⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass
+⟦MSBT:0E00000003000400000000FF⟧devre dışı bırakılsın mı?"
+StreetPass.msbt,5,DeleteEnd,"⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass ⟦MSBT:0E00000003000400000000FF⟧bu oyun için
+devre dışı bırakıldı."
+StreetPass.msbt,6,MiiSelect,"⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧'te kullanmak
+istediğin ⟦MSBT:0E00000003000400FF4B32FF⟧Mii⟦MSBT:0E00000003000400000000FF⟧'yi seç."
+StreetPass.msbt,7,MiiNotAvaiable,"⟦MSBT:0E000000020002005700⟧Kullanılabilir ⟦MSBT:0E00000003000400FF4B32FF⟧Mii karakteri⟦MSBT:0E00000003000400000000FF⟧ yok,
+bu yüzden ⟦MSBT:0E00000003000400FF4B32FF⟧Misafir Mii⟦MSBT:0E00000003000400000000FF⟧ kullanılacak.
+Yeni ⟦MSBT:0E00000003000400FF4B32FF⟧Mii karakterlerini⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF4B32FF⟧Mii Oluşturucu'da⟦MSBT:0E00000003000400000000FF⟧ yapabilirsin.⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,8,BoxFull1,"⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ verileri
+oluşturulamadı."
+StreetPass.msbt,9,BoxFull2,"⟦MSBT:0E000000020002005A00⟧Sistem Ayarları'ndaki
+⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass Yönetimi⟦MSBT:0E00000003000400000000FF⟧'ni aç.
+Başka bir yazılımda ⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧'i
+kapatıp bir yuva boşalt.⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,10,ErrorNotAgreeEula,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ kullanabilmek için,
+en güncel Nintendo 3DS Hizmet
+Kullanım Sözleşmesi'ni
+kabul etmelisin.⟦MSBT:0E000000020002006400⟧"
+StreetPass.msbt,11,ErrorParentalControl,"⟦MSBT:0E000000020002005600⟧⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ şu anda
+⟦MSBT:0E00000003000400FF4B32FF⟧Ebeveyn Kontrolleri⟦MSBT:0E00000003000400000000FF⟧'nde devre dışı
+ve kullanılamıyor.⟦MSBT:0E000000020002006400⟧"
+SunStoneList.msbt,0,EndButton,Geri
+TheaterRoom.msbt,0,EndBtn,Geri
+TheaterRoom.msbt,1,Title,Sinema
+TheaterRoom.msbt,2,ContentNameLocked,?
+TheaterRoom.msbt,3,ContentNameMovie00,⟦MSBT:0E000000020002006400⟧Çiçekler Arasında Uyanış!⟦MSBT:0E000000020002006400⟧
+TheaterRoom.msbt,4,ContentNameMovie01,ÇİÇEKLİ
+TheaterRoom.msbt,5,ContentNameMovie02,"⟦MSBT:0E000000020002006400⟧Örümza, kukla
+ustası⟦MSBT:0E000000020002006400⟧"
+TheaterRoom.msbt,6,ContentNameMovie03,İlahi güzellik
+TheaterRoom.msbt,7,ContentNameMovie04,Yıldızları elinde tutan
+TheaterRoom.msbt,8,ContentNameSkit00,⟦MSBT:0E000000020002006300⟧Güneş altında: sahneler 1-5⟦MSBT:0E000000020002006400⟧
+TheaterRoom.msbt,9,ContentNameStaffCredit00,Son
+TheaterRoom.msbt,10,ContentNameStaffCredit01,Gizli son
+TheaterRoom.msbt,11,ContentNameClearDance00,Kirby Ustası!
+TheaterRoom.msbt,12,ContentNameSimpleCredit00,Ekip Jeneriği
+Title.msbt,0,TitleRights,"©2014 HAL Laboratory, Inc. / Nintendo"
+Title.msbt,1,PressHome,⟦MSBT:0E000000020002005C00⟧HOME Menüsüne dönmek için ⟦MSBT:0E0001000F000000⟧ basın.⟦MSBT:0E000000020002006400⟧
+Title.msbt,2,PressStartPre,BASIN
+Title.msbt,3,PressStartPost,
+TitleMenu.msbt,0,File,Dos
+TitleMenu.msbt,1,FileUp,Dos
+TitleMenu.msbt,2,FileEmpty,Boş
+TitleMenu.msbt,3,FileEmptyUp,Boş
+TitleMenu.msbt,4,Number1,1
+TitleMenu.msbt,5,Number1Up,1
+TitleMenu.msbt,6,Number2,2
+TitleMenu.msbt,7,Number2Up,2
+TitleMenu.msbt,8,Number3,3
+TitleMenu.msbt,9,Number3Up,⟦MSBT:0E000000020002005F00⟧3⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,10,ClearPercent,İlerleme
+TitleMenu.msbt,11,FileBackBtn,⟦MSBT:0E000000020002005000⟧Başlık⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,12,ModeBackBtn,Geri
+TitleMenu.msbt,13,#Unlock,
+TitleMenu.msbt,14,UnlockArena,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Arena⟦MSBT:0E00000003000400000000FF⟧'nın kilidini açtın!
+Patronlarla art arda savaş!⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,15,UnlockArenaEx,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Gerçek Arena⟦MSBT:0E00000003000400000000FF⟧'nın kilidini açtın!
+Kirby Ustası olabilir misin?⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,16,UnlockArenaEx2,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Gerçek Arena⟦MSBT:0E00000003000400000000FF⟧'da diğer oyuncuların
+⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ rekorlarına
+meydan okuyabilirsin.⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,17,UnlockGo,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Dedede Turu⟦MSBT:0E00000003000400000000FF⟧'nun kilidini açtın!
+Kral Dedede olarak oyunu
+baştan sona oyna!⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,18,UnlockGo2,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Arena⟦MSBT:0E00000003000400000000FF⟧ ve ⟦MSBT:0E00000003000400FF4B32FF⟧Dedede Turu⟦MSBT:0E00000003000400000000FF⟧
+rekorlarını ⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ ile
+diğer oyuncularla paylaşabilirsin.⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,19,UnlockGo3,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧'i etkinleştirirsen,
+en iyi sürelerini yakındaki
+oyuncularla paylaşabilirsin!⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,20,UnlockSound,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Ses Testi⟦MSBT:0E00000003000400000000FF⟧'nin kilidini açtın,
+oyunun tüm favori müziklerini
+dinleyebilirsin!⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,21,UnlockTheater,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4B32FF⟧Sinema⟦MSBT:0E00000003000400000000FF⟧'nun kilidini açtın!
+Oyunun ara sahnelerini
+buradan yeniden izleyebilirsin.⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,22,UnlockTheaterComplete,"⟦MSBT:0E000000020002006400⟧⟦MSBT:0E00000003000400FF4B32FF⟧Sinema⟦MSBT:0E00000003000400000000FF⟧'daki tüm
+filmlerin kilidini açtın!⟦MSBT:0E000000020002006400⟧"
+TitleMenu.msbt,23,#FileDelete,
+TitleMenu.msbt,24,FileDeleteText1,⟦MSBT:0E000000020002006200⟧⟦MSBT:0E00000003000400FFD411FF⟧Dosya ⟦MSBT:0E00020000000000⟧⟦MSBT:0E00000003000400000000FF⟧ silinsin mi?⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,25,FileDeleteYes1,Sil
+TitleMenu.msbt,26,FileDeleteNo1,Vazgeç
+TitleMenu.msbt,27,FileDeleteText2,⟦MSBT:0E000000020002005300⟧⟦MSBT:0E00000003000400FFD411FF⟧Bundan emin misin?⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,28,FileDeleteYes2,Sil
+TitleMenu.msbt,29,FileDeleteNo2,Vazgeç
+TitleMenu.msbt,30,FileDeleteText3_1,⟦MSBT:0E000000020002004B00⟧Silinen  veriler  geri  getirilemez.⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,31,FileDeleteText3_2,⟦MSBT:0E000000020002004000⟧Pişman olmayacağına emin misin?⟦MSBT:0E000000020002006400⟧
+TitleMenu.msbt,32,FileDeleteYes3,⟦MSBT:0E00000003000400FF4B32FF⟧Pişman değilim!⟦MSBT:0E00000003000400000000FF⟧
+TitleMenu.msbt,33,FileDeleteNo3,Vazgeç
+TitleMenu.msbt,34,FileDeleteEnd,Dosya silindi.
+WMap.msbt,0,HelpStageIn,GİR
+WMap.msbt,1,SunStoneButtonTitle,⟦MSBT:0E000000020002005000⟧Güneş Taşları⟦MSBT:0E000000020002006400⟧
+WMap.msbt,2,KeyChainButtonTitle,Anahtarlık
+WMap.msbt,3,SunStoneComplete,"⟦MSBT:0E000000020002005C00⟧Floralia'ya dağılmış ⟦MSBT:0E00000003000400FF4600FF⟧100 Güneş Taşının⟦MSBT:0E00000003000400000000FF⟧
+hepsini topladın!⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,4,LastBattileDialogBtnLv6,"⟦MSBT:0E000000020002005800⟧Zihin kontrolündeki
+kral Maskeli Dedede'yle savaş.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,5,LastBattileDialogBtnLv7,"⟦MSBT:0E000000020002005D00⟧Asıl düşman
+Kraliçe Sectonia'yla savaş!⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,6,Stage1,AŞAMA 1
+WMap.msbt,7,Stage2,AŞAMA 2
+WMap.msbt,8,Stage3,AŞAMA 3
+WMap.msbt,9,Stage4,AŞAMA 4
+WMap.msbt,10,Stage5,AŞAMA 5
+WMap.msbt,11,Stage6,AŞAMA 6
+WMap.msbt,12,Stage7,AŞAMA 7
+WMap.msbt,13,Stage8,AŞAMA 8
+WMap.msbt,14,Ex,EX
+WMap.msbt,15,Boss,⟦MSBT:0E000000020002004000⟧PATRON⟦MSBT:0E000000020002006400⟧
+WMap.msbt,16,BossUnlocked,"⟦MSBT:0E000000020002005500⟧Bulduğun ⟦MSBT:0E00000003000400FF4600FF⟧Güneş Taşları⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF4600FF⟧patron aşamasını⟦MSBT:0E00000003000400000000FF⟧ açtı!⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,17,Lv6BossUnlocked,"⟦MSBT:0E000000020002005400⟧Bulduğun ⟦MSBT:0E00000003000400FF4600FF⟧Güneş Taşları⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FF4600FF⟧son patron aşamasını⟦MSBT:0E00000003000400000000FF⟧ açtı!⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,18,SunStoneNotEnough,"⟦MSBT:0E000000020002005500⟧Bu aşamayı açmak için
+⟦MSBT:0E00000003000400FF4600FF⟧bu bölümde⟦MSBT:0E00000003000400000000FF⟧ daha çok
+⟦MSBT:0E00000003000400FF4600FF⟧Güneş Taşı⟦MSBT:0E00000003000400000000FF⟧ bul.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,19,ExUnlocked,"⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FF4600FF⟧⟦MSBT:0E00020001000000⟧ Güneş Taşı⟦MSBT:0E00000003000400000000FF⟧ bularak,
+⟦MSBT:0E00000003000400FF4600FF⟧ek aşama⟦MSBT:0E00000003000400000000FF⟧ açtın!⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,20,Lv2Unlocked,"⟦MSBT:0E000000020002005A00⟧Rüya Sarmaşığı büyüdü!
+Artık ⟦MSBT:0E00000003000400FF4600FF⟧ikinci yüzen adaya⟦MSBT:0E00000003000400000000FF⟧
+gidebilirsin.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,21,Lv3Unlocked,"⟦MSBT:0E000000020002005A00⟧Rüya Sarmaşığı büyüdü!
+Artık ⟦MSBT:0E00000003000400FF4600FF⟧üçüncü yüzen adaya⟦MSBT:0E00000003000400000000FF⟧
+gidebilirsin.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,22,Lv4Unlocked,"⟦MSBT:0E000000020002005A00⟧Rüya Sarmaşığı büyüdü!
+Artık ⟦MSBT:0E00000003000400FF4600FF⟧dördüncü yüzen adaya⟦MSBT:0E00000003000400000000FF⟧
+gidebilirsin.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,23,Lv5Unlocked,"⟦MSBT:0E000000020002005A00⟧Rüya Sarmaşığı büyüdü!
+Artık ⟦MSBT:0E00000003000400FF4600FF⟧beşinci yüzen adaya⟦MSBT:0E00000003000400000000FF⟧
+gidebilirsin.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,24,Lv6Unlocked,"⟦MSBT:0E000000020002005A00⟧Rüya Sarmaşığı büyüdü!
+Artık ⟦MSBT:0E00000003000400FF4600FF⟧altıncı yüzen adaya⟦MSBT:0E00000003000400000000FF⟧
+gidebilirsin.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,25,AbilityRoomUnlocked,"⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF4600FF⟧Kopya Yeteneği
+Deneme Odası'nı⟦MSBT:0E00000003000400000000FF⟧ açtın!
+Rüya Sarmaşığı'ndan inmeyi dene.⟦MSBT:0E000000020002006400⟧"
+WMap.msbt,26,Lv1Name,Sv. 1
+WMap.msbt,27,Lv2Name,Sv. 2
+WMap.msbt,28,Lv3Name,Sv. 3
+WMap.msbt,29,Lv4Name,Sv. 4
+WMap.msbt,30,Lv5Name,Sv. 5
+WMap.msbt,31,Lv6Name,Sv. 6

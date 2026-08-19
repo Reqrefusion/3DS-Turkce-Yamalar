@@ -1,0 +1,85 @@
+KIRBY TRIPLE DELUXE TÜRKÇE YAMA — v12 KESİN NOKTASIZ I FONT FIX
+================================================================
+
+Bu paket v8 son çeviriyi, v9 runtime-safe CMAP düzeltmesini ve v12 font düzeltmesini içerir.
+v12'in amacı Türkçe küçük noktasız "ı" karakterinde cihaz üzerinde görülebilen son nokta/çıkıntı kalıntısını tamamen kaldırmaktır.
+
+HEDEF TITLE ID
+--------------
+000400000010C000
+
+EN KOLAY KURULUM (Luma3DS / LayeredFS)
+--------------------------------------
+1) 01_HAZIR_YAMA\SD_ROOT içindeki "luma" klasörünü SD kartın köküne kopyala.
+2) Sonuçta SD:/luma/titles/000400000010C000/romfs/ bulunmalı.
+3) Luma3DS yapılandırmasında game patching etkin olsun.
+4) Oyunu EU_English metinlerini kullanan dil/region düzeninde çalıştır.
+
+v12 NOKTASIZ ı DÜZELTMESİ
+--------------------------
+- ı artık küçük i glifinden TÜRETİLMİYOR.
+- Kaynak glif fontun kendi büyük I harfidir; bu kaynakta nokta olmadığı için i noktasından kalan piksel mümkün değildir.
+- Büyük I'nin üst kısmı, fontun gerçek/dolu küçük-harf x-height satırında kesilir.
+- Zayıf anti-alias/outliner satırları x-height hesabına dahil edilmez.
+- Kesim çizgisinin üstündeki tüm pikseller alpha=0 yapılır.
+- ı genişlik/advance değeri küçük i'den alınır; yani metin yerleşimi küçük harf gibi kalır.
+- CommonStd_OL fontunda Nintendo'nun orijinal gerçek Türkçe ı glifi zaten bulunduğu için o glif geri yüklenmiş ve korunmuştur.
+
+DOĞRULAMA
+---------
+- 23/23 MSBT, 1.847 çeviri kaydı korunuyor.
+- 10 normal metin fontunda ÇĞİÖŞÜçğıöşü runtime CMAP ile erişilebilir.
+- Üretilen 9 adet ı glifinin strong-x-height üstünde görünür piksel: 0.
+- CommonStd_OL: orijinal Nintendo ı glifi.
+- Orijinal 18 fonttan v12 aracıyla sıfırdan üretim sonucu: 18/18 hazır font ile byte-identical.
+- v12 patcher kendi çıktısına tekrar uygulanınca değişiklik yapmıyor (idempotent).
+
+PAKET İÇERİĞİ
+--------------
+01_HAZIR_YAMA
+  - SD_ROOT: doğrudan SD karta kopyalanabilir LayeredFS dizini
+  - ROMFS_ONLY: yalın romfs dizini
+02_CEVIRI
+  - MSBT_CSV: 23 MSBT için ayrı CSV
+  - TUM_METINLER_YAN_YANA.csv: 1.847 kayıt / tüm diller + Türkçe
+  - SADECE_TURKCE.csv
+03_ARACLAR
+  - kirby_msbt_tool.py
+  - kirby_font_tool.py
+  - kirby_font_tr_patch.py      (v12; runtime-safe CMAP + büyük-I tabanlı ı)
+  - build_patch.py / verify_package.py
+04_ARA_DOSYALAR
+  - MSBT_SABLON
+  - FONT_ORIJINAL: temiz 18 kaynak font
+  - FONT_ACILMIS: hazır v12 fontlarının açılmış BCFNT sürümleri
+05_RAPORLAR
+  - V12_DOTLESS_I_STRICT_QA.csv
+  - V12_PATCHER_IDEMPOTENCE.csv
+  - V12_FROM_ORIGINAL_FONT_BUILD.csv
+  - önceki v8/v9/v10 raporları
+06_FONT_ONIZLEMELERI
+  - Türkçe glif önizlemeleri
+  - V12_I_i_dotless_kontrol: her metin fontunda I / i / ı yan yana kontrol görselleri
+
+KOMUTLAR
+--------
+01_YAMAYI_YENIDEN_OLUSTUR.bat
+  CSV'deki TR_Turkish sütunlarından yeni MSBT/ROMFS build eder.
+02_PAKETI_DOGRULA.bat
+  CSV/MSBT, kontrol tokenı, runtime CMAP ve v12 ı geometrisini doğrular.
+03_FONTLARI_AC.bat
+  Hazır fontları BCFNT olarak açar.
+04_FONTLARI_TEKRAR_PAKETLE.bat
+  FONT_ACILMIS altındaki BCFNT'leri LZ11 .cmp olarak paketler.
+05_FONT_TR_GLYFLERI_DOGRULA.bat
+  Genel paket/font QA'yı çalıştırır.
+06_FONTLARI_SIFIRDAN_TR_PATCHLE.bat
+  FONT_ORIJINAL içindeki temiz fontlardan Türkçe fontları v12 yöntemiyle sıfırdan üretir.
+
+ÖNEMLİ
+------
+- ⟦MSBT:...⟧ ve ⟦U16:...⟧ tokenlarını bozma/silme.
+- Ruby/ExtChar ve bazı Fixed fontlar normal Latin metin fontu değildir; Latin taban glifleri olmadığı için körlemesine patch'lenmez.
+
+
+v12 FONT NOTU: Noktasız ı artık büyük I'nin tepesini keserek değil, orta düz gövde satırlarını çıkararak üretilir. Üst/alt gölge capleri korunur. Ayrıntı: 05_RAPORLAR/V12_DOTLESS_I_DUZELTME_NOTU.md
