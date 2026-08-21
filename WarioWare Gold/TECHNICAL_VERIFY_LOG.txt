@@ -1,0 +1,606 @@
+{
+  "files": 51,
+  "texts": 6037,
+  "errors": 0,
+  "all_ok": true
+}
+Files tested: 51
+TXT2 strings tested: 6037
+Errors: 0
+[
+  {
+    "Font": "Caption_US.bffnt",
+    "Blocks": 4,
+    "Single_CWDH_CMAP": "EVET",
+    "CWDH_End": 198,
+    "Max_Mapped_Index": 198,
+    "CWDH_Covers_Max": "EVET",
+    "User_Mapping_Index_Mismatches": 0,
+    "Turkish_User_Glyph_Mismatches": 0,
+    "Original_Base_Codepoints_Missing": 0,
+    "Original_Base_Glyph_Mismatches": 0,
+    "User_Glyphs_Changed_Only_As_Base_Repair": "EVET",
+    "Changed_User_Glyph_Count": 0,
+    "Capacity": 252,
+    "SHA256": "8bf440525f189a9602b84ed67ef3df6fe075e63228496cd0baff0d63ae9dd47e",
+    "PASS": "EVET"
+  },
+  {
+    "Font": "UI_Caption_US.bffnt",
+    "Blocks": 4,
+    "Single_CWDH_CMAP": "EVET",
+    "CWDH_End": 193,
+    "Max_Mapped_Index": 193,
+    "CWDH_Covers_Max": "EVET",
+    "User_Mapping_Index_Mismatches": 0,
+    "Turkish_User_Glyph_Mismatches": 0,
+    "Original_Base_Codepoints_Missing": 0,
+    "Original_Base_Glyph_Mismatches": 0,
+    "User_Glyphs_Changed_Only_As_Base_Repair": "EVET",
+    "Changed_User_Glyph_Count": 3,
+    "Capacity": 297,
+    "SHA256": "e308305671e1d1fe4e479d249b91d042d017e95e3dcdfbe0cc7b02adc987f337",
+    "PASS": "EVET"
+  },
+  {
+    "Font": "Common_Sura_B_16.bffnt",
+    "Blocks": 4,
+    "Single_CWDH_CMAP": "EVET",
+    "CWDH_End": 918,
+    "Max_Mapped_Index": 918,
+    "CWDH_Covers_Max": "EVET",
+    "User_Mapping_Index_Mismatches": 0,
+    "Turkish_User_Glyph_Mismatches": 0,
+    "Original_Base_Codepoints_Missing": 0,
+    "Original_Base_Glyph_Mismatches": 0,
+    "User_Glyphs_Changed_Only_As_Base_Repair": "EVET",
+    "Changed_User_Glyph_Count": 1,
+    "Capacity": 1196,
+    "SHA256": "611248c2961586160db990fb0d4de0f197d3f42ffcdad5246a9412a4a72612f5",
+    "PASS": "EVET"
+  }
+]
+[
+  {
+    "font": "Caption_US.bffnt",
+    "base_sha256": "d477d48da75beb4875c8f9a29fb37318e3fef64a7747c00205882df2323e2b97",
+    "user_sha256": "a5936bbedcea67918e5f41e33fd1b72e1590b8b6f820f394afe1e3af325cd5b9",
+    "final_sha256": "8bf440525f189a9602b84ed67ef3df6fe075e63228496cd0baff0d63ae9dd47e",
+    "final_size": 271772,
+    "block_count": 4,
+    "cwdh_sections": 1,
+    "cmap_sections": 1,
+    "user_mapping_count": 193,
+    "final_mapping_count": 199,
+    "all_user_mappings_same_index": true,
+    "all_user_turkish_bitmaps_preserved": true,
+    "restored_original_codepoints": [
+      {
+        "char": "È",
+        "codepoint": "U+00C8",
+        "old_base_index": 124,
+        "new_index": 193
+      },
+      {
+        "char": "É",
+        "codepoint": "U+00C9",
+        "old_base_index": 125,
+        "new_index": 194
+      },
+      {
+        "char": "Ê",
+        "codepoint": "U+00CA",
+        "old_base_index": 126,
+        "new_index": 195
+      },
+      {
+        "char": "è",
+        "codepoint": "U+00E8",
+        "old_base_index": 152,
+        "new_index": 196
+      },
+      {
+        "char": "é",
+        "codepoint": "U+00E9",
+        "old_base_index": 153,
+        "new_index": 197
+      },
+      {
+        "char": "ê",
+        "codepoint": "U+00EA",
+        "old_base_index": 154,
+        "new_index": 198
+      }
+    ],
+    "restored_accidental_user_glyphs": [],
+    "restored_missing_cwdh_indices": [
+      192
+    ],
+    "capacity": 252,
+    "max_final_index": 198,
+    "turkish_rows": [
+      {
+        "char": "Ç",
+        "codepoint": "U+00C7",
+        "user_index": 123,
+        "final_index": 123,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ğ",
+        "codepoint": "U+011E",
+        "user_index": 124,
+        "final_index": 124,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "İ",
+        "codepoint": "U+0130",
+        "user_index": 125,
+        "final_index": 125,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ö",
+        "codepoint": "U+00D6",
+        "user_index": 137,
+        "final_index": 137,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ş",
+        "codepoint": "U+015E",
+        "user_index": 126,
+        "final_index": 126,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ü",
+        "codepoint": "U+00DC",
+        "user_index": 142,
+        "final_index": 142,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ç",
+        "codepoint": "U+00E7",
+        "user_index": 151,
+        "final_index": 151,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ğ",
+        "codepoint": "U+011F",
+        "user_index": 152,
+        "final_index": 152,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ı",
+        "codepoint": "U+0131",
+        "user_index": 153,
+        "final_index": 153,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ö",
+        "codepoint": "U+00F6",
+        "user_index": 165,
+        "final_index": 165,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ş",
+        "codepoint": "U+015F",
+        "user_index": 154,
+        "final_index": 154,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ü",
+        "codepoint": "U+00FC",
+        "user_index": 170,
+        "final_index": 170,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      }
+    ]
+  },
+  {
+    "font": "UI_Caption_US.bffnt",
+    "base_sha256": "c2fcf85e8bdfb4e388d90a731655ab39fd77020c057bfa2628ec63fdb2ae8384",
+    "user_sha256": "adac3b3bfb9852444fc4a5fc3b438a3995c2bc684f483e1eb9196e2f5401ff6c",
+    "final_sha256": "e308305671e1d1fe4e479d249b91d042d017e95e3dcdfbe0cc7b02adc987f337",
+    "final_size": 140664,
+    "block_count": 4,
+    "cwdh_sections": 1,
+    "cmap_sections": 1,
+    "user_mapping_count": 188,
+    "final_mapping_count": 194,
+    "all_user_mappings_same_index": true,
+    "all_user_turkish_bitmaps_preserved": true,
+    "restored_original_codepoints": [
+      {
+        "char": "È",
+        "codepoint": "U+00C8",
+        "old_base_index": 122,
+        "new_index": 188
+      },
+      {
+        "char": "É",
+        "codepoint": "U+00C9",
+        "old_base_index": 123,
+        "new_index": 189
+      },
+      {
+        "char": "Ê",
+        "codepoint": "U+00CA",
+        "old_base_index": 124,
+        "new_index": 190
+      },
+      {
+        "char": "è",
+        "codepoint": "U+00E8",
+        "old_base_index": 150,
+        "new_index": 191
+      },
+      {
+        "char": "é",
+        "codepoint": "U+00E9",
+        "old_base_index": 151,
+        "new_index": 192
+      },
+      {
+        "char": "ê",
+        "codepoint": "U+00EA",
+        "old_base_index": 152,
+        "new_index": 193
+      }
+    ],
+    "restored_accidental_user_glyphs": [
+      {
+        "char": "µ",
+        "codepoint": "U+00B5",
+        "index": 109
+      },
+      {
+        "char": "¿",
+        "codepoint": "U+00BF",
+        "index": 113
+      },
+      {
+        "char": "ò",
+        "codepoint": "U+00F2",
+        "index": 159
+      }
+    ],
+    "restored_missing_cwdh_indices": [
+      187
+    ],
+    "capacity": 297,
+    "max_final_index": 193,
+    "turkish_rows": [
+      {
+        "char": "Ç",
+        "codepoint": "U+00C7",
+        "user_index": 121,
+        "final_index": 121,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ğ",
+        "codepoint": "U+011E",
+        "user_index": 122,
+        "final_index": 122,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "İ",
+        "codepoint": "U+0130",
+        "user_index": 123,
+        "final_index": 123,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ö",
+        "codepoint": "U+00D6",
+        "user_index": 135,
+        "final_index": 135,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ş",
+        "codepoint": "U+015E",
+        "user_index": 124,
+        "final_index": 124,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ü",
+        "codepoint": "U+00DC",
+        "user_index": 140,
+        "final_index": 140,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ç",
+        "codepoint": "U+00E7",
+        "user_index": 149,
+        "final_index": 149,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ğ",
+        "codepoint": "U+011F",
+        "user_index": 150,
+        "final_index": 150,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ı",
+        "codepoint": "U+0131",
+        "user_index": 151,
+        "final_index": 151,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ö",
+        "codepoint": "U+00F6",
+        "user_index": 163,
+        "final_index": 163,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ş",
+        "codepoint": "U+015F",
+        "user_index": 152,
+        "final_index": 152,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ü",
+        "codepoint": "U+00FC",
+        "user_index": 168,
+        "final_index": 168,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      }
+    ]
+  },
+  {
+    "font": "Common_Sura_B_16.bffnt",
+    "base_sha256": "64c3ba906ab5859cae986fbbe3f49278c8a7fd5d26dd55441ad7a990b03aece0",
+    "user_sha256": "ec59211d31686a6e2ea192f42d5d52b8e9a249fcf3f05cfe9bdce3eda967bd7e",
+    "final_sha256": "611248c2961586160db990fb0d4de0f197d3f42ffcdad5246a9412a4a72612f5",
+    "final_size": 538956,
+    "block_count": 4,
+    "cwdh_sections": 1,
+    "cmap_sections": 1,
+    "user_mapping_count": 914,
+    "final_mapping_count": 919,
+    "all_user_mappings_same_index": true,
+    "all_user_turkish_bitmaps_preserved": true,
+    "restored_original_codepoints": [
+      {
+        "char": "È",
+        "codepoint": "U+00C8",
+        "old_base_index": 134,
+        "new_index": 914
+      },
+      {
+        "char": "É",
+        "codepoint": "U+00C9",
+        "old_base_index": 135,
+        "new_index": 915
+      },
+      {
+        "char": "Ê",
+        "codepoint": "U+00CA",
+        "old_base_index": 136,
+        "new_index": 916
+      },
+      {
+        "char": "è",
+        "codepoint": "U+00E8",
+        "old_base_index": 166,
+        "new_index": 917
+      },
+      {
+        "char": "é",
+        "codepoint": "U+00E9",
+        "old_base_index": 167,
+        "new_index": 918
+      }
+    ],
+    "restored_accidental_user_glyphs": [
+      {
+        "char": "®",
+        "codepoint": "U+00AE",
+        "index": 108
+      }
+    ],
+    "restored_missing_cwdh_indices": [
+      913
+    ],
+    "capacity": 1196,
+    "max_final_index": 918,
+    "turkish_rows": [
+      {
+        "char": "Ç",
+        "codepoint": "U+00C7",
+        "user_index": 133,
+        "final_index": 133,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ğ",
+        "codepoint": "U+011E",
+        "user_index": 134,
+        "final_index": 134,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "İ",
+        "codepoint": "U+0130",
+        "user_index": 135,
+        "final_index": 135,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ö",
+        "codepoint": "U+00D6",
+        "user_index": 148,
+        "final_index": 148,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ş",
+        "codepoint": "U+015E",
+        "user_index": 136,
+        "final_index": 136,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "Ü",
+        "codepoint": "U+00DC",
+        "user_index": 154,
+        "final_index": 154,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ç",
+        "codepoint": "U+00E7",
+        "user_index": 165,
+        "final_index": 165,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ğ",
+        "codepoint": "U+011F",
+        "user_index": 166,
+        "final_index": 166,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ı",
+        "codepoint": "U+0131",
+        "user_index": 199,
+        "final_index": 199,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ö",
+        "codepoint": "U+00F6",
+        "user_index": 180,
+        "final_index": 180,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ş",
+        "codepoint": "U+015F",
+        "user_index": 167,
+        "final_index": 167,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      },
+      {
+        "char": "ü",
+        "codepoint": "U+00FC",
+        "user_index": 186,
+        "final_index": 186,
+        "same_index": true,
+        "same_metric": true,
+        "same_bitmap": true
+      }
+    ]
+  }
+]
+Injected CSV files: 51
+Verified MSBT files: 51
+Verified TXT2 strings: 6037
+Errors: 0
+WarioWare TR Toolkit v2 technical verification
+Root: /mnt/data/WarioWare_TR_Toolkit_v2
+Checksum files: 200; mismatches: 0
+
+$ /opt/pyvenv/bin/python /mnt/data/WarioWare_TR_Toolkit_v2/tools/msbt_technical_verify.py /mnt/data/WarioWare_TR_Toolkit_v2/PATCH_READY_TECHNICAL/romfs/Message/EU/EUen --reference-root /mnt/data/WarioWare_TR_Toolkit_v2/references/EUen_original
+
+$ /opt/pyvenv/bin/python /mnt/data/WarioWare_TR_Toolkit_v2/tools/msbt_direct_tool.py verify /mnt/data/WarioWare_TR_Toolkit_v2/PATCH_READY_TECHNICAL/romfs/Message/EU/EUen
+
+$ /opt/pyvenv/bin/python /mnt/data/WarioWare_TR_Toolkit_v2/tools/font_v5_independent_verify.py /mnt/data/WarioWare_TR_Toolkit_v2/references/font_base /mnt/data/WarioWare_TR_Toolkit_v2/references/font_user_patch /mnt/data/WarioWare_TR_Toolkit_v2/PATCH_READY_TECHNICAL/romfs/Font --report-dir /mnt/data/WarioWare_TR_Toolkit_v2/reports/font_v5
+
+$ /opt/pyvenv/bin/python /mnt/data/WarioWare_TR_Toolkit_v2/tools/bffnt_preserve_user_v5.py /mnt/data/WarioWare_TR_Toolkit_v2/references/font_base /mnt/data/WarioWare_TR_Toolkit_v2/references/font_user_patch /tmp/wario_font_v5_qpqtd7cl
+Font deterministic rebuild byte-identical: 3/3
+
+$ /opt/pyvenv/bin/python /mnt/data/WarioWare_TR_Toolkit_v2/tools/msbt_batch_inject.py /mnt/data/WarioWare_TR_Toolkit_v2/PATCH_READY_TECHNICAL/romfs/Message/EU/EUen /mnt/data/WarioWare_TR_Toolkit_v2/comparison_csv /tmp/warioware_batch_verify_4emfez8c/msbt --column TR
+CSV reinjection byte-identical: 51/51
+Forbidden XMSBT/XML files: 0
+
+ALL TECHNICAL CHECKS PASSED.

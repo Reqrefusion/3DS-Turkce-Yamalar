@@ -1,0 +1,21 @@
+WarioWare TR Toolkit v2
+======================
+
+FONT STATUS: v5 Preserve User
+- v1/v4 FONTLARI KULLANMA.
+- Kullanıcının çalışan Türkçe glif indeksleri ve bitmapleri korunuyor.
+- 3/3 font bağımsız doğrulamadan PASS.
+- Tek CWDH + tek CMAP, 4 fiziksel blok.
+- CWDH max index kapsamı temiz.
+- Orijinal base codepoint eksikliği: 0.
+- Türkçe kullanıcı-glif uyuşmazlığı: 0.
+- Deterministik rebuild: 3/3 byte-identical.
+
+MSBT STATUS
+- 51/51 MSBT teknik olarak geçerli.
+- 6.037 metin round-trip doğrulamasında geçerli.
+- XMSBT/XML kullanılmıyor.
+
+SEMANTIC TRANSLATION STATUS
+- Teknik sağlamlık = çeviri anlam doğruluğu değildir.
+- Derin manuel çeviri/espri denetimi devam ediyor.
