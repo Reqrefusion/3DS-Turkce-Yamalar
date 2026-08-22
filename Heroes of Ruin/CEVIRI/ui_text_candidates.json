@@ -1,0 +1,5205 @@
+{
+  "format": "Heroes of Ruin BCLYT txt1 candidate bundle",
+  "notes": [
+    "These are static/default txt1 strings inside UI layouts. Many are placeholders or runtime keys.",
+    "Translate only strings you confirm are visible in-game. Never translate runtime_key_do_not_translate entries.",
+    "Build writes only entries whose text differs from source."
+  ],
+  "archives_scanned": 115,
+  "bclyt_files_scanned": 399,
+  "entries": [
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 10,
+      "pane_name": "TextBox_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-100",
+      "text": "-100"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 14,
+      "pane_name": "TextBox_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-90",
+      "text": "-90"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 18,
+      "pane_name": "TextBox_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-80",
+      "text": "-80"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 22,
+      "pane_name": "TextBox_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-70",
+      "text": "-70"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 26,
+      "pane_name": "TextBox_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-60",
+      "text": "-60"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 30,
+      "pane_name": "TextBox_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-50",
+      "text": "-50"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 34,
+      "pane_name": "TextBox_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-40",
+      "text": "-40"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 38,
+      "pane_name": "TextBox_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-30",
+      "text": "-30"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 42,
+      "pane_name": "TextBox_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-20",
+      "text": "-20"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 46,
+      "pane_name": "TextBox_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-10",
+      "text": "-10"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 50,
+      "pane_name": "TextBox_000",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 54,
+      "pane_name": "TextBox_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "2",
+      "text": "2"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 58,
+      "pane_name": "TextBox_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "4",
+      "text": "4"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 62,
+      "pane_name": "TextBox_12",
+      "classification": "literal_candidate_review_in_game",
+      "source": "6",
+      "text": "6"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 66,
+      "pane_name": "TextBox_13",
+      "classification": "literal_candidate_review_in_game",
+      "source": "8",
+      "text": "8"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 70,
+      "pane_name": "TextBox_14",
+      "classification": "literal_candidate_review_in_game",
+      "source": "10",
+      "text": "10"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 74,
+      "pane_name": "TextBox_15",
+      "classification": "literal_candidate_review_in_game",
+      "source": "12",
+      "text": "12"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 78,
+      "pane_name": "TextBox_16",
+      "classification": "literal_candidate_review_in_game",
+      "source": "14",
+      "text": "14"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 82,
+      "pane_name": "TextBox_17",
+      "classification": "literal_candidate_review_in_game",
+      "source": "16",
+      "text": "16"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 86,
+      "pane_name": "TextBox_18",
+      "classification": "literal_candidate_review_in_game",
+      "source": "18",
+      "text": "18"
+    },
+    {
+      "archive": "3dtest.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 90,
+      "pane_name": "TextBox_19",
+      "classification": "literal_candidate_review_in_game",
+      "source": "20",
+      "text": "20"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/accountMenu.bclyt",
+      "section_index": 43,
+      "pane_name": "AMLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ConnectingToEidos%%",
+      "text": "%%UI_ConnectingToEidos%%"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_1.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_0.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_1.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_2.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "2",
+      "text": "2"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_3.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "3",
+      "text": "3"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_4.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "4",
+      "text": "4"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_5.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "5",
+      "text": "5"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_6.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "6",
+      "text": "6"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_7.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "7",
+      "text": "7"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_8.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "8",
+      "text": "8"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_numPad_9.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "9",
+      "text": "9"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_options.bclyt",
+      "section_index": 12,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Btn Text",
+      "text": "Btn Text"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/btn_simple.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Text",
+      "text": "Text"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/cBox_options.bclyt",
+      "section_index": 13,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "CBox Text",
+      "text": "CBox Text"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/eidosConnectScreen.bclyt",
+      "section_index": 10,
+      "pane_name": "EC_Desc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_GetEidosConnectCode%%",
+      "text": "%%UI_GetEidosConnectCode%%"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/numBox_eidosConnect.bclyt",
+      "section_index": 17,
+      "pane_name": "NumBox_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "-",
+      "text": "-"
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/pg_accountOptIn.bclyt",
+      "section_index": 24,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/pg_eidosConnect.bclyt",
+      "section_index": 18,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/pg_numCodeEntry.bclyt",
+      "section_index": 36,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "accountsettings.arc_",
+      "bclyt_path": "blyt/pg_qrCodeEntry.bclyt",
+      "section_index": 17,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 9,
+      "pane_name": "NS_CoName",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Company_nSpace%%",
+      "text": "%%Credits_Company_nSpace%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 15,
+      "pane_name": "NS_01a_T",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_GameProducer%%",
+      "text": "%%Credits_Title_GameProducer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 16,
+      "pane_name": "NS_01a_N",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_GameProducer%%",
+      "text": "%%Credits_Names_GameProducer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 20,
+      "pane_name": "NS_01b_T",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_ExecutiveProducer%%",
+      "text": "%%Credits_Title_ExecutiveProducer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 21,
+      "pane_name": "NS_01b_N",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_ExecutiveProducer%%",
+      "text": "%%Credits_Names_ExecutiveProducer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 25,
+      "pane_name": "NS_01c_T",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_ProjectManager%%",
+      "text": "%%Credits_Title_ProjectManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 26,
+      "pane_name": "NS_01c_N",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_ProjectManager%%",
+      "text": "%%Credits_Names_ProjectManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 33,
+      "pane_name": "Credits_Title_1",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadDesigner%%",
+      "text": "%%Credits_Title_LeadDesigner%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 34,
+      "pane_name": "Credits_Names_1",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadDesigner%%",
+      "text": "%%Credits_Names_LeadDesigner%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 38,
+      "pane_name": "Credits_Title_2",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Designers%%",
+      "text": "%%Credits_Title_Designers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 39,
+      "pane_name": "Credits_Names_2",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Designers%%",
+      "text": "%%Credits_Names_Designers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 43,
+      "pane_name": "Credits_Title_3",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalDesign%%",
+      "text": "%%Credits_Title_AdditionalDesign%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 44,
+      "pane_name": "Credits_Names_3",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalDesign%%",
+      "text": "%%Credits_Names_AdditionalDesign%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 51,
+      "pane_name": "Credits_Title_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadEngineer%%",
+      "text": "%%Credits_Title_LeadEngineer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 52,
+      "pane_name": "Credits_Names_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadEngineer%%",
+      "text": "%%Credits_Names_LeadEngineer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 56,
+      "pane_name": "Credits_Title_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Engineers%%",
+      "text": "%%Credits_Title_Engineers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 57,
+      "pane_name": "Credits_Names_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Engineers%%",
+      "text": "%%Credits_Names_Engineers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 64,
+      "pane_name": "Credits_Title_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalEngineering%%",
+      "text": "%%Credits_Title_AdditionalEngineering%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 65,
+      "pane_name": "Credits_Names_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalEngineering%%",
+      "text": "%%Credits_Names_AdditionalEngineering%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 69,
+      "pane_name": "Credits_Title_06",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_ReactGames%%",
+      "text": "%%Credits_Title_ReactGames%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 70,
+      "pane_name": "Credits_Names_06",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_ReactGames%%",
+      "text": "%%Credits_Names_ReactGames%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 77,
+      "pane_name": "Credits_Title_03",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_ArtDirector%%",
+      "text": "%%Credits_Title_ArtDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 78,
+      "pane_name": "Credits_Names_03",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_ArtDirector%%",
+      "text": "%%Credits_Names_ArtDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 82,
+      "pane_name": "Credits_Title_04",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_ConceptArtists%%",
+      "text": "%%Credits_Title_ConceptArtists%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 83,
+      "pane_name": "Credits_Names_04",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_ConceptArtists%%",
+      "text": "%%Credits_Names_ConceptArtists%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 87,
+      "pane_name": "Credits_Title_05",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalConcept%%",
+      "text": "%%Credits_Title_AdditionalConcept%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 88,
+      "pane_name": "Credits_Names_05",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalConcept%%",
+      "text": "%%Credits_Names_AdditionalConcept%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 95,
+      "pane_name": "Credits_Title_07",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadWorldBuilder%%",
+      "text": "%%Credits_Title_LeadWorldBuilder%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 96,
+      "pane_name": "Credits_Names_07",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadWorldBuilder%%",
+      "text": "%%Credits_Names_LeadWorldBuilder%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 100,
+      "pane_name": "Credits_Title_08",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_WorldBuilders%%",
+      "text": "%%Credits_Title_WorldBuilders%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 101,
+      "pane_name": "Credits_Names_08",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_WorldBuilders%%",
+      "text": "%%Credits_Names_WorldBuilders%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 108,
+      "pane_name": "Credits_Title_11",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadCharacterModeler%%",
+      "text": "%%Credits_Title_LeadCharacterModeler%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 109,
+      "pane_name": "Credits_Names_11",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadCharacterModeler%%",
+      "text": "%%Credits_Names_LeadCharacterModeler%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 113,
+      "pane_name": "Credits_Title_09",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_CharacterModelers%%",
+      "text": "%%Credits_Title_CharacterModelers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 114,
+      "pane_name": "Credits_Names_09",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_CharacterModelers%%",
+      "text": "%%Credits_Names_CharacterModelers%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 118,
+      "pane_name": "Credits_Title_12",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadAnimator%%",
+      "text": "%%Credits_Title_LeadAnimator%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 119,
+      "pane_name": "Credits_Names_12",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadAnimator%%",
+      "text": "%%Credits_Names_LeadAnimator%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 123,
+      "pane_name": "Credits_Title_10",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Animators%%",
+      "text": "%%Credits_Title_Animators%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 124,
+      "pane_name": "Credits_Names_10",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Animators%%",
+      "text": "%%Credits_Names_Animators%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 131,
+      "pane_name": "Credits_Title_13",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadEffectsArtist%%",
+      "text": "%%Credits_Title_LeadEffectsArtist%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 132,
+      "pane_name": "Credits_Names_13",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadEffectsArtist%%",
+      "text": "%%Credits_Names_LeadEffectsArtist%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 136,
+      "pane_name": "Credits_Title_14",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalEffects%%",
+      "text": "%%Credits_Title_AdditionalEffects%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 137,
+      "pane_name": "Credits_Names_14",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalEffects%%",
+      "text": "%%Credits_Names_AdditionalEffects%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 141,
+      "pane_name": "Credits_Title_15",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_UIArtist%%",
+      "text": "%%Credits_Title_UIArtist%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 142,
+      "pane_name": "Credits_Names_15",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_UIArtist%%",
+      "text": "%%Credits_Names_UIArtist%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 149,
+      "pane_name": "Credits_Title_16",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AudioEngineer%%",
+      "text": "%%Credits_Title_AudioEngineer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 150,
+      "pane_name": "Credits_Names_16",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AudioEngineer%%",
+      "text": "%%Credits_Names_AudioEngineer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 154,
+      "pane_name": "Credits_Title_53",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalSound%%",
+      "text": "%%Credits_Title_AdditionalSound%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 155,
+      "pane_name": "Credits_Names_51",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalSound%%",
+      "text": "%%Credits_Names_AdditionalSound%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 159,
+      "pane_name": "Credits_Title_17",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadQA%%",
+      "text": "%%Credits_Title_LeadQA%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 160,
+      "pane_name": "Credits_Names_17",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadQA%%",
+      "text": "%%Credits_Names_LeadQA%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 164,
+      "pane_name": "Credits_Title_18",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QATesters%%",
+      "text": "%%Credits_Title_QATesters%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 165,
+      "pane_name": "Credits_Names_18",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QATesters%%",
+      "text": "%%Credits_Names_QATesters%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 172,
+      "pane_name": "Credits_Title_19",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_StudioCreativeDirector%%",
+      "text": "%%Credits_Title_StudioCreativeDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 173,
+      "pane_name": "Credits_Names_19",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_StudioCreativeDirector%%",
+      "text": "%%Credits_Names_StudioCreativeDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 177,
+      "pane_name": "Credits_Title_20",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_President%%",
+      "text": "%%Credits_Title_President%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 178,
+      "pane_name": "Credits_Names_20",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_President%%",
+      "text": "%%Credits_Names_President%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 185,
+      "pane_name": "Credits_Title_21",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_nSpaceSpecialThanks%%",
+      "text": "%%Credits_Title_nSpaceSpecialThanks%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 186,
+      "pane_name": "Credits_Names_21",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_nSpaceSpecialThanks%%",
+      "text": "%%Credits_Names_nSpaceSpecialThanks%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 193,
+      "pane_name": "Credits_Title_22",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AdditionalModelingAndAnimation%%",
+      "text": "%%Credits_Title_AdditionalModelingAndAnimation%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 194,
+      "pane_name": "Credits_Names_22",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AdditionalModelingAndAnimation%%",
+      "text": "%%Credits_Names_AdditionalModelingAndAnimation%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 199,
+      "pane_name": "Credits_Company",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Company_SquareEnixEurope%%",
+      "text": "%%Credits_Company_SquareEnixEurope%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 205,
+      "pane_name": "Credits_Title_23",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_HeadOfLocalisation%%",
+      "text": "%%Credits_Title_HeadOfLocalisation%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 206,
+      "pane_name": "Credits_Names_23",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_HeadOfLocalisation%%",
+      "text": "%%Credits_Names_HeadOfLocalisation%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 210,
+      "pane_name": "Credits_Title_24",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LocalisationManager%%",
+      "text": "%%Credits_Title_LocalisationManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 211,
+      "pane_name": "Credits_Names_24",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LocalisationManager%%",
+      "text": "%%Credits_Names_LocalisationManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 215,
+      "pane_name": "Credits_Title_25",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LocalisationQASupervisor%%",
+      "text": "%%Credits_Title_LocalisationQASupervisor%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 216,
+      "pane_name": "Credits_Names_25",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LocalisationQASupervisor%%",
+      "text": "%%Credits_Names_LocalisationQASupervisor%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 220,
+      "pane_name": "Credits_Title_4",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_HeadOfQA%%",
+      "text": "%%Credits_Title_HeadOfQA%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 221,
+      "pane_name": "Credits_Names_4",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_HeadOfQA%%",
+      "text": "%%Credits_Names_HeadOfQA%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 228,
+      "pane_name": "Credits_Title_26",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_MasteringManager%%",
+      "text": "%%Credits_Title_MasteringManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 229,
+      "pane_name": "Credits_Names_26",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_MasteringManager%%",
+      "text": "%%Credits_Names_MasteringManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 233,
+      "pane_name": "Credits_Title_27",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QAProjectManager%%",
+      "text": "%%Credits_Title_QAProjectManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 234,
+      "pane_name": "Credits_Names_27",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QAProjectManager%%",
+      "text": "%%Credits_Names_QAProjectManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 238,
+      "pane_name": "Credits_Title_28",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QAManager%%",
+      "text": "%%Credits_Title_QAManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 239,
+      "pane_name": "Credits_Names_28",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QAManager%%",
+      "text": "%%Credits_Names_QAManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 243,
+      "pane_name": "Credits_Title_29",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QAMaster%%",
+      "text": "%%Credits_Title_QAMaster%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 244,
+      "pane_name": "Credits_Names_29",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QAMaster%%",
+      "text": "%%Credits_Names_QAMaster%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 251,
+      "pane_name": "Credits_Title_30",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_LeadQA%%",
+      "text": "%%Credits_Title_LeadQA%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 252,
+      "pane_name": "Credits_Names_30",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_LeadQA_SEE%%",
+      "text": "%%Credits_Names_LeadQA_SEE%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 256,
+      "pane_name": "Credits_Title_31",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QATesters%%",
+      "text": "%%Credits_Title_QATesters%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 257,
+      "pane_name": "Credits_Names_31",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QATesters_SEE%%",
+      "text": "%%Credits_Names_QATesters_SEE%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 264,
+      "pane_name": "Credits_Title_34",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QACompSupervisor%%",
+      "text": "%%Credits_Title_QACompSupervisor%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 265,
+      "pane_name": "Credits_Names_34",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QACompSupervisor%%",
+      "text": "%%Credits_Names_QACompSupervisor%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 269,
+      "pane_name": "Credits_Title_35",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_QACompTeam%%",
+      "text": "%%Credits_Title_QACompTeam%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 270,
+      "pane_name": "Credits_Names_35",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_QACompTeam%%",
+      "text": "%%Credits_Names_QACompTeam%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 274,
+      "pane_name": "Credits_Title_36",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Thanks_SEE%%",
+      "text": "%%Credits_Title_Thanks_SEE%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 275,
+      "pane_name": "Credits_Names_36",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Thanks_SEE%%",
+      "text": "%%Credits_Names_Thanks_SEE%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 280,
+      "pane_name": "Credits_Compa_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Company_SquareEnixLondon%%",
+      "text": "%%Credits_Company_SquareEnixLondon%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 286,
+      "pane_name": "Credits_Title_41",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_GeneralManager%%",
+      "text": "%%Credits_Title_GeneralManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 287,
+      "pane_name": "Credits_Names_41",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_GeneralManager%%",
+      "text": "%%Credits_Names_GeneralManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 291,
+      "pane_name": "Credits_Title_42",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_DevelopmentDirector%%",
+      "text": "%%Credits_Title_DevelopmentDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 292,
+      "pane_name": "Credits_Names_42",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_DevelopmentDirector%%",
+      "text": "%%Credits_Names_DevelopmentDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 296,
+      "pane_name": "Credits_Title_43",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Producer%%",
+      "text": "%%Credits_Title_Producer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 297,
+      "pane_name": "Credits_Names_43",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Producer%%",
+      "text": "%%Credits_Names_Producer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 301,
+      "pane_name": "Credits_Title_44",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Designer%%",
+      "text": "%%Credits_Title_Designer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 302,
+      "pane_name": "Credits_Names_44",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_Designer%%",
+      "text": "%%Credits_Names_Designer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 309,
+      "pane_name": "Credits_Title_45",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_BrandDirector%%",
+      "text": "%%Credits_Title_BrandDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 310,
+      "pane_name": "Credits_Names_45",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_BrandDirector%%",
+      "text": "%%Credits_Names_BrandDirector%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 314,
+      "pane_name": "Credits_Title_46",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_SeniorBrandManager%%",
+      "text": "%%Credits_Title_SeniorBrandManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 315,
+      "pane_name": "Credits_Names_46",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_SeniorBrandManager%%",
+      "text": "%%Credits_Names_SeniorBrandManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 319,
+      "pane_name": "Credits_Title_47",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_AssistantBrandManager%%",
+      "text": "%%Credits_Title_AssistantBrandManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 320,
+      "pane_name": "Credits_Names_47",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_AssistantBrandManager%%",
+      "text": "%%Credits_Names_AssistantBrandManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 324,
+      "pane_name": "Credits_Title_48",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_BrandDesignManager%%",
+      "text": "%%Credits_Title_BrandDesignManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 325,
+      "pane_name": "Credits_Names_48",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_BrandDesignManager%%",
+      "text": "%%Credits_Names_BrandDesignManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 332,
+      "pane_name": "Credits_Title_49",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_FinancialController%%",
+      "text": "%%Credits_Title_FinancialController%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 333,
+      "pane_name": "Credits_Names_49",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_FinancialController%%",
+      "text": "%%Credits_Names_FinancialController%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 337,
+      "pane_name": "Credits_Title_50",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Community Manager%%",
+      "text": "%%Credits_Title_Community Manager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 338,
+      "pane_name": "Credits_Names_50",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_CommunityManager%%",
+      "text": "%%Credits_Names_CommunityManager%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 342,
+      "pane_name": "Credits_Title_40",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_MusicComposer%%",
+      "text": "%%Credits_Title_MusicComposer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 343,
+      "pane_name": "Credits_Names_40",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Names_MusicComposer%%",
+      "text": "%%Credits_Names_MusicComposer%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 348,
+      "pane_name": "Credits_Compa_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Company_Middleware%%",
+      "text": "%%Credits_Company_Middleware%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 351,
+      "pane_name": "Credits_Title_51",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_Wwise%%",
+      "text": "%%Credits_Title_Wwise%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 355,
+      "pane_name": "Credits_Title_52",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Credits_Title_JuryRig%%",
+      "text": "%%Credits_Title_JuryRig%%"
+    },
+    {
+      "archive": "aniscene_credits.arc_",
+      "bclyt_path": "blyt/scene_credits.bclyt",
+      "section_index": 360,
+      "pane_name": "Credits_Compa_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ThanksForPlaying%%",
+      "text": "%%UI_ThanksForPlaying%%"
+    },
+    {
+      "archive": "anisubtitle.arc_",
+      "bclyt_path": "blyt/aniSubtitle.bclyt",
+      "section_index": 7,
+      "pane_name": "AnimaticText",
+      "classification": "likely_template_or_placeholder",
+      "source": "< Subtitle >",
+      "text": "< Subtitle >"
+    },
+    {
+      "archive": "atlasscreen.arc_",
+      "bclyt_path": "blyt/atlasScreen.bclyt",
+      "section_index": 94,
+      "pane_name": "STBT_Title",
+      "classification": "likely_template_or_placeholder",
+      "source": "Zone Name",
+      "text": "Zone Name"
+    },
+    {
+      "archive": "atlasscreen.arc_",
+      "bclyt_path": "blyt/atlasScreen.bclyt",
+      "section_index": 95,
+      "pane_name": "STBT_Subtitle",
+      "classification": "likely_template_or_placeholder",
+      "source": "Area Name",
+      "text": "Area Name"
+    },
+    {
+      "archive": "atlasscreen.arc_",
+      "bclyt_path": "blyt/atlasScreen.bclyt",
+      "section_index": 101,
+      "pane_name": "STBB_Desc",
+      "classification": "likely_template_or_placeholder",
+      "source": "Area description goes here and will have multiple lines of text. Area description goes here and will have multiple lines of text.",
+      "text": "Area description goes here and will have multiple lines of text. Area description goes here and will have multiple lines of text."
+    },
+    {
+      "archive": "bootsequence.arc_",
+      "bclyt_path": "blyt/boot_btm.bclyt",
+      "section_index": 9,
+      "pane_name": "SE_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "SQUARE ENIX and the SQUARE ENIX logo are registered\ntrademarks or trademarks of Square Enix Holdings Co., Ltd",
+      "text": "SQUARE ENIX and the SQUARE ENIX logo are registered\ntrademarks or trademarks of Square Enix Holdings Co., Ltd"
+    },
+    {
+      "archive": "bootsequence.arc_",
+      "bclyt_path": "blyt/boot_btm.bclyt",
+      "section_index": 13,
+      "pane_name": "nS_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "n-Space logo is a registered trademark of n-Space Inc.",
+      "text": "n-Space logo is a registered trademark of n-Space Inc."
+    },
+    {
+      "archive": "debugscreen.arc_",
+      "bclyt_path": "blyt/debugScreen.bclyt",
+      "section_index": 5,
+      "pane_name": "FPS_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "FPS",
+      "text": "FPS"
+    },
+    {
+      "archive": "debugscreen.arc_",
+      "bclyt_path": "blyt/debugScreen.bclyt",
+      "section_index": 6,
+      "pane_name": "CPU_GPU_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "CPU/GPU",
+      "text": "CPU/GPU"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitMenu.bclyt",
+      "section_index": 12,
+      "pane_name": "btn_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Touch to Cancel",
+      "text": "Touch to Cancel"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 12,
+      "pane_name": "ExitTimer_5",
+      "classification": "literal_candidate_review_in_game",
+      "source": "5",
+      "text": "5"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 13,
+      "pane_name": "ExitTimer_4",
+      "classification": "literal_candidate_review_in_game",
+      "source": "4",
+      "text": "4"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 14,
+      "pane_name": "ExitTimer_3",
+      "classification": "literal_candidate_review_in_game",
+      "source": "3",
+      "text": "3"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 15,
+      "pane_name": "ExitTimer_2",
+      "classification": "literal_candidate_review_in_game",
+      "source": "2",
+      "text": "2"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 16,
+      "pane_name": "ExitTimer_1",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 18,
+      "pane_name": "leavingFor",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Leaving for",
+      "text": "Leaving for"
+    },
+    {
+      "archive": "exitui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 19,
+      "pane_name": "nextLevel_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level Name",
+      "text": "Level Name"
+    },
+    {
+      "archive": "extradata.arc_",
+      "bclyt_path": "blyt/extraData.bclyt",
+      "section_index": 7,
+      "pane_name": "ExtraText",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ExtraData%%",
+      "text": "%%UI_ExtraData%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_1.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_2.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_3.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_4.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendBox.bclyt",
+      "section_index": 15,
+      "pane_name": "FriendBox_Rank",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Brother in Arms",
+      "text": "Brother in Arms"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendBox.bclyt",
+      "section_index": 18,
+      "pane_name": "FriendBox_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Player Name",
+      "text": "Player Name"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 15,
+      "pane_name": "tMeter_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TotalFriendshipLevel%%",
+      "text": "%%UI_TotalFriendshipLevel%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 41,
+      "pane_name": "Reward_All",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%Alliance_Rank10%%",
+      "text": "%%Alliance_Rank10%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 47,
+      "pane_name": "totalTime_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TotalTimePlayed%%",
+      "text": "%%UI_TotalTimePlayed%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 52,
+      "pane_name": "lastTime_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LastTimePlayed%%",
+      "text": "%%UI_LastTimePlayed%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 57,
+      "pane_name": "lastQuest_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LastCompletedQuest%%",
+      "text": "%%UI_LastCompletedQuest%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 62,
+      "pane_name": "character_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LastKnownCharacter%%",
+      "text": "%%UI_LastKnownCharacter%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 67,
+      "pane_name": "class_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LastKnownClass%%",
+      "text": "%%UI_LastKnownClass%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 72,
+      "pane_name": "level_t",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LastKnownLevel%%",
+      "text": "%%UI_LastKnownLevel%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 82,
+      "pane_name": "Reward_Locked",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Locked_CAP%%",
+      "text": "%%UI_Locked_CAP%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 83,
+      "pane_name": "Reward_Unlocked",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Unlocked_CAP%%",
+      "text": "%%UI_Unlocked_CAP%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendLevelScreen.bclyt",
+      "section_index": 84,
+      "pane_name": "Reward_Active",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Active_CAP%%",
+      "text": "%%UI_Active_CAP%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/friendsMenu.bclyt",
+      "section_index": 39,
+      "pane_name": "FMJF_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ConnectingToGame%%",
+      "text": "%%UI_ConnectingToGame%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/list_friends.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoFriends%%",
+      "text": "%%UI_List_NoFriends%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/list_friends.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/list_friends.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "friendsmenu.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 9,
+      "pane_name": "SkillBox_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill Name of Great\nLength",
+      "text": "Skill Name of Great\nLength"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/atlasBox.bclyt",
+      "section_index": 11,
+      "pane_name": "Zone_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Zone name",
+      "text": "Zone name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/body_list.bclyt",
+      "section_index": 17,
+      "pane_name": "empty_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "No items.",
+      "text": "No items."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_HID_potionVendor.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Potion Type",
+      "text": "Potion Type"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_HID_simple.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Custom Zone",
+      "text": "Custom Zone"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_HID_statUpgrade.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Stat",
+      "text": "Stat"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_1.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_2.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_3.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_4.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_skill.bclyt",
+      "section_index": 13,
+      "pane_name": "Skill_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill Name",
+      "text": "Skill Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_skill.bclyt",
+      "section_index": 23,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_partyMember.bclyt",
+      "section_index": 11,
+      "pane_name": "Btn_Text_Open",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Open%%",
+      "text": "%%UI_Open%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_partyMember.bclyt",
+      "section_index": 27,
+      "pane_name": "Player_Level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_partyMember.bclyt",
+      "section_index": 40,
+      "pane_name": "Player_Class",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Class",
+      "text": "Class"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_partyMember.bclyt",
+      "section_index": 42,
+      "pane_name": "Player_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Player Name",
+      "text": "Player Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_partyMember.bclyt",
+      "section_index": 48,
+      "pane_name": "Btn_Text_Locked",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Locked%%",
+      "text": "%%UI_Locked%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_1.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_2.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_3.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_3_new.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_4.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_4_new.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree1.bclyt",
+      "section_index": 11,
+      "pane_name": "Skill_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree1.bclyt",
+      "section_index": 19,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree2.bclyt",
+      "section_index": 11,
+      "pane_name": "Skill_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree2.bclyt",
+      "section_index": 19,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree3.bclyt",
+      "section_index": 11,
+      "pane_name": "Skill_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_tree3.bclyt",
+      "section_index": 19,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_simple.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Text",
+      "text": "Text"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_simple_invite.bclyt",
+      "section_index": 11,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Text",
+      "text": "Text"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_skillMap.bclyt",
+      "section_index": 9,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill Name",
+      "text": "Skill Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_tradeLobby.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Button name",
+      "text": "Button name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/btn_tradeLobby.bclyt",
+      "section_index": 22,
+      "pane_name": "Trade_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/buffBox.bclyt",
+      "section_index": 12,
+      "pane_name": "Buff_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "This is a buff name w/\ntwo lines",
+      "text": "This is a buff name w/\ntwo lines"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/buffBox.bclyt",
+      "section_index": 13,
+      "pane_name": "Buff_Stack",
+      "classification": "literal_candidate_review_in_game",
+      "source": "x9",
+      "text": "x9"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/cBox_questLog.bclyt",
+      "section_index": 6,
+      "pane_name": "Objective_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "CBox Text",
+      "text": "CBox Text"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 37,
+      "pane_name": "stat_name_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Might%%",
+      "text": "%%StatName_Might%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 38,
+      "pane_name": "stat_value_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 43,
+      "pane_name": "stat_name_03",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Vigor%%",
+      "text": "%%StatName_Vigor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 44,
+      "pane_name": "stat_value_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 49,
+      "pane_name": "stat_name_06",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Soul%%",
+      "text": "%%StatName_Soul%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 50,
+      "pane_name": "stat_value_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 55,
+      "pane_name": "stat_name_09",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Armor%%",
+      "text": "%%StatName_Armor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 56,
+      "pane_name": "stat_value_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 61,
+      "pane_name": "stat_name_10",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Luck%%",
+      "text": "%%StatName_Luck%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 62,
+      "pane_name": "stat_value_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 67,
+      "pane_name": "stat_name_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_WeaponDamage%%",
+      "text": "%%StatName_WeaponDamage%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 68,
+      "pane_name": "stat_value_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 73,
+      "pane_name": "stat_name_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_AttackPower%%",
+      "text": "%%StatName_AttackPower%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 74,
+      "pane_name": "stat_value_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 79,
+      "pane_name": "stat_name_11",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_CriticalStrike%%",
+      "text": "%%StatName_CriticalStrike%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 80,
+      "pane_name": "stat_value_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 85,
+      "pane_name": "stat_name_04",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxHealth%%",
+      "text": "%%StatName_MaxHealth%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 86,
+      "pane_name": "stat_value_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 91,
+      "pane_name": "stat_name_05",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_HealthRegen%%",
+      "text": "%%StatName_HealthRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 92,
+      "pane_name": "stat_value_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 97,
+      "pane_name": "stat_name_07",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxEnergy%%",
+      "text": "%%StatName_MaxEnergy%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 98,
+      "pane_name": "stat_value_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 103,
+      "pane_name": "stat_name_08",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_EnergyRegen%%",
+      "text": "%%StatName_EnergyRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 104,
+      "pane_name": "stat_value_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 114,
+      "pane_name": "stat_mod_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 116,
+      "pane_name": "stat_mod_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 118,
+      "pane_name": "stat_mod_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 120,
+      "pane_name": "stat_mod_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 122,
+      "pane_name": "stat_mod_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 124,
+      "pane_name": "stat_mod_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 126,
+      "pane_name": "stat_mod_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 128,
+      "pane_name": "stat_mod_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 130,
+      "pane_name": "stat_mod_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 132,
+      "pane_name": "stat_mod_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 134,
+      "pane_name": "stat_mod_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 136,
+      "pane_name": "stat_mod_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 144,
+      "pane_name": "title_className",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_PlayerName%%",
+      "text": "%%UI_PlayerName%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/characterSheet.bclyt",
+      "section_index": 145,
+      "pane_name": "title_experience",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1000/1000",
+      "text": "1000/1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/dialogueBox.bclyt",
+      "section_index": 10,
+      "pane_name": "db_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "textField",
+      "text": "textField"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/dungeonInfo.bclyt",
+      "section_index": 15,
+      "pane_name": "dBanner_zone",
+      "classification": "likely_template_or_placeholder",
+      "source": "Zone Name",
+      "text": "Zone Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/dungeonInfo.bclyt",
+      "section_index": 16,
+      "pane_name": "dBanner_area",
+      "classification": "likely_template_or_placeholder",
+      "source": "Area Name",
+      "text": "Area Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/dungeonInfo.bclyt",
+      "section_index": 26,
+      "pane_name": "dComplete_area",
+      "classification": "likely_template_or_placeholder",
+      "source": "Area Name",
+      "text": "Area Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/dungeonInfo.bclyt",
+      "section_index": 28,
+      "pane_name": "dComplete_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_DungeonComplete%%",
+      "text": "%%UI_DungeonComplete%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/equipmentBox.bclyt",
+      "section_index": 9,
+      "pane_name": "Item_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Item Name of Great\nLength and Fire",
+      "text": "Item Name of Great\nLength and Fire"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/equipmentBox.bclyt",
+      "section_index": 12,
+      "pane_name": "Equipment_Name",
+      "classification": "literal_candidate_review_in_game",
+      "source": "ALL ITEMS",
+      "text": "ALL ITEMS"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/equipmentBox.bclyt",
+      "section_index": 17,
+      "pane_name": "Equipment_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/equipmentBox.bclyt",
+      "section_index": 20,
+      "pane_name": "Equipped_Name",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%EquipmentZone_Equipped%%",
+      "text": "%%EquipmentZone_Equipped%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/equipmentBox.bclyt",
+      "section_index": 25,
+      "pane_name": "Equipped_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/exitMenu.bclyt",
+      "section_index": 12,
+      "pane_name": "ExitM_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_CancelExitMenu%%",
+      "text": "%%UI_CancelExitMenu%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 12,
+      "pane_name": "ExitS_Leaving",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_LeavingForLevel%%",
+      "text": "%%UI_LeavingForLevel%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 13,
+      "pane_name": "ExitS_Level",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level Name",
+      "text": "Level Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/exitScreen.bclyt",
+      "section_index": 14,
+      "pane_name": "ExitS_Countdown",
+      "classification": "literal_candidate_review_in_game",
+      "source": "5",
+      "text": "5"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HID_potionVendor.bclyt",
+      "section_index": 13,
+      "pane_name": "HID_Value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "99",
+      "text": "99"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HID_potionVendor.bclyt",
+      "section_index": 19,
+      "pane_name": "HID_Value2",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HID_simple.bclyt",
+      "section_index": 13,
+      "pane_name": "HID_Value",
+      "classification": "likely_template_or_placeholder",
+      "source": "Custom Value",
+      "text": "Custom Value"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HID_statUpgrade.bclyt",
+      "section_index": 13,
+      "pane_name": "HID_Value2",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+0",
+      "text": "+0"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HID_statUpgrade.bclyt",
+      "section_index": 14,
+      "pane_name": "HID_Value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "999",
+      "text": "999"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 12,
+      "pane_name": "tb_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tutorial text goes here.",
+      "text": "Tutorial text goes here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 18,
+      "pane_name": "MPN_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "MP Notifications go here.",
+      "text": "MP Notifications go here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 24,
+      "pane_name": "sb_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Status effects go here.",
+      "text": "Status effects go here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 65,
+      "pane_name": "targetInfo_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Target Name - Target Characteristics",
+      "text": "Target Name - Target Characteristics"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 99,
+      "pane_name": "bossInfo_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Boss Name - Boss Characteristics",
+      "text": "Boss Name - Boss Characteristics"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 150,
+      "pane_name": "itemBox_title",
+      "classification": "likely_template_or_placeholder",
+      "source": "Great Item Test of\nReally Long Name",
+      "text": "Great Item Test of\nReally Long Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 153,
+      "pane_name": "itemBox_info",
+      "classification": "literal_candidate_review_in_game",
+      "source": "10000",
+      "text": "10000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 154,
+      "pane_name": "itemBox_class",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Vindicator",
+      "text": "Vindicator"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 155,
+      "pane_name": "itemBox_level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 162,
+      "pane_name": "StatBoxName_0",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 163,
+      "pane_name": "StatBoxValue_0",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 167,
+      "pane_name": "StatBoxName_1",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 168,
+      "pane_name": "StatBoxValue_1",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 172,
+      "pane_name": "StatBoxName_2",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 173,
+      "pane_name": "StatBoxValue_2",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 177,
+      "pane_name": "StatBoxName_3",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 178,
+      "pane_name": "StatBoxValue_3",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 182,
+      "pane_name": "StatBoxName_4",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 183,
+      "pane_name": "StatBoxValue_4",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 187,
+      "pane_name": "StatBoxName_5",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 188,
+      "pane_name": "StatBoxValue_5",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 192,
+      "pane_name": "StatBoxName_6",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 193,
+      "pane_name": "StatBoxValue_6",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 197,
+      "pane_name": "StatBoxName_7",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 198,
+      "pane_name": "StatBoxValue_7",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 202,
+      "pane_name": "StatBoxName_8",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 203,
+      "pane_name": "StatBoxValue_8",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 207,
+      "pane_name": "StatBoxName_9",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Might:",
+      "text": "Might:"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 208,
+      "pane_name": "StatBoxValue_9",
+      "classification": "literal_candidate_review_in_game",
+      "source": "+1000",
+      "text": "+1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 215,
+      "pane_name": "generalInfo_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Target Name - Target Characteristics",
+      "text": "Target Name - Target Characteristics"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 247,
+      "pane_name": "amt_mana",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 248,
+      "pane_name": "amt_health",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 256,
+      "pane_name": "qa_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_QuestAdded%%",
+      "text": "%%UI_QuestAdded%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 257,
+      "pane_name": "qa_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Quest Name",
+      "text": "Quest Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 258,
+      "pane_name": "qa_description",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here.  Quest description here.",
+      "text": "Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here. Quest description here.  Quest description here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 273,
+      "pane_name": "questItem_class",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Vindicator",
+      "text": "Vindicator"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 274,
+      "pane_name": "questItem_value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "10000",
+      "text": "10000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 275,
+      "pane_name": "questItem_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Great Item Test of\nReally Long Name",
+      "text": "Great Item Test of\nReally Long Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 279,
+      "pane_name": "questItem_level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 281,
+      "pane_name": "qc_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_QuestComplete%%",
+      "text": "%%UI_QuestComplete%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 282,
+      "pane_name": "qc_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Quest Name",
+      "text": "Quest Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 286,
+      "pane_name": "Reward_Gold",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1000",
+      "text": "1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 288,
+      "pane_name": "Reward_XP",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1000",
+      "text": "1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 293,
+      "pane_name": "Reward_ChalPoint",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1000",
+      "text": "1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 353,
+      "pane_name": "Death_Countdown",
+      "classification": "literal_candidate_review_in_game",
+      "source": "5",
+      "text": "5"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/HUD.bclyt",
+      "section_index": 355,
+      "pane_name": "Death_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_YouHaveDied%%",
+      "text": "%%UI_YouHaveDied%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/itemBox.bclyt",
+      "section_index": 9,
+      "pane_name": "Item_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Item Name ",
+      "text": "Item Name "
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/itemBox.bclyt",
+      "section_index": 15,
+      "pane_name": "Item_Class",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Class",
+      "text": "Class"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/itemBox.bclyt",
+      "section_index": 22,
+      "pane_name": "Item_Level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/itemBox.bclyt",
+      "section_index": 29,
+      "pane_name": "Item_Value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/joinMenu.bclyt",
+      "section_index": 9,
+      "pane_name": "FMJF_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ConnectingToGame%%",
+      "text": "%%UI_ConnectingToGame%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/joinScreen.bclyt",
+      "section_index": 11,
+      "pane_name": "MMSLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Joining%%",
+      "text": "%%UI_Joining%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_atlas.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoZones%%",
+      "text": "%%UI_List_NoZones%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_atlas.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_atlas.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventoryItems.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoItems%%",
+      "text": "%%UI_List_NoItems%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventoryItems.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventoryItems.bclyt",
+      "section_index": 42,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventorySlots.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoItems%%",
+      "text": "%%UI_List_NoItems%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventorySlots.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_inventorySlots.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_quests.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoQuests%%",
+      "text": "%%UI_List_NoQuests%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_quests.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_quests.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_skills.bclyt",
+      "section_index": 31,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_trade.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoItems%%",
+      "text": "%%UI_List_NoItems%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_trade.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_trade.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeItems.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoItems%%",
+      "text": "%%UI_List_NoItems%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeItems.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeItems.bclyt",
+      "section_index": 42,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeOffers.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoOffers%%",
+      "text": "%%UI_List_NoOffers%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeOffers.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_tradeOffers.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_vendor.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_List_NoItems%%",
+      "text": "%%UI_List_NoItems%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_vendor.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/list_vendor.bclyt",
+      "section_index": 42,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/offerBox.bclyt",
+      "section_index": 12,
+      "pane_name": "Offer_Count",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/offerBox.bclyt",
+      "section_index": 18,
+      "pane_name": "Offer_Value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/offerBox.bclyt",
+      "section_index": 22,
+      "pane_name": "Item_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Item Name of Great\nLength and Fire",
+      "text": "Item Name of Great\nLength and Fire"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pauseScreen.bclyt",
+      "section_index": 13,
+      "pane_name": "pauseText",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_GamePaused%%",
+      "text": "%%UI_GamePaused%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_finalizeOffer.bclyt",
+      "section_index": 18,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_partyMenu.bclyt",
+      "section_index": 18,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_potionVendor.bclyt",
+      "section_index": 18,
+      "pane_name": "Potion_Value",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0",
+      "text": "0"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_potionVendor.bclyt",
+      "section_index": 20,
+      "pane_name": "potionValue_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TotalValue%%",
+      "text": "%%UI_TotalValue%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_potionVendor.bclyt",
+      "section_index": 26,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_skillMap.bclyt",
+      "section_index": 18,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_statUpgrade.bclyt",
+      "section_index": 18,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/pg_tradeLobby.bclyt",
+      "section_index": 20,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questBox.bclyt",
+      "section_index": 11,
+      "pane_name": "Quest_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Quest name",
+      "text": "Quest name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 47,
+      "pane_name": "QRewards_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Reward%%",
+      "text": "%%UI_Reward%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 51,
+      "pane_name": "Locked_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Locked",
+      "text": "Locked"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 66,
+      "pane_name": "CRewards_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Reward%%",
+      "text": "%%UI_Reward%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 70,
+      "pane_name": "RTitle_Chal_W",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Challenge_Weekly%%",
+      "text": "%%UI_Challenge_Weekly%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 75,
+      "pane_name": "RTitle_Chal_D1",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Challenge_Daily1%%",
+      "text": "%%UI_Challenge_Daily1%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 80,
+      "pane_name": "RTitle_Chal_D2",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Challenge_Daily2%%",
+      "text": "%%UI_Challenge_Daily2%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 85,
+      "pane_name": "RTitle_Chal_D3",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Challenge_Daily3%%",
+      "text": "%%UI_Challenge_Daily3%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/questLogScreen.bclyt",
+      "section_index": 87,
+      "pane_name": "Challenge_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_WebChallenges%%",
+      "text": "%%UI_WebChallenges%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 12,
+      "pane_name": "SkillBox_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill Name of Great\nLength",
+      "text": "Skill Name of Great\nLength"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 22,
+      "pane_name": "SkillReq_Name_N",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NoPrereqSkill%%",
+      "text": "%%UI_NoPrereqSkill%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 27,
+      "pane_name": "SkillReq_Name_1",
+      "classification": "likely_template_or_placeholder",
+      "source": "Prereq skill",
+      "text": "Prereq skill"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 33,
+      "pane_name": "SkillReq_Name_2",
+      "classification": "likely_template_or_placeholder",
+      "source": "Prereq skill",
+      "text": "Prereq skill"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 42,
+      "pane_name": "SkillBox_Level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillBox.bclyt",
+      "section_index": 52,
+      "pane_name": "SkillDesc_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NextSkillRank%%",
+      "text": "%%UI_NextSkillRank%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_alchitect.bclyt",
+      "section_index": 31,
+      "pane_name": "tree_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tree Name",
+      "text": "Tree Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_alchitect.bclyt",
+      "section_index": 37,
+      "pane_name": "skill_desc",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here.",
+      "text": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_alchitect.bclyt",
+      "section_index": 38,
+      "pane_name": "skill_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Power Title",
+      "text": "Power Title"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_gunslinger.bclyt",
+      "section_index": 31,
+      "pane_name": "tree_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tree Name",
+      "text": "Tree Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_gunslinger.bclyt",
+      "section_index": 37,
+      "pane_name": "skill_desc",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here.",
+      "text": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_gunslinger.bclyt",
+      "section_index": 38,
+      "pane_name": "skill_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Power Title",
+      "text": "Power Title"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_justicar.bclyt",
+      "section_index": 31,
+      "pane_name": "tree_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tree Name",
+      "text": "Tree Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_justicar.bclyt",
+      "section_index": 37,
+      "pane_name": "skill_desc",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here.",
+      "text": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_justicar.bclyt",
+      "section_index": 38,
+      "pane_name": "skill_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Power Title",
+      "text": "Power Title"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_savage.bclyt",
+      "section_index": 31,
+      "pane_name": "tree_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tree Name",
+      "text": "Tree Name"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_savage.bclyt",
+      "section_index": 37,
+      "pane_name": "skill_desc",
+      "classification": "likely_template_or_placeholder",
+      "source": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here.",
+      "text": "Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here. Skill description goes here."
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/skillTree_savage.bclyt",
+      "section_index": 38,
+      "pane_name": "skill_name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Power Title",
+      "text": "Power Title"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 35,
+      "pane_name": "stat_name_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Might%%",
+      "text": "%%StatName_Might%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 36,
+      "pane_name": "stat_value_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 41,
+      "pane_name": "stat_name_03",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Vigor%%",
+      "text": "%%StatName_Vigor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 42,
+      "pane_name": "stat_value_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 47,
+      "pane_name": "stat_name_06",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Soul%%",
+      "text": "%%StatName_Soul%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 48,
+      "pane_name": "stat_value_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 53,
+      "pane_name": "stat_name_09",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Armor%%",
+      "text": "%%StatName_Armor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 54,
+      "pane_name": "stat_value_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 59,
+      "pane_name": "stat_name_10",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Luck%%",
+      "text": "%%StatName_Luck%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 60,
+      "pane_name": "stat_value_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 65,
+      "pane_name": "stat_name_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_WeaponDamage%%",
+      "text": "%%StatName_WeaponDamage%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 66,
+      "pane_name": "stat_value_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 71,
+      "pane_name": "stat_name_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_AttackPower%%",
+      "text": "%%StatName_AttackPower%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 72,
+      "pane_name": "stat_value_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 77,
+      "pane_name": "stat_name_11",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_CriticalStrike%%",
+      "text": "%%StatName_CriticalStrike%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 78,
+      "pane_name": "stat_value_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 83,
+      "pane_name": "stat_name_04",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxHealth%%",
+      "text": "%%StatName_MaxHealth%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 84,
+      "pane_name": "stat_value_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 89,
+      "pane_name": "stat_name_05",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_HealthRegen%%",
+      "text": "%%StatName_HealthRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 90,
+      "pane_name": "stat_value_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 95,
+      "pane_name": "stat_name_07",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxEnergy%%",
+      "text": "%%StatName_MaxEnergy%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 96,
+      "pane_name": "stat_value_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 101,
+      "pane_name": "stat_name_08",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_EnergyRegen%%",
+      "text": "%%StatName_EnergyRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 102,
+      "pane_name": "stat_value_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 112,
+      "pane_name": "stat_mod_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 114,
+      "pane_name": "stat_mod_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 116,
+      "pane_name": "stat_mod_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 118,
+      "pane_name": "stat_mod_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 120,
+      "pane_name": "stat_mod_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 122,
+      "pane_name": "stat_mod_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 124,
+      "pane_name": "stat_mod_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 126,
+      "pane_name": "stat_mod_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 128,
+      "pane_name": "stat_mod_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 130,
+      "pane_name": "stat_mod_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 132,
+      "pane_name": "stat_mod_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 134,
+      "pane_name": "stat_mod_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 155,
+      "pane_name": "TInfo_TB_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeTitle_PlayerTrading%%",
+      "text": "%%UI_TradeTitle_PlayerTrading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 156,
+      "pane_name": "TInfo_TB_TDesc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeDesc_PlayerTrading%%",
+      "text": "%%UI_TradeDesc_PlayerTrading%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 161,
+      "pane_name": "TInfo_TBOM_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeTitle_OnMarket%%",
+      "text": "%%UI_TradeTitle_OnMarket%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 162,
+      "pane_name": "TInfo_TBOM_Desc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeDesc_OnMarket%%",
+      "text": "%%UI_TradeDesc_OnMarket%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 167,
+      "pane_name": "TInfo_TBIO_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeTitle_IsOffered%%",
+      "text": "%%UI_TradeTitle_IsOffered%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 168,
+      "pane_name": "TInfo_TBIO_Desc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeDesc_IsOffered%%",
+      "text": "%%UI_TradeDesc_IsOffered%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 174,
+      "pane_name": "TInfo_TBHO_Title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeTitle_HasOffer%%",
+      "text": "%%UI_TradeTitle_HasOffer%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 175,
+      "pane_name": "TInfo_TBHO_Desc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TradeDesc_HasOffer%%",
+      "text": "%%UI_TradeDesc_HasOffer%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfoScreen.bclyt",
+      "section_index": 182,
+      "pane_name": "UI_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Description goes here",
+      "text": "Description goes here"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfo_item.bclyt",
+      "section_index": 22,
+      "pane_name": "emptyState_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NoItem%%",
+      "text": "%%UI_NoItem%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfo_me.bclyt",
+      "section_index": 12,
+      "pane_name": "Player_Class",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_PlayerClass%%",
+      "text": "%%UI_PlayerClass%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfo_me.bclyt",
+      "section_index": 13,
+      "pane_name": "Player_Name",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_PlayerName%%",
+      "text": "%%UI_PlayerName%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/tradeInfo_offer_item.bclyt",
+      "section_index": 19,
+      "pane_name": "emptyState_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NoItem%%",
+      "text": "%%UI_NoItem%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 35,
+      "pane_name": "stat_name_00",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Might%%",
+      "text": "%%StatName_Might%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 36,
+      "pane_name": "stat_value_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 41,
+      "pane_name": "stat_name_03",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Vigor%%",
+      "text": "%%StatName_Vigor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 42,
+      "pane_name": "stat_value_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 47,
+      "pane_name": "stat_name_06",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Soul%%",
+      "text": "%%StatName_Soul%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 48,
+      "pane_name": "stat_value_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 53,
+      "pane_name": "stat_name_09",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Armor%%",
+      "text": "%%StatName_Armor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 54,
+      "pane_name": "stat_value_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 59,
+      "pane_name": "stat_name_10",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Luck%%",
+      "text": "%%StatName_Luck%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 60,
+      "pane_name": "stat_value_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 65,
+      "pane_name": "stat_name_02",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_WeaponDamage%%",
+      "text": "%%StatName_WeaponDamage%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 66,
+      "pane_name": "stat_value_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 71,
+      "pane_name": "stat_name_01",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_AttackPower%%",
+      "text": "%%StatName_AttackPower%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 72,
+      "pane_name": "stat_value_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 77,
+      "pane_name": "stat_name_11",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_CriticalStrike%%",
+      "text": "%%StatName_CriticalStrike%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 78,
+      "pane_name": "stat_value_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 83,
+      "pane_name": "stat_name_04",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxHealth%%",
+      "text": "%%StatName_MaxHealth%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 84,
+      "pane_name": "stat_value_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 89,
+      "pane_name": "stat_name_05",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_HealthRegen%%",
+      "text": "%%StatName_HealthRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 90,
+      "pane_name": "stat_value_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 95,
+      "pane_name": "stat_name_07",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_MaxEnergy%%",
+      "text": "%%StatName_MaxEnergy%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 96,
+      "pane_name": "stat_value_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 101,
+      "pane_name": "stat_name_08",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_EnergyRegen%%",
+      "text": "%%StatName_EnergyRegen%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 102,
+      "pane_name": "stat_value_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 112,
+      "pane_name": "stat_mod_00",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 114,
+      "pane_name": "stat_mod_03",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 116,
+      "pane_name": "stat_mod_06",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 118,
+      "pane_name": "stat_mod_09",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 120,
+      "pane_name": "stat_mod_10",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 122,
+      "pane_name": "stat_mod_02",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 124,
+      "pane_name": "stat_mod_01",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 126,
+      "pane_name": "stat_mod_11",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 128,
+      "pane_name": "stat_mod_04",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 130,
+      "pane_name": "stat_mod_05",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 132,
+      "pane_name": "stat_mod_07",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 134,
+      "pane_name": "stat_mod_08",
+      "classification": "literal_candidate_review_in_game",
+      "source": "000-000",
+      "text": "000-000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 142,
+      "pane_name": "title_className",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_PlayerName%%",
+      "text": "%%UI_PlayerName%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 143,
+      "pane_name": "title_experience",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1000/1000",
+      "text": "1000/1000"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 150,
+      "pane_name": "SI_name_Might",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Might%%",
+      "text": "%%StatName_Might%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 151,
+      "pane_name": "SI_desc_Might",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatDesc_Might%%",
+      "text": "%%StatDesc_Might%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 157,
+      "pane_name": "SI_name_Vigor",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Vigor%%",
+      "text": "%%StatName_Vigor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 158,
+      "pane_name": "SI_desc_Vigor",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatDesc_Vigor%%",
+      "text": "%%StatDesc_Vigor%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 164,
+      "pane_name": "SI_name_Soul",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Soul%%",
+      "text": "%%StatName_Soul%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/upgradeScreen.bclyt",
+      "section_index": 165,
+      "pane_name": "SI_desc_Soul",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatDesc_Soul%%",
+      "text": "%%StatDesc_Soul%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/waitingMenu.bclyt",
+      "section_index": 9,
+      "pane_name": "WM_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TouchSaveAndQuit%%",
+      "text": "%%UI_TouchSaveAndQuit%%"
+    },
+    {
+      "archive": "ingameui.arc_",
+      "bclyt_path": "blyt/waitingMenu.bclyt",
+      "section_index": 12,
+      "pane_name": "Waiting_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_WaitingForParty%%",
+      "text": "%%UI_WaitingForParty%%"
+    },
+    {
+      "archive": "joingame.arc_",
+      "bclyt_path": "blyt/joinMenu.bclyt",
+      "section_index": 9,
+      "pane_name": "FMJF_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_ConnectingToGame%%",
+      "text": "%%UI_ConnectingToGame%%"
+    },
+    {
+      "archive": "joingame.arc_",
+      "bclyt_path": "blyt/joinScreen.bclyt",
+      "section_index": 11,
+      "pane_name": "MMSLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_ef.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 77,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_ef_info.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "loadscreen_fp.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 57,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_fp_info.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "loadscreen_hub.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 61,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_hub_info.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "loadscreen_levelinfo.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "loadscreen_mm.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 57,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_pressinfo.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "The city of Nexus clings to existence in the\naftermath of a hundred years of war. But many\nevils threaten it - a monstrous sea serpent\ncalled the Leviathan is but one. And now you\nmust travel to its lair and face the beast.\n\nSmashed remains of ships surround you, and\nyour own vessel is forced to fight off murderous\npirates. Exhausted, you triumph. But it's only\nthe start. The mighty Leviathan still awaits … ",
+      "text": "The city of Nexus clings to existence in the\naftermath of a hundred years of war. But many\nevils threaten it - a monstrous sea serpent\ncalled the Leviathan is but one. And now you\nmust travel to its lair and face the beast.\n\nSmashed remains of ships surround you, and\nyour own vessel is forced to fight off murderous\npirates. Exhausted, you triumph. But it's only\nthe start. The mighty Leviathan still awaits … "
+    },
+    {
+      "archive": "loadscreen_sc.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 71,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_sc_info.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "loadscreen_vd.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 69,
+      "pane_name": "LS_title",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Loading%%",
+      "text": "%%UI_Loading%%"
+    },
+    {
+      "archive": "loadscreen_vd_info.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 9,
+      "pane_name": "description_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Level description...",
+      "text": "Level description..."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_HID_simple.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Custom Zone",
+      "text": "Custom Zone"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_1.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_2.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_3.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_4.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 11,
+      "pane_name": "Profile_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Player Name",
+      "text": "Player Name"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 16,
+      "pane_name": "Profile_Level",
+      "classification": "literal_candidate_review_in_game",
+      "source": "1",
+      "text": "1"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 21,
+      "pane_name": "Profile_Class",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Class",
+      "text": "Class"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 26,
+      "pane_name": "Profile_Complete",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0%",
+      "text": "0%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 27,
+      "pane_name": "Profile_Time",
+      "classification": "literal_candidate_review_in_game",
+      "source": "0d 0h 0m",
+      "text": "0d 0h 0m"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_profile.bclyt",
+      "section_index": 32,
+      "pane_name": "Btn_Text_New",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NewProfile%%",
+      "text": "%%UI_NewProfile%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_1.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_2.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_3.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_shortcutPanel_4.bclyt",
+      "section_index": 15,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/btn_simple.bclyt",
+      "section_index": 10,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Text",
+      "text": "Text"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 10,
+      "pane_name": "ClassInfo_Name",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%ClassName_Justicar%%",
+      "text": "%%ClassName_Justicar%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 16,
+      "pane_name": "ClassInfo_Desc",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%ClassDescription_Justicar%%",
+      "text": "%%ClassDescription_Justicar%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 21,
+      "pane_name": "ClassInfo_T_M",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Might%%",
+      "text": "%%StatName_Might%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 22,
+      "pane_name": "ClassInfo_S_M",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%ClassStatValue_2%%",
+      "text": "%%ClassStatValue_2%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 27,
+      "pane_name": "ClassInfo_T_V",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Vigor%%",
+      "text": "%%StatName_Vigor%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 28,
+      "pane_name": "ClassInfo_S_V",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%ClassStatValue_3%%",
+      "text": "%%ClassStatValue_3%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 33,
+      "pane_name": "ClassInfo_T_S",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%StatName_Soul%%",
+      "text": "%%StatName_Soul%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/classInfoScreen.bclyt",
+      "section_index": 34,
+      "pane_name": "ClassInfo_S_S",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%ClassStatValue_1%%",
+      "text": "%%ClassStatValue_1%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/HID_simple.bclyt",
+      "section_index": 13,
+      "pane_name": "HID_Value",
+      "classification": "likely_template_or_placeholder",
+      "source": "Custom Value",
+      "text": "Custom Value"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/list_servers.bclyt",
+      "section_index": 20,
+      "pane_name": "empty_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NoGamesRefresh%%",
+      "text": "%%UI_NoGamesRefresh%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/list_servers.bclyt",
+      "section_index": 26,
+      "pane_name": "loading_text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Scanning%%",
+      "text": "%%UI_Scanning%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/list_servers.bclyt",
+      "section_index": 38,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/mainMenu.bclyt",
+      "section_index": 57,
+      "pane_name": "MMSS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_CancelServerCreation%%",
+      "text": "%%UI_CancelServerCreation%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/mainMenu.bclyt",
+      "section_index": 62,
+      "pane_name": "MMLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_CancelServerConnection%%",
+      "text": "%%UI_CancelServerConnection%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/mainMenuScreen.bclyt",
+      "section_index": 14,
+      "pane_name": "MMSLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_CreatingGame%%",
+      "text": "%%UI_CreatingGame%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/partyMemberBox.bclyt",
+      "section_index": 10,
+      "pane_name": "Open_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Open%%",
+      "text": "%%UI_Open%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/partyMemberBox.bclyt",
+      "section_index": 14,
+      "pane_name": "Locked_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Locked%%",
+      "text": "%%UI_Locked%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_characterCustomization.bclyt",
+      "section_index": 20,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_classSelect.bclyt",
+      "section_index": 20,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_gameMode.bclyt",
+      "section_index": 22,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_hostOptions.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_profileSelect.bclyt",
+      "section_index": 20,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_startMenu.bclyt",
+      "section_index": 7,
+      "pane_name": "StartText_BG",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TouchToStart%%",
+      "text": "%%UI_TouchToStart%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_startMenu.bclyt",
+      "section_index": 9,
+      "pane_name": "StartText_HL",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TouchToStart%%",
+      "text": "%%UI_TouchToStart%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/pg_startMenu.bclyt",
+      "section_index": 11,
+      "pane_name": "StartText",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_TouchToStart%%",
+      "text": "%%UI_TouchToStart%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/profileInfoBox.bclyt",
+      "section_index": 27,
+      "pane_name": "Player_Quest_T",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_YourQuest%%",
+      "text": "%%UI_YourQuest%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/profileInfoBox.bclyt",
+      "section_index": 35,
+      "pane_name": "New_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_SlotOpen%%",
+      "text": "%%UI_SlotOpen%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/profileInfoBox.bclyt",
+      "section_index": 39,
+      "pane_name": "New_Info",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_BeginNewQuest%%",
+      "text": "%%UI_BeginNewQuest%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/serverSelectInfo.bclyt",
+      "section_index": 11,
+      "pane_name": "SEmpty_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_NoGamesRefresh%%",
+      "text": "%%UI_NoGamesRefresh%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/serverSelectInfo.bclyt",
+      "section_index": 25,
+      "pane_name": "Party_Quest_T",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_HostQuest%%",
+      "text": "%%UI_HostQuest%%"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/serverSelectMap.bclyt",
+      "section_index": 33,
+      "pane_name": "Zone_Name",
+      "classification": "likely_template_or_placeholder",
+      "source": "Zone Name",
+      "text": "Zone Name"
+    },
+    {
+      "archive": "mainmenu.arc_",
+      "bclyt_path": "blyt/serverSelectMap.bclyt",
+      "section_index": 41,
+      "pane_name": "MMSLS_Text",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Joining%%",
+      "text": "%%UI_Joining%%"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/btn_animatic.bclyt",
+      "section_index": 11,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Btn Text",
+      "text": "Btn Text"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/btn_inputPanel_1.bclyt",
+      "section_index": 16,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query Info",
+      "text": "Query Info"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/btn_options.bclyt",
+      "section_index": 12,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Btn Text",
+      "text": "Btn Text"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/btn_slider_options.bclyt",
+      "section_index": 12,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Slider Name",
+      "text": "Slider Name"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/cBox_options.bclyt",
+      "section_index": 13,
+      "pane_name": "Btn_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "CBox Text",
+      "text": "CBox Text"
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/pg_animatics.bclyt",
+      "section_index": 28,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/pg_gameOptions.bclyt",
+      "section_index": 22,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "optionsmenu.arc_",
+      "bclyt_path": "blyt/pg_gameOptions_m.bclyt",
+      "section_index": 24,
+      "pane_name": "Query_Text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines.",
+      "text": "Query info description goes here. It will be multiple lines. Query info description goes here. It will be multiple lines."
+    },
+    {
+      "archive": "promptmenu.arc_",
+      "bclyt_path": "blyt/btn_prompt_L.bclyt",
+      "section_index": 11,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "text",
+      "text": "text"
+    },
+    {
+      "archive": "promptmenu.arc_",
+      "bclyt_path": "blyt/btn_prompt_R.bclyt",
+      "section_index": 11,
+      "pane_name": "Btn_Text",
+      "classification": "literal_candidate_review_in_game",
+      "source": "text",
+      "text": "text"
+    },
+    {
+      "archive": "promptmenu.arc_",
+      "bclyt_path": "blyt/promptTutorial.bclyt",
+      "section_index": 11,
+      "pane_name": "prompt_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "< Words here >",
+      "text": "< Words here >"
+    },
+    {
+      "archive": "saveicon.arc_",
+      "bclyt_path": "blyt/saveIcon.bclyt",
+      "section_index": 17,
+      "pane_name": "SaveText",
+      "classification": "runtime_key_do_not_translate",
+      "source": "%%UI_Saving%%",
+      "text": "%%UI_Saving%%"
+    },
+    {
+      "archive": "thankyouscreen.arc_",
+      "bclyt_path": "blyt/thankYou_bottom.bclyt",
+      "section_index": 7,
+      "pane_name": "copyright",
+      "classification": "literal_candidate_review_in_game",
+      "source": "Heroes of Ruin © Square Enix Limited, 2011",
+      "text": "Heroes of Ruin © Square Enix Limited, 2011"
+    },
+    {
+      "archive": "tutorialbox.arc_",
+      "bclyt_path": "blyt/root.bclyt",
+      "section_index": 10,
+      "pane_name": "tb_text",
+      "classification": "likely_template_or_placeholder",
+      "source": "Tutorial text goes here.",
+      "text": "Tutorial text goes here."
+    }
+  ]
+}

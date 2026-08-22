@@ -1,0 +1,17 @@
+HEROES OF RUIN TURKCE YAMA - HIZLI KURULUM
+
+Luma3DS:
+1) YAMA_HAZIR/Luma3DS_SD_KOKUNE_KOPYALA klasorunun ICERIGINI SD kart kokune kopyala.
+2) Luma3DS'de game patching acik olsun.
+3) Oyun/sistem dilini English kullan. Yama _UK slotunu Turkce yapar.
+
+Azahar / Citra uyumlu:
+1) Heroes of Ruin icin Open Mods Location / mod klasorunu ac.
+2) YAMA_HAZIR/Azahar_Citra_Mod_Klasorune_Kopyala/romfs klasorunu oraya kopyala.
+
+Font:
+- YAMA_HAZIR icinde yamali demo_font hem kok hem UI altinda bulunur.
+- Elindeki tam RomFS'de demo_font.bcfnt_ baska bir yoldaysa FONT/demo_font.bcfnt_ dosyasini o AYNI yola koy.
+- Otomatik ayni-yol araci: ARACLAR/font_romfs_bul_yama.py
+
+Teknik kontrol raporu: RAPORLAR/yama_dogrulama.txt

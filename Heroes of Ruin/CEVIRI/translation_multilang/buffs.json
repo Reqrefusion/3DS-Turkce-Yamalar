@@ -1,0 +1,388 @@
+{
+  "format": "Heroes of Ruin STRL multi-language translation table",
+  "file": "buffs.strl_",
+  "languages": {
+    "en": "_UK",
+    "fr": "_FR",
+    "de": "_GE",
+    "it": "_IT",
+    "es": "_SP"
+  },
+  "notes": [
+    "Translate only the tr field. en/fr/de/it/es are side-by-side references.",
+    "If tr is empty during build, English is used for that row.",
+    "Protected control/variable tokens are validated against English."
+  ],
+  "entries": [
+    {
+      "index": 0,
+      "id": "0x09E5A687",
+      "en": "Stunned",
+      "fr": "Étourdi",
+      "de": "Betäubt",
+      "it": "Stordito",
+      "es": "Aturdido",
+      "tr": "Sersemlemiş"
+    },
+    {
+      "index": 1,
+      "id": "0x1AE10BA2",
+      "en": "Enraged",
+      "fr": "Fou furieux",
+      "de": "Erzürnt",
+      "it": "Infuriato",
+      "es": "Enfurecido",
+      "tr": "Öfkeli"
+    },
+    {
+      "index": 2,
+      "id": "0x26DB4E32",
+      "en": "Empowers minions",
+      "fr": "Renforce ses acolytes",
+      "de": "Stärkt Diener",
+      "it": "Fornisce forza ai seguaci",
+      "es": "Potencia a los secuaces",
+      "tr": "Yandaşları güçlendirir"
+    },
+    {
+      "index": 3,
+      "id": "0x2D390E80",
+      "en": "Explodes when near",
+      "fr": "Explose à proximité",
+      "de": "Explodiert in der Nähe",
+      "it": "Esplode quando vicino",
+      "es": "Explota cuando está cerca",
+      "tr": "Yaklaşınca patlar"
+    },
+    {
+      "index": 4,
+      "id": "0x502B3BF7",
+      "en": "Regains health",
+      "fr": "Récupère de la vie",
+      "de": "Regeneriert Gesundheit",
+      "it": "Recupera salute",
+      "es": "Recupera salud",
+      "tr": "Can yeniler"
+    },
+    {
+      "index": 5,
+      "id": "0x5A011FAC",
+      "en": "Dies with summoner",
+      "fr": "Meurt si invocateur vaincu",
+      "de": "Stirbt mit dem Beschwörer",
+      "it": "Muore con l'evocatore",
+      "es": "Muere con invocador",
+      "tr": "Çağıranı ölünce ölür"
+    },
+    {
+      "index": 6,
+      "id": "0x5A011FBA",
+      "en": "Can summon allies",
+      "fr": "Peut invoquer des alliés",
+      "de": "Kann Verbündete rufen",
+      "it": "Può evocare alleati",
+      "es": "Puede invocar aliados",
+      "tr": "Müttefik çağırabilir"
+    },
+    {
+      "index": 7,
+      "id": "0x5BE00AD4",
+      "en": "Confuses target on hit",
+      "fr": "Rend la cible confuse quand touchée",
+      "de": "Verwirrt Ziel durch Treffer",
+      "it": "Confonde il bersaglio quando colpisce",
+      "es": "Confunde al objetivo",
+      "tr": "Vuruşta hedefi şaşırtır"
+    },
+    {
+      "index": 8,
+      "id": "0x66DEB2A2",
+      "en": "Defense increased",
+      "fr": "Défense augmentée",
+      "de": "Verteidigung verbessert",
+      "it": "Difesa aumentata",
+      "es": "Defensa aumentada",
+      "tr": "Savunma arttı"
+    },
+    {
+      "index": 9,
+      "id": "0x66DEB3E6",
+      "en": "Boosting defense of allies",
+      "fr": "Augmente la défense des alliés",
+      "de": "Stärkt Verteidigung von Verbündeten",
+      "it": "Potenzia la difesa degli alleati",
+      "es": "Aumenta defensa de aliados",
+      "tr": "Müttefik savunmasını artırır"
+    },
+    {
+      "index": 10,
+      "id": "0x79FE66C7",
+      "en": "Steals health on hit",
+      "fr": "Vole de la vie à chaque coup",
+      "de": "Raubt durch Treffer Gesundheit",
+      "it": "Sottrae salute quando colpisce",
+      "es": "Roba salud con cada golpe",
+      "tr": "Vuruşta can çalar"
+    },
+    {
+      "index": 11,
+      "id": "0x89D87CD4",
+      "en": "Wounded",
+      "fr": "Blessé",
+      "de": "Verwundet",
+      "it": "Ferito",
+      "es": "Herido",
+      "tr": "Yaralı"
+    },
+    {
+      "index": 12,
+      "id": "0x8E7BEA21",
+      "en": "Casts poison clouds",
+      "fr": "Lance des nuages de poison",
+      "de": "Wirkt giftige Wolken",
+      "it": "Lancia nubi velenose",
+      "es": "Lanza nubes de veneno",
+      "tr": "Zehir bulutları salar"
+    },
+    {
+      "index": 13,
+      "id": "0x9A03FD68",
+      "en": "Boosts speed of allies",
+      "fr": "Augmente la vitesse des alliés",
+      "de": "Erhöht Geschw. von Verbündeten",
+      "it": "Aumenta la velocità degli alleati",
+      "es": "Potencia velocidad de aliados",
+      "tr": "Müttefik hızını artırır"
+    },
+    {
+      "index": 14,
+      "id": "0x9AF5E51E",
+      "en": "Increased damage and speed",
+      "fr": "Dégâts et vitesse augmentés",
+      "de": "Erhöhter Schaden und Geschwindigkeit",
+      "it": "Danno e velocità aumentati",
+      "es": "Aumenta el daño y la velocidad",
+      "tr": "Hasar ve hız arttı"
+    },
+    {
+      "index": 15,
+      "id": "0x9E4C3201",
+      "en": "Sets targets on fire",
+      "fr": "Enflamme la cible",
+      "de": "Steckt Ziel in Brand",
+      "it": "Dà fuoco al bersaglio",
+      "es": "Prende fuego a los objetivos",
+      "tr": "Hedefleri ateşe verir"
+    },
+    {
+      "index": 16,
+      "id": "0x9F01A852",
+      "en": "About to explode!!",
+      "fr": "Sur le point d'exploser !",
+      "de": "Explodiert gleich!!",
+      "it": "Sta per esplodere!",
+      "es": "¡A punto de explotar!",
+      "tr": "Patlamak üzere!!"
+    },
+    {
+      "index": 17,
+      "id": "0x9FAC96C6",
+      "en": "Lowers attack on hit",
+      "fr": "Ses coups baissent l'attaque",
+      "de": "Senkt Angriffswert bei Treffer",
+      "it": "Riduce l'attacco quando colpisce",
+      "es": "Reduce el ataque con cada golpe",
+      "tr": "Vuruşta saldırıyı düşürür"
+    },
+    {
+      "index": 18,
+      "id": "0xA507AFCC",
+      "en": "Slowed",
+      "fr": "Ralenti",
+      "de": "Verlangsamt",
+      "it": "Rallentato",
+      "es": "Ralentizado",
+      "tr": "Yavaşlamış"
+    },
+    {
+      "index": 19,
+      "id": "0xA54505BE",
+      "en": "Berserks at lower health",
+      "fr": "Devient furieux si santé faible",
+      "de": "Wir bei niedriger Gesundheit zum Berserker",
+      "it": "Furia con salute bassa",
+      "es": "Berserker con poca salud",
+      "tr": "Canı azalınca çılgına döner"
+    },
+    {
+      "index": 20,
+      "id": "0xA59C2FA9",
+      "en": "Gains attack from nearby allies",
+      "fr": "Gagne en attaque grâce à ses alliés",
+      "de": "Erhält Angriff von nahen Verbündeten",
+      "it": "Forza d'attacco dagli alleati vicini",
+      "es": "Mejora el ataque por los aliados cercanos",
+      "tr": "Yakındaki müttefiklerden saldırı kazanır"
+    },
+    {
+      "index": 21,
+      "id": "0xAAACDEA5",
+      "en": "Returns damage from range",
+      "fr": "Renvoie des dégâts si touché à distance",
+      "de": "Wirft Fernkampfschaden zurück",
+      "it": "Restituisce il danno a distanza",
+      "es": "Devuelve el daño a distancia",
+      "tr": "Uzak hasarı geri yansıtır"
+    },
+    {
+      "index": 22,
+      "id": "0xAB2B899C",
+      "en": "Inspires fear",
+      "fr": "Inspire la peur",
+      "de": "Löst Angst aus",
+      "it": "Incute timore",
+      "es": "Inspira miedo",
+      "tr": "Korku salar"
+    },
+    {
+      "index": 23,
+      "id": "0xB39BD929",
+      "en": "Immune to stun",
+      "fr": "Insensible à l'étourdissement",
+      "de": "Immun gegen Betäuben",
+      "it": "Immune allo stordimento",
+      "es": "Inmune al aturdimiento",
+      "tr": "Sersemlemeye bağışık"
+    },
+    {
+      "index": 24,
+      "id": "0xBA4BC7B8",
+      "en": "Frosts targets",
+      "fr": "Gèle la cible",
+      "de": "Friert Ziele ein",
+      "it": "Congela i bersagli",
+      "es": "Congela a los objetivos",
+      "tr": "Hedefleri dondurur"
+    },
+    {
+      "index": 25,
+      "id": "0xBA604B7F",
+      "en": "Speed increased",
+      "fr": "Vitesse augmentée",
+      "de": "Geschwindigkeit erhöht",
+      "it": "Velocità aumentata",
+      "es": "Velocidad aumentada",
+      "tr": "Hız arttı"
+    },
+    {
+      "index": 26,
+      "id": "0xBB70BA5E",
+      "en": "Returns damage when hit",
+      "fr": "Renvoie des dégâts quand touché",
+      "de": "Wirft Schaden zurück",
+      "it": "Restituisce il danno quando colpito",
+      "es": "Devuelve el daño al ser alcanzado",
+      "tr": "Vurulunca hasarı yansıtır"
+    },
+    {
+      "index": 27,
+      "id": "0xC5388A95",
+      "en": "Siphoning life from $PlayerName$",
+      "fr": "Aspire la vie de $PlayerName$",
+      "de": "Stiehlt Leben von $PlayerName$",
+      "it": "Assorbe vita da $PlayerName$",
+      "es": "Absorbe vida de $PlayerName$",
+      "tr": "$PlayerName$'den can emiyor"
+    },
+    {
+      "index": 28,
+      "id": "0xD298D299",
+      "en": "Immune to damage",
+      "fr": "Insensible aux dégâts",
+      "de": "Immun gegen Schaden",
+      "it": "Immune ai danni",
+      "es": "Inmune al daño",
+      "tr": "Hasara bağışık"
+    },
+    {
+      "index": 29,
+      "id": "0xD472A67D",
+      "en": "Explodes at low health",
+      "fr": "Explose si santé faible",
+      "de": "Explodiert bei geringer Gesundheit",
+      "it": "Esplode con salute bassa",
+      "es": "Explota con poca salud",
+      "tr": "Canı azalınca patlar"
+    },
+    {
+      "index": 30,
+      "id": "0xD4F632F4",
+      "en": "Inflicts wounds",
+      "fr": "Inflige Blessures",
+      "de": "Verursacht Wunden",
+      "it": "Infligge ferite",
+      "es": "Inflige heridas",
+      "tr": "Yara açar"
+    },
+    {
+      "index": 31,
+      "id": "0xDA3CF562",
+      "en": "Lowers defense on hit",
+      "fr": "Ses coups baissent la défense",
+      "de": "Senkt Verteidigung bei Treffer",
+      "it": "Riduce la difesa quando colpisce",
+      "es": "Baja la defensa con cada golpe",
+      "tr": "Vuruşta savunmayı düşürür"
+    },
+    {
+      "index": 32,
+      "id": "0xDE796021",
+      "en": "Inflicts poison",
+      "fr": "Inflige Poison",
+      "de": "Verabreicht Gift",
+      "it": "Infligge veleno",
+      "es": "Inflige veneno",
+      "tr": "Zehirler"
+    },
+    {
+      "index": 33,
+      "id": "0xEDCB87CE",
+      "en": "Protected by allies",
+      "fr": "Protégé par ses alliés",
+      "de": "Von Verbündeten beschützt",
+      "it": "Protetto dagli alleati",
+      "es": "Protegido por aliados",
+      "tr": "Müttefiklerce korunuyor"
+    },
+    {
+      "index": 34,
+      "id": "0xEF85CD5F",
+      "en": "Protects leader",
+      "fr": "Protège son chef",
+      "de": "Beschützt Anführer",
+      "it": "Protegge il capo",
+      "es": "Protege al líder",
+      "tr": "Lideri korur"
+    },
+    {
+      "index": 35,
+      "id": "0xF06B5884",
+      "en": "Damage increased at low health",
+      "fr": "Dégâts augmentés si santé faible",
+      "de": "Höherer Schaden bei niedriger Gesundheit",
+      "it": "Danno aumentato con salute bassa",
+      "es": "Daño aumentado con poca salud",
+      "tr": "Canı azalınca hasarı artar"
+    },
+    {
+      "index": 36,
+      "id": "0xF4B8A5B6",
+      "en": "Returns damage in melee",
+      "fr": "Renvoie des dégâts au corps à corps",
+      "de": "Wirft Schaden im Nahkampf zurück",
+      "it": "Restituisce il danno in mischia",
+      "es": "Devuelve el daño cuerpo a cuerpo",
+      "tr": "Yakın dövüş hasarını yansıtır"
+    }
+  ]
+}
