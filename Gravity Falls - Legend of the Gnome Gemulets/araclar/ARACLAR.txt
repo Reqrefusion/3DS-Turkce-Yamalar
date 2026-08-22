@@ -1,0 +1,29 @@
+ARAÇLAR
+=======
+
+loc8_tool.py
+  localisation.loc8 inceleme, ayrı CSV çıkarma ve geri enjekte etme.
+
+validate_translation.py
+  Türkçe CSV'lerde UbiArt etiketlerini ve uzunlukları denetleme.
+
+ipk_tool.py
+  IPK listeleme, çıkarma, değiştirme ve yapı kontrolü.
+
+font_turkish_exact.py
+  BCFNT A8 glif sayfalarını düzenler; TFN + ETC1A4 atlasına gerçek Türkçe glifleri ekler.
+
+font_workflow.py
+  Orijinal bundle_ctr.ipk ve fulllogic_ctr.ipk içinden fontları çıkarır, gerçek Türkçe glifleri üretir ve arşivleri yeniden paketler.
+
+bcfnt_turkish.py / tfn_turkish.py
+  Karakter kapsamı kontrolü ve eski fallback eşleme yardımcıları. Hazır yamada fallback değil gerçek glif yöntemi kullanılmıştır.
+
+make_layeredfs.py
+  Hazırlanmış dosyalardan Luma3DS LayeredFS klasör ağacı kurar.
+
+scan_game.py
+  RomFS/IPK içinde localisation ve font adaylarını tarar.
+
+paketle.py
+  Orijinal romfs + ceviri klasöründen bütün hazır LayeredFS ağacını tek komutla yeniden oluşturur.

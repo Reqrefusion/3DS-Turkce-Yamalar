@@ -1,0 +1,49 @@
+https://gamebanana.com/mods/708231 yama adresindedir.
+
+
+GRAVITY FALLS 3DS TÜRKÇE YAMA
+==============================
+
+HAZIR KURULUM
+-------------
+1. Bu paketteki "luma" klasörünü 3DS SD kartının kök dizinine kopyala ve klasörleri birleştir.
+2. Konsolu SELECT tuşuna basılı tutarak aç.
+3. Luma3DS yapılandırmasında "Enable game patching" açık olsun ve ayarları kaydet.
+4. Gravity Falls: Legend of the Gnome Gemulets oyununu normal şekilde başlat.
+
+Türkçe metin altı oyun dili slotunun tamamına uygulanmıştır. Oyunun hangi desteklenen dilde açıldığına bakmadan Türkçe metin kullanılacaktır.
+
+KALDIRMA
+--------
+Yamayı kaldırmak için SD karttan şu klasörü silmen yeterli:
+
+luma/titles/000400000014D900/
+
+DOSYALAR
+--------
+luma/                 Doğrudan SD karta kopyalanacak hazır yama.
+ceviri/                Son Türkçe main.csv ve dialogue.csv dosyaları.
+font_dosyalari/        IPK içine enjekte edilen düzeltilmiş font kaynakları.
+font_onizleme/         Ğ/ğ, İ/ı, Ş/ş gliflerinin üretilmiş önizlemeleri.
+araclar/               Metin, IPK ve font çıkarma/enjeksiyon/yeniden paketleme araçları.
+notlar/                Çeviri ve teknik kontrol notları.
+
+FONT DÜZELTMESİ
+---------------
+Stok fontlarda eksik olan Ğ/ğ, İ/ı ve Ş/ş için yalnızca G/I/S eşlemesi kullanılmadı.
+
+- tahoma.bcfnt içindeki A8 glif sayfalarına gerçek Türkçe glif bitmapleri eklendi.
+- mylifecoach65 ve mylifecoach66 TFN font haritalarına Türkçe kod noktaları eklendi.
+- İki ETC1A4 .tga.ckd atlasının alfa verisine gerçek Türkçe glif şekilleri yazıldı.
+- bundle_ctr.ipk içindeki BCFNT + TFN + TGA fontları değiştirildi.
+- fulllogic_ctr.ipk içindeki iki TFN kopyası da aynı şekilde güncellendi.
+
+YENİDEN OLUŞTURMA
+-----------------
+Kendi orijinal romfs klasöründen hazır LayeredFS ağacını yeniden üretmek istersen:
+
+cd araclar
+python -m pip install -r requirements.txt
+python paketle.py "ORIJINAL_ROMFS" "../ceviri" "CIKTI"
+
+Sonuç CIKTI/luma altında oluşur.
