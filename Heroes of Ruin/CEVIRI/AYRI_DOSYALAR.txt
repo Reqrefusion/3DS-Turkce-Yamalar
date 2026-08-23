@@ -1,0 +1,17 @@
+Heroes of Ruin - Çok Dilli Türkçe Çeviri Dosyaları
+
+Her oyun STRL dosyası için ayrı CSV ve JSON bulunur:
+
+buffs.csv / buffs.json
+characterparts.csv / characterparts.json
+dialogues.csv / dialogues.json
+names.csv / names.json
+quests.csv / quests.json
+strings.csv / strings.json
+weapons.csv / weapons.json
+
+Her dosyada aynı satır için şu diller yan yanadır:
+EN | FR | DE | IT | ES | TR
+
+Çeviri için yalnızca TR alanını/sütununu doldurun.
+all_texts_multilang.csv sadece toplu arama ve karşılaştırma içindir; geri paketleme ayrı dosyalardan yapılır.

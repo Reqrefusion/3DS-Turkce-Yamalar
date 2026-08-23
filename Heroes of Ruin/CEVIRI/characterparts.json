@@ -1,0 +1,2238 @@
+{
+  "format": "Heroes of Ruin STRL multi-language translation table",
+  "file": "characterparts.strl_",
+  "languages": {
+    "en": "_UK",
+    "fr": "_FR",
+    "de": "_GE",
+    "it": "_IT",
+    "es": "_SP"
+  },
+  "notes": [
+    "Translate only the tr field. en/fr/de/it/es are side-by-side references.",
+    "If tr is empty during build, English is used for that row.",
+    "Protected control/variable tokens are validated against English."
+  ],
+  "entries": [
+    {
+      "index": 0,
+      "id": "0x05C9AB89",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 1,
+      "id": "0x05C9AB8A",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 2,
+      "id": "0x05C9AB8B",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 3,
+      "id": "0x05C9AB8C",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 4,
+      "id": "0x05C9AB8D",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 5,
+      "id": "0x05C9AB8E",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 6,
+      "id": "0x092B487D",
+      "en": "Red",
+      "fr": "Rouge",
+      "de": "Rot",
+      "it": "Rosso",
+      "es": "Rojo",
+      "tr": "Kırmızı"
+    },
+    {
+      "index": 7,
+      "id": "0x092B487E",
+      "en": "Green",
+      "fr": "Vert",
+      "de": "Grün",
+      "it": "Verde",
+      "es": "Verde",
+      "tr": "Yeşil"
+    },
+    {
+      "index": 8,
+      "id": "0x092B487F",
+      "en": "Blue",
+      "fr": "Bleu",
+      "de": "Blau",
+      "it": "Blu",
+      "es": "Azul",
+      "tr": "Mavi"
+    },
+    {
+      "index": 9,
+      "id": "0x092B4880",
+      "en": "Gold",
+      "fr": "Or",
+      "de": "Gold",
+      "it": "Oro",
+      "es": "Oro",
+      "tr": "Altın"
+    },
+    {
+      "index": 10,
+      "id": "0x092B4881",
+      "en": "Purple",
+      "fr": "Violet",
+      "de": "Violett",
+      "it": "Viola",
+      "es": "Morado",
+      "tr": "Mor"
+    },
+    {
+      "index": 11,
+      "id": "0x092B4882",
+      "en": "Grey",
+      "fr": "Gris",
+      "de": "Grau",
+      "it": "Grigio",
+      "es": "Gris",
+      "tr": "Gri"
+    },
+    {
+      "index": 12,
+      "id": "0x0A426E38",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 13,
+      "id": "0x0A426E39",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 14,
+      "id": "0x0A426E3A",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 15,
+      "id": "0x0A426E3B",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 16,
+      "id": "0x0A426E3C",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 17,
+      "id": "0x0A426E3D",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 18,
+      "id": "0x0BA06F31",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 19,
+      "id": "0x0BA06F32",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 20,
+      "id": "0x0BA06F33",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 21,
+      "id": "0x0BA06F34",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 22,
+      "id": "0x0BA06F35",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 23,
+      "id": "0x0BA06F36",
+      "en": "Shorn",
+      "fr": "Rasé",
+      "de": "Geschoren",
+      "it": "Rasati",
+      "es": "Pelado",
+      "tr": "Kazınmış"
+    },
+    {
+      "index": 24,
+      "id": "0x0F09C5DF",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 25,
+      "id": "0x0F09C5E0",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 26,
+      "id": "0x0F09C5E1",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 27,
+      "id": "0x0F09C5E2",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 28,
+      "id": "0x0F09C5E3",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 29,
+      "id": "0x0F09C5E4",
+      "en": "Banshee",
+      "fr": "Banshee",
+      "de": "Todesfee",
+      "it": "Banshee",
+      "es": "Banshee",
+      "tr": "Banshee"
+    },
+    {
+      "index": 30,
+      "id": "0x20E4BB92",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 31,
+      "id": "0x20E4BB93",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 32,
+      "id": "0x20E4BB94",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 33,
+      "id": "0x20E4BB95",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 34,
+      "id": "0x20E4BB96",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 35,
+      "id": "0x20E4BB97",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 36,
+      "id": "0x23A0D761",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 37,
+      "id": "0x23A0D762",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 38,
+      "id": "0x23A0D763",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 39,
+      "id": "0x23A0D764",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 40,
+      "id": "0x23A0D765",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 41,
+      "id": "0x23A0D766",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 42,
+      "id": "0x262E120B",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 43,
+      "id": "0x262E120C",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 44,
+      "id": "0x262E120D",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 45,
+      "id": "0x262E120E",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 46,
+      "id": "0x262E120F",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 47,
+      "id": "0x262E1210",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 48,
+      "id": "0x28D85642",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 49,
+      "id": "0x28D85643",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 50,
+      "id": "0x28D85644",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 51,
+      "id": "0x28D85645",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 52,
+      "id": "0x28D85646",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 53,
+      "id": "0x28D85647",
+      "en": "Stripes",
+      "fr": "Rayures",
+      "de": "Streifen",
+      "it": "Strisce",
+      "es": "Mechas",
+      "tr": "Çizgili"
+    },
+    {
+      "index": 54,
+      "id": "0x2F1EF54F",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 55,
+      "id": "0x2F1EF550",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 56,
+      "id": "0x2F1EF551",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 57,
+      "id": "0x2F1EF552",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 58,
+      "id": "0x2F1EF553",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 59,
+      "id": "0x2F1EF554",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 60,
+      "id": "0x2FAF7BB0",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 61,
+      "id": "0x2FAF7BB1",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 62,
+      "id": "0x2FAF7BB2",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 63,
+      "id": "0x2FAF7BB3",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 64,
+      "id": "0x2FAF7BB4",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 65,
+      "id": "0x2FAF7BB5",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 66,
+      "id": "0x331E55EE",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 67,
+      "id": "0x331E55EF",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 68,
+      "id": "0x331E55F0",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 69,
+      "id": "0x331E55F1",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 70,
+      "id": "0x331E55F2",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 71,
+      "id": "0x331E55F3",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 72,
+      "id": "0x35E64069",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 73,
+      "id": "0x35E6406A",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 74,
+      "id": "0x35E6406B",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 75,
+      "id": "0x35E6406C",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 76,
+      "id": "0x35E6406D",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 77,
+      "id": "0x35E6406E",
+      "en": "Long Hair",
+      "fr": "Long",
+      "de": "Langes Haar",
+      "it": "Capelli lunghi",
+      "es": "Pelo largo",
+      "tr": "Uzun Saç"
+    },
+    {
+      "index": 78,
+      "id": "0x3811F6C8",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 79,
+      "id": "0x3811F6C9",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 80,
+      "id": "0x3811F6CA",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 81,
+      "id": "0x3811F6CB",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 82,
+      "id": "0x3811F6CC",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 83,
+      "id": "0x3811F6CD",
+      "en": "Cropped",
+      "fr": "En arrière",
+      "de": "Kurz geschnitten",
+      "it": "Corti",
+      "es": "Ajustado",
+      "tr": "Kısa Kesim"
+    },
+    {
+      "index": 84,
+      "id": "0x4330EBEB",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 85,
+      "id": "0x4330EBEC",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 86,
+      "id": "0x4330EBED",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 87,
+      "id": "0x4330EBEE",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 88,
+      "id": "0x4330EBEF",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 89,
+      "id": "0x4330EBF0",
+      "en": "Top Knot",
+      "fr": "Queue",
+      "de": "Knoten oben",
+      "it": "Nodo sopra",
+      "es": "Moño alto",
+      "tr": "Üst Topuz"
+    },
+    {
+      "index": 90,
+      "id": "0x4C462158",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 91,
+      "id": "0x4C462159",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 92,
+      "id": "0x4C46215A",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 93,
+      "id": "0x4C46215B",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 94,
+      "id": "0x4C46215C",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 95,
+      "id": "0x4C46215D",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 96,
+      "id": "0x7522090E",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 97,
+      "id": "0x7522090F",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 98,
+      "id": "0x75220910",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 99,
+      "id": "0x75220911",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 100,
+      "id": "0x75220912",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 101,
+      "id": "0x75220913",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 102,
+      "id": "0x7B82B39F",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 103,
+      "id": "0x7B82B3A0",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 104,
+      "id": "0x7B82B3A1",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 105,
+      "id": "0x7B82B3A2",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 106,
+      "id": "0x7B82B3A3",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 107,
+      "id": "0x7B82B3A4",
+      "en": "Up",
+      "fr": "En l'air",
+      "de": "Hoch",
+      "it": "In alto",
+      "es": "De punta",
+      "tr": "Dik"
+    },
+    {
+      "index": 108,
+      "id": "0x80C0E1AA",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 109,
+      "id": "0x80C0E1AB",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 110,
+      "id": "0x80C0E1AC",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 111,
+      "id": "0x80C0E1AD",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 112,
+      "id": "0x80C0E1AE",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 113,
+      "id": "0x80C0E1AF",
+      "en": "Hat",
+      "fr": "Chapeau",
+      "de": "Hut",
+      "it": "Copricapo",
+      "es": "Gorro",
+      "tr": "Şapka"
+    },
+    {
+      "index": 114,
+      "id": "0x873F0FA7",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 115,
+      "id": "0x873F0FA8",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 116,
+      "id": "0x873F0FA9",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 117,
+      "id": "0x873F0FAA",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 118,
+      "id": "0x873F0FAB",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 119,
+      "id": "0x873F0FAC",
+      "en": "Short Braid",
+      "fr": "Nattes courtes",
+      "de": "Kurzer Zopf",
+      "it": "Treccia corta",
+      "es": "Trenza corta",
+      "tr": "Kısa Örgü"
+    },
+    {
+      "index": 120,
+      "id": "0x8F3284CE",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 121,
+      "id": "0x8F3284CF",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 122,
+      "id": "0x8F3284D0",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 123,
+      "id": "0x8F3284D1",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 124,
+      "id": "0x8F3284D2",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 125,
+      "id": "0x8F3284D3",
+      "en": "DoubleKnot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 126,
+      "id": "0x9739B75B",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 127,
+      "id": "0x9739B75C",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 128,
+      "id": "0x9739B75D",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 129,
+      "id": "0x9739B75E",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 130,
+      "id": "0x9739B75F",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 131,
+      "id": "0x9739B760",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 132,
+      "id": "0xA2512A3A",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 133,
+      "id": "0xA2512A3B",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 134,
+      "id": "0xA2512A3C",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 135,
+      "id": "0xA2512A3D",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 136,
+      "id": "0xA2512A3E",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 137,
+      "id": "0xA2512A3F",
+      "en": "Braid",
+      "fr": "Nattes",
+      "de": "Zopf",
+      "it": "Treccia",
+      "es": "Trenza",
+      "tr": "Örgü"
+    },
+    {
+      "index": 138,
+      "id": "0xA2E94CC3",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 139,
+      "id": "0xA2E94CC4",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 140,
+      "id": "0xA2E94CC5",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 141,
+      "id": "0xA2E94CC6",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 142,
+      "id": "0xA2E94CC7",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 143,
+      "id": "0xA2E94CC8",
+      "en": "Spiked",
+      "fr": "À pointes",
+      "de": "Stachelig",
+      "it": "A punta",
+      "es": "De punta",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 144,
+      "id": "0xA52D2FAF",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 145,
+      "id": "0xA52D2FB0",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 146,
+      "id": "0xA52D2FB1",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 147,
+      "id": "0xA52D2FB2",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 148,
+      "id": "0xA52D2FB3",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 149,
+      "id": "0xA52D2FB4",
+      "en": "Mane",
+      "fr": "Crinière",
+      "de": "Mähne",
+      "it": "Criniera",
+      "es": "Melena",
+      "tr": "Yele"
+    },
+    {
+      "index": 150,
+      "id": "0xA5853A23",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 151,
+      "id": "0xA5853A24",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 152,
+      "id": "0xA5853A25",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 153,
+      "id": "0xA5853A26",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 154,
+      "id": "0xA5853A27",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 155,
+      "id": "0xA5853A28",
+      "en": "Side",
+      "fr": "Côté",
+      "de": "Seite",
+      "it": "Di lato",
+      "es": "Patillas",
+      "tr": "Yan"
+    },
+    {
+      "index": 156,
+      "id": "0xB53B349D",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 157,
+      "id": "0xB53B349E",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 158,
+      "id": "0xB53B349F",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 159,
+      "id": "0xB53B34A0",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 160,
+      "id": "0xB53B34A1",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 161,
+      "id": "0xB53B34A2",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 162,
+      "id": "0xBADD6333",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 163,
+      "id": "0xBADD6334",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 164,
+      "id": "0xBADD6335",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 165,
+      "id": "0xBADD6336",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 166,
+      "id": "0xBADD6337",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 167,
+      "id": "0xBADD6338",
+      "en": "Cascade",
+      "fr": "Frange",
+      "de": "Stufen",
+      "it": "Cadenti",
+      "es": "Cascada",
+      "tr": "Katlı"
+    },
+    {
+      "index": 168,
+      "id": "0xD6C44DDC",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 169,
+      "id": "0xD6C44DDD",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 170,
+      "id": "0xD6C44DDE",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 171,
+      "id": "0xD6C44DDF",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 172,
+      "id": "0xD6C44DE0",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 173,
+      "id": "0xD6C44DE1",
+      "en": "Hood",
+      "fr": "Capuche",
+      "de": "Kapuze",
+      "it": "Cappuccio",
+      "es": "Capucha",
+      "tr": "Kapüşon"
+    },
+    {
+      "index": 174,
+      "id": "0xE5A5397D",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 175,
+      "id": "0xE5A5397E",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 176,
+      "id": "0xE5A5397F",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 177,
+      "id": "0xE5A53980",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 178,
+      "id": "0xE5A53981",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 179,
+      "id": "0xE5A53982",
+      "en": "Wild",
+      "fr": "Au vent",
+      "de": "Wild",
+      "it": "Spettinati",
+      "es": "Salvaje",
+      "tr": "Dağınık"
+    },
+    {
+      "index": 180,
+      "id": "0xF0C826B2",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 181,
+      "id": "0xF0C826B3",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 182,
+      "id": "0xF0C826B4",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 183,
+      "id": "0xF0C826B5",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 184,
+      "id": "0xF0C826B6",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 185,
+      "id": "0xF0C826B7",
+      "en": "Headband",
+      "fr": "Bandeau",
+      "de": "Stirnband",
+      "it": "Fermacapelli",
+      "es": "Cinta para el pelo",
+      "tr": "Saç Bandı"
+    },
+    {
+      "index": 186,
+      "id": "0xF208944E",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 187,
+      "id": "0xF208944F",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 188,
+      "id": "0xF2089450",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 189,
+      "id": "0xF2089451",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 190,
+      "id": "0xF2089452",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 191,
+      "id": "0xF2089453",
+      "en": "Dreadlocks",
+      "fr": "Dreadlocks",
+      "de": "Dreadlocks",
+      "it": "Rasta",
+      "es": "Rastas",
+      "tr": "Rasta"
+    },
+    {
+      "index": 192,
+      "id": "0xF3E7A7EE",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 193,
+      "id": "0xF3E7A7EF",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 194,
+      "id": "0xF3E7A7F0",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 195,
+      "id": "0xF3E7A7F1",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 196,
+      "id": "0xF3E7A7F2",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 197,
+      "id": "0xF3E7A7F3",
+      "en": "Double Knot",
+      "fr": "Double nœud",
+      "de": "Doppelknoten",
+      "it": "Doppio nodo",
+      "es": "Doble moño",
+      "tr": "Çift Topuz"
+    },
+    {
+      "index": 198,
+      "id": "0xF402D956",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 199,
+      "id": "0xF402D957",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 200,
+      "id": "0xF402D958",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 201,
+      "id": "0xF402D959",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 202,
+      "id": "0xF402D95A",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 203,
+      "id": "0xF402D95B",
+      "en": "Long",
+      "fr": "Long",
+      "de": "Lang",
+      "it": "Lunghi",
+      "es": "Largo",
+      "tr": "Uzun"
+    },
+    {
+      "index": 204,
+      "id": "0xF4AF03C1",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 205,
+      "id": "0xF4AF03C2",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 206,
+      "id": "0xF4AF03C3",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 207,
+      "id": "0xF4AF03C4",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 208,
+      "id": "0xF4AF03C5",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 209,
+      "id": "0xF4AF03C6",
+      "en": "Ponytail",
+      "fr": "Catogan",
+      "de": "Pferdeschwanz",
+      "it": "Coda di cavallo",
+      "es": "Cola de caballo",
+      "tr": "At Kuyruğu"
+    },
+    {
+      "index": 210,
+      "id": "0xFAC4EFAB",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 211,
+      "id": "0xFAC4EFAC",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 212,
+      "id": "0xFAC4EFAD",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 213,
+      "id": "0xFAC4EFAE",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 214,
+      "id": "0xFAC4EFAF",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 215,
+      "id": "0xFAC4EFB0",
+      "en": "Mohawk",
+      "fr": "Iroquoise",
+      "de": "Irokese",
+      "it": "Cresta",
+      "es": "Cresta",
+      "tr": "Mohikan"
+    },
+    {
+      "index": 216,
+      "id": "0xFCADC938",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    },
+    {
+      "index": 217,
+      "id": "0xFCADC939",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    },
+    {
+      "index": 218,
+      "id": "0xFCADC93A",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    },
+    {
+      "index": 219,
+      "id": "0xFCADC93B",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    },
+    {
+      "index": 220,
+      "id": "0xFCADC93C",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    },
+    {
+      "index": 221,
+      "id": "0xFCADC93D",
+      "en": "Short",
+      "fr": "Court",
+      "de": "Kurz",
+      "it": "Corti",
+      "es": "Corto",
+      "tr": "Kısa"
+    }
+  ]
+}

@@ -1,0 +1,5288 @@
+{
+  "format": "Heroes of Ruin STRL multi-language translation table",
+  "file": "weapons.strl_",
+  "languages": {
+    "en": "_UK",
+    "fr": "_FR",
+    "de": "_GE",
+    "it": "_IT",
+    "es": "_SP"
+  },
+  "notes": [
+    "Translate only the tr field. en/fr/de/it/es are side-by-side references.",
+    "If tr is empty during build, English is used for that row.",
+    "Protected control/variable tokens are validated against English."
+  ],
+  "entries": [
+    {
+      "index": 0,
+      "id": "0x003CB5D9",
+      "en": "Apprentice's",
+      "fr": "d'apprenti",
+      "de": "Lehrling-",
+      "it": "dell'apprendista",
+      "es": "del aprendiz",
+      "tr": "Çırak"
+    },
+    {
+      "index": 1,
+      "id": "0x003CB5DA",
+      "en": "Defender's",
+      "fr": "de protecteur",
+      "de": "Verteidiger-",
+      "it": "del difensore",
+      "es": "del defensor",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 2,
+      "id": "0x003CB5DB",
+      "en": "Guardian's",
+      "fr": "de gardien",
+      "de": "Wächter-",
+      "it": "del guardiano",
+      "es": "del guardián",
+      "tr": "Koruyucu"
+    },
+    {
+      "index": 3,
+      "id": "0x003CB5DC",
+      "en": "Ancient",
+      "fr": "ancien",
+      "de": "Altes",
+      "it": "dell'antichità",
+      "es": "antiguo",
+      "tr": "Kadim"
+    },
+    {
+      "index": 4,
+      "id": "0x003CB5DD",
+      "en": "Lancer's",
+      "fr": "de lancier",
+      "de": "Lanzenträger-",
+      "it": "del lanciere",
+      "es": "del lancero",
+      "tr": "Mızrakçı"
+    },
+    {
+      "index": 5,
+      "id": "0x003CB5DE",
+      "en": "Magister's",
+      "fr": "de magistère",
+      "de": "Magister-",
+      "it": "del maestro",
+      "es": "del maestre",
+      "tr": "Üstat"
+    },
+    {
+      "index": 6,
+      "id": "0x003CB5DF",
+      "en": "Durable",
+      "fr": "résistant",
+      "de": "Haltbares",
+      "it": "della resistenza",
+      "es": "resistente",
+      "tr": "Dayanıklı"
+    },
+    {
+      "index": 7,
+      "id": "0x003CB5E0",
+      "en": "Travelworn",
+      "fr": "bosselé",
+      "de": "Abgenutztes",
+      "it": "del consumo",
+      "es": "gastado",
+      "tr": "Yıpranmış"
+    },
+    {
+      "index": 8,
+      "id": "0x003CB5E1",
+      "en": "Stalwart",
+      "fr": "vigoureux",
+      "de": "Robustes",
+      "it": "della robustezza",
+      "es": "fiel",
+      "tr": "Sarsılmaz"
+    },
+    {
+      "index": 9,
+      "id": "0x003CB5F7",
+      "en": "Wizard's",
+      "fr": "de magicien",
+      "de": "Zauberer-",
+      "it": "del mago",
+      "es": "del mago",
+      "tr": "Büyücü"
+    },
+    {
+      "index": 10,
+      "id": "0x012E2878",
+      "en": "Crested",
+      "fr": "à armoiries",
+      "de": "Verschnörkelter",
+      "it": "con stemma",
+      "es": "con cresta",
+      "tr": "Armalı"
+    },
+    {
+      "index": 11,
+      "id": "0x017C8ED4",
+      "en": "Cavalier's Gauntlets",
+      "fr": "Manicles de cavalier",
+      "de": "Stulpen des Kavaliers",
+      "it": "Guanti d'arme del cavaliere",
+      "es": "Guanteletes de caballero",
+      "tr": "Süvari Zırh Eldivenleri"
+    },
+    {
+      "index": 12,
+      "id": "0x02B7E104",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Ancient Shinplates",
+      "fr": "Grèves anciennes #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Alte Schienbeinplatten",
+      "it": "Schinieri antichi #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Espinilleras antiguas #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Kadim Baldırlıklar"
+    },
+    {
+      "index": 13,
+      "id": "0x02E30117",
+      "en": "Spiked",
+      "fr": "à pointes",
+      "de": "Stacheliger",
+      "it": "a punta",
+      "es": "espinoso",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 14,
+      "id": "0x03BC87C6",
+      "en": "Ring of the Wildlands",
+      "fr": "Anneau des contrées sauvages",
+      "de": "Ring der Wildlande",
+      "it": "Anello delle terre selvagge",
+      "es": "Anillo de los páramos",
+      "tr": "Yaban Diyarları Yüzüğü"
+    },
+    {
+      "index": 15,
+      "id": "0x0497D9B6",
+      "en": "Fencer's",
+      "fr": "d'escrime",
+      "de": "Fechtender",
+      "it": "dello schermitore",
+      "es": "del espadachín",
+      "tr": "Eskrimci"
+    },
+    {
+      "index": 16,
+      "id": "0x05684D42",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Heirloom Moccasins",
+      "fr": "Souliers de famille #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Geerbte Moccasins",
+      "it": "Mocassini del cimelio #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mocasines de reliquia #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Aile Mirası Mokasenler"
+    },
+    {
+      "index": 17,
+      "id": "0x05BA26DB",
+      "en": "Renegade's Sabatons",
+      "fr": "Jambières du renégat",
+      "de": "Sabatons des Renegaten",
+      "it": "Calzari del rinnegato",
+      "es": "Escarpes de renegado",
+      "tr": "Dönek Zırh Çizmeleri"
+    },
+    {
+      "index": 18,
+      "id": "0x05CF1873",
+      "en": "Guardian's",
+      "fr": "de gardien",
+      "de": "Wächter-",
+      "it": "del guardiano",
+      "es": "del guardián",
+      "tr": "Koruyucu"
+    },
+    {
+      "index": 19,
+      "id": "0x06B7D90D",
+      "en": "Renegade's Hauberk",
+      "fr": "Haubert du renégat",
+      "de": "Kettenhemd des Renegaten",
+      "it": "Usbergo del rinnegato",
+      "es": "Peto de renegado",
+      "tr": "Dönek Zincir Zırhı"
+    },
+    {
+      "index": 20,
+      "id": "0x080CE45E",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Corsair's Breastplate",
+      "fr": "Plastron de corsaire #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Korsaren-Brustplatte",
+      "it": "Corazza da corsaro #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Peto de corsario #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Korsan Göğüslüğü"
+    },
+    {
+      "index": 21,
+      "id": "0x09FC2461",
+      "en": "Voodoo",
+      "fr": "vaudou",
+      "de": "Voodooistische",
+      "it": "vudù",
+      "es": "vudú",
+      "tr": "Vudu"
+    },
+    {
+      "index": 22,
+      "id": "0x0A6BBA72",
+      "en": "Acolyte's Boots",
+      "fr": "Bottes de l'acolyte",
+      "de": "Stiefel des Akoluthen",
+      "it": "Stivali dell'accolito",
+      "es": "Botas de acólito",
+      "tr": "Mürit Çizmeleri"
+    },
+    {
+      "index": 23,
+      "id": "0x0B376433",
+      "en": "Ring of Goblin Intellimancy",
+      "fr": "Anneau d'intellimancie gobeline",
+      "de": "Ring der Goblin-Intellimantie",
+      "it": "Anello della conoscenza goblin",
+      "es": "Anillo de intelimancia goblin",
+      "tr": "Goblin Zekâbüyüsü Yüzüğü"
+    },
+    {
+      "index": 24,
+      "id": "0x0B63BC6B",
+      "en": "Gambler's Spaulders",
+      "fr": "Pèlerine du franc-tireur",
+      "de": "Schiftungen des Spielers",
+      "it": "Spallacci del giocatore",
+      "es": "Hombreras de jugador",
+      "tr": "Kumarbaz Omuzlukları"
+    },
+    {
+      "index": 25,
+      "id": "0x0B696CA4",
+      "en": "Acolyte's Robes",
+      "fr": "Robe de l'acolyte",
+      "de": "Roben des Akoluthen",
+      "it": "Vesti dell'accolito",
+      "es": "Túnica de acólito",
+      "tr": "Mürit Cübbesi"
+    },
+    {
+      "index": 26,
+      "id": "0x0BB5F765",
+      "en": "Wanderer's",
+      "fr": "de vagabond",
+      "de": "Wanderer-",
+      "it": "del viandante",
+      "es": "del vagabundo",
+      "tr": "Gezgin"
+    },
+    {
+      "index": 27,
+      "id": "0x0F6962AA",
+      "en": "Regal",
+      "fr": "royaux",
+      "de": "Königliche",
+      "it": "regale",
+      "es": "reales",
+      "tr": "Asil"
+    },
+    {
+      "index": 28,
+      "id": "0x0F7316A7",
+      "en": "Aetherwood",
+      "fr": "Bois éthéré",
+      "de": "Ätherholz",
+      "it": "Bosco etereo",
+      "es": "Madera etérea",
+      "tr": "Eter Ağacı"
+    },
+    {
+      "index": 29,
+      "id": "0x10138294",
+      "en": "Wizard's",
+      "fr": "de magicien",
+      "de": "Zauberer-",
+      "it": "del mago",
+      "es": "del mago",
+      "tr": "Büyücü"
+    },
+    {
+      "index": 30,
+      "id": "0x10943592",
+      "en": "Guardian's",
+      "fr": "de gardien",
+      "de": "Wächter-",
+      "it": "del guardiano",
+      "es": "del guardián",
+      "tr": "Koruyucu"
+    },
+    {
+      "index": 31,
+      "id": "0x111665BA",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Goblin-Sewn Dusters",
+      "fr": "Pèlerine de gobelin #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Goblin-genähte Klappen",
+      "it": "Abiti dei Goblin #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes goblin #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Goblin Dikişli Eldivenler"
+    },
+    {
+      "index": 32,
+      "id": "0x12240850",
+      "en": "#0x0EDDF5FF#{{0x2605}}Frostclad#PREVIOUS#\nChance on hit to slow enemy with ice",
+      "fr": "#0x0EDDF5FF#{{0x2605}}Protection glaciale#PREVIOUS#\nPossibilité de ralentir un ennemi en le couvrant de glace lorsque vous le touchez.",
+      "de": "#0x0EDDF5FF#{{0x2605}}Frostgewandet#PREVIOUS#\nChance, den Gegner im Falle eines Treffers mit Eis zu verlangsamen.",
+      "it": "#0x0EDDF5FF#{{0x2605}}Geloveste#PREVIOUS#\nPossibilità di rallentare con il gelo il nemico colpito.",
+      "es": "#0x0EDDF5FF#{{0x2605}}Armadura helada#PREVIOUS#\nProbabilidad al golpear de ralentizar al enemigo con hielo.",
+      "tr": "#0x0EDDF5FF#{{0x2605}}Buz Zırhı#PREVIOUS#\nVuruşta düşmanı buzla yavaşlatma ihtimali."
+    },
+    {
+      "index": 33,
+      "id": "0x1228844A",
+      "en": "#0x0EDDF5FF#{{0x2605}}Frostclad#PREVIOUS#",
+      "fr": "#0x0EDDF5FF#{{0x2605}}Protection glaciale#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}Frostgewandet#PREVIOUS#",
+      "it": "#0x0EDDF5FF#{{0x2605}}Geloveste#PREVIOUS#",
+      "es": "#0x0EDDF5FF#{{0x2605}}Armadura helada#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Buz Zırhı"
+    },
+    {
+      "index": 34,
+      "id": "0x13615736",
+      "en": "Magister's",
+      "fr": "de magistère",
+      "de": "Magister-",
+      "it": "del maestro",
+      "es": "del maestre",
+      "tr": "Üstat"
+    },
+    {
+      "index": 35,
+      "id": "0x1368E0AE",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Spiderhide Armguards",
+      "fr": "Brassards arachnéens #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Spinnenhaut-Armschienen",
+      "it": "Parabraccia del ragno #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guardabrazos de piel de araña #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Örümcek Derisi Kolçaklar"
+    },
+    {
+      "index": 36,
+      "id": "0x141BB0EE",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Druidlord's Boots",
+      "fr": "Bottes du grand druide #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Stiefel des Druidenfürsten",
+      "it": "Stivali del signore dei druidi #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Botas de señor druida #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Druid Lordu Çizmeleri"
+    },
+    {
+      "index": 37,
+      "id": "0x14D3E45C",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Rage-Hide Harness",
+      "fr": "Harnais de peau enragée #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Wutfell-Harnisch",
+      "it": "Pettorina della collera #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Arnés de pellejo furioso #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Öfke Derili Göğüslük"
+    },
+    {
+      "index": 38,
+      "id": "0x1642E07E",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Tibur-Lord Harness",
+      "fr": "Harnais de seigneur tiburien #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Tiburfürst-Harnisch",
+      "it": "Pettorina del signore dei Tibur #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Arnés de señor tibur #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Tibur Lordu Göğüslüğü"
+    },
+    {
+      "index": 39,
+      "id": "0x16EDF314",
+      "en": "Belt of Ancient Magics",
+      "fr": "Ceinture de magie ancienne",
+      "de": "Gürtel der alten Magie",
+      "it": "Cintura dell'antica magia",
+      "es": "Cinturón de la magia antigua",
+      "tr": "Kadim Büyü Kemeri"
+    },
+    {
+      "index": 40,
+      "id": "0x1721029F",
+      "en": "Rugged",
+      "fr": "usagée",
+      "de": "Robuste",
+      "it": "resistente",
+      "es": "basta",
+      "tr": "Sağlam"
+    },
+    {
+      "index": 41,
+      "id": "0x176E6644",
+      "en": "Predator's Greaves",
+      "fr": "Grèves du prédateur",
+      "de": "Beinschienen des Räubers",
+      "it": "Gambali del predatore",
+      "es": "Grebas de depredador",
+      "tr": "Avcı Baldır Zırhı"
+    },
+    {
+      "index": 42,
+      "id": "0x178E6324",
+      "en": "Reinforced",
+      "fr": "renforcées",
+      "de": "Verstärkte",
+      "it": "del rinforzo",
+      "es": "reforzadas",
+      "tr": "Takviyeli"
+    },
+    {
+      "index": 43,
+      "id": "0x1846DF73",
+      "en": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Warden's Blade",
+      "fr": "Lame du gardien #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Klinge des Hüters",
+      "it": "Lama del custode #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "es": "Espada del custodio #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Muhafız Kılıcı"
+    },
+    {
+      "index": 44,
+      "id": "0x186C1876",
+      "en": "Predator's Harness",
+      "fr": "Harnais du prédateur",
+      "de": "Harnisch des Räubers",
+      "it": "Finimenti del predatore",
+      "es": "Arnés de depredador",
+      "tr": "Avcı Göğüslüğü"
+    },
+    {
+      "index": 45,
+      "id": "0x18F5FB2E",
+      "en": "Sharpshooter's Spaulders",
+      "fr": "Pèlerine du tireur d'élite",
+      "de": "Schiftungen des Scharfschützen",
+      "it": "Spallacci del tiratore scelto",
+      "es": "Hombreras de tirador",
+      "tr": "Keskin Nişancı Omuzlukları"
+    },
+    {
+      "index": 46,
+      "id": "0x193FB7F4",
+      "en": "Zealot's Pauldrons",
+      "fr": "Espauliers du fanatique",
+      "de": "Schulterplatten des Zeloten",
+      "it": "Paraspalle dello zelota",
+      "es": "Cubrehombros de fanático",
+      "tr": "Fanatik Omuz Plakası"
+    },
+    {
+      "index": 47,
+      "id": "0x19631BC7",
+      "en": "Trooper's",
+      "fr": "de cavalier",
+      "de": "Trooper-",
+      "it": "del milite",
+      "es": "de la tropa",
+      "tr": "Asker"
+    },
+    {
+      "index": 48,
+      "id": "0x1A09CBC1",
+      "en": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Razors of Triumph",
+      "fr": "Rasettes de triomphe #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Klingen des Triumphs",
+      "it": "Rasoi del trionfo #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "es": "Navajas de triunfo #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Zafer Usturaları"
+    },
+    {
+      "index": 49,
+      "id": "0x1A16C0B3",
+      "en": "Apprentice's",
+      "fr": "d'apprenti",
+      "de": "Lehrling-",
+      "it": "dell'apprendista",
+      "es": "del aprendiz",
+      "tr": "Çırak"
+    },
+    {
+      "index": 50,
+      "id": "0x1B29A588",
+      "en": "Emblem of Salvera",
+      "fr": "Emblème de Salvéra",
+      "de": "Emblem von Salvera",
+      "it": "Emblema di Salvera",
+      "es": "Emblema de Salvera",
+      "tr": "Salvera Amblemi"
+    },
+    {
+      "index": 51,
+      "id": "0x1B53C70F",
+      "en": "Ancient",
+      "fr": "ancienne",
+      "de": "Alte",
+      "it": "dell'antichità",
+      "es": "antigua",
+      "tr": "Kadim"
+    },
+    {
+      "index": 52,
+      "id": "0x1BCB9952",
+      "en": "Defender's",
+      "fr": "de protecteur",
+      "de": "Verteidiger-",
+      "it": "del difensore",
+      "es": "del defensor",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 53,
+      "id": "0x1C459410",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Primal Mantle",
+      "fr": "Cape archéenne #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Urtümlicher Mantel",
+      "it": "Manto delle primeve #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manto primario #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# İlksel Pelerin"
+    },
+    {
+      "index": 54,
+      "id": "0x1C90664B",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Wildlord's Greaves",
+      "fr": "Grèves du seigneur du désert #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Beinschienen des Fürsten der Wildnis",
+      "it": "Gambali del signore selvaggio #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Grebas de señor salvaje #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Yaban Lordu Baldır Zırhı"
+    },
+    {
+      "index": 55,
+      "id": "0x1D8071F1",
+      "en": "Guardian's",
+      "fr": "de gardien",
+      "de": "Wächter-",
+      "it": "del guardiano",
+      "es": "del guardián",
+      "tr": "Koruyucu"
+    },
+    {
+      "index": 56,
+      "id": "0x1D877F90",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Starwalk Sandals",
+      "fr": "Sandales fantastiques #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Sternschritt-Sandalen",
+      "it": "Sandali delle stelle #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Sandalias estelares #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Yıldızgezer Sandaletleri"
+    },
+    {
+      "index": 57,
+      "id": "0x1E77E666",
+      "en": "Champion's",
+      "fr": "de protecteur",
+      "de": "Champion-",
+      "it": "del campione",
+      "es": "del campeón",
+      "tr": "Şampiyon"
+    },
+    {
+      "index": 58,
+      "id": "0x1EF67BB2",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Sharkhide Treads",
+      "fr": "Bottes en peau de requin #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Haihaut-Stiefel",
+      "it": "Calzature di pelle di squalo #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Zapatos de piel de tiburón #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Köpekbalığı Derisi Çizmeler"
+    },
+    {
+      "index": 59,
+      "id": "0x1F354A90",
+      "en": "Ancient",
+      "fr": "ancien",
+      "de": "Alter",
+      "it": "dell'antichità",
+      "es": "antiguo",
+      "tr": "Kadim"
+    },
+    {
+      "index": 60,
+      "id": "0x1FA8FFDF",
+      "en": "Reliable",
+      "fr": "fidèle",
+      "de": "Verlässliche",
+      "it": "affidabile",
+      "es": "fiable",
+      "tr": "Güvenilir"
+    },
+    {
+      "index": 61,
+      "id": "0x20942023",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Wanderer's Footpads",
+      "fr": "Bottes du vagabond #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Einlegesohlen des Wanderers",
+      "it": "Calzature del vagabondo #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Calzado de vagabundo #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Gezgin Ayakkabıları"
+    },
+    {
+      "index": 62,
+      "id": "0x20E65C29",
+      "en": "Ornate",
+      "fr": "ornés",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentados",
+      "tr": "Süslü"
+    },
+    {
+      "index": 63,
+      "id": "0x20EA232F",
+      "en": "Lancer's",
+      "fr": "de lancier",
+      "de": "Lanzenträger-",
+      "it": "del lanciere",
+      "es": "del lancero",
+      "tr": "Mızrakçı"
+    },
+    {
+      "index": 64,
+      "id": "0x20F395F9",
+      "en": "Stalwart",
+      "fr": "vigoureuses",
+      "de": "Robustes",
+      "it": "della robustezza",
+      "es": "fieles",
+      "tr": "Sarsılmaz"
+    },
+    {
+      "index": 65,
+      "id": "0x20FB1F71",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Oakiron Armguards",
+      "fr": "Brassards en chêne de fer #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Oakiron-Armschienen",
+      "it": "Parabraccia di ferroquercia #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guardabrazos de roble #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Meşe Demiri Kolçaklar"
+    },
+    {
+      "index": 66,
+      "id": "0x21801D2D",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Fae Grips",
+      "fr": "Poignets féériques #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Feien-Grifflinge",
+      "it": "Guanti dei fae #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mitones de fata #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Peri Eldivenleri"
+    },
+    {
+      "index": 67,
+      "id": "0x22112F11",
+      "en": "Defender's",
+      "fr": "de protecteur",
+      "de": "Verteidiger-",
+      "it": "del difensore",
+      "es": "del defensor",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 68,
+      "id": "0x2261471A",
+      "en": "Lawman's",
+      "fr": "de carabinier",
+      "de": "Sheriff-",
+      "it": "dell'uomo di legge",
+      "es": "del agente",
+      "tr": "Kanun Adamı"
+    },
+    {
+      "index": 69,
+      "id": "0x229EB875",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Archdemon's Fang",
+      "fr": "Lame de l'Archidémon #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Reißzahn des Erzdämons",
+      "it": "Zanna dell'arcidemone #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Colmillo del archidemonio #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Başiblis Dişi"
+    },
+    {
+      "index": 70,
+      "id": "0x229EFBCE",
+      "en": "Magister's",
+      "fr": "de magistère",
+      "de": "Magister-",
+      "it": "del maestro",
+      "es": "del maestre",
+      "tr": "Üstat"
+    },
+    {
+      "index": 71,
+      "id": "0x22B20A1E",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Scavenger's Shoulderpads",
+      "fr": "Épaulières de charognard #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Plünderer-Schulterpolster",
+      "it": "Spallacci del predatore #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de carroñero #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Leşçi Omuzlukları"
+    },
+    {
+      "index": 72,
+      "id": "0x22B9A76A",
+      "en": "Stalwart",
+      "fr": "vigoureuse",
+      "de": "Robuste",
+      "it": "della robustezza",
+      "es": "fiel",
+      "tr": "Sarsılmaz"
+    },
+    {
+      "index": 73,
+      "id": "0x231A8104",
+      "en": "Acolyte's Mantle",
+      "fr": "Cape de l'acolyte",
+      "de": "Mantel des Akoluthen",
+      "it": "Mantello dell'accolito",
+      "es": "Manto de acólito",
+      "tr": "Mürit Pelerini"
+    },
+    {
+      "index": 74,
+      "id": "0x237DFECD",
+      "en": "Fangblade",
+      "fr": "Tranchoir",
+      "de": "Fangklinge",
+      "it": "Lamazanna",
+      "es": "Cuchillacolmillo",
+      "tr": "Dişkılıç"
+    },
+    {
+      "index": 75,
+      "id": "0x237DFECE",
+      "en": "Brand",
+      "fr": "Branc",
+      "de": "Brand",
+      "it": "Brando",
+      "es": "Marcadora",
+      "tr": "Dağlama"
+    },
+    {
+      "index": 76,
+      "id": "0x237DFECF",
+      "en": "Slicer",
+      "fr": "Écarteleur",
+      "de": "Schlitzer",
+      "it": "Affettatore",
+      "es": "Sajadora",
+      "tr": "Dilimleyici"
+    },
+    {
+      "index": 77,
+      "id": "0x237DFED0",
+      "en": "Zweihander",
+      "fr": "Espadon",
+      "de": "Zweihänder",
+      "it": "Spadone",
+      "es": "Zweihander",
+      "tr": "Çift El Kılıcı"
+    },
+    {
+      "index": 78,
+      "id": "0x237DFED1",
+      "en": "Punisher",
+      "fr": "Fossoyeuse",
+      "de": "Bestrafer",
+      "it": "Punitore",
+      "es": "Castigadora",
+      "tr": "Cezalandırıcı"
+    },
+    {
+      "index": 79,
+      "id": "0x237DFED2",
+      "en": "Razorsaw",
+      "fr": "Lame crantée",
+      "de": "Sägemesser",
+      "it": "Rasoio",
+      "es": "Sierrafilada",
+      "tr": "Ustura Testere"
+    },
+    {
+      "index": 80,
+      "id": "0x237DFED3",
+      "en": "Arcblade",
+      "fr": "Alfange",
+      "de": "Bogenklinge",
+      "it": "Lama arcuata",
+      "es": "Arcocuchilla",
+      "tr": "Yaykılıç"
+    },
+    {
+      "index": 81,
+      "id": "0x237DFED4",
+      "en": "Crossedge",
+      "fr": "Scramasaxe",
+      "de": "Kreuzklinge",
+      "it": "Filo incrociato",
+      "es": "Filocruzada",
+      "tr": "Çapraz Ağız"
+    },
+    {
+      "index": 82,
+      "id": "0x237DFED5",
+      "en": "Scimitar",
+      "fr": "Cimeterre",
+      "de": "Krummsäbel",
+      "it": "Scimitarra",
+      "es": "Cimatarra",
+      "tr": "Pala"
+    },
+    {
+      "index": 83,
+      "id": "0x237DFEEB",
+      "en": "Falchion",
+      "fr": "Fauchon",
+      "de": "Falchion",
+      "it": "Falcione",
+      "es": "Bracamante",
+      "tr": "Falchion"
+    },
+    {
+      "index": 84,
+      "id": "0x237DFEEC",
+      "en": "Tormentor",
+      "fr": "Badelaire",
+      "de": "Folterer",
+      "it": "Tormentatore",
+      "es": "Atormentadora",
+      "tr": "Eziyetçi"
+    },
+    {
+      "index": 85,
+      "id": "0x237DFEED",
+      "en": "Executioner",
+      "fr": "Équarrisseur",
+      "de": "Henker",
+      "it": "Boia",
+      "es": "Ejecutora",
+      "tr": "Cellat"
+    },
+    {
+      "index": 86,
+      "id": "0x237DFEEE",
+      "en": "Claymore",
+      "fr": "Claymore",
+      "de": "Claymore",
+      "it": "Claymore",
+      "es": "Montante",
+      "tr": "Claymore"
+    },
+    {
+      "index": 87,
+      "id": "0x237DFEEF",
+      "en": "Flamberge",
+      "fr": "Flamberge",
+      "de": "Flamberge",
+      "it": "Flamberga",
+      "es": "Flamberge",
+      "tr": "Flamberge"
+    },
+    {
+      "index": 88,
+      "id": "0x237DFEF0",
+      "en": "Gladius",
+      "fr": "Glaive",
+      "de": "Gladius",
+      "it": "Gladio",
+      "es": "Gladio",
+      "tr": "Gladius"
+    },
+    {
+      "index": 89,
+      "id": "0x237DFEF1",
+      "en": "Shrikeclaw",
+      "fr": "Badelaire",
+      "de": "Kreischklaue",
+      "it": "Artigliante",
+      "es": "Garraganchuda",
+      "tr": "Çığlıkpençe"
+    },
+    {
+      "index": 90,
+      "id": "0x237DFEF2",
+      "en": "Wingblade",
+      "fr": "Lame ailée",
+      "de": "Flügelklinge",
+      "it": "Lama alata",
+      "es": "Cuchilla alada",
+      "tr": "Kanatkılıç"
+    },
+    {
+      "index": 91,
+      "id": "0x237DFEF3",
+      "en": "Defender",
+      "fr": "Rapière",
+      "de": "Verteidiger",
+      "it": "Difensore",
+      "es": "Defensora",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 92,
+      "id": "0x237DFEF4",
+      "en": "Cleaver",
+      "fr": "Couperet",
+      "de": "Spalter",
+      "it": "Mannaia",
+      "es": "Hendidora",
+      "tr": "Satır"
+    },
+    {
+      "index": 93,
+      "id": "0x237DFF0A",
+      "en": "Broadsword",
+      "fr": "Estramaçon",
+      "de": "Breitschwert",
+      "it": "Spada larga",
+      "es": "Espada ancha",
+      "tr": "Geniş Kılıç"
+    },
+    {
+      "index": 94,
+      "id": "0x24312447",
+      "en": "Nomad's Jungleblades",
+      "fr": "Fauvettes du nomade",
+      "de": "Dschungelklingen des Nomaden",
+      "it": "Lame della giungla del nomade",
+      "es": "Selvacuchillas de nómada",
+      "tr": "Göçebe Orman Kılıçları"
+    },
+    {
+      "index": 95,
+      "id": "0x2453D46D",
+      "en": "Durable",
+      "fr": "résistant",
+      "de": "Haltbarer",
+      "it": "della resistenza",
+      "es": "resistente",
+      "tr": "Dayanıklı"
+    },
+    {
+      "index": 96,
+      "id": "0x24B5B4FD",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Tideworn Leather",
+      "fr": "Haut de cuir usé #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Gezeitengegerbtes Leder",
+      "it": "Pettorina di pelle della marea #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cuero de las mareas #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Gelgitle Aşınmış Deri"
+    },
+    {
+      "index": 97,
+      "id": "0x24C44E1A",
+      "en": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# The Staff of Ataraxis",
+      "fr": "Bâton d'Ataraxis #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Der Stab von Ataraxis",
+      "it": "Verga di Ataraxis #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "es": "El bastón de Ataraxis #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Ataraxis Asası"
+    },
+    {
+      "index": 98,
+      "id": "0x24E07679",
+      "en": "Fake Starting Shoulderpads",
+      "fr": "Savage_T1_Shoulders not localized.",
+      "de": "Savage_T1_Shoulders not localized.",
+      "it": "Savage_T1_Shoulders not localized.",
+      "es": "Savage_T1_Shoulders not localized.",
+      "tr": "Sahte Başlangıç Omuzlukları"
+    },
+    {
+      "index": 99,
+      "id": "0x24EEA3B5",
+      "en": "Pilgrim's Broadsword",
+      "fr": "Épée large du pèlerin",
+      "de": "Breitschwert des Pilgers",
+      "it": "Spada larga del pellegrino",
+      "es": "Espada de peregrino",
+      "tr": "Hacı Geniş Kılıcı"
+    },
+    {
+      "index": 100,
+      "id": "0x24FF2877",
+      "en": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Catalyst Blasters",
+      "fr": "Tromblons catalyseurs #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Katalysator-Blaster",
+      "it": "Distruttori del catalizzatore #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "es": "Blásters catalizadores #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Katalizör Tabancaları"
+    },
+    {
+      "index": 101,
+      "id": "0x2520A1E7",
+      "en": "Juju",
+      "fr": "de magie noire",
+      "de": "Juju-beseelte",
+      "it": "Juju",
+      "es": "Juju",
+      "tr": "Juju"
+    },
+    {
+      "index": 102,
+      "id": "0x2608AD0C",
+      "en": "Travelworn",
+      "fr": "bosselé",
+      "de": "Abgenutzter",
+      "it": "del consumo",
+      "es": "gastado",
+      "tr": "Yıpranmış"
+    },
+    {
+      "index": 103,
+      "id": "0x26E03469",
+      "en": "Warren-Hide Wrap",
+      "fr": "Châle de garenne",
+      "de": "Kaninchenfell-Stola",
+      "it": "Stola del labirinto",
+      "es": "Ropa de piel",
+      "tr": "İn Derisi Sargı"
+    },
+    {
+      "index": 104,
+      "id": "0x26E8EBAE",
+      "en": "Wizard's",
+      "fr": "de magicien",
+      "de": "Zauberer-",
+      "it": "del mago",
+      "es": "del mago",
+      "tr": "Büyücü"
+    },
+    {
+      "index": 105,
+      "id": "0x26F55A8A",
+      "en": "Calvary",
+      "fr": "crucifiantes",
+      "de": "Reittaugliche",
+      "it": "del calvario",
+      "es": "de caballería",
+      "tr": "Süvari"
+    },
+    {
+      "index": 106,
+      "id": "0x27009631",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Privateer's Jackboots",
+      "fr": "Bottes de flibustier #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Freibeuter-Stiefel",
+      "it": "Stivali da corsaro #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Botas de bucanero #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Korsan Çizmeleri"
+    },
+    {
+      "index": 107,
+      "id": "0x27378717",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Mantle of the Archmage",
+      "fr": "Cape de l'archimage #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Mantel des Erzmagiers",
+      "it": "Mantello dell'arcimago #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manto del archimago #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Başbüyücü Pelerini"
+    },
+    {
+      "index": 108,
+      "id": "0x27BD85AB",
+      "en": "Stalwart",
+      "fr": "vigoureux",
+      "de": "Robuster",
+      "it": "della robustezza",
+      "es": "fiel",
+      "tr": "Sarsılmaz"
+    },
+    {
+      "index": 109,
+      "id": "0x29B82AE1",
+      "en": "Hunter's",
+      "fr": "de chasseur",
+      "de": "Jäger-",
+      "it": "del cacciatore",
+      "es": "del cazador",
+      "tr": "Avcı"
+    },
+    {
+      "index": 110,
+      "id": "0x29C72775",
+      "en": "Plated",
+      "fr": "cuirassée",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazada",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 111,
+      "id": "0x2A227760",
+      "en": "Reliable",
+      "fr": "fidèle",
+      "de": "Verlässlicher",
+      "it": "affidabile",
+      "es": "fiable",
+      "tr": "Güvenilir"
+    },
+    {
+      "index": 112,
+      "id": "0x2AA8B5E6",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "it": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 113,
+      "id": "0x2AB7E148",
+      "en": "Wanderer's Sabatons",
+      "fr": "Jambières du vagabond",
+      "de": "Sabatons des Wanderers",
+      "it": "Calzari del vagabondo",
+      "es": "Escarpes de vagabundo",
+      "tr": "Gezgin Zırh Çizmeleri"
+    },
+    {
+      "index": 114,
+      "id": "0x2AE9445A",
+      "en": "Footman's",
+      "fr": "de valet",
+      "de": "Dienstbare",
+      "it": "del fante",
+      "es": "del lacayo",
+      "tr": "Piyade"
+    },
+    {
+      "index": 115,
+      "id": "0x2B2D5036",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Labrat's Pauldrons",
+      "fr": "Espauliers du théoricien #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Labrats Schulterplatten",
+      "it": "Paraspalle di Labrat #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cubrehombros de Labrat #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Denek Omuz Plakası"
+    },
+    {
+      "index": 116,
+      "id": "0x2BB5937A",
+      "en": "Wanderer's Brigadine",
+      "fr": "Brigandine du vagabond",
+      "de": "Brigantine des Wanderers",
+      "it": "Brigantina del vagabondo",
+      "es": "Brigandina  de vagabundo",
+      "tr": "Gezgin Brigantini"
+    },
+    {
+      "index": 117,
+      "id": "0x2C5AC6EE",
+      "en": "Grim",
+      "fr": "sinistre",
+      "de": "Grimmiges",
+      "it": "lugubre",
+      "es": "lúgubre",
+      "tr": "Kasvetli"
+    },
+    {
+      "index": 118,
+      "id": "0x2C5AC6EF",
+      "en": "Dread",
+      "fr": "menaçant",
+      "de": "Schreckliches",
+      "it": "pauroso",
+      "es": "terrorífico",
+      "tr": "Dehşet"
+    },
+    {
+      "index": 119,
+      "id": "0x2C5AC6F0",
+      "en": "Soldier's",
+      "fr": "de soldat",
+      "de": "Soldatisches",
+      "it": "del soldato",
+      "es": "del soldado",
+      "tr": "Asker"
+    },
+    {
+      "index": 120,
+      "id": "0x2C5AC6F1",
+      "en": "Footman's",
+      "fr": "de valet",
+      "de": "Dienstbares",
+      "it": "del fante",
+      "es": "del lacayo",
+      "tr": "Piyade"
+    },
+    {
+      "index": 121,
+      "id": "0x2C5AC6F2",
+      "en": "Ornate",
+      "fr": "orné",
+      "de": "Verziertes",
+      "it": "con ornamenti",
+      "es": "ornamentado",
+      "tr": "Süslü"
+    },
+    {
+      "index": 122,
+      "id": "0x2C5AC6F3",
+      "en": "Regal",
+      "fr": "royal",
+      "de": "Königliches",
+      "it": "regale",
+      "es": "real",
+      "tr": "Asil"
+    },
+    {
+      "index": 123,
+      "id": "0x2C5AC6F4",
+      "en": "Crested",
+      "fr": "à armoiries",
+      "de": "Verschnörkeltes",
+      "it": "con stemma",
+      "es": "con cresta",
+      "tr": "Armalı"
+    },
+    {
+      "index": 124,
+      "id": "0x2C5AC6F5",
+      "en": "Spiked",
+      "fr": "à pointes",
+      "de": "Stacheliges",
+      "it": "a punta",
+      "es": "espinoso",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 125,
+      "id": "0x2C5AC6F6",
+      "en": "Fencer's",
+      "fr": "d'escrime",
+      "de": "Fechtendes",
+      "it": "dello schermitore",
+      "es": "del espadachín",
+      "tr": "Eskrimci"
+    },
+    {
+      "index": 126,
+      "id": "0x2C5AC70C",
+      "en": "Reliable",
+      "fr": "fidèle",
+      "de": "Verlässliches",
+      "it": "affidabile",
+      "es": "fiable",
+      "tr": "Güvenilir"
+    },
+    {
+      "index": 127,
+      "id": "0x2DC5E402",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Druidlord's Shoulderguards",
+      "fr": "Spallières du grand druide #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Schulterschoner des Druidenfürsten",
+      "it": "Paraspalle del signore dei druidi #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de señor druida #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Druid Lordu Omuzlukları"
+    },
+    {
+      "index": 128,
+      "id": "0x2F5E1D01",
+      "en": "#0xF5F325FF#{{0x2605}}Stormfury#PREVIOUS#\nChance on hit to zap an enemy with lightning",
+      "fr": "#0xF5F325FF#{{0x2605}}Fureur tempétueuse#PREVIOUS#\nPossibilité de foudroyer un ennemi lorsque vous le touchez.",
+      "de": "#0xF5F325FF#{{0x2605}}Sturmzorn#PREVIOUS#\nChance, den Gegner im Falle eines Treffers mit einem Blitz zu treffen.",
+      "it": "#0xF5F325FF#{{0x2605}}Furiatempesta#PREVIOUS#\nPossibilità di centrare con un fulmine un nemico colpito.",
+      "es": "#0xF5F325FF#{{0x2605}}Tormenta furiosa#PREVIOUS#\nProbabilidad al golpear de lanzar un rayo al enemigo.",
+      "tr": "#0xF5F325FF#{{0x2605}}Fırtına Öfkesi#PREVIOUS#\nVuruşta düşmana yıldırım çarpma ihtimali."
+    },
+    {
+      "index": 129,
+      "id": "0x2F6298FB",
+      "en": "#0xF5F325FF#{{0x2605}}Stormfury#PREVIOUS#",
+      "fr": "#0xF5F325FF#{{0x2605}}Fureur tempétueuse#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}Sturmzorn#PREVIOUS#",
+      "it": "#0xF5F325FF#{{0x2605}}Furiatempesta#PREVIOUS#",
+      "es": "#0xF5F325FF#{{0x2605}}Tormenta furiosa#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Fırtına Öfkesi"
+    },
+    {
+      "index": 130,
+      "id": "0x304C9101",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Druidlord's Battlegrips",
+      "fr": "Poignets de force du grand druide #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Kampfgrifflinge des Druidenfürsten",
+      "it": "Guanti da guerra del signore dei druidi #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes de batalla de señor druida #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Druid Lordu Savaş Eldivenleri"
+    },
+    {
+      "index": 131,
+      "id": "0x30CCA3E7",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Runic Footpads",
+      "fr": "Bottes runiques #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Runische Einlegesohlen",
+      "it": "Calzature runiche #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Calzado rúnico #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Rünlü Ayakkabılar"
+    },
+    {
+      "index": 132,
+      "id": "0x311E0B3C",
+      "en": "Juju",
+      "fr": "de magie noire",
+      "de": "Juju-beseelte",
+      "it": "Juju",
+      "es": "Juju",
+      "tr": "Juju"
+    },
+    {
+      "index": 133,
+      "id": "0x31CFC358",
+      "en": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Staff of the Distant North",
+      "fr": "Bâton des contrées du nord #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Stab des fernen Nordens",
+      "it": "Verga del lontano nord #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Bastón del lejano norte #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Uzak Kuzey Asası"
+    },
+    {
+      "index": 134,
+      "id": "0x324F24B5",
+      "en": "Fencer's",
+      "fr": "d'escrime",
+      "de": "Fechtende",
+      "it": "dello schermitore",
+      "es": "del espadachín",
+      "tr": "Eskrimci"
+    },
+    {
+      "index": 135,
+      "id": "0x32609BCF",
+      "en": "#0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "it": "#0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "es": "#0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 136,
+      "id": "0x326355A8",
+      "en": "Footman's",
+      "fr": "de valet",
+      "de": "Dienstbare",
+      "it": "del fante",
+      "es": "del lacayo",
+      "tr": "Piyade"
+    },
+    {
+      "index": 137,
+      "id": "0x3296C34A",
+      "en": "Spitefang",
+      "fr": "Croc malveillant",
+      "de": "Bosfang",
+      "it": "Zanna perfida",
+      "es": "Colmillodio",
+      "tr": "Kin Dişi"
+    },
+    {
+      "index": 138,
+      "id": "0x32F520F8",
+      "en": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Primordial Ragers",
+      "fr": "Rageuses primordiales #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Ursprüngliche Waldläufer",
+      "it": "Furie primordiali #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "es": "Furias primordiales #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# İlksel Öfkeliler"
+    },
+    {
+      "index": 139,
+      "id": "0x338E2890",
+      "en": "Apprentice's",
+      "fr": "d'apprenti",
+      "de": "Lehrling-",
+      "it": "dell'apprendista",
+      "es": "del aprendiz",
+      "tr": "Çırak"
+    },
+    {
+      "index": 140,
+      "id": "0x34351FF4",
+      "en": "Warlock's Boots",
+      "fr": "Bottes du sorcier",
+      "de": "Stiefel des Hexers",
+      "it": "Stivali dello stregone",
+      "es": "Botas de brujo",
+      "tr": "Kara Büyücü Çizmeleri"
+    },
+    {
+      "index": 141,
+      "id": "0x3487994D",
+      "en": "Ornate",
+      "fr": "ornées",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentadas",
+      "tr": "Süslü"
+    },
+    {
+      "index": 142,
+      "id": "0x34A24273",
+      "en": "Wanderer's Dusters",
+      "fr": "Gantelets du vagabond",
+      "de": "Klappen des Wanderers",
+      "it": "Coprimani del vagabondo",
+      "es": "Guantes de vagabundo",
+      "tr": "Gezgin Eldivenleri"
+    },
+    {
+      "index": 143,
+      "id": "0x3532D226",
+      "en": "Warlock's Robes",
+      "fr": "Robe du sorcier",
+      "de": "Roben des Hexers",
+      "it": "Vesti dello stregone",
+      "es": "Túnica de brujo",
+      "tr": "Kara Büyücü Cübbesi"
+    },
+    {
+      "index": 144,
+      "id": "0x35C60AE1",
+      "en": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Sword of Courage",
+      "fr": "Épée du courage #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Schwert der Beherztheit",
+      "it": "Spada del coraggio #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "es": "Espada del coraje #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Cesaret Kılıcı"
+    },
+    {
+      "index": 145,
+      "id": "0x3621E962",
+      "en": "Zealot's Shinguards",
+      "fr": "Solerets du fanatique",
+      "de": "Schienbeinschoner des Zeloten",
+      "it": "Schinieri dello zelota",
+      "es": "Espinilleras de fanático",
+      "tr": "Fanatik Baldırlıkları"
+    },
+    {
+      "index": 146,
+      "id": "0x36E8A941",
+      "en": "#0x121FCBFF#{{0x2605}}Valiant#PREVIOUS#\nChance on hit to create a zone of regenerative power",
+      "fr": "#0x121FCBFF#{{0x2605}}Bravoure#PREVIOUS#\nPossibilité de créer une zone de régénération lorsque vous touchez un ennemi.",
+      "de": "#0x121FCBFF#{{0x2605}}Beherzt#PREVIOUS#\nChance, im Falle eines Treffers eine Zone regenerativer Energie zu erzeugen.",
+      "it": "#0x121FCBFF#{{0x2605}}Valoroso#PREVIOUS#\nPossibilità di creare una zona di energia rigenerante con colpo a segno.",
+      "es": "#0x121FCBFF#{{0x2605}}Valiente#PREVIOUS#\nProbabilidad al golpear de crear una zona de poder regenerativo.",
+      "tr": "#0x121FCBFF#{{0x2605}}Yiğit#PREVIOUS#\nVuruşta yenileyici güç alanı oluşturma ihtimali."
+    },
+    {
+      "index": 147,
+      "id": "0x36ED253B",
+      "en": "#0x121FCBFF#{{0x2605}}Valiant#PREVIOUS#",
+      "fr": "#0x121FCBFF#{{0x2605}}Bravoure#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}Beherzt#PREVIOUS#",
+      "it": "#0x121FCBFF#{{0x2605}}Valoroso#PREVIOUS#",
+      "es": "#0x121FCBFF#{{0x2605}}Valiente#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Yiğit"
+    },
+    {
+      "index": 148,
+      "id": "0x371F9B94",
+      "en": "Zealot's Breastplate",
+      "fr": "Plastron du fanatique",
+      "de": "Brustplatte des Zeloten",
+      "it": "Corazza dello zelota",
+      "es": "Peto de fanático",
+      "tr": "Fanatik Göğüslüğü"
+    },
+    {
+      "index": 149,
+      "id": "0x395F3C5E",
+      "en": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Rod of Tidal Power",
+      "fr": "Baguette des marées #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Stab der Gezeitenkraft",
+      "it": "Asta del potere marino #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "es": "Báculo del poder de la marea #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Gelgit Gücü Asası"
+    },
+    {
+      "index": 150,
+      "id": "0x3A1020AF",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Ancestral Plate",
+      "fr": "Armure de plates ancestrale #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Plattenpanzer der Ahnen",
+      "it": "Piastra ancestrale #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Armadura ancestral #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Ata Zırhı"
+    },
+    {
+      "index": 151,
+      "id": "0x3C304F8F",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Shoulders of the Beastden",
+      "fr": "Pèlerine de la tanière #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Schulterschutz des Bestienpferchs",
+      "it": "Spallacci del covo della bestia #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras del Bestiario #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Canavar İni Omuzlukları"
+    },
+    {
+      "index": 152,
+      "id": "0x3C9FB687",
+      "en": "Dread",
+      "fr": "menaçantes",
+      "de": "Schreckliche",
+      "it": "paurose",
+      "es": "terroríficas",
+      "tr": "Dehşet"
+    },
+    {
+      "index": 153,
+      "id": "0x3D2421BB",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Knight Errant Pauldrons",
+      "fr": "Espauliers de chevalier errant #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Schulterplatten des fahrenden Ritters",
+      "it": "Paraspalle del cavaliere errante #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cubrehombros de caballero errante #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Gezgin Şövalye Omuz Plakası"
+    },
+    {
+      "index": 154,
+      "id": "0x3E4D522B",
+      "en": "Marliel's Signet",
+      "fr": "Chevalière de Marliel",
+      "de": "Marliels Siegel",
+      "it": "Sigillo di Marliel",
+      "es": "Sello de Marliel",
+      "tr": "Marliel Mührü"
+    },
+    {
+      "index": 155,
+      "id": "0x3FD9EA06",
+      "en": "#0x1EA922FF#{{0x2605}}Fey#PREVIOUS#\nChance on hit to create a zone that impedes enemies with vines",
+      "fr": "#0x1EA922FF#{{0x2605}}Condamnation#PREVIOUS#\nPossiblité de créer une zone entravant vos adversaires lorsque vous touchez un ennemi.",
+      "de": "#0x1EA922FF#{{0x2605}}Fee#PREVIOUS#\nChance, im Falle eines Treffers eine Zone zu erschaffen, die den Gegner mit Ranken umschlingt.",
+      "it": "#0x1EA922FF#{{0x2605}}Visionario#PREVIOUS#\nPossibilità di creare una zona con viticci che bloccano il nemico con colpo a segno.",
+      "es": "#0x1EA922FF#{{0x2605}}Feérico#PREVIOUS#\nProbabilidad al golpear de crear una zona que detiene al enemigo con lianas.",
+      "tr": "#0x1EA922FF#{{0x2605}}Peri Gücü#PREVIOUS#\nVuruşta düşmanları sarmaşıklarla engelleyen alan oluşturma ihtimali."
+    },
+    {
+      "index": 156,
+      "id": "0x3FDE6600",
+      "en": "#0x1EA922FF#{{0x2605}}Fey#PREVIOUS#",
+      "fr": "#0x1EA922FF#{{0x2605}}Condamnation#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}Fee#PREVIOUS#",
+      "it": "#0x1EA922FF#{{0x2605}}Visionario#PREVIOUS#",
+      "es": "#0x1EA922FF#{{0x2605}}Feérico#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Peri Gücü"
+    },
+    {
+      "index": 157,
+      "id": "0x42D2C2B1",
+      "en": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Celdria's Magestaff",
+      "fr": "Bâton de magicien de Celdria #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Celdrias Zauberstab",
+      "it": "Verga del mago di Celdria #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "es": "Bastón mágico de Celdria #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Celdria'nın Büyü Asası"
+    },
+    {
+      "index": 158,
+      "id": "0x42D2E20E",
+      "en": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Fist of the Ancients",
+      "fr": "Poings des Patriarches #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Faust der Altvorderen",
+      "it": "Pugno degli Antichi #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "es": "Puño de los antiguos #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Kadimlerin Yumruğu"
+    },
+    {
+      "index": 159,
+      "id": "0x43B7E92A",
+      "en": "Apprentice's Gloves",
+      "fr": "Gants de l'apprenti",
+      "de": "Handschuhe des Lehrlings",
+      "it": "Guanti dell'apprendista",
+      "es": "Guantes de aprendiz",
+      "tr": "Çırak Eldivenleri"
+    },
+    {
+      "index": 160,
+      "id": "0x43E04F27",
+      "en": "Soldier's",
+      "fr": "de soldat",
+      "de": "Soldatische",
+      "it": "del soldato",
+      "es": "del soldado",
+      "tr": "Asker"
+    },
+    {
+      "index": 161,
+      "id": "0x44ADF6AA",
+      "en": "#0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "it": "#0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "es": "#0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 162,
+      "id": "0x45B13291",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Guantlets of the Executioner",
+      "fr": "Manicles du bourreau #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Stulpen des Henkers",
+      "it": "Guanti del boia #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guanteletes del ejecutor #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Celladın Zırh Eldivenleri"
+    },
+    {
+      "index": 163,
+      "id": "0x45D753F1",
+      "en": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Gauntlets of the Isle",
+      "fr": "Brassards de l'île #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Stulpen der Insel",
+      "it": "Guanti d'arme dell'isola #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "es": "Guanteletes de la isla #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Ada Zırh Eldivenleri"
+    },
+    {
+      "index": 164,
+      "id": "0x46CCB513",
+      "en": "Pathfinder's Shoulderpads",
+      "fr": "Épaulières du baroudeur",
+      "de": "Schulterpolster des Pfadfinders",
+      "it": "Spallacci del ricognitore",
+      "es": "Hombreras de rastreador",
+      "tr": "İz Bulucu Omuzlukları"
+    },
+    {
+      "index": 165,
+      "id": "0x473E2524",
+      "en": "Rugged",
+      "fr": "usagées",
+      "de": "Robuste",
+      "it": "resistenti",
+      "es": "bastas",
+      "tr": "Sağlam"
+    },
+    {
+      "index": 166,
+      "id": "0x47429F25",
+      "en": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Faith, the Eternal Warden",
+      "fr": "Fidèle, le gardien éternel #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Glaube, der ewige Wächter",
+      "it": "Faith, l'eterno custode #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "es": "Fe, el custodio eterno #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Faith, Ebedî Muhafız"
+    },
+    {
+      "index": 167,
+      "id": "0x485EDB23",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Plunderer's Footpads",
+      "fr": "Bottes du pillard #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Einlegesohlen des Plünderers",
+      "it": "Calzature del saccheggiatore #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Calzado de saqueador #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Yağmacı Ayakkabıları"
+    },
+    {
+      "index": 168,
+      "id": "0x4A0104B9",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Ice Dweller's Jacket",
+      "fr": "Veste de montagnard #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Jacke des Eisbewohners",
+      "it": "Giubba dei ghiacci #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Chaqueta del morador de los hielos #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Buz Sakini Ceketi"
+    },
+    {
+      "index": 169,
+      "id": "0x4A31F54A",
+      "en": "Ornate",
+      "fr": "ornées",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentadas",
+      "tr": "Süslü"
+    },
+    {
+      "index": 170,
+      "id": "0x4B698E89",
+      "en": "Acolyte's Gloves",
+      "fr": "Gants de l'acolyte",
+      "de": "Handschuhe des Akoluthen",
+      "it": "Guanti dell'accolito",
+      "es": "Guantes de acólito",
+      "tr": "Mürit Eldivenleri"
+    },
+    {
+      "index": 171,
+      "id": "0x4B916D51",
+      "en": "Defender's",
+      "fr": "de protecteur",
+      "de": "Verteidiger-",
+      "it": "del difensore",
+      "es": "del defensor",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 172,
+      "id": "0x4D482355",
+      "en": "Wizard's",
+      "fr": "de magicien",
+      "de": "Zauberer-",
+      "it": "del mago",
+      "es": "del mago",
+      "tr": "Büyücü"
+    },
+    {
+      "index": 173,
+      "id": "0x4D4DA55D",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Seafarer Grips",
+      "fr": "Poignets de marin #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Seefahrer-Grifflinge",
+      "it": "Guanti da navigatore #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mitones de marino #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Denizci Eldivenleri"
+    },
+    {
+      "index": 174,
+      "id": "0x4DE18C06",
+      "en": "Juju",
+      "fr": "de magie noire",
+      "de": "Juju-beseelte",
+      "it": "Juju",
+      "es": "Juju",
+      "tr": "Juju"
+    },
+    {
+      "index": 175,
+      "id": "0x4E0AC77E",
+      "en": "Wanderer's",
+      "fr": "de vagabond",
+      "de": "Wanderer-",
+      "it": "del viandante",
+      "es": "del vagabundo",
+      "tr": "Gezgin"
+    },
+    {
+      "index": 176,
+      "id": "0x4F29AFD6",
+      "en": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "it": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "es": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 177,
+      "id": "0x4FBFA01D",
+      "en": "Trooper's",
+      "fr": "de cavalier",
+      "de": "Trooper-",
+      "it": "del milite",
+      "es": "de la tropa",
+      "tr": "Asker"
+    },
+    {
+      "index": 178,
+      "id": "0x504998D9",
+      "en": "Fake Starting Pauldrons",
+      "fr": "Justicar_T1_Shoulders not localized.",
+      "de": "Justicar_T1_Shoulders not localized.",
+      "it": "Justicar_T1_Shoulders not localized.",
+      "es": "Justicar_T1_Shoulders not localized.",
+      "tr": "Sahte Başlangıç Omuz Plakası"
+    },
+    {
+      "index": 179,
+      "id": "0x50A606F0",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Demonwrought Shinguards",
+      "fr": "Solerets démoniaux #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Dämonische Schienbeinschoner",
+      "it": "Schinieri demoniaci #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Espinilleras demoníacas #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# İblis Yapımı Baldırlıklar"
+    },
+    {
+      "index": 180,
+      "id": "0x517478BC",
+      "en": "Duelist's",
+      "fr": "de duelliste",
+      "de": "Duellierender",
+      "it": "del duellante",
+      "es": "del duelista",
+      "tr": "Düellocu"
+    },
+    {
+      "index": 181,
+      "id": "0x521843F1",
+      "en": "Apprentice's",
+      "fr": "d'apprenti",
+      "de": "Lehrling-",
+      "it": "dell'apprendista",
+      "es": "del aprendiz",
+      "tr": "Çırak"
+    },
+    {
+      "index": 182,
+      "id": "0x529EED5C",
+      "en": "Trooper's",
+      "fr": "de cavalier",
+      "de": "Trooper-",
+      "it": "del milite",
+      "es": "de la tropa",
+      "tr": "Asker"
+    },
+    {
+      "index": 183,
+      "id": "0x52F74DAC",
+      "en": "Durable",
+      "fr": "résistante",
+      "de": "Haltbare",
+      "it": "della resistenza",
+      "es": "resistente",
+      "tr": "Dayanıklı"
+    },
+    {
+      "index": 184,
+      "id": "0x531B33E8",
+      "en": "Invoker's Gloves",
+      "fr": "Gants de l'invocateur",
+      "de": "Handschuhe des Anrufers",
+      "it": "Guanti dell'evocatore",
+      "es": "Guantes de invocador",
+      "tr": "Çağırıcı Eldivenleri"
+    },
+    {
+      "index": 185,
+      "id": "0x5329515B",
+      "en": "Lawman's",
+      "fr": "de carabinier",
+      "de": "Sheriff-",
+      "it": "dell'uomo di legge",
+      "es": "del agente",
+      "tr": "Kanun Adamı"
+    },
+    {
+      "index": 186,
+      "id": "0x53B3988E",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Elven Handguards",
+      "fr": "Manicles elfiques #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Elfen-Handschienen",
+      "it": "Paramani elfici #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manoplas élficas #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Elf El Koruyucuları"
+    },
+    {
+      "index": 187,
+      "id": "0x53DEC65D",
+      "en": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "it": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "es": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 188,
+      "id": "0x53F9D6B8",
+      "en": "Sojourner's Gloves",
+      "fr": "Gants du pérégrin",
+      "de": "Handschuhe des Gastes",
+      "it": "Guanti del girovago",
+      "es": "Guantes de visitante",
+      "tr": "Yolcu Eldivenleri"
+    },
+    {
+      "index": 189,
+      "id": "0x545EF3D6",
+      "en": "Predator's Shoulderpads",
+      "fr": "Épaulières du prédateur",
+      "de": "Schulterpolster des Räubers",
+      "it": "Spallacci del predatore",
+      "es": "Hombreras de depredador",
+      "tr": "Avcı Omuzlukları"
+    },
+    {
+      "index": 190,
+      "id": "0x54DE29FA",
+      "en": "Calvary",
+      "fr": "crucifiant",
+      "de": "Reittauglicher",
+      "it": "del calvario",
+      "es": "de caballería",
+      "tr": "Süvari"
+    },
+    {
+      "index": 191,
+      "id": "0x555D48A6",
+      "en": "Dread",
+      "fr": "menaçants",
+      "de": "Schreckliche",
+      "it": "paurosi",
+      "es": "terroríficos",
+      "tr": "Dehşet"
+    },
+    {
+      "index": 192,
+      "id": "0x56454FDF",
+      "en": "Tribal",
+      "fr": "tribales",
+      "de": "Stämmische",
+      "it": "tribali",
+      "es": "tribales",
+      "tr": "Kabile"
+    },
+    {
+      "index": 193,
+      "id": "0x56614120",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# The Biomancer's Boots",
+      "fr": "Bottes du biomancien #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Stiefel des Biomanten",
+      "it": "Stivali da biomante #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Botas de biomante #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Biyobüyücü Çizmeleri"
+    },
+    {
+      "index": 194,
+      "id": "0x56930299",
+      "en": "Reworked",
+      "fr": "refaçonné",
+      "de": "Bearbeiteter",
+      "it": "con elaborazione",
+      "es": "remozado",
+      "tr": "Yenilenmiş"
+    },
+    {
+      "index": 195,
+      "id": "0x56FC1C2F",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Corsair's Greaves",
+      "fr": "Grèves de corsaire #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Korsaren-Beinschienen",
+      "it": "Gambali del corsaro #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Grebas de corsario #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Korsan Baldır Zırhı"
+    },
+    {
+      "index": 196,
+      "id": "0x57C4340D",
+      "en": "Spiked",
+      "fr": "à pointes",
+      "de": "Stachelige",
+      "it": "a punta",
+      "es": "espinosas",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 197,
+      "id": "0x5847DB38",
+      "en": "Scoped",
+      "fr": "de précision",
+      "de": "Zielfernrohr-",
+      "it": "con mirino",
+      "es": "con mira",
+      "tr": "Dürbünlü"
+    },
+    {
+      "index": 198,
+      "id": "0x58C04E01",
+      "en": "Pathfinder's Greaves",
+      "fr": "Grèves du baroudeur",
+      "de": "Beinschienen des Pfadfinders",
+      "it": "Gambali del ricognitore",
+      "es": "Grebas de rastreador",
+      "tr": "İz Bulucu Baldır Zırhı"
+    },
+    {
+      "index": 199,
+      "id": "0x59BE0033",
+      "en": "Pathfinder's Harness",
+      "fr": "Harnais du baroudeur",
+      "de": "Harnisch des Pfadfinders",
+      "it": "Finimenti del ricognitore",
+      "es": "Arnés de rastreador",
+      "tr": "İz Bulucu Göğüslüğü"
+    },
+    {
+      "index": 200,
+      "id": "0x59F5D123",
+      "en": "Warrior's",
+      "fr": "de guerrier",
+      "de": "Krieger-",
+      "it": "del guerriero",
+      "es": "del guerrero",
+      "tr": "Savaşçı"
+    },
+    {
+      "index": 201,
+      "id": "0x59FCB3D7",
+      "en": "Ornate",
+      "fr": "orné",
+      "de": "Verzierter",
+      "it": "con ornamenti",
+      "es": "ornamentado",
+      "tr": "Süslü"
+    },
+    {
+      "index": 202,
+      "id": "0x5A04CDB7",
+      "en": "Scoped",
+      "fr": "de précision",
+      "de": "Zielfernrohr-",
+      "it": "con mirino",
+      "es": "con mira",
+      "tr": "Dürbünlü"
+    },
+    {
+      "index": 203,
+      "id": "0x5A350543",
+      "en": "Reliable",
+      "fr": "fidèles",
+      "de": "Verlässliche",
+      "it": "affidabili",
+      "es": "fiables",
+      "tr": "Güvenilir"
+    },
+    {
+      "index": 204,
+      "id": "0x5ACCD947",
+      "en": "Warlock's Gloves",
+      "fr": "Gants du sorcier",
+      "de": "Handschuhe des Hexers",
+      "it": "Guanti dello stregone",
+      "es": "Guantes de brujo",
+      "tr": "Kara Büyücü Eldivenleri"
+    },
+    {
+      "index": 205,
+      "id": "0x5B26EA9C",
+      "en": "Dread",
+      "fr": "menaçante",
+      "de": "Schreckliche",
+      "it": "paurosa",
+      "es": "terrorífica",
+      "tr": "Dehşet"
+    },
+    {
+      "index": 206,
+      "id": "0x5BB18C76",
+      "en": "Plated",
+      "fr": "cuirassé",
+      "de": "Plattierter",
+      "it": "con piastre",
+      "es": "acorazado",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 207,
+      "id": "0x5C0456CB",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Gloves of the Seeker",
+      "fr": "Gants du chercheur #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Handschuhe des Suchenden",
+      "it": "Guanti del cercatore #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes del buscador #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Arayıcının Eldivenleri"
+    },
+    {
+      "index": 208,
+      "id": "0x5F5E8585",
+      "en": "Plated",
+      "fr": "cuirassés",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazados",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 209,
+      "id": "0x5FAA82B4",
+      "en": "Ancient",
+      "fr": "anciennes",
+      "de": "Alte",
+      "it": "dell'antichità",
+      "es": "antiguas",
+      "tr": "Kadim"
+    },
+    {
+      "index": 210,
+      "id": "0x5FDF9C74",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Eelskin Gloves",
+      "fr": "Gants en peau d'anguille #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Aalhaut-Handschuhe",
+      "it": "Guanti d'anguilla #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes de piel de anguila #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Yılanbalığı Derisi Eldivenler"
+    },
+    {
+      "index": 211,
+      "id": "0x5FEB4EE4",
+      "en": "Templar's Shinguards",
+      "fr": "Solerets du templier",
+      "de": "Schienbeinschoner des Templers",
+      "it": "Schinieri del templare",
+      "es": "Espinilleras de templario",
+      "tr": "Tapınakçı Baldırlıkları"
+    },
+    {
+      "index": 212,
+      "id": "0x60AB4CDA",
+      "en": "Fake Starting Spaulders",
+      "fr": "Gunslinger_T1_Shoulders not localized.",
+      "de": "Gunslinger_T1_Shoulders not localized.",
+      "it": "Gunslinger_T1_Shoulders not localized.",
+      "es": "Gunslinger_T1_Shoulders not localized.",
+      "tr": "Sahte Başlangıç Omuzlukları"
+    },
+    {
+      "index": 213,
+      "id": "0x60E90116",
+      "en": "Templar's Breastplate",
+      "fr": "Plastron du templier",
+      "de": "Brustplatte des Templers",
+      "it": "Corazza del templare",
+      "es": "Peto de templario",
+      "tr": "Tapınakçı Göğüslüğü"
+    },
+    {
+      "index": 214,
+      "id": "0x615BB17E",
+      "en": "Barbarian's",
+      "fr": "de barbare",
+      "de": "Barbarische",
+      "it": "del barbaro",
+      "es": "del bárbaro",
+      "tr": "Barbar"
+    },
+    {
+      "index": 215,
+      "id": "0x6220F31A",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Plate of the Hunter",
+      "fr": "Armure de plates du chasseur #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Plattenpanzer des Jägers",
+      "it": "Corazza di piastre del cacciatore #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Armadura del cazador #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Avcı Zırhı"
+    },
+    {
+      "index": 216,
+      "id": "0x628CCAF7",
+      "en": "Crested",
+      "fr": "à armoiries",
+      "de": "Verschnörkelte",
+      "it": "con stemma",
+      "es": "con cresta",
+      "tr": "Armalı"
+    },
+    {
+      "index": 217,
+      "id": "0x63D78EA2",
+      "en": "Hunter's",
+      "fr": "de chasseur",
+      "de": "Jäger-",
+      "it": "del cacciatore",
+      "es": "del cazador",
+      "tr": "Avcı"
+    },
+    {
+      "index": 218,
+      "id": "0x653F26AC",
+      "en": "Wayfarer's Spaulders",
+      "fr": "Pèlerine du voyageur",
+      "de": "Schiftungen des Wanderers",
+      "it": "Spallacci del viaggiatore",
+      "es": "Hombreras de viajero",
+      "tr": "Yolcu Omuzlukları"
+    },
+    {
+      "index": 219,
+      "id": "0x66DA4225",
+      "en": "Grim",
+      "fr": "sinistres",
+      "de": "Grimmige",
+      "it": "lugubri",
+      "es": "lúgubres",
+      "tr": "Kasvetli"
+    },
+    {
+      "index": 220,
+      "id": "0x6875AC74",
+      "en": "The Baron's Signet",
+      "fr": "Chevalière du baron",
+      "de": "Siegel des Barons",
+      "it": "Sigillo del barone",
+      "es": "El sello del barón",
+      "tr": "Baronun Mührü"
+    },
+    {
+      "index": 221,
+      "id": "0x691F22A5",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Fae-Wild Robes",
+      "fr": "Robe des fées #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Wildfeen-Roben",
+      "it": "Abiti dei fae selvatici #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Túnica salvaje de fata #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Peri Yabanı Cübbesi"
+    },
+    {
+      "index": 222,
+      "id": "0x6A7ABFE4",
+      "en": "Reliable",
+      "fr": "fidèles",
+      "de": "Verlässliche",
+      "it": "affidabili",
+      "es": "fiables",
+      "tr": "Güvenilir"
+    },
+    {
+      "index": 223,
+      "id": "0x6B2204C7",
+      "en": "Cavalier's Shinguards",
+      "fr": "Solerets de cavalier",
+      "de": "Schienbeinschoner des Kavaliers",
+      "it": "Schinieri del cavaliere",
+      "es": "Espinilleras de caballero",
+      "tr": "Süvari Baldırlıkları"
+    },
+    {
+      "index": 224,
+      "id": "0x6BD3D11B",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Traitor's Crest",
+      "fr": "Armoiries du traître #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Wappen des Verräters",
+      "it": "Paraspalle del traditore #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombro del traidor #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Hain Arması"
+    },
+    {
+      "index": 225,
+      "id": "0x6BF3F9D7",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Icewarrior's Shoulderplate",
+      "fr": "Pèlerine du guerrier des glaces #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Schulterplatte des Eiskriegers",
+      "it": "Spallacci del guerriero gelido #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de guerrero del  hielo #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Buz Savaşçısı Omuz Zırhı"
+    },
+    {
+      "index": 226,
+      "id": "0x6BFEE54C",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Drifter's Hauberk",
+      "fr": "Haubert de l'explorateur #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Kettenhemd des Herumtreibers",
+      "it": "Usbergo del viandante #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cota de errabundo #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Avare Zincir Zırhı"
+    },
+    {
+      "index": 227,
+      "id": "0x6C1FB6F9",
+      "en": "Cavalier's Breastplate",
+      "fr": "Plastron de cavalier",
+      "de": "Brustplatte des Kavaliers",
+      "it": "Corazza del cavaliere",
+      "es": "Peto de caballero",
+      "tr": "Süvari Göğüslüğü"
+    },
+    {
+      "index": 228,
+      "id": "0x6D3CC177",
+      "en": "Durable",
+      "fr": "résistantes",
+      "de": "Haltbares",
+      "it": "della resistenza",
+      "es": "resistentes",
+      "tr": "Dayanıklı"
+    },
+    {
+      "index": 229,
+      "id": "0x6D934590",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Sorcerer's Spellgrips",
+      "fr": "Poignets magiques du sorcier #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Zaubergrifflinge des Beschwörers",
+      "it": "Guanti magici dello stregone #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mitones mágicos de hechicero #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Büyücünün Tılsım Eldivenleri"
+    },
+    {
+      "index": 230,
+      "id": "0x6E436E3A",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Wildlord's Harness",
+      "fr": "Harnais du seigneur du désert #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Harnisch des Wildlords",
+      "it": "Finimenti del signore selvaggio #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Arnés de señor salvaje #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Yaban Lordu Göğüslüğü"
+    },
+    {
+      "index": 231,
+      "id": "0x70648B87",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Wyvernscale Handguards",
+      "fr": "Manicles en écailles de guivre #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Wyvernschuppen-Handschienen",
+      "it": "Paramani di scaglie di viverna #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manoplas de escamas de wivern #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Wyvern Pulu El Koruyucuları"
+    },
+    {
+      "index": 232,
+      "id": "0x70D5741A",
+      "en": "Wayfarer's Sabatons",
+      "fr": "Jambières du voyageur",
+      "de": "Sabatons des Wanderers",
+      "it": "Calzari del viaggiatore",
+      "es": "Escarpes de viajero",
+      "tr": "Yolcu Zırh Çizmeleri"
+    },
+    {
+      "index": 233,
+      "id": "0x70DB7F04",
+      "en": "Barbarian's",
+      "fr": "de barbare",
+      "de": "Barbarische",
+      "it": "del barbaro",
+      "es": "del bárbaro",
+      "tr": "Barbar"
+    },
+    {
+      "index": 234,
+      "id": "0x70F30F1A",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Drifter's Spaulders",
+      "fr": "Pèlerine de l'explorateur #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Schiftungen des Herumtreibers",
+      "it": "Spallacci del viandante #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de errabundo #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Avare Omuzlukları"
+    },
+    {
+      "index": 235,
+      "id": "0x7169CD65",
+      "en": "Barbarian's",
+      "fr": "de barbare",
+      "de": "Barbarische",
+      "it": "del barbaro",
+      "es": "del bárbaro",
+      "tr": "Barbar"
+    },
+    {
+      "index": 236,
+      "id": "0x71D3264C",
+      "en": "Wayfarer's Hauberk",
+      "fr": "Haubert du voyageur",
+      "de": "Kettenhemd des Wanderers",
+      "it": "Usbergo del viaggiatore",
+      "es": "Cota de viajero",
+      "tr": "Yolcu Zincir Zırhı"
+    },
+    {
+      "index": 237,
+      "id": "0x731B2235",
+      "en": "Paladin's Pauldrons",
+      "fr": "Espauliers du paladin",
+      "de": "Schulterplatten des Paladins",
+      "it": "Paraspalle del paladino",
+      "es": "Cubrehombros de paladín",
+      "tr": "Paladin Omuz Plakası"
+    },
+    {
+      "index": 238,
+      "id": "0x733E8608",
+      "en": "Duelist's",
+      "fr": "de duelliste",
+      "de": "Duellierende",
+      "it": "del duellante",
+      "es": "del duelista",
+      "tr": "Düellocu"
+    },
+    {
+      "index": 239,
+      "id": "0x742C3B55",
+      "en": "Pendant of the Void",
+      "fr": "Pendentif du Néant",
+      "de": "Anhänger des Nichts",
+      "it": "Ciondolo del Vuoto",
+      "es": "Pendiente del Vacío",
+      "tr": "Boşluk Kolyesi"
+    },
+    {
+      "index": 240,
+      "id": "0x74B63C8E",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Abysswalker's Boots",
+      "fr": "Bottes du promeneur des abysses #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Stiefel des Höllenwanderers",
+      "it": "Stivali del traversatore abissale #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Botas de caminante de abismos #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Uçurumgezer Çizmeleri"
+    },
+    {
+      "index": 241,
+      "id": "0x7583279A",
+      "en": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Kindred Scepter",
+      "fr": "Sceptre fraternel #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Verwandtes Zepter",
+      "it": "Scettro della casata #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "es": "Cetro de la familia #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Soydaş Asası"
+    },
+    {
+      "index": 242,
+      "id": "0x758707B1",
+      "en": "Apprentice's Boots",
+      "fr": "Bottes de l'apprenti",
+      "de": "Stiefel des Lehrlings",
+      "it": "Stivali dell'apprendista",
+      "es": "Botas de aprendiz",
+      "tr": "Çırak Çizmeleri"
+    },
+    {
+      "index": 243,
+      "id": "0x7684B9E3",
+      "en": "Apprentice's Robes",
+      "fr": "Robe de l'apprenti",
+      "de": "Roben des Lehrlings",
+      "it": "Vesti dell'apprendista",
+      "es": "Túnica de aprendiz",
+      "tr": "Çırak Cübbesi"
+    },
+    {
+      "index": 244,
+      "id": "0x7CF5EB45",
+      "en": "Invoker's Mantle",
+      "fr": "Cape de l'invocateur",
+      "de": "Mantel des Anrufers",
+      "it": "Mantello dell'evocatore",
+      "es": "Manto de invocador",
+      "tr": "Çağırıcı Pelerini"
+    },
+    {
+      "index": 245,
+      "id": "0x7E2200DE",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Armguards of the Castaway",
+      "fr": "Brassards du naufragé #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Armschienen des Schiffbrüchigen",
+      "it": "Parabraccia del naufrago #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guardabrazos del náufrago #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Kazazedenin Kolçakları"
+    },
+    {
+      "index": 246,
+      "id": "0x7FCE2B6D",
+      "en": "Plated",
+      "fr": "cuirassés",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazados",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 247,
+      "id": "0x7FE2CA36",
+      "en": "Ashen Feather",
+      "fr": "Plume cendrée",
+      "de": "Aschenfeder",
+      "it": "Piuma cinerea",
+      "es": "Pluma cenicienta",
+      "tr": "Kül Tüyü"
+    },
+    {
+      "index": 248,
+      "id": "0x80D0C4CB",
+      "en": "Reworked",
+      "fr": "refaçonnées",
+      "de": "Bearbeitete",
+      "it": "con elaborazione",
+      "es": "remozadas",
+      "tr": "Yenilenmiş"
+    },
+    {
+      "index": 249,
+      "id": "0x813C2A20",
+      "en": "Rugged",
+      "fr": "usagé",
+      "de": "Robuster",
+      "it": "resistente",
+      "es": "basta",
+      "tr": "Sağlam"
+    },
+    {
+      "index": 250,
+      "id": "0x82587883",
+      "en": "Reinforced",
+      "fr": "renforcés",
+      "de": "Verstärkte",
+      "it": "del rinforzo",
+      "es": "reforzados",
+      "tr": "Takviyeli"
+    },
+    {
+      "index": 251,
+      "id": "0x8289B383",
+      "en": "Outlander's Greaves",
+      "fr": "Grèves de l'étranger",
+      "de": "Beinschienen des Ausländers",
+      "it": "Gambali dello straniero",
+      "es": "Grebas de extranjero",
+      "tr": "Yabancı Baldır Zırhı"
+    },
+    {
+      "index": 252,
+      "id": "0x8334F3EE",
+      "en": "Lancer's",
+      "fr": "de lancier",
+      "de": "Lanzenträger-",
+      "it": "del lanciere",
+      "es": "del lancero",
+      "tr": "Mızrakçı"
+    },
+    {
+      "index": 253,
+      "id": "0x836B77BB",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Wildlord's Shoulderpads",
+      "fr": "Épaulières du seigneur du désert #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Schulterpolster des Wildlords",
+      "it": "Spallacci del signore selvaggio #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de señor salvaje #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Yaban Lordu Omuzlukları"
+    },
+    {
+      "index": 254,
+      "id": "0x838765B5",
+      "en": "Outlander's Harness",
+      "fr": "Harnais de l'étranger",
+      "de": "Harnisch des Ausländers",
+      "it": "Finimenti dello straniero",
+      "es": "Arnés de extranjero",
+      "tr": "Yabancı Göğüslüğü"
+    },
+    {
+      "index": 255,
+      "id": "0x83F24882",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Voidmage Treads",
+      "fr": "Bottes de mage du Néant #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Leerenmagus-Schuhe",
+      "it": "Calzature del mago del Vuoto #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Zapatos de mago del Vacío #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Boşluk Büyücüsü Çizmeleri"
+    },
+    {
+      "index": 256,
+      "id": "0x8667641C",
+      "en": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Rage and Glory",
+      "fr": "Fureur et gloire #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Wut und Ruhm",
+      "it": "Furia e gloria #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "es": "Furia y gloria #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Öfke ve Şan"
+    },
+    {
+      "index": 257,
+      "id": "0x8A4273F9",
+      "en": "Calvary",
+      "fr": "crucifiante",
+      "de": "Reittaugliche",
+      "it": "del calvario",
+      "es": "de caballería",
+      "tr": "Süvari"
+    },
+    {
+      "index": 258,
+      "id": "0x8A7F4270",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Sylvan-stitched Grips",
+      "fr": "Poignets cousus de fil sylvestre #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Waldgestickte Grifflinge",
+      "it": "Guanti della selva #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mitones silvanos #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Orman Dikişli Eldivenler"
+    },
+    {
+      "index": 259,
+      "id": "0x8B995917",
+      "en": "Demon-Scorched Cord",
+      "fr": "Cordon roussi des Démons",
+      "de": "Dämonenversengte Kordel",
+      "it": "Cordone del fuoco demoniaco",
+      "es": "Cordel quemado por demonio",
+      "tr": "İblis Yanığı Kuşak"
+    },
+    {
+      "index": 260,
+      "id": "0x8E63038E",
+      "en": "Plated",
+      "fr": "cuirassées",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazadas",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 261,
+      "id": "0x8EC7983A",
+      "en": "Scout's Gauntlets",
+      "fr": "Manicles de l'éclaireur",
+      "de": "Stulpen des Spähers",
+      "it": "Guanti d'arme dell'esploratore",
+      "es": "Guanteletes de explorador",
+      "tr": "Gözcü Zırh Eldivenleri"
+    },
+    {
+      "index": 262,
+      "id": "0x8F0E5306",
+      "en": "#0xEAA319FF#{{0x2605}}Warblaze#PREVIOUS#\nChance on hit to light enemy on fire.",
+      "fr": "#0xEAA319FF#{{0x2605}}Feu de guerre#PREVIOUS#\nPossibilité d'enflammer un ennemi lorsque vous le touchez.",
+      "de": "#0xEAA319FF#{{0x2605}}Kriegsglut#PREVIOUS#\nChance, den Gegner im Falle eines Treffers in Brand zu stecken.",
+      "it": "#0xEAA319FF#{{0x2605}}Fiammaguerra#PREVIOUS#\nPossibilità di dare fuoco al nemico colpito.",
+      "es": "#0xEAA319FF#{{0x2605}}Fuego de guerra#PREVIOUS#\nProbabilidad al golpear de prenderle fuego al enemigo.",
+      "tr": "#0xEAA319FF#{{0x2605}}Savaş Alevi#PREVIOUS#\nVuruşta düşmanı ateşe verme ihtimali."
+    },
+    {
+      "index": 263,
+      "id": "0x8F12CF00",
+      "en": "#0xEAA319FF#{{0x2605}}Warblaze#PREVIOUS#",
+      "fr": "#0xEAA319FF#{{0x2605}}Feu de guerre#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}Kriegsglut#PREVIOUS#",
+      "it": "#0xEAA319FF#{{0x2605}}Fiammaguerra#PREVIOUS#",
+      "es": "#0xEAA319FF#{{0x2605}}Fuego de guerra#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Savaş Alevi"
+    },
+    {
+      "index": 264,
+      "id": "0x90B90868",
+      "en": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Atomic Arms",
+      "fr": "Armes atomiques #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Atomarme",
+      "it": "Armi atomiche #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "es": "Armas atómicas #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Atomik Silahlar"
+    },
+    {
+      "index": 265,
+      "id": "0x914B24EC",
+      "en": "Ornate",
+      "fr": "ornés",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentados",
+      "tr": "Süslü"
+    },
+    {
+      "index": 266,
+      "id": "0x9196904D",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Harness of the Treefolk",
+      "fr": "Harnais des Tréants #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Harnisch des Baumvolks",
+      "it": "Finimenti dell'albero #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Arnés de pueblo arbóreo #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Ağaç Halkı Göğüslüğü"
+    },
+    {
+      "index": 267,
+      "id": "0x919957C0",
+      "en": "Wilder's",
+      "fr": "de vandale",
+      "de": "Ungebärdige",
+      "it": "del selvaggio",
+      "es": "de Wilder",
+      "tr": "Yabanıl"
+    },
+    {
+      "index": 268,
+      "id": "0x92CA7139",
+      "en": "Ornate",
+      "fr": "ornée",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentada",
+      "tr": "Süslü"
+    },
+    {
+      "index": 269,
+      "id": "0x93D57202",
+      "en": "Wilder's",
+      "fr": "de vandale",
+      "de": "Ungebärdige",
+      "it": "del selvaggio",
+      "es": "de Wilder",
+      "tr": "Yabanıl"
+    },
+    {
+      "index": 270,
+      "id": "0x9408B267",
+      "en": "Warrior's Greaves",
+      "fr": "Grèves du guerrier",
+      "de": "Beinschienen des Kriegers",
+      "it": "Gambali del guerriero",
+      "es": "Grebas de visitante",
+      "tr": "Savaşçı Baldır Zırhı"
+    },
+    {
+      "index": 271,
+      "id": "0x95066499",
+      "en": "Warrior's Harness",
+      "fr": "Harnais du guerrier",
+      "de": "Harnisch des Kriegers",
+      "it": "Finimenti del guerriero",
+      "es": "Arnés de guerrero",
+      "tr": "Savaşçı Göğüslüğü"
+    },
+    {
+      "index": 272,
+      "id": "0x95B30037",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Wildlord's Mantle",
+      "fr": "Cape du seigneur du désert #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Mantel des Wildlords",
+      "it": "Manto del signore selvaggio #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manto de señor salvaje #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Yaban Lordu Pelerini"
+    },
+    {
+      "index": 273,
+      "id": "0x96793D99",
+      "en": "Zealot's Gauntlets",
+      "fr": "Manicles du fanatique",
+      "de": "Stulpen des Zeloten",
+      "it": "Guanti d'arme dello zelota",
+      "es": "Guanteletes de fanático",
+      "tr": "Fanatik Zırh Eldivenleri"
+    },
+    {
+      "index": 274,
+      "id": "0x967B20C8",
+      "en": "Soldier's",
+      "fr": "de soldat",
+      "de": "Soldatische",
+      "it": "del soldato",
+      "es": "del soldado",
+      "tr": "Asker"
+    },
+    {
+      "index": 275,
+      "id": "0x96A7C40B",
+      "en": "Razorshots",
+      "fr": "Francs-tireurs",
+      "de": "Messerblaster",
+      "it": "Rasoi letali",
+      "es": "Tiranavajas",
+      "tr": "Ustura Atışları"
+    },
+    {
+      "index": 276,
+      "id": "0x96A7C40C",
+      "en": "Edgecannons",
+      "fr": "Canonniers",
+      "de": "Klingenkanonen",
+      "it": "Cannoni letali",
+      "es": "Cañones filosos",
+      "tr": "Keskin Toplar"
+    },
+    {
+      "index": 277,
+      "id": "0x96A7C40D",
+      "en": "Talonblasters",
+      "fr": "Grifflingues",
+      "de": "Krallenblaster",
+      "it": "Lanciartigli",
+      "es": "Blásters garra",
+      "tr": "Pençe Tabancaları"
+    },
+    {
+      "index": 278,
+      "id": "0x96A7C40E",
+      "en": "Bladepistols",
+      "fr": "Carabins",
+      "de": "Klingenpistolen",
+      "it": "Pistole laminari",
+      "es": "Pistolas cuchillas",
+      "tr": "Bıçak Tabancaları"
+    },
+    {
+      "index": 279,
+      "id": "0x96A7C40F",
+      "en": "Blasters",
+      "fr": "Tromblons",
+      "de": "Blaster",
+      "it": "Distruttori",
+      "es": "Blásters",
+      "tr": "Patlatıcılar"
+    },
+    {
+      "index": 280,
+      "id": "0x96A7C410",
+      "en": "Edgeshooters",
+      "fr": "Mitraillons",
+      "de": "Splitterblaster",
+      "it": "Sparalame",
+      "es": "Tiracuchillas",
+      "tr": "Bıçak Atıcılar"
+    },
+    {
+      "index": 281,
+      "id": "0x96A7C411",
+      "en": "Cleaverlocks",
+      "fr": "Assommoirs",
+      "de": "Witwenmacher",
+      "it": "Frantumatori",
+      "es": "Pistolas machete",
+      "tr": "Satır Tüfekleri"
+    },
+    {
+      "index": 282,
+      "id": "0x96A7C412",
+      "en": "Wingmuzzles",
+      "fr": "Canardières",
+      "de": "Flügelmündungen",
+      "it": "Bocche alate",
+      "es": "Cañones alados",
+      "tr": "Kanat Namlular"
+    },
+    {
+      "index": 283,
+      "id": "0x96A7C413",
+      "en": "Fangshots",
+      "fr": "Crocalibres",
+      "de": "Fangblaster",
+      "it": "Colpi zanna",
+      "es": "Pistolas colmillo",
+      "tr": "Diş Atışları"
+    },
+    {
+      "index": 284,
+      "id": "0x96A7C429",
+      "en": "Talonmuskets",
+      "fr": "Fusillons",
+      "de": "Krallenmusketen",
+      "it": "Moschetti artigliati",
+      "es": "Mosquetes garra",
+      "tr": "Pençe Tüfekleri"
+    },
+    {
+      "index": 285,
+      "id": "0x96A7C42A",
+      "en": "Triskelions",
+      "fr": "Pétoires",
+      "de": "Triskelions",
+      "it": "Trisceli",
+      "es": "Triskeliones",
+      "tr": "Triskelionlar"
+    },
+    {
+      "index": 286,
+      "id": "0x96A7C42B",
+      "en": "Musketscythes",
+      "fr": "Vilmousquets",
+      "de": "Musketensensen",
+      "it": "Moschetti-falce",
+      "es": "Mosquetes guadaña",
+      "tr": "Tüfek Tırpanları"
+    },
+    {
+      "index": 287,
+      "id": "0x96A7C42C",
+      "en": "Ballistics",
+      "fr": "Folgâchettes",
+      "de": "Ballistikas",
+      "it": "Armi balistiche",
+      "es": "Balísticos",
+      "tr": "Balistikler"
+    },
+    {
+      "index": 288,
+      "id": "0x96A7C42D",
+      "en": "Painbolters",
+      "fr": "Tourmenteurs",
+      "de": "Painbolter",
+      "it": "Dardi del dolore",
+      "es": "Dolopistolas",
+      "tr": "Acı Atıcılar"
+    },
+    {
+      "index": 289,
+      "id": "0x96A7C42E",
+      "en": "Handcannons",
+      "fr": "Pétaradeurs",
+      "de": "Handkanonen",
+      "it": "Cannoni portatili",
+      "es": "Cañones portátiles",
+      "tr": "El Topları"
+    },
+    {
+      "index": 290,
+      "id": "0x96A7C42F",
+      "en": "Arsenal",
+      "fr": "Mitrailles",
+      "de": "Arsenal",
+      "it": "Arsenale",
+      "es": "Arsenal",
+      "tr": "Cephanelik"
+    },
+    {
+      "index": 291,
+      "id": "0x96A7C430",
+      "en": "Peacemakers",
+      "fr": "Croque-morts",
+      "de": "Friedensstifter",
+      "it": "Pacificatori",
+      "es": "Pacificadoras",
+      "tr": "Barış Getirenler"
+    },
+    {
+      "index": 292,
+      "id": "0x96A7C431",
+      "en": "Scytheshots",
+      "fr": "Faucheurs",
+      "de": "Sensenwummen",
+      "it": "Colpi di falce",
+      "es": "Tiraguadañas",
+      "tr": "Tırpan Atışları"
+    },
+    {
+      "index": 293,
+      "id": "0x96A7C432",
+      "en": "Ordnance",
+      "fr": "Sulfateuses",
+      "de": "Geschütze",
+      "it": "Armamento",
+      "es": "Artillería",
+      "tr": "Mühimmat"
+    },
+    {
+      "index": 294,
+      "id": "0x96A7C448",
+      "en": "Arquebus",
+      "fr": "Arquebuses",
+      "de": "Arkebusen",
+      "it": "Archibugio",
+      "es": "Arcabuces",
+      "tr": "Arkebüz"
+    },
+    {
+      "index": 295,
+      "id": "0x96CD0436",
+      "en": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Elder Fury",
+      "fr": "Fureurs anciennes #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Zorn der Ältesten",
+      "it": "Furia degli Antichi #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "es": "Furia antigua #0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS# Kadim Öfke"
+    },
+    {
+      "index": 296,
+      "id": "0x974FE7F8",
+      "en": "Angel's Tears",
+      "fr": "Larmes des anges",
+      "de": "Engelstränen",
+      "it": "Lacrime d'angelo",
+      "es": "Lágrimas de ángel",
+      "tr": "Meleğin Gözyaşları"
+    },
+    {
+      "index": 297,
+      "id": "0x9830FB70",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Michadele's Shoulderplates",
+      "fr": "Espauliers de Michadèle #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Michadeles Schulterplatten",
+      "it": "Spallacci di Michadele #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de Michadele #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Michadele'nin Omuz Zırhı"
+    },
+    {
+      "index": 298,
+      "id": "0x9A018C4A",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Bounty Hunter's Sabatons",
+      "fr": "Jambières du chasseur de primes #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Sabatons des Kopfgeldjägers",
+      "it": "Calzari del cacciatore di taglie #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Escarpes de cazarrecompensas #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Ödül Avcısı Zırh Çizmeleri"
+    },
+    {
+      "index": 299,
+      "id": "0x9A9ED99C",
+      "en": "Sharpshooter's Sabatons",
+      "fr": "Jambières du tireur d'élite",
+      "de": "Sabatons des Scharfschützen",
+      "it": "Calzari del tiratore scelto",
+      "es": "Escarpes de tirador",
+      "tr": "Keskin Nişancı Zırh Çizmeleri"
+    },
+    {
+      "index": 300,
+      "id": "0x9B9C8BCE",
+      "en": "Sharpshooter's Hauberk",
+      "fr": "Haubert du tireur d'élite",
+      "de": "Kettenhemd des Scharfschützen",
+      "it": "Usbergo del tiratore scelto",
+      "es": "Peto de tirador",
+      "tr": "Keskin Nişancı Zincir Zırhı"
+    },
+    {
+      "index": 301,
+      "id": "0x9E2AE2F8",
+      "en": "Paladin's Gauntlets",
+      "fr": "Manicles du paladin",
+      "de": "Stulpen des Paladins",
+      "it": "Guanti d'arme del paladino",
+      "es": "Guanteletes de paladín",
+      "tr": "Paladin Zırhlı Eldivenleri"
+    },
+    {
+      "index": 302,
+      "id": "0x9F2C5C2E",
+      "en": "Wanderer's",
+      "fr": "de vagabond",
+      "de": "Wanderer-",
+      "it": "del viandante",
+      "es": "del vagabundo",
+      "tr": "Gezgin"
+    },
+    {
+      "index": 303,
+      "id": "0x9F2C5C2F",
+      "en": "Trooper's",
+      "fr": "de cavalier",
+      "de": "Trooper-",
+      "it": "del milite",
+      "es": "de la tropa",
+      "tr": "Asker"
+    },
+    {
+      "index": 304,
+      "id": "0x9F2C5C30",
+      "en": "Duelist's",
+      "fr": "de duelliste",
+      "de": "Duellierendes",
+      "it": "del duellante",
+      "es": "del duelista",
+      "tr": "Düellocu"
+    },
+    {
+      "index": 305,
+      "id": "0x9F2C5C31",
+      "en": "Lawman's",
+      "fr": "de carabinier",
+      "de": "Sheriff-",
+      "it": "dell'uomo di legge",
+      "es": "del agente",
+      "tr": "Kanun Adamı"
+    },
+    {
+      "index": 306,
+      "id": "0x9F2C5C32",
+      "en": "Calvary",
+      "fr": "crucifiant",
+      "de": "Reittaugliches",
+      "it": "del calvario",
+      "es": "de caballería",
+      "tr": "Süvari"
+    },
+    {
+      "index": 307,
+      "id": "0x9F2C5C33",
+      "en": "Reworked",
+      "fr": "refaçonné",
+      "de": "Bearbeitetes",
+      "it": "con elaborazione",
+      "es": "remozado",
+      "tr": "Yenilenmiş"
+    },
+    {
+      "index": 308,
+      "id": "0x9F2C5C34",
+      "en": "Scoped",
+      "fr": "de précision",
+      "de": "Zielfernrohr-",
+      "it": "con mirino",
+      "es": "con mira",
+      "tr": "Dürbünlü"
+    },
+    {
+      "index": 309,
+      "id": "0x9F2C5C35",
+      "en": "Ornate",
+      "fr": "orné",
+      "de": "Verziertes",
+      "it": "con ornamenti",
+      "es": "ornamentado",
+      "tr": "Süslü"
+    },
+    {
+      "index": 310,
+      "id": "0x9F2C5C36",
+      "en": "Plated",
+      "fr": "cuirassé",
+      "de": "Plattiertes",
+      "it": "con piastre",
+      "es": "acorazado",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 311,
+      "id": "0x9F2C5C4C",
+      "en": "Rugged",
+      "fr": "usagé",
+      "de": "Robustes",
+      "it": "resistente",
+      "es": "basta",
+      "tr": "Sağlam"
+    },
+    {
+      "index": 312,
+      "id": "0x9F506D33",
+      "en": "Invoker's Boots",
+      "fr": "Bottes de l'invocateur",
+      "de": "Stiefel des Anrufers",
+      "it": "Stivali dell'evocatore",
+      "es": "Botas de invocador",
+      "tr": "Çağırıcı Çizmeleri"
+    },
+    {
+      "index": 313,
+      "id": "0x9FFEDC77",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Sphinx-King's Mantle",
+      "fr": "Cape du Roi-sphinx #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Mantel des Sphingenkönigs",
+      "it": "Mantello del re sfinge #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manto del rey esfinge #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Sfenks Kralı Pelerini"
+    },
+    {
+      "index": 314,
+      "id": "0xA04E1F65",
+      "en": "Invoker's Robes",
+      "fr": "Robe de l'invocateur",
+      "de": "Roben des Anrufers",
+      "it": "Vesti dell'evocatore",
+      "es": "Túnica de invocador",
+      "tr": "Çağırıcı Cübbesi"
+    },
+    {
+      "index": 315,
+      "id": "0xA0A81F54",
+      "en": "Gladiator's Shoulderpads",
+      "fr": "Épaulières du gladiateur",
+      "de": "Schulterpolster des Gladiators",
+      "it": "Spallacci del gladiatore",
+      "es": "Hombreras de gladiador",
+      "tr": "Gladyatör Omuzlukları"
+    },
+    {
+      "index": 316,
+      "id": "0xA13D36A1",
+      "en": "Scout's Shinguards",
+      "fr": "Solerets de l'éclaireur",
+      "de": "Schienbeinschoner des Spähers",
+      "it": "Schinieri dell'esploratore",
+      "es": "Espinilleras de explorador",
+      "tr": "Gözcü Baldırlıkları"
+    },
+    {
+      "index": 317,
+      "id": "0xA1D4E198",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Primordial-Scale Robes",
+      "fr": "Robe d'écailles primordiales #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Primordialschuppen-Robe",
+      "it": "Veste a scaglie primordiale #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Túnica de escamas primordial #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# İlksel Pul Cübbesi"
+    },
+    {
+      "index": 318,
+      "id": "0xA23AE8D3",
+      "en": "Scout's Breastplate",
+      "fr": "Plastron de l'éclaireur",
+      "de": "Brustplatte des Spähers",
+      "it": "Corazza dell'esploratore",
+      "es": "Peto de explorador",
+      "tr": "Gözcü Göğüslüğü"
+    },
+    {
+      "index": 319,
+      "id": "0xA2C81E6B",
+      "en": "Scoped",
+      "fr": "de précision",
+      "de": "Zielfernrohr-",
+      "it": "con mirino",
+      "es": "con mira",
+      "tr": "Dürbünlü"
+    },
+    {
+      "index": 320,
+      "id": "0xA3C202B3",
+      "en": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Lichblazers",
+      "fr": "Détoneurs de liches #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Lichblaster",
+      "it": "Armi dei lich #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "es": "Fulminaliches #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Lich Patlatıcıları"
+    },
+    {
+      "index": 321,
+      "id": "0xA40D5F8B",
+      "en": "Regal",
+      "fr": "royales",
+      "de": "Königliche",
+      "it": "regale",
+      "es": "reales",
+      "tr": "Asil"
+    },
+    {
+      "index": 322,
+      "id": "0xA4524711",
+      "en": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Ship Captain's Blade",
+      "fr": "Lame du capitaine #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Klinge des Schiffskapitäns",
+      "it": "Lama del capitano #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "es": "Espada de capitán de barco #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Gemi Kaptanının Kılıcı"
+    },
+    {
+      "index": 323,
+      "id": "0xA5526B81",
+      "en": "Hunter's",
+      "fr": "de chasseur",
+      "de": "Jäger-",
+      "it": "del cacciatore",
+      "es": "del cazador",
+      "tr": "Avcı"
+    },
+    {
+      "index": 324,
+      "id": "0xA5CE0C81",
+      "en": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Scepter of the Seas",
+      "fr": "Sceptre des mers #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Zepter der Meere",
+      "it": "Scettro dei mari #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "es": "Cetro marino #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Denizlerin Asası"
+    },
+    {
+      "index": 325,
+      "id": "0xA5DC8857",
+      "en": "Templar's Gauntlets",
+      "fr": "Manicles du templier",
+      "de": "Stulpen des Templers",
+      "it": "Guanti d'arme del templare",
+      "es": "Guanteletes de templario",
+      "tr": "Tapınakçı Zırh Eldivenleri"
+    },
+    {
+      "index": 326,
+      "id": "0xA66C68BC",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Breastplate of Vengeance",
+      "fr": "Plastron de vengeance #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Brustplatte der Vergeltung",
+      "it": "Corazza della vendetta #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Peto de venganza #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# İntikam Göğüslüğü"
+    },
+    {
+      "index": 327,
+      "id": "0xA7A65C98",
+      "en": "Stalwart",
+      "fr": "vigoureux",
+      "de": "Robustes",
+      "it": "della robustezza",
+      "es": "fieles",
+      "tr": "Sarsılmaz"
+    },
+    {
+      "index": 328,
+      "id": "0xA94599DB",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Drifter's Brigadine",
+      "fr": "Brigandine de l'explorateur #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Brigantine des Herumtreibers",
+      "it": "Brigantina del viandante #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Brigandina de errabundo #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Avare Brigantini"
+    },
+    {
+      "index": 329,
+      "id": "0xA955B94A",
+      "en": "#0xAA35B5FF#{{0x2605}}Rageborn#PREVIOUS#\nChance on hit to create a zone of power and speed",
+      "fr": "#0xAA35B5FF#{{0x2605}}Rage intérieure#PREVIOUS#\nPossibilité de créer une zone de puissance et de vitesse lorsque vous touchez un ennemi.",
+      "de": "#0xAA35B5FF#{{0x2605}}Zorngeboren#PREVIOUS#\nChance, im Falle eines Treffers eine Zone der Macht und Geschwindigkeit zu erzeugen.",
+      "it": "#0xAA35B5FF#{{0x2605}}Furiainnata#PREVIOUS#\nPossibilità di creare una zona di energia e velocità con colpo a segno.",
+      "es": "#0xAA35B5FF#{{0x2605}}Ira desatada#PREVIOUS#\nProbabilidad al golpear de crear una zona de poder y velocidad.",
+      "tr": "#0xAA35B5FF#{{0x2605}}Öfkeden Doğan#PREVIOUS#\nVuruşta güç ve hız alanı oluşturma ihtimali."
+    },
+    {
+      "index": 330,
+      "id": "0xA95A3544",
+      "en": "#0xAA35B5FF#{{0x2605}}Rageborn#PREVIOUS#",
+      "fr": "#0xAA35B5FF#{{0x2605}}Rage intérieure#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}Zorngeboren#PREVIOUS#",
+      "it": "#0xAA35B5FF#{{0x2605}}Furiainnata#PREVIOUS#",
+      "es": "#0xAA35B5FF#{{0x2605}}Ira desatada#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Öfkeden Doğan"
+    },
+    {
+      "index": 331,
+      "id": "0xAA856482",
+      "en": "Gambler's Dusters",
+      "fr": "Gantelets du franc-tireur",
+      "de": "Klappen des Spielers",
+      "it": "Abiti del giocatore",
+      "es": "Guantes de jugador",
+      "tr": "Kumarbaz Eldivenleri"
+    },
+    {
+      "index": 332,
+      "id": "0xAB907B0F",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Drifter's Sabatons",
+      "fr": "Jambières de l'explorateur #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Sabatons des Herumtreibers",
+      "it": "Calzari del viandante #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Escarpes de errabundo #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Avare Zırh Çizmeleri"
+    },
+    {
+      "index": 333,
+      "id": "0xABF3AE32",
+      "en": "Defender's",
+      "fr": "de protecteur",
+      "de": "Verteidiger-",
+      "it": "del difensore",
+      "es": "del defensor",
+      "tr": "Savunucu"
+    },
+    {
+      "index": 334,
+      "id": "0xAC370E9D",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Merc's Spaulders",
+      "fr": "Pèlerine de mercenaire #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Söldner-Schiftungen",
+      "it": "Spallacci del mercenario #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de mercenario #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Paralı Asker Omuzlukları"
+    },
+    {
+      "index": 335,
+      "id": "0xAED67934",
+      "en": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# The Unyielding Tide",
+      "fr": "Les Vagues inflexibles #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Die unnachgiebige Flut",
+      "it": "Marea inarrestabile #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "es": "La marea implacable #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Boyun Eğmez Gelgit"
+    },
+    {
+      "index": 336,
+      "id": "0xB020BA20",
+      "en": "Warrior's",
+      "fr": "de guerrier",
+      "de": "Krieger-",
+      "it": "del guerriero",
+      "es": "del guerrero",
+      "tr": "Savaşçı"
+    },
+    {
+      "index": 337,
+      "id": "0xB0C57AB5",
+      "en": "Idol of the Hydra",
+      "fr": "Idole de l'Hydre",
+      "de": "Götze der Hydra",
+      "it": "Idolo dell'idra",
+      "es": "Ídolo de hidra",
+      "tr": "Hidra Putu"
+    },
+    {
+      "index": 338,
+      "id": "0xB1102AEB",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Crystal-steel Shinguards",
+      "fr": "Solerets en acier-cristal #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Kristallstahl-Schienbeinschoner",
+      "it": "Schinieri d'acciaio cristallino #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Espinilleras de acero cristalino #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Kristal Çelik Baldırlıklar"
+    },
+    {
+      "index": 339,
+      "id": "0xB15A9675",
+      "en": "Fake Starting Mantle",
+      "fr": "Alchitect_T1_Shoulders not localized.",
+      "de": "Alchitect_T1_Shoulders not localized.",
+      "it": "Alchitect_T1_Shoulders not localized.",
+      "es": "Alchitect_T1_Shoulders not localized.",
+      "tr": "Sahte Başlangıç Pelerini"
+    },
+    {
+      "index": 340,
+      "id": "0xB19F9E4E",
+      "en": "Fencer's",
+      "fr": "d'escrime",
+      "de": "Fechtende",
+      "it": "dello schermitore",
+      "es": "del espadachín",
+      "tr": "Eskrimci"
+    },
+    {
+      "index": 341,
+      "id": "0xB23709E1",
+      "en": "Wayfarer's Dusters",
+      "fr": "Gantelets du voyageur",
+      "de": "Klappen des Wanderers",
+      "it": "Abiti del viaggiatore",
+      "es": "Guantes de viajero",
+      "tr": "Yolcu Eldivenleri"
+    },
+    {
+      "index": 342,
+      "id": "0xB2468292",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Corsair's Shinguards",
+      "fr": "Solerets de corsaire #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Korsaren-Schienbeinschoner",
+      "it": "Schinieri da corsaro #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Espinilleras de corsario #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Korsan Baldırlıkları"
+    },
+    {
+      "index": 343,
+      "id": "0xB3729A30",
+      "en": "Guardian's",
+      "fr": "de gardien",
+      "de": "Wächter-",
+      "it": "del guardiano",
+      "es": "del guardián",
+      "tr": "Koruyucu"
+    },
+    {
+      "index": 344,
+      "id": "0xB44517EA",
+      "en": "Reworked",
+      "fr": "refaçonnés",
+      "de": "Bearbeitete",
+      "it": "con elaborazione",
+      "es": "remozados",
+      "tr": "Yenilenmiş"
+    },
+    {
+      "index": 345,
+      "id": "0xB55825FE",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Corsair's Pauldrons",
+      "fr": "Espauliers de corsaire #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Korsaren-Schulterplatten",
+      "it": "Paraspalle del corsaro #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cubrehombros de corsario #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Korsan Omuz Plakası"
+    },
+    {
+      "index": 346,
+      "id": "0xB5840B34",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Mantle of the Deep",
+      "fr": "Cape des Bas-fonds #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Mantel der Tiefe",
+      "it": "Manto dell'abisso #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Manto de las profundidades #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Derinlik Pelerini"
+    },
+    {
+      "index": 347,
+      "id": "0xB6CF6500",
+      "en": "Voodoo",
+      "fr": "vaudou",
+      "de": "Voodooistische",
+      "it": "vudù",
+      "es": "vudú",
+      "tr": "Vudu"
+    },
+    {
+      "index": 348,
+      "id": "0xB7EF4751",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Void Crushers",
+      "fr": "Briseuses du Néant #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Nichtsmalmer",
+      "it": "Distruttori del Vuoto #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Aplastadores de Vacío #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Boşluk Ezicileri"
+    },
+    {
+      "index": 349,
+      "id": "0xB9235617",
+      "en": "Travelworn",
+      "fr": "bosselés",
+      "de": "Abgenutztes",
+      "it": "del consumo",
+      "es": "gastados",
+      "tr": "Yıpranmış"
+    },
+    {
+      "index": 350,
+      "id": "0xB95C7A50",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Lux and Ombre",
+      "fr": "Lux et Umbra #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Lux und Ombre",
+      "it": "Luce e ombra #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Lux et Umbra #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Lux ve Ombre"
+    },
+    {
+      "index": 351,
+      "id": "0xB9625AF9",
+      "en": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# GobliTek Mk III Blasters",
+      "fr": "Tromblons GobliTeck MK III #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# GobliTek Mk III Blaster",
+      "it": "Distruttori GobliTek Mk III #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Blásters GobliTek Mk III #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# GobliTek Mk III Patlatıcıları"
+    },
+    {
+      "index": 352,
+      "id": "0xB96718D4",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Brinemage Vestments",
+      "fr": "Habit de mage des mers #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Zährenmagier-Ornat",
+      "it": "Vesti salmastre del mago #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Vestimenta de mago marino #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Tuzsu Büyücü Giysileri"
+    },
+    {
+      "index": 353,
+      "id": "0xB985ECF5",
+      "en": "Lancer's",
+      "fr": "de lancier",
+      "de": "Lanzenträger-",
+      "it": "del lanciere",
+      "es": "del lancero",
+      "tr": "Mızrakçı"
+    },
+    {
+      "index": 354,
+      "id": "0xB9E8AF40",
+      "en": "Renegade's Dusters",
+      "fr": "Gantelets du renégat",
+      "de": "Klappen des Renegaten",
+      "it": "Abiti del rinnegato",
+      "es": "Guantes de renegado",
+      "tr": "Dönek Eldivenleri"
+    },
+    {
+      "index": 355,
+      "id": "0xBA801A3B",
+      "en": "Duelist's",
+      "fr": "de duelliste",
+      "de": "Duellierende",
+      "it": "del duellante",
+      "es": "del duelista",
+      "tr": "Düellocu"
+    },
+    {
+      "index": 356,
+      "id": "0xBAD87A8B",
+      "en": "Travelworn",
+      "fr": "bosselée",
+      "de": "Abgenutzte",
+      "it": "del consumo",
+      "es": "gastada",
+      "tr": "Yıpranmış"
+    },
+    {
+      "index": 357,
+      "id": "0xBC7C0996",
+      "en": "Shadowlord's Signet",
+      "fr": "Chevalière du seigneur des ombres",
+      "de": "Siegel des Schattenlords",
+      "it": "Sigillo del signore delle ombre",
+      "es": "Sello de señor de las sombras",
+      "tr": "Gölge Lordu Mührü"
+    },
+    {
+      "index": 358,
+      "id": "0xBDB2F8E3",
+      "en": "Wilder's",
+      "fr": "de vandale",
+      "de": "Ungebärdige",
+      "it": "del selvaggio",
+      "es": "de Wilder",
+      "tr": "Yabanıl"
+    },
+    {
+      "index": 359,
+      "id": "0xBF1A90ED",
+      "en": "Renegade's Spaulders",
+      "fr": "Pèlerine du renégat",
+      "de": "Schiftungen des Renegaten",
+      "it": "Spallacci del rinnegato",
+      "es": "Hombreras de renegado",
+      "tr": "Dönek Omuzlukları"
+    },
+    {
+      "index": 360,
+      "id": "0xBF644DB3",
+      "en": "Scout's Pauldrons",
+      "fr": "Espauliers de l'éclaireur",
+      "de": "Schulterplatten des Spähers",
+      "it": "Paraspalle dell'esploratore",
+      "es": "Cubrehombros de explorador",
+      "tr": "Gözcü Omuz Plakası"
+    },
+    {
+      "index": 361,
+      "id": "0xBF87B186",
+      "en": "Wanderer's",
+      "fr": "de vagabond",
+      "de": "Wanderer-",
+      "it": "del viandante",
+      "es": "del vagabundo",
+      "tr": "Gezgin"
+    },
+    {
+      "index": 362,
+      "id": "0xC130EE58",
+      "en": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Rune Edge",
+      "fr": "Lame runique #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Runenklinge",
+      "it": "Lama runica #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "es": "Espada rúnica #0xF50E0EFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Rün Ağzı"
+    },
+    {
+      "index": 363,
+      "id": "0xC19A549F",
+      "en": "Sharpshooter's Dusters",
+      "fr": "Gantelets du tireur d'élite",
+      "de": "Klappen des Scharfschützen",
+      "it": "Abiti del tiratore scelto",
+      "es": "Guantes de tirador",
+      "tr": "Keskin Nişancı Eldivenleri"
+    },
+    {
+      "index": 364,
+      "id": "0xC1D6FE02",
+      "en": "Voodoo",
+      "fr": "vaudou",
+      "de": "Voodooistische",
+      "it": "vudù",
+      "es": "vudú",
+      "tr": "Vudu"
+    },
+    {
+      "index": 365,
+      "id": "0xC1E5FA96",
+      "en": "Ornate",
+      "fr": "ornée",
+      "de": "Verzierte",
+      "it": "con ornamenti",
+      "es": "ornamentada",
+      "tr": "Süslü"
+    },
+    {
+      "index": 366,
+      "id": "0xC308177B",
+      "en": "Soldier's",
+      "fr": "de soldat",
+      "de": "Soldatische",
+      "it": "del soldato",
+      "es": "del soldado",
+      "tr": "Asker"
+    },
+    {
+      "index": 367,
+      "id": "0xC38A3022",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Gauntlets of the Darklord",
+      "fr": "Manicles du seigneur du Mal #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Stulpen des dunklen Lords",
+      "it": "Guanti d'arme del signore oscuro #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guanteletes de señor oscuro #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Karanlık Lordun Zırh Eldivenleri"
+    },
+    {
+      "index": 368,
+      "id": "0xC48FD88F",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Sandals of the Umbra",
+      "fr": "Sandales de l'Ombre #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Sandalen der Umbra",
+      "it": "Sandali dell'ombra #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Sandalias de la Umbra #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Umbra Sandaletleri"
+    },
+    {
+      "index": 369,
+      "id": "0xC52D36F0",
+      "en": "#0xF5F325FF#{{0x2605}}#PREVIOUS# The Bandit King's Pistols",
+      "fr": "Pistolets du Roi brigand #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Pistolen des Banditenkönigs",
+      "it": "Pistole del Re dei banditi #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "es": "Pistolas del Rey Bandido #0xF5F325FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x2605}}#PREVIOUS# Haydut Kralın Tabancaları"
+    },
+    {
+      "index": 370,
+      "id": "0xC5C21169",
+      "en": "Calvary",
+      "fr": "crucifiants",
+      "de": "Reittaugliche",
+      "it": "del calvario",
+      "es": "de caballería",
+      "tr": "Süvari"
+    },
+    {
+      "index": 371,
+      "id": "0xC7182BB8",
+      "en": "Travelworn",
+      "fr": "bosselées",
+      "de": "Abgenutztes",
+      "it": "del consumo",
+      "es": "gastadas",
+      "tr": "Yıpranmış"
+    },
+    {
+      "index": 372,
+      "id": "0xC785F105",
+      "en": "Tribal",
+      "fr": "tribal",
+      "de": "Stämmischer",
+      "it": "tribale",
+      "es": "tribal",
+      "tr": "Kabile"
+    },
+    {
+      "index": 373,
+      "id": "0xC7A76CDA",
+      "en": "Pathfinder's Armguards",
+      "fr": "Brassards du baroudeur",
+      "de": "Armschienen des Pfadfinders",
+      "it": "Parabraccia del ricognitore",
+      "es": "Guardabrazos de rastreador",
+      "tr": "İz Bulucu Kolçakları"
+    },
+    {
+      "index": 374,
+      "id": "0xC7CB66A3",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Druidlord's Raiment",
+      "fr": "Habits du grand druide #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Kleidung des Druidenfürsten",
+      "it": "Veste del signore dei druidi #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Vestimenta de señor druida #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Druid Lordu Giysisi"
+    },
+    {
+      "index": 375,
+      "id": "0xC8329877",
+      "en": "Leviathan-Scale Cincture",
+      "fr": "Ceinture d'écailles de Léviathan",
+      "de": "Leviathanschuppen-Zingulum",
+      "it": "Cintura di scaglie di leviatano",
+      "es": "Ceñidor de escama de leviatán",
+      "tr": "Leviathan Pulu Bel Bağı"
+    },
+    {
+      "index": 376,
+      "id": "0xC84C5E7F",
+      "en": "Warrior's",
+      "fr": "de guerrier",
+      "de": "Krieger-",
+      "it": "del guerriero",
+      "es": "del guerrero",
+      "tr": "Savaşçı"
+    },
+    {
+      "index": 377,
+      "id": "0xC8BF46C0",
+      "en": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Woodland Blazers",
+      "fr": "Flambeurs des bois #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Waldland-Blazer",
+      "it": "Inceneritrici dei boschi #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "es": "Fulminadoras del bosque #0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS# Orman Patlatıcıları"
+    },
+    {
+      "index": 378,
+      "id": "0xC93AC9A4",
+      "en": "Warrior's",
+      "fr": "de guerrier",
+      "de": "Krieger-",
+      "it": "del guerriero",
+      "es": "del guerrero",
+      "tr": "Savaşçı"
+    },
+    {
+      "index": 379,
+      "id": "0xC93CDE5D",
+      "en": "Plated",
+      "fr": "cuirassée",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazada",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 380,
+      "id": "0xC93F16C3",
+      "en": "Apprentice's Mantle",
+      "fr": "Cape de l'apprenti",
+      "de": "Mantel des Lehrlings",
+      "it": "Mantello dell'apprendista",
+      "es": "Manto de aprendiz",
+      "tr": "Çırak Pelerini"
+    },
+    {
+      "index": 381,
+      "id": "0xCA1D2794",
+      "en": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Vigil, the Ocean's Shield",
+      "fr": "Vigile, le bouclier de l'océan #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Vigil, der Schild des Ozeans",
+      "it": "Vigil, lo scudo dell'oceano #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "es": "Vigil, el escudo del océano #0xFFFFFFFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Vigil, Okyanusun Kalkanı"
+    },
+    {
+      "index": 382,
+      "id": "0xCA6DF7D6",
+      "en": "Spiked",
+      "fr": "à pointes",
+      "de": "Stachelige",
+      "it": "a punta",
+      "es": "espinosa",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 383,
+      "id": "0xCAA04F96",
+      "en": "Durable",
+      "fr": "résistants",
+      "de": "Haltbares",
+      "it": "della resistenza",
+      "es": "resistentes",
+      "tr": "Dayanıklı"
+    },
+    {
+      "index": 384,
+      "id": "0xCAEFA243",
+      "en": "Voodoo",
+      "fr": "vaudou",
+      "de": "Voodooistischer",
+      "it": "vudù",
+      "es": "vudú",
+      "tr": "Vudu"
+    },
+    {
+      "index": 385,
+      "id": "0xCB069C23",
+      "en": "Paladin's Shinguards",
+      "fr": "Solerets du paladin",
+      "de": "Schienbeinschoner des Paladins",
+      "it": "Schinieri del paladino",
+      "es": "Espinilleras de paladín",
+      "tr": "Paladin Baldırlıkları"
+    },
+    {
+      "index": 386,
+      "id": "0xCB4537A6",
+      "en": "Plated",
+      "fr": "cuirassées",
+      "de": "Plattierte",
+      "it": "con piastre",
+      "es": "acorazadas",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 387,
+      "id": "0xCC044E55",
+      "en": "Paladin's Breastplate",
+      "fr": "Plastron du paladin",
+      "de": "Brustplatte des Paladins",
+      "it": "Corazza del paladino",
+      "es": "Peto de paladín",
+      "tr": "Paladin Göğüslüğü"
+    },
+    {
+      "index": 388,
+      "id": "0xCCA47AE2",
+      "en": "Hunter's",
+      "fr": "de chasseur",
+      "de": "Jäger-",
+      "it": "del cacciatore",
+      "es": "del cazador",
+      "tr": "Avcı"
+    },
+    {
+      "index": 389,
+      "id": "0xCCF68C76",
+      "en": "Templar's Pauldrons",
+      "fr": "Espauliers du templier",
+      "de": "Schulterplatten des Templers",
+      "it": "Paraspalle del templare",
+      "es": "Cubrehombros de templario",
+      "tr": "Tapınakçı Omuz Plakası"
+    },
+    {
+      "index": 390,
+      "id": "0xCCFF678F",
+      "en": "#0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "it": "#0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "es": "#0x121FCBFF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 391,
+      "id": "0xCD19F049",
+      "en": "Lawman's",
+      "fr": "de carabinier",
+      "de": "Sheriff-",
+      "it": "dell'uomo di legge",
+      "es": "del agente",
+      "tr": "Kanun Adamı"
+    },
+    {
+      "index": 392,
+      "id": "0xCD241B1C",
+      "en": "Champion's",
+      "fr": "de protecteur",
+      "de": "Champion-",
+      "it": "del campione",
+      "es": "del campeón",
+      "tr": "Şampiyon"
+    },
+    {
+      "index": 393,
+      "id": "0xCD6CA05B",
+      "en": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Pauldrons of the North",
+      "fr": "Espauliers du nord #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Schulterplatten des Nordens",
+      "it": "Paraspalle del nord #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Cubrehombros del norte #0xEAA319FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x25CF}}#PREVIOUS# Kuzeyin Omuz Plakası"
+    },
+    {
+      "index": 394,
+      "id": "0xCDDAFD0F",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Ursine Harness",
+      "fr": "Harnais de l'ours #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Bären-Harnisch",
+      "it": "Finimenti dell'orso #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Arnés de oso #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Ayı Göğüslüğü"
+    },
+    {
+      "index": 395,
+      "id": "0xCE49E47A",
+      "en": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Crystal Talons",
+      "fr": "Griffes de cristal #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Kristallkrallen",
+      "it": "Artigli di cristallo #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Garras de cristal #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Kristal Pençeler"
+    },
+    {
+      "index": 396,
+      "id": "0xCE595381",
+      "en": "Wilder's",
+      "fr": "de vandale",
+      "de": "Ungebärdiger",
+      "it": "del selvaggio",
+      "es": "de Wilder",
+      "tr": "Yabanıl"
+    },
+    {
+      "index": 397,
+      "id": "0xCF591239",
+      "en": "Gladiator's Armguards",
+      "fr": "Brassards du gladiateur",
+      "de": "Armschienen des Gladiators",
+      "it": "Parabraccia del gladiatore",
+      "es": "Guardabrazos de gladiador",
+      "tr": "Gladyatör Kolçakları"
+    },
+    {
+      "index": 398,
+      "id": "0xD00E2C20",
+      "en": "Reinforced",
+      "fr": "renforcé",
+      "de": "Verstärkter",
+      "it": "del rinforzo",
+      "es": "reforzado",
+      "tr": "Takviyeli"
+    },
+    {
+      "index": 399,
+      "id": "0xD1C304BF",
+      "en": "Barbarian's",
+      "fr": "de barbare",
+      "de": "Barbarischer",
+      "it": "del barbaro",
+      "es": "del bárbaro",
+      "tr": "Barbar"
+    },
+    {
+      "index": 400,
+      "id": "0xD262B27B",
+      "en": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Science Shoulders",
+      "fr": "Épaulières scientifiques #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Schulterschutz des Wissenschaftlers",
+      "it": "Spallacci della scienza #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Hombreras de ciencia #0xF5F325FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF5F325FF#{{0x25CF}}#PREVIOUS# Bilim Omuzlukları"
+    },
+    {
+      "index": 401,
+      "id": "0xD377DD5E",
+      "en": "Plated",
+      "fr": "cuirassé",
+      "de": "Plattierter",
+      "it": "con piastre",
+      "es": "acorazado",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 402,
+      "id": "0xD3E92758",
+      "en": "Bandit Lord's Signet",
+      "fr": "Chevalière du seigneur de brigands",
+      "de": "Siegel des Banditenlords",
+      "it": "Sigillo del signore dei banditi",
+      "es": "Sello de señor bandido",
+      "tr": "Haydut Lordu Mührü"
+    },
+    {
+      "index": 403,
+      "id": "0xD48DC2CC",
+      "en": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Vision, the Seer's Guide",
+      "fr": "Vision, le guide du clairvoyant #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Vision, der Führer des Sehers",
+      "it": "Vision, la guida del veggente #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "es": "Visión, la guía del vidente #0xEAA319FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xEAA319FF#{{0x2605}}#PREVIOUS# Vision, Kâhinin Rehberi"
+    },
+    {
+      "index": 404,
+      "id": "0xD513755A",
+      "en": "#0xFFFFFFFF#{{0x2605}}Battlemend#PREVIOUS#\nChance on hit to remove all your negative status effects",
+      "fr": "#0xFFFFFFFF#{{0x2605}}Parure de guerre#PREVIOUS#\nPossibilité d'annuler toutes vos altérations d'état négatives lorsque vous touchez un ennemi.",
+      "de": "#0xFFFFFFFF#{{0x2605}}Kampferprobt#PREVIOUS#\nChance, im Falle eines Treffers, alle negativen Statuseffekte zu entfernen.",
+      "it": "#0xFFFFFFFF#{{0x2605}}Salvabattaglia#PREVIOUS#\nPossibilità di rimuovere tutti gli effetti negativi con colpo a segno.",
+      "es": "#0xFFFFFFFF#{{0x2605}}Batalla zurcida#PREVIOUS#\nProbabilidad al golpear de eliminar todos los efectos de estado negativos.",
+      "tr": "#0xFFFFFFFF#{{0x2605}}Savaş Şifası#PREVIOUS#\nVuruşta tüm olumsuz durum etkilerini kaldırma ihtimali."
+    },
+    {
+      "index": 405,
+      "id": "0xD517F154",
+      "en": "#0xFFFFFFFF#{{0x2605}}Battlemend#PREVIOUS#",
+      "fr": "#0xFFFFFFFF#{{0x2605}}Parure de guerre#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x2605}}Kampferprobt#PREVIOUS#",
+      "it": "#0xFFFFFFFF#{{0x2605}}Salvabattaglia#PREVIOUS#",
+      "es": "#0xFFFFFFFF#{{0x2605}}Batalla zurcida#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x2605}}#PREVIOUS# Savaş Şifası"
+    },
+    {
+      "index": 406,
+      "id": "0xD52CB5FD",
+      "en": "Juju",
+      "fr": "de magie noire",
+      "de": "Juju-beseelter",
+      "it": "Juju",
+      "es": "Juju",
+      "tr": "Juju"
+    },
+    {
+      "index": 407,
+      "id": "0xD5C035E6",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Treasure Hunter's Grips",
+      "fr": "Poignets du chasseur de trésors #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Grifflinge des Schatzsuchers",
+      "it": "Guanti del cacciatore di tesori #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mitones de cazador de tesoros #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Hazine Avcısı Eldivenleri"
+    },
+    {
+      "index": 408,
+      "id": "0xD6D15586",
+      "en": "Warlock's Mantle",
+      "fr": "Cape du sorcier",
+      "de": "Mantel des Hexers",
+      "it": "Mantello dello stregone",
+      "es": "Manto de brujo",
+      "tr": "Kara Büyücü Pelerini"
+    },
+    {
+      "index": 409,
+      "id": "0xD6F8DD21",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Staff of the Seventh Circle",
+      "fr": "Bâton du septième cercle #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Stab des siebten Zirkels",
+      "it": "Verga del settimo cerchio #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Bastón del séptimo círculo #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Yedinci Çember Asası"
+    },
+    {
+      "index": 410,
+      "id": "0xD70AB798",
+      "en": "Outlander's Armguards",
+      "fr": "Brassards de l'étranger",
+      "de": "Armschienen des Ausländers",
+      "it": "Parabraccia dello straniero",
+      "es": "Guardabrazos de extranjero",
+      "tr": "Yabancı Kolçakları"
+    },
+    {
+      "index": 411,
+      "id": "0xD73F0AE8",
+      "en": "Lawman's",
+      "fr": "de carabinier",
+      "de": "Sheriff-",
+      "it": "dell'uomo di legge",
+      "es": "del agente",
+      "tr": "Kanun Adamı"
+    },
+    {
+      "index": 412,
+      "id": "0xD7E12E5B",
+      "en": "Outlaw's Razorshots",
+      "fr": "Francs-tireurs du hors-la-loi",
+      "de": "Messerblaster des Gesetzlosen",
+      "it": "Rasoi letali del fuorilegge",
+      "es": "Tiranavajas de forajido",
+      "tr": "Kanun Kaçağı Ustura Atışları"
+    },
+    {
+      "index": 413,
+      "id": "0xD9C957FE",
+      "en": "Tribal",
+      "fr": "tribaux",
+      "de": "Stämmische",
+      "it": "tribali",
+      "es": "tribales",
+      "tr": "Kabile"
+    },
+    {
+      "index": 414,
+      "id": "0xD9CEB78F",
+      "en": "Wizard's",
+      "fr": "de magicien",
+      "de": "Zauberer-",
+      "it": "del mago",
+      "es": "del mago",
+      "tr": "Büyücü"
+    },
+    {
+      "index": 415,
+      "id": "0xDA62D95A",
+      "en": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Ice",
+      "fr": "Glace #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Eis",
+      "it": "Ghiaccio #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Hielo #0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS# Buz"
+    },
+    {
+      "index": 416,
+      "id": "0xDAAC2F0C",
+      "en": "Scoped",
+      "fr": "de précision",
+      "de": "Zielfernrohr-",
+      "it": "con mirino",
+      "es": "con mira",
+      "tr": "Dürbünlü"
+    },
+    {
+      "index": 417,
+      "id": "0xDAF2762D",
+      "en": "Fencer's",
+      "fr": "d'escrime",
+      "de": "Fechtende",
+      "it": "dello schermitore",
+      "es": "del espadachín",
+      "tr": "Eskrimci"
+    },
+    {
+      "index": 418,
+      "id": "0xDBF0C159",
+      "en": "Gambler's Sabatons",
+      "fr": "Jambières du franc-tireur",
+      "de": "Sabatons des Spielers",
+      "it": "Calzari del giocatore",
+      "es": "Escarpes de jugador",
+      "tr": "Kumarbaz Zırh Çizmeleri"
+    },
+    {
+      "index": 419,
+      "id": "0xDC1D4915",
+      "en": "Magister's",
+      "fr": "de magistère",
+      "de": "Magister-",
+      "it": "del maestro",
+      "es": "del maestre",
+      "tr": "Üstat"
+    },
+    {
+      "index": 420,
+      "id": "0xDC5D28AF",
+      "en": "Icelord's Emblem",
+      "fr": "Emblème du seigneur des glaces",
+      "de": "Emblem des Eislords",
+      "it": "Emblema del signore dei ghiacci",
+      "es": "Emblema de señor del hielo",
+      "tr": "Buz Lordu Amblemi"
+    },
+    {
+      "index": 421,
+      "id": "0xDCEE738B",
+      "en": "Gambler's Hauberk",
+      "fr": "Haubert du franc-tireur",
+      "de": "Kettenhemd des Spielers",
+      "it": "Usbergo del giocatore",
+      "es": "Cota de jugador",
+      "tr": "Kumarbaz Zincir Zırhı"
+    },
+    {
+      "index": 422,
+      "id": "0xDD3A9B20",
+      "en": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "it": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "es": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 423,
+      "id": "0xDDFBC37D",
+      "en": "Champion's",
+      "fr": "de protecteur",
+      "de": "Champion-",
+      "it": "del campione",
+      "es": "del campeón",
+      "tr": "Şampiyon"
+    },
+    {
+      "index": 424,
+      "id": "0xDEBC5CF7",
+      "en": "Predator's Armguards",
+      "fr": "Brassards du prédateur",
+      "de": "Armschienen des Räubers",
+      "it": "Parabraccia del predatore",
+      "es": "Guardabrazos de depredador",
+      "tr": "Avcı Kolçakları"
+    },
+    {
+      "index": 425,
+      "id": "0xDF9FB639",
+      "en": "Hellmouth-Tooth Amulet",
+      "fr": "Amulette en croc de Dévorace",
+      "de": "Höllenmundzahn-Amulett",
+      "it": "Amuleto del dente infernale",
+      "es": "Amuleto diente de boca infernal",
+      "tr": "Cehennemağzı Dişi Tılsımı"
+    },
+    {
+      "index": 426,
+      "id": "0xE222DF54",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Hellblazers",
+      "fr": "Canons d'enfer #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Höllenblazer",
+      "it": "Hellblazer #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Fulminadoras infernales #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Cehennem Patlatıcıları"
+    },
+    {
+      "index": 427,
+      "id": "0xE296EAA4",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Druidlord's Gloves",
+      "fr": "Gants du grand druide #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Handschuhe des Druidenfürsten",
+      "it": "Guanti del signore dei druidi #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes de señor druida #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Druid Lordu Eldivenleri"
+    },
+    {
+      "index": 428,
+      "id": "0xE2C44C46",
+      "en": "Grim",
+      "fr": "sinistres",
+      "de": "Grimmige",
+      "it": "lugubri",
+      "es": "lúgubres",
+      "tr": "Kasvetli"
+    },
+    {
+      "index": 429,
+      "id": "0xE2DB210E",
+      "en": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Brigadine of the Elven Kings",
+      "fr": "Brigandine des Rois elfes #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Brigantine der Elfenkönige",
+      "it": "Brigantina dei re degli Elfi #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Brigandina de los reyes elfos #0xFFFFFFFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xFFFFFFFF#{{0x25CF}}#PREVIOUS# Elf Krallarının Brigantini"
+    },
+    {
+      "index": 430,
+      "id": "0xE3879A60",
+      "en": "Hookblade",
+      "fr": "Hallebarde",
+      "de": "Hakenklinge",
+      "it": "Lama uncinata",
+      "es": "Hojagancho",
+      "tr": "Kancakılıç"
+    },
+    {
+      "index": 431,
+      "id": "0xE3879A61",
+      "en": "Backbiter",
+      "fr": "Faux",
+      "de": "Rückbeißer",
+      "it": "Retrocolpo",
+      "es": "Mordedora",
+      "tr": "Sırtısıran"
+    },
+    {
+      "index": 432,
+      "id": "0xE3879A62",
+      "en": "Barb",
+      "fr": "Pique",
+      "de": "Stachel",
+      "it": "Barbiglio",
+      "es": "Púa",
+      "tr": "Diken"
+    },
+    {
+      "index": 433,
+      "id": "0xE3879A63",
+      "en": "Stinger",
+      "fr": "Épieu",
+      "de": "Stecher",
+      "it": "Pungiglione",
+      "es": "Aguijón",
+      "tr": "İğne"
+    },
+    {
+      "index": 434,
+      "id": "0xE3879A64",
+      "en": "Dragontail",
+      "fr": "Dragonnette",
+      "de": "Drachenschwanz",
+      "it": "Coda di drago",
+      "es": "Cola de dragón",
+      "tr": "Ejder Kuyruğu"
+    },
+    {
+      "index": 435,
+      "id": "0xE3879A65",
+      "en": "Glaive",
+      "fr": "Vouge",
+      "de": "Gleve",
+      "it": "Daga",
+      "es": "Guja",
+      "tr": "Glaive"
+    },
+    {
+      "index": 436,
+      "id": "0xE3879A66",
+      "en": "Wyvernfang",
+      "fr": "Guivron",
+      "de": "Wyvernzahn",
+      "it": "Zanna di viverna",
+      "es": "Colmillo de wivern",
+      "tr": "Wyvern Dişi"
+    },
+    {
+      "index": 437,
+      "id": "0xE3879A67",
+      "en": "Crescent",
+      "fr": "Demi-lune",
+      "de": "Sichel",
+      "it": "Falce",
+      "es": "Media luna",
+      "tr": "Hilal"
+    },
+    {
+      "index": 438,
+      "id": "0xE3879A68",
+      "en": "Ranseur",
+      "fr": "Chauve-souris",
+      "de": "Ranseur",
+      "it": "Brandistocco",
+      "es": "Ranseur",
+      "tr": "Ranseur"
+    },
+    {
+      "index": 439,
+      "id": "0xE3879A7E",
+      "en": "Halbred",
+      "fr": "Roncone",
+      "de": "Hellebarde",
+      "it": "Alabarda",
+      "es": "Alabarda",
+      "tr": "Teber"
+    },
+    {
+      "index": 440,
+      "id": "0xE3879A7F",
+      "en": "Edgewing",
+      "fr": "Grand-serpe",
+      "de": "Klingenschwinge",
+      "it": "Ali affilate",
+      "es": "Alafilosa",
+      "tr": "Ağızkanat"
+    },
+    {
+      "index": 441,
+      "id": "0xE3879A80",
+      "en": "Partisan",
+      "fr": "Pertuisane",
+      "de": "Partisane",
+      "it": "Partigiana",
+      "es": "Partisana",
+      "tr": "Partizan"
+    },
+    {
+      "index": 442,
+      "id": "0xE3879A81",
+      "en": "Bardiche",
+      "fr": "Bardiche",
+      "de": "Bardiche",
+      "it": "Bardica",
+      "es": "Archa",
+      "tr": "Bardiş"
+    },
+    {
+      "index": 443,
+      "id": "0xE3879A82",
+      "en": "Maultooth",
+      "fr": "Esponton",
+      "de": "Nagelkeule",
+      "it": "Mazzuolatore",
+      "es": "Porradiente",
+      "tr": "Tokmakdiş"
+    },
+    {
+      "index": 444,
+      "id": "0xE3879A83",
+      "en": "Wildblade",
+      "fr": "Vouge-folle",
+      "de": "Wildklinge",
+      "it": "Lama selvaggia",
+      "es": "Lanzasalvaje",
+      "tr": "Yabankılıç"
+    },
+    {
+      "index": 445,
+      "id": "0xE3879A84",
+      "en": "Guisarme",
+      "fr": "Guisarme",
+      "de": "Guisarme",
+      "it": "Roncone",
+      "es": "Bisarma",
+      "tr": "Gizarma"
+    },
+    {
+      "index": 446,
+      "id": "0xE3879A85",
+      "en": "Arcspear",
+      "fr": "Fauchard",
+      "de": "Bogenspeer",
+      "it": "Lancia arcuata",
+      "es": "Arcolanza",
+      "tr": "Yaymızrak"
+    },
+    {
+      "index": 447,
+      "id": "0xE3879A86",
+      "en": "Crossawl",
+      "fr": "Croisade",
+      "de": "Kreuzahle",
+      "it": "Impalatore",
+      "es": "Cruzapunzón",
+      "tr": "Çapraz Biz"
+    },
+    {
+      "index": 448,
+      "id": "0xE3879A87",
+      "en": "Awlpike",
+      "fr": "Godendard",
+      "de": "Ahlenpike",
+      "it": "Picca mortale",
+      "es": "Picapunzón",
+      "tr": "Bizmızrak"
+    },
+    {
+      "index": 449,
+      "id": "0xE3879A9D",
+      "en": "Twinhook",
+      "fr": "Corsèque",
+      "de": "Doppelhaken",
+      "it": "Doppio uncino",
+      "es": "Bigancho",
+      "tr": "Çift Kanca"
+    },
+    {
+      "index": 450,
+      "id": "0xE3B04072",
+      "en": "Apprentice's",
+      "fr": "d'apprenti",
+      "de": "Lehrling-",
+      "it": "dell'apprendista",
+      "es": "del aprendiz",
+      "tr": "Çırak"
+    },
+    {
+      "index": 451,
+      "id": "0xE6F82036",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Robes of the Exile",
+      "fr": "Robe de l'exil #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Roben des Vertriebenen",
+      "it": "Abiti dell'esiliato #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Túnica del exilio #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Sürgün Cübbesi"
+    },
+    {
+      "index": 452,
+      "id": "0xE77C3DE7",
+      "en": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Wildlord's Armguards",
+      "fr": "Brassards du seigneur du désert #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Armschienen des Fürsten der Wildnis",
+      "it": "Parabraccia del signore selvaggio #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guardabrazos de señor salvaje #0x121FCBFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x121FCBFF#{{0x25CF}}#PREVIOUS# Yaban Lordu Kolçakları"
+    },
+    {
+      "index": 453,
+      "id": "0xE813B790",
+      "en": "Champion's Belt",
+      "fr": "Ceinture de protecteur",
+      "de": "Gürtel des Champions",
+      "it": "Cintura del campione",
+      "es": "Cinturón de campeón",
+      "tr": "Şampiyon Kemeri"
+    },
+    {
+      "index": 454,
+      "id": "0xE8BC0467",
+      "en": "Duelist's",
+      "fr": "de duelliste",
+      "de": "Duellierende",
+      "it": "del duellante",
+      "es": "del duelista",
+      "tr": "Düellocu"
+    },
+    {
+      "index": 455,
+      "id": "0xE8C45226",
+      "en": "Jungleblades",
+      "fr": "Fauvettes",
+      "de": "Dschungelklingen",
+      "it": "Lame della giungla",
+      "es": "Selvacuchillas",
+      "tr": "Orman Kılıçları"
+    },
+    {
+      "index": 456,
+      "id": "0xE8C45227",
+      "en": "Maulers",
+      "fr": "Vandales",
+      "de": "Schläger",
+      "it": "Magli",
+      "es": "Aporreadoras",
+      "tr": "Eziciler"
+    },
+    {
+      "index": 457,
+      "id": "0xE8C45228",
+      "en": "Crossblades",
+      "fr": "Lunes",
+      "de": "Kreuzklingen",
+      "it": "Lame incrociate",
+      "es": "Hojas cruzadas",
+      "tr": "Çapraz Kılıçlar"
+    },
+    {
+      "index": 458,
+      "id": "0xE8C45229",
+      "en": "Razors",
+      "fr": "Rasettes",
+      "de": "Messer",
+      "it": "Rasoi",
+      "es": "Navajas",
+      "tr": "Usturalar"
+    },
+    {
+      "index": 459,
+      "id": "0xE8C4522A",
+      "en": "Fleshrippers",
+      "fr": "Écorcheuses",
+      "de": "Fleischripper",
+      "it": "Strappacarne",
+      "es": "Desgarradoras",
+      "tr": "Et Parçalayıcılar"
+    },
+    {
+      "index": 460,
+      "id": "0xE8C4522B",
+      "en": "Hawkclaws",
+      "fr": "Rapaces",
+      "de": "Falkenklauen",
+      "it": "Artigli di falco",
+      "es": "Falcogarras",
+      "tr": "Şahin Pençeleri"
+    },
+    {
+      "index": 461,
+      "id": "0xE8C4522C",
+      "en": "Tusks",
+      "fr": "Ivoirines",
+      "de": "Hauer",
+      "it": "Zanne",
+      "es": "Colmillos",
+      "tr": "Fildişleri"
+    },
+    {
+      "index": 462,
+      "id": "0xE8C4522D",
+      "en": "Preycarvers",
+      "fr": "Braconnières",
+      "de": "Opferschlitzer",
+      "it": "Straziapreda",
+      "es": "Cortapresas",
+      "tr": "Av Yarıcılar"
+    },
+    {
+      "index": 463,
+      "id": "0xE8C4522E",
+      "en": "Manglers",
+      "fr": "Mutilantes",
+      "de": "Mangler",
+      "it": "Mutilatrici",
+      "es": "Destrozadoras",
+      "tr": "Parçalayıcılar"
+    },
+    {
+      "index": 464,
+      "id": "0xE8C45244",
+      "en": "Warhorns",
+      "fr": "Cornerixes",
+      "de": "Kriegshörner",
+      "it": "Corni da guerra",
+      "es": "Cuernos de guerra",
+      "tr": "Savaş Boynuzları"
+    },
+    {
+      "index": 465,
+      "id": "0xE8C45245",
+      "en": "Grinders",
+      "fr": "Perforeuses",
+      "de": "Mahlzähne",
+      "it": "Maciullatori",
+      "es": "Machacadoras",
+      "tr": "Öğütücüler"
+    },
+    {
+      "index": 466,
+      "id": "0xE8C45246",
+      "en": "Furytalons",
+      "fr": "Furiantes",
+      "de": "Zornkrallen",
+      "it": "Artigli furiosi",
+      "es": "Garrafuriosas",
+      "tr": "Öfke Pençeleri"
+    },
+    {
+      "index": 467,
+      "id": "0xE8C45247",
+      "en": "Rageclaws",
+      "fr": "Griffines",
+      "de": "Wutklauen",
+      "it": "Artigli furibondi",
+      "es": "Garracoléricas",
+      "tr": "Hiddet Pençeleri"
+    },
+    {
+      "index": 468,
+      "id": "0xE8C45248",
+      "en": "Thrashers",
+      "fr": "Alumelles",
+      "de": "Drescher",
+      "it": "Frantumatori",
+      "es": "Zurradoras",
+      "tr": "Hırpalayıcılar"
+    },
+    {
+      "index": 469,
+      "id": "0xE8C45249",
+      "en": "Waveblades",
+      "fr": "Baïonnettes",
+      "de": "Wellenklingen",
+      "it": "Lame dell'onda",
+      "es": "Osciladoras",
+      "tr": "Dalga Kılıçları"
+    },
+    {
+      "index": 470,
+      "id": "0xE8C4524A",
+      "en": "Scythers",
+      "fr": "Faucheuses",
+      "de": "Senser",
+      "it": "Falciatrici",
+      "es": "Guadañas",
+      "tr": "Tırpancılar"
+    },
+    {
+      "index": 471,
+      "id": "0xE8C4524B",
+      "en": "Falconblades",
+      "fr": "Fauconnières",
+      "de": "Falkenklingen",
+      "it": "Lame del falco",
+      "es": "Falcocuchillas",
+      "tr": "Doğan Kılıçları"
+    },
+    {
+      "index": 472,
+      "id": "0xE8C4524C",
+      "en": "Ravagers",
+      "fr": "Guillotines",
+      "de": "Verwüster",
+      "it": "Straziatori",
+      "es": "Violadoras",
+      "tr": "Yıkıcılar"
+    },
+    {
+      "index": 473,
+      "id": "0xE8C4524D",
+      "en": "Bearpaws",
+      "fr": "Ursines",
+      "de": "Bärentatzen",
+      "it": "Artigli dell'orso",
+      "es": "Osogarras",
+      "tr": "Ayı Pençeleri"
+    },
+    {
+      "index": 474,
+      "id": "0xE8C45263",
+      "en": "Wrathblades",
+      "fr": "Pugilames",
+      "de": "Grimmklingen",
+      "it": "Lame della collera",
+      "es": "Furiocuchillas",
+      "tr": "Gazap Kılıçları"
+    },
+    {
+      "index": 475,
+      "id": "0xE9AA3063",
+      "en": "Sojouner's Boots",
+      "fr": "Bottes du pérégrin",
+      "de": "Stiefel des Gastes",
+      "it": "Stivali del girovago",
+      "es": "Botas de visitante",
+      "tr": "Yolcu Çizmeleri"
+    },
+    {
+      "index": 476,
+      "id": "0xEA7A5B33",
+      "en": "#0xF50E0EFF#{{0x2605}}Gorestrike#PREVIOUS#\nChance on hit to wound enemy",
+      "fr": "#0xF50E0EFF#{{0x2605}}Coup sanglant#PREVIOUS#\nPossiblilité de blesser un ennemi lorsque vous le touchez.",
+      "de": "#0xF50E0EFF#{{0x2605}}Bluthieb#PREVIOUS#\nChance, den Gegner im Falle eines Treffers zu verwunden.",
+      "it": "#0xF50E0EFF#{{0x2605}}Colpoletale#PREVIOUS#\nPossibilità di ferire il nemico colpito.",
+      "es": "#0xF50E0EFF#{{0x2605}}Golpe sangriento#PREVIOUS#\nProbabilidad al golpear de herir al enemigo.",
+      "tr": "#0xF50E0EFF#{{0x2605}}Kanlı Darbe#PREVIOUS#\nVuruşta düşmanı yaralama ihtimali."
+    },
+    {
+      "index": 477,
+      "id": "0xEA7ED72D",
+      "en": "#0xF50E0EFF#{{0x2605}}Gorestrike#PREVIOUS#",
+      "fr": "#0xF50E0EFF#{{0x2605}}Coup sanglant#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x2605}}Bluthieb#PREVIOUS#",
+      "it": "#0xF50E0EFF#{{0x2605}}Colpoletale#PREVIOUS#",
+      "es": "#0xF50E0EFF#{{0x2605}}Golpe sangriento#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x2605}}#PREVIOUS# Kanlı Darbe"
+    },
+    {
+      "index": 478,
+      "id": "0xEAA7E295",
+      "en": "Sojourner's Robes",
+      "fr": "Robe du pérégrin",
+      "de": "Roben des Gastes",
+      "it": "Abiti del girovago",
+      "es": "Túnica de visitante",
+      "tr": "Yolcu Cübbesi"
+    },
+    {
+      "index": 479,
+      "id": "0xEABDC07D",
+      "en": "Wanderer's",
+      "fr": "de vagabond",
+      "de": "Wanderer-",
+      "it": "del viandante",
+      "es": "del vagabundo",
+      "tr": "Gezgin"
+    },
+    {
+      "index": 480,
+      "id": "0xEABFFFAA",
+      "en": "#0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "fr": "#0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "it": "#0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "es": "#0x1EA922FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x2605}}#PREVIOUS#"
+    },
+    {
+      "index": 481,
+      "id": "0xEB1620CD",
+      "en": "Magister's",
+      "fr": "de magistère",
+      "de": "Magister-",
+      "it": "del maestro",
+      "es": "del maestre",
+      "tr": "Üstat"
+    },
+    {
+      "index": 482,
+      "id": "0xEB56451A",
+      "en": "Ickthid Totem",
+      "fr": "Totem de Poissard",
+      "de": "Ickthid-Totem",
+      "it": "Totem Ickthide",
+      "es": "Tótem ickthid",
+      "tr": "Ickthid Totemi"
+    },
+    {
+      "index": 483,
+      "id": "0xEC6F6FAC",
+      "en": "Spiked",
+      "fr": "à pointes",
+      "de": "Stachelige",
+      "it": "a punta",
+      "es": "espinosos",
+      "tr": "Dikenli"
+    },
+    {
+      "index": 484,
+      "id": "0xED9A4294",
+      "en": "Lancer's",
+      "fr": "de lancier",
+      "de": "Lanzenträger-",
+      "it": "del lanciere",
+      "es": "del lancero",
+      "tr": "Mızrakçı"
+    },
+    {
+      "index": 485,
+      "id": "0xEDA500C2",
+      "en": "Gladiator's Greaves",
+      "fr": "Grèves du gladiateur",
+      "de": "Beinschienen des Gladiators",
+      "it": "Gambali del gladiatore",
+      "es": "Grebas de gladiador",
+      "tr": "Gladyatör Baldır Zırhı"
+    },
+    {
+      "index": 486,
+      "id": "0xEE98CE55",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Knuckles of Hatred",
+      "fr": "Châtaignes de la haine #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Schlagring des Hasses",
+      "it": "Pugni dell'odio #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Nudillos de odio #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Nefret Muştaları"
+    },
+    {
+      "index": 487,
+      "id": "0xEEA2B2F4",
+      "en": "Gladiator's Harness",
+      "fr": "Harnais du gladiateur",
+      "de": "Harnisch des Gladiators",
+      "it": "Finimenti del gladiatore",
+      "es": "Arnés de gladiador",
+      "tr": "Gladyatör Göğüslüğü"
+    },
+    {
+      "index": 488,
+      "id": "0xF03AE271",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# The Darkener",
+      "fr": "La Ténébreuse #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Der Verdunkler",
+      "it": "L'Oscuratore #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "El oscurecedor #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Karartıcı"
+    },
+    {
+      "index": 489,
+      "id": "0xF0568B09",
+      "en": "Footman's",
+      "fr": "de valet",
+      "de": "Dienstbare",
+      "it": "del fante",
+      "es": "del lacayo",
+      "tr": "Piyade"
+    },
+    {
+      "index": 490,
+      "id": "0xF10FC79D",
+      "en": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Rod of Abyssal Power",
+      "fr": "Baguette du pouvoir abyssal #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Stab der Höllenmacht",
+      "it": "Verga del potere abissale #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "es": "Báculo de poder abismal #0xAA35B5FF#{{0x2605}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x2605}}#PREVIOUS# Uçurum Gücü Asası"
+    },
+    {
+      "index": 491,
+      "id": "0xF1A11A47",
+      "en": "Tribal",
+      "fr": "tribal",
+      "de": "Stämmisches",
+      "it": "tribale",
+      "es": "tribal",
+      "tr": "Kabile"
+    },
+    {
+      "index": 492,
+      "id": "0xF1A11A48",
+      "en": "Warrior's",
+      "fr": "de guerrier",
+      "de": "Krieger-",
+      "it": "del guerriero",
+      "es": "del guerrero",
+      "tr": "Savaşçı"
+    },
+    {
+      "index": 493,
+      "id": "0xF1A11A49",
+      "en": "Voodoo",
+      "fr": "vaudou",
+      "de": "Voodooistisches",
+      "it": "vudù",
+      "es": "vudú",
+      "tr": "Vudu"
+    },
+    {
+      "index": 494,
+      "id": "0xF1A11A4A",
+      "en": "Hunter's",
+      "fr": "de chasseur",
+      "de": "Jäger-",
+      "it": "del cacciatore",
+      "es": "del cazador",
+      "tr": "Avcı"
+    },
+    {
+      "index": 495,
+      "id": "0xF1A11A4B",
+      "en": "Wilder's",
+      "fr": "de vandale",
+      "de": "Ungebärdiges",
+      "it": "del selvaggio",
+      "es": "de Wilder",
+      "tr": "Yabanıl"
+    },
+    {
+      "index": 496,
+      "id": "0xF1A11A4C",
+      "en": "Reinforced",
+      "fr": "renforcé",
+      "de": "Verstärktes",
+      "it": "del rinforzo",
+      "es": "reforzado",
+      "tr": "Takviyeli"
+    },
+    {
+      "index": 497,
+      "id": "0xF1A11A4D",
+      "en": "Barbarian's",
+      "fr": "de barbare",
+      "de": "Barbarisches",
+      "it": "del barbaro",
+      "es": "del bárbaro",
+      "tr": "Barbar"
+    },
+    {
+      "index": 498,
+      "id": "0xF1A11A4E",
+      "en": "Plated",
+      "fr": "cuirassé",
+      "de": "Plattiertes",
+      "it": "con piastre",
+      "es": "acorazado",
+      "tr": "Zırhlı"
+    },
+    {
+      "index": 499,
+      "id": "0xF1A11A4F",
+      "en": "Juju",
+      "fr": "de magie noire",
+      "de": "Juju-beseeltes",
+      "it": "Juju",
+      "es": "Juju",
+      "tr": "Juju"
+    },
+    {
+      "index": 500,
+      "id": "0xF1A11A65",
+      "en": "Champion's",
+      "fr": "de protecteur",
+      "de": "Champion-",
+      "it": "del campione",
+      "es": "del campeón",
+      "tr": "Şampiyon"
+    },
+    {
+      "index": 501,
+      "id": "0xF214A444",
+      "en": "Tribal",
+      "fr": "tribale",
+      "de": "Stämmische",
+      "it": "tribale",
+      "es": "tribal",
+      "tr": "Kabile"
+    },
+    {
+      "index": 502,
+      "id": "0xF223A0D8",
+      "en": "Reworked",
+      "fr": "refaçonnée",
+      "de": "Bearbeitete",
+      "it": "con elaborazione",
+      "es": "remozada",
+      "tr": "Yenilenmiş"
+    },
+    {
+      "index": 503,
+      "id": "0xF345BDBD",
+      "en": "Grim",
+      "fr": "sinistre",
+      "de": "Grimmige",
+      "it": "lugubre",
+      "es": "lúgubre",
+      "tr": "Kasvetli"
+    },
+    {
+      "index": 504,
+      "id": "0xF3CA4671",
+      "en": "Ashthrone Amulet",
+      "fr": "Amulette de Cendreval",
+      "de": "Aschenthron-Amulett",
+      "it": "Amuleto di Ashthrone",
+      "es": "Amuleto de Tronoceniza",
+      "tr": "Kültaht Tılsımı"
+    },
+    {
+      "index": 505,
+      "id": "0xF4A56CBE",
+      "en": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Corsair's Gauntlets",
+      "fr": "Manicles de corsaire #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Korsaren-Stulpen",
+      "it": "Guanti d'arme da corsaro #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guanteletes de corsario #0x1EA922FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x1EA922FF#{{0x25CF}}#PREVIOUS# Korsan Zırh Eldivenleri"
+    },
+    {
+      "index": 506,
+      "id": "0xF4B0CEA4",
+      "en": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Wilderness Moccasins",
+      "fr": "Souliers du désert #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Wildnis-Moccasins",
+      "it": "Mocassini delle terre selvagge #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "es": "Mocasines del páramo #0xF50E0EFF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xF50E0EFF#{{0x25CF}}#PREVIOUS# Yaban Mokasenleri"
+    },
+    {
+      "index": 507,
+      "id": "0xF56B9534",
+      "en": "Warrior's Armguards",
+      "fr": "Brassards du guerrier",
+      "de": "Armschienen des Kriegers",
+      "it": "Parabraccia del guerriero",
+      "es": "Guardabrazos de visitante",
+      "tr": "Savaşçı Kolçakları"
+    },
+    {
+      "index": 508,
+      "id": "0xF60F1FC1",
+      "en": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Drifter's Dusters",
+      "fr": "Gantelets de l'explorateur #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Klappen des Herumtreibers",
+      "it": "Coprimani del viandante #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Guantes de errabundo #0xAA35B5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0xAA35B5FF#{{0x25CF}}#PREVIOUS# Avare Eldivenleri"
+    },
+    {
+      "index": 509,
+      "id": "0xF6F114BE",
+      "en": "Grim",
+      "fr": "sinistre",
+      "de": "Grimmiger",
+      "it": "lugubre",
+      "es": "lúgubre",
+      "tr": "Kasvetli"
+    },
+    {
+      "index": 510,
+      "id": "0xF74AE35C",
+      "en": "Adept's Hookblade",
+      "fr": "Hallebarde de l'adepte",
+      "de": "Hakenklinge des Adepten",
+      "it": "Lama uncinata dell'adepto",
+      "es": "Hojagancho de adepto",
+      "tr": "Usta Kancakılıcı"
+    },
+    {
+      "index": 511,
+      "id": "0xF8A5ED5D",
+      "en": "Dread",
+      "fr": "menaçant",
+      "de": "Schrecklicher",
+      "it": "pauroso",
+      "es": "terrorífico",
+      "tr": "Dehşet"
+    },
+    {
+      "index": 512,
+      "id": "0xF97A849F",
+      "en": "Reinforced",
+      "fr": "renforcée",
+      "de": "Verstärkte",
+      "it": "del rinforzo",
+      "es": "reforzada",
+      "tr": "Takviyeli"
+    },
+    {
+      "index": 513,
+      "id": "0xFA38FDE6",
+      "en": "Trooper's",
+      "fr": "de cavalier",
+      "de": "Trooper-",
+      "it": "del milite",
+      "es": "de la tropa",
+      "tr": "Asker"
+    },
+    {
+      "index": 514,
+      "id": "0xFA5AC5FC",
+      "en": "Soldier's",
+      "fr": "de soldat",
+      "de": "Soldatischer",
+      "it": "del soldato",
+      "es": "del soldado",
+      "tr": "Asker"
+    },
+    {
+      "index": 515,
+      "id": "0xFA838995",
+      "en": "Outlander's Shoulderpads",
+      "fr": "Épaulières de l'étranger",
+      "de": "Schulterpolster des Ausländers",
+      "it": "Spallacci dello straniero",
+      "es": "Hombreras de extranjero",
+      "tr": "Yabancı Omuzlukları"
+    },
+    {
+      "index": 516,
+      "id": "0xFAAB9E18",
+      "en": "Regal",
+      "fr": "royale",
+      "de": "Königliche",
+      "it": "regale",
+      "es": "real",
+      "tr": "Asil"
+    },
+    {
+      "index": 517,
+      "id": "0xFAB753A7",
+      "en": "Champion's",
+      "fr": "de protecteur",
+      "de": "Champion-",
+      "it": "del campione",
+      "es": "del campeón",
+      "tr": "Şampiyon"
+    },
+    {
+      "index": 518,
+      "id": "0xFC0F9E9B",
+      "en": "Footman's",
+      "fr": "de valet",
+      "de": "Dienstbarer",
+      "it": "del fante",
+      "es": "del lacayo",
+      "tr": "Piyade"
+    },
+    {
+      "index": 519,
+      "id": "0xFD33DC6D",
+      "en": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Keltas's Platemail",
+      "fr": "Armure de plates de Keltas #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "de": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Keltas' Plattenrüstung",
+      "it": "Corazza di piastre di Keltas #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "es": "Armadura de Keltas #0x0EDDF5FF#{{0x25CF}}#PREVIOUS#",
+      "tr": "#0x0EDDF5FF#{{0x25CF}}#PREVIOUS# Keltas'ın Plaka Zırhı"
+    },
+    {
+      "index": 520,
+      "id": "0xFDC4773A",
+      "en": "Ornate",
+      "fr": "orné",
+      "de": "Verzierter",
+      "it": "con ornamenti",
+      "es": "ornamentado",
+      "tr": "Süslü"
+    },
+    {
+      "index": 521,
+      "id": "0xFDE8C9CC",
+      "en": "Crested",
+      "fr": "à armoiries",
+      "de": "Verschnörkelte",
+      "it": "con stemma",
+      "es": "con cresta",
+      "tr": "Armalı"
+    },
+    {
+      "index": 522,
+      "id": "0xFDEC692B",
+      "en": "Crested",
+      "fr": "à armoiries",
+      "de": "Verschnörkelte",
+      "it": "con stemma",
+      "es": "con cresta",
+      "tr": "Armalı"
+    },
+    {
+      "index": 523,
+      "id": "0xFF10BA83",
+      "en": "Rugged",
+      "fr": "usagés",
+      "de": "Robuste",
+      "it": "resistenti",
+      "es": "bastas",
+      "tr": "Sağlam"
+    },
+    {
+      "index": 524,
+      "id": "0xFF173C13",
+      "en": "Ancient",
+      "fr": "anciens",
+      "de": "Alte",
+      "it": "dell'antichità",
+      "es": "antiguos",
+      "tr": "Kadim"
+    },
+    {
+      "index": 525,
+      "id": "0xFF794FD9",
+      "en": "Regal",
+      "fr": "royal",
+      "de": "Königlicher",
+      "it": "regale",
+      "es": "real",
+      "tr": "Asil"
+    },
+    {
+      "index": 526,
+      "id": "0xFF80D552",
+      "en": "Crystal Keepsake",
+      "fr": "Souvenir de cristal",
+      "de": "Kristallandenken",
+      "it": "Pegno di cristallo",
+      "es": "Recuerdo de cristal",
+      "tr": "Kristal Hatıra"
+    }
+  ]
+}
