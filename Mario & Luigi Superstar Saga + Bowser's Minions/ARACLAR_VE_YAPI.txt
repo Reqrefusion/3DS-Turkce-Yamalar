@@ -1,0 +1,49 @@
+PAKETTEKİ ARAÇLAR VE DOSYALAR
+=============================
+
+Araclar\mlss_translate.py
+- MSBT mesajlarını okur/yazar.
+- BMsg.dat ve FMsg.dat içindeki BG4 mesaj arşivlerini işler.
+- CSV dışa/içe aktarma yapar.
+- Kontrol kodlarını korur.
+- BFFNT fontlarına Türkçe glifleri ekler.
+- Yama build'i ve teknik kontrolleri yapar.
+
+Araclar\mlss_gui.py
+- Mesaj/font işlemleri için grafik arayüz.
+
+Araclar\csv
+- Çok dilli mesaj CSV dosyaları.
+
+Araclar\UI\mlss_ui_tool.py
+- BUI/FUI/KUI/MGUI içindeki grafik tabanlı yerelleştirilmiş UI kayıtlarını işler.
+- BG4 ve Backwards LZ77 açma/yeniden paketleme işlemlerini yapar.
+- Türkçe UI sprite'larını üretir.
+
+Araclar\UI\ui_translations.csv
+- 113 grafik UI çevirisini içerir ve düzenlenebilir.
+
+Araclar\UI\UI_BUILD.bat / ui_build.sh
+- UI arşivlerini kaynak Obj/EU klasöründen yeniden üretir.
+
+Araclar\UI\requirements_ui.txt
+- UI build aracının kullandığı Python paket adlarını içerir.
+
+Araclar\UI\KULLANILAN_BILESENLER.txt
+- UI çalışmasında kullanılan araç/bileşen özetidir.
+
+Araclar\raporlar
+- Mesaj/font build raporları ile UI doğrulama raporunu içerir.
+
+Yama\romfs
+- Kurulum aracının kullandığı doğrudan yama içeriği.
+- Msg/EU_en ve Obj/EU birlikte bulunur.
+
+Hazir_Klasorler
+- Luma3DS ve Citra/Lime3DS/Azahar için önceden hazırlanmış klasör yapıları.
+
+Kontrol\UI_Onizleme
+- 113 Türkçe grafik UI parçasının build sonrası QA görüntüleri.
+
+Kontrol\SHA256SUMS.txt
+- Yama dosyalarının bütünlük özetleri.

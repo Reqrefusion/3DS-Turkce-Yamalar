@@ -1,0 +1,16 @@
+UI ÇALIŞMASINDA KULLANILAN BİLEŞENLER
+=====================================
+
+- Python
+- NumPy
+- Pillow
+- Özel BG4 arşiv okuyucu / yeniden paketleyici
+- Özel Backwards LZ77 açıcı / sıkıştırıcı
+- ML1R sprite metadata okuyucu
+- RGBA8888 / RGBA5551 / RGB565 / RGBA4444 sprite dönüştürücü
+- Çok dilli sprite karşılaştırma ve Türkçe raster metin oluşturucu
+
+Mesaj/font tarafında paket içindeki mlss_translate.py ve mlss_gui.py kullanılır.
+
+Harici font dosyası dağıtılmaz. UI build aracı çalıştığı işletim sistemindeki
+Türkçe karakter destekli uygun sistem fontunu kullanır.

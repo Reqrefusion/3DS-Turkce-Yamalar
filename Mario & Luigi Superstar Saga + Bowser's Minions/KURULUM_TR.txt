@@ -1,0 +1,50 @@
+MLSS TÜRKÇE YAMA
+================
+
+Oyun:
+Mario & Luigi: Superstar Saga + Bowser's Minions
+Bölge / ürün kodu: Avrupa / CTR-P-BRMP
+Title ID: 00040000001B9000
+
+Bu yama İngilizce dil yuvasını Türkçe ile değiştirir.
+Oyunda Türkçe metinleri görmek için oyun dili İngilizce olmalıdır.
+
+Yama iki bölümü birlikte içerir:
+- Msg/EU_en: diyaloglar, menü metinleri ve Türkçe karakter destekli oyun fontları
+- Obj/EU: grafik olarak çizilmiş savaş/alan/mini oyun arayüz yazıları
+
+EN KOLAY YÖNTEM
+----------------
+Windows'ta YAMAYI_KUR.bat dosyasını çalıştırın ve menüden kullandığınız yöntemi seçin.
+
+LUMA3DS
+-------
+1. Luma3DS ayarlarında game patching özelliğinin açık olduğundan emin olun.
+2. SD kartınızın kök klasörünü kurulum aracına gösterin.
+3. Araç yama dosyalarını şu köke yerleştirir:
+   luma\titles\00040000001B9000\romfs
+
+Elle kurmak isterseniz Hazir_Klasorler\Luma3DS içindeki luma klasörünü
+SD kartınızın köküne kopyalayın.
+
+CITRA / LIME3DS / AZAHAR
+------------------------
+1. Emülatörün kullanıcı klasörünü kurulum aracına gösterin.
+2. Araç yama dosyalarını şu köke yerleştirir:
+   load\mods\00040000001B9000\romfs
+
+Elle kurmak isterseniz Hazir_Klasorler\Citra_Lime3DS_Azahar içindeki load
+klasörünü emülatör kullanıcı klasörüne kopyalayın.
+
+ÇIKARILMIŞ ROMFS
+----------------
+Kurulum aracında "Çıkarılmış RomFS" seçeneğini seçin ve romfs kök klasörünü gösterin.
+Araç hem Msg/EU_en hem Obj/EU yama içeriğini bu köke kopyalar.
+
+NOTLAR
+------
+- Orijinal oyununuz gereklidir.
+- Başka bir mod aynı Msg/EU_en veya Obj/EU dosyalarını değiştiriyorsa çakışabilir.
+- Kurulumdan önce aynı konumdaki mevcut mod dosyalarınızı yedeklemek iyi olur.
+- Türkçe oyun font desteği: ç Ç ğ Ğ ı İ ö Ö ş Ş ü Ü.
+- Grafik UI için BUI.dat, FUI.dat, KUI.dat ve MGUI.dat yamalanmıştır.
