@@ -1,0 +1,856 @@
+﻿index,key,text,prefix_hex
+0,activatesuperguide_confirma:0:*,"Bu bölüm tamamlanacak,|ancak Super Kong'un topladığı|hiçbir eşya sende kalmayacak.|Süper Rehber'i kullanmak|istediğinden emin misin?",01
+1,activatesuperguide_text:0:*,"Süper Rehber'i etkinleştirmek|ister misin?|Super Kong, bölümü nasıl geçeceğini|göstermek için gelecek.",01
+2,adddrop_adddiddy:0:*,2. Oyuncuyu Ekle,01
+3,adddrop_adddiddyprompt:0:*,2. Oyuncuyu|eklemek istiyor musun?,01
+4,adddrop_addprompt:0:*,Bir oyuncu eklemek için|bir balon harcamak istiyor musun?,01
+5,adddrop_button:0:*,2. Oyuncunun|W** Kumandasını bağla,01
+6,adddrop_button:1:*,Diddy'yi Ekle,01
+7,adddrop_button:2:*,Diddy'yi Çıkar,01
+8,adddrop_confirmdiddyadd:0:*,Diddy Kong oyuna katıldı!,01
+9,adddrop_confirmdiddyrevive:0:*,Diddy Kong geri döndü!,01
+10,adddrop_confirmdkrevive:0:*,Donkey Kong geri döndü!,01
+11,adddrop_dropdiddy:0:*,2. Oyuncuyu Çıkar,01
+12,adddrop_dropprompt:0:*,2. Oyuncuyu|çıkarmak istiyor musun?,01
+13,adddrop_noballoonsfordiddy:0:*,Diddy Kong'u diriltmek için|yeterli balonun yok!,01
+14,adddrop_noballoonsfordk:0:*,Donkey Kong'u diriltmek için|yeterli balonun yok!,01
+15,adddrop_oneplayer:0:*,1 Oyunculu Mod,01
+16,adddrop_revivediddy:0:*,Diddy'yi Dirilt,01
+17,adddrop_revivedk:0:*,DK'yi Dirilt,01
+18,adddrop_revivedkprompt:0:*,Donkey Kong'u diriltmek için|bir balon harcamak istiyor musun?,01
+19,adddrop_reviveprompt:0:*,Diddy Kong'u diriltmek için|bir balon harcamak istiyor musun?,01
+20,adddrop_twoplayer:0:*,2 Oyunculu Mod,01
+21,attract_movie_text:0:*,Herhangi bir tuşa bas,01
+22,blow:0:Standard,\d38c2fb4\xy_btn,01
+23,blow:1:Core,\3630bddf\lr_btn,01
+24,boss_bop:0:*,Şimdi|vur!,01
+25,boss_clingpound:0:Standard,\standard_boss_clingpound_btn,01
+26,boss_clingpound:1:Core,\core_boss_clingpound_btn,01
+27,boss_tryharder:0:*,Daha|çok uğraş!,01
+28,cancelsuperguide_text:0:*,Süper Rehber'i durdurup|oynamaya başlamak istiyor musun?,01
+29,confirm_continuewithoutsavi:0:*,\b0013bc9 Kaydetmeden Devam Et,01
+30,confirm_continuewithoutsaviD1:0:*,\e0d1799a Kaydetmeden Devam Et,01
+31,confirm_copy:0:*,"Kayıt $1,|Kayıt $2'ye kopyalansın mı?",01
+32,confirm_corruptcontinue:0:*,\00ab19ca Kaydetmeden Devam Et,01
+33,confirm_corruptcontinuecore:0:*,\90279b99 Kaydetmeden Devam Et,01
+34,confirm_corruptdelete:0:*,\b0013bc9 Dosyayı Sil,01
+35,confirm_corruptdeletecore:0:*,\e0d1799a Dosyayı Sil,01
+36,confirm_erase:0:*,Kayıt $1 silinsin mi?,01
+37,confirm_erase_again:0:*,Silinen kayıt geri getirilemez.|Bu kaydı silmek istediğinden emin misin?,01
+38,confirm_mirrormodelaunch:0:*,Ayna Modu'nda Diddy Kong'u|veya envanter eşyalarını|yanında götüremezsin.|Haritaya döndüğünde|hepsi sana geri verilecek.,01
+39,confirm_no:0:*,\90279b99Hayır,01
+40,confirm_nocore:0:*,\90279b99Hayır,01
+41,confirm_ok:0:*,\b0013bc9Tamam,01
+42,confirm_okcore:0:*,\e0d1799aTamam,01
+43,confirm_returntodatamanagem:0:*,\00ab19ca Wii Menüsü Veri|Yönetimi ekranına dön,01
+44,confirm_returntodatamanagemD1:0:*,\90279b99 Wii Menüsü Veri|Yönetimi ekranına dön,01
+45,confirm_yes:0:*,\b0013bc9Evet,01
+46,confirm_yescore:0:*,\e0d1799aEvet,01
+47,controllerscreen:0:Player1,Oyuncu 1,01
+48,controllerscreen:1:Player2,Oyuncu 2,01
+49,controllerscreen:2:NoController,Wii Kumandası ile iletişim kesildi.,01
+50,controllerscreen:3:InvalidController,Desteklenmeyen ek kumandayı çıkar.,01
+51,controllerscreen:4:CoreController,+ Kontrol Tuşu seçildi.,01
+52,controllerscreen:5:NunchukController,Analog Çubuk seçildi.,01
+53,controllerscreen:6:CoreConfirm,\e0d1799a Onayla,01
+54,controllerscreen:7:LowBattery,Pil seviyesi düşük.,01
+55,controllerscreen:8:NunchukConfirm,\b0013bc9 Onayla,01
+56,controls_blow:0:*,Üfle,01
+57,controls_blowinputcore:0:*,\3630bddf\030718c6\lr_noanim_btn,01
+58,controls_blowinputnunchuk:0:*,\7f8540b5\030718c6\xy_noanim_btn,01
+59,controls_crouch:0:*,Eğil,01
+60,controls_crouchinputnunchuk:0:*,\7f8540b5,01
+61,controls_dismount:0:*,Rambi'den İn,01
+62,controls_dismountinputcore:0:*,\3630bddf\030718c6\xy_noanim_btn,01
+63,controls_dismountinputnunch:0:*,\lr_noanim_btn,01
+64,controls_dismount_core:0:*,Rambi'den İn,01
+65,controls_grab:0:*,Tut,01
+66,controls_grabinput:0:*,\0b8eef3d,01
+67,controls_groundpound:0:*,Yere Vur,01
+68,controls_groundpoundinputco:0:*,\lr_noanim_btn,01
+69,controls_groundpoundinputnu:0:*,\xy_noanim_btn,01
+70,controls_groundpound_core:0:*,Yere Vur,01
+71,controls_jump:0:*,Zıpla,01
+72,controls_mount:0:*,Birleş,01
+73,controls_mountinputcore:0:*,\3630bddf,01
+74,controls_mountinputnunchuk:0:*,\27b05a76,01
+75,controls_mount_core:0:*,Eğil,01
+76,controls_movement:0:*,Hareket,01
+77,controls_moveright:0:*,Sağa Git,01
+78,controls_pause:0:*,Duraklat,01
+79,controls_roll:0:*,Yuvarlan,01
+80,controls_rollinputcore:0:*,\057633b9\030718c6\lr_noanim_btn,01
+81,controls_rollinputnunchuk:0:*,\1388fc84\030718c6\xy_noanim_btn,01
+82,controls_rungrab:0:*,Koş/|Tut,01
+83,core:0:GroundPound,\d1ed1c35,01
+84,core:1:GroundPound_Small,\43e2c294,01
+85,core:2:Grab,\xy_btn,01
+86,core:3:Up,\3ab2d6e4,01
+87,core:4:Blow,\3630bddf\43e2c294,01
+88,cranky_balloons_continue:0:*,\b0013bc9 Devam Et,01
+89,cranky_balloons_continuecor:0:*,\e0d1799a Devam Et,01
+90,creditslist_eur:0:*,DO NOT USE,01
+91,creditslist_jpn:0:*,DO NOT USE,01
+92,creditslist_us:0:*,DO NOT USE,01
+93,dialog_mirrornotification:0:*,"Artık istediğin bölümü|Ayna Modu'nda oynayabilirsin!||Bu modda Donkey Kong,|dostu Diddy Kong'dan yardım alamaz|ve envanter eşyalarını kullanamaz.|Üstelik işi daha da zorlaştırmak için|bir kalbi eksik olur!||Bol şans!",01
+94,eol_beatuphits:0:*,Vuruş,01
+95,eol_beatuphits:1:*,Vuruş,01
+96,eol_besttime:0:*,En İyi Süre,01
+97,eol_continue:0:*,\0cce5b52      Devam Et,01
+98,eol_continue_core:0:*,\0cce5b52      Devam Et,01
+99,eol_levelclear:0:*,Bölüm Tamamlandı!,01
+100,eol_retry:0:*,\x_button_32         Tekrar Dene,01
+101,eol_retry_confirm:0:*,Bölümü yeniden denemek|istediğinden emin misin?,01
+102,eol_retry_core:0:*,\x_button_32         Tekrar Dene,01
+103,eol_unlock_diorama:0:*,DİYORAMA GALERİSİ GÜNCELLENDİ!,01
+104,eol_unlock_image:0:*,GÖRSEL GALERİSİ GÜNCELLENDİ!,01
+105,eol_unlock_music:0:*,MÜZİK GALERİSİ GÜNCELLENDİ!,01
+106,eol_unlock_nosavegame:0:*,Aferin!,01
+107,eol_viewreplay:0:*,\y_button_32	    Tekrarı İzle,01
+108,eol_viewreplay_core:0:*,\y_button_32	    Tekrarı İzle,01
+109,eol_worldclear:0:*,Dünya Tamamlandı!,01
+110,exitboard:0:*,<squish=0.8>ÇIKIŞ,01
+111,extras_diorama:0:*,Diyorama Galerisi,01
+112,extras_diorama_categories:0:*,Cangıl,01
+113,extras_diorama_categories:1:*,Sahil,01
+114,extras_diorama_categories:2:*,Harabeler,01
+115,extras_diorama_categories:3:*,Mağara,01
+116,extras_diorama_categories:4:*,Orman,01
+117,extras_diorama_categories:5:*,Uçurum,01
+118,extras_diorama_categories:6:*,Fabrika,01
+119,extras_diorama_categories:7:*,Volkan,01
+120,extras_diorama_instruction:0:*,\tstick_all_directions      Döndür,01
+121,extras_diorama_instruction_:0:*,\dpad_all_directions      Döndür,01
+122,extras_diorama_instruction_D1:0:*,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
+123,extras_diorama_instruction_D2:0:*,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
+124,extras_diorama_titles:0:*,Cangıl Diyoraması,01
+125,extras_diorama_titles:1:*,Sahil Diyoraması,01
+126,extras_diorama_titles:2:*,Harabeler Diyoraması,01
+127,extras_diorama_titles:3:*,Mağara Diyoraması,01
+128,extras_diorama_titles:4:*,Orman Diyoraması,01
+129,extras_diorama_titles:5:*,Uçurum Diyoraması,01
+130,extras_diorama_titles:6:*,Fabrika Diyoraması,01
+131,extras_diorama_titles:7:*,Volkan Diyoraması,01
+132,extras_imagenames:0:*,Kurbazorba,01
+133,extras_imagenames:1:*,Gak,01
+134,extras_imagenames:2:*,Kıskaçlı ve Dostu,01
+135,extras_imagenames:3:*,Dişlek,01
+136,extras_imagenames:4:*,Ahtapotus,01
+137,extras_imagenames:5:*,Sırıkbacak,01
+138,extras_imagenames:6:*,Vızkuş,01
+139,extras_imagenames:7:*,Ciyakgiller,01
+140,extras_imagenames:8:*,Pıtırdak,01
+141,extras_imagenames:9:*,Hayvan Dostları,01
+142,extras_imagenames:10:*,Kalamar Topu,01
+143,extras_imagenames:11:*,Kafesyemiş ve Dostları,01
+144,extras_imagenames:12:*,Bomba Tiki,01
+145,extras_imagenames:13:*,Köstebek Bekçileri,01
+146,extras_imagenames:14:*,Vızırdiş,01
+147,extras_imagenames:15:*,Hamgiller,01
+148,extras_imagenames:16:*,Kemikreks,01
+149,extras_imagenames:17:*,Kemikkafa Kaan,01
+150,extras_imagenames:18:*,Koalabomba,01
+151,extras_imagenames:19:*,Savaş Botları,01
+152,extras_imagenames:20:*,Çığlık Atan Sütun,01
+153,extras_imagenames:21:*,Vızır Tiki,01
+154,extras_imagenames:22:*,Zırhlı Tiki,01
+155,extras_imagenames:23:*,Zıpzıp Tiki,01
+156,extras_imagenames:24:*,Meşale Tiki,01
+157,extras_imagenames:25:*,Pilot Tiki,01
+158,extras_imagenames:26:*,Tiki Dizilişi,01
+159,extras_imagenames:27:*,İlk Lav Tiki Tasarımı,01
+160,extras_imagenames:28:*,Uçuk Tikiler,01
+161,extras_imagenames:29:*,Tiki Tong Hikâye Panosu,01
+162,extras_imagenames:30:*,Çirko,01
+163,extras_imagenames:31:*,Kıskaçlı Korsanlar,01
+164,extras_imagenames:32:*,Yahni,01
+165,extras_imagenames:33:*,Madenci Max,01
+166,extras_imagenames:34:*,Madenci Köstebekler,01
+167,extras_imagenames:35:*,Işıltırtıl,01
+168,extras_imagenames:36:*,Zorbo,01
+169,extras_imagenames:37:*,Albay Tüylü,01
+170,extras_imagenames:38:*,Tiki Tong Kulesi,01
+171,extras_imagenames:39:*,Tiki Tong,01
+172,extras_imagenames:40:*,Cangıl Şelaleleri,01
+173,extras_imagenames:41:*,Cangıl Heykelleri,01
+174,extras_imagenames:42:*,Gemi Saldırısı!,01
+175,extras_imagenames:43:*,Deniz Altı Maceraları,01
+176,extras_imagenames:44:*,Harabeler,01
+177,extras_imagenames:45:*,Bambu Ormanı,01
+178,extras_imagenames:46:*,Eğreltidozer,01
+179,extras_imagenames:47:*,Uçurum Kuleleri,01
+180,extras_imagenames:48:*,Fabrika Girişi,01
+181,extras_imagenames:49:*,Volkan Patlamaları,01
+182,extras_imagenames:50:*,Kulübenin Dışı,01
+183,extras_imagenames:51:*,Ada Manzarası,01
+184,extras_imagenames:52:*,Eğitmen Domuzcuk,01
+185,extras_imagenames:53:*,Evim Güzel Evim,01
+186,extras_imagenames:54:*,Cranky'nin Dükkânı,01
+187,extras_imagenames:55:*,Aile Portresi,01
+188,extras_imagenames:56:*,Kaya Oyması,01
+189,extras_imagenames:57:*,Köstebek Vagonları,01
+190,extras_imagenames:58:*,Buharlı Macera,01
+191,extras_imagenames:59:*,Volkana Tırmanış,01
+192,extras_imagenames:60:*,Altın Muzlar,01
+193,extras_imagenames:61:*,Muz Hız Treni,01
+194,extras_imagenames:62:*,Kâğıt Figürler,01
+195,extras_imagenames:63:*,Çılgın Bloklar,01
+196,extras_imagenames:64:*,Puding Diyarı,01
+197,extras_imagenames:65:*,Virtual Boy Rayları,01
+198,extras_imagenames:66:*,Altın Tapınak,01
+199,extras_imagenames:67:*,Kraker ve Puding,01
+200,extras_imagenames:68:*,Tapınak Girişi,01
+201,extras_imagenames:69:*,Tapınağın Dışı,01
+202,extras_imagenames:70:*,Rambi,01
+203,extras_imagenames:71:*,Sahil Köprüsü,01
+204,extras_imagenames:72:*,Müren Dövüşü,01
+205,extras_imagenames:73:*,Kehribar Rayları,01
+206,extras_imagenames:74:*,Zıppopotam,01
+207,extras_imagenames:75:*,Ağaç Tepesi Köyü,01
+208,extras_imagenames:76:*,Karanlık Uçurumlar,01
+209,extras_imagenames:77:*,Eski Usul,01
+210,extras_imagenames:78:*,Öfkeli Muz,01
+211,extras_imagenames:79:*,Tapınak Anıtı,01
+212,extras_images:0:*,Görsel Galerisi,01
+213,extras_image_categories:0:*,Yaratıklar 1 Galerisi,01
+214,extras_image_categories:1:*,Yaratıklar 2 Galerisi,01
+215,extras_image_categories:2:*,Tiki Galerisi,01
+216,extras_image_categories:3:*,Baş Düşmanlar,01
+217,extras_image_categories:4:*,Dünyalar Galerisi,01
+218,extras_image_categories:5:*,Kong Galerisi,01
+219,extras_image_categories:6:*,Altın Tapınak Galerisi,01
+220,extras_image_categories:7:*,Bonus Galerisi,01
+221,extras_image_category_instr:0:*,\b0013bc9İncele,01
+222,extras_image_category_instr:1:*,\3197aa25İncele,01
+223,extras_image_category_instrD1:0:*,\e0d1799aİncele,01
+224,extras_image_category_instrD1:1:*,\6267e7f6İncele,01
+225,extras_image_category_title:0:*,Yaratıklar 1 Galerisi,01
+226,extras_image_category_title:1:*,Yaratıklar 2 Galerisi,01
+227,extras_image_category_title:2:*,Tiki Galerisi,01
+228,extras_image_category_title:3:*,Baş Düşmanlar,01
+229,extras_image_category_title:4:*,Dünyalar Galerisi,01
+230,extras_image_category_title:5:*,Kong Galerisi,01
+231,extras_image_category_title:6:*,<scale=0.8>Altın Tapınak Galerisi,01
+232,extras_image_category_title:7:*,Bonus Galerisi,01
+233,extras_locked:0:*,<scale=0.8>?????,01
+234,extras_music:0:*,Müzik Galerisi,01
+235,extras_musicnames:0:*,Cangıl Curcunası,01
+236,extras_musicnames:1:*,Tırmanış Kralı,01
+237,extras_musicnames:2:*,Palmiye Ritmi,01
+238,extras_musicnames:3:*,KULLANILMIYOR,01
+239,extras_musicnames:4:*,Zıplayan Kalaslar,01
+240,extras_musicnames:5:*,Su Altı Ezgisi|(Returns),01
+241,extras_musicnames:6:*,Azgın Dalgalar,01
+242,extras_musicnames:7:*,Kaygan Kumlar,01
+243,extras_musicnames:8:*,Tapınağın Sesleri|(Returns),01
+244,extras_musicnames:9:*,Harabe Rapsodisi,01
+245,extras_musicnames:10:*,Yelkenler ve Toplar,01
+246,extras_musicnames:11:*,Leziz Yahni,01
+247,extras_musicnames:12:*,Maden Vagonu Gezisi,01
+248,extras_musicnames:13:*,Maden Tehdidi,01
+249,extras_musicnames:14:*,Gıcırdayan Raylar,01
+250,extras_musicnames:15:*,KULLANILMIYOR,01
+251,extras_musicnames:16:*,Orman Çılgınlığı|(Returns),01
+252,extras_musicnames:17:*,Ağaç Tepesi Rock|(Returns),01
+253,extras_musicnames:18:*,Işıltırtıl Hücumu,01
+254,extras_musicnames:19:*,KULLANILMIYOR,01
+255,extras_musicnames:20:*,Yuvarlanan Kayalar,01
+256,extras_musicnames:21:*,Tarih Öncesi Patika,01
+257,extras_musicnames:22:*,Uçurum Konseri,01
+258,extras_musicnames:23:*,Yapışkan Durum,01
+259,extras_musicnames:24:*,Fabrikada Sürtüşme,01
+260,extras_musicnames:25:*,Madenlerde Hayat|(Returns),01
+261,extras_musicnames:26:*,Otomatik Aksiyon,01
+262,extras_musicnames:27:*,KULLANILMIYOR,01
+263,extras_musicnames:28:*,Alevli Zıplayış,01
+264,extras_musicnames:29:*,Kızıl Rock,01
+265,extras_musicnames:30:*,Lav Hücumu,01
+266,extras_musicnames:31:*,Tiki Tong Şarkısı,01
+267,extras_music_categories:0:*,Cangıl Müziği,01
+268,extras_music_categories:1:*,Sahil Müziği,01
+269,extras_music_categories:2:*,Harabeler Müziği,01
+270,extras_music_categories:3:*,Mağara Müziği,01
+271,extras_music_categories:4:*,Orman Müziği,01
+272,extras_music_categories:5:*,Uçurum Müziği,01
+273,extras_music_categories:6:*,Fabrika Müziği,01
+274,extras_music_categories:7:*,Volkan Müziği,01
+275,extras_music_category_title:0:*,Cangıl Müziği,01
+276,extras_music_category_title:1:*,Sahil Müziği,01
+277,extras_music_category_title:2:*,Harabeler Müziği,01
+278,extras_music_category_title:3:*,Mağara Müziği,01
+279,extras_music_category_title:4:*,Orman Müziği,01
+280,extras_music_category_title:5:*,Uçurum Müziği,01
+281,extras_music_category_title:6:*,Fabrika Müziği,01
+282,extras_music_category_title:7:*,Volkan Müziği,01
+283,extras_music_instruction:0:*,\b0013bc9Dinle,01
+284,extras_music_instruction_co:0:*,\e0d1799aDinle,01
+285,extras_select_generic:0:*,\b0013bc9Seç,01
+286,extras_select_generic:1:*,\3197aa25Seç,01
+287,extras_select_generic_core:0:*,\e0d1799aSeç,01
+288,extras_select_generic_core:1:*,\6267e7f6Seç,01
+289,extras_title:0:*,Ekstralar,01
+290,extras_unlock_instructions_:0:*,Tüm bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
+291,extras_unlock_instructions_D1:0:*,Bu galeriyi açmak için|yapboz parçaları topla!,01
+292,extras_unlock_instructions_D2:0:*,Bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
+293,extras_unlock_instructions_D3:0:*,Yapboz parçaları topla ve bölüm sonu|düşmanlarını yenerek bu öğeyi aç!,01
+294,extras_unlock_instructions_D4:0:*,Bölüm sonu düşmanlarını yenerek|bu öğeyi aç!,01
+295,extras_unlock_instructions_D5:0:*,Bu öğeyi açmak için|yapboz parçaları topla!,01
+296,extras_unlock_instructions_D6:0:*,Bu öğeyi yalnızca|en azimli maymun açabilir!,01
+297,factory_switch_sign:0:*,Bul!,01
+298,fileselect_areanamecharacte:0:Beach,2,01
+299,fileselect_areanamecharacte:1:Cave,4,01
+300,fileselect_areanamecharacte:2:Cliff,6,01
+301,fileselect_areanamecharacte:3:Factory,7,01
+302,fileselect_areanamecharacte:4:Forest,5,01
+303,fileselect_areanamecharacte:5:Jungle,1,01
+304,fileselect_areanamecharacte:6:Ruins,3,01
+305,fileselect_areanamecharacte:7:Volcano,8,01
+306,fileselect_areanamecharacte:8:Secret,9,01
+307,fileselect_levelnamecharact:0:Trophy,K,01
+308,fileselect_levelnamecharact:1:Boss,B,01
+309,fileselect_levelnamecharact:2:Level1,1,01
+310,fileselect_levelnamecharact:3:Level3,3,01
+311,fileselect_levelnamecharact:4:Level4,4,01
+312,fileselect_levelnamecharact:5:Level5,5,01
+313,fileselect_levelnamecharact:6:Level6,6,01
+314,fileselect_levelnamecharact:7:Level7,7,01
+315,fileselect_levelnamecharact:8:Level8,8,01
+316,fileselect_levelnamecharact:9:Level2,2,01
+317,fileselect_levelnamecharact:10:Rocket,R,01
+318,gameover_continue:0:*,\0cce5b52      Devam Et,01
+319,gameover_continue_core:0:*,\0cce5b52      Devam Et,01
+320,gameover_quit:0:*,\90279b99         Çık,01
+321,gameover_quit_confirm:0:*,Çıkmak istediğinden emin misin?,01
+322,gameover_quit_core:0:*,\90279b99         Çık,01
+323,gameover_title:0:*,Oyun Bitti,01
+324,grab:0:Standard,\lr_btn,01
+325,grab:1:Core,\xy_btn,01
+326,groundpound:0:Core,\lr_btn,01
+327,groundpound:1:Standard,\xy_btn,01
+328,groundpound_star:0:Core,\d1ed1c35,01
+329,groundpound_star:1:Standard,\ea0fce93,01
+330,head_icons:0:DK,\dk_head,01
+331,head_icons:1:Diddy,\diddy_head,01
+332,hud_bonus:0:*,Bonus,01
+333,hud_empty:0:*,\8a502bab,01
+334,hud_invisible:0:*,\f8487ed9,01
+335,hud_kong:0:*,\88ddc16b,01
+336,hud_kong:1:*,\73e4b9a8,01
+337,hud_mirror:0:*,\bd305e30,01
+338,hud_puzzle:0:*,\8a502bab,01
+339,hud_puzzle:1:5,\4bd1f623,01
+340,hud_puzzle:2:7,\4bd1f623,01
+341,hud_puzzle:3:9,\4bd1f623,01
+342,map_freelook:0:*,Serbest Bakış,01
+343,map_inventory_cancel:0:*,\9097e9e2Kaldır,01
+344,map_inventory_prompt:0:*,Donkey Kong'un Eşyasını Seç,01
+345,map_inventory_prompt:1:*,Diddy Kong'un Eşyasını Seç,01
+346,map_inventory_prompt:2:*,Donkey Kong'un seçili eşyasını kaldır,01
+347,map_inventory_prompt:3:*,Diddy Kong'un seçili eşyasını kaldır,01
+348,map_inventory_return:0:*,\90279b99Geri,01
+349,map_inventory_return:1:*,\90279b99Geri,01
+350,map_inventory_select:0:*,\b0013bc9Seç,01
+351,map_inventory_select:1:*,\e0d1799aSeç,01
+352,map_load_inventory:0:*,Envanter,01
+353,map_load_mirrormode:0:*,Ayna Modu,01
+354,map_load_play:0:*,Oyna,01
+355,map_load_timeattack:0:*,Zamana Karşı,01
+356,map_menu:0:*,\819dcecf        Menü,01
+357,map_menu_core:0:*,\819dcecf        Menü,01
+358,map_pause_adddrop:0:*,Ekle/Çıkar,01
+359,map_pause_options:0:*,Seçenekler,01
+360,map_pause_quit:0:*,Oyundan Çık,01
+361,map_pause_quit_confirm:0:*,Oyundan çıkmak istediğinden emin misin?,01
+362,map_pause_summary:0:*,Bölüm Özeti,01
+363,map_pause_summary_hidden:0:*,????,01
+364,map_prompt_back:0:*,\90279b99Geri,01
+365,map_prompt_back_core:0:*,\90279b99Geri,01
+366,map_prompt_chooseworld:0:*,\tstick_left_right    Dünya Seç,01
+367,map_prompt_chooseworld:1:*, \9918a725     Dünya Seç,01
+368,map_prompt_chooseworld_core:0:*,\dpad_left_right    Dünya Seç,01
+369,map_prompt_chooseworld_core:1:*, \cb114cf6     Dünya Seç,01
+370,map_prompt_continue:0:*,\b0013bc9Tamam,01
+371,map_prompt_continue_core:0:*,\b0013bc9Tamam,01
+372,map_prompt_freelook:0:*,\9097e9e2        <space=0.5><squish=0.85>Serbest Bakış,01
+373,map_prompt_freelookreturn:0:*,\9097e9e2          <space=0.4>Geri Dön,01
+374,map_prompt_freelookreturn_c:0:*,\9097e9e2          <space=0.4>Geri Dön,01
+375,map_prompt_freelook_core:0:*,\9097e9e2        <space=0.5><squish=0.85>Serbest Bakış,01
+376,map_prompt_rotate:0:*,\tstick_all_directions         <space=0.5>Döndür,01
+377,map_prompt_rotate_core:0:*,\dpad_all_directions         <space=0.5>Döndür,01
+378,map_select:0:*,\b0013bc9           <space=0.5>Seç,01
+379,map_select_core:0:*,\b0013bc9           <space=0.5>Seç,01
+380,medaltimesuffix:0:*,\8a502bab,01
+381,medaltimesuffix:1:*,\f424dc18,01
+382,medaltimesuffix:2:*,\82a735cb,01
+383,medaltimesuffix:3:*,\08db579e,01
+384,medaltimesuffix:4:*,\9cb5ee8e,01
+385,medaltimesuffix_bronze:0:*,\742b4fd9,01
+386,medaltimesuffix_gold:0:*,\b7bdc79f,01
+387,medaltimesuffix_sgold:0:*,\ca217ead,01
+388,medaltimesuffix_silver:0:*,\02ada98c,01
+389,menu_back:0:*,\90279b99Geri,01
+390,menu_backshop:0:*,\90279b99Çık,01
+391,menu_backshop_core:0:*,\90279b99Çık,01
+392,menu_back_areamap:0:*, \90279b99        Ada Haritası,01
+393,menu_back_areamap_core:0:*, \90279b99        Ada Haritası,01
+394,menu_back_core:0:*,\90279b99Geri,01
+395,menu_cancel:0:*,İPTAL,01
+396,menu_confirm:0:*,TAMAM,01
+397,menu_copy:0:*,\y_button_32Kopyala,01
+398,menu_copy:1:*,\gray_y_button_32Kopyala,01
+399,menu_copyselectdest:0:*,Hedef|kaydı seç,01
+400,menu_copyselectsource:0:*,Kopyalanacak|kaydı seç,01
+401,menu_erase:0:*,\9097e9e2Sil,01
+402,menu_erase:1:*,\gray_x_button_32Sil,01
+403,menu_eraseselectslot:0:*,Silinecek|kaydı seç,01
+404,options_audio:0:*,Ses,01
+405,options_audio_music:0:*,Müzik,01
+406,options_audio_soundfx:0:*,Efektler,01
+407,options_audio_title:0:*,Ses,01
+408,options_controllers:0:*,Kontroller,01
+409,options_controllers_howto_h:0:*,\b0013bc9Seç,01
+410,options_controllers_howto_n:0:*,\b0013bc9Seç,01
+411,options_controller_horizont:0:*,+ Kontrol Tuşu,01
+412,options_controller_horizontD1:0:*,Seçili,01
+413,options_controller_nunchuk_:0:*,Analog Çubuk,01
+414,options_controller_nunchuk_D1:0:*,Seçili,01
+415,options_controller_title:0:*,Kontroller,01
+416,options_left_arrow:0:*,\a275f16a,01
+417,options_left_arrow_pressed:0:*,\dddf850a,01
+418,options_right_arrow:0:*,\ce2f8e13,01
+419,options_right_arrow_pressed:0:*,\d7b11681,01
+420,options_title:0:*,Seçenekler,01
+421,options_video:0:*,Görüntü,01
+422,pause_options:0:*,Seçenekler,01
+423,pause_puzzle:0:*,Yapboz,01
+424,pause_quittomap:0:*,Bölümden Çık,01
+425,pause_quit_confirm:0:*,Bölümden çıkmak istediğinden emin misin?,01
+426,pause_restarttimeattack:0:*,Tekrar Dene,01
+427,pause_restarttimeattack_con:0:*,Bölümü baştan başlatmak|istediğinden emin misin?,01
+428,pause_resume:0:*,Devam Et,01
+429,rocketbarrelboost:0:Core,\ab_btn,01
+430,rocketbarrelboost:1:Standard,\ab_btn,01
+431,rollleft:0:Standard,\8bec70d9\xy_btn,01
+432,rollleft:1:Core,\b00ec231\lr_btn,01
+433,rollright:0:Standard,\1388fc84\xy_btn,01
+434,rollright:1:Core,\057633b9\lr_btn,01
+435,savefileerror_corruptfile:0:*,Veriler bozuk olduğu için|bu dosya kullanılamıyor.|Dosyayı silmek ister misin?,01
+436,savefileerror_createfailed:0:*,Kayıt dosyası oluşturulamadı.|Kaydetmeden devam etmek ister misin?,01
+437,savefileerror_deletefailed:0:*,Bozuk dosya silinemedi.|Kaydetmeden devam etmek ister misin?,01
+438,savefileerror_insufficientn:0:*,Wii Sistem Belleği'nde|yeterli boş alan yok.|Wii konsolunun Veri Yönetimi|ekranından verileri bir SD karta taşı|veya gereksiz verileri sil.,01
+439,savefileerror_insufficients:0:*,Wii Sistem Belleği'nde|yeterli boş alan yok.|2 blok boş alan açmak için|Wii konsolunun Veri Yönetimi|ekranından verileri bir SD karta taşı|veya gereksiz verileri sil.,01
+440,secretworld_reveal:0:*,Altın Tapınak|Ortaya Çıktı!,01
+441,selectfile_balloonnotificat:0:*,"Balonların epey azalmış, evlat.|Yoluna devam edebilmen için|sana bir hediye bırakıyorum.||Sevgiler, Cranky",01
+442,selectfile_empty:0:*,Yeni Oyun,01
+443,selectfile_file:0:*,Kayıt,01
+444,selectfile_prompt:0:*,Kayıt Seç,01
+445,shop_1up_comment:0:CON,<squish=0.82>Bunca balon benim işime yaramaz.|Çünkü ben MUHTEŞEMİM.,01
+446,shop_1up_comment:1:INT,<squish=0.82>Fazladan bir balona ne dersin?|İşine yaramaz deme sakın.,01
+447,shop_1up_comment:2:OPT,"<squish=0.82>Bir balon fazlası, başarısızlıktan|bir kez daha kurtulmak demektir.",01
+448,shop_1up_comment:3:DIS,<squish=0.82>Benden aldığın bütün balonlar|er geç patlayacak. Bekle de gör!,01
+449,shop_1up_comment:4:INT,<squish=0.82>Bir maymun bütün bu balonlara|helyumu nereden bulur? Asla söylemem!,01
+450,shop_1up_comment:5:OPT,<squish=0.82>Şu balonlardan biri bile|koca bir maymunu taşıyabilir!,01
+451,shop_1up_purchase:0:CON,<squish=0.82>Boşa harcama!,01
+452,shop_1up_purchase:1:CON,<squish=0.82>Bu balona patlamadan önce|30 saniye veriyorum.,01
+453,shop_1up_purchase:2:INT,<squish=0.82>Bu macerayı bitirmek istiyorsan|bulabildiğin her balona ihtiyacın olacak.,01
+454,shop_1up_purchase:3:OPT,<squish=0.82>Harika seçim!,01
+455,shop_3up_comment:0:OPT,<squish=0.82>Bir balondan daha iyi ne var?|Üç balon!,01
+456,shop_3up_comment:1:INT,<squish=0.82>Bir maymun bu kadar balonu|nereye sığdırıyor ki?,01
+457,shop_3up_comment:2:INT,"<squish=0.82>Helyum, evrenin kütlesinin neredeyse|dörtte birini oluşturur. Vallahi doğru.",01
+458,shop_3up_comment:3:CON,<squish=0.82>Şu balonları al da|uça uça git buradan!,01
+459,shop_3up_comment:4:CON,<squish=0.82>Üç kişi kalabalıktır!|Bana biri yeter... BEN!,01
+460,shop_3up_comment:5:OPT,<squish=0.82>Bunlar bazı zorlu yerlerde|işine yarar.,01
+461,shop_3up_purchase:0:OPT,<squish=0.82>Şuna bak! Balonların içinde|yüzüyorsun resmen!,01
+462,shop_3up_purchase:1:INT,<squish=0.82>Bunca balonla uçup gitme sakın!,01
+463,shop_3up_purchase:2:CON,<squish=0.82>Boşa harcama!,01
+464,shop_3up_purchase:3:OPT,<squish=0.82>Harika seçim!,01
+465,shop_3up_purchase:4:INT,"<squish=0.82>Neyse, ben yine|balon şişirmeye döneyim.",01
+466,shop_3up_purchase:5:OPT,<squish=0.82>Bu macerayı bitirmek istiyorsan|bulabildiğin her balona ihtiyacın olacak.,01
+467,shop_7up_comment:0:OPT,"<squish=0.82>Hadi evlat, bunlar dost işi fiyatlar!",01
+468,shop_7up_comment:1:CON,"<squish=0.82>Bu balonların hepsini|kendim şişirdim, haberin olsun.",01
+469,shop_7up_comment:2:OPT,"<squish=0.82>Yedi balon, Donkey Kong!|Bundan iyi fırsat bulamazsın!",01
+470,shop_7up_comment:3:CON,<squish=0.82>Sonsuza dek zıplayabilseydin|bunları benden almak zorunda kalmazdın.,01
+471,shop_7up_purchase:0:CON,<squish=0.82>İçimden bir ses bunlara|ihtiyacın olacağını söylüyor.,01
+472,shop_7up_purchase:1:CON,<squish=0.82>Bunlarla da bu macerayı bitiremezsen|sana benim de yapabileceğim bir şey yok.,01
+473,shop_7up_purchase:2:CON,<squish=0.82>Bunca balonla uçup gitme sakın!,01
+474,shop_7up_purchase:3:CON,<squish=0.82>Boşa harcama!,01
+475,shop_7up_purchase:4:CON,<squish=0.82>Bu macerayı bitirmek istiyorsan|bulabildiğin her balona ihtiyacın olacak.,01
+476,shop_beach_exit:0:OPT,<squish=0.82>Büyük deniz canlılarına dikkat et.|Bazıları biraz... huysuz olabiliyor.,01
+477,shop_beach_exit:1:DIS,<squish=0.82>Toplar çok hassastır.|En ufak sarsıntıda ateşlenebilirler.|Eminim gördüğün her birine|güzelce vurursun.,01
+478,shop_beach_exit:2:OPT,<squish=0.82>Bana iki kova yengeç getir de|maymunlara yaraşır bir mangal yapalım!,01
+479,shop_beach_greeting:0:INT,"<squish=0.82>Sende fazla güneş kremi var mı,|Donkey Kong?",01
+480,shop_beach_greeting:1:OPT,<squish=0.82>Su nasıl oralarda?,01
+481,shop_beach_greeting:2:INT,"<squish=0.82>Üzgünüm, can yelekleri|az önce tükendi.",01
+482,shop_beach_greeting:3:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+483,shop_buy:0:*,\b0013bc9Satın Al,01
+484,shop_buy_core:0:*,\e0d1799aSatın Al,01
+485,shop_cave_exit:0:OPT,"<squish=0.82>Unutma, seni göremiyor olması|kazmayı kafana fırlatamayacağı|anlamına gelmez.",01
+486,shop_cave_greeting:0:DIS,<squish=0.82>Bu rayları nasıl bir deli|yapmış böyle?!,01
+487,shop_cave_greeting:1:INT,<squish=0.82>Bu madenlerde ne çıkardıklarını|anlamaya çalışıyorum ama|elime hiçbir şey geçmedi.,01
+488,shop_cave_greeting:2:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+489,shop_cliff_exit:0:CON,"<squish=0.82>Katran çukurlarından uzak dur, evlat!|Yahu her şeyi ben mi öğreteceğim sana?",01
+490,shop_cliff_greeting:0:INT,<squish=0.82>Bu dinozor iskeletlerinden bazılarının|benden bile uzun süredir bu adada olduğuna|inanabiliyor musun?,01
+491,shop_cliff_greeting:1:DIS,<squish=0.82>Katran çukurlarında oynamanın eğlenceli|olduğunu söyleyenler var. Tabii kendileri|artık fosil...,01
+492,shop_cliff_greeting:2:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+493,shop_coin:0:*,\77825c98x,01
+494,shop_descriptions:0:*,Fazladan bir balon verir.,01
+495,shop_descriptions:1:*,Fazladan üç balon verir.,01
+496,shop_descriptions:2:*,Fazladan yedi balon verir.,01
+497,shop_descriptions:3:*,"Squawks, Yapboz Parçalarını|bulmana yardım eder.",01
+498,shop_descriptions:4:*,Kalp sayını bir artırır.,01
+499,shop_descriptions:5:*,Seni geçici olarak yenilmez yapar!,01
+500,shop_descriptions:6:*,"Bu anahtar, bu dünyadaki|kilitli bir yolu açar.",01
+501,shop_dialoguebypass:0:*,\b0013bc9,01
+502,shop_dialoguebypass_core:0:*,\e0d1799a,01
+503,shop_exit_confirm:0:*,Dükkândan çıkmak istediğinden emin misin?,01
+504,shop_factory_exit:0:DIS,<squish=0.82>Bunu bir kez söyleyeceğim.|Basmanı istemeselerdi oraya|kocaman kırmızı bir düğme koymazlardı.,01
+505,shop_factory_exit:1:OPT,"<squish=0.82>Dedenden bir tüyo:|Çok düzenli biçimde sıralanmış|üç bölüm görürsen,|biraz kurcalamaya değer.",01
+506,shop_factory_greeting:0:DIS,<squish=0.82>Demek madenlerde ne çıkarıyorlarsa|buraya getiriyorlar.|Peki sonra... ne yapıyorlar bununla?,01
+507,shop_factory_greeting:1:OPT,<squish=0.82>Burayı seviyorum.|Eski anılarımı canlandırıyor.,01
+508,shop_factory_greeting:2:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+509,shop_failed_capacity:0:CON,"<squish=0.82>Bunlardan zaten fazlasıyla var,|seni açgözlü maymun!",01
+510,shop_failed_purchase:0:DIS,<squish=0.82>Ne oldu? Bütün paranı|video oyunlarına mı harcadın?,01
+511,shop_failed_purchase:1:DIS,<squish=0.82>Bir şey almayacaksan|benim egzersiz yapmam lazım.,01
+512,shop_failed_purchase:2:DIS,<squish=0.82>Ayy... zavallı küçük maymunun|parası kalmamış.,01
+513,shop_failed_purchase:3:CON,"<squish=0.82>Daha fazla Muz Parası|nerede bulursun, biliyor musun?|HER YERDE.",01
+514,shop_failed_purchase:4:DIS,"<squish=0.82>Daha çok paran olunca gel, evlat.",01
+515,shop_failed_purchase:5:DIS,<squish=0.82>Yeterli Muz Paran yok mu?|Hiç şaşırmadım.,01
+516,shop_first_exit:0:DIS,"<squish=0.82>Haydi, git şimdi!|Bakalım bu macerayı benim yardımım|olmadan bitirebilecek misin!",01
+517,shop_first_greeting:0:INT,"<squish=0.82>Nihayet ihtiyar, çelimsiz dedeni|ziyarete geldin!|Şu parlak Muz Paralarından biraz ver de|eski eşyalarımı karıştır.",01
+518,shop_forest_exit:0:DIS,<squish=0.82>Şu sallanan koltuğa yedek malzeme|görürsen getir.|Bu artık fena rahatsız ediyor.,01
+519,shop_forest_exit:1:DIS,<squish=0.82>Örümcekler! Örümcekler!|Sandalyemde bir tane var! Iyy!,01
+520,shop_forest_greeting:0:INT,<squish=0.82>Ormanda dinlendirici bir tatilden|güzeli yok.|Örümceklerle. Etçil bitkilerle.|Ve ölümcül yüksekliklerle.,01
+521,shop_forest_greeting:1:OPT,<squish=0.82>Şu mis gibi orman havasını kokla!,01
+522,shop_forest_greeting:2:DIS,<squish=0.82>Kapıyı kapat! Şu örümceklerden|hiçbirini içeride istemiyorum.,01
+523,shop_forest_greeting:3:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+524,shop_generic_exit:0:CON,"<squish=0.82>Haydi eyvallah, timsah! Hah hah!",01
+525,shop_generic_exit:1:CON,<squish=0.82>Çıkarken kapıyı kapatmayı unutma.|Seni ahırda büyütmedim!,01
+526,shop_generic_exit:2:DIS,<squish=0.82>Seni tekrar göreceğimi pek sanmıyorum|ama belki şansın yaver gider.,01
+527,shop_generic_exit:3:DIS,"<squish=0.82>Bol şans, evlat. Şu hâline bakılırsa|fazlasıyla ihtiyacın olacak.",01
+528,shop_generic_exit:4:OPT,<squish=0.82>Dışarıda Rambi'ye rastlarsan|uğramasını söyle.,01
+529,shop_generic_exit:5:INT,"<squish=0.82>Dışarıda bol şans, evlat!",01
+530,shop_generic_exit:6:DIS,"<squish=0.82>Şimdi çık da şu davulcu ufaklıklara|hadlerini bildir.|Evet, “hadlerini bildir” dedim.|Yaşlıyım, alış buna.",01
+531,shop_generic_exit:7:INT,<squish=0.82>Torunuma bu ölümcül sınavı aşmasında|biraz para karşılığında yardım|edebildiğime sevindim.,01
+532,shop_generic_exit:8:OPT,<squish=0.82>Dışarıda hem nefis tadı olan|hem de seni başka bir boyuta ışınlayan|bir muz varmış.|Ben derim ki: Getir gelsin!,01
+533,shop_generic_exit:9:INT,<squish=0.82>Şüphedeysen yere vur!|Ya da zıpla. Ya da üfle.|Neyse işte. Nasıl olsa çözersin.,01
+534,shop_generic_exit:10:CON,"<squish=0.82>Avuç avuç Muz Parasıyla dön,|yoksa hiç dönme!",01
+535,shop_generic_exit:11:OPT,<squish=0.82>Dışarısı epey tehlikeli görünüyor.|Görüşürüz!,01
+536,shop_generic_exit:12:OPT,<squish=0.82>KONG harflerini gözden kaçırma.|Bir işe yarıyor olabilirler!,01
+537,shop_generic_greeting:0:DIS,"<squish=0.82>Ne istiyorsun, ha?|Meşgul bir maymunum ben!",01
+538,shop_generic_greeting:1:DIS,<squish=0.82>Beni tıktıkları şu kulübeye bakar mısın?!,01
+539,shop_generic_greeting:2:DIS,<squish=0.82>Bahse girerim buradan|pek ileri gidemezsin...,01
+540,shop_generic_greeting:3:DIS,<squish=0.82>Yıllar önce emekli maaşımı kestiler.|Şimdi bu eski kulübede|ıvır zıvır satıyorum.,01
+541,shop_generic_greeting:4:DIS,<squish=0.82>Kapıyı kapat!|Bütün serin havayı kaçırıyorsun.,01
+542,shop_generic_greeting:5:CON,<squish=0.82>Yine mi geldin? Benim yardımım olmadan|başaramayacağını biliyordum.,01
+543,shop_generic_greeting:6:DIS,"<squish=0.82>Şu Tikilere biraz sessiz olmalarını söyle!|Ben ihtiyar bir maymunum, dinlenmem lazım.",01
+544,shop_generic_greeting:7:CON,"<squish=0.82>Ee, bu saatten sonra muzlarını|çalmayan kim kaldı ki?",01
+545,shop_generic_greeting:8:DIS,"<squish=0.82>“Ah Cranky, yardıma ihtiyacım var.|Ah Cranky, bana bir papağan|satar mısın?” Pöh.",01
+546,shop_generic_greeting:9:INT,<squish=0.82>Kan sudan koyudur derler;|Muz Parası ondan da koyu. Gir içeri.,01
+547,shop_generic_greeting:10:OPT,<squish=0.82>Altın Muzu bulursan bana haber ver!|Muhteşem bir şeymiş!,01
+548,shop_generic_greeting:11:OPT,"<squish=0.82>Gel içeri! Ekstra kalpler,|sihirli iksirler ve Diddy'nin|başını döndürecek kadar balon var!",01
+549,shop_generic_greeting:12:INT,<squish=0.82>Yuvarlanarak zıplamayı denedin mi?|Biz maymunlara fizik yasaları işlemez!,01
+550,shop_generic_greeting:13:CON,<squish=0.82>Şu Muz Paralarından biraz ver.|Ödenecek faturalarım var.,01
+551,shop_generic_greeting:14:CON,<squish=0.82>Adayı şu pis Tikilerden kurtarmak|istiyorsan yardımıma ihtiyacın olacak.|Gir içeri!,01
+552,shop_generic_greeting:15:INT,<squish=0.82>Şu domuz da kim?|Bir de neden gözlük takıyor?,01
+553,shop_generic_greeting:16:DIS,<squish=0.82>Acele et de bir şey al.|O paralar için planlarım var.,01
+554,shop_heartboost_comment:0:DIS,"<squish=0.82>Bütün gün bakacak mısın,|yoksa biraz para harcayacak mısın?",01
+555,shop_heartboost_comment:1:DIS,"<squish=0.82>Hadi al şunu. Ne kadar yardım alsan|az, evlat.",01
+556,shop_heartboost_comment:2:OPT,<squish=0.82>Bunlardan birini alırsan|bir darbeye daha dayanırsın.,01
+557,shop_heartboost_comment:3:DIS,<squish=0.82>Benim zamanımda adayı|tek bir darbe bile almadan geçerdim!,01
+558,shop_heartboost_comment:4:INT,"<squish=0.82>Yüreğin büyük...|Ama yürek, yetenek demek değildir.",01
+559,shop_heartboost_purchase:0:CON,"<squish=0.82>Ne oldu, elindeki kalpler|sana yetmiyor mu?",01
+560,shop_heartboost_purchase:1:CON,<squish=0.82>Elinden de tutayım mı?,01
+561,shop_heartboost_purchase:2:CON,<squish=0.82>Kalplerin yeter sanmıştım!|Şimdi bir tane daha mı istiyorsun?,01
+562,shop_heartboost_purchase:3:OPT,"<squish=0.82>Ayy, ne kadar da yüreklisin, evlat.",01
+563,shop_heartboost_purchase:4:DIS,"<squish=0.82>Tamam evlat, ama sonra|seninle dalga geçmedim deme.",01
+564,shop_invulnerability_commen:0:DIS,<squish=0.82>Bundan biraz iç; düşmanlar|sana zarar veremez.,01
+565,shop_invulnerability_commen:1:INT,<squish=0.82>Bunun etkisi kısa sürer.|Fazla darbe alırsan etkisi biter!,01
+566,shop_invulnerability_commen:2:CON,<squish=0.82>Umarım Tikiler bu şeyi|ellerine geçirmez.,01
+567,shop_invulnerability_commen:3:OPT,"<squish=0.82>Bu muz suyundan bir yudum al,|seni kimse durduramaz!",01
+568,shop_invulnerability_purcha:0:DIS,"<squish=0.82>Vay be. Ne kadar da adil dövüşüyorsun,|Donkey Kong.",01
+569,shop_invulnerability_purcha:1:CON,<squish=0.82>Elinden de tutayım mı?,01
+570,shop_invulnerability_purcha:2:DIS,<squish=0.82>Bunlarla da bu macerayı bitiremezsen|sana benim de yapabileceğim bir şey yok.,01
+571,shop_invulnerability_purcha:3:INT,"<squish=0.82>Unutma, fazla darbe alırsan|etkisi biter!",01
+572,shop_item_names:0:*,1 Balon,01
+573,shop_item_names:1:*,3 Balon,01
+574,shop_item_names:2:*,7 Balon,01
+575,shop_item_names:3:*,Squawks,01
+576,shop_item_names:4:*,Ekstra Kalp,01
+577,shop_item_names:5:*,Muz Suyu,01
+578,shop_item_names:6:*,<scale=0.9>Harita Anahtarı,01
+579,shop_jungle_exit:0:OPT,"<squish=0.82>Şu tombul muz oburuna|muzları biraz azaltmasını söyle!|Bir baksana şuna, dev gibi olmuş!",01
+580,shop_jungle_exit:1:OPT,<squish=0.82>Güzel bir gün batımını kim sevmez ki?,01
+581,shop_jungle_greeting:0:OPT,<squish=0.82>Şu taptaze cangıl havasını kokla.|Buradan hiç bıkmıyorum.,01
+582,shop_jungle_greeting:1:INT,<squish=0.82>Adanın en tepesine kadar mı çıkacaksın?|Keşke uçağı olan birini tanısaydık...,01
+583,shop_purchase_confirm:0:*,Bu eşyayı satın almak|istediğinden emin misin?,01
+584,shop_ruins_exit:0:OPT,<squish=0.82>Şu su kemerlerinde dikkatli ol.|Yönetmeliğe uygun yapılmış|gibi görünmüyorlar.,01
+585,shop_ruins_greeting:0:DIS,<squish=0.82>Bu harabelerin yüzlerce yıllık|olduğunu söylüyorlar.|Bence sadece kötü yapılmışlar.|Belli ki maymun elinden çıkmamış.,01
+586,shop_ruins_greeting:1:OPT,"<squish=0.82>Vay be, harabelere kadar gelmişsin.|Bu kadar huysuz olmasam başını okşardım.",01
+587,shop_ruins_greeting:2:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+588,shop_squawk_comment:0:DIS,<squish=0.82>Şu kuşu al da başımdan götür.|Ortalığı birbirine katıyor.,01
+589,shop_squawk_comment:1:INT,<squish=0.82>Hem bana arkadaşlık ediyor|hem de anahtarlarımı nereye koyduğumu|hatırlatıyor!,01
+590,shop_squawk_comment:2:DIS,"<squish=0.82>Benim bu ufaklığa ihtiyacım yok tabii.|Ama sen ben değilsin, öyle değil mi?",01
+591,shop_squawk_comment:3:INT,<squish=0.82>Sırları bulmakta zorlanıyorsan Squawks|tam senin adamın! Şey... kuşun!,01
+592,shop_squawk_comment:4:OPT,<squish=0.82>Squawks sırları bulmana yardım eder.|Ne kadar da yardımsever.,01
+593,shop_squawk_purchase:0:CON,<squish=0.82>Benim zamanımda sır arayan|kendi bulurdu!,01
+594,shop_squawk_purchase:1:CON,<squish=0.82>Şimdi git de birkaç sır bul!,01
+595,shop_squawk_purchase:2:INT,"<squish=0.82>Ona iyi bak, duydun mu?!",01
+596,shop_squawk_purchase:3:OPT,<squish=0.82>Kulaklarının hemen arkasını|kaşımanı çok sever.,01
+597,shop_squawk_purchase:4:OPT,<squish=0.82>Squawks bir sır bulunca haber verir...|tabii dostuna.,01
+598,shop_greenballoon_purchase:0:INT,<squish=0.82>Bunlardan birkaç tane alırsan|yenilmez olursun! Neredeyse.,01
+599,shop_greenballoon_purchase:1:INT,<squish=0.82>Bu balonlar seni düşmekten kurtarır.|Ama yalnızca bir kez!,01
+600,shop_greenballoon_purchase:2:DIS,<squish=0.82>Zaten neden sürekli|çukurlara düşüyorsun ki?,01
+601,shop_greenballoon_comment:0:INT,<squish=0.82>Acaba bunların benim için|baston aparatı da var mıdır...,01
+602,shop_greenballoon_comment:1:DIS,<squish=0.82>Yalnızca kırmızı balonların olduğu|günleri hatırlıyorum...,01
+603,shop_greenballoon_comment:2:DIS,"<squish=0.82>Önce kırmızı, şimdi yeşil.|Dünya nereye gidiyor böyle?",01
+604,shop_greenballoon_comment:3:CON,<squish=0.82>Bu yeşil balonları şişirmek|kırmızılardan daha zor.,01
+605,shop_crashguard_purchase:0:CON,"<squish=0.82>Sakın bunu dökme, evlat!",01
+606,shop_crashguard_purchase:1:DIS,<squish=0.82>İçimden bir ses bunlardan|birden fazlasına ihtiyacın olacağını|söylüyor.,01
+607,shop_crashguard_purchase:2:INT,<squish=0.82>Çok fazla şeye çarparsan|bu bile seni kurtaramaz.,01
+608,shop_crashguard_purchase:3:CON,<squish=0.82>Bir ara beni de maden vagonuyla|gezdirsene.|Biraz heyecan bana iyi gelir!,01
+609,shop_crashguard_comment:0:OPT,<squish=0.82>Bundan bir yudum al; maden vagonunda|veya roket varilinde korunursun.,01
+610,shop_crashguard_comment:1:CON,<squish=0.82>Roket variliyle havalanmadan önce|sağına soluna bakmayı unutma!,01
+611,shop_crashguard_comment:2:INT,<squish=0.82>Bu iksir yalnızca bazı bölümlerde|işe yarar.,01
+612,shop_barrel_purchase:0:CON,<squish=0.82>Demek şimdi bu macerada|Diddy'nin yardımına ihtiyacın var?,01
+613,shop_barrel_purchase:1:OPT,<squish=0.82>Bu varil tam sana göre!,01
+614,shop_barrel_purchase:2:INT,<squish=0.82>Başın sıkışınca Diddy'nin|yardımı işine yarayabilir.,01
+615,shop_barrel_comment:0:DIS,<squish=0.82>Açmak için bunu var gücünle fırlat!,01
+616,shop_barrel_comment:1:CON,"<squish=0.82>İyi oynarsan Diddy içeride|sıkıntıdan patlar, evlat!",01
+617,shop_barrel_comment:2:OPT,<squish=0.82>Tek başına gitmek tehlikeli.|Bunu satın al!,01
+618,shop_orb_purchase:0:OPT,<squish=0.82>Şimdi ihtiyar deden|yeniden uyuyabilir.,01
+619,shop_orb_purchase:1:DIS,"<squish=0.82>Kolay yolu tercih ediyorsun, ha evlat?",01
+620,shop_orb_purchase:2:DIS,<squish=0.82>Bunları zor yoldan kazanmak|sana fazla mı geliyor?,01
+621,shop_orb_purchase:3:INT,<squish=0.82>Altın Tapınak'ın senin için|hangi sırları sakladığını|merak ediyorum...,01
+622,shop_orb_comment:0:CON,<squish=0.82>Bunlar kapımın önünde beliriverdi.|Duyduğuma göre ne işe yaradıklarını|bulmuşsun?,01
+623,shop_orb_comment:1:INT,"<squish=0.82>Ömrümde bunun gibisini|hiç görmedim, evlat.",01
+624,shop_orb_comment:2:INT,<squish=0.82>Bu küreleri adanın dört bir yanındaki|gizli yerlerde de bulabilirsin.,01
+625,shop_orb_comment:3:OPT,<squish=0.82>Gözlerimi bu kürelerden|alamıyorum doğrusu.,01
+626,shop_volcano_exit:0:OPT,<squish=0.82>Ve unutma! Lav mı?|Katrandan bile beter.,01
+627,shop_volcano_greeting:0:INT,"<squish=0.82>Yanında biraz su yoktur, değil mi evlat?|Of, ne sıcak!",01
+628,shop_volcano_greeting:1:OPT,<squish=0.82>Volkana kadar gelmişsin!|Demek sende dedenden bir şeyler varmış.,01
+629,shop_volcano_greeting:2:INT,"<squish=0.82>Böyle bir maceranın sonuna gelmek|insanda buruk bir his bırakıyor, değil mi?",01
+630,shop_volcano_greeting:3:OPT,"<squish=0.82>Vay canına, buraya kadar gelerek|ihtiyar dedeni şaşırttın!",01
+631,shop_worldkey_comment:0:DIS,<squish=0.82>Bu yollar neden kilitli? Bana sorma.|Ben sadece anahtarları satıyorum.,01
+632,shop_worldkey_comment:1:OPT,<squish=0.82>Her bölgede yalnızca bir kilit|ve onu açan bir anahtar var.,01
+633,shop_worldkey_comment:2:CON,<squish=0.82>Bu anahtarı kendim kullanırdım|ama o zaman sandalyemden|kalkmam gerekirdi.,01
+634,shop_worldkey_comment:3:INT,<squish=0.82>Bu anahtarı almazsan|her şeyi asla bulamazsın!,01
+635,shop_worldkey_comment:4:OPT,<squish=0.82>Bu anahtarın dev gibi olduğunu biliyorum|ama sen de iri bir maymunsun. Taşırsın.,01
+636,shop_worldkey_purchase:0:CON,"<squish=0.82>Tabii tabii, sen kolay yolu seç.",01
+637,shop_worldkey_purchase:1:CON,"<squish=0.82>Ne yani, şu uyduruk kilidi aşmak için|anahtara mı ihtiyacın var?",01
+638,shop_worldkey_purchase:2:OPT,"<squish=0.82>Haydi, adanın bütün sırlarını keşfet!",01
+639,shop_worldkey_purchase:3:OPT,<squish=0.82>Git ve yeni bir şey keşfet!,01
+640,shop_worldkey_purchase:4:OPT,<squish=0.82>Tüm KONG harflerini bulursan|heyecan verici bir şey olabilir!,01
+641,shop_worldkey_purchase:5:DIS,"<squish=0.82>Adanın bütün sırlarını mı arıyorsun,|yoksa sadece kolay yolu mu seçiyorsun?",01
+642,shop_worldkey_purchasefail:0:CON,"<squish=0.82>Bu anahtarı zaten aldın, evlat!",01
+643,standard:0:GroundPound,\ea0fce93,01
+644,standard:1:GroundPound_Small,\lr_btn,01
+645,standard:2:Grab,\27b05a76,01
+646,standard:3:Up,\0a93edb9,01
+647,standard:4:Blow,\7f8540b5\xy_btn,01
+648,startgame_extras:0:*,Ekstralar,01
+649,startgame_options:0:*,Seçenekler,01
+650,startgame_start1player:0:*,1 Oyuncu,01
+651,startgame_start2player:0:*,2 Oyuncu,01
+652,startgame_title:0:*,Başla,01
+653,superguide_banner:0:*,Süper Rehber,01
+654,superguide_exit:0:*,\7dfbfc47Çık,01
+655,temple_confirm:0:Core,\b0013bc9,01
+656,temple_confirm:1:Standard,\b0013bc9,01
+657,temple_somekeys:0:*,Altın Tapınak'ın sırlarını|açmak için sekiz nadir|küre toplamalısın.||Küreleri bulmakta zorlanıyorsan|belki Cranky yardım edebilir.,01
+658,timeattackreplay_banner:0:*,Tekrar,01
+659,timeattack_count_1:0:*,1,01
+660,timeattack_count_2:0:*,2,01
+661,timeattack_count_3:0:*,3,01
+662,timeattack_eol_retryconfirm:0:*,Bölümü yeniden denemek|istediğinden emin misin?,01
+663,title_copyright:0:*,© 2010-2013 Nintendo,01
+664,title_screen_core:0:*,Oynamak için \e0d1799a|tuşuna bas,01
+665,title_screen_nocontroller:0:*,W** Kumandasında herhangi bir tuşa bas,01
+666,title_screen_nunchuk:0:*,Oynamak için \b0013bc9|tuşuna bas,01
+667,title_screen_unsupported:0:*,Desteklenmeyen ek kumandayı çıkar,01
+668,w00_trophy_blast:0:*,<squish=0.87>5-K Patla ve Zıpla,01
+669,w00_trophy_challenge:0:*,<squish=0.87>8-K Beş Maymun Sınavı,01
+670,w00_trophy_collapse:0:*,<squish=0.87>2-K Çöken Tapınak,01
+671,w00_trophy_equalizer:0:*,<squish=0.87>1-K Platform Paniği,01
+672,w00_trophy_ride:0:*,<squish=0.87>7-K Hain Raylar,01
+673,w00_trophy_shift:0:*,<squish=0.87>3-K Kayan Eziciler,01
+674,w00_trophy_shift_inlevelhac:0:*,<squish=0.87>3-K Kayan Eziciler,01
+675,w00_trophy_spikes:0:*,<squish=0.87>4-K Sivri Mücevherler,01
+676,w00_trophy_temple:0:*,Altın Tapınak,01
+677,w00_trophy_vertical:0:*,<squish=0.87>6-K Tehlikeli Geçit,01
+678,w01_areaname_jungle:0:*,Cangıl,01
+679,w01_l01_jungle:0:*,<squish=0.87>1-1 Cangıl Curcunası,01
+680,w01_l02_jungle:0:*,<squish=0.87>1-2 Tırmanış Kralı,01
+681,w01_l03_jungle:0:*,<squish=0.87>1-3 Ağaç Tepesi Dansı,01
+682,w01_l04_jungle:0:*,<squish=0.87>1-4 Gün Batımı Sahili,01
+683,w01_l05_jungle:0:*,<squish=0.87>1-5 Ağaç Tepesi Topları,01
+684,w01_l06_jungle:0:*,<squish=0.87>1-6 Çılgın Vagon,01
+685,w01_l07_jungle:0:*,<squish=0.87>1-B Çirko'nun Tepesi,01
+686,w01_shop_jungle:0:*,<squish=0.87>1-D Cranky Kong'un Dükkânı,01
+687,w02_areaname_beach:0:*,Sahil,01
+688,w02_l01_beach:0:*,<squish=0.87>2-1 Zıplayan Kalaslar,01
+689,w02_l02_beach:0:*,<squish=0.87>2-2 Kaygan Kumlar,01
+690,w02_l03_beach:0:*,<squish=0.87>2-3 Sakin İskele,01
+691,w02_l04_beach:0:*,<squish=0.87>2-4 Top Yağmuru,01
+692,w02_l05_beach:0:*,<squish=0.87>2-5 Fırtınalı Sahil,01
+693,w02_l06_beach:0:*,<squish=0.87>2-6 Balina Yolculuğu,01
+694,w02_l07_beach:0:*,<squish=0.87>2-7 Azgın Dalgalar,01
+695,w02_l08_beach:0:*,<squish=0.87>2-B Kıskaçlı Korsanlar,01
+696,w02_shop_beach:0:*,<squish=0.87>2-D Cranky Kong'un Dükkânı,01
+697,w03_areaname_ruins:0:*,Harabeler,01
+698,w03_l01_ruins:0:*,<squish=0.87>3-1 Çarpık Su Yolu,01
+699,w03_l02_ruins:0:*,<squish=0.87>3-2 Düğme Patırtısı,01
+700,w03_l03_ruins:0:*,<squish=0.87>3-3 Yelkenler ve Toplar,01
+701,w03_l04_ruins:0:*,<squish=0.87>3-4 Nemli Zindan,01
+702,w03_l04_ruins_inlevelhack:0:*,<squish=0.87>3-4 Nemli Zindan,01
+703,w03_l05_ruins:0:*,<squish=0.87>3-6 Devrilen Tapınak,01
+704,w03_l06_ruins:0:*,<squish=0.87>3-5 Minik Isırıkçılar,01
+705,w03_l07_ruins:0:*,<squish=0.87>3-B Harabe Yuvası,01
+706,w03_shop_ruins_:0:*,<squish=0.87>3-D Cranky Kong'un Dükkânı,01
+707,w04_areaname_cave:0:*,Mağara,01
+708,w04_l01_cave:0:*,<squish=0.87>4-1 Gıcırdayan Raylar,01
+709,w04_l02_cave:0:*,<squish=0.87>4-5 Kalabalık Mağara,01
+710,w04_l03_cave:0:*,<squish=0.87>4-4 Köstebek Devriyesi,01
+711,w04_l04_cave:0:*,<squish=0.87>4-2 Tutun ve Yuvarlan,01
+712,w04_l05_cave:0:*,<squish=0.87>4-3 Bombalar Geliyor!,01
+713,w04_l06_cave_:0:*,<squish=0.87>4-B Köstebek Treni,01
+714,w04_shop_cave:0:*,<squish=0.87>4-D Cranky Kong'un Dükkânı,01
+715,w05_areaname_forest_:0:*,Orman,01
+716,w05_l01_forest:0:*,<squish=0.87>5-1 Sarmaşık Vadisi,01
+717,w05_l02_forest:0:*,<squish=0.87>5-3 Uçan Platformlar,01
+718,w05_l03_forest:0:*,<squish=0.87>5-6 Zıplayan Sporlar,01
+719,w05_l04_forest:0:*,<squish=0.87>5-5 Uzak Atış,01
+720,w05_l05_forest:0:*,<squish=0.87>5-7 Kıvrak Sarmaşıklar,01
+721,w05_l06_forest:0:*,<squish=0.87>5-8 Oburlar Maratonu,01
+722,w05_l07_forest:0:*,<squish=0.87>5-2 Tutun ve Sallan,01
+723,w05_l08_forest:0:*,<squish=0.87>5-4 Devrilen Totemler,01
+724,w05_l09_forest:0:*,<squish=0.87>5-B Işıltırtıl'dan Kaçış,01
+725,w05_shop_forest:0:*,<squish=0.87>5-D Cranky Kong'un Dükkânı,01
+726,w06_areaname_cliff_:0:*,Uçurum,01
+727,w06_l01_cliff:0:*,<squish=0.87>6-1 Yapışkan Durum,01
+728,w06_l02_cliff:0:*,<squish=0.87>6-2 Tarih Öncesi Patika,01
+729,w06_l03_cliff:0:*,<squish=0.87>6-4 Yuvarlanan Kayalar,01
+730,w06_l04_cliff:0:*,<squish=0.87>6-3 Ağır Dengeler,01
+731,w06_l05_cliff:0:*,<squish=0.87>6-5 Tehlikeli Plato,01
+732,w06_l07_cliff:0:*,<squish=0.87>6-6 Dağılan Kanyon,01
+733,w06_l08_cliff:0:*,<squish=0.87>6-7 Sallanan Gemi,01
+734,w06_l09_cliff:0:*,<squish=0.87>6-8 Uçurum Tırmanışı,01
+735,w06_l10_cliff:0:*,<squish=0.87>6-B Zorbo'nun Kulesi,01
+736,w06_shop_cliff:0:*,<squish=0.87>6-D Cranky Kong'un Dükkânı,01
+737,w07_areaname_factory:0:*,Fabrika,01
+738,w07_l01_factory:0:*,<squish=0.87>7-1 Zehirli Dumanlar,01
+739,w07_l02_factory:0:*,<squish=0.87>7-2 Ezici Çelik,01
+740,w07_l03_factory:0:*,<squish=0.87>7-3 Tehlikeli Eller,01
+741,w07_l04_factory:0:*,<squish=0.87>7-4 Dişlilerden Kaçış,01
+742,w07_l05_factory:0:*,<squish=0.87>7-5 Dişli Koşusu,01
+743,w07_l06_factory:0:*,<squish=0.87>7-6 Şalter Oyunu,01
+744,w07_l07_factory:0:*,<squish=0.87>7-7 Müzik Çılgınlığı,01
+745,w07_l08_factory:0:*,<squish=0.87>7-R Roket Kalkışı,01
+746,w07_l10_factory:0:*,<squish=0.87>7-B Tüylü Bela,01
+747,w07_shop_factory:0:*,<squish=0.87>7-D Cranky Kong'un Dükkânı,01
+748,w08_areaname_volcano_:0:*,Volkan,01
+749,w08_l01_volcano:0:*,<squish=0.87>8-1 Öfkeli Alevler,01
+750,w08_l02_volcano:0:*,<squish=0.87>8-3 Kızgın Raylar,01
+751,w08_l03_volcano:0:*,<squish=0.87>8-5 Sallanan Bazalt,01
+752,w08_l03_volcano_inlevelhack:0:*,<squish=0.87>8-5 Sallanan Bazalt,01
+753,w08_l04_volcano:0:*,<squish=0.87>8-2 Ateşli Roket,01
+754,w08_l05_volcano:0:*,<squish=0.87>8-6 Eriyen Platformlar,01
+755,w08_l06_volcano:0:*,<squish=0.87>8-4 Dumanlı Zirve,01
+756,w08_l07_volcano:0:*,<squish=0.87>8-7 Yükselen Kızıl Lav,01
+757,w08_l08_volcano:0:*,<squish=0.87>8-B Tiki Tong Dehşeti,01
+758,w08_shop_volcano:0:*,<squish=0.87>8-D Cranky Kong'un Dükkânı,01
+759,w09_areaname_secret_:0:*,Altın Tapınak,01
+760,w10_areaname_cloud:0:*,Bulut,01
+761,w10_l01_cloud:0:*,<squish=0.87>9-1 Ezici Sütunlar,01
+762,w10_l02_cloud:0:*,<squish=0.87>9-2 Fışkıran Gayzerler,01
+763,w10_l03_cloud:0:*,<squish=0.87>9-3 Dikenli Sürpriz,01
+764,w10_l04_cloud:0:*,<squish=0.87>9-4 Yaramaz Köstebekler,01
+765,w10_l05_cloud:0:*,<squish=0.87>9-5 Altüst,01
+766,w10_l06_cloud:0:*,<squish=0.87>9-6 Katran Topu Yağmuru,01
+767,w10_l07_cloud:0:*,<squish=0.87>9-7 Robot Fabrikası,01
+768,w10_l08_cloud:0:*,<squish=0.87>9-8 Lav Çarklı Volkan,01
+769,w10_l09_cloud:0:*,<squish=0.87>9-9 Altın Tapınak,01
+770,w10_shop_cloud:0:*,<squish=0.87>9-D Cranky Kong'un Dükkânı,01
+771,fileselect_areanamecharacte:9:Cloud,9,01
+772,map_load_play_secret:0:*,Gir,01
+773,extras_movie:0:*,Video Galerisi,01
+774,extras_movie_categories:0:*,Açılış,01
+775,extras_movie_categories:1:*,Savaş Öncesi,01
+776,extras_movie_categories:2:*,Savaş Öncesi (DK),01
+777,extras_movie_categories:3:*,Savaş Öncesi (Diddy),01
+778,extras_movie_categories:4:*,Savaş Sonrası,01
+779,extras_movie_categories:5:*,Savaş Sonrası (DK),01
+780,extras_movie_categories:6:*,Savaş Sonrası (Diddy),01
+781,extras_movie_categories:7:*,Altın Tapınak,01
+782,extras_movie_categories:8:*,Tapınağın İçi,01
+783,extras_movie_categories:9:*,Tapınağın İçi (DK),01
+784,extras_movie_categories:10:*,Tapınağın İçi (Diddy),01
+785,eol_unlock_movie:0:*,VİDEO GALERİSİ GÜNCELLENDİ!,01
+786,shop_item_names:7:*,DK Varili,01
+787,shop_item_names:8:*,Yeşil Balon,01
+788,shop_item_names:9:*,<scale=0.9>Darbe Kalkanı,01
+789,shop_item_names:10:*,Küre,01
+790,shop_descriptions:7:*,İstediğin zaman bir DK Varili|kullanmanı sağlar.,01
+791,shop_descriptions:8:*,Seni bir kez düşmekten kurtarır!|(Her yerde değil),01
+792,shop_descriptions:9:*,Maden vagonunu veya roket varilini|geçici olarak yenilmez yapar!,01
+793,shop_descriptions:10:*,Altın Tapınağa girmek için gereken|kürelerden biri.,01
+794,create_new_slot_new_mode_button:0:*,Yeni Mod,01
+795,create_new_slot_original_mode_button:0:*,Orijinal Mod,01
+796,create_new_slot_new_mode_title:0:*,Yeni Mod,01
+797,create_new_slot_original_mode_title:0:*,Orijinal Mod,01
+798,create_new_slot_new_mode_description:0:*,<scale=0.8>Bu modda Donkey Kong varsayılan olarak|3 kalple başlar ve Cranky'nin dükkânında|daha fazla eşya çeşidi bulunur.||Not: Yeni oyuna başladıktan sonra|mod değiştirilemez.,01
+799,create_new_slot_original_mode_description:0:*,<scale=0.8>Bu modda Donkey Kong Country Returns'ün|W** sürümündeki kurallar ve ayarlarla|oynarsın.||Not: Yeni oyuna başladıktan sonra|mod değiştirilemez.,01
+800,start_game_enable_wireless_message:0:*,Kablosuz Modu Etkinleştir,01
+801,host_or_join_choose_character_title:0:*,Karakterini Seç,01
+802,host_or_join_choose_dk:0:*,Donkey Kong,01
+803,host_or_join_choose_diddy:0:*,Diddy Kong,01
+804,host_or_join_dk_title:0:*,Oyun Kur,01
+805,host_or_join_dk_text_1:0:*,<scale=0.7>- Donkey Kong'u sen kontrol edersin.|- Menüleri sen kontrol edersin.|- Bu kayıt dosyasının ilerlemesi ve|<space=2>envanteri kullanılır.|- Oyun sonuçları bu kayıt dosyasına|<space=2>kaydedilir.,01
+806,host_or_join_dk_text_2:0:*,\NUL,01
+807,host_or_join_diddy_title:0:*,Oyuna Katıl,01
+808,host_or_join_diddy_text_1:0:*,<scale=0.7>- Diddy Kong'u sen kontrol edersin.|- Menüleri kontrol edemezsin.|- Bu kayıt dosyası kullanılmaz.|- Oyun sonuçları diğer oyuncunun|<space=2>kayıt dosyasına kaydedilir.,01
+809,host_or_join_diddy_text_2:0:*,\NUL,01
+810,wait_for_client_waiting_for_diddy:0:*,Diddy Kong bekleniyor,01
+811,accept_diddy_diddy_arrived:0:*,Diddy Kong geldi,01
+812,select_dk_select_game:0:*,Kayıt Seç,01
+813,select_dk_unavailable:0:*,Kullanılamıyor,01
+814,select_host_waiting_for_dk:0:*,Donkey Kong bekleniyor,01
+815,select_host_waiting_to_start:0:*,Oyunun başlaması bekleniyor,01
+816,movie_screen_play:0:*,\9097e9e2        Oynat,01
+817,movie_screen_pause:0:*,\9097e9e2        Duraklat,01
+818,movie_screen_stop:0:*,\y_button_32        Durdur,01
+819,inventory_screen_failure_reasons:0:*,\NUL,01
+820,inventory_screen_failure_reasons:1:*,\ALT(çok oyunculuda kullanılamaz)\ALT,01
+821,inventory_screen_failure_reasons:2:*,\ALT(bu bölümde kullanılamaz)\ALT,01
+822,inventory_screen_failure_reasons:3:*,\NUL,01
+823,inventory_screen_failure_reasons:4:*,\NUL,01
+824,shop_cloud_greeting:0:INT,<squish=0.82>Bulutlarda beni görünce şaşırdın mı?|Burası ihtiyar dedenin|en sevdiği tatil yeri.|Buraya nasıl geldiğimi sorma.,01
+825,shop_cloud_greeting:1:OPT,"<squish=0.82>Buraya kadar gelerek|maymunlara yaraşır|cesaretini gösterdin.|Seninle gurur duyuyorum, evlat!",01
+826,shop_cloud_greeting:2:CON,<squish=0.82>Pofuduk bulutlara aldanma.|Burası dedenin gördüğü|en zorlu sınavlardan bazılarını|barındırıyor.,01
+827,shop_cloud_greeting:3:CON,"<squish=0.82>Ahh, işte hayat bu.|Serin esinti, gürültücü komşu yok...|Şimdi, muzları nereye koymuştum?",01
+828,shop_cloud_exit:0:CON,"<squish=0.82>Son adıma dikkat et, evlat.|Hiç de kolay değil!",01
+829,shop_cloud_exit:1:INT,"<squish=0.82>Ben burada esintinin tadını çıkarıp|dönüşünü beklerim.|Stok bol, istediğin zaman uğra!",01
+830,movie_screen_time:0:*,Süre:,01
+831,fileselect_levelnamecharact:11:Level9,9,01
+832,cloud_transition_loading:0:*,Yükleniyor,01
+833,mp_client_fade_dk_selecting:0:*,Donkey Kong seçiyor...,01
+834,select_file_screen_new_mode_text:0:*,Yeni Mod,01
+835,select_file_screen_original_mode_text:0:*,Orijinal Mod,01
+836,in_game_pause_menu_waiting_for_dk_text:0:*,Donkey Kong bekleniyor,01
+837,take_a_break:0:*,Bir süredir oynuyorsun.|Biraz ara vermeye ne dersin?,01
+838,home_button_notice:0:*,HOME Menüsüne dönmek için|\home tuşuna bas.,01
+839,options_credits:0:*,Jenerik,01
+840,cloud_entrance_name:0:*,Bulut Geçidi,01
+841,pdkb_touch_activation:0:*,Kullanmak için ekrana dokun\pdkb_icon.,01
+842,pre_menu_loading:0:*,Yükleniyor,01
+843,credits_unlocked_in_options:0:*,JENERİK SEÇENEKLERDE AÇILDI!,01
+844,mp_connection_lost:0:*,Bağlantı kesildi,01
+845,mp_map_inventory_select_left:0:*,\l_button_32Seç,01
+846,mp_map_inventory_select_right:0:*,\r_button_32Seç,01
+847,format_save_data:0:*,Tüm DK Country Returns 3D kayıt verilerini|biçimlendirmek ister misin?,01
+848,format_save_yes:0:*,\y_button_32Evet,01
+849,format_save_no:0:*,\a_button_32Hayır,01
+850,format_save_formatting:0:*,Biçimlendiriliyor,01
+851,format_save_completed:0:*,Tamamlandı!,01
+852,movie_skip_instruction:0:*,Atlamak için\start_button_32tuşuna bas,01
+853,shop_orb_purchasefail:0:*,Bu küre zaten sende.,01
+854,temple_somekeys_noorbpurch:0:*,Altın Tapınak'ın sırlarını|açmak için sekiz nadir|küre toplamalısın.,01
