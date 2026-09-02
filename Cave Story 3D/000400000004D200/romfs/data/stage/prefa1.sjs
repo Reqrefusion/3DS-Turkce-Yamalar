@@ -21,24 +21,22 @@
 
 #0200
 <KEY<MSG
-Profesor Booster'in notu.<NOD
+Profesör Booster'¡n notu.<NOD
 Okumak ister misin?<YNJ0000<CLR<TUR
-Adanin daha detayli incelenmesi
-havada hareketi kolaylastiracak
-bir cihaz varsa mumkun.<NOD<CLR
-Bunun icin gelistirmeye basliyorum:
-Booster Roketi.<NOD<CLR
-Bu hava aracinin gelistirilmesi
-birkac asamali olacak; iki
-Booster surumu var: v0.8 ve v2.0.<NOD<CLR
-Plan, v0.8'i
-takilabilir ve bir cesit
-hava itisi saglayacak hale getirmek.<NOD<CLR
-Ve ben hayatta kaldigim surece,
+Havada hareketi destekleyen bir cihaz
+olursa aday¡ daha ayr¡nt¡l¡
+incelemek mümkün.<NOD<CLR
+Bu amaçla Booster roketini
+geliétirmeye baélayacaè¡m.<NOD<CLR
+Bu hava arac¡n¡ iki aéamada
+geliétireceèim: Booster v0.8 ve v2.0.<NOD<CLR
+Ílk hedefim, tak¡labilen ve havada
+itié saèlayan v0.8'i tamamlamak.<NOD<CLR
+Ve ben hayatta kald¡è¡m sürece,
 v2.0 da tamamlanacak.<NOD
-O zaman cok daha vazgecilmez olacak.<NOD<CLO
+v2.0 ise çok daha önemli olacak.<NOD<CLO
 <FLJ0161:0000<WAI0050<MS2
-    Olmezsem...<WAI0050<NOD<END
+    Ölmezsem...<WAI0050<NOD<END
 
 
 

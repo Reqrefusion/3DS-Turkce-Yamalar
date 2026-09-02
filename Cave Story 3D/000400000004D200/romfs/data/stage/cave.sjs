@@ -46,19 +46,19 @@
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0003
-Maksimum can 3 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0003
+Azami can¡n 3 artt¡.<NOD<END
 
 #0410
 <PRI<SOU0022<DNP0410<FL-1801<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0004
-Maksimum can 4 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0004
+Azami can¡n 4 artt¡.<NOD<END
 
 #0528
 <PRI<MSG<TUR
-Kopru yok... Atla!
-- Munzevi<NOD<END
+Köprü yok... Atla!
+- Münzevi<NOD<END
 
 #1000
 <END

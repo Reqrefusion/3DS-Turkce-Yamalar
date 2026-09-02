@@ -54,31 +54,31 @@ Orada dur!<WAI0020<NOD<CLO
 <CNP0410:0280:0000<WAI0100
 <DNP0440
 <MS3<FAC0026
-Cekirdekten uzak dur.
-Yoksa bunun cani gider.<NOD<CLO<FAC0000
+Onun can¡n¡ önemsiyorsan
+Çekirdekten uzak dur.<NOD<CLO<FAC0000
 <MYB0002<WAI0050<MS3<FAC0016
-Hih!<NOD<CLR
-Bir robota gore
-fazla insan gibisin.<NOD<CLR
-Yillar once buraya gelen
-digerlerinden
-farklisin.<NOD<CLR<FAC0015
-Yeni kralin
-senin elinden dusmesi...<NOD<CLR
+H¡h!<NOD<CLR
+Bir robota göre insana özgü
+duygular¡n var.<NOD<CLR
+Y¡llar önce buraya gelen
+dièerlerinden
+farkl¡s¡n.<NOD<CLR<FAC0015
+Demek yeni kral¡
+sen yendin...<NOD<CLR
 Yine de....<NOD<CLR
-Bir anlasma yapalim.<NOD<CLR
+Bir anlaéma yapal¡m.<NOD<CLR
 Ada ile birlikte
 dibe gidersin...<NOD
-Ya da buradaki her seyi
-unutup cekip gidersin...<NOD<CLR
-Simdi buradan gidersen,
-onun canina dokunmam.<NOD<CLR
+Ya da buradaki her éeyi
+unutup çekip gidersin...<NOD<CLR
+Èimdi buradan gidersen,
+onun can¡na dokunmam.<NOD<CLR
 Yoksa...<WAI0050<CLO<FAC0000
 <QUA0100<WAI0030
 <MS3
 ???<NOD<CLO
 <MS2
-Kacmana izin vermem!<NOD<CLO
+Kaçmana izin vermem!<NOD<CLO
 <MS3<FAC0015
 Kim var orada?!?<NOD<CLO
 <CNP0420:0281:0000<WAI0002
@@ -90,25 +90,25 @@ Efendinin sesini unuttun mu?<NOD<CLO
 <ANP0400:0000:0002<MS3
 <FAC0015!!!<NOD<CLO<FAC0000
 <MS2
-Ha!<NOD<CNP0410:0042:0000<CLRKirmizi kristalin gucu inanilmaz.<NOD
-Simdi bile kendimi... canli
-hissediyorum!<NOD<ANP0410:0000:0002<CLRBedenim coktan cokmus olsa da...<ANP0410:0020:0000
-Bilincim berrak.<NOD<CLRSanki bir
-insanustu oldum!<NOD<CLO
+Ha!<NOD<CNP0410:0042:0000<CLRK¡rm¡z¡ kristalin gücü inan¡lmaz.<NOD
+Èimdi bile kendimi... canl¡
+hissediyorum!<NOD<ANP0410:0000:0002<CLRBedenim çoktan çökmüé olsa da...<ANP0410:0020:0000
+Bilincim berrak.<NOD<CLRSanki insanüstü bir
+varl¡èa dönüétüm!<NOD<CLO
 <MS3<FAC0026
-Inanilmaz...<NOD<CLO
+Ínan¡lmaz...<NOD<CLO
 <MS2
 .....<NOD<CLRNe oldu, Misery?<NOD
-Bu halim korkunc mu?<NOD<CLO
+Bu hâlim dehéet verici mi?<NOD<CLO
 <MS3<FAC0026
 UUGH!<NOD<CLR
-Olumu aldatanlar...<NOD
+Ölümü aldatanlar...<NOD
 Yok olun!!<NOD<CLO<FAC0000
 <ANP0400:0040:0002<WAI0100
-<MS2Kurtulusun yok...<NOD<CLREfendisini unutacak kadar aptal olan
-ozgur iradeye ihtiyac duymaz.<NOD<CLRMisery.<NOD
-Oldugun gune dek,
-BENIM kuklam olacaksin.<NOD<CLO
+<MS2Kurtuluéun yok...<NOD<CLREfendisini unutacak kadar aptal
+olanlara özgür irade gerekmez.<NOD<CLRMisery.<NOD
+Öldüèün güne dek,
+BENÍM kuklam olacaks¡n.<NOD<CLO
 <MNP0420:0030:0013:0000<WAI0100
 <ANP0400:0050:0002
 <MS3<FAC0026
@@ -116,8 +116,8 @@ Aaahhh!!!<NOD<CLO<FAC0000
 <CNP0400:0283:0002<WAI0050
 <ANP0400:0010:0002<WAI0100
 <MS3<FAC0002
-Sey, hey...<NOD<MYD0000<CLR
-Gitmemiz lazim!<NOD<CLO<FAC0000
+Èey, hey...<NOD<MYD0000<CLR
+Gitmemiz laz¡m!<NOD<CLO<FAC0000
 <ANP0410:0015:0002<WAI0002
 <ANP0410:0000:0000<WAI0020<MYD0000
 <ANP0410:0003:0000<WAI0032
@@ -125,7 +125,7 @@ Gitmemiz lazim!<NOD<CLO<FAC0000
 <MS3<FAC0002
 Ha?<ANP0410:0017:0002<NOD<CLO<FAC0000
 <CNP0410:0284:0002<WAI0050<DNP0430
-<MS2Ha ha ha!<MYD0002<NOD<WAI0100<CLR<BOA0015Buradan canli cikmana izin vermeyecegim!!!<NOD<CLO
+<MS2Ha ha ha!<MYD0002<NOD<WAI0100<CLR<BOA0015Buradan saè ç¡kmana izin vermem!!!<NOD<CLO
 <0CE<BSL0000<BOA0020
 <CMU0032
 <MNP0420:0028:0018:0000<ANP0420:0020:0000<WAI0050
@@ -156,12 +156,12 @@ Olamaz...<NOD<CLO<FAC0000
 <ANP0451:0000:0000<WAI0020
 <DNP0450<SMC
 <MS3<FAC0002
-Ada cokmeye
-basladi!<NOD<CLR
-Bu gidisle
-burasi da
-az sonra cokecek!<NOD<CLR
-Neyse, hemen kacmaliyiz!<NOD<CLO
+Ada çökmeye
+baélad¡!<NOD<CLR
+Bu gidiéle
+buras¡ da
+az sonra çökecek!<NOD<CLR
+Neyse, hemen kaçmal¡y¡z!<NOD<CLO
 <ANP0451:0030:0000<WAI0100<DNP0451
 <FL+1273<FL+1341<FL+1390<FL+1391<FL+1392
 <FL-1031<FL-1032<0CE
@@ -171,7 +171,7 @@ Neyse, hemen kacmaliyiz!<NOD<CLO
 #1000
 <KEY<CMU0000<FOB0000:0016<ANP0400:0099:0005<ANP0410:0099:0005
 <BOA0500<WAI0400<MS3
-Olumsuz Cekirdegi yok ettin!<WAI0140<CMU0000<CLO
+Ölümsüz Çekirdeèi yok ettin!<WAI0140<CMU0000<CLO
 <FL+1340<FAO0003
 <ITJ0023:1001<EVE1010
 #1001

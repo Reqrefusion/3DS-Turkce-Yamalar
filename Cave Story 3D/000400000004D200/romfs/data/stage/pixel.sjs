@@ -22,53 +22,53 @@
 <FLJ1440:0202
 <FLJ0835:0201
 <MSG<TUR
-Ekranda metin gorunuyor...<NOD<CLR
-04.08.08 Cocugum dogdu.<NOD<END
+Ekranda metin görünüyor...<NOD<CLR
+04.08.08 Çocuèum doèdu.<NOD<END
 
 #0201
 <KEY<MSG
-Ekranda metin gorunuyor...<NOD<CLR
-<TURSimdilik biraz ara versek?<NOD<END
+Ekranda metin görünüyor...<NOD<CLR
+<TURÈimdilik biraz ara versek?<NOD<END
 
 #0202
 <KEY<FL+1445<MSG
-Ekranda metin gorunuyor...<NOD<CLR<TUR
-Aklima geldi, su deftere bazi
-notlar da dusmustum.<NOD<END
+Ekranda metin görünüyor...<NOD<CLR<TUR
+Akl¡ma geldi, éu deftere baz¡
+notlar da düémüétüm.<NOD<END
 
 #0203
 <KEY<MSG
-Ekranda metin gorunuyor...<NOD<CLR
+Ekranda metin görünüyor...<NOD<CLR
 <TURYapabilirsin.<NOD<END
 
 #0210
 
 #0220
 <KEY<MSG
-Ilginc bir sey yok...<NOD<END
+Ílginç bir éey yok...<NOD<END
 #0221
 <KEY<MSG
-Defter toz icinde...<NOD<FLJ1441:0223<FLJ1445:0222<END
+Defter toz içinde...<NOD<FLJ1441:0223<FLJ1445:0222<END
 #0222
 <KEY<MSG
-Defteri ac?<YNJ0000<FL+1441<CLR<TUR
-Yuzeyde uretilen robotlar
+Defteri açmak ister misin?<YNJ0000<FL+1441<CLR<TUR
+Yeryüzünde üretilen robotlar
 suda pek hareket edemez.<NOD<CLR
 Su basarsa, sistem
-otomatik olarak kendini kapatir,
-kisa devreyi onlemek icin.<NOD<CLR
-Asagida su basmis robotlara
-bakim talimatlari var.<NOD<CLR<MSG
+otomatik olarak kendini kapat¡r,
+k¡sa devreyi önlemek için.<NOD<CLR
+Aéaè¡da su basm¡é robotlara
+bak¡m talimatlar¡ var.<NOD<CLR<MSG
 .<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010<NOD<CLR<CMU0010
-Su basmis robotlara bakim yapmayi
-ogrendin!<WAI0160<NOD<RMU<CLR<TUR
-Su basmis sistemler,
-yukaridaki bosaltma yontemi
-uygulaninca otomatik yeniden baslar.<WAI0030<NOD<END
+Su basm¡é robotlara bak¡m yapmay¡
+öèrendin!<WAI0160<NOD<RMU<CLR<TUR
+Su basm¡é sistemler,
+yukar¡daki boéaltma yöntemi
+uygulan¡nca otomatik yeniden baélar.<WAI0030<NOD<END
 #0223
 <KEY<MSG
-Defterde baska ise yarar bir sey
-yazmiyor.<NOD<END
+Defterde baéka iée yarar bir éey
+yazm¡yor.<NOD<END
 
 #0250
 <KEY
@@ -80,50 +80,51 @@ yazmiyor.<NOD<END
 <FLJ0836:0251<EVE0019
 #0251
 <KEY<MSG
-Dinlenmek istiyor musun?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+Dinlenmek ister misin?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 .....<NOD<CLO
 <WAI0100<LI+1000
 <DNP0210<FL-0836<FL+1440<MYD0002<RMU
 <TRA0073:0095:0012:0009
 #0252
 <KEY<MSG
-Kipirdamiyor ama
-hala yasiyor gibi.<NOD<END
+K¡p¡rdam¡yor ama
+hâlâ yaé¡yor gibi.<NOD<END
 #0253
 <KEY<MSG
-Curly'nin suyunu bosalt?<YNJ0000<CLO
+Curly'deki suyu boéaltmak
+ister misin?<YNJ0000<CLO
 <FL+1442<FAO0001<CMU0000<WAI0200<FAI0001
 <WAI0150<MSG<FAC0020
 Nnghh...<NOD<CLR<CMU0014<FAC0025
 .....<NOD<CLR<ANP0260:0001:0002<FAC0019
-Guvenliktesin!<NOD<CLR
+Güvendesin!<NOD<CLR
 Oh, sevindim...<NOD<CLR<FAC0025
-Gittin sanmistim!<NOD
+Gittin sanm¡ét¡m!<NOD
 Bilincini kaybettin ve
-ben de ne yapacagimi
+ben de ne yapacaè¡m¡
 bilemedim...<NOD<CLR
-Bu yuzden hava tankimi sana verdim.
-Ise yaradi, degil mi?<NOD<CLR
+Bu yüzden hava tüpümü sana verdim.
+Íée yarad¡, deèil mi?<NOD<CLR
 <FAC0020Uuh...<NOD<CLO<FAC0000<ANP0260:0001:0000
 <WAI0050
 <MSG
-Uyuyakaldi.<NOD
+Uyuyakald¡.<NOD
 <END
 #0254
 <KEY<MSG
-Yeniden baslatma biraz
+Yeniden baélatma biraz
 zaman alacak.<NOD<FL+1443<END
 #0255
 <KEY<MSG
-Onu burada birakmak ister misin?<YNJ0256<END
+Onu burada b¡rakmak ister misin?<YNJ0256<END
 #0256
 <KEY<CNP0260:0259:0000<FL+0836<FL-1440<FL+1444<WAI0040
-<MSGAzami can 3 artti.<NOD<ML+0003<CLO<END
+<MSGAzami can¡n 3 artt¡.<NOD<ML+0003<CLO<END
 
 <END
 #0257
 <KEY<MSG
-Yatak sirilsiklam.<NOD<END
+Yatak s¡r¡ls¡klam.<NOD<END
 
 #0260
 
@@ -132,5 +133,5 @@ Yatak sirilsiklam.<NOD<END
 #0301
 <PRI<DNP0300<SOU0022<CMU0016<FL-1811
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0003
-Azami can 3 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0003
+Azami can¡n 3 artt¡.<NOD<END

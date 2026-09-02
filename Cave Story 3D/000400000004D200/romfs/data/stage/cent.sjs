@@ -20,7 +20,7 @@
 
 #0120
 <PRI<FLJ1105:0122<MSG
-Sifre ne?<NOD<FLJ1024:0121<END
+Èifre ne?<NOD<FLJ1024:0121<END
 #0121
 <MSG
 "yrotS evaC".<NOD<CLO
@@ -36,12 +36,12 @@ Sifre ne?<NOD<FLJ1024:0121<END
 <FLJ1023:0137
 <ITJ0025:0136
 <MSG
-Uzerinde "GIRILMEZ" yaziyor.<NOD
+Üzerinde "GÍRÍLMEZ" yaz¡yor.<NOD
 Ve kilitli.<NOD<END
 #0136
 <SOU0022<MSG<GIT1025
-Isinlayici Odasi Anahtari'ni
-kullandin.<NOD<CLO
+Ié¡nlay¡c¡ Odas¡ Anahtar¡'n¡
+kulland¡n.<NOD<CLO
 <GIT0000<FL+1023<EVE0137
 #0137
 <KEY<SOU0011<ANP0135:0000:0002<FAO0000<TRA0060:0090:0018:0009
@@ -51,7 +51,7 @@ kullandin.<NOD<CLO
 
 #0150
 <PRI<FLJ1030:0151<MSG
-Daha erken...<NOD<END
+Henüz çok erken...<NOD<END
 
 #0151
 <KEY<SOU0011<ANP0150:0000:0002<FAO0002
@@ -74,36 +74,36 @@ Daha erken...<NOD<END
 
 #0201
 <PRI<MSG
-Yeryuzunden gelecek
-saldiriya karsi kirmizi
-cicek yetistiriyoruz.<NOD
-Doktor hakliysa...
-cicekleri bir an once
-actirmaliyiz.<NOD<END
+Yeryüzüne yap¡lacak
+sald¡r¡ için k¡rm¡z¡
+çiçek yetiétiriyoruz.<NOD
+Doktor doèru söylüyorsa...
+çiçekleri bir an önce
+açt¡rmal¡y¡z.<NOD<END
 
 #0210
 <PRI<FLJ1020:0211
 <EVE0299
 #0211
 <PRI<MSG
-Kirmizi cicek olursa
-o katil robotlar ne ki!
-Hepsini ezer geceriz!<NOD
-Cabuk buyu, kirmizi cicek!<NOD<END
+K¡rm¡z¡ çiçekler elimizdeyken
+o katil robotlar¡ yenmek
+çocuk oyuncaè¡!<NOD
+Çabuk aç, küçük k¡rm¡z¡ çiçek!<NOD<END
 
 #0220
 <PRI<FLJ1020:0221
 <EVE0299
 #0221
 <PRI<MSG
-Yasasin Doktor!<NOD<END
+Yaéas¡n yüce Doktor!<NOD<END
 
 #0230
 <PRI<FLJ1020:0231
 <EVE0299
 #0231
 <PRI<MSG
-Niye calismiyorsun...<NOD<END
+Niye çal¡ém¡yorsun...<NOD<END
 
 #0240
 <PRI
@@ -116,22 +116,22 @@ Niye calismiyorsun...<NOD<END
 Sen.<NOD<CLR
 Burada yenisin.<NOD
 Bir anda buraya
-getirildin; sasirdin, degil mi?<NOD<CLR
+getirildin; éaé¡rd¡n, deèil mi?<NOD<CLR
 Her neyse.<NOD
-Sakin
-aptalca bir sey yapma.<NOD
-Kacip yakalanirsan,
+Sak¡n
+aptalca bir éey yapma.<NOD
+Kaç¡p yakalan¡rsan,
 seni zindana atarlar.<NOD
-Ben guvendeyim, karnim da doyuyor...
+Ben güvendeyim, karn¡m da doyuyor...
 ama ancak
-o sacma ciceklere baktigim surece.<NOD<END
+o saçma çiçeklere bakt¡è¡m sürece.<NOD<END
 
 #0242
 <PRI<MSG
-Nasilsin?<NOD<CLR
-Sansliysak, o eski sakin
-gunler yakinda doner.
-Belki de...<NOD<END
+Selam, nas¡ls¡n?<NOD<CLR
+Èans¡m¡z yaver giderse o güzel eski
+günler yak¡nda geri döner.<NOD<CLR
+Hmm... Belki.<NOD<END
 
 
 
@@ -142,42 +142,42 @@ Belki de...<NOD<END
 <FLJ1028:0252
 <FLJ1020:0251
 <PRI<MSG
-Su fiskiye...<NOD<CLR
+Èu f¡skiye...<NOD<CLR
 Hop!
-Insanlarla konusmamam gerek.<NOD<END
+Ínsanlarla konuémamam gerek.<NOD<END
 
 #0251
 <PRI<MSG
-Bu fiskiyeler cok ise yariyor,<NOD
-ama cok kolay kiriliyorlar.<NOD<END
+Bu f¡skiyeler çok iée yar¡yor,<NOD
+ama çok kolay k¡r¡l¡yorlar.<NOD<END
 
 #0252
 <PRI<FL+1029<MSG
 Yine bozuldu!<NOD<CLR
 .....<NOD<CLR
-Hey, yeni cocuk!
-Su fiskiyeyi
-calisan bir yenisiyle degistir.<NOD<END
+Hey, yeni çocuk!
+Èu f¡skiyeyi
+çal¡éan bir yenisiyle deèiétir.<NOD<END
 
 #0253
 <PRI<MSG
-Hadi, cabuk!
-Yoksa tomurcuklar olecek.<NOD
+Hadi, çabuk!
+Yoksa tomurcuklar ölecek.<NOD
 Yenisini tak,
 ama hemen!<NOD<END
 
 #0254
 <PRI<MSG
-Kirmizi cicek bizi
-en guclu savasci yapacak!<NOD
-Biz Mimiga'lar
-zaten bastan beri gucluyduk.<NOD
-Robotlara karsi savas
-masal degilmis.<NOD<CLR
+K¡rm¡z¡ çiçek bizi
+en güçlü savaéç¡ yapacak!<NOD
+Biz Mimigalar
+zaten baétan beri güçlüydük.<NOD
+Robotlara karé¡ verilen savaé
+sadece bir efsane deèilmié.<NOD<CLR
 He he.<NOD<CLR
-Ne zaman acacaklar...<NOD
-Su ciftcilikten
-biktim usandim.<NOD<END
+Ne zaman açacaklar...<NOD
+Èu çiftçilikten
+b¡kt¡m usand¡m.<NOD<END
 
 #0260
 <PRI
@@ -187,47 +187,47 @@ biktim usandim.<NOD<END
 <FL+1035
 <MSG
 Ah, sensin.<NOD<CLR
-Tuhaf bir sey yakaladim.<NOD
-Istersen al.<NOD
-Kovanin icinde.<NOD<END
+Tuhaf bir éey yakalad¡m.<NOD
+Ístersen al.<NOD
+Kovan¡n içinde.<NOD<END
 #0261
 <PRI<MSG
-Kovanin icinde.<NOD<END
+Kovan¡n içinde.<NOD<END
 #0262
 <PRI<MSG
-Bu anahtar neyin anahtari?<NOD<CLR
-Gordugum kadariyla bu anahtar
-yakindaki bir kapida ise yaramali...<NOD<CLR
-Acliktan oluyorum...<NOD<END
+Bu anahtar neyin anahtar¡?<NOD<CLR
+Gördüèüm kadar¡yla bu anahtar
+yak¡ndaki bir kap¡da iée yaramal¡...<NOD<CLR
+Açl¡ktan ölüyorum...<NOD<END
 #0263
 <PRI<MSG
-Bugun hicbir sey yakalayamiyorum...<NOD<END
+Bugün hiçbir éey yakalayam¡yorum...<NOD<END
 
 #0265
 <PRI
 <FLJ1022:0267
 <FLJ1035:0266
 <MSG
-Bu, balik saklamak icin kullanilan
+Bu, bal¡k saklamak için kullan¡lan
 bir kova.<NOD<END
 
 #0266
 <PRI<FL+1022
 <MSG
-Kovanin icine baktin.<NOD
-Dikkatlice bakinca, iceride parlayan
-bir sey goruyorsun.<NOD<CLR<GIT1025<IT+0025<CLR
-<CMU0010Isinlayici Odasi Anahtari'ni aldin.<WAI0160<NOD<RMU<END
+Kovan¡n içine bakt¡n.<NOD
+Dikkatlice bak¡nca, içeride parlayan
+bir éey görüyorsun.<NOD<CLR<GIT1025<IT+0025<CLR
+<CMU0010Ié¡nlay¡c¡ Odas¡ Anahtar¡'n¡ ald¡n.<WAI0160<NOD<RMU<END
 #0267
 <PRI<MSG
-Kovada baska bir sey yok...<NOD<END
+Kovada baéka bir éey yok...<NOD<END
 
 #0299
 <PRI<MSG
 .....<NOD<END
 <PRI<CMU0000<MSG
-Sen bir katil robotsun!!<NOD<FAO0004<MYD0002<CLR
-Yakalandi...<NOD<TRA0057:0094:0011:0014
+Sen katil bir robotsun!!<NOD<FAO0004<MYD0002<CLR
+Yakaland¡n...<NOD<TRA0057:0094:0011:0014
 
 
 #0300
@@ -239,28 +239,28 @@ Yakalandi...<NOD<TRA0057:0094:0011:0014
 <FLJ1041:0311
 <FLJ1044:0312
 <MSG
-Yeryuzunden gelen Doktor,
-bu adanin Mimiga'larini kirmizi
-cicek yetistirmek icin kullaniyor.<NOD<CLR
-Buna benzer seyler
-gecmiste de olmus...<NOD<END
+Yeryüzünden gelen Doktor,
+bu adan¡n Mimigalar¡n¡ k¡rm¡z¡
+çiçek yetiétirmek için kullan¡yor.<NOD<CLR
+Geçmiéte de buna benzer
+olaylar olmué...<NOD<END
 #0311
 <PRI<MSG
-Bu kiz kaynak yakinina dustu.<NOD
-Kim oldugunu hatirlamiyor...<NOD<CLR
-Simdi hurda metal olmustur herhalde.<NOD<FL+1044<EVE0312
+Bu k¡z p¡nar¡n yak¡n¡na düétü.<NOD
+Kim olduèunu hat¡rlam¡yor...<NOD<CLR
+Èimdiye hurdaya dönmüétür herhalde.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSG
-Sadece bir sey...<NOD
-Hafizayi geri getirdigi soylenen
-ozel bir
-mantar hakkinda duydum.<NOD
-Acaba bu zavalli
-kiza da iyi gelir mi?<NOD<END
+Sadece bir éey...<NOD
+Haf¡zay¡ geri getirdièi söylenen
+özel bir
+mantar hakk¡nda duydum.<NOD
+Acaba bu zavall¡
+k¡za da iyi gelir mi?<NOD<END
 #0313
 <PRI<MSG
-Hafizasi geri geldi...
-Pek heyecan verici degil.<NOD<END
+Haf¡zas¡ geri geldi...
+Pek heyecan verici deèil.<NOD<END
 
 
 
@@ -274,64 +274,64 @@ Sen...<NOD kimsin?<NOD<ITJ0034:0322<END
 #0321
 <PRI<MSG<FAC0025
 Oow...<NOD
-Tatliymissin...<NOD<CLR
-Cok uzaklasma.<NOD
-Kotu robotlara dikkat et...<NOD<ITJ0034:0322<END
+Tatl¡ym¡és¡n...<NOD<CLR
+Çok uzaklaéma.<NOD
+Kötü robotlara dikkat et...<NOD<ITJ0034:0322<END
 
 #0322
 <FAC0000<MSG<GIT1034
 Ma Pignon'u kullanmak ister misin?<YNJ0000<GIT0000<IT-0034<CMU0000<CLR
-Curly'nin agzina tikistirdin.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
+Ma Pignon'u Curly'nin aèz¡na koydun.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
 <MSG<FAC0025
 . . . . .<NOD<CLR<FAC0019
 Quote!!<NOD
-Hatirladim!
-Adin Quote!<NOD<CLR
+Hat¡rlad¡m!
+Ad¡n Quote!<NOD<CLR
 Sen ve ben...<NOD<CLR
-<FAC0025Sey...<NOD<CLR
+<FAC0025Èey...<NOD<CLR
 Bir zamanlar,
-biz robotlarin cogu
-bu adaya gonderilmisti...<NOD
-Bizi yeryuzundeki
-ulkeler gonderdi.<NOD<CLR
-Gorevin amaci...<NOD
-bu yuzen adada
-uyuyan o inanilmaz
-gucu ele gecirmekti...<NOD
+biz robotlar¡n çoèu
+bu adaya gönderilmiéti...<NOD
+Bizi yeryüzündeki
+ülkeler gönderdi.<NOD<CLR
+Görevin amac¡...<NOD
+bu yüzen adada
+uyuyan o inan¡lmaz
+gücü ele geçirmekti...<NOD
 Bir de
-Seytan Taci vardi.<NOD
-Ama sen ve ben farkliydik.<NOD<CLR
-Biz o gucu
-yok etmeye gonderildik.<NOD<CLR
-Adaya indigimizde
-ortalik karmakarisikti.<NOD
-Robotlar her yeri talan etmisti...<NOD<CLR
-Bir suru zavalli
-kucuk Mimiga'yi oldurduler...<NOD
-<FAC0020Korkunctu...<NOD<CLR<FAC0025
+Èeytan Tac¡ vard¡.<NOD
+Ama sen ve ben farkl¡yd¡k.<NOD<CLR
+Biz o gücü
+yok etmeye gönderildik.<NOD<CLR
+Adaya indièimizde
+ortal¡k karmakar¡é¡kt¡.<NOD
+Robotlar her yeri talan etmiéti...<NOD<CLR
+Bir sürü zavall¡
+küçük Mimigay¡ öldürdüler...<NOD
+<FAC0020Korkunçtu...<NOD<CLR<FAC0025
 Ve sonunda, bir adam
-Seytan Taci'ni ele gecirdi.<NOD<CLR
-Robotlarin gorevi
-bitmisti ve ada
-tamamen sessizlige gomuldu.<NOD<CLR
+Èeytan Tac¡'n¡ ele geçirdi.<NOD<CLR
+Robotlar¡n görevi
+bitmiéti ve ada
+tamamen sessizlièe gömüldü.<NOD<CLR
 Ama bu, trajedinin
-yalnizca baslangiciydi.<NOD
-Taci ele geciren adam,
-Mimiga'lari canavara
-cevirdi,<NOD
-ve yeryuzune
-saldirmaya basladilar.<NOD<CLR
-Onunla yuzlestim ve
-onu yenmeye calistim.<NOD
-O zaman yanimdaydin.<NOD<CLR
+yaln¡zca baélang¡c¡yd¡.<NOD
+Tac¡ ele geçiren adam,
+Mimigalar¡ canavara
+çevirdi,<NOD
+ve yeryüzüne
+sald¡rmaya baélad¡lar.<NOD<CLR
+Onunla yüzleétim;
+onu yenmek için elimden geleni yapt¡m.<NOD
+O zaman yan¡mdayd¡n.<NOD<CLR
 .....<NOD<CLR
-Hatirladigim tek sey bu.<NOD<CLR
-Tacin sahibi,
-o sirada ikimizin de
-saldirisindan yaralanmisti.<NOD<CLR
+Hat¡rlad¡è¡m tek éey bu.<NOD<CLR
+Tac¡ takan adam,
+o s¡rada ikimizin de
+sald¡r¡lar¡yla yaralanm¡ét¡.<NOD<CLR
 <FAC0019Peki ya sen?
-Bir sey hatirliyor musun?
-Herhangi bir sey?<NOD<CLO
+Bir éey hat¡rl¡yor musun?
+Herhangi bir éey?<NOD<CLO
 <FL+1045<RMU<FLJ1020:0323<END
 
 #0323
@@ -339,29 +339,29 @@ Herhangi bir sey?<NOD<CLO
 
 #0324
 <PRI<MSG<FAC0019
-Simdi iyiyim.<NOD
-Benim icin endiselenme!<NOD<CLR<FAC0025
-Ah,<NOD iste burada.<NOD<CLR<FAC0019
-Lutfen<GIT1039 bunu sakla...<NOD<CLR<FAC0000
-<FL+1046<IT+0039Demir Bag elde edildi.<WAI0020<NOD<GIT0000<END
+Èimdi iyiyim.<NOD
+Benim için endiéelenme!<NOD<CLR<FAC0025
+Ah,<NOD iéte burada.<NOD<CLR<FAC0019
+Lütfen<GIT1039 bunu sakla...<NOD<CLR<FAC0000
+<FL+1046<IT+0039Demir Baè elde edildi.<WAI0020<NOD<GIT0000<END
 
 
 #0325
 <PRI<MSG<FAC0019
-Simdi iyiyim.
-Sordugun icin tesekkurler!<NOD<END
+Èimdi iyiyim.
+Sorduèun için teéekkürler!<NOD<END
 
 #0350
 <PRI<MSG
-Roketi firlatmak ister misin?<YNJ0000<CLO
+Roketi f¡rlatmak ister misin?<YNJ0000<CLO
 <ANP0350:0010:0000<END
 
 #0360
 <PRI<MSG<FAC0028
 Geldim!<NOD<CLR
-Saklanmanin faydasi yoktu.
-Ve roket
-ben olmadan asla bitmezdi!<NOD<CLR
+Saklanman¡n faydas¡ yoktu.
+Roket de ben olmadan
+asla tamamlanamazd¡!<NOD<CLR
 Bu arada...<NOD<CLR
 Doktor'u yenersen,<NOD
 sence tekrar
@@ -369,12 +369,12 @@ insan olur muyum?<NOD<END
 
 #0370
 <PRI<FLJ1034:0380<MSG<FAC0022<FL+1034
-Iyi uyudun mu?<NOD<CLR
-Roket tamamlandi.<NOD<CLR
+Íyi uyudun mu?<NOD<CLR
+Roket tamamland¡.<NOD<CLR
 Doktor'u yenebilirsin,
-degil mi?<NOD
-Sana inaniyorum.<NOD<CLR
-Lutfen sunu al...<NOD<CLO<FAC0000<FLJ0162:0371
+deèil mi?<NOD
+Sana inan¡yorum.<NOD<CLR
+Lütfen éunu al...<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
 Booster v0.8 geri verildi.<WAI0160<NOD<RMU<CLO
@@ -388,70 +388,70 @@ Booster v2.0 geri verildi.<WAI0160<NOD<RMU<CLO
 
 #0375
 <PRI<MSG<FAC0022
-Artik o maskeye
-ihtiyacin kalmayacak.<NOD<CLO<FAC0000
+Art¡k o maskeye
+ihtiyac¡n kalmayacak.<NOD<CLO<FAC0000
 <MSG<GIT1024<IT-0024<EQ-0064<FL-1020
-Mimiga Maskesini aldi.<NOD<CLO<GIT0000<EVE0380
+Mimiga Maskesini ald¡.<NOD<CLO<GIT0000<EVE0380
 
 #0380
 <PRI<MSG<FAC0022
-Tam ustumuzde,
+Tam üstümüzde,
 tahta giden bir yol var.<NOD
 Bu roketle
-oraya ulasabilirsin.<NOD<CLR
-Plantasyondaki Mimiga'larin
-hepsi artik yok.<NOD<CLR
-...Demek ki kirmizi cicek
+oraya ulaéabilirsin.<NOD<CLR
+Plantasyondaki Mimigalar¡n
+hepsi art¡k yok.<NOD<CLR
+...Demek ki k¡rm¡z¡ çiçek
 belki de
-coktan kullanildi.<NOD<CLR
+çoktan kullan¡ld¡.<NOD<CLR
 O zaman.<NOD<CLR
-Lutfen roketi bin
-ve Doktor'un tahtina acele et.<NOD<END
+Lütfen rokete bin
+ve Doktor'un taht¡na doèru acele et.<NOD<END
 
 #0400
 <PRI<FLJ1102:0401<MSG
-Sanki delice su fiskiriyor.<NOD<END
+Èiddetle su f¡ék¡r¡yor.<NOD<END
 #0401
 <PRI<MSG
-Oy! Onu alirsan basim derde girer!<NOD<END
+Oy! Onu al¡rsan baé¡m derde girer!<NOD<END
 
 #0410
 <PRI<FLJ1102:0411<MSG
-Sanki delice su fiskiriyor.<NOD<END
+Èiddetle su f¡ék¡r¡yor.<NOD<END
 #0411
 <PRI<MSG
-Oy! Onu alirsan basim derde girer!<NOD<END
+Oy! Onu al¡rsan baé¡m derde girer!<NOD<END
 
 #0415
 <PRI<MSG
 Durdu.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
-<CMU0010Kirik Fiskiye alindi.<WAI0160<NOD<RMU<END
+<CMU0010Bozuk F¡skiye al¡nd¡.<WAI0160<NOD<RMU<END
 
 #0450
 <PRI<FLJ1040:0451<FL+1040<MSG
 Uzun zaman oldu.<NOD
 HAV!<NOD<CLR
 Beni kurye olarak tuttular...<NOD
-Bu senin icin.<NOD<CLR<SOU0022<CMU0016<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0005
-Maksimum can 5 artti.<NOD<GIT0000<ITJ0015:0451<CLR
+Bu senin için.<NOD<CLR<SOU0022<CMU0016<GIT1006
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<GIT0000<ITJ0015:0451<CLR
 Ah, bir de bunu...<NOD<CLR
-<CMU0010<GIT1015<IT+0015<GIT1015Can Iksiri alindi.<WAI0160<NOD<GIT0000<RMU<EVE0451
+<CMU0010<GIT1015<IT+0015<GIT1015Can Íksiri al¡nd¡.<WAI0160<NOD<GIT0000<RMU<EVE0451
 <END
 #0451
 <PRI<MSG
-Doktor'la savasacaksin.<NOD
-Destegim seninle!
-Bu arada, Curly'ye selamimi soyle!
+Doktor'la savaéacaks¡n.<NOD
+Desteèim seninle!
+Bu arada, Curly'ye selam¡m¡ söyle!
 HAV!<NOD<END
 
 #0460
 <PRI<MSG<TUR
-Tukuren Silah Baligina dikkat!
-Not: Ustlerine basamak gibi
-cikabilirsin.<NOD<END
+Tüküren Silah Bal¡è¡na dikkat!
+Not: Onlar¡ basamak olarak
+kullanabilirsin.<NOD<END
 
 #0480
 <KEY<HMC
@@ -466,8 +466,8 @@ cikabilirsin.<NOD<END
 #0500
 <PRI<SOU0022<DNP0500<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0004
-Maksimum can 4 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0004
+Azami can¡n 4 artt¡.<NOD<END
 
 
 #1200

@@ -22,23 +22,23 @@
 <PRI
 <FLJ1371:0201
 <MSG
-Bir sey mi istiyorsun?<NOD<END
+Bir éey mi istiyorsun?<NOD<END
 #0201
 <PRI<MSG
-Karim beni mi ariyormus?!?<NOD<CLR
-Herhalde ondandir, ben
-uzun zamandir eve gitmedim.<NOD
+Kar¡m beni mi ar¡yormué?!?<NOD<CLR
+Herhalde ondand¡r;
+uzun zamand¡r eve gitmedim.<NOD
 Peki, eve gidiyorum.<NOD<GIT1032<DNP0200<IT+0032<CLR
-Tabii, beni oraya goturursun, degil
+Tabii, beni oraya götürürsün, deèil
 mi?<NOD<END
 
 #0300
 <CNP0300:0000:0000
 <PRI<MSG
-Arthur'un mezari.<NOD
-Mezar tasinda bir sey yaziyor,<NOD<CLR<MSG<TUR
-Burada gercek Mimiga kahramani
-Arthur yatiyor.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
-<CMU0010<GIT1001<IT+0001Arthur'un Anahtarini buldun.<WAI0160<NOD<CLO
+Arthur'un mezar¡.<NOD
+Mezar taé¡nda bir éey yaz¡yor, <NOD<CLR<MSG<TUR
+Burada gerçek Mimiga kahraman¡
+Arthur yat¡yor.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001Arthur'un Anahtar¡n¡ buldun.<WAI0160<NOD<CLO
 <RMU<END
 

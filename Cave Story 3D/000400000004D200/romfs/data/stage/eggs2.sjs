@@ -22,7 +22,8 @@
 
 #0100
 <PRI<MSG
-Arthur'un evine isinlan?<YNJ0000<CLO
+Arthur'un evine
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <FLJ0106:0102
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
@@ -45,7 +46,7 @@ Arthur'un evine isinlan?<YNJ0000<CLO
 
 #0108
 <PRI<FLJ0103:0109<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 #0109
 <KEY<SOU0011<ANP0108:0000:0002<FAO0004<TRA0052:0094:0004:0010
 
@@ -62,17 +63,17 @@ Acilmiyor!<NOD<END
 <MOV0314:0008<END
 #0200
 <PRI<MSG
-Bir Ucan Ejderha lesi...<NOD<END
+Bir Uçan Ejderha leéi...<NOD<END
 #0201
 <ANP0201:0000:0002<END
 
 #0210
 <PRI<MSG
-Birden siddetli bir patlama
+Birden éiddetli bir patlama
 oldu!<NOD<CLR
-Kendime gelince her sey
-boyleydi.<NOD
-Neler oluyor boyle?!?<NOD<END
+Kendime gelince her éey
+böyleydi.<NOD
+Neler oluyor böyle?!?<NOD<END
 
 #0300
 #0301
@@ -80,7 +81,7 @@ Neler oluyor boyle?!?<NOD<END
 #0320
 <PRI<FLJ0880:0001<FL+0880<SOU0022<CNP0320:0021:0000
 <MSG
-Sandik acildi.<NOD<EVE0030
+Sand¡k aç¡ld¡.<NOD<EVE0030
 
 
 #1200

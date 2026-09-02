@@ -1,4 +1,4 @@
-
+ 	
 #0090
 <MNA<CMU0000<FAI0000<END
 #0091
@@ -16,7 +16,7 @@
 <FAO0004<TRA0037:0600:0033:0014
 #0101
 <PRI<MSG
-Disari cikamazsin!<NOD<END
+D¡éar¡ ç¡kamazs¡n!<NOD<END
 #0102
 <FAO0004<TRA0010:0094:0225:0036
 
@@ -30,36 +30,36 @@ Disari cikamazsin!<NOD<END
 <FL+0596<FL+0594<IT-0014<FL-0274
 <FL+0620<FL+0621<MNA<CMU0017<HMC<FON0503:0016<FAI0004
 <WAI0050<MSG<FAC0015
-Yuce Doktor.<NOD
-Tum kirmizi cicek tohumlari
-toplandi.<NOD<CLR
-<FAC0021Guzel.<NOD<CLR
+Yüce Doktor.<NOD
+Tüm k¡rm¡z¡ çiçek tohumlar¡
+topland¡.<NOD<CLR
+<FAC0021Güzel.<NOD<CLR
 Bu arada...<NOD
-Orada acan cicekler...<NOD<CLO
+Orada açan çiçekler...<NOD<CLO
 <WAI0030<ANP0502:0000:0000<WAI0030
 <MSG
-Seytan Cicekleri mi?<NOD<FAC0000<CLO
+Èeytan Çiçekleri mi?<NOD<FAC0000<CLO
 <WAI0030<ANP0502:0000:0002
 <MSG<FAC0015
 Evet, efendim.<NOD<CLR<FAC0021
 Bak sen...<NOD<CLR
-Ne ugursuz bir cicek.
-Hic beklemezdim dogrusu...<NOD<CLR<FAC0015
-Yuce Doktor'um...<NOD
+Ne uèursuz bir çiçek.
+Hiç beklemezdim doèrusu...<NOD<CLR<FAC0015
+Yüce Doktor...<NOD
 Bir tane yemek ister misiniz?<NOD<CLR<FAC0021
-...Hayir, gerek yok.<NOD<CLR
+...Hay¡r, gerek yok.<NOD<CLR
 .....<NOD<CLR
 Peki...<NOD
-Oyleyse bunu
-bir Mimiga uzerinde deneyelim?<NOD<CLR<FAC0016
-Evet, katiliyorum!<NOD<FAC0000<CLO
+Öyleyse bunu
+bir Mimiga üzerinde deneyelim?<NOD<CLR<FAC0016
+Evet, kat¡l¡yorum!<NOD<FAC0000<CLO
 <ANP0502:0030:0000<WAI0050
 <CNP0503:0144:0000<WAI0110
 <MSG
 Uuuh.<WAI0050<NOD<CLR<CNP0503:0060:0000<FAC0006
 .....<NOD<CLR
 Ha?
-Burada mi?<NOD<FAC0000<CLO
+Burada m¡?<NOD<FAC0000<CLO
 <WAI0030<ANP0503:0000:0002<MSG<FAC0008
 Aaaaa!<NOD<FAC0000<CLO
 <ANP0503:0006:0000<CNP0504:0009:0002<WAI0100
@@ -69,15 +69,15 @@ Aaaaa!<NOD<FAC0000<CLO
 Hey!<NOD
 Nereye gidiyorsun?<NOD<FON0506:0016<CLR<FAC0016
 Balrog.<NOD
-Ona kirmizi cicegi yedir.<NOD<CLR<FAC0014<ANP0504:0030:0002
-Anlasildi.<NOD<FAC0000<CLO
+Ona k¡rm¡z¡ çiçeèi yedir.<NOD<CLR<FAC0014<ANP0504:0030:0002
+Anlaé¡ld¡.<NOD<FAC0000<CLO
 <ANP0504:0060:0002<WAI0032
 <ANP0504:0050:0002<WAI0050
 <MSG<FAC0008
-Lutfen yapma!<NOD<CLR
-<FAC0005Ye sunu!<NOD
-YE SUNU!!!<NOD<CLR
-<CMU0000<FAC0000Yeter artik!!<NOD<CLO
+Lütfen yapma!<NOD<CLR
+<FAC0005Ye éunu!<NOD
+YE ÈUNU!!!<NOD<CLR
+<CMU0000<FAC0000Yeter art¡k!!<NOD<CLO
 <FON0505:0016<WAI0030<CMU0018
 <CNP0505:0061:0002<ANP0505:0020:0002<WAI0050<MYD0050
 <ANP0505:0010:0002<WAI0024
@@ -88,22 +88,22 @@ YE SUNU!!!<NOD<CLR
 Toroko, iyi misin?<NOD<CLR<FAC0011
 ...K... King...?<NOD<CLR
 Ooooh...<NOD
-Basim...<NOD<CLR<FAC0007
+Baé¡m...<NOD<CLR<FAC0007
 !!<NOD<CLR
-Hayir!!<NOD<FON0501:0016<CLR
+Hay¡r!!<NOD<FON0501:0016<CLR
 Sen... o Doktorsun!<NOD<FAC0000<CLO
 <WAI0050<MSG<FAC0021
 .....<NOD<CLR
 Elbette.<NOD
 Ben Doktor'um.<NOD<CLR
 Ve yeni lideriniz.<NOD<CLR
-Sonunda tanistik.
+Sonunda tan¡ét¡k.
 Memnun oldum.<NOD<CLR
-Soyle bakalim,
-o kilicinla
-bir sey mi yapacaksin?<NOD<CLR
+Söyle bakal¡m,
+o k¡l¡c¡nla
+bir éey mi yapacaks¡n?<NOD<CLR
 Heh...<NOD<CLR<FAC0007
-Seni oldurecegim!!<NOD<FAC0000<CLO
+Seni öldüreceèim!!<NOD<FAC0000<CLO
 <ANP0505:0010:0002<WAI0040
 <ANP0502:0020:0000<WAI0015
 <ANP0501:0010:0000
@@ -111,18 +111,18 @@ Seni oldurecegim!!<NOD<FAC0000<CLO
 <ANP0505:0030:0000<FON0505:0016
 <DNA0145<CMU0000<WAI0130
 <MSG<FAC0021
-Kirmizi cicegin gucu
-olmadan cok zayiflar!<NOD<CLO<WAI0030<SMC<WAI0030
+K¡rm¡z¡ çiçeèin gücü
+olmadan çok zay¡flar!<NOD<CLO<WAI0030<SMC<WAI0030
 <MSG
 Ooh!<NOD<CLR
-Sen su inatci asker
-yuzeyden gelen!<NOD<FON0501:0016<ANP0501:0020:0000<CLR
-Tam zamaninda geldin.<NOD
-Hepsi senin, benden kucuk bir hediye
-say.<NOD<CLR
-Heh heh, tesekkur etmene
+Sen, yeryüzünden gelen
+éu inatç¡ askersin!<NOD<FON0501:0016<ANP0501:0020:0000<CLR
+Tam zaman¡nda geldin.<NOD
+Hepsi senin.
+Benden küçük bir hediye!<NOD<CLR
+Heh heh, teéekkür etmene
 gerek yok.<NOD
-Hallet sunlari, olur mu?<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
+Hallet éunlar¡, olur mu?<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
 <0CE<CNP0503:0140:0002<BSL0503
 <FOM0016<END
 
@@ -135,24 +135,24 @@ Hallet sunlari, olur mu?<NOD<CLO<ANP0501:0030:0000<WAI0100<CMU0004
 <FON0503:0016<ANP0503:0100:0005
 <WAI0400<CMU0000
 <MSG
-Azgin Toroko yenildi...<WAI0050<NOD<CLO
+Azg¡n Toroko yenildi...<WAI0050<NOD<CLO
 <ANP0503:0140:0005<WAI0150<FOM0016<END
 #0504
 #0505
 <FLJ0622:0601
 <FLJ0623:0600
 <PRI<MSG
-To...<NOD  Toroko...<NOD<END
+To...<NOD Toroko...<NOD<END
 #0506
 #0507
 
 #0600
 <KEY<FL+0622<MSG<FAC0007
 Guuh...<NOD<CLR
-Artik sana yardim edemem...<NOD
-Benim... intikamimi alir misin?<NOD<CLO
+Art¡k sana yard¡m edemem...<NOD
+Benim... intikam¡m¡ al¡r m¡s¡n?<NOD<CLO
 <ANP0505:0040:0005<MYB0000<WAI0100<END
 #0601
 <KEY<FL-0621<DNP0505<AM+0009:0000
 <MSG<GIT0009<CMU0010
-Kilici aldin.<WAI0160<NOD<RMU<END
+K¡l¡c¡ ald¡n.<WAI0160<NOD<RMU<END

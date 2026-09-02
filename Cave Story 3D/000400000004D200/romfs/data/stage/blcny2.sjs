@@ -28,20 +28,19 @@
 
 #0120
 <PRI<FLJ1393:0121<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 #0121
 <KEY<FAO0004<FOM0016<TRA0079:0094:0010:0008
 
 
 #0199
 <PRI<CMU0033<MSG
-Hata ayiklama iyiymis!
-Ilerisi hala yapim asamasinda
-...<NOD<RMU<END
+Hata ay¡klamada iyi ié ç¡kard¡n!
+Ílerisi hâlâ yap¡m aéamas¡nda...<NOD<RMU<END
 
 #0200
 <KEY<MYD0000<DNP0200<MSG
-Buradan sonrasi dusus!<NOD<END
+Buradan sonras¡ uçurum!<NOD<END
 
 #0201
 <PRI<MSG<TUR
@@ -68,24 +67,23 @@ Yolun sonu!<NOD<END
 
 
 #0300
-0CS<KEY<HMC<FON0300:0016
+<0CS<KEY<HMC<FON0300:0016
 <WAI0080<ANP0299:0020:0002
 <SPS<WAI0020
 <MSG
-Helikopter hazir!<NOD<CLO<FAI0001<WAI0050
+Helikopter haz¡r!<NOD<CLO<FAI0001<WAI0050
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
 <MSG<FAC0028
-Yakit yeterli.
-Istedigimiz an kalkabiliriz!<NOD<CLR
+Yak¡t yeterli.
+Ístedièimiz an kalkabiliriz!<NOD<CLR
 Ha ha...<NOD<CLR
-Yuzeye sag salim
-donebilecegimizi
-hic sanmazdim...<NOD<CLO<FAC0000
+Yeryüzüne saè salim
+dönebileceèimizi hiç düéünmezdim...<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
 <MSG<FAC0022
-Su cocuklar
-acaba guvende mi...<NOD<CLO
+Acaba o çocuklar
+güvende mi...<NOD<CLO
 <FAC0000<WAI0016
 <QUA0010
 <ANP0290:0003:0000
@@ -97,8 +95,7 @@ acaba guvende mi...<NOD<CLO
 <ANP0290:0000:0000
 <MSG<FAC0028
 Deprem mi?!?<NOD<CLR<FAC0022
-Bir sey oldu
-cekirdege!<NOD<CLO
+Çekirdeèe bir éey oldu!<NOD<CLO
 <FAO0003<FOM0016<CPS<MYD0002<TRA0068:0600:0024:0013
 <END
 
@@ -109,10 +106,10 @@ cekirdege!<NOD<CLO
 <KEY<MYD0000<CMU0018<FL-1190<FL-1191<FL+1192<FAI0000
 <ANP0305:0011:0002
 <ANP0280:0010:0000
-<FON0305:0016MS3<FAC0003
+<FON0305:0016<MS3<FAC0003
 Bu taraftan!<NOD
-Yeterince hizli kosmazsan
-ezilirsin!<NOD<FON0280:0016<CLO
+Yeterince h¡zl¡ koémazsan
+ezileceksin!<NOD<FON0280:0016<CLO
 <ANP0305:0030:0000<WAI0060
 <DNP0305<FL-1391<END
 #0320Su-2
@@ -121,15 +118,15 @@ ezilirsin!<NOD<FON0280:0016<CLO
 <KEY<DNP0330<MYD0000<ANP0320:0000:0002
 <WAS<WAI0050
 <FON0320:0016<MSG<FAC0001
-Hayir!
-Cikmaz sokak!<NOD
-Atlamak zorundayiz!<NOD<CLR
-Taslarin altinda
+Hay¡r!
+Ç¡kmaz sokak!<NOD
+Atlamak zorunday¡z!<NOD<CLR
+Taélar¡n alt¡nda
 kalmak istemiyorum!<NOD<CLR
 Yapabilir misin?!?<NOD
 Hadi!
-Ne kadar uzaga
-ziplayabilirsen zipla!<NOD<CLO<KEY
+Ne kadar uzaèa
+z¡playabilirsen z¡pla!<NOD<CLO<KEY
 <ANP0320:0000:0000<WAI0050
 <ANP0320:0030:0000<WAI0012
 <ANP0320:0040:0000<WAI0050
@@ -143,11 +140,11 @@ ziplayabilirsen zipla!<NOD<CLO<KEY
 <FON0500:0016<MOV0020:0030
 <DNP0307<DNP0280
 <WAI0100<FAI0004
-<MSG0CS<FAC0022
-Ada... dusuyor...<NOD<CLR<FAC0028
-Daha fazla beklemek
-cok tehlikeli!<NOD<CLR
-Hemen GITMELIYIZ!<NOD<CLO<FAO0004<ENT0000
+<MSG<0CS<FAC0022
+Ada... düéüyor...<NOD<CLR<FAC0028
+Art¡k beklemek
+çok tehlikeli!<NOD<CLR
+HEMEN GÍTMELÍYÍZ!<NOD<CLO<FAO0004<ENT0000
 <CMU0035<TRA0049:1200:0098:0006
 
 #0500

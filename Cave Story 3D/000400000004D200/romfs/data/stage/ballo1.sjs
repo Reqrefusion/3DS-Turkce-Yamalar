@@ -27,39 +27,38 @@
 #0500
 <DNP0500<MYD0002
 <0CS<KEY<MSG
-Hos geldin!<NOD<CLR
+Hoé geldin!<NOD<CLR
 <FAC0029Ben Ballos'um.<NOD<CLR
-Cok, cok once, buyu gucune
-olan hirsimin
-cezasindan korkmadan<NOD 
-kontrolsuzce buyumesine izin verdim.<NOD<CLR
-Oyle guclu bir buyuydu ki
-kendi efendisi bile
-onu dizginleyemedi...<NOD<CLR
-Bu guc oylesine azgin ve
-durdurulamazdi ki...<NOD
-...atesi yuttu
-beni seven cocugu,<NOD ve
-beni seven karimi...<NOD<CLR
-Onlar alevlerinde boguldu
-ve korkunc aci cekti.<NOD
-...Hepsi bencil
-hatam yuzunden.<NOD
-Gozlerim acik kaldi ve
-o alevli dehsetten
-bakisimi ceviremedim...<NOD 
-Kendi buyumun eseri.<NOD<CLR
-O an sadece gulebildim...<NOD<CLR
-Jenka beni muhurledi. Ama
-buyum her dakika
-daha da kudurdu.<NOD<CLR
-Bunu uzun zamandir bekledim...<NOD<CLR
-Bu muazzam buyu ofkesine
-son verecek kisiyi
-bekledim...<NOD<CLR
-Simdi, oldur beni!<NOD
+Çok, çok uzun zaman önce,
+büyü gücüne olan h¡rs¡m¡n,
+cezas¡n¡ düéünmeden<NOD 
+dizginsizce büyümesine izin verdim.<NOD<CLR
+Öyle güçlü bir büyüydü ki
+onu yaratan ben bile
+kontrol edemiyordum...<NOD<CLR
+Bu güç öylesine vahéi ve
+durdurulamazd¡ ki...<NOD
+...alevleri bana hayran olan
+çocuèu yuttu,<NOD ve
+beni seven eéimi...<NOD<CLR
+Alevlerin içinde kald¡lar ve
+korkunç ac¡lar çektiler.<NOD
+...Hepsi benim bencilce
+günah¡m yüzünden.<NOD
+Gözlerimi ay¡ramad¡m;
+o alevli dehéeti
+seyretmek zorunda kald¡m...<NOD 
+Kendi büyümün eseri.<NOD<CLR
+O an yapabildièim tek éey gülmekti...<NOD<CLR
+Jenka beni mühürledi;
+o s¡rada büyüm her geçen dakika
+daha da éiddetleniyordu.<NOD<CLR
+Bunu çok uzun zamand¡r bekliyordum...<NOD<CLR
+Büyümün korkunç öfkesine
+son verecek kiéiyi...<NOD<CLR
+Èimdi, öldür beni!<NOD
 Yoksa--<NOD<CLR
-SENI OLDURURUM!!!<NOD<CLO
+SENÍ ÖLDÜRÜRÜM!!!<NOD<CLO
 <0CE<CMU0004
 <ANP0402:0100:0900<FON0402:0016
 <BSL0900<ANP0900:0010:0000<END

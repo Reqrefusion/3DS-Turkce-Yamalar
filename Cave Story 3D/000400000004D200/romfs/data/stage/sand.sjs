@@ -30,7 +30,8 @@
 
 #0100
 <KEY<MSG
-Arthur'un evine isinlan?<YNJ0000<CLO
+Arthur'un evine
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -60,11 +61,11 @@ Arthur'un evine isinlan?<YNJ0000<CLO
 
 #0150
 <PRI<MSG<TUR
-                 Jenka'nin Evi<NOD<END
+                 Jenka'n¡n Evi<NOD<END
 
 #0151
 <PRI<MSG<TUR            
-             DOGU Kum Bolgesi Deposu<NOD<END
+             Kum Bölgesi Deposu: DOÒU<NOD<END
 
 
 
@@ -75,22 +76,22 @@ Arthur'un evine isinlan?<YNJ0000<CLO
 #0202
 <KEY<MYD0002<DNP0200<FMU<FON0201:0016<WAI0100
 <MS3
-Su Balrog!
-Yine bir pot kirdi...<CMU0000<NOD<CLO
+Èu Balrog!
+Yine bir pot k¡rd¡...<CMU0000<NOD<CLO
 <CNP0206:0067:0000<WAI0010<WAI0090
 <ANP0206:0013:0000
 <MS3<FAC0015
 Hm...<NOD<CLR
 Epey cesursun.<NOD<CLR
 Ama...
-Buraya kadar gelmen
-biraz bas belasi.<NOD<CLR<FAC0016
-Beni mi deneyeceksin?<NOD<CLO<FAC0000
+Buraya kadar gelmié olman
+biraz can s¡k¡c¡.<NOD<CLR<FAC0016
+Benimle kap¡émak m¡ istiyorsun?<NOD<CLO<FAC0000
 <QUA0050<WAI0020
 <MS3
 ?!<WAI0050<NOD<CLR<FAC0015
 Oh, gerek
-kalmayacak gibi, gorusuruz!<NOD<CLO<ANP0206:0020:0000
+kalmayacak gibi, görüéürüz!<NOD<CLO<ANP0206:0020:0000
 <BOA0020<CMU0007<BSL0000
 <CMP0210:0010:0033<CMP0210:0011:0033<END
 #0201
@@ -106,7 +107,7 @@ kalmayacak gibi, gorusuruz!<NOD<CLO<ANP0206:0020:0000
 <KEY<WAI0250<CMU0000
 <MS3<CMU0015
 Omega yenildi!<WAI0160<NOD<CLR
-Gunes Taslarinin laneti kalkti.<NOD<CLO
+Güneé Taélar¡n¡n laneti kalkt¡.<NOD<CLO
 <FOM0016<CMU0006
 <CMP0210:0010:0000<CMP0210:0011:0000
 <END
@@ -157,58 +158,58 @@ Kilitli...<NOD<END
 
 #0350
 <PRI<MSG
-Lanetlenmis...<NOD<END
+Lanetlenmié...<NOD<END
 
 #0360
 <PRI<MSG<TUR
-Kum Bolgesi'nde bazi duvarlarin
-icinden kolayca gecebilirsin.
-Duvarlardaki isaretleri ara.<NOD<END
+Kum Bölgesi'nde baz¡ duvarlar¡n
+içinden kolayca geçebilirsin.
+Duvarlardaki iéaretleri ara.<NOD<END
 
 #0401
 <PRI<MSG
 ZZZzzz...<NOD<ITJ0014:0410<CLR
-Onu da yanina almak ister misin?<YNJ0000<CLR
-<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014Kopegi yanina aldin.<NOD<FL+0274<CLO
+Onu da yan¡na almak ister misin?<YNJ0000<CLR
+<CNP0401:0136:0000<FL+0275<GIT1014<IT+0014Köpeèi yan¡na ald¡n.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL-3003<FL+3004
 <END
 #0402
 <PRI<MSG<SOU0105
 Hav!<NOD<ITJ0014:0410<CLR
-Onu da yanina almak ister misin?<YNJ0000<CLR
-<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Kopegi yanina aldin.<NOD<FL+0274<CLO
+Onu da yan¡na almak ister misin?<YNJ0000<CLR
+<CNP0402:0136:0000<FL+0276<GIT1014<IT+0014Köpeèi yan¡na ald¡n.<NOD<FL+0274<CLO
 <FL-3000<FL-3001<FL-3002<FL+3003<FL-3004
 <END
 #0410
 <PRI<MSG
-Ikisini birden yanina alamazsin.<NOD<END
+Íkisini birden yan¡na alamazs¡n.<NOD<END
 #0411
 <DNP0411<END
 #0412
 <PRI<SOU0022<CNP0412:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<GIT1014<CNP0412:0130:0000<CLR
-Bu bir kopek...<NOD<ITJ0014:0413<CLR
-<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Kopegi aldin.<WAI0160<NOD<RMU<CLO
+Hazine sand¡è¡n¡ açt¡n.<NOD<GIT1014<CNP0412:0130:0000<CLR
+Bu bir köpek...<NOD<ITJ0014:0413<CLR
+<CNP0412:0136:0000<FL+0279<GIT1014<IT+0014<CMU0010Köpeèi ald¡n.<WAI0160<NOD<RMU<CLO
 <FL-3000<FL+3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0413
 <PRI<MSG
-Ikisini birden yanina alamazsin.<NOD<CNP0412:0015:0000<END
+Íkisini birden yan¡na alamazs¡n.<NOD<CNP0412:0015:0000<END
 
 
 
 #0500
 <PRI<DNP0500<SOU0022<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0005
-Maksimum can 5 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 
 #0501
 <PRI<DNP0501<SOU0022<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0005
-Maksimum can 5 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 
 
 #1200

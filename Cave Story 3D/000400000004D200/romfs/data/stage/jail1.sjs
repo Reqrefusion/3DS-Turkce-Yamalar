@@ -26,32 +26,32 @@ Mmm...glup!<NOD<CLR
 !<NOD<CLO
 <MYB0000<ANP0200:0002:0004<WAI0030<MYD0000<FL+1080<FL-1025<FL+1026
 <MSG
-Oh, uyandin.<NOD<CLR
-Seni coktan olmus sanmistim.
+Oh, uyand¡n.<NOD<CLR
+Seni çoktan ölmüé sanm¡ét¡m.
 Sue sana vururdu da sen
-kipirdamazdin bile.<NOD<CLR
-Burasi hapishane.<NOD
-Doktor'a karsi gelenler
-buraya kapatilir...<NOD
-Onun suren deneylerinde
-denege cevrilir.<NOD<CLR
-...Sue oyle dedi.<NOD<CLR
-Onun arkadasi misin?<NOD
-Biraz gec kaldin.<NOD
-O da buradaydi...<NOD<CLR
-Senin icin cok endiselendi.<NOD
-Daha birkac dakika once
-goturduler.<NOD<EVE0209
+k¡p¡rdamazd¡n bile.<NOD<CLR
+Buras¡ hapishane.<NOD
+Doktor'a karé¡ gelenler
+buraya kapat¡l¡r...<NOD
+Süren deneylerinde
+deneèe çevrilmek üzere.<NOD<CLR
+...Sue öyle dedi.<NOD<CLR
+Onun arkadaé¡ m¡s¡n?<NOD
+Biraz geç kald¡n.<NOD
+O da buradayd¡...<NOD<CLR
+Senin için çok endiéelendi.<NOD
+Daha birkaç dakika önce
+götürdüler.<NOD<EVE0209
 
 #0201
 <MSG<FL+1081
 Ha, bu arada.<NOD<CLR
-Goturulurken cebine bir sey
-sokusturdu.<NOD<CMP0024:0016:0066<EVE0209
+Götürülürken cebine bir éey
+sokuéturdu.<NOD<CMP0024:0016:0066<EVE0209
 
 #0202
 <KEY<MSG
-Ne, ask mektubu falan mi aldin?<NOD<CMP0024:0016:0066<EVE0209
+Ne, aék mektubu falan m¡ ald¡n?<NOD<CMP0024:0016:0066<EVE0209
 
 #0209
 <KEY<ANP0200:0000:0002<END
@@ -62,7 +62,7 @@ Ne, ask mektubu falan mi aldin?<NOD<CMP0024:0016:0066<EVE0209
 <MSG<SOU0070
 Hey!<NOD<CLR
 <SOU0070HEY SEN!!!<NOD<CLR
-Oldun mu yoksa?<NOD<CLR
+Öldün mü yoksa?<NOD<CLR
 .....<NOD<CLO
 <WAI0050<IT+0026<WAI0050<MNA<CMU0008<FAI0004<WAI0050<SMC<DNP0221<END
 #0221

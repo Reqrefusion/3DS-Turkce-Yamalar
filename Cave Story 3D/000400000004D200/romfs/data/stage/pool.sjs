@@ -34,11 +34,11 @@
 Sue?<NOD<CLR
 Evet, Sue!<NOD<CLR
 Hani hep Arthur'un evinde
-saklanan o tatli kiz?<NOD
-Gecenlerde Mimiga Koyu'ne geldi.<NOD
-Oradaki su deposuna dustu.<NOD
-Bizi pek sevdigini sanmiyorum.<NOD
-Koyde herkesten nefret ediyor gibi,
+saklanan o tatl¡ k¡z?<NOD
+Geçenlerde Mimiga Köyü'ne geldi.<NOD
+Oradaki rezervuara düétü.<NOD
+Bizi pek sevdièini sanm¡yorum.<NOD
+Köyde herkesten nefret ediyor gibi,
 ama o da bir Mimiga,<NOD
 bizim gibi...<NOD<END
 
@@ -48,8 +48,8 @@ bizim gibi...<NOD<END
 
 <DNP0300
 <MSG
-Bir sey parlak parliyor...<NOD<CLR<CMU0010<GIT1004<IT+0004
-Gumus Madalyon alindi.<WAI0160<NOD<CNP0402:0060:0000<CLO
+Bir éey ¡é¡l ¡é¡l parl¡yor...<NOD<CLR<CMU0010<GIT1004<IT+0004
+Gümüé Kolye al¡nd¡.<WAI0160<NOD<CNP0402:0060:0000<CLO
 <RMU<END
 
 

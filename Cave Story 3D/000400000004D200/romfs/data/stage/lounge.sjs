@@ -26,24 +26,24 @@
 <FLJ1121:0203
 <ITJ0028:0202
 <MSG
-Bunlar fiskiye.<NOD
-Sik sik bozuluyorlar.
-O yuzden yedeklerini hep
+Bunlar f¡skiyeler.<NOD
+S¡k s¡k bozuluyorlar.
+O yüzden yedeklerini hep
 etrafta bulunduruyoruz.<NOD<END
 
 #0202
 <KEY<MSG<FL+1121
 Yine bozuldu...<NOD<CLR<GIT1028<IT-0028
-Bozuk Fiskiye'yi verdin.<NOD<GIT0000
+Bozuk F¡skiye'yi verdin.<NOD<GIT0000
 <KEY<MSG
 Bunu daha dikkatli kullan.<NOD<DNP0280<GIT1029<IT+0029<CLR
-<CMU0010Fiskiye alindi.<WAI0160<NOD<RMU<END
+<CMU0010F¡skiye al¡nd¡.<WAI0160<NOD<RMU<END
 
 #0203
 <KEY<MSG
-Gercekten de yetistirmemiz gereken
-son tohumlar bunlar mi?<NOD
-Fiskiye zaten zor yetti...<NOD<END
+Gerçekten de yetiétirmemiz gereken
+son tohumlar bunlar m¡?<NOD
+F¡skiye zaten zor yetti...<NOD<END
 
 
 #0210
@@ -54,21 +54,21 @@ Fiskiye zaten zor yetti...<NOD<END
 
 #0211
 <MSG
-Evet, yeryuzu robotlari bu adaya
-saldirmisti.<NOD
-Hatta o zaman bazi arkadaslarim
-olduruldu...<NOD
-Yine de o robotlardan bazilari
-bizi anliyor gibiydi.<NOD
-Bence o robotlarin da kalbi,
-ruhu vardi...<NOD<END
+Evet, yeryüzünden gelen robotlar
+bu adaya sald¡rm¡ét¡.<NOD
+Hatta o zaman baz¡ arkadaélar¡m
+öldürüldü...<NOD
+Yine de o robotlardan baz¡lar¡
+bizi anl¡yor gibiydi.<NOD
+Bence o robotlar¡n da kalbi,
+ruhu vard¡...<NOD<END
 
 #0212
 <MSG
-Kahrolasi Doktor!<NOD<CLR
-Bu kadar kucuk bir cocugu
-zorla almaya nasil curet eder!?!<NOD
-Keske biraz daha genc olsaydim...<NOD
+Kahrolas¡ Doktor!<NOD<CLR
+Bu kadar küçük bir çocuèu
+zorla almaya nas¡l cüret eder!?!<NOD
+Keéke biraz daha genç olsayd¡m...<NOD
 Ne sinir bozucu...<NOD<END
 
 #0220
@@ -76,9 +76,9 @@ Ne sinir bozucu...<NOD<END
 <EVE0299
 #0221
 <MSG
-O Doktora guvenmiyorum!<NOD<CLR
-Robotlar mi?!?
-BOS VER!!!<NOD
+O Doktora güvenmiyorum!<NOD<CLR
+Robotlar m¡?!?
+UMURUMDA DEÒÍL!!!<NOD
 Zerre kadar korkmuyorum...<NOD<END
 
 #0230
@@ -86,20 +86,20 @@ Zerre kadar korkmuyorum...<NOD<END
 <EVE0299
 #0231
 <MSG
-Bitmisim...<NOD<END
+Bitmiéim...<NOD<END
 
 #0250
 <KEY<MYB0000<MSG
 Hey...<NOD<CLR
-Daha once bir yerde karsilasmadik
-mi?<NOD
-Mimiga Koyu'nde olmali.<NOD
-O cadi Misery beni buraya getirdi...<NOD
-...Ciftciligi hic sevmem.<NOD<CLR
-Biraz balik tutup
-kafami dagitacagim.<NOD<CLR
-Balik tutmayi sever misin?<NOD
-Bir daha firsat olursa,
+Daha önce bir yerde karé¡laémad¡k
+m¡?<NOD
+Mimiga Köyü'nde olmal¡.<NOD
+O cad¡ Misery beni buraya getirdi...<NOD
+...Çiftçilièi hiç sevmem.<NOD<CLR
+Biraz bal¡k tutup
+kafam¡ daè¡tacaè¡m.<NOD<CLR
+Bal¡k tutmay¡ sever misin?<NOD
+Bir daha f¡rsat olursa,
 yine denk gelir miyiz?<NOD<CLO
 <ANP0250:0010:0002<WAI0030<MYD0002<WAI0080
 <ANP0250:0000:0002<WAI0020

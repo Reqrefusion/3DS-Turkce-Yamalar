@@ -18,14 +18,14 @@
 
 #0200
 <KEY<SKJ0005:0091<0CS<PRI<CMU0000<MSG
-Birinin iletimi...<NOD<CLO<FL+0430<TRA0018:0500:0002:0000
+Bir yerden mesaj geliyor...<NOD<CLO<FL+0430<TRA0018:0500:0002:0000
 
 #0527
 <DNP0527<SKJ0022:0000<SK+0022
 <0CS<PRI<MS3
-+Kontrol Pad'inde Asagi bas
-Kayit Noktalarini ac, esya topla
-ve kapilardan gir.<NOD<END
++Kontrol Düèmesi'nde Aéaè¡'ya basarak
+Kay¡t Noktalar¡n¡ kullanabilir, eéya
+toplayabilir ve kap¡lardan geçebilirsin.<NOD<END
 
 #1000
 <END

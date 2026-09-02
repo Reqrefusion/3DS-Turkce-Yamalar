@@ -19,7 +19,7 @@
 <SOU0011<ANP0100:0000:0002<FAO0000<MYD0000<TRA0043:0090:0016:0013
 #0101
 <PRI<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 
 #0110
 <FLJ0764:0111<END
@@ -30,14 +30,14 @@ Acilmiyor!<NOD<END
 
 #0200
 <PRI<FLJ0201:0201<MSG
-Bu sandigin ustunde bir lanet var,
-acilmasini engelliyor...<NOD<END
+Bu sand¡è¡n üstünde bir lanet var,
+aç¡lmas¡n¡ engelliyor...<NOD<END
 #0201
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
 <SOU0022<CNP0200:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<CLR<TAM0005:0010:0000
-<CMU0010<GIT0010Fuzeler guclendi!<WAI0160<NOD<RMU<END
+Hazine sand¡è¡n¡ açt¡n.<NOD<CLR<TAM0005:0010:0000
+<CMU0010<GIT0010Füzeler güçlendi!<WAI0160<NOD<RMU<END
 
 #0300
 <KEY
@@ -45,34 +45,34 @@ Hazine sandigini actin.<NOD<CLR<TAM0005:0010:0000
 <FLJ0762:0302
 <FLJ0761:0301
 <FL+0761<MSG<FAC0019<0CS
-Basardin!<NOD
-Seni buraya gelmen icin
-bunca zamandir bekliyordum.<NOD<CLR
-Su kayayi oynatirsak
-labirent cikisina
+Baéard¡n!<NOD
+Bunca zamand¡r
+buraya gelmeni bekliyordum.<NOD<CLR
+Èu kayay¡ oynat¡rsak
+labirent ç¡k¡é¡na
 devam edebiliriz.<NOD<CLR
-Soylentiye gore ileride
-bir yaratigin ini var.<NOD
-Her seye hazirlikli ol.<NOD<CLR
-O zaman su
-kayayi kenara cekelim.<NOD
-Sen su ucundan tut, sonra...<NOD<CLO
+Söylentiye göre ileride
+bir yarat¡è¡n ini var.<NOD
+Her éeye haz¡rl¡kl¡ ol.<NOD<CLR
+O zaman éu
+kayay¡ kenara çekelim.<NOD
+Sen éu ucundan tut, sonra...<NOD<CLO
 <ANP0300:0020:0000<0CE<END
 #0301
 <KEY<ANP0300:0000:0000
 <MSG<FAC0019
 Ne oldu?<NOD
-Korkaklik yapmiyorsun,
-degil mi?<NOD<CLR
-Tabii ki hayir, degil mi!<NOD
-Hadi, su ucu tut.<NOD<ANP0300:0020:0000<END
+Korkakl¡k yapm¡yorsun,
+deèil mi?<NOD<CLR
+Tabii ki korkmuyorsun!<NOD
+Hadi, éu ucu tut.<NOD<ANP0300:0020:0000<END
 #0302
 <PRI<MSG
-Bayildi.<NOD<END
+Bay¡ld¡.<NOD<END
 #0303
 <PRI<MSG<FAC0019
-SIMDI!<NOD<CLR
-Hadi, inine!<NOD<END
+ÈÍMDÍ!<NOD<CLR
+Hadi, yarat¡è¡n inine gidelim!<NOD<END
 
 
 #0310
@@ -101,12 +101,12 @@ Uff!<NOD<CLO<FAC0000
 .....<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
 <MSG<FAC0025
-Hic kipirdamiyor.<NOD
+Hiç k¡p¡rdam¡yor.<NOD
 Belki de sadece ikimizle
-oynatmak imkansiz...<NOD<FAC0000<CLO
+oynatmak imkâns¡z...<NOD<FAC0000<CLO
 <WAI0050<0CE
 <MSG
-Oh Yeaaah!!<CMU0000<NOD<CLO
+Oleyyy!!<CMU0000<NOD<CLO
 <CNP0310:0009:0002<WAI0100<0CS
 <CNP0310:0012:0002
 <ANP0310:0030:0002<CMU0011
@@ -114,19 +114,17 @@ Oh Yeaaah!!<CMU0000<NOD<CLO
 <MSG<FAC0019
 Hey, sensin!<NOD<CLR<FAC0014
 Heh heh.<NOD<CLR
-Demek hala yasiyorsun!<NOD<CLR
-Ustune ustluk siz ikiniz
+Demek hâlâ yaé¡yorsun!<NOD<CLR
+Üstüne üstlük siz ikiniz
 Labirent'ten
-kacmaya calisiyorsunuz!<NOD<CLR
-Dinlenmen gerekmez mi,
-kacmaya calisacagina,
-ha?<NOD<CLR
-Unutma, efendiye
-benim kadar bile
-karsi gelemezsin.<NOD<CLR
-Peki oyleyse!<NOD
-Ben de bitiriyorum!<NOD<CLR
-Diger hurda metallerle
+kaçmaya çal¡é¡yorsunuz!<NOD<CLR
+Kaçmaya çal¡éacaè¡na
+dinlensen daha iyi deèil mi, ha?<NOD<CLR
+Unutma, efendiye sen de
+benim gibi karé¡ gelemezsin.<NOD<CLR
+Peki öyleyse!<NOD
+Bu iéi burada bitiriyorum!<NOD<CLR
+Dièer hurda metallerle
 burada kal.<NOD<CLR<FAC0019
 Oh, harika!<NOD
 Ortadan tutabilirsin...<NOD<FAC0000<CLO<CMU0000
@@ -135,9 +133,9 @@ Ortadan tutabilirsin...<NOD<FAC0000<CLO<CMU0000
 <ANP0310:0050:0002<WAI0020
 <ANP0300:0020:0000<WAI0020
 <MYD0002<MYD0003<MSG<FAC0019
-Hazir misin?!<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0023
-SIZ IKISI BENI DINLIYOR
-MUSUNUZ!?!?!?!?<0CE<NOD
+Haz¡r m¡s¡n?!<NOD<ANP0310:0080:0000<MYB0002<ANP0300:0030:0000<SOU0072<CLR<FAC0023
+SÍZ ÍKÍNÍZ BENÍ HÍÇ
+DÍNLÍYOR MUSUNUZ!?!?!?!?<0CE<NOD
 <ANP0310:0000:0000<0CE<CMU0004<CNP0310:0169:0000<BSL0310
 <FL+0762<FL+0763
 <END
@@ -153,21 +151,21 @@ MUSUNUZ!?!?!?!?<0CE<NOD
 <FLJ0762:0502
 <FLJ0761:0501
 <MSG
-Kocaman, agir bir kaya.<NOD<CLR
-Kocaman kayanin arkasindan
+Kocaman, aè¡r bir kaya.<NOD<CLR
+Kocaman kayan¡n arkas¡ndan
 bir esinti geliyor.<NOD
-Tek kisinin
-tek basina oynatmasi imkansiz.<NOD<END
+Tek kiéinin
+tek baé¡na oynatmas¡ imkâns¡z.<NOD<END
 #0501
 <KEY<WAI0010
 <ANP0300:0000:0000
 <MSG<FAC0020
-Biraz daha uca
-tutamaz misin?<NOD<CLO
+Biraz daha uca yak¡n
+tutamaz m¡s¡n?<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
 <PRI<MSG
-Kocaman, agir bir kaya.<NOD<END
+Kocaman, aè¡r bir kaya.<NOD<END
 
 #0510
 #0511
@@ -180,16 +178,16 @@ Kocaman, agir bir kaya.<NOD<END
 <FAI0004
 <MSG<FAC0005
 Yine yenildi...<NOD<CLR
-Kayayi sizin icin oynatacagim.<NOD
-Ama karsiliginda...<NOD<ANP0330:0000:0000<CLR
-Size yardim ettigimi
+Kayay¡ sizin için oynatacaè¡m.<NOD
+Ama karé¡l¡è¡nda...<NOD<ANP0330:0000:0000<CLR
+Size yard¡m ettièimi
 kimse bilmesin.<NOD<CLR<FAC0019
 Merak etme!<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000
 <MSG<FAC0019
-Hadi bakalim!<NOD<CLO<FAC0000
+Hadi bakal¡m!<NOD<CLO<FAC0000
 <ANP0500:0010:0000<WAI0100
 <ANP0330:0080:0002
 <ANP0300:0000:0002
@@ -197,12 +195,12 @@ Hadi bakalim!<NOD<CLO<FAC0000
 <FAC0023NNNNgg!!!<WAI0050<CLO<FAC0000
 <ANP0330:0000:0002
 <WAI0100<MSG<FAC0005
-Anlastik mi?<ANP0300:0000:0000<NOD
-Size yardim etmem.
+Anlaét¡k m¡?<ANP0300:0000:0000<NOD
+Size yard¡m ettièimi...
 ARAMIZDA KALSIN!<NOD<CLR<FAC0019
 Tamam!<NOD<CLO<FAC0000<ANP0330:0010:0000
 <WAI0160<CNP0200:0015:0002<WAI0040
 <MSG<FAC0019
-Belki de gercekten
-iyi adamlardandir.<NOD<CLO
+Belki de gerçekten
+iyi adamlardand¡r.<NOD<CLO
 <FL+0781<FL+0765<CNP0016:0016:0002<END

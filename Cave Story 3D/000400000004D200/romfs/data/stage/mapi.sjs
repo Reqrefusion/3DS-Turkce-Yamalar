@@ -19,7 +19,7 @@
 <FAO0004<TRA0016:0094:0032:0002
 #0101
 <PRI<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 
 
 #0400
@@ -27,29 +27,29 @@ Acilmiyor!<NOD<END
 <FLJ1563:0420
 <FLJ1562:0411
 <FLJ1561:0403<MSG
-Benimle isin mi var?<YNJ0401<FLJ1044:0402<CLR
-Hah, hadi canim!<NOD<CLR
-Benden isin falan yok!<NOD<END
+Benimle iéin mi var?<YNJ0401<FLJ1044:0402<CLR
+Hah, hadi can¡m!<NOD<CLR
+Benimle iéin falan yok!<NOD<END
 
 #0401
 <KEY<MSG
 Heh heh.
-Gorusuruz.<NOD<END
+Görüéürüz.<NOD<END
 
 #0402
 <KEY<FL+1561<MSG
-Hm, hafiza kaybi mi?<NOD
-Kotuymus.<NOD<EVE0403
+Hm, haf¡za kayb¡ m¡?<NOD
+Kötüymüé.<NOD<EVE0403
 #0403
 <KEY<MSG
 Mantar Rozeti ister misin?<YNJ0408<EVE0404<END
 
 #0404
 <KEY<MSG
-Ama o zaman sana lazim degil ki?<YNJ0405<EVE0408
+Ama o zaman sana laz¡m deèil ki?<YNJ0405<EVE0408
 #0405
 <KEY<MSG
-Dur... gercekten istiyor musun?<YNJ0409<EVE0406
+Dur... gerçekten istiyor musun?<YNJ0409<EVE0406
 #0406
 <KEY<MSG
 Ne olursa olsun istiyorsun yani?<YNJ0409<EVE0407
@@ -59,15 +59,15 @@ O zaman istemiyorsun?<YNJ0410<EVE0409
 
 #0408
 <KEY<MSG
-Ha, anladim.<NOD<END
+Ha, anlad¡m.<NOD<END
 #0409
 <KEY<MSG
-Lazim degil yani...<NOD<END
+Laz¡m deèil yani...<NOD<END
 
 #0410
 <KEY<MSG
-Peki. Al bakalim.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
-<CMU0010Mantar Rozeti alindi.<WAI0160<NOD<RMU<END
+Peki. Al bakal¡m.<NOD<CLR<GIT1033<IT+0033<FL+1562<CLR
+<CMU0010Mantar Rozeti al¡nd¡.<WAI0160<NOD<RMU<END
 
 #0411
 <KEY<MSG
@@ -75,17 +75,17 @@ NEEEEE?!<NOD<END
 
 #0420
 <KEY<MSG
-Aah!<NOD
-Yakaladin!<NOD<CLR
-O sadece siradan bir rozet.<NOD<CLR
+Ahh!<NOD
+Yakalad¡n!<NOD<CLR
+O sadece s¡radan bir rozet.<NOD<CLR
 .....<NOD<CLR
 Ne dedin?!?<NOD
-Beni yiyecegini mi soyluyorsun?!<NOD<CLR
-Ben cok, cok degerli bir mantarim!
-Ustelik bu magaradaki tekim!<NOD<CLR
-Tuh!<NOD
+Beni yiyeceèini mi söylüyorsun?!<NOD<CLR
+Ben çok, çok deèerli bir mantar¡m!
+Üstelik bu maèaradaki tekim!<NOD<CLR
+Tüh!<NOD
 Bir an bile sanma ki
-dovusmeden beni yiyebileceksin!<NOD<CLR<CMU0004
+dövüémeden beni yiyebileceksin!<NOD<CLR<CMU0004
 HADI BAKALIM!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
@@ -96,5 +96,5 @@ HADI BAKALIM!!<NOD<CLO<FL+1564
 <KEY<CMU0000<ANP0500:0500:0005<WAI0150
 <MSG
 Ben... yenildim.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
-<CMU0010Ma Pignon alindi.<WAI0160<NOD<RMU<END
+<CMU0010Ma Pignon al¡nd¡.<WAI0160<NOD<RMU<END
 

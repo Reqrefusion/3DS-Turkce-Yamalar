@@ -20,16 +20,16 @@
 #0200
 <KEY<FLJ1290:0201<FL+1290<MSG
 Hey.<NOD<CLR
-Bu cok tuhaf.
-Sen yuzeyden bir askersin,
-degil mi?<NOD
-Sarisin arkadasin nerede?<NOD<CLR
+Bu çok tuhaf.
+Sen yeryüzünden bir askersin,
+deèil mi?<NOD
+Sar¡é¡n arkadaé¡n nerede?<NOD<CLR
 .....<NOD<CLR
 Ne?
-Hafizani mi kaybettin?
+Haf¡zan¡ m¡ kaybettin?
 Heh heh...<NOD<END
 #0201
 <KEY<MSG
-Pekala, piller bitene kadar
-ortalikta dolas o zaman.<NOD<END
+Pekâlâ, piller bitene kadar
+ortal¡kta dolaé o zaman.<NOD<END
 

@@ -29,7 +29,7 @@
 <SOU0011<ANP0110:0000:0002<FAO0002<TRA0046:0150:0003:0009
 #0112
 <PRI<MSG
-Acilmiyor...<NOD<END
+Aç¡lm¡yor...<NOD<END
 
 #0300
 #0301
@@ -46,8 +46,8 @@ Acilmiyor...<NOD<END
 
 #0330
 <PRI<FLJ0782:0331<MSG
-Bir dugme var.<NOD<SOU0043<CLR<MSG
-Basiyorsun.<NOD<CLO
+Bir düème var.<NOD<SOU0043<CLR<MSG
+Bas¡yorsun.<NOD<CLO
 <FL+0782
 <WAI0050
 <SOU0071
@@ -57,12 +57,12 @@ Basiyorsun.<NOD<CLO
 <WAI0050<END
 #0331
 <PRI<MSG
-Ac...<NOD<END
+Aç...<NOD<END
 
 #0400
 
 #0420
 <PRI<DNP0420<SOU0022<FL+1817<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0001
-Maksimum can 1 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0001
+Azami can¡n 1 artt¡.<NOD<END

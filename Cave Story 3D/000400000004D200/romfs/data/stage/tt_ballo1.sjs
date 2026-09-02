@@ -26,7 +26,7 @@
 
 #0500
 <DNP0500<MYD0002
-<KEY<MSG<FAC0029Beni ne kadar cabuk 
+<KEY<MSG<FAC0029Beni ne kadar çabuk 
 alt edebilirsin?<NOD<CLO
 <CMU0004
 <ANP0402:0100:0900<FON0402:0016
@@ -63,6 +63,6 @@ alt edebilirsin?<NOD<CLO
 <BOA1000<WAI0200
 <STC<CMU0041<FAO0001<PRI<MS2<TUR
 Tebrikler!
-Sanctuary Time Trial Modu!<NOD<CLO<WAI0010<ESC
+Kutsal Alan süre denemesini bitirdin!<NOD<CLO<WAI0010<ESC
 <TRA0091:0110:0000:0000
 

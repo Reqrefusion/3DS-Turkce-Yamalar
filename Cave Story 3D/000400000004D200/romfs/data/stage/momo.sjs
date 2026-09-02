@@ -46,48 +46,47 @@
 <ANP0200:0003:0005<WAI0050
 <ANP0200:0000:0005<WAI0020
 <MSG<FL+1100<FL+0961<FAC0022
-Sen Sue'nin bahsettigi
-savasci olmalisin.<NOD<CLR
-Oh, tanriya sukur...<NOD<CLR
+Sen Sue'nun bahsettièi
+kahraman olmal¡s¡n.<NOD<CLR
+Sevindim...<NOD<CLR
 Ben Momorin Sakamoto.<NOD
-Sue'nin annesiyim.<NOD
-Sansimi Doktor'un
-tarafindayken denedim.<NOD
-Ama cicek tohumlari
-bulununca, Doktor icin
-ise yaramaz oldum.<NOD
-Beni adadan
-hic dusunmeden attilar.
-Pek nazikce sayilmaz...<NOD<CLR
-Kadinlara saygisiz davranan
-erkekler barbarin tekidir.<NOD<CLR
-Her neyse, konuyu gecelim.<NOD<CLR
-Su an senin icin bir
-roket yapiyorum.<NOD
-Seni dogrudan Doktor'un
-tahtina kadar cikaracak.<NOD
-Ama belli ki
-yeterli parca yok.<NOD<CLO
+Sue'nun annesiyim.<NOD
+Doktor'un yan¡nda çal¡éarak
+éans¡m¡ denedim.<NOD
+Ama çiçek tohumlar¡n¡n yeri
+bulununca Doktor'un
+bana ihtiyac¡ kalmad¡.<NOD
+Beni apar topar adadan aéaè¡ att¡lar.
+Pek nazikçe deèildi...<NOD<CLR
+Kad¡nlara sayg¡s¡z davranan
+erkekler tam birer barbard¡r.<NOD<CLR
+Her neyse, konuyu geçelim.<NOD<CLR
+Èu an senin için bir
+roket yap¡yorum.<NOD
+Seni doèrudan Doktor'un
+taht¡na kadar ç¡karacak.<NOD
+Ama belli ki roket için
+hâlâ yeterli parçam yok.<NOD<CLO
 <ITJ0018:0202<ITJ0023:0203<EVE0201
 
 #0201
 <ITJ0018:0202<ITJ0023:0203
 <MSG<FAC0022
-Su an bir
-Booster'a ihtiyacim var.<NOD
+Èu an bir
+Booster'a ihtiyac¡m var.<NOD
 Acaba birinin elinde
-fazladan var midir...<NOD<END
+fazladan var m¡d¡r...<NOD<END
 
 #0202
 <MSG<CLR
 .....<NOD<CLR
 Oh!<NOD 
-Su Booster'i
-bir sureligine odunc alacagim.<NOD<CLR
-<FAC0000<GIT1018Momorin, Booster v0.8'i aldi.<NOD<GIT0000<CLR<FAC0022
-Roketi tamamlamak icin
-gerekli parcalar
-hala yeterli degil.<NOD<CLO
+Èu Booster'¡
+bir sürelièine ödünç alacaè¡m.<NOD<CLR
+<FAC0000<GIT1018Momorin, Booster v0.8'i ald¡.<NOD<GIT0000<CLR<FAC0022
+Roketi tamamlamak için
+gerekli parçalar
+hâlâ yeterli deèil.<NOD<CLO
 <IT-0018<EQ-0001<FL-0742
 <FL+1106
 <EVE0204
@@ -96,116 +95,112 @@ hala yeterli degil.<NOD<CLO
 <MSG<CLR
 .....<NOD<CLR
 Oh!<NOD
-Bunu odunc aliyorum.<NOD<CLR
-<FAC0000<GIT1023Momorin, Booster v2.0'i aldi.<NOD<GIT0000<CLR<FAC0022
-Roketi tamamlamak icin
-gerekli parcalar
-hala yeterli degil.<NOD<CLO
+Bunu ödünç al¡yorum.<NOD<CLR
+<FAC0000<GIT1023Momorin, Booster v2.0'i ald¡.<NOD<GIT0000<CLR<FAC0022
+Roketi tamamlamak için
+gerekli parçalar
+hâlâ yeterli deèil.<NOD<CLO
 <IT-0023<EQ-0032<FL-0743
 <FL+1106
 <EVE0204
 
 #0204
 <KEY<MSG<FAC0022
-Su an mesgul musun?<YNJ0205<CLR
-Gercekten mi?<NOD
-Anladim...<NOD<END
+Èu an meégul musun?<YNJ0205<CLR
+Gerçekten mi?<NOD
+Anlad¡m...<NOD<END
 
 #0205
 <KEY<FL+1101<MSG
-Guzel cevap.<NOD
-Bir kahramandan beklenir.<NOD<CLR
-Simdilik sunu tak.<NOD<FAC0000
+Güzel cevap.<NOD
+Bir kahramandan da bu beklenir.<NOD<CLR
+Èimdilik éunu tak.<NOD<FAC0000
 <GIT1024<IT+0024<EQ+0064<FL+1020<MSG
-<CMU0010Mimiga Maskesi alindi.<WAI0160<NOD<RMU<CLO<GIT0000
+<CMU0010Mimiga Maskesi al¡nd¡.<WAI0160<NOD<RMU<CLO<GIT0000
 <MSG<FAC0022
-Sana yakisti.<NOD
-Biraz buyuk olsa da...<NOD<CLR
-Plantasyonda calisan Mimiga'larin
-insanlarla konusmasi
+Sana yak¡ét¡.<NOD
+Biraz büyük olsa da...<NOD<CLR
+Plantasyon'da çal¡éan Mimigalar¡n
+insanlarla konuémas¡
 yasak.<NOD
 Bunu takarsan
-onlarla rahatca konusursun.<NOD<CLR
-Anlastik mi?<NOD<EVE0207
+onlarla rahatça konuéursun.<NOD<CLR
+Anlaét¡k m¡?<NOD<EVE0207
 
 #0206
 <KEY<MSG<FAC0022<CLR
-Sonra, Itoh adindaki
-adami bul.<NOD<CLR
-Inanilmaz bir korkaktir,
-uzaklastigini sanmiyorum.<NOD<END
+Sonra, Itoh ad¡ndaki
+adam¡ bul.<NOD<CLR
+Ínan¡lmaz bir korkakt¡r,
+uzaklaét¡è¡n¡ sanm¡yorum.<NOD<END
 
 #0207
 <MSG<FL+1027<FL+1028<FAC0022
-Roketi bitirebilmem icin
-asgari bir elektrik
-gerekiyor.<NOD
-Plantasyondaki
-fiskiyelerden birini alabilirsem,
+Roketi bitirmek için
+belli miktarda elektrièe ihtiyac¡m var.<NOD
+Plantasyon'daki f¡skiyelerden
+birini bulabilirsem,
 belki yeter.<NOD<CLR
 Ne gerekiyorsa yap,
-bir fiskiye getir.<NOD<END
+bir f¡skiye getir.<NOD<END
 
 #0208
 <KEY<MSG<FAC0022
-Roketi bitirebilmem icin
-asgari bir elektrik
-gerekiyor.<NOD
-Buralarda elektrigi olan
-bir sey varsa,
-o da disaridaki fiskiyelerdir.<NOD<CLR
+Roketi bitirmek için
+belli miktarda elektrièe ihtiyac¡m var.<NOD
+Buralarda elektrièi olan
+bir éey varsa,
+o da d¡éar¡daki f¡skiyelerdir.<NOD<CLR
 Ne gerekiyorsa yap,
-bir fiskiye getir.<NOD<END
+bir f¡skiye getir.<NOD<END
 
 #0209
 <KEY<MSG<FAC0022
-Yardimin icin sag ol.<NOD<CLR<FAC0000<GIT1028
-Kirik Fiskiyeyi goster.<NOD<CLR<FAC0022
+Yard¡m¡n için saè ol.<NOD<CLR<FAC0000<GIT1028
+Bozuk F¡skiyeyi göster.<NOD<CLR<FAC0022
 Hm...<NOD<CLR
-Bu fiskiyenin pilleri
-bitmis.<NOD<GIT0000
-Bu haliyle
-isime yaramaz.<NOD<END
+Bu f¡skiyenin pilleri
+bitmié.<NOD<GIT0000
+Bu hâliyle
+iéime yaramaz.<NOD<END
 
 #0210
 <KEY<FL+1102<FL+1107<MSG<FAC0022
-Hos geldin.<NOD<CLR<FAC0000
-<GIT1029<IT-0029Show her a Sprinkler.<NOD<CLR<FAC0022
-Bir bakayim...<NOD<CLR
-Pili fazlasiyla
+Hoé geldin.<NOD<CLR<FAC0000
+<GIT1029<IT-0029F¡skiyeyi göster.<NOD<CLR<FAC0022
+Bir bakay¡m...<NOD<CLR
+Pili fazlas¡yla
 yeterli.<NOD
-Sanirim bu is gorur.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
+San¡r¡m bu ié görür.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
 <MSG
-Simdi, Itoh adinda
+Èimdi, Itoh ad¡nda
 bir adam bulabilir misin?<NOD<CLR
-Kendine ukalaca
-"unlu teknisyen" der.<NOD<CLR
-Ama odlegin tekidir.<NOD
-Doktor'dan ilk kacan
-Itoh oldu; ama
-buradan cok uzaklastigini
-sanmiyorum.<NOD<END
+Kendini ukalaca
+"ünlü teknisyen" diye tan¡t¡r.<NOD<CLR
+Ama tam bir korkakt¡r.<NOD
+Doktor'dan ilk kaçan Itoh'du;
+ama buradan fazla uzaèa
+gidemedièini düéünüyorum.<NOD<END
 
 #0211
 <MSG<FL+1103<FAC0022
-Hos geldin.<NOD<CLR
+Hoé geldin.<NOD<CLR
 Itoh'u buldun mu?<NOD<CLR
 <FAC0000<GIT1027<IT-0027Denetleyiciyi ona ver.<NOD<CLR<FAC0022
-Hic suphe yok.<NOD
-Bu Denetleyiciyi Itoh yapti.<NOD<GIT0000<CLR
+Hiç éüphe yok.<NOD
+Bu Denetleyiciyi Itoh yapt¡.<NOD<GIT0000<CLR
 Hm...<NOD<CLR
-O burada bana yardim etmeden
-analizi yapmak
-zor.<NOD<CLR
-Neyse, elimden geleni yaparim.<NOD<EVE0212
+O burada bana yard¡m etmeden
+analiz yapmak zor olacak.<NOD<CLR
+Neyse, elimden geleni yapar¡m.<NOD<EVE0212
 
 
 #0212
 <KEY<MSG<FAC0022
-Iyi is cikardin.<NOD<CLR
-Bu is biraz
+Íyi ié ç¡kard¡n.<NOD<CLR
+Bu ié biraz
 zaman alacak.<NOD
-Asagida bir yatak var,
+Aéaè¡da bir yatak var,
 dinlen.<NOD<END
 
 #0250
@@ -224,7 +219,7 @@ Biraz dinlendin.<NOD<CLO<CMU0002<FAI0004<END
 <MSG
 .....<NOD<CLO<DNP0200<DNP0350
 <LI+1000<SOU0020<MYD0002<MSG
-Iyice dinlendin.<NOD<CLO<CMU0002<FAI0004<END
+Íyice dinlendin.<NOD<CLO<CMU0002<FAI0004<END
 
 
 #0350

@@ -22,7 +22,7 @@
 
 #0101
 <KEY<MSG
-Acilmiyor...<NOD<END
+Aç¡lm¡yor...<NOD<END
 
 #0200
 <KEY
@@ -30,8 +30,8 @@ Acilmiyor...<NOD<END
 <FLJ0824:0203
 <FLJ0823:0202
 <FLJ0821:0201<MSG
->_ PATLAMA KAPISI ACILSIN MI?<YNJ0000<CLR
->_ PATLAMA KAPISI ACILIYOR.<NOD<CLO<MYD0000
+>_ PATLAMA KAPISI AÇILSIN MI?<YNJ0000<CLR
+>_ PATLAMA KAPISI AÇILIYOR.<NOD<CLO<MYD0000
 <WAI0030<ANP0250:0010:0001<WAI0010<ANP0300:0001:0002
 <WAI0022<ANP0251:0010:0001<ANP0300:0003:0002
 <WAI0032<ANP0252:0010:0001
@@ -43,55 +43,55 @@ Acilmiyor...<NOD<END
 <CNP0301:0117:0000
 <ANP0301:0021:0002
 <FL-0820<FL+0821<FL+0822<MSG
->_ PATLAMA KAPISI NO.4 SU ANDA
+>_ PATLAMA KAPISI NO.4 ÈU ANDA
 ARIZALI.<NOD<END
 #0201
 <KEY<MSG
->_ PATLAMA KAPISI NO.4 SU ANDA
+>_ PATLAMA KAPISI NO.4 ÈU ANDA
 ARIZALI.<NOD<END
 #0202
 <KEY<MSG
->_ ASANSOR INDIRILSIN MI?<YNJ0000<CLR<FL+0824
->_ ASANSOR INDIRILIYOR.<NOD<CLO<FON0257:0016
+>_ ASANSÖR ÍNDÍRÍLSÍN MÍ?<YNJ0000<CLR<FL+0824
+>_ ASANSÖR ÍNDÍRÍLÍYOR.<NOD<CLO<FON0257:0016
 <WAI0050
 <ANP0257:0010:0003<WAI0192<ANP0257:0000:0000
 <WAI0050<FOM0016
 <MSG
->_ ASANSOR INDIRILDI.<NOD<END
+>_ ASANSÖR ÍNDÍRÍLDÍ.<NOD<END
 #0203
 <KEY<MSG
->_ ASANSOR ZATEN INDIRILDI.<NOD<END
+>_ ASANSÖR ZATEN ÍNDÍRÍLDÍ.<NOD<END
 #0204
 <KEY<MSG
 >_ HATA.<NOD<END
 
 #0210
 <KEY<FLJ0830:0212<FLJ0825:0211<MSG
->_ PATLAMA KAPISI ACILSIN MI?<YNJ0000<CLR<FL+0825
->_ PATLAMA KAPISI ACILIYOR.<NOD<CLO<FON0600:0010<WAI0040
+>_ PATLAMA KAPISI AÇILSIN MI?<YNJ0000<CLR<FL+0825
+>_ PATLAMA KAPISI AÇILIYOR.<NOD<CLO<FON0600:0010<WAI0040
 <ANP0256:0010:0001<WAI0128<FOM0005<DNP0256
 <MSG
->_ PATLAMA KAPISI ACILDI.<NOD<END
+>_ PATLAMA KAPISI AÇILDI.<NOD<END
 #0211
 <KEY<MSG
->_ PATLAMA KAPISI ACILDI.<NOD<END
+>_ PATLAMA KAPISI AÇILDI.<NOD<END
 #0212
 <KEY<MSG
 >_ HATA.<NOD<END
 
 #0240
 <PRI<FLJ0828:0241<MSG
-Kirik bir robotun koluna
-bir sey dolanmis.<NOD<CLR
-Alacak misin?<YNJ0000<CLR
-Ceki Halati alindi.<WAI0160<NOD<END
+K¡r¡k bir robotun koluna
+bir éey dolanm¡é.<NOD<CLR
+Almak ister misin?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
+<CMU0010Çekme Halat¡ al¡nd¡.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
 ...?<NOD<END
 #0242
 <PRI<MSG
-Cok siki sarilmis,
-cozulemiyor.<NOD<END
+Çok s¡k¡ sar¡lm¡é,
+çözülemiyor.<NOD<END
 
 #0250
 #0251
@@ -100,9 +100,9 @@ cozulemiyor.<NOD<END
 #0254
 #0255
 <PRI<MSG
-Kirik bir robot.<NOD
-Dis kabugu
-inanilmaz zarar gormus.<NOD<END
+K¡r¡k bir robot.<NOD
+D¡é gövdesi
+aè¡r hasar görmüé.<NOD<END
 
 #0256
 
@@ -111,20 +111,20 @@ inanilmaz zarar gormus.<NOD<END
 
 #0300
 <KEY<MSG<FAC0019
-Burasi tuhaf bir yer.<NOD<CLR
-Bir tur us mu burasi?<NOD<END
+Buras¡ tuhaf bir yer.<NOD
+Bir tür üs mü buras¡?<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC0025
-Bu zirhli kapi...
-Yari acik kalmis...<NOD<CLR
-Herhalde bir seye
-takilmis...<NOD<END
+Bu patlama kap¡s¡...
+Yar¡ aç¡k kalm¡é...<NOD<CLR
+Herhalde bir éeye
+tak¡lm¡é...<NOD<END
 #0302
 <KEY<MSG<FAC0019
-Blast kapisi ustune blast kapisi.<NOD
-Bu kadar asiri guvenligin
-arkasinda bir sey var.<NOD<CLR
-Sence de oyle degil mi?<NOD<END
+Her yer patlama kap¡s¡yla dolu.<NOD
+Bunca güvenlik önleminin
+arkas¡nda bir éey olmal¡.<NOD
+Sence de öyle deèil mi?<NOD<END
 
 
 #0304
@@ -133,7 +133,7 @@ Ben...<NOD<END
 
 #0305
 <PRI<MSG
-Yine mi disarida???<NOD<END
+Yine mi bayg¡n???<NOD<END
 
 #0306
 <PRI<MSG
@@ -141,19 +141,19 @@ Cevap yok...<NOD<ITJ0030:0307<END
 
 #0307
 <PRI<MSG
-Kipirdamiyor ama
-hala yasiyor gibi.<NOD<CLR
-Ceki Halatini kullanacak misin?<YNJ0000<CLO<GIT0000
+K¡p¡rdam¡yor ama
+hâlâ yaé¡yor gibi.<NOD<CLR
+<GIT1030Çekme Halat¡n¡ kullanmak ister misin?<YNJ0000<CLO<GIT0000
 <CNP0306:0259:0000
 <FL+0835<FL+0836<FL-0829
 <MSG
-Ceki Halatini Curly'ye sardin.<NOD<END
+Çekme Halat¡n¡ Curly'ye sard¡n.<NOD<END
 
 #0340
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
 <MSG
-Bir seyin
-kurtuldugunu duyuyorsun...<NOD<CLO<WAI0050<ANP0253:0010:0001
+Bir éeyin yerinden
+koptuèunu duyuyorsun...<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -191,30 +191,30 @@ kurtuldugunu duyuyorsun...<NOD<CLO<WAI0050<ANP0253:0010:0001
 <FLJ0828:0305
 <MYB0002<WAI0030<MYD0002<MSG<FAC0019
 Bak!<NOD<CLR
-Yeryuzunden bir asker mi?<NOD
-Neredeyse yok edilmis.<NOD<CLO<FAC0000
+Yeryüzünden bir asker mi?<NOD
+Neredeyse tamamen parçalanm¡é.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
 <MSG<FAC0025
-Bunun gibi daha
-bir suru var.<NOD
-Bunu kim yapti?<NOD<CLR
-Bir Mimiga yapmis olamaz.<NOD
-Bu nasil oldu?<NOD<CLO
+Etrafta bunun gibi
+bir sürü robot var.<NOD
+Bunu kim yapt¡?<NOD<CLR
+Bunu bir Mimiga yapm¡é olamaz.
+Nas¡l böyle bir éey oldu?<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
 <ANP0450:0001:0002<MSG
 <FAC0025!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC0019Hala calisiyor!<NOD<CLR
-<FAC0024...Yeniden baslatiliyor...<NOD<CLR
-TAKIM 9 IMHA EDILDI.<NOD
-HEDEF IMHA
-EDILEMEDI.<NOD<CLR
-HEDEFI IMHA ETMEK
-MEVCUT
-ATES GUCUYLE IMKANSIZ.<NOD<CLR
-Geri Cekil!<NOD
-Geri Cekil!!<NOD<CLO
+<FAC0019Hâlâ çal¡é¡yor!<NOD<CLR
+<FAC0024...Yeniden baélat¡l¡yor...<NOD<CLR
+TAKIM 9 ÍMHA EDÍLDÍ.<NOD
+HEDEF ÍMHA
+EDÍLEMEDÍ.<NOD<CLR
+MEVCUT ATEÈ GÜCÜYLE
+HEDEFÍN ÍMHA EDÍLMESÍ
+ÍMKÂNSIZ.<NOD<CLR
+GERÍ ÇEKÍL!<NOD
+GERÍ ÇEKÍL!!<NOD<CLO
 <FON0258:0016<FL+0828<FL-0824<MNP0257:0007:0018:0000
 <CMP0040:0015:0030<CMP0040:0016:0030
 <CNP0258:0184:0000
@@ -242,34 +242,33 @@ Geri Cekil!!<NOD<CLO
 <CNP0450:0117:0004
 <0CS<WAI00100
 <MSG<FAC0019
-Basardin!?!<WAI0100<NOD<CLO<FAC0000
+Baéard¡n!?!<WAI0100<NOD<CLO<FAC0000
 <FON0401:0016<CNP0400:0067:0002<WAI0050
 <MSG<FAC0026
 Aah!<NOD<CLR
-Nasil!?!<NOD<CLR<FAC0019
+Nas¡l!?!<NOD<CLR<FAC0019
 Hey!<NOD<CLR
-Bu, beni
-carpan ayni cadi!<NOD<CLR
-O cocuklar guvende mi?!?<NOD<CLR<FAC0016
+Beni çarpan cad¡ bu!<NOD<CLR
+O çocuklar güvende mi?!?<NOD<CLR<FAC0016
 Kes sesini!<NOD<CLR
-Anne gibi davranma!<NOD
+Annemmiésin gibi davranma!<NOD
 Bunun
-ne oldugunu biliyor musun?!?<NOD<CLR
+ne olduèunu biliyor musun?!?<NOD<CLR
 <FAC0019Ha?<NOD<CLR<FAC0016
 Robotlardan
-NEFRET ETMEMIN sebebi bu!!!<NOD<CLR
-Bu, adanin kalbi!<NOD<CLR
+NEFRET ETMEMÍN sebebi bu!!!<NOD<CLR
+Bu, adan¡n kalbi!<NOD<CLR
 Bu durursa ada
-duser!!<NOD<CLR
-Gercekten adayla birlikte
-olmek mi istiyorsun?!?<NOD<CLR
-Aptal ahmak!!<NOD<CLO<FAC0000
+düéer!!<NOD<CLR
+Gerçekten adayla birlikte
+ölmek mi istiyorsun?!?<NOD<CLR
+Aptal¡n tekisin!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
 MISERY!!<NOD<CLR
-Ne yapiyorsun?!?
-Cekirdegi Hemen laboratuvara gotur!<NOD<CLR
-Hala zamanin varken!<NOD<CLO<FAC0000
+Ne yap¡yorsun?!?
+Çekirdeèi HEMEN laboratuvara götür!<NOD<CLR
+Hâlâ zaman¡n varken!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
 <ANP0400:0025:0002<FMU
@@ -288,7 +287,7 @@ WUUUUUUUH!!<WAI0050<NOD<CLO
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
 <MSG
-Bilinc... kayboluyor...<NOD<CLO
+Bilincimi... kaybediyorum...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411
@@ -298,12 +297,11 @@ Bilinc... kayboluyor...<NOD<CLO
 
 #1101
 <WAI0150
-<KEY<MS2Biliyor muydun, Jenka adindaki kadinin 
-Jenka'nin kucuk bir kardesi mi
-vardi?<NOD
-Adi Ballos'tu.<NOD
-Ablasi gibi, hayal edilemeyecek
-buyulu gucleri vardi...<NOD<CLO<EVE1110
+<KEY<MS2Jenka'n¡n küçük bir erkek kardeéi
+olduèunu biliyor muydun?<NOD
+Ad¡ Ballos'tu.<NOD
+Ablas¡ gibi onun da hayal gücünü aéan
+büyü güçleri vard¡...<NOD<CLO<EVE1110
 
 #1110
 <CNP0306:0117:0002

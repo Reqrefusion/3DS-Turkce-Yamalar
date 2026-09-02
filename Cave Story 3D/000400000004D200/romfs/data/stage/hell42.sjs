@@ -72,7 +72,7 @@
 
 #0110
 <PRI<MSG
-Acilmiyor.<NOD<END
+Aç¡lm¡yor.<NOD<END
 
 
 #0120
@@ -91,12 +91,11 @@ Acilmiyor.<NOD<END
 #0900
 <DNP0900<SKJ0026:0000<SK+0026
 <0CS<PRI<MS3
-Seytan Taci, Ballos'un kalbi attigi
-surece
-sonsuz kez
-yeniden dirilecek...<NOD<CLR
-Bu, onun hic dinmeyen ofkeli ruhunun
-en ustun buyu gucu.<NOD
-Bu guc, onun kotu yaratisi olan
-Seytan Taci'na islenmis.<NOD<0CE<END
+Èeytan Tac¡, Ballos'un kalbi att¡è¡
+sürece sonsuz kez
+yeniden oluéacak...<NOD<CLR
+Bu, onun hiç dinmeyen öfkeli ruhunun
+en üstün büyü gücü.<NOD
+Bu güç, onun kötü yarat¡s¡ olan
+Èeytan Tac¡'na iélenmié.<NOD<0CE<END
 

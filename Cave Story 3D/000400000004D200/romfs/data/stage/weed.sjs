@@ -27,7 +27,8 @@
 
 #0100
 <KEY<MSG
-Arthur'un evine isinlan?<FL-0227<YNJ0000<CLO
+Arthur'un evine
+¡é¡nlanmak ister misin?<FL-0227<YNJ0000<CLO
 <CNP0400:0111:0002<HMC<WAI0060<ANP0100:0001:0000
 <WAI0100<FAO0004<FLJ0219:0130<TRA0001:0099:0005:0008
 
@@ -47,7 +48,7 @@ Kilitli.<NOD<END
 Kilitli.<NOD<END
 #0105
 <SOU0022<MSG<GIT1009
-Pasli Anahtar kullanildi.<NOD<CLO
+Pasl¡ Anahtar kullan¡ld¡.<NOD<CLO
 <GIT0000<FL+0214<EVE0106
 #0106
 <PRI<SOU0011<DNP0104<FAO0004<TRA0025:0094:0016:0007
@@ -65,10 +66,10 @@ Pasli Anahtar kullanildi.<NOD<CLO
 <ITJ0010:0110
 <MSG
 Kilitli gibi.<NOD
-Kapida "Sakiz" yaziyor.<NOD<END
+Kap¡da "Sak¡z" yaz¡yor.<NOD<END
 #0110
 <SOU0022<MSG<GIT1010
-Sakiz Anahtari kullanildi.<NOD<CLO
+Sak¡z Anahtar¡ kullan¡ld¡.<NOD<CLO
 <GIT0000<FL+0222<EVE0111
 #0111
 <PRI<SOU0011<DNP0109<FAO0004<TRA0028:0094:0006:0013
@@ -83,10 +84,10 @@ Sakiz Anahtari kullanildi.<NOD<CLO
 
 #0121
 <PRI<MSG<TUR
- Santa'nin Evi<NOD<END
+                 Santa'n¡n Evi<NOD<END
 #0123
 <PRI<MSG<TUR
-Guc Kaynagi Odasi
+              Güç Kaynaè¡ Odas¡<NOD<END
 
 #0130
 <KEY<FL-0329<FL-0219<MYD0002<TRA0011:0420:0024:0029
@@ -96,14 +97,14 @@ Guc Kaynagi Odasi
 #0200
 <PRI<DNP0200<FL+0210
 <CMU0010<GIT1003<IT+0003<MSG
-Santa'nin Anahtari'ni aldin.<WAI0160<NOD<CLO
+Santa'n¡n Anahtar¡n¡ ald¡n.<WAI0160<NOD<CLO
 <GIT0000<RMU<END
 
 #0201
 <PRI<FLJ0228:0207<FL+0228<MSG
 Ha?<NOD<CLR
-Yeryuzunden bir asker misin?<NOD
-Savas bitmedi mi zaten?<NOD<CLR
+Yeryüzünden bir asker misin?<NOD
+Savaé bitmedi mi zaten?<NOD<CLR
 Her neyse...<NOD<CLO<EVE0207
 
 
@@ -111,8 +112,8 @@ Her neyse...<NOD<CLO<EVE0207
 <ITJ0008:0204<NCJ0094:0203
 <PRI<SOU0022<CNP0202:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<GIT1008<IT+0008<CLR
-<CMU0010Denizanasi Suyu alindi.<WAI0160<NOD<DNP0202<RMU<END
+Hazine sand¡è¡n¡ açt¡n.<NOD<GIT1008<IT+0008<CLR
+<CMU0010Denizanas¡ Suyu al¡nd¡.<WAI0160<NOD<DNP0202<RMU<END
 #0203
 <SOU0072<CNP0202:0015:0002<END
 #0204
@@ -121,27 +122,27 @@ Hazine sandigini actin.<NOD<GIT1008<IT+0008<CLR
 #0205
 <FLJ0481:0206
 <PRI<MSG
-Pervaneler durdurulmus.<NOD
-Biri elektrigi kesmis.<NOD
-Tekrar calistirmak istersen,
-Guc Kaynagi Odasi'ni bul.<NOD<END
+Pervaneler durdurulmué.<NOD
+Biri elektrièi kesmié.<NOD
+Tekrar çal¡ét¡rmak istersen,
+Güç Kaynaè¡ Odas¡'n¡ bul.<NOD<END
 #0206
 <PRI<MSG
-Sana bir sey soyleyeyim.<NOD<CLR
-Fan seni iterken ziplama tusunu
-basili tutarsan,<NOD
-daha da yukari cikarsin.<NOD<END
+Sana bir éey söyleyeyim.<NOD<CLR
+Fan seni iterken z¡plama tuéunu
+bas¡l¡ tutarsan,<NOD
+daha da yukar¡ ç¡kars¡n.<NOD<END
 
 #0207
 <PRI<MSG
 Daha ileri gideceksen,
-su buyuk mavi yaratiklara dikkat et.<NOD
-Seni ezmeye calisirlar.<NOD<END
+éu büyük mavi yarat¡klara dikkat et.<NOD
+Seni ezmeye çal¡é¡rlar.<NOD<END
 
 #0210
 <PRI<MSG
-Kazuma'nin surdugu bisiklet,
-pek iyi durumda degil.<NOD<END
+Kazuma'n¡n sürdüèü bisiklet,
+pek iyi durumda deèil.<NOD<END
 
 #0220
 <ITJ0013:0250
@@ -149,7 +150,7 @@ pek iyi durumda degil.<NOD<END
 <FLJ0484:0239
 <FLJ0215:0234
 <PRI<MSG
-Acilmiyor...<NOD<CLO
+Aç¡lm¡yor...<NOD<CLO
 <CNP0230:0106:0000<MYD0002<END
 #0230
 <FLJ0221:0237
@@ -158,70 +159,70 @@ Acilmiyor...<NOD<CLO
 <FLJ0216:0233
 <FLJ0215:0232
 <PRI<MSG
-Su yarikta biri var...<NOD<CLR
-Hey, sen! Cocuk!<NOD<CLR
-Buradan cikmam lazim.<NOD
-Sey, bana yardim eder misin?
+Èu yar¡kta biri var...<NOD<CLR
+Hey, sen! Çocuk!<NOD<CLR
+Buradan ç¡kmam laz¡m.<NOD
+Èey, bana yard¡m eder misin?
 <YNJ0231<CLR
-Tesekkurler!<NOD<CLR
-Lutfen sunu al.<NOD<GIT1009<IT+0009<FL+0215<CLR
-<CMU0010Pasli Anahtar alindi.<WAI0160<NOD<RMU<CLR
-Bu odada birakilmisti.<NOD
+Teéekkürler!<NOD<CLR
+Lütfen éunu al.<NOD<GIT1009<IT+0009<FL+0215<CLR
+<CMU0010Pasl¡ Anahtar al¡nd¡.<WAI0160<NOD<RMU<CLR
+Bu odada b¡rak¡lm¡ét¡.<NOD
 Kullanabilirsen kullan.<NOD<END
 #0231
 <PRI<MSG
-Ah, anladim.<NOD
-Yazik...<NOD<END
+Ah, anlad¡m.<NOD
+Yaz¡k...<NOD<END
 #0232
 <PRI<MSG
-Lutfen.<NOD
-Kapiyi ac.<NOD<END
+Lütfen.<NOD
+Kap¡y¡ aç.<NOD<END
 #0233
 <PRI<MSG
 Ha, ne demek istiyorsun?<NOD
-O kapinin anahtari bu degil mi?!?<NOD
+O kap¡n¡n anahtar¡ bu deèil mi?!?<NOD
 Bu sinir bozucu.<NOD<CLR
 .....<NOD<FL+0223<EVE0235
 
 #0234
 <PRI<FL+0216<MSG
-Anahtar deligi yok.<NOD
-Paslanmis gibi.<NOD<END
+Anahtar delièi yok.<NOD
+Paslanm¡é gibi.<NOD<END
 #0235
 <PRI<MSG
-Anahtar deligi yoksa...
-...kirmamiz gerekecek.<NOD
-Daha iyi bir yolu olmali...<NOD<END
+Anahtar delièi yoksa...
+...k¡rmam¡z gerekecek.<NOD
+Daha iyi bir yolu olmal¡...<NOD<END
 
 #0236
 <PRI<MSG
 Ne?
-BOMBA mi kullanacagiz??
-O kapiya mi???<NOD<CLR
+BOMBA m¡ kullanacaè¡z??
+O kap¡ya m¡???<NOD<CLR
 Olabilir...<NOD
-Yani malzemeleri mi ariyorsun?<NOD<CLR
+Yani malzemeleri mi ar¡yorsun?<NOD<CLR
 .....<NOD<CLR
-Sakiz bazasi mi dedin?<NOD
+Sak¡z mayas¡ m¡ dedin?<NOD
 Dur bir saniye--<NOD<CLO<WAI0100
 <MSG
 Bunu al.<NOD<GIT1010<IT+0010<FL+0221<CLR
-<CMU0010Sakiz Anahtari alindi.<WAI0160<NOD<RMU<CLR
-Duvarda asiliydi.
-Uzerinde "Sakiz" yaziyordu.<NOD
-Bir sekilde bununla ilgili olmali.<NOD
-Sana guveniyorum, cocuk!<NOD<END
+<CMU0010Sak¡z Anahtar¡ al¡nd¡.<WAI0160<NOD<RMU<CLR
+Duvarda as¡l¡yd¡.
+Üzerinde "Sak¡z" yaz¡yordu.<NOD
+Bir éekilde bununla ilgili olmal¡.<NOD
+Sana güveniyorum, çocuk!<NOD<END
 #0237
 <PRI<MSG
-Bomba hazir mi?<NOD<END
+Bomba haz¡r m¡?<NOD<END
 
 
 #0239
 <PRI<MSG
-Her zamanki gibi pasli...<NOD<CLO
+Her zamanki gibi pasl¡...<NOD<CLO
 <CNP0230:0106:0000<MYD0002<END
 #0240
 <PRI<MSG
-Her zamanki gibi pasli...<NOD<END
+Her zamanki gibi pasl¡...<NOD<END
 
 #0250
 <PRI<FL+0521<FL+0522<IT-0013
@@ -234,26 +235,26 @@ Bomba kuruldu!<NOD<CLO
 <PRI<FLJ0218:0001<FL+0218
 <SOU0022<CNP0302:0021:0000
 <MSG
-Hazine sandigi acildi.<NOD<EVE0030
+Hazine sand¡è¡ aç¡ld¡.<NOD<EVE0030
 
 #0305
 <PRI<DNP0305<SOU0022<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0005
-Maksimum can 5 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 
 #0310
 <PRI<DNP0310<SOU0022<FL+1804<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0001
-Maksimum can 1 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0001
+Azami can¡n 1 artt¡.<NOD<END
 
 #0400
 #0401
 
 #0450
 <PRI<MSG
-Bu bisiklet gibi bir sey mi?<NOD<END
+Bu bisiklet gibi bir éey mi?<NOD<END
 #0451
 #0452
 
@@ -263,17 +264,17 @@ Bu bisiklet gibi bir sey mi?<NOD<END
 <FL+0211
 <MSG
 Merhaba.<NOD<CLR
-Benim adim Santa.<NOD<CLR
-Su almaya gitmistim ve
-su canavarlar saldirdi.<NOD
-Eve kactim ama donuste
-anahtarimi dusurdum.<NOD<CLR
-Simdi kendi evime giremiyorum.<NOD<END
+Benim ad¡m Santa.<NOD<CLR
+Su almaya gitmiétim ve
+o canavarlar sald¡rd¡.<NOD
+Eve kaçt¡m ama dönüéte
+anahtar¡m¡ düéürdüm.<NOD<CLR
+Èimdi kendi evime giremiyorum.<NOD<END
 #0501
 <PRI<MSG
-Anahtar olmadan iceri giremem...
-Ah, ne yapacagim?<NOD
-Ne yapacagim???<NOD<END
+Anahtar olmadan içeri giremem...
+Ah, ne yapacaè¡m?<NOD
+Ne yapacaè¡m???<NOD<END
 
 
 #0502
@@ -282,36 +283,36 @@ Ne yapacagim???<NOD<END
 <KEY<FL+0212<MM0<MYD0000<WAI0030<PRI
 <MSG
 Ah!<NOD<CLR
-Bu benim evimin anahtari!<NOD<IT-0003<GIT1003<CLR
-Santa'nin Anahtari iade edildi.<NOD<GIT0000<CLR
-Tesekkur ederim!<NOD<CLO
+Bu benim evimin anahtar¡!<NOD<IT-0003<GIT1003<CLR
+Santa'n¡n Anahtar¡ iade edildi.<NOD<GIT0000<CLR
+Teéekkür ederim!<NOD<CLO
 <KEY<ANP0500:0003:0000<FON0505:0016<WAI0176<ANP0500:0000:0002
 <SOU0011<CNP0101:0000:0000<WAI0010
 <PRI<MSG
-Lutfen ugrasin.<NOD
-Sana guzel bir sey verecegim.<NOD<CLO<KEY
+Lütfen uèra.<NOD
+Sana güzel bir éey vereceèim.<NOD<CLO<KEY
 <ANP0500:0005:0002<WAI0010<DNP0500
 <SOU0011<CNP0101:0018:0000<DNP0502<SOU0023<FOM0016<END
 
 #0600
 <KEY<FL+0219<CMU0000<FAI0004<MYD0002
 <0CS<MSG<FAC0010
-Sana guveniyorum.
-Bizi Mimiga Koyu'ne gotur!<NOD<CLO<FAC0000
+Sana güveniyorum.
+Bizi Mimiga Köyü'ne götür!<NOD<CLO<FAC0000
 <ANP0452:0000:0000<WAI0010
 <MSG<FAC0018
 Kazuma.<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC0010
 Evet?<NOD<CLO<FAC0000
 <FAC0000<WAI0010<ANP0452:0000:0002<FON0450:0016<WAI0050
 <MSG<FAC0018
-O sey calisiyor mu?<NOD<CLO<FAC0000
+O éey çal¡é¡yor mu?<NOD<CLO<FAC0000
 <ANP0451:0003:0002<WAI0040
 <ANP0452:0003:0002<WAI0040
 <ANP0451:0005:0000<WAI0036
 <ANP0452:0000:0000<WAI0050
 <ANP0451:0000:0002
 <MSG<FAC0010
-Evet, hala calisiyor gibi.<NOD<CLO<FAC0000
+Evet, hâlâ çal¡é¡yor gibi.<NOD<CLO<FAC0000
 <ANP0451:0005:0000
 <ANP0452:0005:0000<WAI0020
 <ANP0450:0010:0000<DNP0451<DNP0452<WAI0030

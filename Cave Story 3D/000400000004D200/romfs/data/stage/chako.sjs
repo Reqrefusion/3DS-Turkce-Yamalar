@@ -21,21 +21,21 @@
 #0200
 <ITJ0008:0202
 <KEY<MSG
-Kabaran alevlerin ote yaninda
-bir delik goruyorsun.<NOD<FLJ0241:0201<END
+Kabaran alevlerin öte yan¡nda
+bir delik görüyorsun.<NOD<FLJ0241:0201<END
 #0201
 <MSG
-Atesi gecemiyorsun.<NOD<CLO
+Ateéi geçemiyorsun.<NOD<CLO
 <FLJ0261:0000<WAI0030<FL+0261<FL+0263
 <ANP0300:0003:0002<WAI0045<ANP0300:0000:0002<MYD0000
 <MSG
-Sominemden gecmek mi istiyorsun?<NOD<CLR
-Bunun icin biraz Denizanasi Suyu
+Èöminemden geçmek mi istiyorsun?<NOD<CLR
+Bunun için biraz Denizanas¡ Suyu
 bulman gerek.<NOD<CLR
-En buyugunde var.<NOD<END
+En büyüèünde var.<NOD<END
 #0202
 <KEY<GIT1008<MSG
-Denizanasi Suyu'nu kullanmak ister
+Denizanas¡ Suyu'nu kullanmak ister
 misin?<YNJ0000<CLO
 <FL+0213<IT-0008
 <ANP0200:0010:0000<WAI0030<DNP0200<FAO0004
@@ -50,7 +50,7 @@ Dinlenmek ister misin?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
 <MNP0300:0012:0006:0000<ANP0300:0010:0000
 <WAI0050
 <LI+1000<SOU0020<MYD0002<MSG
-Canin yenilendi.<NOD<CLO<RMU<FAI0004<END
+Can¡n yenilendi.<NOD<CLO<RMU<FAI0004<END
 
 
 #0300
@@ -58,26 +58,26 @@ Canin yenilendi.<NOD<CLO<RMU<FAI0004<END
 <FLJ0261:0301
 <FLJ0241:0303
 <KEY<MSG
-Selam. Ne lazim?<NOD<CLR
-Su odlek Santa'yla
-tanistin mi?<NOD<END
+Selam. Ne laz¡m?<NOD<CLR
+Èu ödlek Santa'yla
+tan¡ét¡n m¡?<NOD<END
 #0301
 <KEY<MSG
-Atesi sondurmek istiyorsan
-Denizanasi Suyu bulmalisin.<NOD<CLR
-Denizanalarindan biraz
-Denizanasi Suyu alabilirsin.<NOD
-En buyugune git.<NOD<END
+Ateéi söndürmek istiyorsan
+Denizanas¡ Suyu bulmal¡s¡n.<NOD<CLR
+Denizanalar¡ndan biraz
+Denizanas¡ Suyu alabilirsin.<NOD
+En büyüèünün peéine düé.<NOD<END
 #0302
 <KEY<MSG
-Denizanasi Suyu'nu aldin mi?<NOD
+Denizanas¡ Suyu'nu ald¡n m¡?<NOD
 Aferin!<NOD<CLR
 Bir seferde sadece bir kavanoz
-Denizanasi Suyu tasirsin ama
-denizanalarindan tekrar alabilirsin.<NOD<END
+Denizanas¡ Suyu taé¡rs¡n ama
+denizanalar¡ndan tekrar alabilirsin.<NOD<END
 #0303
 <KEY<MSG
-Selam. Ne lazim?<NOD<CLR
-Vay... elindeki sey
+Selam. Ne laz¡m?<NOD<CLR
+Vay... elindeki éey
 epey tehlikeli duruyor!<NOD<CLR
 Sen... gezgin misin?<NOD<END

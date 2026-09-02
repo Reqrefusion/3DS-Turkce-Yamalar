@@ -22,37 +22,37 @@
 <MSG
 Ev gibisi yok!<NOD<CLR
 Vay vay,<NOD
-Guzel kilicmis.
-Onu benim
-sahane tabancamla takas edelim mi?<YNJ0201<FL+1372<CLR
-<TAM0009:0012:0000<GIT0009Kilici ona verdin.<NOD<CLR
-<CMU0010<GIT0012Nemesis alindi!<WAI0160<NOD<RMU<END
+Güzel k¡l¡çm¡é.
+Benim éahane tabancamla
+takas etmek ister misin?<YNJ0201<FL+1372<CLR
+<TAM0009:0012:0000<GIT0009K¡l¡c¡ ona verdin.<NOD<CLR
+<CMU0010<GIT0012Nemesis al¡nd¡!<WAI0160<NOD<RMU<END
 #0201
 <PRI<MSG
-Olmadi.<NOD<END
+Olmad¡.<NOD<END
 
 #0202
 <PRI<MSG
-Sahane tabancami begendin mi?<YNJ0203<CLR
-Belli zaten!<NOD
-Iyi oldu.<NOD<END
+Èahane tabancam¡ beèendin mi?<YNJ0203<CLR
+Tahmin etmiétim!<NOD
+Bilmek güzel.<NOD<END
 #0203
 <PRI<FL-1372<MSG
-Peki, kilicini geri al...<NOD
-Ama benim sahane
-tabancami hemen geri vereceksin...<NOD<TAM0012:0009:0000<CLR
+Peki, k¡l¡c¡n¡ geri al...<NOD
+Ama benim éahane
+tabancam¡ hemen geri vereceksin...<NOD<TAM0012:0009:0000<CLR
 <GIT0012Nemesis'i ona verdin.<NOD<CLR
-<CMU0010<GIT0009Kilici geri aldin!<WAI0160<NOD<RMU<END
+<CMU0010<GIT0009K¡l¡c¡ geri ald¡n!<WAI0160<NOD<RMU<END
 
 #0210
 <PRI<FLJ1370:0211<FL+1371
 <MSG
-Su kocam nereye gitti...<NOD<CLR
-Kocami gordun mu?<NOD<END
+Kocam nereye gitti acaba...<NOD<CLR
+Kocam¡ gördün mü?<NOD<END
 #0211
 <PRI<MSG
-Dolasip duran kocama
-goz kulak oldugun icin sag ol.<NOD<END
+Dolaé¡p duran kocama
+göz kulak olduèun için saè ol.<NOD<END
 #0220
 <PRI<MSG
 Sen kimsin?<NOD<END

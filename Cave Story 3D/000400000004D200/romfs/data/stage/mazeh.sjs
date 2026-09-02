@@ -18,5 +18,5 @@
 
 #0200
 <PRI<MSG
-Bir robotun paramparca kalintilari.<NOD<END
+Bir robotun paramparça kal¡nt¡lar¡.<NOD<END
 

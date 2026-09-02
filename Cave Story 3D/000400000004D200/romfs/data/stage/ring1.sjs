@@ -93,18 +93,18 @@ Misery yenildi!<WAI0140<NOD<CLO
 Yine sen!<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
 <MSG<FAC0015
-Gercekten inatcisin.<NOD<CLR
-Cekirdegi yok etmeye...
-Bunun icin mi geldin?<NOD<CLR
-Once seni
-deli dolu kucuk bir robot sanmistim,
-ama seni hafife almisim.<NOD<CLR
+Gerçekten inatç¡s¡n.<NOD<CLR
+Çekirdeèi yok etmeye...
+Bunun için mi geldin?<NOD<CLR
+Önce seni
+deli dolu küçük bir robot sanm¡ét¡m,
+ama seni hafife alm¡é¡m.<NOD<CLR
 .....<NOD<CLR
-Bil ki, bu ada icin hic
-pisman degilim.<NOD<CLR
-Taci takana boyun egmek
+Bil ki, bu ada konusunda
+hiçbir piémanl¡è¡m yok.<NOD<CLR
+Tac¡ takana boyun eèmek
 benim kaderim.<NOD<CLR
-<FAC0016Hazirlan!!<NOD<CLR<0CE
+<FAC0016Haz¡rlan!!<NOD<CLR<0CE
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END
 
@@ -114,11 +114,11 @@ benim kaderim.<NOD<CLR
 <CMP0000:0011:0021
 <MSG<FAC0016
 Ha ha!<NOD<CLR
-Cok komik gorunuyorsun!<NOD<CLO<FAC0000
+Çok komik görünüyorsun!<NOD<CLO<FAC0000
 <ANP0400:0020:0000<WAI0060
 <MSG<FAC0015
 Neyse,<NOD
-Zaten sikilmistim.<NOD<CLR<FAC0016
-Benimle dovus!<NOD<CLR
+Zaten s¡k¡lm¡ét¡m.<NOD<CLR<FAC0016
+Benimle dövüé!<NOD<CLR
 <BSL0400
 <ANP0400:0100:0000<CMU0007<END

@@ -17,17 +17,17 @@
 <KEY<FLJ0800:0101<SOU0011<ANP0100:0000:0002<FAO0000<TRA0045:0090:0074:0089
 #0101
 <KEY<MSG
-Acilmiyor.<NOD<END
+Aç¡lm¡yor.<NOD<END
 
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<TRA0047:0092:0004:0017
 
 #0120
 <KEY<MSG
-Ote yandan akan su sesi
+Öbür taraftan akan su sesi
 geliyor.<NOD
-Su izgaralar olmasa
-gecebilirdik.<NOD<END
+Èu ¡zgaralar olmasa
+geçebilirdik.<NOD<END
 #0121
 <KEY<FAO0003<TRA0048:0093:0155:0001
 <KEY<FAO0003<TRA0031:0092:0030:0008
@@ -38,14 +38,13 @@ gecebilirdik.<NOD<END
 <ANP0300:0003:0002<WAI0016
 <ANP0300:0001:0002
 <MSG<FAC0025
-Hala Labirent'te miyiz?<NOD<FAC0000<CLO
+Hâlâ Labirent'te miyiz?<NOD<FAC0000<CLO
 <ANP0300:0003:0002<WAI0064
 <ANP0300:0020:0002<WAI0050
 <ANP0300:0001:0000
 <MSG<FAC0025
-Buradan gecemeyiz.<NOD
-Devam etmek zorundayiz.
-Ilerlemeliyiz.<NOD<CLO
+Buradan geçemeyiz.<NOD
+Ílerlemeye devam etmek zorunday¡z.<NOD<CLO
 <ANP0300:0003:0002<WAI0141
 <ANP0300:0020:0002<WAI0010
 <SOU0011<ANP0110:0000:0002<WAI0020
@@ -57,7 +56,7 @@ Ilerlemeliyiz.<NOD<CLO
 #0330
 <PRI<MSG
 Bir anahtar var.<NOD<SOU0043<CLR<MSG
-Ceviriyorsun.<NOD<CLO
+Anahtar¡ çevirdin.<NOD<CLO
 <WAI0050
 <SOU0071
 <CMP0007:0035:0000

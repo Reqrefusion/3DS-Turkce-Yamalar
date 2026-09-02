@@ -5,8 +5,8 @@
 <MNA<CMU0029<FAI0001<END
 #0092
 <PRI<CMU0000<MSG<ZAM
-Siyah bir ruzgar bedeninden geciyor.<NOD<CLR
-Tum silahlar Seviye 1'e dustu!<NOD<CLO
+Kara bir rüzgâr bedeninden geçiyor.<NOD<CLR
+Tüm silahlar Seviye 1'e düétü!<NOD<CLO
 <FRE<MNA<CMU0029<FAI0002<END
 #0093
 <MNA<CMU0029<FAI0003<END
@@ -50,11 +50,11 @@ Tum silahlar Seviye 1'e dustu!<NOD<CLO
 #0251
 <PRI<FLJ1320:0001<FL+1320<SOU0022<CNP0251:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<GIT1031<IT+0031<CLR
-<CMU0010Kizil Ogre Madalyasi alindi.<WAI0160<NOD<RMU<END
+Hazine sand¡è¡n¡ açt¡n.<NOD<GIT1031<IT+0031<CLR
+<CMU0010K¡z¡l Ogre Madalyas¡ al¡nd¡.<WAI0160<NOD<RMU<END
 
 #0300
 <PRI<DNP0300<SOU0022<FL+1814<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0003
-Maksimum can 3 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0003
+Azami can¡n 3 artt¡.<NOD<END

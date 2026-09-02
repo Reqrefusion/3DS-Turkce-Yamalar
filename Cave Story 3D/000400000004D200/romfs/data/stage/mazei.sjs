@@ -15,7 +15,7 @@
 
 #0202
 <FLJ0641:0203<PRI<MSG
-Acilmiyor...<NOD<END
+Aç¡lm¡yor...<NOD<END
 #0203
 <PRI<FAO0000<TRA0038:0090:0035:0013
 #0204
@@ -24,8 +24,8 @@ Acilmiyor...<NOD<END
 #0300
 <PRI<SOU0022<DNP0300<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0005
-Maksimum can 5 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 
 
 
@@ -33,14 +33,14 @@ Maksimum can 5 artti.<NOD<END
 <KEY<ANP0501:0010:0002<CMU0000<MSG
 !!!<NOD<CLR
 .....<NOD<CLR
-Zemine cakildin.<NOD<CLR
-Burasi neresi?<NOD<CLO
+Zemine çak¡ld¡n.<NOD<CLR
+Buras¡ neresi?<NOD<CLO
 <MYD0002
 <0CE<MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
 
 #0402
 <KEY<FLJ0641:0403<MSG
-Kapiyi acmak istiyor musun?<YNJ0000<CLO
+Kap¡y¡ açmak istiyor musun?<YNJ0000<CLO
 <FL+0641
 <FON0202:0064<WAI0150<SOU0043
 <ANP0204:0010:0000<WAI0008<ANP0502:0000:0002
@@ -53,35 +53,35 @@ Kapiyi acmak istiyor musun?<YNJ0000<CLO
 
 #0403
 <KEY<MSG
-Kapi acildi.<NOD<END
+Kap¡ aç¡ld¡.<NOD<END
 
 #0410
 
 
 #0500
 <PRI<MSG
-Seni buraya asagi atan da
-cadi Misery'ydi.<NOD
-Zavalli ufaklik...<NOD
-Adanin hurdasi burada depolanir.<NOD
+Seni buraya aéaè¡ atan da
+cad¡ Misery'ydi.<NOD
+Zavall¡ ufakl¡k...<NOD
+Adan¡n hurdas¡ burada depolan¡r.<NOD
 Buraya girince asla
-cikamazsin...<NOD<END
+ç¡kamazs¡n...<NOD<END
 
 #0501
 
 #0502
 <PRI<MSG
-Bu kapinin dugmesi sozde
+Bu kap¡n¡n düèmesi sözde
 en tepede.<NOD
-Ama basacak yer cok kotu...<NOD
-O kadar cok dustum ki
-bacagimi kirdim.<NOD<END
+Ama basacak yer çok kötü...<NOD
+O kadar çok düétüm ki
+bacaè¡m¡ k¡rd¡m.<NOD<END
 
 #0503
 <PRI<MSG
 Tepki yok.<NOD<END
 
-37: MazeI      0640 - 0659
+37: MazeI   0640 - 0659
 0640:
 0641:J
 0642:CtJvZ

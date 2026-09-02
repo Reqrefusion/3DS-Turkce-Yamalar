@@ -24,8 +24,8 @@
 <FLJ0590:0210
 <KEY<MSG<FAC0013
 Sen kimsin?<NOD
-Seni buralarda daha once
-gormedim, evlat.<NOD<END
+Seni buralarda daha önce
+görmedim, evlat.<NOD<END
 
 #0201
 <IT-0014
@@ -35,198 +35,197 @@ gormedim, evlat.<NOD<END
 <FLJ0591:0221
 <FLJ0590:0220
 <KEY<MSG<FAC0013
-Himm!<NOD<CLR<GIT1014
-Bu benim kopecigim!<NOD<CLR
-<GIT0000<FAC0000Kopegi ona verdin.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013
+Aa!<NOD<CLR<GIT1014
+Bu benim köpeèim!<NOD<CLR
+<GIT0000<FAC0000Köpeèi ona verdin.<NOD<CLR<CNP0300:0130:0000<DNP0401<FL-0274<FAC0013
 Onu bana geri getirdin.<NOD
-Sag olasin.<NOD<CLR
+Saè olas¡n.<NOD<CLR
 Ne???<NOD
-Kirmizi Cicek mi?<NOD<FAC0000<CLR<CMU0000<MSG
-Ooo yeeeah!!<NOD<CLO
+K¡rm¡z¡ Çiçek mi?<NOD<FAC0000<CLR<CMU0000<MSG
+Oleyyy!!<NOD<CLO
 <CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
 <CNP0400:0012:0000
 <MSG<FAC0005
-Nasilsin teyze?<NOD<CLR<FAC0013
-Balrog degil misin.<NOD<ANP0300:0120:0002
-Iyi gorunuyorsun.<NOD
-Benim aptal kizim
+Nas¡ls¡n teyze?<NOD<CLR<FAC0013
+Aa, Balrog, sen misin.<NOD<ANP0300:0120:0002
+Íyi görünüyorsun.<NOD
+Benim aptal k¡z¡m
 ne alemde?<NOD<CLR<FAC0014
-He he!<NOD
-Aptal kiz mi...
+Ha!<NOD
+Aptal k¡z m¡...
 Misery'yi diyorsun?<NOD
 O da iyi.<NOD<CLR
-Yeni bir efendi ortaya cikti.<NOD
-Bu kez, yuzey
+Yeni bir efendi ortaya ç¡kt¡.<NOD
+Bu kez yeryüzü
 sonunda bizim olacak!<NOD<CLR<FAC0013
-Siz ikiniz hala
-bunun pesindesiniz...<NOD<CLR<FAC0005
-Sorun cikarmaya
+Siz ikiniz hâlâ
+bunun peéindesiniz...<NOD<CLR<FAC0005
+Sorun ç¡karmaya
 gelmedim.<NOD
 Sadece depoya ait
-anahtari almaya geldim.<NOD<CLR
-Hani su cicek
-tohumlarinin oldugu depo!!<NOD<CLR<FAC0013
+anahtar¡ almaya geldim.<NOD<CLR
+Hani éu çiçek
+tohumlar¡n¡n olduèu depo!!<NOD<CLR<FAC0013
 .....<NOD<CLR
-Himm...<NOD
-Neyden soz
-ediyorsun, Balrog.<NOD<CLR
-<ANP0400:0030:0000<FAC0014Oyle mi...<NOD<CLR
-Bilmiyormus gibi
-mi yapiyorsun?!?<NOD<CLR<FAC0005
+H¡mm...<NOD
+Neden bahsettièini
+bilmiyorum, Balrog.<NOD<CLR
+<ANP0400:0030:0000<FAC0014Öyle mi...<NOD<CLR
+Bilmiyormué gibi
+mi yap¡yorsun?!?<NOD<CLR<FAC0005
 .....<NOD<CLR
-Anladim.<NOD
+Anlad¡m.<NOD
 Demek bize ihanet
-edeceksin--<NODoyle mi?<NOD<CLO<CMU0000
+edeceksin--<NODöyle mi?<NOD<CLO<CMU0000
 <WAI0050<FAC0005<MSG
-Pisman olacaksin!<NOD<CLO
+Piéman olacaks¡n!<NOD<CLO
 <FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
 <MSG<FAC0013<CNP0300:0130:0000
 Yeni bir efendi...<NOD
-Yine bir serseri
-is basinda demek.<NOD<MYD0200<CLR
+Yine bir aptal
+ayn¡ éeyin peéinde demek.<NOD<MYD0200<CLR
 .....<NOD<CLR
-Kopeklerime gelince...
-Daha dort tane var.<NOD
-Benim minik yavrularim...<NOD<CLR
-Ama su bacaklarim
-pek gucsuz.<NOD<CLR
+Köpeklerime gelince...
+Daha dört tane var.<NOD
+Benim minik yavrular¡m...<NOD<CLR
+Ama éu bacaklar¡m
+pek güçsüz.<NOD<CLR
 Kusura bakma,
 ama kalan
-kopeklerimi de bulur musun?<NOD<FL+0590<0CE<END
+köpeklerimi de bulur musun?<NOD<FL+0590<0CE<END
 
 #0210
 <KEY<MSG<FAC0013
-Daha dort tane var...<NOD
+Daha dört tane var...<NOD
 Kusura bakma,
-ama kalanlarini da
+ama kalanlar¡n¡ da
 bulur musun?<NOD<END
 
 #0211
 <KEY<MSG<FAC0013
-Uc tane kaldi.<NOD
-Sana guveniyorum.<NOD<END
+Üç tane kald¡.<NOD
+Sana güveniyorum.<NOD<END
 
 #0212
 <KEY<MSG<FAC0013
 Seni baya sevdiler,
 evlat.<NOD<CLR
-Iki tane kaldi...<NOD<END
+Íki tane kald¡...<NOD<END
 
 #0213
 <KEY<MSG<FAC0013
-Bir tane kaldi...<NOD
-Kirmizi Cicek'in
-pesini birakmaz misin...<NOD<END
+Bir tane kald¡...<NOD
+K¡rm¡z¡ Çiçek'in
+peéini b¡rakmaz m¡s¡n...<NOD<END
 
 
 #0220
 <KEY<MSG<FAC0013
-Hizlisin!<NOD<CLR<GIT1014
+H¡zl¡s¡n!<NOD<CLR<GIT1014
 Bu da benim
-sevgili kopecigim.<NOD<CLR
-<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Kopegi ona verdin.<NOD<CLR<FL-0274<FAC0013
+sevgili köpeèim.<NOD<CLR
+<GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Köpeèi ona verdin.<NOD<CLR<FL-0274<FAC0013
 Bu arada...<NOD
-Sen yuzeyden gelen
+Sen yeryüzünden gelen
 bir askersin.<NOD<CLR
 .....<NOD<CLR
 Senin gibi robotlar
 bu adaya
 gelmeyeli uzun zaman oldu.<NOD
-Savunmasiz Mimiga'larin
-bircogunu
-oldurduler...<NOD
-Mimiga'yi korumaya
-kalkisan cesur
-insanlar da oldu.<NOD<CLR
-Kirmizi Cicek'i yemenin
-yasak etkisiyle...<NOD
-...koseye sikisan Mimiga
+Savunmas¡z Mimigalar¡n
+birçoèunu
+öldürdüler...<NOD
+Mimigalar¡ savunmaya çal¡éan
+cesur kad¡n ve erkeklerin
+ölümünden de onlar sorumluydu.<NOD<CLR
+Yasak k¡rm¡z¡ çiçeèi
+yedikleri için...<NOD
+...köéeye s¡k¡éan Mimigalar
 tamamen kudurdu.<NOD<CLR
-Adalarini basan robotlara
-vahsice
-karsi koydular.<NOD<CLR
-Kirmizi Cicek olmasaydi,
-bu adadaki Mimiga'lar
+Adalar¡n¡ basan robotlara
+vahéice
+karé¡ koydular.<NOD<CLR
+K¡rm¡z¡ Çiçek olmasayd¡,
+bu adadaki Mimigalar
 belki de<NOD 
 tamamen
 yok olurdu...<NOD<CLR
-Uc tane kaldi.<NOD
-Yaparsin.<NOD<FL+0591<0CE<WAI0040
-<MSG<FAC0000Maksimum can 1 artti.<NOD<ML+0001<CLO<END
+Üç tane kald¡.<NOD
+Yapars¡n.<NOD<FL+0591<0CE<WAI0040
+<MSG<FAC0000Azami can¡n 1 artt¡.<NOD<ML+0001<CLO<END
 
 
 #0221
 <KEY<MSG<FAC0013
 Ooo.<NOD<CLR<GIT1014
-Evet.<NOD
-Bu benim.<NOD<CLR
-<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Kopegi ona verdin.<NOD<CLR<FL-0274<FAC0013
-Cok sag ol.
-Bu ucuncusu...<NOD<CLR
+Kesinlikle.<NOD
+O benimki.<NOD<CLR
+<GIT0000<CNP0302:0130:0000<DNP0401<FAC0000Köpeèi ona verdin.<NOD<CLR<FL-0274<FAC0013
+Çok saè ol.
+Bu üçüncüsü...<NOD<CLR
 .....<NOD<CLR
-Hic cilgina donmus
-bir Mimiga gordun mu?<NOD<CLR
-"Kirmizi Cicek'i yersem
-guclenirim."<NOD
-Bircok Mimiga buna
-inandi ve
-Kirmizi Cicek'i yedi.<NOD
+Hiç ç¡lg¡na dönmüé
+bir Mimiga gördün mü?<NOD<CLR
+"K¡rm¡z¡ Çiçek'i yersem
+güçlenirim."<NOD
+Birçok Mimiga buna
+inand¡ ve
+K¡rm¡z¡ Çiçek'i yedi.<NOD
 Ancak o zaman
-robot surulerine
-karsi koydular.<NOD<CLR
+robot taburlar¡na
+karé¡ koydular.<NOD<CLR
 Ama...<NOD<CLR
 Peki sonra
-boyle ofkeyle dolmus
+böyle öfkeyle dolmué
 Mimiga'ya ne olur biliyor musun???<NOD<CLR
 .....<NOD<CLR
-Cok korkunctu...<NOD
+Çok korkunçtu...<NOD
 Belki de kendilerini
-kontrol edemiyorlardi...<NOD 
-Kirmizi Cicek'i yiyen
-Mimiga'larin cogu
-bir daha gorulmedi.<NOD<CLR
+kontrol edemiyorlard¡...<NOD 
+K¡rm¡z¡ Çiçek'i yiyen
+Mimigalar¡n çoèu
+bir daha görülmedi.<NOD<CLR
 Kayboldular.<NOD<CLR
-Bir soylenti duydum.
-Sozde inmisler...
-yuzeye...<NOD
-Insanlarin yasadigi yere.<NOD<CLR
-Cilgina donmus
-Mimiga'larin yuzeye
-yuzeye...<NOD insanlarin yanina...<NOD
-Eger dogruysa...<NOD<CLR
-Anliyor musun?<NOD
-Kirmizi Cicek'in
-ne kadar tehlikeli oldugunu biliyor
-musun?<NOD<CLR
+Bir söylenti duydum.
+Sözde yeryüzüne kadar
+inmiéler...<NOD
+Ínsanlar¡n yaéad¡è¡ yere.<NOD<CLR
+Ç¡lg¡na dönmüé Mimigalar¡n
+yeryüzüne kadar inmesi...<NOD insanlar¡n yan¡na...<NOD
+Eèer doèruysa...<NOD<CLR
+Èimdi anl¡yor musun?<NOD
+K¡rm¡z¡ Çiçek'in asl¡nda
+ne kadar tehlikeli olduèunun
+fark¡nda m¡s¡n? <NOD<CLR
 .....<NOD<CLR
-Iki yavru kaldi...<NOD<FL+0592<0CE<WAI0040
-<FAC0000<MSGMaksimum can 1 artti.<NOD<ML+0001<CLO<END
+Íki yavru kald¡...<NOD<FL+0592<0CE<WAI0040
+<FAC0000<MSGAzami can¡n 1 artt¡.<NOD<ML+0001<CLO<END
 
 #0222
 <KEY<MSG<FAC0013
 Seni pek sevdiler!<NOD
-Benim kopeklerim de
-bas belasini sevmez...<NOD<CLR<GIT1014
-Bunca emegin icin
-sag ol.<NOD<CLR
-<GIT0000<FAC0000Kopegi ona verdin.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
+Benim köpeklerim de
+baé belalar¡n¡ sevmez...<NOD<CLR<GIT1014
+Bunca emeèin için
+saè ol.<NOD<CLR
+<GIT0000<FAC0000Köpeèi ona verdin.<NOD<CLR<CNP0303:0130:0000<DNP0401<FL-0274
 <FAC0013.....<NOD<CLR
-Deponun anahtari mi
+Deponun anahtar¡ m¡
 istiyorsun?<NOD
-Kirmizi Cicek
-tohumlarinin durdugu
+K¡rm¡z¡ Çiçek
+tohumlar¡n¡n durduèu
 depo...<NOD<CLR
 Sen kim olursan ol,
-hic fark etmez, anladin mi?<NOD
-Uzgunum, deponun
-anahtarini veremem.<NOD
-Depoyu acmak,<NOD
-aptalca olur,
-o eski felaketi
-yeniden yasatir...<NOD<CLR
-Bir, iki, uc, dort...<NOD<CLR
-Son bir tane kaldi.<NOD<FL+0593<0CE<WAI0040
-<FAC0000<MSGMaksimum can 1 artti.<NOD<ML+0001<CLO<END
+hiç fark etmez, anlad¡n m¡?<NOD
+Üzgünüm, deponun
+anahtar¡n¡ veremem.<NOD
+Depoyu açmak,<NOD
+geçmiéteki trajedinin
+yeniden yaéanmas¡na
+aptalca izin vermek olur...<NOD<CLR
+Bir, iki, üç, dört...<NOD<CLR
+Son bir tane kald¡.<NOD<FL+0593<0CE<WAI0040
+<FAC0000<MSGAzami can¡n 1 artt¡.<NOD<ML+0001<CLO<END
 
 #0300
 <FLJ0590:0310<END
@@ -258,3 +257,4 @@ Hav! Hav hav! Hav hav hav!<NOD<END
 
 #0400
 #0401
+

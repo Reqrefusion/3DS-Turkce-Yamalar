@@ -12,7 +12,7 @@
 
 #0100
 <PRI<MSG
-Iceri kilitlendin...<NOD<END
+Íçeri kilitlendin...<NOD<END
 <ANP0100:0000:0002<SOU0011<FAO0004<TRA0062:0094:0079:0073
 
 #0110
@@ -27,12 +27,12 @@ Iceri kilitlendin...<NOD<END
 #0200
 <PRI<MSG
 Pes edeceksen, ben
-zamani bir iki dakika geri sararim.<NOD<CLR
+zaman¡ bir iki dakika geri sarar¡m.<NOD<CLR
 Pes mi?<YNJ0000<CLO
 <FL+1390<FL+1391<FL+1392<CMU0000<FAO0001<WAI0100
 <TRA0070:0310:0118:0062
 
 #0250
 <PRI<MSG
-Yatak bir yana yatmis...<NOD<END
+Yatak bir yana yatm¡é...<NOD<END
 

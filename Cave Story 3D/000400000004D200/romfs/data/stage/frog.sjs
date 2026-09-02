@@ -17,39 +17,39 @@
 <SOU0011<CNP0100:0018:0002<FAO0004<TRA0006:0094:0273:0006
 #0101
 <PRI<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 
 #0200
 <KEY<FLJ0501:0001<FL+0501<SOU0022<CNP0200:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<GIT1011<IT+0011<CLR
-<CMU0010Sakiz Bazi alindi.<WAI0160<NOD<CMU0000<GIT0000<CLO
+Hazine sand¡è¡n¡ açt¡n.<NOD<GIT1011<IT+0011<CLR
+<CMU0010Sak¡z Mayas¡ al¡nd¡.<WAI0160<NOD<CMU0000<GIT0000<CLO
 <CNP0500:0067:0002<WAI0010<MYD0000<WAI0090
 <0CS<MSG<FAC0000<FAC0015
 Hey!<NOD<FAC0000<CLO
 <ANP0500:0013:0002<WAI0050<ANP1000:0008:0000
 <MSG<FAC0015
 Yine sen.<NOD
-Beni hatirliyor musun??<NOD<CLR
-Mimiga Koyu'nde...<NOD<CLR
-O zaman fark etmemistim,
-ama simdi hatirladim.<NOD<CLR
-Sen... yuzeyden gelen
-o asker degil misin?<NOD<CLR
-Nasil hayatta kaldigini
+Beni hat¡rl¡yor musun??<NOD<CLR
+Mimiga Köyü'nde...<NOD<CLR
+O zaman fark etmemiétim,
+ama éimdi hat¡rlad¡m.<NOD<CLR
+Sen... yeryüzünden gelen
+o asker deèil misin?<NOD<CLR
+Nas¡l hayatta kald¡è¡n¡
 bilmiyorum.<NOD<FAC0000<CLO
 <CNP0201:0009:0002<WAI0088<MYD0000<WAI0050<CMU0011
 <CNP0201:0012:0002<ANP0201:0000:0002
 <MSG<FAC0005
 Misery!<NOD<CLR
-O dusman!<NOD<CLR
-Senden bile guclu olabilir,
+O düéman!<NOD<CLR
+Senden bile güçlü olabilir,
 Misery!<NOD<CLR<FAC0015
-Oyle mi?<NOD<FAC0000<CLO<WAI0020<ANP0500:0025:0000<WAI0050<ANP0201:0040:0002<MSG
+Öyle mi?<NOD<FAC0000<CLO<WAI0020<ANP0500:0025:0000<WAI0050<ANP0201:0040:0002<MSG
 <FAC0023!!!<NOD<CLR<FAC0015
-Iyi. O zaman bu asker
-senin isin.<NOD<CLR
-<ANP0500:0020:0000<WAI0030Bu sefer gercekten kir sunu,
+Güzel. O zaman bu asker
+senin iéin.<NOD<CLR
+<ANP0500:0020:0000<WAI0030Bu sefer kesin iéini bitir,
 sonra geri gel.<NOD<FAC0000<CLO
 <ANP0201:0042:0002<BOA0020<WAI0100
 <DNP0201<BOA0010

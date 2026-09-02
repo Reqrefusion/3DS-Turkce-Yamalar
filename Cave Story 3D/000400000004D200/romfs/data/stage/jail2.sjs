@@ -23,7 +23,7 @@
 #0200
 <KEY<MSG
 Hedef bilinmiyor.<NOD
-Yine de isinlanmak istiyor musun?<YNJ0000<CLO<FL+0524
+Yine de ¡é¡nlanmak istiyor musun?<YNJ0000<CLO<FL+0524
 <CNP0300:0111:0000<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0018:0099:0015:0010
 
@@ -31,30 +31,30 @@ Yine de isinlanmak istiyor musun?<YNJ0000<CLO<FL+0524
 #0400
 <PRI<MSG
 Aa, sen bir katil robot musun?<NOD<CLR
-Bizi oldurmeye mi geldin?<NOD<END
+Bizi öldürmeye mi geldin?<NOD<END
 #0401
 <PRI<MSG
-Bizi buradan cikar!<NOD<END
+Bizi buradan ç¡kar!<NOD<END
 #0402
 <PRI<MSG
-Doktor yesin onu!<NOD<END
+Doktor'un can¡ cehenneme!<NOD<END
 
 #0403
 <PRI<MSG
-Ciftlikte calisan Mimiga'lar
-Doktor tarafindan kandiriliyor!<NOD<CLR
-Bizi yeryuzunden gelen
-katil robotlarla dovusturmek
+Çiftlikte çal¡éan Mimigalar
+Doktor taraf¡ndan kand¡r¡l¡yor!<NOD<CLR
+Bizi yeryüzünden gelen
+katil robotlarla dövüétürmek
 istiyor!<NOD<END
 #0404
 <PRI<MSG
-Sakamoto diye birini taniyor musun?<NOD
+Sakamoto diye birini tan¡yor musun?<NOD
 O, muhtemelen
 Plantasyon'da bir yerlerde
-saklaniyordur...<NOD<END
+saklan¡yordur...<NOD<END
 #0405
 <PRI<MSG
-Burada birkac insan da vardi ama
-son zamanlarda hic gormedim...<NOD
-Sag salim kacabildiler mi acaba.<NOD<END
+Burada birkaç insan da vard¡ ama
+son zamanlarda hiç görmedim...<NOD
+Saè salim kaçabildiler mi acaba.<NOD<END
 

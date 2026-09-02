@@ -23,30 +23,28 @@
 
 #0200
 <PRI<MSG<TUR
-Geri donemezsin...<NOD<END
+Geri dönemezsin...<NOD<END
 
 
 
 #0900
 <DNP0900<SKJ0022:0000<SK+0022
 <0CS<PRI<MS3
-Ballos'u kiskanan kinci kral
-onu yakalayip hapsetti.<NOD
-Cezasi agir ve acimasizdi.<NOD
-Insanlar gercekten korkunc
-yaratiklar...<NOD<0CE<END
+Ballos'u k¡skanan kinci kral
+onu yakalay¡p hapsetti.<NOD
+Cezas¡ aè¡r ve ac¡mas¡zd¡.<NOD
+Ínsanlar gerçekten korkunç
+yarat¡klar...<NOD<0CE<END
 
 #0901
 <DNP0901<SKJ0023:0000<SK+0023
 <0CS<PRI<MS3
-Ballos, bu cezayla saf bir
-kontrolsuz ofkeye suruklendi.<NOD
-Iskenceden zayif dusup
-bu ofkeyi dizginleyemedi.<NOD
-Kral ve krallik,
-Ballos'un azgin buyu gucuyle
-yutuldu.<NOD
-Sevdigi hayat,
-bir gecede harabeye dondu...
-...Yalniz kizgin kullerin altinda
-kaldi.<NOD<0CE<END
+Ballos, bu cezayla kat¡ks¡z ve
+kontrol edilemez bir öfkeye sürüklendi.<NOD
+Íékenceden zay¡f düéüp
+bu öfkeyi dizginleyemedi.<NOD
+Kral ve krall¡k, Ballos'un kontrolden
+ç¡kan büyü gücü taraf¡ndan yutuldu.<NOD
+Sevdièi hayat bir gecede
+harabeye döndü...
+...Yaln¡z k¡zg¡n küllerle örtüldü.<NOD<0CE<END

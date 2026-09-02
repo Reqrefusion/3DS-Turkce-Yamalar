@@ -19,15 +19,15 @@
 Hav!<NOD<FLJ0564:0401<END
 #0401
 <ITJ0014:0410<CLR
-Onu yanina almak ister misin?<YNJ0000<CLR
-<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014Kopegi aldin.<NOD<CLO
+Onu yan¡na almak ister misin?<YNJ0000<CLR
+<CNP0400:0136:0000<FL+0580<GIT1014<IT+0014Köpeèi ald¡n.<NOD<CLO
 <FL+3000<FL-3001<FL-3002<FL-3003<FL-3004
 <FL+0274<END
 #0410
-<PRI<MSGIkisini birden yanina alamazsin.<NOD<END
+<PRI<MSGÍkisini birden yan¡na alamazs¡n.<NOD<END
 
 #0420
 <KEY<DNP0420<MSG<GIT1035<IT+0035
-Curly'nin Kulotunu buldun.<NOD<END
+Curly'nin Íç Çamaé¡r¡n¡ buldun.<NOD<END
 
 

@@ -16,16 +16,17 @@
 #0200
 <KEY<FLJ1042:0201
 <MSG
-Acilmiyor...<NOD<END
+Aç¡lm¡yor...<NOD<END
 #0201
 <KEY<FLJ1700:0202<FL+1700<SOU0022<CNP0200:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<GIT1022<IT+0022<CLR
-<CMU0010290 Sayaci'ni aldin.<WAI0160<NOD<RMU<EVE0202
+Hazine sand¡è¡n¡ açt¡n.<NOD<GIT1022<IT+0022<CLR
+<CMU0010Sayaç 290'¡ ald¡n.<WAI0160<NOD<RMU<EVE0202
 #0202
 <KEY<MSG
-Sayacta bir yazi kazili:<NOD<CLR<TUR
-Bunu sana sunuyorum, meydan okuyan,<NOD
-kararliligini sinamak icin.<NOD<CLR
-En iyini goster!<NOD<END
+Sayaçta bir yaz¡ kaz¡l¡:<NOD<CLR<TUR
+Bu sayac¡ sana sunuyorum,
+meydan okuyan kiéi.<NOD
+Kararl¡l¡è¡n¡ görmek istiyorum.<NOD<CLR
+Elinden geleni göster!<NOD<END
 

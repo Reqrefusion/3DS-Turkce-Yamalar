@@ -32,45 +32,45 @@ Oooaah!<NOD<CLO
 <ANP0400:0010:0000
 <MSG
 Iiiik!<MYB0002<NOD<CLR
-Oldurme beni!<NOD
-Ben insanim!
-Buyuyle Mimiga'ya cevrildim!<NOD<CLR
+Öldürme beni!<NOD
+Ben insan¡m!
+Büyüyle Mimiga'ya çevrildim!<NOD<CLR
 Ha?<NOD<CLR
 .....<NOD<CLR<ANP0400:0000:0000<FAC0028
 Yani... sen katil bir
-robot degilsin?<NOD
-Birden dalinca
-odum koptu.<NOD<CLR
-Bizi kurtarmaya mi geldin?<NOD<END
+robot deèilsin?<NOD
+Birden dal¡nca
+ödüm koptu.<NOD<CLR
+Bizi kurtarmaya m¡ geldin?<NOD<END
 
 
 #0401
 <KEY<FL+1002
 <MSG<FAC0028
 Ben Itoh.
-Adayi incelemeye gelen
+Aday¡ incelemeye gelen
 insanlardan biriyim.<NOD
-Misery bana bu 'sirin'
-yeni Mimiga gorunumunu verdi.<NOD
-Kacabilirdim belki,
-ama halime bir bak
-simdi.<NOD<CLR
-Mahsur kaldim!<NOD<CLR
-Disaridan duvara tirmanip
-buraya kadar gelmis olmalisin.<NOD
-Iyi bir muhendisim,
-ama dogustan
-yukseklik korkum var.<NOD<CLR
+Misery bana bu 'éirin'
+yeni Mimiga görünümünü verdi.<NOD
+Kaçabilirdim belki,
+ama hâlime bir bak
+éimdi.<NOD<CLR
+Mahsur kald¡m!<NOD<CLR
+D¡éar¡dan duvara t¡rman¡p
+buraya kadar gelmié olmal¡s¡n.<NOD
+Íyi bir mühendisim,
+ama doèuétan
+yükseklik korkum var.<NOD<CLR
 Uff...<NOD<CLR
-Su ucan adaya
+Èu uçan adaya
 benim gibi biri
-hic gelmemeliydi.<NOD<END
+hiç gelmemeliydi.<NOD<END
 
 #0402
 <KEY<MSG<FAC0028
-Burada mahsur kalmis
-zavalli adamdan
-bir sey istemene gerek yok...<NOD<END
+Burada mahsur kalm¡é
+zavall¡ adamdan
+bir éey istemene gerek yok...<NOD<END
 
 
 #0403
@@ -78,17 +78,17 @@ bir sey istemene gerek yok...<NOD<END
 Itoh?<NOD
 Benim.<NOD<CLR
 Ne?<NOD
-Sakamoto roket mi yapiyor?<NOD<CLR
-Hala sag salim yasadigini
-hic bilmiyordum...<NOD
-O gercekten guclu.<NOD
-Onun yaninda ben...<NOD<CLR
+Sakamoto roket mi yap¡yor?<NOD<CLR
+Hâlâ saè salim yaéad¡è¡n¡
+hiç bilmiyordum...<NOD
+O gerçekten güçlü.<NOD
+Onun yan¡nda ben...<NOD<CLR
 Peki.<NOD
 Bunu al.<NOD<FAC0000<GIT1027<IT+0027<CLR
-<CMU0010Kontrol Cihazi alindi.<WAI0160<NOD<RMU
+<CMU0010Denetleyici al¡nd¡.<WAI0160<NOD<RMU
 <CLR<FAC0028
-Sanirim Sakamoto'nun
-ihtiyaci olan sey bu.<NOD<GIT0000<EVE0404
+San¡r¡m Sakamoto'nun
+ihtiyac¡ olan éey bu.<NOD<GIT0000<EVE0404
 #0404
 <KEY<MSG<FAC0028
-Benden ona selam soyle.<NOD<END
+Benden ona selam söyle.<NOD<END

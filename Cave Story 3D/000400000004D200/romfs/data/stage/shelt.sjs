@@ -22,11 +22,12 @@
 #0102
 <KEY<FLJ0524:0103
 <MSG
-Bir isinlayici.<NOD<CLR
-Kullanimi askiya alinmis gibi...<NOD<END
+Bir ¡é¡nlay¡c¡.<NOD<CLR
+Kullan¡m¡ ask¡ya al¡nm¡é gibi...<NOD<END
 #0103
 <PRI<MSG
-Plantasyon'a isinlan?<YNJ0000<CLO
+Plantasyon'a
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0102:0001:0000
 <WAI0100<FAO0004<TRA0061:0099:0007:0013
 
@@ -41,84 +42,84 @@ Plantasyon'a isinlan?<YNJ0000<CLO
 <FL+0520<SOU0011<DNP0101
 <WAI0050<MYD0002<MOV0006:0010
 <CMU0010<MSG<FAC0010
-Pekala!<WAI0160<NOD<CMU0008<CLR
+Pekâlâ!<WAI0160<NOD<CMU0008<CLR
 Aferin evlat!<NOD
-Bir bakista anladim--<NOD
-Yapabilecegini biliyordum!<NOD<CLR
+Bir bak¡éta anlad¡m--<NOD
+Yapabileceèini biliyordum!<NOD<CLR
 .....<NOD
 <CLR
-Sey...<NOD
-Benim adim Kazuma Sakamoto.<NOD
+Èey...<NOD
+Benim ad¡m Kazuma Sakamoto.<NOD
 Ama bana Kazuma de.<NOD<CLR
-Sans eseri Doktor'dan kacabildim
+Èans eseri Doktor'dan kaçabildim
 ama sonra...<NOD
-buraya isinlandim.<NOD
-Acliktan olecek gibi oldum,
-tam anlamiyla...<NOD
-Resmen hayatimi kurtardin!<NOD<CLR
+buraya ¡é¡nland¡m.<NOD
+Açl¡ktan ölecek gibi oldum,
+tam anlam¡yla...<NOD
+Resmen hayat¡m¡ kurtard¡n!<NOD<CLR
 Bu arada...<NOD<CLR
-Mimiga Koyu diye bir yeri
+Mimiga Köyü diye bir yeri
 duydun mu?<NOD<CLR
 ...Sue?<NOD<CLR
-Sue'yi taniyor musun?!<NOD<CLR
-Anladim...<NOD
-Demek beni almaya
-Sue'nin yerine sen geldin.<NOD<CLR
-Anliyorum.<NOD
+Sue'yu tan¡yor musun?!<NOD<CLR
+Anlad¡m...<NOD
+Demek Sue'nun yerine
+beni almaya sen geldin.<NOD<CLR
+Anl¡yorum.<NOD
 Haydi gidelim!
-Beni koye gotur!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
+Beni köye götür!<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
 ?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
 <FAC0000<MSG<ANP0102:0000:0000<FAC0018
 Kazuma, sen misin?!<NOD<CLR<FAC0010
-Profesor Booster!!<NOD
-Demek guvendesin!<NOD<CLR<FAC0018
-Evet... bir sekilde.<NOD<CLO
+Profesör Booster!!<NOD
+Demek güvendesin!<NOD<CLR<FAC0018
+Evet... bir éekilde.<NOD<CLO
 <ANP0303:0003:0000<WAI0040
 <ANP0303:0000:0002<WAI0030
 <ANP0303:0000:0000<WAI0030
 <FAC0000<MSG<FAC0018
-Sue nasil?<NOD
-Iyi mi?!<NOD<CLR<FAC0010
-Sue Mimiga Koyu'nde.<NOD
-Bizi oraya bu cocuk goturecek.<NOD<CLO
+Sue nas¡l?<NOD
+Íyi mi?!<NOD<CLR<FAC0010
+Sue Mimiga Köyü'nde.<NOD
+Bizi oraya bu çocuk götürecek.<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0018
 Oh...<NOD<CLO
 <ANP0303:0003:0000<WAI0080<ANP0303:0000:0000
 <FAC0000<MSG<FAC0010
-Onu taniyor musun?<NOD<CLR<FAC0018
+Onu tan¡yor musun?<NOD<CLR<FAC0018
 .....<NOD<CLR
-Hayir...<NOD<CLR
-<ANP0303:0000:0002Sey... aslinda yeni tanistik.<NOD<CLR
+Hay¡r...<NOD<CLR
+<ANP0303:0000:0002Èey... asl¡nda yeni tan¡ét¡k.<NOD<CLR
 Neyse, acele edip
-Sue'nin yanina gidelim.<NOD
-Doktor Mimiga'lari
-toplamaya basladi.<NOD
-Gorunuse gore
-kirmizi cicekleri fark etmis.<NOD<CLR<FAC0010
+Sue'nun yan¡na gidelim.<NOD
+Doktor Mimigalar¡
+toplamaya baélad¡.<NOD
+Görünüée göre
+k¡rm¡z¡ çiçekleri fark etmié.<NOD<CLR<FAC0010
 Ama Sue bir...<NOD<CLR
-Kirmizi cicekler
-Sue'de de ise yarar mi?<NOD
-Digerleri gibi?<NOD<CLR<FAC0018
+K¡rm¡z¡ çiçekler
+Sue'de de iée yarar m¡?<NOD
+Dièerleri gibi?<NOD<CLR<FAC0018
 Kazuma.<NOD<CLR
-Doktor Mimiga'lari
-kacirmaya basladi.<NOD
+Doktor Mimigalar¡
+kaç¡rmaya baélad¡.<NOD
 Bunun ne demek
-oldugunu anliyor musun?<NOD<CLR<FAC0010<CMU0000
-...Yani Doktor ve savas mi?<NOD<CLO<FAC0000
+olduèunu anl¡yor musun?<NOD<CLR<FAC0010<CMU0000
+...Yani Doktor ve savaé m¡?<NOD<CLO<FAC0000
 <ANP0303:0003:0002<WAI0032
 <ANP0303:0000:0002
 <MSG<FAC0018
-Aynen oyle.<NOD<CMU0008
-Simdi onu durdurabilecek
-tek kisiler biziz.<NOD<CLR<FAC0010
-Peki Doktor'u nasil
-durduracagiz?<NOD<CLR<FAC0018
+Aynen öyle.<NOD<CMU0008
+Èimdi onu durdurabilecek
+tek kiéiler biziz.<NOD<CLR<FAC0010
+Peki Doktor'u nas¡l
+durduracaè¡z?<NOD<CLR<FAC0018
 Bir fikrim var.<NOD
 Her neyse, acele edip
-Sue'nin yanina donelim.<NOD
-Oraya varinca konusuruz.<NOD<FAC0000<CLO
+Sue'nun yan¡na dönelim.<NOD
+Oraya var¡nca konuéuruz.<NOD<FAC0000<CLO
 <ANP0303:0003:0000<WAI0038
 <MYB0002<WAI0016<MYD0002<ANP0303:0000:0000
 <MSG<FAC0018
@@ -136,12 +137,12 @@ Sen de gel.<NOD<CLO
 #0210
 #0220
 <KEY<FLJ0524:0221<MSG<TUR
-Bu isinlayici su an
-kullanilamiyor.<NOD<END
+Bu ¡é¡nlay¡c¡ éu an
+kullan¡lam¡yor.<NOD<END
 #0221
 <KEY<MSG<TUR
-Plantasyon'a isinlanmak
-mumkun.<NOD<END
+Plantasyon'a ¡é¡nlanmak
+mümkün.<NOD<END
 
 #0300
 #0301
@@ -152,36 +153,36 @@ mumkun.<NOD<END
 #0500
 <KEY<CMU0021<FAI0004
 <MSG
-Aga baglaniliyor.<WAI0050
+Aèa baèlan¡l¡yor.<WAI0050
 <MSG
-Giris yapildi.<WAI0050
+Girié yap¡ld¡.<WAI0050
 <MSG
-Anlik mesajlasma baslatiliyor.<WAI0100<CLR
+Anl¡k mesajlaéma baélat¡l¡yor.<WAI0100<CLR
 <MSG
 Kazuma: Sue?<NOD
-Kazuma: orada misin?<NOD
+Kazuma: orada m¡s¡n?<NOD
 Kazuma: benim<NOD
 Kazuma: Kazuma!<NOD
-Kazuma: bir sekilde kacabildim,
+Kazuma: bir éekilde kaçabildim,
 ama kayboldum<NOD
-Kazuma: ici bombos bir siginaktayim
-hicbir sey yok<NOD
+Kazuma: içi bomboé bir s¡è¡naktay¡m;
+burada hiçbir éey yok<NOD
 Kazuma: bunu okuyorsan,
-lutfen cevap ver<NOD<CLR
-Kazuma: ...lutfen?<NOD
+lütfen cevap ver<NOD<CLR
+Kazuma: ...lütfen?<NOD
 <FAO0004<SK+0005<TRA0013:0091:0010:0008
 
 
 #0501
 <KEY<HMC<CMU0021<FAI0004
 <MSG
-"Sue" araniyor.<WAI0150<CLR<MSG
+"Sue" aran¡yor.<WAI0150<CLR<MSG
 Bir adet "Sue" bulundu.<WAI0150<CLR<MSG
 Kazuma: SUUUUE!<NOD
 Kazuma: cevap ver<NOD
-Kazuma: seni ariyorlar
+Kazuma: seni ar¡yorlar
 Kazuma: uyuyor musun ne?<NOD
-Kazuma: kardesin cok yalniz...<NOD<FAO0004<SMC<CLO
+Kazuma: kardeéin çok yaln¡z...<NOD<FAO0004<SMC<CLO
 <TRA0090:0095:0014:0009
 
 
@@ -189,43 +190,42 @@ Kazuma: kardesin cok yalniz...<NOD<FAO0004<SMC<CLO
 <0CS<KEY<HMC<CMU0021<FAI0004
 <MSG
 Kazuma: hadi ama Sue!!!<NOD
-Kazuma: bir sey yazsana!<NOD
-Kazuma: burada acliktan oluyorum...
-Kazuma: oyle acim ki, ki...
-Kazuma: hamambocegi bile yedim<NOD
-Kazuma: LOL saka saka!!!<NOD<CLR
-Kazuma: ama bil diye soyluyorum,
-eger
-o noktaya gelirsem yaparim<NOD<FAO0004<SMC<0CE<TRA0011:0302:0008:0006
+Kazuma: bir éey yazsana!<NOD
+Kazuma: burada açl¡ktan ölüyorum...
+Kazuma: öyle aç¡m ki, ki...
+Kazuma: hamamböceèi bile yedim<NOD
+Kazuma: Ahaha, éaka éaka!!!<NOD<CLR
+Kazuma: ama bil diye söylüyorum,
+eèer
+o noktaya gelirsem yapar¡m<NOD<FAO0004<SMC<0CE<TRA0011:0302:0008:0006
 
 
 #0700
 <KEY<FAI0004<MSG
 Kazuma: Sue?<NOD
-Kazuma: gercekten sen misin, Sue?<NOD<FAO0004<TRA0024:0701:0002:0000
+Kazuma: gerçekten sen misin, Sue?<NOD<FAO0004<TRA0024:0701:0002:0000
 #0701
 <KEY<FAI0004<MSG
-Kazuma: kapi sikismis, disari
-cikamiyorum<NOD
-Kazuma: hala siginak gibi bir
-odadayim<NOD
-Kazuma: bu arada, isinlanmak icin
-kod "Bushlands"<NOD
-Kazuma: sen de oradan aramayi dene<NOD<CLR
-Kazuma: ve hayir, annem yanimda
-degil
-Kazuma: korkarim hala
+Kazuma: kap¡ s¡k¡ém¡é, d¡éar¡
+ç¡kam¡yorum<NOD
+Kazuma: hâlâ s¡è¡nak gibi bir
+odaday¡m<NOD
+Kazuma: bu arada, ¡é¡nlanmak için
+kod "Çal¡l¡klar"<NOD
+Kazuma: sen de oradan aramay¡ dene<NOD<CLR
+Kazuma: hay¡r, annem burada deèil
+Kazuma: korkar¡m hâlâ
 Doktor'la olabilir<NOD<CLR
-Kazuma: ucan ejderha
-yumurtalari catlamaya basladi mi?<NOD<FAO0004<TRA0024:0702:0002:0000
+Kazuma: Uçan Ejderha yumurtalar¡ndan
+ç¡kmaya haz¡r olan var m¡?<NOD<FAO0004<TRA0024:0702:0002:0000
 
 #0702
 <0CS<KEY<FAI0004<MSG
-Kazuma: anlasildi!<NOD
-Kazuma: bir de rica edecegim,
-donuste biraz
+Kazuma: anlaé¡ld¡!<NOD
+Kazuma: bir de rica edeceèim,
+dönüéte biraz
 yemek getir de--<NOD<CLR
 <MSG
-Kullanici "Sue" baglantiyi kesti.<NOD<CLR
+Kullan¡c¡ "Sue" baèlant¡y¡ kesti.<NOD<CLR
 Ah...<NOD<FAO0004<0CE<TRA0024:0703:0002:0000
 

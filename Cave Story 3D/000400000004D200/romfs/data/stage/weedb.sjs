@@ -17,20 +17,20 @@
 <ANP0200:0050:0005<CMU0000<END
 #0201
 <PRI<MSG
-Kirmizi cicek yapraklari yere
-sacilmis.<NOD<END
+K¡rm¡z¡ çiçek yapraklar¡ yere
+saç¡lm¡é.<NOD<END
 #0202
 <PRI<FLJ0550:0203<MSG
-Bir sey hissediyorsun...<NOD<END
+Bir éey hissediyorsun...<NOD<END
 #0203
 <PRI<MSG
-Orada bir sey yok.<NOD<END
+Orada bir éey yok.<NOD<END
 
 #0300
 <PRI<FLJ0550:0001<FL+0550
 <SOU0022<CNP0300:0021:0000
 <MSG
-Hazine sandigini actin.<CNP0302:0046:0000<NOD<EVE0030
+Hazine sand¡è¡n¡ açt¡n.<CNP0302:0046:0000<NOD<EVE0030
 
 #0302
 <PRI<DNP0302<CMU0004<CNP0200:0115:0002<ANP0200:0030:0002<END

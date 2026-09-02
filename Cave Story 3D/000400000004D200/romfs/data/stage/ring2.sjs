@@ -41,28 +41,28 @@
 <FLJ1272:0204
 <FLJ1270:0202
 <FLJ1271:0201<MSG
-Hey, sen... bir sure once evimde
-tanistigim yolcusun.<NOD<FLJ1020:0205<CLR
-Beni kurtarmaya mi geldin?<NOD<END
+Hey, sen... bir süre önce evimde
+tan¡ét¡è¡m yolcusun.<NOD<FLJ1020:0205<CLR
+Beni kurtarmaya m¡ geldin?<NOD<END
 #0201
 <PRI<MSG
-Bol sans!<NOD<END
+Bol éans!<NOD<END
 #0202
 <KEY<MSG
-Iyi is cikardin.<NOD<CLR
-Biraz unlu gibi hissediyorum.<NOD<CLR
+Íyi ié ç¡kard¡n.<NOD<CLR
+Kendimi biraz ünlü gibi hissediyorum.<NOD<CLR
 Sue?<NOD<CLR
-Evet, tanirim.<NOD
-O kiz Mimiga'ya benziyor,
-ama aslinda insan, degil mi?<NOD
-Gozum yanilmaz.<NOD
-Ama burada degil.<NOD<CLO
+Evet, tan¡r¡m.<NOD
+O k¡z Mimiga'ya benziyor,
+ama asl¡nda insan, deèil mi?<NOD
+Gözüm yan¡lmaz.<NOD
+Ama burada deèil.<NOD<CLO
 <FL+1272<END
 #0203
 #0204
 <KEY<MSG
-Guclusun, ha.<NOD
-Buyuk kahramanimiz Arthur gibi.<NOD<FLJ1274:0000<FL+1274<CLR
+Güçlüsün, ha.<NOD
+Büyük kahraman¡m¡z Arthur gibi.<NOD<FLJ1274:0000<FL+1274<CLR
 Heh.<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
@@ -74,41 +74,41 @@ Heh.<NOD<CLO
 #0205
 <KEY<MSG
 Bu bir maske!
-Beni kandiramazsin.<NOD<END
+Beni kand¡ramazs¡n.<NOD<END
 
 #0210
 <PRI<FLJ1270:0212
 <FLJ1271:0211
 <MSG
 Doktor bizden korkuyor.<NOD
-O yuzden bizi hapse atti.<NOD
+O yüzden bizi hapse att¡.<NOD
 Kesin.<NOD<END
 #0211
 <PRI<MSG
-Sana guveniyoruz!<NOD<END
+Sana güveniyoruz!<NOD<END
 #0212
 <PRI<MSG
-Hic fena degil!<NOD<END
+Hiç fena deèil!<NOD<END
 
 #0220
 <PRI<FLJ1270:0222
 <FLJ1271:0221
 <MSG
 Ah!<NOD<CLR
-O zamanlardan birisin...<NOD<END
+Sen o zamanki robotlardan birisin...<NOD<END
 #0221
 <PRI<MSG
 Dikkat!
-Arkana!!!<NOD<END
+Arkanda!!!<NOD<END
 #0222
 <KEY<MSG
-Beni hatirladin mi?<NOD
-Anahtarimi Bushlands'te kaybettim...<NOD<FLJ1020:0223<CLR
-Anladim...<NOD<CLR
-Evet, o Doktor kotu biri.<NOD<END
+Beni hat¡rlad¡n m¡?<NOD
+Anahtar¡m¡ Çal¡l¡klar'da kaybettim...<NOD<FLJ1020:0223<CLR
+Anlad¡m...<NOD<CLR
+Evet, o Doktor kötü biri.<NOD<END
 #0223
 <KEY<MSG
-Neden Mimiga maskesi takiyorsun?!?<NOD<END
+Neden Mimiga maskesi tak¡yorsun?!?<NOD<END
 
 #0250
 #0251
@@ -124,8 +124,8 @@ Neden Mimiga maskesi takiyorsun?!?<NOD<END
 <KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
 <CMU0000<MS3
 Aaaah!!<MYB0410<NOD<CLR
-Ooooh...<WAI0020  HAYIIIRrrr!!!<WAI0020<CLR
-Guc... kontrolden... CIKTI!!!<NOD<CLO
+Ooooh...<WAI0020 HAYIIIRrrr!!!<WAI0020<CLR
+Güç... kontrolden... ÇIKTI!!!<NOD<CLO
 <WAI0050<CNP0420:0267:0004<WAI0100
 <FOM0016
 <ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
@@ -158,34 +158,34 @@ Doktor yenildi!<WAI0140<NOD<CMU0000<CLO
 <0CS<CMP0003:0013:0021
 <MS3<FAC0021<ANP0400:0010:0000
 HA HA HA!<NOD<CLR
-Sonunda, tamamlandi.<NOD<CLO<FAC0000
+Sonunda, tamamland¡.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
 <MS3<FAC0021
-Mimiga, kirmizi cicegi
-ilac olarak verdigimizde
-cilgina donuyor.<NOD<CLR
-Sebebi cok basit.<NOD<CLR
-Kirmizi cicek
-gizli gucu aciga cikarir.<NOD<CLR
-Ustelik bununla kalmaz,
-akli bozan bir
-madde de icerir.<NOD<CLR
-Ve ben simdi onu
-ayiklayip guclendirdim.<NOD<CLR
-Iste bu...<NOD<CLO<0CE<FAC0000
+Mimigalar, k¡rm¡z¡ çiçeèi
+ilaç gibi verdièimizde
+ç¡lg¡na dönüyor.<NOD<CLR
+Sebebi çok basit.<NOD<CLR
+K¡rm¡z¡ çiçek onlar¡n
+gizli yeteneklerini aç¡èa ç¡kar¡r.<NOD<CLR
+Üstelik bununla kalmaz,
+akl¡ bozan bir
+madde de içerir.<NOD<CLR
+Èimdi o etken maddeyi
+ay¡r¡p yoèunlaét¡rmay¡ baéard¡m.<NOD<CLR
+Íéte bu...<NOD<CLO<0CE<FAC0000
 <WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
 <MS3<0CS<FAC0021
-...Kirmizi Kristal.<WAI0030<NOD<CLR
-Ve bu Kirmizi Kristal--<NOD
-insanlarda da ise yarar.<NOD<CLR<ANP0400:0050:0000
+...K¡rm¡z¡ Kristal.<WAI0030<NOD<CLR
+Ve bu K¡rm¡z¡ Kristal--<NOD
+insanlarda da iée yarar.<NOD<CLR<ANP0400:0050:0000
 Ha ha!<NOD<CLR
-Muhtesem!<NOD<CLR
+Muhteéem!<NOD<CLR
 Bunun ne kadar
-olaganustu oldugunu anliyor musun?
-Anlamiyorsun, degil mi?<NOD<CLR
+olaèanüstü olduèunu anl¡yor musun?
+Anlam¡yorsun, deèil mi?<NOD<CLR
 O halde!<NOD<CLR
-Simdi sana cok ozel bir
-ders verecegim!!!<NOD<CLO
+Èimdi sana çok özel bir
+ders vereceèim!!!<NOD<CLO
 <0CE<CNP0410:0263:0000<WAI0005
 <ANP0410:0002:0000<WAI0050
 <CMP0003:0013:0021<DNP0400

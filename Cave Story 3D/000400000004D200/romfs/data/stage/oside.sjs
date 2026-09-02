@@ -16,7 +16,7 @@
 #0120
 <KEY<SOU0011<ANP0120:0000:0002<FAO0004<TRA0055:0094:0009:0009
 <MSG
-Artik... yok...<NOD<END
+Art¡k... yok...<NOD<END
 
 #0130
 <KEY<ITJ0032:0131<SOU0011<ANP0130:0000:0002<FAO0000<TRA0069:0090:0015:0008
@@ -36,18 +36,18 @@ Bir tabela?<NOD<END
 #0300
 <PRI<DNP0300<SOU0022<FL+1813<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0002
-Maksimum can 2 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0002
+Azami can¡n 2 artt¡.<NOD<END
 
 #0400
 <KEY<FLJ0960:0401<MSG<FAC0010
-Cekirdegi ariyorsan
-hic oyalanma,
+Çekirdeèi ar¡yorsan
+hiç oyalanma,
 acele et.<NOD<END
 #0401
 <KEY<CLO<FON0410:0016<WAI0050
 <MSG<FAC0010
-Hadi<MYD0000bin.<NOD<CLO
+Hadi <MYD0000bin.<NOD<CLO
 <CNP0420:0150:0000<HMC
 <ANP0400:0003:0000<WAI0032
 <ANP0400:0000:0002<WAI0032
@@ -56,24 +56,23 @@ Hadi<MYD0000bin.<NOD<CLO
 <DNP0400<DNP0420
 <ANP0410:0010:0002<WAI0200
 <MSG<FAC0010
-Siki tutun.<NOD<CLO<FAC0000
+S¡k¡ tutun.<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
 <MSG
-Boylece sen ve Kazuma,
-adadan sag salim kactiniz.<WAI0200<CLR
-Kisa sure sonra Doktor,
-adayi ucan kalesi yapip
-yeryuzune saldirdi.<WAI0200<CLR
-Yeryuzundeki ulkeler,
+Böylece sen ve Kazuma,
+adadan saè salim kaçt¡n¡z.<WAI0200<CLR
+K¡sa süre sonra Doktor,
+aday¡ uçan kalesi yap¡p
+yeryüzüne sald¡rd¡.<WAI0200<CLR
+Yeryüzündeki ülkeler,
 Doktor'un bitmek bilmeyen
-saldirilarina dayanabildi mi?<WAI0200<CLR<FAO0002
-Ama bunun pek onemi yok...<WAI0200<CLR
-Kactiktan sonra sen ve Kazuma,
-daglarin guvenli koynunda,
-gozlerden uzakta mutevazi bir hayat
-surdunuz...<WAI0200<CLR
-...ve Doktor'un erisemeyecegi bir
+sald¡r¡lar¡na dayanabildi mi?<WAI0200<CLR<FAO0002
+Ama bunun pek önemi yok...<WAI0200<CLR
+Kaçt¡ktan sonra sen ve Kazuma,
+daèlar¡n güvenli koynunda,
+gözlerden uzak yaéad¡n¡z...<WAI0200<CLR
+...ve Doktor'un eriéemeyeceèi bir
 yerde.<WAI0200<CLR<CMU0026
 <TUR                    Son mu? <WAI0300<ESC
 <END
@@ -87,13 +86,12 @@ Grrrrr...<NOD<END
 
 #0600
 <KEY<MSG
-Bu oyunu ilk kez sunmama yardim
-ettigin icin tesekkurler!<NOD
-Simdilik ancak buraya kadar yaptim.<NOD
-Sanirim bir sonraki bolumu,
-son bolumden once gelecek sekilde
-yapacagim.<NOD
-Iki ay daha ver,
-ne kadar ilerleyebilecegime
-bakalim...<NOD<END
+Bu oyunu ilk kez sunmama yard¡m
+ettièin için teéekkürler!<NOD
+Èimdilik ancak buraya kadar yapt¡m.<NOD
+San¡r¡m s¡radaki bölümü
+son bölüm yapacaè¡m.<NOD
+Íki ay daha ver,
+ne kadar ilerleyebileceèime
+bakal¡m...<NOD<END
 

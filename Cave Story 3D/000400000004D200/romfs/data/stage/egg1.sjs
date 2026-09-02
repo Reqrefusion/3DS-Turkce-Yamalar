@@ -15,13 +15,13 @@
 
 #0200
 <KEY<FLJ0470:0202<ITJ0007:0201<TUR<MSG
-Kalkani kaldirmak icin ID Karti
+Kalkan¡ kald¡rmak için Kimlik Kart¡
 gerekli.<NOD<END
 #0201
 <KEY<FL+0470<MSG<GIT1007
-ID Karti yerlestirdin.<NOD<GIT0000<CLR
-<SOU0043Kalkan kaldirildi.<NOD<END
+Kimlik Kart¡n¡ yerleétirdin.<NOD<GIT0000<CLR
+<SOU0043Kalkan kald¡r¡ld¡.<NOD<END
 #0202
 <KEY<MSG<TUR
-Kalkan zaten kaldirilmis.<NOD<END
+Kalkan zaten kald¡r¡lm¡é.<NOD<END
 

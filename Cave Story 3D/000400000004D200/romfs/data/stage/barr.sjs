@@ -26,12 +26,12 @@
 <FAO0004<TRA0011:0094:0042:0052
 #0101
 <PRI<MSG
-Acilmiyor!<NOD<END
+Aç¡lm¡yor!<NOD<END
 #0102
 <KEY<FAO0004<TRA0011:0094:0042:0052
 #0103
 <PRI<MSG
-Kacamazsin!<NOD<END
+Kaçamazs¡n!<NOD<END
 
 #0150
 #0151
@@ -49,7 +49,7 @@ Pis herif!<NOD<DNP0290<CNP1000:0063:0002<END
 <KEY<FL-0361<FL-0362
 <SMC<CNP0400:0012:0000<ANP0400:0020:0004<WAI0140
 <PRI<MSG<FAC0005
-Bunu unutmayacagim!<NOD<FAC0000<KEY<CLO
+Bunu unutmayacaè¡m!<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
 Balrog yenildi!<WAI0140<NOD
@@ -66,27 +66,27 @@ Balrog yenildi!<WAI0140<NOD
 <KEY<FL+0360<FL+0361<FL+0440<FL-0326<0CS<MSG
 
 Aaaaa!<NOD<CLR
-Yardim edin!
-Yardim edin!<NOD<CLR
+Yard¡m edin!
+Yard¡m edin!<NOD<CLR
 .....<NODHa?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006
-Sen Doktor degilsin?<NOD<CLR
+Sen Doktor deèilsin?<NOD<CLR
 Ah, kusura bakma.<NOD
-Doktor cok zalim
-ve kotu biri.<NOD
-Koye cikip
-Mimiga'lari kaciriyor...
-bazen de birini olduruyor.<NOD<CLR
+Doktor çok zalim
+ve kötü biri.<NOD
+Köye ç¡k¡p
+Mimigalar¡ kaç¡r¡yor...
+bazen de birini öldürüyor.<NOD<CLR
 Doktor... abimi
- oldurdu.<NOD<CLR
+ öldürdü.<NOD<CLR
 Ah!<NOD
 O kolye!<GIT1004<NOD<CLR
-Benim icin aldin mi?<NOD
-Sue onu bana vermisti!<NOD<CLR
+Benim için ald¡n m¡?<NOD
+Sue onu bana vermiéti!<NOD<CLR
 .....<NOD<CLR
-Ama artik istemiyorum.<NOD
-<GIT0000Sue ile ben iyi anlasinca
-King'in tepesi atiyor.<NOD
-Sende kalsin.<NOD<CLO
+Ama art¡k istemiyorum.<NOD
+<GIT0000Sue ile ben iyi anlaé¡nca
+King'in tepesi at¡yor.<NOD
+Sende kals¡n.<NOD<CLO
 <FAC0000<CMU0000
 <QUA0030<SOU0026
 <ANP1000:0008:0000
@@ -112,26 +112,26 @@ Sende kalsin.<NOD<CLO
 
 
 <MSG
-Ooo yeeeah!!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014
+Oleyyy!!<WAI0050<CNP0400:0012:0002<ANP0400:0030:0002<CLR<KEY<CMU0011<FAC0014
 Seni buldum!<NOD<CLR<FAC0005
-Benden saklanamazsin.<NOD
-Bende bir
-kurnaz tazi burnu var!<NOD<FAC0000<CLR
+Benden saklanamazs¡n.<NOD
+Usta bir taz¡ kadar
+keskin burnum var!<NOD<FAC0000<CLR
 Elbette.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015
-Evet, burnu DA var,
-beyni de kopek kadar.<NOD<CLR<FAC0005
+Evet, hem köpek burnu VAR,
+hem de köpek beyni.<NOD<CLR<FAC0005
 Misery!<NOD<CLR
-Onu ben buldum once!<NOD<CLR<FAC0008
+Onu önce ben buldum!<NOD<CLR<FAC0008
 Siz ikiniz...
 Doktor'la berabersiniz!!<NOD<CLR<FAC0015
 .....<NOD<CLR<FAC0016
-Sen Sue olmalisin.
-Yuce Doktor
-seni cagirdi.<NOD
+Sen Sue olmal¡s¡n.
+Yüce Doktor
+seni çaè¡rd¡.<NOD
 Benimle gel.<NOD<CLR<FAC0006
 Ha?<NOD<CLR
-Ama ben Sue degilim!<NOD<FAC0000<CLO
+Ama ben Sue deèilim!<NOD<FAC0000<CLO
 <ANP0500:0015:0002<WAI0110
 <PRI<MSG<FAC0008
 Aaaaa!<NOD<FAC0015<CLR
@@ -139,24 +139,24 @@ Balrog.<NOD
 Gerisi sende.<NOD<CLO
 <ANP0500:0020:0002<FAC0000<CLO
 <KEY<WAI0050<MSG<FAC0008
-BEN YANLIS KISIYIM!<NOD<CLR
-SOYLEDIM YA!<NOD<FAC0000<CLO
+BEN SUE DEÒÍLÍM!<NOD<CLR
+SÖYLEDÍM YA!<NOD<FAC0000<CLO
 <WAI0050<DNP1000
 <FAC0005<MSG
-YINE MI BU!<NOD
-HEP ben toparliyorum!<NOD
-Ustelik onu bulan
-benim, Misery degil!<NOD<CLR
+YÍNE MÍ BU!<NOD
+HEP ben ortal¡è¡ topluyorum!<NOD
+Üstelik onu bulan
+benim, Misery deèil!<NOD<CLR
 .....<NOD<CLR<0CE
 Ee, ne var?<NOD
-Su kucuk bezelye tufegiyle
-benimle dovusmek mi istiyorsun?<YNJ1001<ANP0400:0030:0002<CLR
-<FAC0014Anlasildi!<NOD<CLO
+Èu ufac¡k silahla
+benimle dövüémek mi istiyorsun?<YNJ1001<ANP0400:0030:0002<CLR
+<FAC0014Anlaé¡ld¡!<NOD<CLO
 <FL+0361<CMU0004<CNP0400:0068:0002<BSL0400<END
 
 #1001
 <KEY<FL-0362<FL-0361<CMU0008<MSG<FAC0005
 Ha?<NOD
 Peki, o zaman ben
-eve donuyorum.<NOD<CLO<ANP0400:0010:0002<END
+eve dönüyorum.<NOD<CLO<ANP0400:0010:0002<END
 

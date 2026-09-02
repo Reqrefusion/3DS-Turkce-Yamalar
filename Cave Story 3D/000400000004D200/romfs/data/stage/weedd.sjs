@@ -17,6 +17,6 @@
 #0304
 <PRI<DNP0304<SOU0022<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu aldin.<WAI0160<NOD<RMU<ML+0005
-Azami canin 5 artti.<NOD<END
+Can Kapsülü ald¡n.<WAI0160<NOD<RMU<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 

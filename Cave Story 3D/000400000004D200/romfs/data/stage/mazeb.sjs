@@ -26,19 +26,20 @@
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
 
 <KEY<MSG
-Iyi is cikardin!
-Simdilik bu kadar.
-  2003/09/27 Studio Pixel<NOD<END
+Íyi ié ç¡kard¡n!
+Èimdilik bu kadar.
+ 2003/09/27 Pixel Stüdyosu<NOD<END
 
 #0200
 <KEY<FLJ0744:0201<MS3
-Guc kaynagi bozuk.<NOD<CLR
-Biraz isi bilen bir elektrikci
+Güç kaynaè¡ bozuk.<NOD<CLR
+Biraz iéi bilen bir elektrikçi
 muhtemelen tamir edebilir.
 Belki...<NOD<END
 #0201
 <KEY<MSG
-Arthur'un evine isinlan?<YNJ0000<CLO
+Arthur'un evine
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <CNP0300:0111:0002<HMC<WAI0060<ANP0200:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 
@@ -48,8 +49,8 @@ Arthur'un evine isinlan?<YNJ0000<CLO
 #0320
 <PRI<DNP0320<SOU0022<FL+1810<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0002
-Maksimum can 2 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0002
+Azami can¡n 2 artt¡.<NOD<END
 
 #0500
 <KEY<MYD0002<CMU0000<FAI0002<FLA<SOU0029<WAI0050
@@ -63,51 +64,51 @@ Maksimum can 2 artti.<NOD<END
 <0CS<MSG
 Uhh...<NOD<CLR<FAC0017
 Ah!<NOD
-Senin burada ne isin var?!<NOD<CLR
+Senin burada ne iéin var?!<NOD<CLR
 .....<NOD<CLR
-Anladim...
+Anlad¡m...
 Misery seni de
-buraya yolladi...<NOD<CLR
+buraya yollad¡...<NOD<CLR
 Heh...<NOD<CLR
-Belki de bu,
-kotu sanstan dogan iyi sans.<NOD<CLR
-Mesele su...<NOD
-Bu ada gokte suzuluyor,
-bir tur
-yasam gucu sayesinde.<NOD
-Yakin zamanda
-o yasam gucunun yerini buldum.<NOD<CLR
-Su labirentin bir yerinde...
-o guc yatiyor.<NOD<CLR
-Eger yok edilebilirse,
-adanin isleyisi
+Belki bu talihsizlièin
+iyi bir yan¡ vard¡r.<NOD<CLR
+Mesele éu...<NOD
+Bu ada gökte süzülüyor,
+bir tür
+yaéam gücü sayesinde.<NOD
+Yak¡n zamanda
+o yaéam gücünün yerini buldum.<NOD<CLR
+Èu labirentin bir yerinde...
+o güç yat¡yor.<NOD<CLR
+Eèer yok edilebilirse,
+adan¡n iéleyiéi
 durabilir.<NOD<CLR
 Heh...<NOD<CLR
-Su an Doktor'un
+Èu an Doktor'un
 panikten
-delirdigine eminim...<NOD
-Seni adanin kalbine
-yolladilar!<NOD<CLR
+delirdièine eminim...<NOD
+Seni adan¡n kalbine
+yollad¡lar!<NOD<CLR
 Al, bunu da al.<NOD<CLR<FAC0000<IT+0018<GIT1018
-Booster v0.8 alindi.<NOD<CLR<FAC0017
-Bu kucuk alet
-havalanmana yardim eder.<NOD
-Havadayken asili kalabilirsin,
-zipla tusuna basili tutarak.<NOD<CLR
-Booster'i takip cikarmak icin
-Alt Ekran'i kullan.<NOD<GIT0000<CLR
+Booster v0.8 al¡nd¡.<NOD<CLR<FAC0017
+Bu küçük alet
+havalanmana yard¡m eder.<NOD
+Havadayken z¡plama tuéuna
+bas¡l¡ tutarak havada kalabilirsin.<NOD<CLR
+Booster'¡ tak¡p ç¡karmak için
+Alt Ekran'¡ kullan.<NOD<GIT0000<CLR
 Vuuu...<NOD<CLR
-Havalaninca bittim sandim,
-ciddi soyluyorum.<NOD
+Havalan¡nca bittim sand¡m,
+ciddi söylüyorum.<NOD
 Ama o sayede seni
-gorebildim...<NOD
-Gorunuse gore bununla
-son sansimi da harcadim.<NOD<CLR
-Bol... sans...<NOD<FL+0741<FL+0834<0CE<ANP0501:0020:0000<END
+görebildim...<NOD
+Görünüée göre bununla
+son éans¡m¡ da harcad¡m.<NOD<CLR
+Bol... éans...<NOD<FL+0741<FL+0834<0CE<ANP0501:0020:0000<END
 
 #0502
 <KEY<MSG
-Bol sans...<NOD<END
+Bol éans...<NOD<END
 
 #0503
 <KEY<MSG

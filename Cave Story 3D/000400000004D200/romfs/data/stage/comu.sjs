@@ -30,70 +30,69 @@
 #0200
 <FLJ0327:0201
 <KEY<MSG<FAC0007
-Arthur'un ev anahtari...<NOD
-Bir yerde en az bir kopyasi
-daha olmali.<NOD<CLR
+Arthur'un ev anahtar¡...<NOD
+Bir yerde en az bir kopyas¡
+daha olmal¡.<NOD<CLR
 Toroko...
 Bilmezden geliyor.<NOD<CLR
-Belki Jack bir sey
+Belki Jack bir éey
 biliyordur.<NOD<END
 #0201
 <KEY<MSG<FAC0007
-Toroko da olmasin...<NOD<CLR
+Toroko da m¡...<NOD<CLR
 Toroko'nun abisi,
-Arthur, en guclu
-savascimizdi.<NOD<CLR
+Arthur, en güçlü
+savaéç¡m¡zd¡.<NOD<CLR
 Ama Doktor'un kendisi
-onu oldurdu.<NOD
+onu öldürdü.<NOD
 Toroko'yu bile
-koruyamadim...<NOD<END
+koruyamad¡m...<NOD<END
 
 #0210
 <KEY<MSG<FAC0009
 Arthur'un evinin
-iki anahtari var.<NOD
+iki anahtar¡ var.<NOD
 Biri Toroko'da.<NOD
-Digeri Mimiga
-Mezarligi'nin icinde.<NOD<END
+Dièeri Mimiga
+Mezarl¡è¡'n¡n içinde.<NOD<END
 
 #0220
 <KEY<MSG<FAC0009
 Toroko'nun abisi Arthur,
-kizil ogre'yle dovustu...<NOD<CLR
-Bu adanin korkunc ogresi.
-Mimiga'yi Mimiga'nin ardindan
+K¡z¡l Ogre'yle dövüétü...<NOD<CLR
+Bu adan¡n korkunç yarat¡è¡.
+Mimigalar¡ birbiri ard¡na
 yiyip bitirirdi...<NOD<CLR
 Bunun Doktor'la pek ilgisi yok
 ama...<NOD
 Ogre, eski zamanlardan beri
-bu adada yasar.<NOD<CLR
-Arthur o kotu yaratigi
-koyumuzden sonsuza dek
-uzaklastirdi.<NOD
-Ada ugruna kendini
-tam tehlikenin icine atmasi
-buyuk cesaretti.<NOD<CLR
-Asla unutmayacagim.<NOD<CLR
-Arthur Doktor tarafindan olduruldu
-ama bizim icin hala
-gercek bir kahraman.<NOD<END
+bu adada yaéar.<NOD<CLR
+Arthur o kötü yarat¡è¡
+köyümüzden sonsuza dek
+uzaklaét¡rd¡.<NOD
+Ada uèruna kendini tehlikeye
+atmas¡ büyük cesaretti.<NOD<CLR
+Asla unutmayacaè¡m.<NOD<CLR
+Arthur Doktor taraf¡ndan öldürüldü
+ama bizim için hâlâ
+gerçek bir kahraman.<NOD<END
 
 
 
 #0300
 <ITJ0008:0301
 <KEY<MSG
-Sominede alevler harlaniyor.<NOD<FLJ0442:0000<CLR
-Obur tarafta bir sey var.<NOD<END
+Èöminede alevler harlan¡yor.<NOD<FLJ0442:0000<CLR
+Öbür tarafta bir éey var.<NOD<END
 #0301
 <KEY<GIT1008<MSG
-Denizanasi Suyu'nu
+Denizanas¡ Suyu'nu
 kullanmak istiyor musun?<YNJ0000<CLO<GIT0000
 <IT-0008<ANP0300:0010:0000<WAI0030<DNP0300<FLJ0442:0302<FL+0442
 <MSG
-Kullerin icinde
-bir sey gomulu...<NOD<CLR<GIT0007<AM+0007:0100
-<CMU0010Bubbline alindi.<WAI0160<NOD<CLO<RMU<END
+Küllerin içinde
+bir éey gömülü...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Baloncuk al¡nd¡.<WAI0160<NOD<CLO<RMU<END
 #0302
 <KEY<DNP0300<END
 

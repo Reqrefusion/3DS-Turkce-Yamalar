@@ -46,34 +46,35 @@
 <FLJ0325:0202
 <FLJ0154:0201
 <KEY<MSG
-Ekranda bir sey gorunuyor...<NOD<CLR<TUR
-"Sonunda gercekten yerim,
-haberiniz olsun."<NOD<FLJ0153:0000<CLR<MSG
-Yumurta Koridoru'na isinlanma izni
+Ekranda bir éey görünüyor...<NOD<CLR<TUR
+"Kazuma: ama söyleyeyim, o noktaya
+gelirsem gerçekten yerim..."<NOD<FLJ0153:0000<CLR<MSG
+Yumurta Koridoru'na ¡é¡nlanma izni
 verilsin mi?<YNJ0000<CLR
 Yumurta Koridoru'na
-isinlanma izni verildi.<NOD<FL+0153<PS+0001:6001<END
+¡é¡nlanma izni verildi.<NOD<FL+0153<PS+0001:6001<END
 #0201
 <KEY<MSG
-Ekranda bir sey gorunuyor...<NOD<CLR
-Calilik baglantisi hazirlaniyor...<NOD<END
+Ekranda bir éey görünüyor...<NOD<CLR
+Çal¡l¡klar ile baèlant¡
+haz¡rlan¡yor...<NOD<END
 #0202
 <KEY<MSG
-Calilik baglantisi hazir.<NOD<END
+Çal¡l¡klar ile baèlant¡ kuruldu.<NOD<END
 #0203
 <KEY<MSG
 Komut?<NOD<END
 #0204
 <KEY<MSG
-Kum Bolgesi'ne baglandi.<NOD<END
+Kum Bölgesi'ne baèland¡.<NOD<END
 #0205
 <KEY<MSG
-Ekranda bir sey gorunuyor...<NOD<CLR<TUR
-Yumurta Koridoru'na isinlan...
+Ekranda bir éey görünüyor...<NOD<CLR<TUR
+Yumurta Koridoru'na ¡é¡nlan...
  - Kazuma<NOD<END
 #0210
 <KEY<MSG
-Cicekler???<NOD<END
+Çiçekler???<NOD<END
 
 #0300
 #0301
@@ -82,32 +83,32 @@ Cicekler???<NOD<END
 #0400
 <PRI<SOU0022<DNP0400<FL+1802<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<NOD<CLO
-Maksimum can 2 artti.<WAI0160<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0002
+Azami can¡n 2 artt¡.<NOD<END
 
 #0500
 <KEY<MSG
-Bu bir isinlayici.<NOD<SLP<NOD<END
+Bu bir ¡é¡nlay¡c¡.<NOD<SLP<NOD<END
 
 #0600
 <FLJ0325:0601
 <KEY<MSG<FAC0009
-Tekrar hos geldin...<NOD<CLR
-Sue geri dondu.<NOD
-Onu koyun ustundeki
+Tekrar hoé geldin...<NOD<CLR
+Sue geri döndü.<NOD
+Onu köyün üstündeki
 kafese kilitledik.<NOD
-Doktor'un cetesi gelince,
-Toroko karsiliginda
-Sue'yu onlara verecegiz.<NOD<CLR
-Sue icin uzuluyorum ama
+Doktor'un çetesi gelince,
+Toroko karé¡l¡è¡nda
+Sue'yu onlara vereceèiz.<NOD<CLR
+Sue için üzülüyorum ama
 Toroko...<NODo bizden biri.<NOD
-Sadece kendini dusunen
+Sadece kendini düéünen
 Sue gibi birine
-ihtiyacimiz yok.<NOD<END
+ihtiyac¡m¡z yok.<NOD<END
 #0601
 <KEY<MSG<FAC0009
-Umarim Toroko'ya bir sey
-olmamistir...<NOD<END
+Umar¡m Toroko'ya bir éey
+olmam¡ét¡r...<NOD<END
 
 
 #0620
@@ -119,25 +120,25 @@ olmamistir...<NOD<END
 <ANP0621:0030:0000<WAI0100
 <MSG<FAC0018
 Ahh...<NOD<CLR<FAC0010
-Iyi misin?<NOD<CLO<FAC0000
+Íyi misin?<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
 <MSG<FAC0018
 Evet...<NOD<CLR
-Ama gercekten
-kurtulamayacagimizi sandim.<NOD<CLR<FAC0010
+Ama gerçekten
+kurtulamayacaè¡m¡z¡ sand¡m.<NOD<CLR<FAC0010
 .....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
 <CNP0625:0042:0000
 <MSG<FAC0001
 Kazuma!<NOD<ANP0622:0000:0002<CLR
-Ve Profesor Booster!<NOD<CLR<FAC0018
+Ve Profesör Booster!<NOD<CLR<FAC0018
 Ah!<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
 <MSG<FAC0018
-Nasil gidiyor?!<NOD<CLR<FAC0001
-Idare ediyoruz...<NOD<CLO<FAC0000
+Nas¡ls¡n¡z?!<NOD<CLR<FAC0001
+Ídare ediyoruz...<NOD<CLO<FAC0000
 <CNP0624:0061:0000
 <ANP0625:0003:0000<WAI0016
 <ANP0624:0008:0000<WAI0016
@@ -152,14 +153,14 @@ Peki bu Mimiga kim?<NOD<CLO<FAC0000
 <ANP0624:0000:0002<WAI0050
 <ANP0625:0000:0000<WAI0020
 <MSG<FAC0001
-Adi King.<NOD<CLR
-Bu koyun lideri
-ve ayni zamanda dostum.<NOD<CLR
-Eskiden Mimiga Koyu'nde
-bir cok Mimiga yasardi.<NOD
-Ama cogunu Doktor
-goturdu.<NOD<CLR
-King'in arkadaslari da...<NOD<CLO
+Ad¡ King.<NOD<CLR
+Bu köyün lideri
+ve ayn¡ zamanda dostum.<NOD<CLR
+Eskiden Mimiga Köyü'nde
+birçok Mimiga yaéard¡.<NOD
+Ama çoèunu Doktor
+götürdü.<NOD<CLR
+King'in arkadaélar¡ da...<NOD<CLO
 <CMU0002
 <ANP0500:0001:0000
 <CNP0301:0112:0002<FOM0016<WAI0100
@@ -168,129 +169,127 @@ King'in arkadaslari da...<NOD<CLO
 
 #0621
 <KEY<FLJ0158:0631<MSG<FAC0018
-Doktor'un plani
-planladigi gibi ilerliyor.<NOD
-Cabuk davranip
-bir seyler yapmaliyiz...<NOD<END
+Doktor'un plan¡
+aynen istedièi gibi ilerliyor.<NOD
+Çabuk davran¡p
+bir éeyler yapmal¡y¡z...<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC0010
-Iyi is cikardiniz.<NOD<CLR
-Bisiklet hurdaya donmus,
-ama bir sekilde basardik..<NOD<END
+Íyi ié ç¡kard¡n¡z.<NOD<CLR
+Bisiklet hurdaya dönmüé,
+ama bir éekilde baéard¡k...<NOD<END
 #0624
 <KEY<FLJ0158:0634<MSG<FAC0007
 Toroko...
-bir olum silahi olarak...<NOD<CLR
-Buna izin vermeyecegim!<NOD<END
+bir ölüm silah¡ olarak...<NOD<CLR
+Buna izin vermeyeceèim!<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC0001Hos geldin!<NOD<CLR
-Gorunen o ki sana
-bir borcum daha var.<NOD
+<FAC0001Hoé geldin!<NOD<CLR
+Görünüée göre sana
+yine borçland¡m.<NOD
 Kazuma buradayken,
-o yumurtanin
-sifresini cozeriz.<NOD<CLO<FAC0000
+o yumurtan¡n
+éifresini çözeriz.<NOD<CLO<FAC0000
 <ANP0625:0003:0000<WAI0008
 <ANP0625:0000:0000<MSG<FAC0001
-Profesor Booster.<NOD<CLR
-Onu da yanimize alabilir miyiz?<NOD<CLO<FAC0000
+Profesör Booster.<NOD<CLR
+Onu da yan¡m¡za alabilir miyiz?<NOD<CLO<FAC0000
 <ANP0622:0003:0002<WAI0015
 <ANP0622:0005:0002
 <MSG<FAC0018<CMU0000
 .....<NOD<CLR
-<FAC0010Profesor.<NOD<CLR<FAC0001
+<FAC0010Profesör.<NOD<CLR<FAC0001
 ???<NOD<CLR<FAC0018
 Sue...<NOD
-Kacis planimizi
-simdilik ertelemeliyiz.<NOD<CLR
-...Doktor kirmizi ciceklerin
+Kaç¡é plan¡m¡z¡
+éimdilik ertelemeliyiz.<NOD<CLR
+...Doktor k¡rm¡z¡ çiçeklerin
 yerini buldu.<NOD<ANP0624:0000:0000<CLR
 <FAC0007!!!<NOD<CLR<FAC0001
 Ha?<NOD<CLR<FAC0018
-Henuz eline
-gecmedi,<NOD
-ama bu sadece zaman meselesi
-once gecmesi...<NOD
-Yerleri Kum Bolgesi'nde.
-Kirmizi
-cicekler oradaymis...<NOD<CLR
-<FAC0007Kum Bolgesi mi?<NOD<CLR
+Henüz ele geçiremedi, <NOD
+ama ele geçirmesi
+an meselesi...<NOD
+Yerleri Kum Bölgesi'nde.
+K¡rm¡z¡
+çiçekler oradaym¡é...<NOD<CLR
+<FAC0007Kum Bölgesi mi?<NOD<CLR
 O zaman oraya gidersek
 Doktor'u bulur muyuz?<NOD<CLR<FAC0018
-Ee...<NODKorkarim ki 
-Doktor'un adamlarini
-buluruz herhalde.<NOD
-Kirmizi cicekleri
-onlar ele gecirmeden
+Ee... <NODKorkar¡m oraya Doktor'un
+adamlar¡ gidecek.<NOD
+K¡rm¡z¡ çiçekleri
+onlar ele geçirmeden
 yok etmeliyiz...<NOD<CLR
-Ama Kum Bolgesi
-cok tehlikeli bir yer.<NOD
+Ama Kum Bölgesi
+çok tehlikeli bir yer.<NOD
 Gidersek,
-canli doner miyiz
-belli degil--<NOD<CLR
-<FAC0007Yani vaz mi geciyorsun?<NOD<CLR<FAC0018
-Aslinda, hayir.<NOD<CLR
-Su an yanimizda
-tam da gereken kisi var.<NOD<CLO<FAC0000
+canl¡ döner miyiz
+belli deèil--<NOD<CLR
+<FAC0007Yani vaz m¡ geçiyorsun?<NOD<CLR<FAC0018
+Asl¡nda... hay¡r.<NOD<CLR
+Èu an yan¡m¡zda
+tam da gereken kiéi var.<NOD<CLO<FAC0000
 <ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
 <MSG<FAC0018
 Sen.<NOD<CLR
 <CMU0002<FAC0010...O da ne?<NOD<CLR<FAC0018
 Hmm, yani...<NOD<CLR
-O, on yil once
-bu adaya gonderilmis
-silahli bir kesif robotu.<NOD<CLR<FAC0010
+O, on y¡l önce
+bu adaya gönderilmié
+silahl¡ bir keéif robotu.<NOD<CLR<FAC0010
 Bir ROBOT?!?<NOD<CLR<FAC0018
-Hepsinin savastan sonra
-yok edildigini duymustum...<ANP0621:0000:0000<NOD
-Ama ayrintilari
+Hepsinin savaétan sonra
+yok edildièini duymuétum...<ANP0621:0000:0000<NOD
+Ama ayr¡nt¡lar¡
 tam bilmiyorum.<NOD
 Belki de onlardan biri--<NOD<CLR<FAC0010
-Profesor.<NOD
-Bizi Kum Bolgesi
-isinlayicisina bagladim.<NOD<CLR<FAC0018
+Profesör.<NOD
+Bizi Kum Bölgesi
+¡é¡nlay¡c¡s¡na baèlad¡m.<NOD<CLR<FAC0018
 Hmm...<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
 <ANP0621:0000:0002<WAI0030<MSG<FAC0018
-Sen, adayi aramak icin
-aramizdaki en uygunsun.<NOD<CLR
-Lutfen, bize yardim et.<NOD<FL+0158<PS+0003:6003<END
+Aday¡ araét¡rmak için
+aram¡zdaki en uygun kiéi sensin.<NOD<CLR
+Lütfen, bize yard¡m et.<NOD<FL+0158<PS+0003:6003<END
 
 
 
 
 #0631
 <KEY<MSG<FAC0018
-Bu isinlayici ile
-Kum Bolgesi'ne gidebilirsin.<NOD
-Kirmizi cicekleri bul
+Bu ¡é¡nlay¡c¡ ile
+Kum Bölgesi'ne gidebilirsin.<NOD
+K¡rm¡z¡ çiçekleri bul
 ve hepsini yak.<NOD<END
 #0632
 <KEY<MSG<FAC0010
-Sen on yil onceki
-kisisin, degil mi.<NOD<CLR
-Simdiye kadar hic fark etmedim
-simdi anladim.<NOD<CLR
-Gercekten iyi yapilmissin.<NOD<END
+Sen on y¡l önceki
+kiéisin, deèil mi.<NOD<CLR
+Bunu éimdiye kadar
+hiç fark etmemiétim.<NOD<CLR
+Gerçekten iyi yap¡lm¡és¡n.<NOD<END
 #0634
 <KEY<MSG<FAC0007
-Kum Bolgesi, ha...<NOD<END
+Kum Bölgesi, ha...<NOD<END
 #0635
 <KEY<MSG<FAC0001
-Kirmizi cicek kalmazsa,
-umarim
-savastan kaciniriz.<NOD<CLR
-Epey agir bir
-sorumluluk, sence de oyle mi?<NOD<END
+K¡rm¡z¡ çiçek kalmazsa,
+umar¡m
+savaétan kaç¡n¡r¡z.<NOD<CLR
+Epey aè¡r bir
+sorumluluk, sence de öyle mi?<NOD<END
 
 
 #0650
 <KEY<MSG<FAC0018
-Sue'yu al ve kac...
+Sue'yu al ve kaç...
 bu adadan....<NOD
-Lutfen...<NOD<END
+Lütfen...<NOD<END
 
 #0651
 <DNP0651<KEY<MYD0000
@@ -307,51 +306,50 @@ Lutfen...<NOD<END
 <ANP0650:0000:0002<WAI0050
 <MSG<FAC0018
 Ah, sadece sensin.<NOD<CLR
-Doktor kirmizi cicekleri
-topladi.<NOD<CLR
-...Adadaki tum Mimiga'lar
-artik onun
-egemenligi altinda.<NOD<CLR
-Trajedi kacinilmaz...<NOD<CLR
-Bu olaylarin olacagini
+Doktor k¡rm¡z¡ çiçekleri
+toplad¡.<NOD<CLR
+...Adadaki tüm Mimigalar
+art¡k onun
+egemenlièi alt¡nda.<NOD<CLR
+Trajedi kaç¡n¡lmaz...<NOD<CLR
+Bu olaylar¡n olacaè¡n¡
 bilseydim...<NOD
-En azindan Sue'yu
-adadan kacirirdim.<NOD<CLO<FAC0000
+En az¡ndan Sue'nun
+adadan kaçmas¡n¡ saèlard¡m.<NOD<CLO<FAC0000
 <ANP0650:0003:0002<WAI0022
 <ANP0650:0005:0002
 <IT+0023<FL+0744<FL+0162<FL+1801<GIT1023
 <MSG
-Booster v2.0 alindi.<WAI0030<NOD<CLO<GIT0000
+Booster v2.0 al¡nd¡.<WAI0030<NOD<CLO<GIT0000
 <ANP0650:0000:0002
 <MSG<FAC0018
-Lutfen son istegimi yerine getir.<NOD<CLR
-Sue'yu son bir kez gorursen,
-lutfen onu al ve...
-kac... adadan.<NOD<CLR
+Lütfen son isteèimi yerine getir.<NOD<CLR
+Sue'yu son bir kez görürsen,
+lütfen onu yan¡na al ve...
+adadan... kaç.<NOD<CLR
 O, Dr. Sakamoto'nun
-kizi.<NOD
-Uzun zamandir
-bu adaya gelmeye
-direnmisti.<NOD
+k¡z¡.<NOD
+Uzun süre bu adaya
+gelmek istemedi.<NOD
 Ama onu
-arkada, yalniz birakamazdik...<NOD<CLR
-Baska care
+arkada, yaln¡z b¡rakamazd¡k...<NOD<CLR
+Baéka çare
 yoktu, bizimle geldi.<NOD<CLR
-Lutfen.<NOD<CLR
-Onu al ve kac.<NOD<CLO
+Lütfen.<NOD<CLR
+Onu al ve kaç.<NOD<CLO
 <FL-0160<FL+0161<FL+0741<PS+0004:6004<END
 
 
 #0660
 <KEY<FLJ1020:0661<MSG<FAC0018
-Sue'yu yanina al
-ve bu adadan ayril...<NOD
-Lutfen...<NOD<END
+Sue'yu yan¡na al
+ve bu adadan ayr¡l...<NOD
+Lütfen...<NOD<END
 #0661
 <KEY<MSG<FAC0018
-Ozur dilerim.
-Adanizi mahvettik.<NOD<CLR
-Biz insanlar kotuyuz.<NOD<END
+Özür dilerim.
+Adan¡z¡ mahvettik.<NOD<CLR
+Biz insanlar kötüyüz.<NOD<END
 
 
 #0700
@@ -360,29 +358,34 @@ Biz insanlar kotuyuz.<NOD<END
 
 #6001
 <PRI<MSG
-Yumurta Koridoru'na isinlan?<YNJ0000<CLO
+Yumurta Koridoru'na
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
 #6002
 <PRI<MSG
-Caliliklar'a isinlan?<YNJ0000<CLO
+Çal¡l¡klar'a
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0006:0098:0004:0018
 #6003
 <PRI<MSG
-Kum Bolgesi'ne isinlan?<YNJ0000<CLO
+Kum Bölgesi'ne
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0010:0099:0036:0033
 
 #6004
 <PRI<MSG
-Labirent'e isinlan?<YNJ0000<CLO
+Labirent'e
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0043:0099:0010:0034
 
 #6005
 <PRI<MSG
-Plantasyon'a isinlan?<YNJ0000<CLO
+Plantasyon'a
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<TRA0060:0099:0009:0009
 

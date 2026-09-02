@@ -24,5 +24,5 @@
 #0300
 <PRI<DNP0300<SOU0022<FL+1818<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu aldin.<WAI0160<NOD<RMU<ML+0002
-Maksimum can 2 artti.<NOD<END
+Can Kapsülü ald¡n.<WAI0160<NOD<RMU<ML+0002
+Azami can¡n 2 artt¡.<NOD<END

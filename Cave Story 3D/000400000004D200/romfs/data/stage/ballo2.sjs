@@ -24,19 +24,19 @@
 <WAI0150
 <MSG<FAC0025
 Durdu...<NOD<CLR<FAC0019
-Ada dusmeyi
+Ada düémeyi
 durdurdu!<NOD<CLR
-Negatif guc
-onu yenince zayifladi mi?<NOD<CLR<FAC0025
+Ballos yenilince
+bu karanl¡k güç zay¡flad¡ m¡?<NOD<CLR<FAC0025
 .....<NOD<CLR
-Pek anlamadim ama...
-Neyse... Belki isimiz
-nihayet bitti.<NOD<CLO<FAC0000
+Pek anlam¡yorum ama...
+Neyse. Belki buradaki iéimiz
+sonunda bitti.<NOD<CLO<FAC0000
 <MS2<TUR     NEFES... ALAMIYORUM...<WAI0050
 <MSG<FAC0025
 Ha?<NOD<CLO<FAC0000
-<WAI0100<MS2<TUR     SICAK... B--SICAK...
-<ANP0410:0010:0000<ANP0411:0010:0002<WAI0050     COK ACIYOR...
+<WAI0100<MS2<TUR     SICAK... Ç--ÇOK SICAK...
+<ANP0410:0010:0000<ANP0411:0010:0002<WAI0050     ÇOK ACIYOR...
 <WAI0100<PRI<MSG
 ?<WAI0050<NOD<CLO<FAC0000<KEY
 <CMU0034<WAI0100
@@ -48,20 +48,20 @@ Duvar!!!<NOD<CLO<FAC0000<KEY
 <ANP0400:0000:0002<WAI0020
 <ANP0401:0070:0002<WAI0032
 <ANP0401:0000:0000<WAI0020
-<MS2<TUR          IMDAT...<WAI0050
+<MS2<TUR          ÍMDAT...<WAI0050
           NEFES... ALAMIYORUM...<WAI0050
-          COK SICAK...<WAI0050<CLR<CLO
+          ÇOK SICAK...<WAI0050<CLR<CLO
 <PRI<MSG<FAC0025
-Ikimiz de burada
-ezilecegiz!<NOD<CLO<KEY<WAI0050
+Íkimiz de burada
+ezilip gideceèiz!<NOD<CLO<KEY<WAI0050
 <PRI<FAC0000<MS3
 Hey!<NOD<CLO
 <KEY<CNP0402:0009:0000<WAI0150
 <PRI<MSG<FAC0005
-Iste buradasin!
-Misery'nin dedigi gibi.<NOD<CLR
+Íéte buradas¡n!
+Misery'nin dedièi gibi.<NOD<CLR
 <FAC0019Bizi kurtarmaya geldin!<NOD<CLR<FAC0005
-Siki tutun!!<NOD<CLO<FAC0000
+S¡k¡ca tutun!!<NOD<CLO<FAC0000
 <KEY
 <ANP0401:0020:0000<WAI0010
 <ANP0400:0080:0002<WAI0002
@@ -74,8 +74,8 @@ Gidiyoruz!<NOD<CLO<FAC0000
 Aaaaaaaaaah!!<WAI0100<CLO<WAI0050<FMU<FAO0001
 <WAI0050<PRI<CMU0000
 <MSG<FAC0025
-Basin nasil?<NOD<CLR
-<FAC0023Biraz hirpalandim...<NOD
+Baé¡n iyi mi?<NOD<CLR
+<FAC0023Biraz h¡rpaland¡...<NOD
 <ENT0001<TRA0071:0120:0000:0000
 <END
 

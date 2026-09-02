@@ -1,4 +1,4 @@
-
+ 
 #0090
 <MNA<FAI0000<END
 #0091
@@ -112,50 +112,51 @@
 <PRI<FLJ1551:0001<FL+1551
 <SOU0022<CNP0390:0021:0000
 <MSG
-Hazine sandigini actin.<NOD<CLR<EVE0400
+Hazine sand¡è¡n¡ açt¡n.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Fuze Firlatici alindi.<WAI0160<NOD<RMU<CLR
-Fuze Firlatici guclu bir
-silah, ama cephanesi sinirli.<NOD
-Ek cephane toplamak icin
-dusen dusmanlari ara.<NOD<END
+<CMU0010Füzeatar al¡nd¡.<WAI0160<NOD<RMU<CLR
+Füzeatar çok güçlüdür,
+ama cephanesi s¡n¡rl¡d¡r.<NOD
+Yendièin düémanlardan
+ek cephane toplayabilirsin.<NOD<END
 #0401
 <PRI<AM+0005:0032
 <MSG
-<GIT0006Azami fuze <NUM0000 artti.<NOD<END
+<GIT0006Azami füze say¡s¡ <NUM0000artt¡.<NOD<END
 #0402
 <PRI<AM+0010:0024
 <MSG
-<GIT0011Azami fuze <NUM0000 artti.<NOD<END
+<GIT0011Azami füze say¡s¡ <NUM0000artt¡.<NOD<END
 
 #0410
 <PRI<DNP0410<SOU0022<FL+1814<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0006
-Maksimum can 6 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0006
+Azami can¡n 6 artt¡.<NOD<END
 
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
 <0CS<PRI<MS3
-Cezasi yuzunden deliye donen
-Ballos'u, ablasi Jenka
-gokteki yuzen adaya hapsetti.<NOD
+Cezas¡ yüzünden deliye dönen
+Ballos'u, ablas¡ Jenka
+gökteki yüzen adaya hapsetti.<NOD
 Elinden gelen buydu.<NOD
-Cunku Jenka'nin kendi kucuk
-kardesini oldurmesi imkansizdi.<NOD<0CE<END
+Çünkü Jenka'n¡n kendi küçük
+kardeéini öldürmesi imkâns¡zd¡.<NOD<0CE<END
 
 
 #0901
 <DNP0901<SKJ0025:0000<SK+0025
 <0CS<PRI<MS3
-Jenka'nin cadi kizi Misery,
-Seytan Taci'nin sorumlusudur...<NOD
-Ballos'a onu yaptirdi.<NOD
-Bu suc yuzunden
-Tac onu lanetledi; artik
-Tacin sahibine itaat etmek zorunda.<NOD
-Lanet, Seytan Taci
+Jenka'n¡n cad¡ k¡z¡ Misery,
+Èeytan Tac¡'n¡n ortaya ç¡kmas¡n¡n
+sorumlusudur...<NOD
+Ballos'a onu yapt¡rd¡.<NOD
+Bu suç yüzünden
+Taç onu lanetledi; art¡k
+Tac¡n sahibine itaat etmek zorunda.<NOD
+Lanet, Èeytan Tac¡
 yok edilirse kalkar.<NOD<CLR
 Ama...<NOD<0CE<END
 

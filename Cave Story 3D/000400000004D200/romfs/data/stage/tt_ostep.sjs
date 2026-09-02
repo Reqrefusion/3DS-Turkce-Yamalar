@@ -27,12 +27,12 @@
 #0900
 <DNP0900
 <0CS<KEY<MYD0002<MSG
-Lutfen efendimi oldur.<NOD
+Lütfen efendimi öldür.<NOD
 Bunu yaparsan Misery'yi
-sonsuz lanetinden kurtarirsin.<NOD<CLR
+sonsuz lanetinden kurtar¡rs¡n.<NOD<CLR
 Trajedinin yeniden
-yasanmasini durdurmanin tek yolu bu.<NOD<CLR
-Efendimin adi Ballos.<NOD<CLR
-O, olmeyen bir adam...
-Buyusu kontrol edilemez.<NOD<ANP0201:0010:0000<FL+1620<0CE<END
+yaéanmas¡n¡ durdurman¡n tek yolu bu.<NOD<CLR
+Efendimin ad¡ Ballos.<NOD<CLR
+O, ölmeyen bir adam...
+Büyüsü kontrol edilemez.<NOD<ANP0201:0010:0000<FL+1620<0CE<END
 

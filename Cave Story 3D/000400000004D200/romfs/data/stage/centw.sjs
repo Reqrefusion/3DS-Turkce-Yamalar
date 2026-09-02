@@ -27,7 +27,8 @@
 #0150
 <KEY<FLJ1140:0152
 <MSG
-Arthur'un evine isinlan?<YNJ0000<CLO
+Arthur'un evine
+¡é¡nlanmak ister misin?<YNJ0000<CLO
 <FL+1082<FL+1140<PS+0005:6005
 <WAI0050<MSG
 Seni buldum, katil robot!<NOD<CLO
@@ -40,7 +41,8 @@ Seni buldum, katil robot!<NOD<CLO
 
 #0152
 <PRI<MSG
-Arthur'un evine isinlan?<YNJ0000<CLO<PS+0005:6005
+Arthur'un evine
+¡é¡nlanmak ister misin?<YNJ0000<CLO<PS+0005:6005
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0150:0001:0000
 <WAI0100<FAO0004<TRA0001:0099:0005:0008
 

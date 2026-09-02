@@ -30,16 +30,16 @@
 
 #0130
 <PRI<MSG
-Sue'nun geldigi helikopter bu mu?<NOD<END
+Sue'nun geldièi helikopter bu mu?<NOD<END
 
 #0199
 <PRI<MSG
-Eline saglik.<NOD<END
+Eline saèl¡k.<NOD<END
 <FAO0004Bitti.<NOD<CLO<CMU0033<CRE<WAI9999<END
 
 #0200
 <KEY<MYD0000<DNP0200<WAS<MSG
-Buradan sonrasi ucurum!<NOD<END
+Buradan sonras¡ uçurum!<NOD<END
 
 #0201
 <PRI<MSG<TUR
@@ -56,5 +56,5 @@ Buradan sonrasi ucurum!<NOD<END
 #0300
 <PRI<DNP0300<SOU0022<FL+1816<CMU0016
 <MSG<GIT1006
-Yasam Kapsulu alindi.<WAI0160<NOD<RMU<ML+0004
-Maksimum can 4 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0004
+Azami can¡n 4 artt¡.<NOD<END

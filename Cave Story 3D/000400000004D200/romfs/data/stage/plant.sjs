@@ -35,39 +35,39 @@ Can yenilendi.<NOD<END
 
 #0200
 <KEY<MSG
-Burasi cicek yetistirdigimiz
-ciftlik.<NOD
-Benim isim bu ciftligi korumak...<NOD<CLR
-Biz Mimiga'lar icin bu cicekler
-degerli bir yiyecek.<NOD<CLR
-Ama kirmizi cicekler degil.<NOD<CLR
-Duyduguma gore kirmizi cicek yersek
-tansiyonumuz firlar ve
-aninda oluruz!<NOD<CLR
-Neyse ki bu ciftlikte
-o igrenc kirmizi cicekler yok.<NOD<END
+Buras¡ çiçek yetiétirdièimiz
+çiftlik.<NOD
+Benim iéim bu çiftlièi korumak...<NOD<CLR
+Biz Mimigalar için bu çiçekler
+deèerli bir yiyecek.<NOD<CLR
+Ama k¡rm¡z¡ çiçekler deèil.<NOD<CLR
+Duyduèuma göre k¡rm¡z¡ çiçek yersek
+tansiyonumuz f¡rlar ve
+an¡nda ölürüz!<NOD<CLR
+Neyse ki bu çiftlikte
+o ièrenç k¡rm¡z¡ çiçekler yok.<NOD<END
 
 
 #0220
 <KEY<FLJ1020:0221<MSG
-Bir fiskiye.<NOD<END
+Bir f¡skiye.<NOD<END
 #0221
 <KEY<MSG
-Yere iyice sabitlenmis!<NOD<END
+Yere iyice sabitlenmié!<NOD<END
 
 #0300
 <PRI
 <FL+0410
 <DNP0300
 <MSG
-Bir sey gorunmuyor...<NOD<CLR<CMU0010<GIT1005<IT+0005
-Canavar Disi'ni nasil aldin?
+Bir éey görünmüyor...<NOD<CLR<CMU0010<GIT1005<IT+0005
+Canavar Diéi'ni nas¡l ald¡n?
 ...<WAI0160<NOD<CLO
 <RMU<END
 
 #0400
 <PRI<SOU0022<DNP0400<CMU0016
 <MSG<GIT1006
-Can Kapsulu alindi.<WAI0160<NOD<RMU<ML+0003
-Maksimum can 3 artti.<NOD<END
+Can Kapsülü al¡nd¡.<WAI0160<NOD<RMU<ML+0003
+Azami can¡n 3 artt¡.<NOD<END
 

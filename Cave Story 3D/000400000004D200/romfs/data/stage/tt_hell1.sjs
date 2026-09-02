@@ -13,13 +13,13 @@
 
 #0095
 <EQ+0256<MS2<TUR
-<SOU0043<GIT1022290 Sayaci etkinlestirildi.<NOD<GIT0000<EVE0096
+<SOU0043<GIT1022Sayaç 290 etkinleétirildi.<NOD<GIT0000<EVE0096
 
 #0096
 <MSG
-Kara bir ruzgar vucudunun icinden
-geciyor.<NOD<CLR
-Tum silahlar Seviye 1'e dustu!<NOD<CLO
+Kara bir rüzgâr vücudunun içinden
+geçiyor.<NOD<CLR
+Tüm silahlar Seviye 1'e düétü!<NOD<CLO
 <FRE<MNA<CMU0036<FAI0003<END
 
 
@@ -35,14 +35,14 @@ Tum silahlar Seviye 1'e dustu!<NOD<CLO
 
 #0200
 <PRI<MSG<TUR
-Cehenneme hos geldin!<NOD<END
+Cehenneme hoé geldin!<NOD<END
 
 
 #0400
 <PRI<SOU0022<DNP0400
 <MSG<GIT1006
-Can Kapsulu alindi.<NOD<ML+0005
-Maksimum can 5 artti.<NOD<END
+Can Kapsülü al¡nd¡.<NOD<ML+0005
+Azami can¡n 5 artt¡.<NOD<END
 
 #0420
 <DNP0420
@@ -54,22 +54,22 @@ Maksimum can 5 artti.<NOD<END
 #0500
 <PRI<FL-1531<FL+1532<MS3<FAC0020
 Oooof...<NOD<CLR<FAC0000
-<CNP0500:0259:0000<GIT1030Curly'ye Cekme Halati kullandin.<NOD<END
+<CNP0500:0259:0000<GIT1030Curly'ye Çekme Halat¡ kulland¡n.<NOD<END
 
 
 #0900
 <DNP0900<SKJ0020:0000<SK+0020
 <0CS<PRI<MS3
-Jenka adindaki kadinin
-bir kucuk erkek kardesi varmis?<NOD
-Adi Ballos'tu.<NOD
-Ve ablasi gibi o da
-hicbir insanda olmayan buyusu vardi.<NOD<0CE<END
+Jenka'n¡n küçük bir erkek kardeéi
+olduèunu biliyor muydun?<NOD
+Ad¡ Ballos'tu.<NOD
+Ablas¡ gibi onun da hiçbir insanda
+bulunmayan büyü güçleri vard¡.<NOD<0CE<END
 
 #0901
 <DNP0901<SKJ0021:0000<SK+0021
 <0CS<PRI<MS3
-Buyulu gucuyle halki
-yonetip korudu.<NOD
-Onu sever, guvenirlerdi,<NOD<CLR
-Kendi krallarindan bile fazla.<NOD<0CE<END
+Büyülü gücüyle halk¡
+yönetip korudu.<NOD
+Onu sever ve ona güvenirlerdi,<NOD<CLR
+Kendi krallar¡ndan bile fazla.<NOD<0CE<END

@@ -16,7 +16,7 @@
 <KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0322:0008
 
 #0110
-<KEY<FLJ0940:0111<MSGSoguk bir ruzgar
+<KEY<FLJ0940:0111<MSGSoèuk bir rüzgâr
 esiyor...<NOD<END
 #0111
 <KEY<FAO0002<TRA0053:0092:0004:0165
@@ -27,8 +27,8 @@ esiyor...<NOD<END
 
 #0500
 <KEY<MSG
-Ekranda metin gorunuyor...<NOD<CLR
-<TUR>_ KULUCKA BASARILI.<NOD<FLJ0941:0000<CLO
+Ekranda metin görünüyor...<NOD<CLR
+<TUR>_ KULUÇKA BAÈARILI.<NOD<FLJ0941:0000<CLO
 <FL+0941
 <0CS<WAI0020<CMU0000<MSG
 Orada kim var?<MYD0002<NOD<CLO
@@ -37,47 +37,47 @@ Orada kim var?<MYD0002<NOD<CLO
 <WAI0048<ANP0400:0000:0000
 <CMU0014<MSG<FAC0010
 Ah, sensin.<NOD<CLR
-Guvende misin diye
+Güvende misin diye
 merak ettim.<NOD
-Burada sadece ben varim.<NOD<CLR
-Sen Kum Bolgesi'ne
-gidince kacis icin
-hazirliklari hizlandirdik.<NOD<CLR
-Tam o sirada Misery
-cikageldi.<NOD
-Sue'yu goturduler...<NOD
-Profesor Booster ise
+Burada sadece ben var¡m.<NOD<CLR
+Sen Kum Bölgesi'ne
+gidince kaç¡é için
+haz¡rl¡klar¡ h¡zland¡rd¡k.<NOD<CLR
+Tam o s¡rada Misery
+ç¡kageldi.<NOD
+Sue'yu götürdüler...<NOD
+Profesör Booster ise
 bir yere kayboldu...<NOD<CLR
 .....<NOD<CLR
-Doktor, gorunuse gore
-cicek tohumlarini ele gecirmis.<NOD<CLR
-Ama,<NOD seni suclamiyorum.<NOD<ANP0400:0000:0002
-Doktorun zaferi
-Seytan Taci'ni
-aldigi an kesindi.<NOD<CLR
-Artik an meselesi...
-Mimiga ordusu
-yuzeye saldirmaya hazir olacak...<NOD<CLR
+Doktor, görünüée göre
+çiçek tohumlar¡n¡ ele geçirmié.<NOD<CLR
+Ama,<NOD seni suçlam¡yorum.<NOD<ANP0400:0000:0002
+Doktor'un zaferi
+Èeytan Tac¡'n¡
+ald¡è¡ an kesindi.<NOD<CLR
+Mimiga ordusunun
+yeryüzüne sald¡rmaya haz¡r olmas¡
+art¡k an meselesi...<NOD<CLR
 Bu olursa,
 Doktor'u yenmeye
-calismak bosuna,<NOD senin icin bile.<NOD<CLO<FAC0000
+çal¡émak boéuna,<NOD senin için bile.<NOD<CLO<FAC0000
 <WAI0010<ANP0400:0003:0002
 <WAI0016<ANP0400:0000:0002
 <MSG<FAC0010
-Bu yerden kacmaktan
-baska caren yok...<NOD<CLR
-Yine de kacmak
-mumkun... ama sadece
-Ucan Ejderha'yla.<NOD
-Bu yuzden buraya
-tek basima geldim...<NOD<CLR
-Ihtiyacim olan Ucan Ejderha
-sag salim ciksin diye.<NOD<CLO<FAC0000
+Bu yerden kaçmaktan
+baéka çaren yok...<NOD<CLR
+Yine de kaçmak
+mümkün... ama sadece
+Uçan Ejderha'yla.<NOD
+Bu yüzden buraya
+tek baé¡ma geldim...<NOD<CLR
+Íhtiyac¡m olan Uçan Ejderha
+güvenle yumurtadan ç¡ks¡n diye.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
 <MSG<FAC0010
-Benimle kacmak ister misin?<0CE<YNJ0501<FL+0960<CLR<ANP0400:0000:0002
-Biliyorum... Elinden gelmiyor.<NOD
-Elinden geleni yaptin.<NOD<CLO
+Benimle kaçmak ister misin?<0CE<YNJ0501<FL+0960<CLR<ANP0400:0000:0002
+Biliyorum... Yapacak bir éey yok.<NOD
+Elinden geleni yapt¡n.<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940
@@ -87,26 +87,26 @@ Elinden geleni yaptin.<NOD<CLO
 #0501
 <KEY<WAI0020<ANP0400:0000:0002
 <MSG<FAC0010
-Anladim...<NOD<CLO<FAC0000
+Anlad¡m...<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
 <MSG<FAC0010
-Aslinda...<NOD
-Mimiga'lari
-eski hallerine dondurmenin
+Asl¡nda...<NOD
+Mimigalar¡
+eski hallerine döndürmenin
 bir yolu var.<NOD<CLR
-Adanin cekirdegini yok et.<NOD
-Ama cekirdegi yok edersen
-ada cokebilir.<NOD
-Senin icin fazla tehlikeli
-bir secim mi?<NOD<WAI0050<ANP0400:0000:0000<CLR
-Yine de cekirdegin
-nerede oldugunu bilmiyorum...<NOD<CLR
-Gercekten denemek istiyorsan
+Adan¡n çekirdeèini yok et.<NOD
+Ama çekirdeèi yok edersen
+ada çökebilir.<NOD
+Böyle bir seçim sana
+fazla m¡ tehlikeli geliyor?<NOD<WAI0050<ANP0400:0000:0000<CLR
+Yine de çekirdeèin
+nerede olduèunu bilmiyorum...<NOD<CLR
+Gerçekten denemek istiyorsan
 seni burada beklerim.<NOD<CLR
-Ama benim icin
-cok tehlikeli olursa
-kacmak zorunda kalirim.<NOD<CLO
+Ama benim için
+çok tehlikeli olursa
+kaçmak zorunda kal¡r¡m.<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
 <WAI0020<CNP0400:0000:0000<FL+0940

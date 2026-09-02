@@ -15,61 +15,61 @@
 #0700
 <0CS<KEY<FL-0440<FL-0443<CMU0021<FAI0004
 <MSG
-Aga baglaniliyor.<WAI0050
+Aèa baèlan¡l¡yor.<WAI0050
 <MSG
-Giris yapildi.<WAI0050
+Girié yap¡ld¡.<WAI0050
 <MSG
-Mesajlasma basliyor.<WAI0100<CLR
+Mesajlaéma baél¡yor.<WAI0100<CLR
 <MSG<FAC0001
 Sue: Kazuma<NOD
-Sue: orada misin?<NOD
+Sue: orada m¡s¡n?<NOD
 Sue: iyi misin?<NOD<FAO0004<TRA0018:0700:0002:0000
 #0701
 <KEY<FAI0004<MSG<FAC0001
 Sue: Evet, benim.<NOD
 Sue: Sue Sakamoto, ablan.<NOD<CLR
 Sue: Demek sen de
-kacabildin?<NOD
-Sue: Simdi neredesin?<NOD
-Sue: Ejderha yumurtalarini buldum.<NOD
-Sue: Anne yaninda mi?<NOD<FAO0004<TRA0018:0701:0002:0000
+kaçabildin?<NOD
+Sue: Èimdi neredesin?<NOD
+Sue: Ejderha yumurtalar¡n¡ buldum.<NOD
+Sue: Anne yan¡nda m¡?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001
-Sue: Neredeyse catlayacak
+Sue: Neredeyse çatlayacak
 bir tane buldum.<NOD
-Sue: Ama bir sifreyle
+Sue: Ama bir éifreyle
 kilitli.<NOD
-Sue: Bir sey yapabilir
+Sue: Bir éey yapabilir
 miyiz?<NOD<FAC0000<CLR<MSG
-"Kazuma" icin bilgi aliniyor.<WAI0150<CLR<TUR
-Tamamlandi.<NOD<CLR
-Konum: Bushlands Yapi D<NOD
-Calisan isinlayicilar
-araniyor.<NOD<CLR
-Isinlayici: Bushlands'e baglanti
-hazirlaniyor...<NOD<CLR
+"Kazuma" için bilgi al¡n¡yor.<WAI0150<CLR<TUR
+Tamamland¡.<NOD<CLR
+Konum: Çal¡l¡klar Yap¡ D<NOD
+Çal¡éan ¡é¡nlay¡c¡lar
+aran¡yor.<NOD<CLR
+Ié¡nlay¡c¡: Çal¡l¡klar'a baèlant¡
+haz¡rlan¡yor...<NOD<CLR
 <MSG<FAC0001
-Sue: Neyse, sana yardim etmeye
+Sue: Neyse, sana yard¡m etmeye
 geliyorum.<NOD
 Sue: Orada kal.<NOD<FAO0004<TRA0018:0702:0002:0000
 #0703
 <KEY<FON0100:0001<CNP0700:0042:0000<FAI0004<MSG
 .....<NOD<0CE<0CS<CLR
-Cocuk hazir mi artik???<NOD<CLR
+Çocuk haz¡r m¡ art¡k???<NOD<CLR
 <SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!<NOD
 <CLO<ANP0710:0008:0000<WAI0016<CNP0711:0074:0000<ANP0710:0000:0000
 <MSG<FAC0007
 Geri geldin.<NOD
 Seni bekliyordum...<NOD<CLR<FAC0002
 E, ne var?<NOD
-Mesgulum.<NOD<CLR<FAC0007
+Meégulüm.<NOD<CLR<FAC0007
 Toroko'yu Doktor'a
-goturduler!<NOD<CLR<FAC0001
+götürdüler!<NOD<CLR<FAC0001
 Ne?!<NOD<CLR<FAC0009
-Bunun hesabini
-senden soracagiz!<NOD<FAC0000<CLO
+Bunun hesab¡n¡
+senden soracaè¡z!<NOD<FAC0000<CLO
 <ANP0710:0008:0000<WAI0100<FAO0004<FOM0001<MSG
-<FAC0003Birak BENI!!!<NOD<CLR<FAC0007
+<FAC0003B¡rak BENÍ!!!<NOD<CLR<FAC0007
 .....<NOD<0CE<TRA0001:0099:0005:0008
 <END
 <END
