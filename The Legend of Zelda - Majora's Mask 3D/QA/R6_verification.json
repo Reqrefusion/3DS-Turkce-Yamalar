@@ -1,0 +1,209 @@
+{
+  "version": "R6",
+  "background_source": "user-supplied 01_ARKAPLANLI_DUZENLE(1).zip",
+  "background_cleaning_operations": 0,
+  "game_tested": false,
+  "assets": [
+    {
+      "file": "Joker.Main.FileSelect__menu_file_select_parts00.ctxb.png",
+      "opaque_text_overlays": 4,
+      "transparent_text_replacements": 4,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "bc96a88075b084bcd6001ee36fdc444dda4c05095f45b6f2c89fc3381dfe7148",
+      "format": "RGBA8",
+      "encode": {
+        "texture_index": 0,
+        "format": "RGBA8",
+        "bytes": 524360,
+        "sha256": "930aa87ca20e60af350ee277bdd01430f959e82a505c97a498a644131df9b806"
+      }
+    },
+    {
+      "file": "Joker.Main.Play.HintMovie__menu_hint_movie_parts00.ctxb.png",
+      "opaque_text_overlays": 1,
+      "transparent_text_replacements": 2,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "07d0b8252e404294cf03bc50c968274524b2af33a31bbd731d478df24f34f32f",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "5df068f66d7aed37fde5f89d4511ae72cc3d6e84f4a282f66a508d294ef2ccd1",
+        "changed_4x4_blocks": 173,
+        "total_4x4_blocks": 4096
+      }
+    },
+    {
+      "file": "Joker.Main.Play.Option__menu_option_parts00.ctxb.png",
+      "opaque_text_overlays": 5,
+      "transparent_text_replacements": 16,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "198d3b8948eb1cd3b7edaf47aaf0b71d4230c6d031be627e25ff042476ef627d",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "71c2e77b94d21ec0a1f7b211538b32a7f6da130a345f6be2eb08fafe14ae4464",
+        "changed_4x4_blocks": 2313,
+        "total_4x4_blocks": 4096
+      }
+    },
+    {
+      "file": "Joker.Main.Play.SubMenu__menu_collect_parts00.ctxb.png",
+      "opaque_text_overlays": 1,
+      "transparent_text_replacements": 1,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "51edacffe6961b24c4dc002fc9f4a7c5fead3efcc1b5110d197880f83172fd67",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 131144,
+        "sha256": "ac3264b1f8717d714a274cbdae49dca4996efc035ba279d2389e8eb38b66195a",
+        "changed_4x4_blocks": 263,
+        "total_4x4_blocks": 8192
+      }
+    },
+    {
+      "file": "Joker.Main.Play.SubMenu__menu_item_parts00.ctxb.png",
+      "opaque_text_overlays": 4,
+      "transparent_text_replacements": 0,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "fdf4ae63e6ad948cc684091006e417ec1b0d31df87e6d35e604521fc518a078c",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "95ee6bde9338d166658d59467305bf9adfd34370873c2fcc151df8bf29609bf1",
+        "changed_4x4_blocks": 319,
+        "total_4x4_blocks": 4096
+      }
+    },
+    {
+      "file": "Joker.Main.Play.SubMenu__menu_map_parts00.ctxb.png",
+      "opaque_text_overlays": 1,
+      "transparent_text_replacements": 12,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "887f8737ce199d23874d1d524a164616b0eaa9799f36b7a33ce8ac075c7759e3",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "16cccb120db1d4fad19178a7e12cb9575c931ea51a31ea2902a6f42108869d75",
+        "changed_4x4_blocks": 493,
+        "total_4x4_blocks": 4096
+      }
+    },
+    {
+      "file": "Joker.Main.Play.SubMenu__menu_quest_list_parts00.ctxb.png",
+      "opaque_text_overlays": 1,
+      "transparent_text_replacements": 2,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "2e54fa784b3c261f147b21eeb98e21d09b614d851e253eddf428d51340180cba",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "0a2464281b0d267e37ec71904f5686a2a91dc1908d6fead027bdc921022e6627",
+        "changed_4x4_blocks": 176,
+        "total_4x4_blocks": 4096
+      }
+    },
+    {
+      "file": "Joker.Main.Play.SubMenu__menu_schedule_parts00.ctxb.png",
+      "opaque_text_overlays": 8,
+      "transparent_text_replacements": 5,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "23c75eef98cdf1dc6d7a233304ac731e4713466014d426737f3da07a064c1880",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 131144,
+        "sha256": "64edc8b7671669c4eb7aaf894da785c192dfbd760a621acd50c4600b9904df5e",
+        "changed_4x4_blocks": 778,
+        "total_4x4_blocks": 8192
+      }
+    },
+    {
+      "file": "Joker.Main.Play__hud_patrs00_action_text.ctxb.png",
+      "opaque_text_overlays": 4,
+      "transparent_text_replacements": 44,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "ea4b906ee6bb1fa49dd449c5840fde6fdc5ff56fa1ca3ea1af7cf1a1ed5cc2d7",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 131144,
+        "sha256": "ac4a2d9b1b9bdd3459c04d5e1fff7cf95e8f8ce6300fa64102fd1332b7625e5a",
+        "changed_4x4_blocks": 4609,
+        "total_4x4_blocks": 8192
+      }
+    },
+    {
+      "file": "Joker.Main__btn_return.ctxb.png",
+      "opaque_text_overlays": 2,
+      "transparent_text_replacements": 0,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "4468c2a5ac09133b158a6b89f738f53a05bf9bcfb65d04669fcba299248a0310",
+      "format": "RGBA4",
+      "encode": {
+        "texture_index": 0,
+        "format": "RGBA4",
+        "bytes": 16456,
+        "sha256": "8cec59f475e0abf034be137e8b379ae3df7866e1d804ef8d7e5689b2f4c17adb"
+      }
+    },
+    {
+      "file": "Joker.Main__menu_popup_parts00.ctxb.png",
+      "opaque_text_overlays": 6,
+      "transparent_text_replacements": 6,
+      "background_changes_outside_text_before_encoding": 0,
+      "source_png_sha256": "f657113b9e589fc391076ab57b7cef8caaa57a21b5d41ccef37d9bd63e10b432",
+      "format": "ETC1A4",
+      "encode": {
+        "texture_index": 0,
+        "format": "ETC1A4",
+        "bytes": 65608,
+        "sha256": "5263555f196d2af51cca03130c5f7b127893a6ad9d3a6a77d288ea19fdc9c1c0",
+        "changed_4x4_blocks": 1195,
+        "total_4x4_blocks": 4096
+      }
+    }
+  ],
+  "unchanged_install_files": [
+    "layout/EU_English/Joker.Main.Play.Perfect.gar",
+    "layout/EU_English/Joker.Main.Startup.gar",
+    "layout/EU_English/Joker.Main.Play.Countdown.gar",
+    "layout/EU_English/Joker.Main.Ending.gar",
+    "message/eu/eue.gmsg",
+    "menu/savedata_maintainer/eu/english/guideline_parts00.ctxb",
+    "menu/daytelop/eu-en/daytelop_first.ctxb",
+    "menu/daytelop/eu-en/daytelop_last.ctxb",
+    "menu/daytelop/eu-en/daytelop_scound.ctxb",
+    "menu/daytelop/eu-en/daytelop_48.ctxb",
+    "menu/daytelop/eu-en/daytelop_24.ctxb",
+    "menu/daytelop/eu-en/daytelop_new.ctxb",
+    "menu/daytelop/eu-en/daytelop_72.ctxb"
+  ],
+  "modified_archives": [
+    "Joker.Main.FileSelect.gar",
+    "Joker.Main.Play.HintMovie.gar",
+    "Joker.Main.Play.Option.gar",
+    "Joker.Main.Play.SubMenu.gar",
+    "Joker.Main.Play.gar",
+    "Joker.Main.gar"
+  ],
+  "independent_r5_comparison": {
+    "only_expected_archives_modified": true,
+    "unlisted_textures_in_modified_archives_unchanged": true,
+    "other_png_sources_unchanged": true,
+    "uploaded_background_sources_preserved_exact": true
+  }
+}

@@ -1,0 +1,51 @@
+MAJORA’S MASK 3D — TÜRKÇE YAMA v0.9.11 R6
+Kullanıcının temizlediği arka planlar üzerine Türkçe yazı uygulaması
+
+Bu tam paket R5’in devamıdır. 01_ARKAPLANLI_DUZENLE(1).zip içindeki
+11 atlas temel alındı. Bu atlaslarda arka plan silme, inpainting, renk
+geçişi oluşturma veya yüzey doldurma işlemi yapılmadı.
+37 arka planlı etikete yalnızca Türkçe yazı katmanı eklendi.
+92 şeffaf yazı alanına R5’teki Türkçe yazı görselleri yerleştirildi.
+Bu 11 atlasın dışındaki dokular, özgün logo ve Türkçe GMSG metni R5 ile
+aynı kaldı. Değişen 6 GAR içindeki diğer doku girdileri de aynen korundu.
+
+KURULUM
+Avrupa Title ID: 0004000000125600. Dil: English / İngilizce.
+1. Oyunu kapatın ve mevcut yamanızı yedekleyin.
+2. 0004000000125600 klasörünü SD karttaki luma/titles/ altına kopyalayın.
+   R5 kuruluysa aynı konumdaki dosyaların değiştirilmesini kabul edin.
+3. Önceki paket yönergesindeki gibi Luma game patching açık olsun.
+Emülatörde aynı romfs içeriğini oyunun mod konumuna yerleştirin.
+SD karta diğer klasörleri kopyalamanız gerekmez.
+
+KONTROLLER
+- Kullanıcının temiz PNG dosyaları BuildInputs/UserClean altında aynen saklı.
+- PNG aşamasında yazı alanı/harf katmanı dışındaki değişen piksel sayısı: 0.
+- 11 atlas oyuna yazılan CTXB verisinden yeniden açılıp görsel olarak incelendi.
+- Arşiv boyutları, giriş konumları ve değişmeyen girdiler korundu.
+- Paket dışındaki kurulum dosyaları R5 ile byte düzeyinde aynı.
+- ZIP bütünlüğü ve SHA-256 manifesti doğrulandı.
+CTXB’nin ETC1A4 gibi kayıplı formatlarında yazma sırasında küçük renk
+nicemleme farkları oluşabilir; bu, arka plana yeniden temizlik uygulanması
+değildir. Düzenleme öncesi kayıpsız PNG kaynakları pakette bulunmaktadır.
+Oyun/emülatör çalıştırma testi yapılmadı.
+
+İÇERİK
+0004000000125600/             Tam kurulum paketi
+Graphics/                    Güncel yazılı PNG kaynakları
+QA/R6_KARSILASTIRMA_*.png     Senin temiz görsellerin / son CTXB görüntüleri
+QA/R6_verification.json       Bu turun kontrolleri
+QA/R6_native/*.lettering.png  Arka planlı düğmelere eklenen şeffaf yazı katmanları
+QA/*.decoded.png             Güncel son doku görüntüleri
+QA/R5_*.json                 Önceki turun tarihsel raporları
+Translation/                 Korunan çeviri tablosu ve sözlük
+BuildInputs/                 Yeniden oluşturma girdileri
+Tools/                       Yeniden oluşturma araçları
+
+YENİDEN OLUŞTURMA
+Linux, Python 3, Pillow, numpy, scipy ve g++ ile:
+  python Tools/rebuild.py
+  python Tools/apply_user_backgrounds.py
+İlk komut R5 temelini oluşturur; ikinci komut senin temizlediğin görsellere
+sadece yazıları uygular ve R6’yı oluşturur. İkinci komuttaki arka plan
+temizleme işlem sayısı sıfırdır. Araçlar çıktıların üzerine yazar.
