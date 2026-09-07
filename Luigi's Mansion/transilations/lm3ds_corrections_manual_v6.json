@@ -1,0 +1,3286 @@
+{
+  "0x0001": {
+    "tr": "[0008:00000001] tuşuna bas",
+    "reason": "UI komutu Türkçede doğal söz dizimine alındı."
+  },
+  "0x0002": {
+    "tr": "© 2001 - 2018 Nintendo<br>GREZZO ile ortak geliştirilmiştir",
+    "reason": "Ortak geliştirme kredisi daha doğal ve anlamca tam çevrildi."
+  },
+  "0x0003": {
+    "tr": "[0008:0000000E] tuşuna basarak HOME Menüsüne dön.",
+    "reason": "Türkçe özel ad/ek yazımı düzeltildi."
+  },
+  "0x0031": {
+    "tr": "Hareket kontrolü hassasiyetini<br>ayarlayabilirsin. Dört seviye vardır:<br>3 en yüksek düzeydir, 0 ise<br>hareket kontrolünü kapatır.",
+    "reason": "Noktalama ve anlatım doğallaştırıldı."
+  },
+  "0x0038": {
+    "tr": "Nintendo 3DS Circle Pad Pro<br>devre dışı bırakıldı.<br>Bu ayar Seçeneklerden ya da<br>duraklatma menüsünden<br>değiştirilebilir.",
+    "reason": "Gereksiz kesme işareti kaldırıldı."
+  },
+  "0x0039": {
+    "tr": "Elementi Püskürt",
+    "reason": "Belirtme durumu eklendi."
+  },
+  "0x003A": {
+    "tr": "Elementi Ateşle",
+    "reason": "Belirtme durumu eklendi."
+  },
+  "0x0066": {
+    "tr": "Vazgeç",
+    "reason": "Kaydet/Vazgeç menüsünde diğer Avrupa dillerinin “iptal” işlevi esas alınarak daha doğal UI karşılığı seçildi."
+  },
+  "0x0067": {
+    "tr": "Kaydediliyor... Konsolu kapatma.",
+    "reason": "Power down ifadesi konsol bağlamına uygunlaştırıldı."
+  },
+  "0x0070": {
+    "tr": "Başlık ekranına dönmek istiyor musun?<br><color=0002>*Keşif ilerlemesi kaydedilmeyecek.</color><br><color=0002>*amiibo takasları sıfırlanacak.</color>",
+    "reason": "“Uygun mu?” yerine diğer dillerle uyumlu doğal onay sorusu."
+  },
+  "0x009E": {
+    "tr": "HOME Düğmesine basıp<br>oyundan çık.",
+    "reason": "Gereksiz kesme işareti kaldırıldı."
+  },
+  "0x009F": {
+    "tr": "Bu işlem konak verisinin üzerine<br>yazacak ve konağı en baştan keşfetmeye<br>başlayacaksın. Devam etmek istiyor musun?",
+    "reason": "Onay sorusu doğallaştırıldı."
+  },
+  "0x00A0": {
+    "tr": "Bu işlem gizli konak verisinin üzerine<br>yazacak ve gizli konağı en baştan<br>keşfetmeye başlayacaksın.<br>Devam etmek istiyor musun?",
+    "reason": "Onay sorusu doğallaştırıldı."
+  },
+  "0x00A3": {
+    "tr": "Tamamlandı",
+    "reason": "“Clear” burada silme komutu değil, tamamlanmış durum anlamında."
+  },
+  "0x00D0": {
+    "tr": "Derece",
+    "reason": "Skor/sonuç bağlamında “Rank” için “Rütbe” yerine “Derece”."
+  },
+  "0x00DA": {
+    "tr": "VS [000E:00000000]",
+    "reason": "Karşılaşma ekranında “Karşısında” yapaydı; diğer diller gibi kısa VS etiketi korundu."
+  },
+  "0x00E1": {
+    "tr": "Tekrar denemek ister misin?",
+    "reason": "Pasif ve yapay soru doğallaştırıldı."
+  },
+  "0x00EF": {
+    "tr": "Bu ayar Seçeneklerden değiştirilebilir.",
+    "reason": "Gereksiz kesme işareti kaldırıldı ve özne netleştirildi."
+  },
+  "0x013C": {
+    "tr": "Kemik Avlusu",
+    "reason": "“Boneyard” oda/alan adı; “Kemiklik” yerine bağlama uygun doğal ad."
+  },
+  "0x014A": {
+    "tr": "Ebeveyn Yatak Odası",
+    "reason": "FR/IT/ES bağlamı odanın ebeveynlere ait olduğunu doğruluyor."
+  },
+  "0x01A2": {
+    "tr": "Laboratuvara dönmek ister misin?",
+    "reason": "Pasif soru doğallaştırıldı."
+  },
+  "0x0200": {
+    "tr": "Bağlantıyı sonlandırıp<br>laboratuvara dönmek ister misin?",
+    "reason": "Eksik/yapay fiil yapısı düzeltildi."
+  },
+  "0x0201": {
+    "tr": "Bu işlem bağlantıyı sonlandıracak.",
+    "reason": "0x008B ile aynı İngilizce kaynak cümle; sistem mesajı tutarlı hale getirildi."
+  },
+  "0x0208": {
+    "tr": "En İyi Derece",
+    "reason": "“Highest Record” Türkçe arayüz dilinde daha doğal olan “En İyi Derece” biçimine çevrildi."
+  },
+  "0x020B": {
+    "tr": "Toplanan Hazineler",
+    "reason": "Edilgen ve mekanik “alınan” yerine oyun bağlamına uygun “toplanan” kullanıldı."
+  },
+  "0x0231": {
+    "tr": "Eğitimden Çık",
+    "reason": "Menü komutu daha doğal Türkçe eylem ifadesine çevrildi."
+  },
+  "0x0236": {
+    "tr": "Eğitimi bırakıp laboratuvara dönmek<br>istiyor musun?",
+    "reason": "“Uygun mu?” yerine doğal onay sorusu."
+  },
+  "0x0238": {
+    "tr": "Portre Rövanşı'ndan çıkıp galeriye<br>dönmek istiyor musun?",
+    "reason": "v6 manuel kontrol: kısa oyun/arayüz metni daha doğal ve okunaklı Türkçeye çekildi."
+  },
+  "0x023B": {
+    "tr": "Diğer oyuncu şu anda<br>Seçenekleri ayarlıyor. Lütfen bekle.",
+    "reason": "Gereksiz kesme işareti kaldırıldı."
+  },
+  "0x023C": {
+    "tr": "[0008:00000001] tuşuna bas",
+    "reason": "0x0001 ile aynı “Press” komutu; kontrol ikonu sonrası doğal Türkçe kullanım."
+  },
+  "0x0268": {
+    "tr": "Kemik Avlusu",
+    "reason": "Aynı oda adı tutarlı hale getirildi."
+  },
+  "0x026D": {
+    "tr": "Spor Salonu",
+    "reason": "FR/DE/IT/ES çevirileri buranın oyun odası değil spor/fitness odası olduğunu doğruluyor."
+  },
+  "0x0276": {
+    "tr": "Ebeveyn Yatak Odası",
+    "reason": "Aynı oda adı tutarlı hale getirildi."
+  },
+  "0x02C0": {
+    "tr": "Luigi'nin YEPYENİ konağına hoş<br>geldin!",
+    "reason": "Türkçe iyelik eki ve büyük harf kullanımı düzeltildi."
+  },
+  "0x02D4": {
+    "tr": "Konaktaki Zehirli Mantarlar<br>Süper Mantarlara dönüştü!<br>Bir tane kap, sağlığın toparlansın.",
+    "reason": "Satır bölünmesi ve akıcılık düzeltildi."
+  },
+  "0x02DF": {
+    "tr": "NFC okuyucu/yazıcının<br>güncellenmesi gerekiyor.<br>Güncellemek için amiibo ayarlarına<br>git.",
+    "reason": "Gereksiz kesme işareti ve büyük harf kullanımı düzeltildi."
+  },
+  "0x02F9": {
+    "tr": "Tebrikler!<br>Konağın artık tamam!",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x02FE": {
+    "tr": "Hmm... Konağı bu sefer tek başına<br>keşfetmişsin, <color=0003>Luigi</color>.<hr>Bir dahaki fırsatta<br><color=0003>Jöluigi</color>'yi de yanında götürmeni<br>isterim!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x02FF": {
+    "tr": "<color=0003>Jöluigi</color>'yi şuradaki laboratuvarda<br>bırakacağım.<br>Fırsat buldukça ondan yararlan!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x0301": {
+    "tr": "Circle Pad Pro kullanılırken<br>NFC okuyucu/yazıcı kullanılamaz.<br>amiibo okurken lütfen Circle Pad Pro'nun<br>bağlantısını kes.",
+    "reason": "Kötü satır kırılması düzeltildi."
+  },
+  "0x032C": {
+    "tr": "Ekran parlaklığını ayarlayabilirsin.<br>Dört seviye vardır:<br>en parlak 4, en karanlık 1'dir.",
+    "reason": "Noktalama doğallaştırıldı."
+  },
+  "0x032D": {
+    "tr": "Ekran parlaklığını ayarlayabilirsin.<br>Dört seviye vardır:<br>en parlak 4, en karanlık 1'dir.",
+    "reason": "Noktalama doğallaştırıldı."
+  },
+  "0x03EB": {
+    "tr": "Of... Bu işte dayak yemediğim gün yok<br>doğrusu.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03EC": {
+    "tr": "Bu hayalet avı curcunası için<br>iyice yaşlandım galiba.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03EE": {
+    "tr": "Bu ev... Yemin ederim her gün<br>biraz daha hayalet kaynıyor!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03EF": {
+    "tr": "Senin gibi genç bir delikanlının<br>burada ne işi var bakalım?",
+    "reason": "Doğal konuşma ritmi; E. Gadd’ın meraklı yaşlı bilim insanı tonu güçlendirildi."
+  },
+  "0x03F1": {
+    "tr": "Eyvah... İş çirkinleşiyor.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03F2": {
+    "tr": "Haydi evlat, kıpır kıpır!<br>Çabuk, peşimden gel!",
+    "reason": "“Look lively / posthaste” enerjisi Türkçede daha canlı verildi."
+  },
+  "0x03F6": {
+    "tr": "Oh, şükürler olsun, iyisin!<br>Bir anda bağlantı koptu...<hr>Azıcık ödüm patladı doğrusu.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03F7": {
+    "tr": "Hımmm. O uzun kapışma seni<br>biraz pestile çevirmiş,<hr>öyle değil mi?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03F8": {
+    "tr": "Laboratuvara dön de<br>bir soluklan, ne dersin?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03F9": {
+    "tr": "Bir Patron hayaleti içine çektiğinde,<br><color=0002>Poltergust 3000</color> neredeyse<hr>patlayacak kadar dolar.",
+    "reason": "Özne/iyelik hatası giderildi; “full to bursting” doğru aktarıldı. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x03FE": {
+    "tr": "Aman aman... Şu cereyana bak...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x03FF": {
+    "tr": "Hop, bir saniye <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0401": {
+    "tr": "İleride bugüne dek rastladıklarımızdan<br>daha güçlü ruhlar seziyorum.<hr>Hımm... Galeriden kaçan portre<br>hayaletlerinden olmalılar!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0402": {
+    "tr": "Bunlar şimdiye dek gördüğün<br>hayaletlere hiç benzemez.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0403": {
+    "tr": "Kalplerini öyle kolay kolay<br>açmazlar. Yok, hiç açmazlar.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0404": {
+    "tr": "Birini bulunca önce [0008:00000004] ile<br>kalbinin içini yokla; ipucu ara.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0405": {
+    "tr": "Bakarsın onları nasıl gafil<br>avlayacağını ele verirler!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0406": {
+    "tr": "Pekâlâ, <color=0003>Luigi</color>, umarım<br>şansın yaver gider.",
+    "reason": "“Keep my fingers crossed” deyimi Türkçede doğal karşılıkla çevrildi."
+  },
+  "0x0408": {
+    "tr": "Hüüü hüüü! Nereye gittin,<br><color=0003>Mario</color>? Vaaaaaah!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0409": {
+    "tr": "Va... Vay! Bu <color=0003>Luigi</color>!<br>Sonunda geldin! Yaşasın!<hr>Çok şükür!",
+    "reason": "Yapay “Ne büyük sevinç” ifadesi doğallaştırıldı."
+  },
+  "0x040A": {
+    "tr": "Ben mi? Şey... <color=0003>Prenses Peach</color> beni<br><color=0003>Mario</color>'yu aramaya gönderdi.<hr>Senin konak kazandığını duyunca<br>buraya gelmiş... sonra da dönmemiş!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x040B": {
+    "tr": "Ş-şey... Ben gelince konak<br>hayalet kaynıyordu,<hr><color=0003>Mario</color> ortada yoktu... Ben de biraz...<br>şey... panikledim!<hr>Ne yapacağımı şaşırdım!!<br>Korkunçtu!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x040C": {
+    "tr": "Lütfen, lütfen, LÜTFEN<br><color=0003>Mario</color>'yu bulmama yardım et!<hr>Geri dönmezse Prenses Peach<br>çılgına döner!<hr>Ne kadar üzüleceğini<br>hayal bile edemezsin!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0410": {
+    "tr": "Ben... hüznün... mavisiyim...",
+    "reason": "İngilizcedeki “blue” = mavi/hüzün kelime oyunu Türkçede şiirsel bir çift anlamla yeniden kuruldu."
+  },
+  "0x0411": {
+    "tr": "Şimdilik elimden ancak bu geliyor,<br>ama...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0414": {
+    "tr": "Sana yardım edecek bir şey yapabilsem<br>keşke... Dur! Buldum!<hr>Hiç değilse şunu yapayım...",
+    "reason": "Hatalı iki nokta ve satır bölünmesi düzeltildi."
+  },
+  "0x0415": {
+    "tr": "Ne zaman yardıma ihtiyacın olursa<br>bana seslen!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0416": {
+    "tr": "<color=0003>Luigi</color>! Bir Boo! Az önce burada<br>kocaman bir Boo uçuyordu!<hr>Gözünü dört aç!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0417": {
+    "tr": "Offf! O karanlık çok korkunçtu!<br>Işıklar dönünce dünyalar benim oldu.<hr>Oh be!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0418": {
+    "tr": "Hey! Benimle oynasana!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0419": {
+    "tr": "Elimden bir şey gelirse...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x041A": {
+    "tr": "Vaaaah! Vaaaah! <color=0003>Mario</color>!<br>Neredesin? MARİOOO!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x041C": {
+    "tr": "<color=0003>Luigi</color>! İyi ki beni buldun!<br>İçime su serpildi resmen!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x041D": {
+    "tr": "Ne olur, ne olur, LÜTFEN<br><color=0003>Mario</color>'yu kurtar!<hr>Her yere baktım, yok!<br>Nerede o?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x041E": {
+    "tr": "Ayyy! Acıdı işte!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x041F": {
+    "tr": "Ben sadece seninle oyun oynamak<br>istemiştim...<hr>BÜYÜKLERDEN NEFRET EDİYORUM!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0421": {
+    "tr": "Küçük! Minnacık! Ufacık! Minicik!<br>Ga ga gu gu GAAA!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0423": {
+    "tr": "Mumlarımı KİM söndürdü?!<br>SEN mi, Bay Yemyeşil?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0424": {
+    "tr": "Hıh... Karanlık odalar burada<br>çok tehlikelidir... Eveeet...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0425": {
+    "tr": "ONLAR karanlığa bayılır... şimdi de<br>SENİN peşindeler! Buu-he-he!",
+    "reason": "Korkutma repliği kısa, çocukça ve Boo ses oyunuyla karakterlendirildi."
+  },
+  "0x0426": {
+    "tr": "Şimdi yandın! Blugh-huh!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0427": {
+    "tr": "Tıpkı senden önceki küçük Kırmızı<br>Şapkalı gibi...",
+    "reason": "“Red-Cap” Mario’yu tarif ediyor; “Kırmızı Şapka” isim gibi çevrilmemeli."
+  },
+  "0x0428": {
+    "tr": "Karanlıkta yolunu yitir de...<br>sonsuza dek dolaş!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0429": {
+    "tr": "Karanlıktan KORKUYORSUN, değil mi,<br>ufaklık? Hı? Hı?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x042A": {
+    "tr": "Blah-hah! İşte ONLAR burada!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x042B": {
+    "tr": "Bitkin düşmüşsün, <color=0003>Luigi</color>.<br>Al, bu sana iyi gelir!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x042C": {
+    "tr": "Serin akşam havası sana iyi gelsin,<br><color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07D0": {
+    "tr": "Ne icraydı ama! Uzun zamandır<br>bir parça beni böyle büyülememişti!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07D1": {
+    "tr": "Müzik kulağın pek seçkin olmalı.<br>Piyano sonatımı dinlemek ister misin?",
+    "reason": "Melody’nin rafine konuşma tonu güçlendirildi; literal “hassas kulak” kaldırıldı."
+  },
+  "0x07D2": {
+    "tr": "Pekâlâ... Dinle o zaman.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07D6": {
+    "tr": "Mario Bros.",
+    "reason": "Oyun adı çevrilmeden korunmalı; diğer tüm diller de özgün adı kullanıyor."
+  },
+  "0x07DD": {
+    "tr": "Tam isabet! Bildin!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07DF": {
+    "tr": "Hayır, hayır, HAYIR!<br>Baştan sona yanlış!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07E0": {
+    "tr": "O parçaya kalbimi, ruhumu koydum...<br>Karşılığı bu mu?<hr>Ne kabasın sen!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07E1": {
+    "tr": "Çık dışarı! Müziğimin kıymetini<br>bilmeden karşıma çıkma!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07E4": {
+    "tr": "Etkileyici! Demek sana karşı<br>parmaklarımı sakınmama gerek yok!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07E5": {
+    "tr": "Sevgili <color=0001>Nota Sayfalarımla</color><br>bir düelloya ne dersin?",
+    "reason": "Müzikal ve zarif karakter tonuna uygun yaratıcı düello ifadesi kullanıldı."
+  },
+  "0x07E7": {
+    "tr": "Bu arada... Sence besteci bu parçayı<br>yazarken gözünde<hr>nasıl bir sahne canlandırıyordu?",
+    "reason": "Soru Türkçede doğal ve müzikal anlatımla yeniden kuruldu."
+  },
+  "0x07E8": {
+    "tr": "Bu arada... bu ezgi meşhur bir<br>oyunda çalardı.<hr>Hangisinde, biliyor musun?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07EA": {
+    "tr": "Ben <color=0003>Melody</color>. Bana fildişi tuşların<br>ruhani güzeli derler!",
+    "reason": "“Spectral beauty” daha şiirsel ve karaktere uygun Türkçeleştirildi."
+  },
+  "0x07EE": {
+    "tr": "İyi, sesin geliyor! Şimşek çakınca<br>sinyalin bir anda gitmişti.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07EF": {
+    "tr": "Hımmm... Orada kıyameti<br>koparmışsın.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F0": {
+    "tr": "Gel laboratuvara da<br>bir soluklan.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F3": {
+    "tr": "O şimşek seni kömüre çevirse bile,<br><color=0002>Poltergust 3000</color>'in<hr>çizik bile almazdı! Heh heh!",
+    "reason": "Kaynak deyimin literal kaz çevirisi önceki turda giderilmişti; satır ritmi de sıkılaştırıldı."
+  },
+  "0x07F4": {
+    "tr": "<color=0003>Mario</color>'nun <color=0002>Şapkasını</color> buldun!<br>Hem de yakın zamanda yıkanmış!",
+    "reason": "Türkçe ek zinciri düzeltildi; ortak isimden sonra gereksiz kesme kaldırıldı."
+  },
+  "0x07F5": {
+    "tr": "Bay Kemik: Toprak aşkına,<br>şu vıyaklayan iti SUSTURUN!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F6": {
+    "tr": "Ee... şey... MEŞGUL!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F7": {
+    "tr": "Doğrusu dışarıdaki Boo'lar yüzünden<br>çıkmaya ödüm kopuyor.<hr>Bu bölgede hâlâ var mı?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F8": {
+    "tr": "Hey, <color=0003>Luigi</color>! Bakalım bu kez<br>ne buldun? Ver de görelim.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07F9": {
+    "tr": "... Oooh... Aaah... Bu...",
+    "reason": "“It’s...” ifadesinin anlamı korunarak yapay “Şimdi bu da” kaldırıldı."
+  },
+  "0x07FA": {
+    "tr": "bir <color=0002>Ateş Elementi Madalyası</color>! Artık<br><color=0001>Ateş Elementini</color> kullanabilirsin!",
+    "reason": "Terim tamlaması ve Türkçe ek yazımı düzeltildi."
+  },
+  "0x07FB": {
+    "tr": "Evet efendim, bununla<br><color=0001>Ateş Hayaletlerini</color><br>yakalayabilirsin!",
+    "reason": "FR/DE/IT/ES ile uyumlu, daha kısa ve doğal yaratık adı kullanıldı."
+  },
+  "0x07FC": {
+    "tr": "Hm? <color=0001>Ateş</color><br><color=0001>Hayaleti</color> nedir mi diyorsun?<hr>Evlat, ateş gördüğün her yerde<br>ortaya çıkarlar!<hr>İstersen ateşin ta kendisinin<br>hayaletleri de diyebilirsin.",
+    "reason": "v5 yapısal QA: kaynak metindeki renk etiketi yapısı korunurken öğretici metin doğal Türkçede tutuldu."
+  },
+  "0x07FD": {
+    "tr": "Aleve yaklaşınca seni fark edip<br>havaya sıçrarlar.<hr>İşte o an hiç bekletmeden<br>içine çek!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x07FF": {
+    "tr": "Buz erit, mum yak...<br>Ateşle yapılacak iş çok!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0800": {
+    "tr": "Sağlık göstergesinin yanında bir ölçer<br>belirir; ne kadar elementin<hr>kaldığına dikkat et, tamam mı<br>delikanlı?",
+    "reason": "“Health” terminolojisi ve satır akışı düzeltildi."
+  },
+  "0x0801": {
+    "tr": "Bazı hayaletleri yenmek için<br><color=0001>Ateş Elementi</color> gerekebilir... Bunu<hr>aklında tut, evlat! Sonra<br>“beni uyarmadın” deme!",
+    "reason": "Kişi eki hatası düzeltildi; son cümle doğal Türkçeye çevrildi."
+  },
+  "0x0803": {
+    "tr": "Ben bile yardım edebilirim,<br><color=0003>Luigi</color>! Cidden!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0804": {
+    "tr": "Hıçk... Şey... ÇOK önemli bir şeyi<br>tuvalete düşürdüm.<hr>Vallahi isteyerek olmadı!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0805": {
+    "tr": "Hiç dert etme!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0807": {
+    "tr": "Heyy... Haklısın! Olan olmuş;<br>ağlamanın faydası yok!",
+    "reason": "İngilizce deyim birebir çevrilmek yerine doğal Türkçe söyleyişle verildi."
+  },
+  "0x0808": {
+    "tr": "Eh, derdi de sifonlayıp gitsin!<br>Dönsün dolaşsın, lağıma karışsın;<hr>yerine mutluluk dolsun!",
+    "reason": "Tuvalet/sifon kelime oyunu İtalyanca ve İspanyolca gibi serbestçe, Türkçede akıcı bir espri olarak yeniden yazıldı."
+  },
+  "0x0809": {
+    "tr": "Bu da neyin nesi...!?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x080A": {
+    "tr": "<color=0003>Luigi</color>! Bir yerin var mı?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x080B": {
+    "tr": "Onlardı! Galerimdeki tablolardan<br>bütün hayaletleri salan ONLARDI!<hr>Haydutlar!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x080C": {
+    "tr": "Onları bulmana sevindim ama...<br>belki de, şey...<hr>hepsini birden elinden kaçırmasaydın<br>daha iyi olurdu.<hr>Neyse, aklıma gelmişken söyledim.",
+    "reason": "Profesörün iğneleyici mizahı daha doğal Türkçe ritimle verildi."
+  },
+  "0x080D": {
+    "tr": "Eh, olan oldu. Su akıp gitti.<br>Sen yine de laboratuvara<hr>bir uğra, olur mu?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0810": {
+    "tr": "Kim var orada? Uykumuzu<br>bozmaya KİM cüret etti?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0811": {
+    "tr": "Ohoo! Bu <color=0003>Luigi</color>! Bakın millet,<br><color=0003>Luigi</color> sonunda geldi!",
+    "reason": "v5 yapısal QA: kaynak metindeki iki Luigi vurgu etiketi korunarak çocuk hayaletlerin heyecanlı tonu sürdürüldü."
+  },
+  "0x0812": {
+    "tr": "Kardeşine yaptığımızı sana da<br>yapacağız... hem de beterini.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0813": {
+    "tr": "Sırtındaki de ne...? Yoksa...<br>E. Gadd'ın <color=0002>Poltergust 3000</color>'i mi?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0814": {
+    "tr": "DAĞILIN!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0816": {
+    "tr": "<color=0003>Kral Boo</color> ile tayfası nereye<br>kayboldu diyordum.<hr>Meğer başından beri konakta<br>saklanıyorlarmış!<hr>Onları yuvalarından çıkardın ya,<br>sağ ol <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0818": {
+    "tr": "Hey, <color=0003>Luigi</color>! Bu kez<br>neye denk geldin bakalım?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0819": {
+    "tr": "... Oooh... Bu sefer... Bu...",
+    "reason": "“It’s...” ifadesi doğal ve önceki element tanıtımıyla tutarlı hale getirildi."
+  },
+  "0x081A": {
+    "tr": "bir <color=0002>Su Elementi Madalyası</color>!",
+    "reason": "Türkçe isim tamlaması düzeltildi."
+  },
+  "0x081B": {
+    "tr": "Artık <color=0001>Su Elementini</color><br>kullanabilirsin!",
+    "reason": "Ortak isimden sonra gereksiz kesme işareti kaldırıldı."
+  },
+  "0x081C": {
+    "tr": "Araştırmalarıma göre bu özel<br><color=0001>Su Hayaletleri</color>, sen<hr>yaklaşınca sudaki yuvalarından çıkar.<br>Nasıl yapıldığını biliyorsun...<br>İçine çek!",
+    "reason": "Diğer dillerin “water ghosts” karşılığına göre terim ve anlatım düzeltildi."
+  },
+  "0x081D": {
+    "tr": "İçine çektikten sonra [0019:00000007,00000005] ile<br>su püskürt!<hr>[0019:00000007,00000005] basılı tutup [0008:00000001] tuşuna<br>basarsan kocaman bir su topu<hr>fırlatabilirsin!",
+    "reason": "Kontrol yönergesi Türkçe söz dizimine alındı ve ek kullanımı düzeltildi."
+  },
+  "0x081E": {
+    "tr": "Duyduğuma göre yalnızca suyla<br>yenilebilen hayaletler de var...<hr>Ayrıca suyun arındırıcı gücü var;<br>unutma, iyi kullan...",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x081F": {
+    "tr": "Yeni su tabancana fazla dalıp<br>gitme, <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0821": {
+    "tr": "Aaaaaah! ATEŞ! ATEŞ! ATEŞ!<br>Kaçın! KAÇIIIN!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0822": {
+    "tr": "Heh heh heh! Başın biraz<br>belaya girmiş gibi görünüyor.<hr>Belki bir tur daha eğitim şart!",
+    "reason": "Profesörün hafif alaycı eğitmen tonu doğal Türkçeyle güçlendirildi."
+  },
+  "0x0823": {
+    "tr": "Bazı hayaletler üstüne atlayıp<br>seni kıskıvrak tutmaya çalışır...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0824": {
+    "tr": "Öyle olduğunda [0008:0000000C] sağa sola<br>oynatıp kurtulmayı dene!",
+    "reason": "Kontrol ikonuna kesmeyle ek bağlanmadı; komut doğal Türkçeye alındı."
+  },
+  "0x0825": {
+    "tr": "Evlat, hayat dediğin biraz da<br>hayatta kalma savaşıdır!<hr>Morali bozma, <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0827": {
+    "tr": "<color=0003>Luigi</color>, azıcık mola ver.<br>Burada soluklan, dinlen.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BB8": {
+    "tr": "Hıçk... hıç... O kuyuda...<br>KORKUNÇ bir şey var...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BBA": {
+    "tr": "Gördün onu, değil mi?<br><color=0003>Mario</color>'ya bunu nasıl YAPARLAR?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BBB": {
+    "tr": "Onu öyle görünce aklım çıktı!<br>Konakta saklanacak delik araya araya<hr>koştum durdum!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BBC": {
+    "tr": "Kaçarken <color=0003>Mario</color>'nun etrafa<br>birkaç eşyasını düşürdüğünü gördüm.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BBE": {
+    "tr": "Nerede olduklarını hatırlasam<br>gidip toplardım...<hr>Ah... Keşke en azından<br>birini alsaydım...",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x0BC1": {
+    "tr": "Neee?! Cidden mi?!<br><color=0003>Mario</color>'nun bütün eşyalarını<hr>benim için bulacaksın?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BC2": {
+    "tr": "Yuppiii! Zıp zıp yaşasın!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BC4": {
+    "tr": "Off... Moralim yerlerde...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BC5": {
+    "tr": "Dur! <color=0003>Mario</color>'nun eşyalarıyla<br>ne yapacağımızı biliyorum!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BC6": {
+    "tr": "Ben de.",
+    "reason": "“So do I.” ifadesinin doğru Türkçe karşılığı."
+  },
+  "0x0BC8": {
+    "tr": "Mario beş eşya düşürdü: bir <color=0002>şapka</color>,<br>bir <color=0002>eldiven</color>, bir <color=0002>ayakkabı</color>, bir <color=0002>mektup</color><br>ve bir <color=0002>yıldız</color>.<hr>Bunları aradığın için teşekkürler!",
+    "reason": "Özne eksikliği giderildi; diğer dillerle anlam eşitlendi ve satırlar düzeltildi."
+  },
+  "0x0BC9": {
+    "tr": "Buralarda bir yerde, insanların<br>kişisel eşyalarına dokunarak geleceği<hr>görebilen bir hayalet var. Adı<br><color=0003>Madame Clairvoya</color>.",
+    "reason": "Kötü satır bölünmeleri düzeltildi."
+  },
+  "0x0BCA": {
+    "tr": "O eşyaları <color=0003>Madame Clairvoya</color>'ya<br>götürürsen, <color=0003>Mario</color>'nun<hr>nasıl tabloya kapatıldığını<br>kesin sezebilir!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BCB": {
+    "tr": "Eşyaları ona göster, ne dersin?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BCC": {
+    "tr": "Kristal küreli odadan<br>pek ayrılmaz...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BCD": {
+    "tr": "Ben... burada kalsam olur mu?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD2": {
+    "tr": "Oh, şükür! O beyaz sis<br>sinyalini yuttu sandım.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD3": {
+    "tr": "Hımmm! Orada bayağı<br>ortalığı toparlamışsın!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD4": {
+    "tr": "Laboratuvara dön de<br>bir soluklan.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD5": {
+    "tr": "Hayalet tablolarına baka baka<br>akşam yemeği yeriz!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD6": {
+    "tr": "Bu gece aileden kalma<br>bir tarif yapacağım.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD7": {
+    "tr": "Mazot marineli, deniz kabuklusu<br>serpiştirilmiş karahindiba turşusu!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BD8": {
+    "tr": "Hey, <color=0003>Luigi</color>! Bu kez ne buldun?<br>Ver bakalım!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BDA": {
+    "tr": "Bir <color=0002>Buz Elementi Madalyası</color>! Artık<br><color=0001>Buz Elementini</color> kullanabilirsin!",
+    "reason": "Terim tamlaması ve ek yazımı düzeltildi."
+  },
+  "0x0BDB": {
+    "tr": "<color=0001>Buz Hayaletleri</color><br>yalnızca soğuk yerlerde bulunur.<hr>Büyük ihtimalle <color=0001>buzdolaplarında</color><br>ve benzeri soğuk yerlerde çıkarlar...",
+    "reason": "Diğer dillerle tutarlı yaratık adı ve anlam düzeltmesi."
+  },
+  "0x0BDC": {
+    "tr": "Araştırmalarıma göre yanlarına<br>yaklaştığında saklandıkları yerden çıkarlar.<hr>Bu hayaletlerden birini süpürdükten<br>sonra [0019:00000007,00000005] ile<br><color=0001>Buz Elementini</color> püskürt!",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x0BDD": {
+    "tr": "[0019:00000007,00000005] basılı tutarken [0008:00000001] tuşuna basarsan<br>dondurucu bir buz topağı<hr>fırlatabilirsin!",
+    "reason": "Kontrol ikonlarına apostrofla ek bağlama kaldırıldı; komut anlamı korundu."
+  },
+  "0x0BDF": {
+    "tr": "Aynen öyle! Su soğuyunca donar,<br>değil mi?<hr>Buz suya karşı birebirdir.<br>Su hayaletlerini düşün mesela!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BE0": {
+    "tr": "Sıcacık banyo bile biraz buz görünce<br>tir tir kesilir.<hr>İşe yarar bir şey buldun,<br><color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BE2": {
+    "tr": "T-T-TAMAM! Artık<br>içeri gelebilirsin...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BE3": {
+    "tr": "<color=0003>Mario</color>'nun <color=0002>Ayakkabısını</color> buldun!<br>Kokusu da... tam <color=0003>Mario</color>'nun ayakları!",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x0BE4": {
+    "tr": "<color=0003>Mario</color>'nun <color=0002>Mektubunu</color> buldun!<br>Acaba içinde ne yazıyor...",
+    "reason": "Türkçe ek zinciri ve doğal soru anlatımı düzeltildi."
+  },
+  "0x0BE5": {
+    "tr": "<color=0003>Mario</color>'nun <color=0002>Yıldızını</color> buldun!<br>Vay, ne kadar da ışıl ışıl!",
+    "reason": "Türkçe ek zinciri ve ünlem anlatımı düzeltildi."
+  },
+  "0x0BE6": {
+    "tr": "Hey... Bizimle saklambaç<br>oynasana?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BEB": {
+    "tr": "Tamam, biz saklanıyoruz.<br>Sen dışarıda bekle!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BEC": {
+    "tr": "Naa-na-na-na-naaa!",
+    "reason": "İngilizce alaycı çocuk sesi Türkçede doğal ünleme uyarlandı."
+  },
+  "0x0BEE": {
+    "tr": "Hey bayım! Orada tek başına<br>öyle süzülüp ne yapıyorsun?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BEF": {
+    "tr": "Hapşuuu!",
+    "reason": "Hapşırma sesi Türkçeleştirildi."
+  },
+  "0x0BF0": {
+    "tr": "Benden... ne... dilersin?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BF2": {
+    "tr": "Geleceğime bak!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BF4": {
+    "tr": "Ben, <color=0001>kayıp eşyaların</color> kâhini<br><color=0003>Madame Clairvoya</color>.<hr>Başkalarına ait eşyalar ruhumda<br>titreşimler uyandırır.<hr>Bu titreşimleri yorumlayıp insanların<br>kaderinden kesitler görebilirim.",
+    "reason": "Madame Clairvoya’nın teatral falcı sesi güçlendirildi; “dropped items” diğer Avrupa dilleri gibi doğal biçimde “kayıp eşyalar” olarak yorumlandı."
+  },
+  "0x0BF5": {
+    "tr": "Birinin <color=0001>kayıp eşyasını</color> bulursan<br>bana getir.<hr>Görüşümün ne kadar uzağa<br>eriştiğini sana göstereyim...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BF6": {
+    "tr": "Ooh... Hımmm... hayır. Şu anda<br>ruhsal bir titreşim hissetmiyorum.",
+    "reason": "Teatral duraksama korunup yabancı “Harummm” sesi doğal Türkçe mırıltıya çevrildi."
+  },
+  "0x0BF8": {
+    "tr": "Hımm? Elindeki nedir?<br>Getir de <color=0003>Madame Clairvoya</color><hr>bir baksın.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BFA": {
+    "tr": "Bu <color=0003>Mario</color>'nun <color=0002>Şapkası</color>!<br>Tertemiz... sanki...<hr>BİRİ AZ ÖNCE YIKAMIŞ!<br>... Pardon.<hr>Sahneye bazen biraz drama gerekir.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BFB": {
+    "tr": "Hımm? Dur bir dakika...<br>Az önce <color=0003>Mario</color> mu dedim?<hr>Yoksa... O <color=0003>Mario</color> mu?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BFD": {
+    "tr": "Ahhh, şimdi görüyorum. Gerçi ben<br>her şeyi görürüm; bunu zaten görmüştüm,<hr>ama şimdi GERÇEKTEN görüyorum! Demek<br>ünlü <color=0003>Mario</color>'nun kardeşisin...<hr>Onu bulmak için buralara kadar geldin.<br>Ne fedakâr bir kardeş! Ha-ha-HIK! Öhö!<hr>... Kusura bakma. Pek sık gülmem.",
+    "reason": "Görmek üzerine tekrar eden espri, falcı teatralitesi ve boğuk kahkaha Türkçede yeniden kuruldu."
+  },
+  "0x0BFE": {
+    "tr": "Ooh! Geliyorlar... geliyorlar!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0BFF": {
+    "tr": "Ruhlar, gelin! Güç ruhları,<br>sezgi ruhları, bana görünün!<hr>Bu gece konağı saran dehşeti<br>gözlerimin önüne serin!",
+    "reason": "Çağrı metni literal isim tamlamalarından kurtarıldı; mistik ve ritmik falcı duasına dönüştürüldü."
+  },
+  "0x0C00": {
+    "tr": "Kristal küre, soyumun simgesi,<br>karanlık gücünle bize<hr>göstereBİLDİĞİN... şey, GÖSTEREBİLECEĞİN<br>ne varsa göster!",
+    "reason": "EN/DE’deki could/can dil sürçmesi Türkçede fiil zamanı üzerinden yeniden yaratıldı."
+  },
+  "0x0C01": {
+    "tr": "Göster bize... <color=0003>Mario</color>'yu!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C02": {
+    "tr": "Ruhların ışığı doğuyor!<br>Aradığımızı bize gösterin!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C03": {
+    "tr": "Ohhhh... Harummm... Görüyorum ki<br><color=0003>Mario</color> hâlâ yaşıyor...",
+    "reason": "Türkçede yapay “senin Mario’n” iyelik yapısı kaldırıldı; diğer dillerdeki anlam korundu."
+  },
+  "0x0C04": {
+    "tr": "Ruhlar âleminde değil... ama<br>tam anlamıyla yaşıyor da denemez.<hr>Hah-hah-HIK! Öhö! (Affedersin.)<br>Peki nerede?<hr>Şimdi nerede? ... Ah! Ruhlar sustu!",
+    "reason": "Karanlık mizah ve boğuk kahkaha Türkçe ritimde yeniden yazıldı."
+  },
+  "0x0C05": {
+    "tr": "Uuuh... Şimdilik perdenin<br>göstereceği bu kadar!<hr>Bana başka bir ipucu getir;<br>kardeşini yine göstereyim.<hr>Bu ipucu artık susuyor...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C06": {
+    "tr": "<color=0003>Mario</color> hakkında daha fazlasını öğrenmek<br>istiyorsan, onun <color=0001>düşürdüğü eşyalardan</color><hr>bana daha fazla getir!",
+    "reason": "Bozuk iyelik/çoğul eki düzeltildi; EN/FR/DE/IT/ES anlamı karşılaştırıldı. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x0C07": {
+    "tr": "Bu <color=0003>Mario</color>'nun <color=0002>Ayakkabısı</color>!<br>Şu tabana bak...<hr>Dünyayı dolaşmış sanki!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C08": {
+    "tr": "Bu <color=0003>Mario</color>'nun <color=0002>Yıldızı</color>!<br>Ne uhrevi bir güzellik!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C09": {
+    "tr": "Bu <color=0003>Mario</color>'nun <color=0002>Mektubu</color> değil mi!<br>Ver bakayım! Hemen okuyayım!<hr>Şey... Merak etme, ben ruhsatlı bir<br>mektup okuyucusuyum!",
+    "reason": "“Licensed letter-reader” absürt şakası daha tok Türkçe ifadeyle korundu."
+  },
+  "0x0C0A": {
+    "tr": "Ne ne? Hm... Bakalım...<br>D-i-k-k-a-t---e-t---<hr>B-o-o-l-a-r-a,---<color=0003>L-u-i-g-i</color>!",
+    "reason": "Harf harf okuma şakası Türkçe çoğul eke göre temizlendi."
+  },
+  "0x0C0B": {
+    "tr": "Hepsi bu mu? Senin <color=0003>Mario</color> pek<br>romancı sayılmaz. Bunu herhâlde<hr>çok aceleyle yazmış.",
+    "reason": "“not much of a novelist / written in a hurry” esprisi doğal Türkçeye aktarıldı. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x0C0C": {
+    "tr": "Bu <color=0003>Mario</color>'nun <color=0002>Eldiveni</color> değil mi!<br>Aha! Hâlâ yaşayan birinin<hr>teriyle nemli!",
+    "reason": "“Sweat of the living” mistik/komik tonda doğal Türkçeye çevrildi."
+  },
+  "0x0C0D": {
+    "tr": "Ahhh... Harummm... <color=0003>Mario</color> tutsak...<br>Ama nerede, ah nerede tutuluyor?",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x0C0E": {
+    "tr": "Evet! Bir tablo! <color=0003>Mario</color> bir<br>tablonun içine hapsedilmiş!<hr>Kürem tuhaf bir sunak gösteriyor ve...<br>Hadi ama, aptal küre... Evet! Sunağın<hr>üstünde <color=0003>Mario</color> var!<br>Bir tablonun içinde tutsak!",
+    "reason": "Yapay “Mario’n” iyeliği, eksik yüklem ve satır akışı düzeltildi."
+  },
+  "0x0C0F": {
+    "tr": "Aah! Odaklanamıyorum...<br>Ruhlar elimden kayıyor...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C10": {
+    "tr": "Dinle! Duyuyor musun?<br>Sevgili <color=0003>Mario</color>'nun<hr>içinden yükselen o sesi!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C11": {
+    "tr": "Aman dehşet! Bu da ne? ...<br>Bir kral mı? ... <color=0003>Kral Boo</color> mu?!<hr>Kim bu <color=0003>Kral Boo</color>?!",
+    "reason": "Kişi için “ne” yerine bağlama uygun “kim” kullanıldı. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x0C12": {
+    "tr": "... Ne demek istediğini tam çözemiyorum,<br>ama mesajı açık: <color=0003>Kral Boo</color>'ya dikkat!<hr>Bir dakika... Taçlı bir Boo görüyorum!<br>Evet, bu <color=0003>Kral Boo</color>!<hr>Demek <color=0003>Mario</color>'yu tutsak eden<br>oymuş!",
+    "reason": "Uzun fal metni tekrarları azaltılarak dramatik keşif ritmine kavuştu."
+  },
+  "0x0C13": {
+    "tr": "Aaaah! Daha fazlası yok!<br>Ruhlar yine çekiliyor!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C14": {
+    "tr": "Ah-hah! Duyuyorum!<br><color=0003>Mario</color> sana sesleniyor!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C15": {
+    "tr": "Ne...? Boo'ların gücü mü?<br>Gizemli Boo gücünden<hr>söz etmek istiyorsun demek?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C16": {
+    "tr": "Ohh... Harummm... Boo'ların gerçekten<br>tuhaf güçleri var.<hr>Kalabalıklaştıkça kuvvetlenirler!<br>Ama senin kudretli<hr><color=0002>Poltergust 3000</color>'inden<br>ödleri kopar!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C17": {
+    "tr": "Ugh... Korkarım kardeşinin<br><color=0001>düşürdüğü eşyalardan</color> yalnızca<hr>birini daha okumaya yetecek kadar<br>gücüm kaldı... Kuvvetim tükeniyor...",
+    "reason": "Bozuk ek zinciri ve “strength ebbs away” karşılığı düzeltildi."
+  },
+  "0x0C18": {
+    "tr": "Ah, ruhlar geri döndü!<br>Görüyorum... Görüyorum!<hr><color=0003>Mario</color>'yu görüyorum!<br>Sahne gözlerimin önünde açılıyor...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C1C": {
+    "tr": "<color=0003>Mario</color>'nun <color=0003>Bowser</color>'ı fena hâlde<br>yendiğini sanıyordum!<hr>Yoksa <color=0003>Kral Boo</color>, <color=0003>Bowser</color>'ı<br>bir şekilde diriltti mi?<hr>Bu korkunç olabilir!<br>Benim için değil tabii.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C1E": {
+    "tr": "Sana gösterebileceğim her şey buydu,<br><color=0003>Luigi</color>... Gücüm tükendi.<hr>Ama ruhların anlattıklarına<br>söz verdim.<hr>Artık tabloma huzurla dönebilirim.<br>Haydi gönder beni oraya,<hr>seni süpürge sallayan haydut!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C1F": {
+    "tr": "Ahhhhh! Sonunda tabloma<br>huzurla döneceğim...<hr>Yağlıboya saadeti...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C20": {
+    "tr": "Minnettarım... Minnettarım,<br>iyi kalpli <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0C21": {
+    "tr": "<color=0003>Mario</color>'nun <color=0002>Eldivenini</color> buldun!<br>İyy... Biraz terli.",
+    "reason": "Renk etiketinin dışına taşan yanlış kesme/çekim eki düzeltildi."
+  },
+  "0x0C2C": {
+    "tr": "Ahh, zavallı saf! <color=0002>Poltergust 3000</color>'inle<br>BENİ içine çekebileceğini sanma!<hr>Neden mi? Çünkü, ahmak, ben gizemli<br>bir gücüm! Hah! Söyle bakalım, neden<hr>uslu bir çocuk olup seni tabloya<br>çevirmemize izin vermiyorsun?<hr>Tüm Boo'ların bir budalanın güzel bir<br>tablosuna sahip olma arzusu...<hr>Beni yaratan işte o arzuydu...",
+    "reason": "Özne/vurgu ve uzun cümle akışı kaynak dillerle karşılaştırılarak düzeltildi."
+  },
+  "0x0C2F": {
+    "tr": "Normalde sonun çok daha fena olurdu,<br>ama bu gece dolunay var ve<hr>merhametli davranıyoruz...<br>O yüzden seni yalnızca konağın<hr>önüne uçurup göndereceğiz!",
+    "reason": "“feeling merciful” yanlış biçimde “keyfimiz yerinde” çevrilmişti."
+  },
+  "0x0C30": {
+    "tr": "Hazır mısın? Hazır ol...",
+    "reason": "Ardından gelen “Go!” repliği nedeniyle “Set” aşaması “Başla” olarak çevrilmemeli."
+  },
+  "0x0FA0": {
+    "tr": "Hey sen! Bıyıklı!<br>Evet evet, SEN!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA1": {
+    "tr": "Şu küp koleksiyonuma bak hele!<br>İnsanın ağzı açık kalır, ha?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA2": {
+    "tr": "Hele hele... Ama öyle bedavadan<br>seyir yok, değil mi?<hr>Yok öyle yağma.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA3": {
+    "tr": "Küplerime bakacaksan önce<br>benimle kapışacaksın!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA4": {
+    "tr": "E hadi, geliyorum...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA5": {
+    "tr": "Küpleri görmek mi istiyorsun?<br>Öyleyse çık meydana!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FA9": {
+    "tr": "Şu <color=0001>buzla</color> beni kaç kez<br>dondurabileceğini görelim, delikanlı!",
+    "reason": "Diğer Avrupa dilleri de tek Jarvis’in kaç kez dondurulduğunu söylüyor; mevcut “benden kaç tane” anlamı yanlıştı ve ek kullanımı bozuktu."
+  },
+  "0x0FAA": {
+    "tr": "Beni <color=0001>yedi</color> kez dondurursan,<br>kazanırsın! Anlaştık mı?",
+    "reason": "FR/DE/ES tek hayaletin yedi kez dondurulmasını doğruluyor; “benden yedi tane” yanlış anlam veriyordu."
+  },
+  "0x0FAB": {
+    "tr": "Ama kaybedersen, hemşerim,<br>kapı orada!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FAC": {
+    "tr": "İşte bu! Hadi gel!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FAD": {
+    "tr": "Pis tesisatçı! Defol da<br>borularınla uğraş!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FAE": {
+    "tr": "Perde kapandı, hemşerim!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FAF": {
+    "tr": "Ve sonuçlar...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FB0": {
+    "tr": "Yok artık... Ben nasıl kaybettim?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FB1": {
+    "tr": "Suratımı kıpkırmızı ettin, bıyıklı!<br>Bakarsın seni şu küplerden birine<hr>tıkarım!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FB2": {
+    "tr": "Heh heh! Yine ben kazandım!<br>Eyvallah, dostum!",
+    "reason": "Jarvis’in kaba/şen “mate” tonu Türkçede konuşma diline taşındı."
+  },
+  "0x0FB3": {
+    "tr": "Beni <color=0001>hiç</color> donduramadın, delikanlı!",
+    "reason": "Jarvis meydan okumasındaki sayaç hayalet sayısı değil dondurma sayısıdır."
+  },
+  "0x0FB4": {
+    "tr": "Beni <color=0001>bir</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FB5": {
+    "tr": "Beni <color=0001>iki</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FB6": {
+    "tr": "Beni <color=0001>üç</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FB7": {
+    "tr": "Beni <color=0001>dört</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FB8": {
+    "tr": "Beni <color=0001>beş</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FB9": {
+    "tr": "Beni <color=0001>altı</color> kez dondurdun, delikanlı!",
+    "reason": "Sayaç tek Jarvis’in kaç kez dondurulduğunu belirtir."
+  },
+  "0x0FBA": {
+    "tr": "Beni <color=0001>yedi</color> kez dondurdun, delikanlı!",
+    "reason": "Önceki anlam hatası giderildi; yarışmanın kuralıyla tutarlılaştırıldı."
+  },
+  "0x0FBB": {
+    "tr": "Sensin, non? Ölüm sonrası<br>sanatıma burnunu sokan!",
+    "reason": "Van Gore’un Fransız karikatür aksanı diğer dillerdeki gibi hafifçe korundu."
+  },
+  "0x0FBC": {
+    "tr": "Seni zevksiz domuz! Eserlerime<br>üflediğim hayatı göremiyorsun!",
+    "reason": "Sanatçı kişiliği ve öfke daha karakterli Türkçeyle verildi."
+  },
+  "0x0FBD": {
+    "tr": "Très bien... O hâlde sanatımın<br>ustalığını sana göstereceğim!",
+    "reason": "Van Gore’un Fransızvari konuşması kontrollü biçimde korundu."
+  },
+  "0x0FBE": {
+    "tr": "Vay başıma gelen! Ne felaket!",
+    "reason": "“Criminy!” ifadesi Türkçede karakterli ama aşırı sert olmayan bir ünleme çevrildi."
+  },
+  "0x0FBF": {
+    "tr": "Elektrik... Elektrikler<br>GİTTİ!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FC0": {
+    "tr": "Az önceki şimşek elektriği<br>götürdü herhâlde.<hr>Bu lanet karanlıkta<br>önümü göremiyorum...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FC1": {
+    "tr": "Karanlıkta hayaletlere gün doğar!<br>Konağı istedikleri gibi cirit atarlar.<hr>Dikkatli ol, <color=0003>Luigi</color>!",
+    "reason": "FR/ES’nin deyimsel yaklaşımı örnek alınarak karanlık avantajı Türkçe deyimlerle canlandırıldı."
+  },
+  "0x0FC6": {
+    "tr": "Benim tablomdan nasıl çıktın...?",
+    "reason": "DE/ES bağlamı cümlenin “tablomdan” diye kesildiğini doğruluyor; mevcut çeviri anlamsızdı."
+  },
+  "0x0FC8": {
+    "tr": "... Hah? Dur bakayım...<br>Kıyafetlerin... yeşil...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FC9": {
+    "tr": "Hey, sen <color=0003>Luigi</color> olmalısın!<br>Bir an gözümü fena yanılttın!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FCA": {
+    "tr": "Ne? <color=0003>Mario</color>'yu salmamı mı<br>istiyorsun? Hah. Tabii tabii.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FCB": {
+    "tr": "Hayır, hayır, hayır. En sevdiğim<br>süsümden vazgeçmem. <color=0003>Mario</color><hr>tam olduğu yerde kalsın.",
+    "reason": "Kaynak dillerdeki “Mario exactly where he is” ifadesi doğal Türkçeye aktarıldı."
+  },
+  "0x0FCC": {
+    "tr": "Şu sırtındaki de ne?<br><color=0002>Poltergust 3000</color> mü?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FCE": {
+    "tr": "Ee, Boo'lar... Ne yapıyoruz?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FCF": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FD0": {
+    "tr": "... Buuüyük bir Boo nefesi<br>alıyoruz...",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FD1": {
+    "tr": "...ve seni buradan ÜFLÜYORUZ!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FD7": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FD9": {
+    "tr": "...ve seni buradan ÜFLÜYORUZ!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FDC": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FDE": {
+    "tr": "...ve seni buradan ÜFLÜYORUZ!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FE1": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FE3": {
+    "tr": "...ve seni buradan ÜFLÜYORUZ!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FE6": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FE8": {
+    "tr": "AL BAKALIM!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FEB": {
+    "tr": "İyi fikir! Bu bölgedeki bütün Boo'lar,<br>nefesi toplayın!<hr>Şunu buradan UÇURALIM!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FEC": {
+    "tr": "... Ne?! Bir tek <color=0001>ben</color> mi kaldım?!<br>Olsun!",
+    "reason": "Tek kişi kalmışken mevcut “bir kişi mi kaldım” ifadesi dilbilgisel olarak bozuktu."
+  },
+  "0x0FED": {
+    "tr": "AL BAKALIM!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FEE": {
+    "tr": "Ahh, şu <color=0003>Mario</color> tablosuna saatlerce<br>bakabilirim!<hr>Güzel sanatlar hakkında söylenenler<br>doğru... Onun değerini gerçekten<hr>anlamak için son derece ince<br>bir sanat zevki gerekir!",
+    "reason": "“refined sensibilities” ifadesi kelimesi kelimesine değil doğal Türkçe sanat diliyle aktarıldı."
+  },
+  "0x0FEF": {
+    "tr": "Yardım diye kıvranışın var ya,<br><color=0003>Mario</color>...<hr>İçimin yağlarını eritiyor.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FF0": {
+    "tr": "Belki de geçmişte bana<br>çektirdiklerini hatırladığımdandır.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FF1": {
+    "tr": "... Cidden ama, kim yarışmadan<br>konak kazandığına inanır?!<hr>Ne saflık!",
+    "reason": "Kral Boo’nun küçümseyici tonu kısa ve vurucu Türkçe ile güçlendirildi."
+  },
+  "0x0FF2": {
+    "tr": "Siz Mario kardeşlere ne yediriyorlar?<br>Saflık çorbası mı?<hr>Kardeşin bunca yolu sırf tabloya<br>dönüşmek için geldi... Bayıldım.",
+    "reason": "“Gullible soup” esprisi korunup son cümle alaycı tona çevrildi."
+  },
+  "0x0FF4": {
+    "tr": "Bu <color=0003>Mario</color> tablosu pek yalnız...<br>Yanına bir <color=0003>Luigi</color> tablosu şart!<hr>İşte o zaman koleksiyonum tamamlanır!<br>Bleeah HA HA!",
+    "reason": "Kral Boo’nun koleksiyoncu/villain alayı sıkılaştırıldı."
+  },
+  "0x0FF5": {
+    "tr": "Senden korkmuyorum, ahmak!<br>Ben yalnızca sırtındaki o melun<hr><color=0002>Poltergust 3000</color>'den korkarım!<br>Lanet makine!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FF6": {
+    "tr": "Ama ben Boo'ların KRALIYIM!<br>Bir ev aletine boyun eğecek<hr>değilim!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FF7": {
+    "tr": "Şunu söylemeliyim ki... arkadaşlarımı<br>ŞVİRR-ŞLURP-VUURR-ŞLOOOP<hr>diye süpürmenden NEFRET ediyorum!",
+    "reason": "İngilizce ses efektleri Türkçe okunuşa uyarlanıp komik vakum ritmi korundu."
+  },
+  "0x0FF8": {
+    "tr": "Kaçacağımı sanma...<br>Boo'ların kralına yaraşır şekilde<hr>dövüşeceğim!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x0FFC": {
+    "tr": "Ama ben yok olsam bile,<br>eserlerim yaşamaya devam edecek...<hr>Oui, n'est-ce pas?<br>Sanat ebedidir!",
+    "reason": "Van Gore’un Fransız aksan şakası EN/DE’deki gibi görünür tutuldu."
+  },
+  "0x0FFE": {
+    "tr": "Ne diyorsun? Eserlerimden<br>hiçbiri mi kalmadı?",
+    "reason": "Soru doğal Türkçe ve şaşkın sanatçı tonuna çekildi."
+  },
+  "0x1000": {
+    "tr": "Zut alors! Olacak iş değil!",
+    "reason": "Kaynak metindeki Fransız ünlemi karakter tonu için korundu, Türkçe karşılığı eklendi."
+  },
+  "0x1001": {
+    "tr": "Hırrr... hırrk... ZZZZZ!!!",
+    "reason": "Uyku/horlama sesleri Türkçe çizgi roman seslendirmesine uyarlandı."
+  },
+  "0x1002": {
+    "tr": "(... Sakın beni uyandırma...)",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1003": {
+    "tr": "(... DEFOL GİİİT!!!)",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1005": {
+    "tr": "<color=0003>Luigi</color>, başardın!<br>Helal sana evlat, olağanüstüydü!",
+    "reason": "Profesörün sıcak, heyecanlı övgüsü daha doğal Türkçe yapıldı."
+  },
+  "0x1006": {
+    "tr": "<color=0002>Poltergust 3000</color>'i ben verdim<br>ama onu zirveye taşıyan sensin, evlat!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1007": {
+    "tr": "Beni öyle... HIIÇK...<br>gururlandırdın ki... HÖRT!<hr>(Toparlan, <color=0003>Gadd</color>!)",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1009": {
+    "tr": "... Vay vay... Bunca yıllık<br>hayalet araştırmalarımda<hr>böylesine akıl almaz bir hikâye<br>duymadım!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x100A": {
+    "tr": "... Hem de tam altmış yıllık<br>bir meslekten söz ediyorum!<hr>Ben de bir zamanlar hayalet<br>düşüncesiyle bile titreyen<hr>genç bir çömezdim...<br>TİTRERDİM, diyorum!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x100B": {
+    "tr": "Ah, kusuruma bakma! Bu yaşlı beyin<br>arada bir eski günlere dalıyor işte...<hr>Bir otursam bir hafta hayalet hikâyesi<br>anlatırım. Daha geçen...",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x100C": {
+    "tr": "... Neyse neyse, <color=0003>Luigi</color>!<br>Kardeşinin tablosunu kap<hr>ve laboratuvara gel!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x100F": {
+    "tr": "Makineyi hazırlayayım;<br>kardeşini eski hâline getirelim.",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1010": {
+    "tr": "İkinizi de laboratuvarda bekliyorum!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1012": {
+    "tr": "SICAK! ÇOK SICAK! Sen!<br>Fazla ısıtıyorsun!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1013": {
+    "tr": "Burada haşlanacağım!<br>Eriyorum!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1014": {
+    "tr": "Bu ateşleri SEN mi yaktın?<br>Aklını mı kaçırdın?",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1015": {
+    "tr": "Bu konakta yangın çıkaranın<br>faturası ağır olur!!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1016": {
+    "tr": "Al sana ders!!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x101E": {
+    "tr": "Ben Luigi.",
+    "reason": "v5 yapısal QA: kaynakta olmayan ek renk etiketi kaldırıldı; kısa yanıt doğal tutuldu."
+  },
+  "0x1022": {
+    "tr": "Her neyse, çok büyük bir<br>sorunumuz var! Şimşek konağın<hr>her yanında elektrikleri kesti!<br>Ne yapacağız?",
+    "reason": "“terrible problem” ifadesindeki “korkunç sorun” yapaylığı giderildi. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x102B": {
+    "tr": "Eğer ortalıkta serbestçe dolaşıyorsa,<br>onu yakalamak için tek fırsatın<hr>bu olabilir... Işıkları yeniden açmadan<br>önce onu arasan iyi olur.<hr>Bence akıllıca olur...",
+    "reason": "Son cümledeki kelimesi kelimesine “Akıllıca olabilir” ifadesi doğallaştırıldı."
+  },
+  "0x1388": {
+    "tr": "Tamam, şimdi bana Boo'yu ve<br>elde ettiğin tüm verileri gönder.",
+    "reason": "Cümle ortasındaki gereksiz büyük harf düzeltildi."
+  },
+  "0x1389": {
+    "tr": "İşler tıkırında, <color=0003>Luigi</color>!<br>Bu arada <color=0002>Game Boy Horror</color>'ın<hr>arama işlevini unutmadın, değil mi?<br>Şüpheli bir şey görürsen<hr><color=0001>kurcala, araştır</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x138A": {
+    "tr": "Aferin, <color=0003>Luigi</color>!<br>Kısa sürede on tanesini yakaladın.<hr>Özel ödül olarak sana<br>güzel bir bilgi vereceğim!",
+    "reason": "Boo yakalama bağlamında “kaptın” yerine tutarlı “yakaladın” kullanıldı."
+  },
+  "0x138B": {
+    "tr": "Aferin, <color=0003>Luigi</color>!<br>Bu arada, hiç sahte bir kapıya<hr>kandın mı? Bir şey şüpheli görünüyorsa<br><color=0002>Poltergust 3000</color> ile bir yokla!<hr>Gerçek mi sahte mi hemen anlarsın.",
+    "reason": "Sahte kapı öğretisi doğal Türkçeye çevrildi; yapay “kapı tarafından kandırılmak” ve “üzerine kullan” yapıları giderildi."
+  },
+  "0x138D": {
+    "tr": "Müthiş iş! Ava çıkmış<br>bir pars gibisin!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1390": {
+    "tr": "Yanıyorsun, <color=0003>Luigi</color>!<br>Resmen YANIYORSUN!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1392": {
+    "tr": "Boo avcılığı damarlarında var,<br><color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1393": {
+    "tr": "Dâhiyane icatlarımı seviyorsun,<br>değil mi?",
+    "reason": "İngilizcedeki olumlu retorik soru mevcut çeviride ters/olumsuz tınlıyordu."
+  },
+  "0x1394": {
+    "tr": "Vay babam! Bir tane daha!<br>Vitesi iyice artırdın, <color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1395": {
+    "tr": "Aman! İlk Boo'nu daha şimdiden<br>yakalamışsın!<hr>Ben de o tipleri araştırıyordum...",
+    "reason": "“already caught your first Boo” cümlesi daha doğal Türkçeye düzenlendi."
+  },
+  "0x1396": {
+    "tr": "Daha şimdiden beş Boo!<br>Bu Boo işi sende hastalık olmuş!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x1399": {
+    "tr": "Aferin, <color=0003>Luigi</color>!<br>Yirmi taneyi bulmuşsun bile!<hr>Ödülün de benden sana<br>çok özel bir tüyo.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x139A": {
+    "tr": "Vay! Gizli gizli kas mı yapıyorsun,<br><color=0003>Luigi</color>?!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x139B": {
+    "tr": "Su gibi akıyorsun, evlat!<br>Aynen devam!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x139C": {
+    "tr": "Dört dörtlük, <color=0003>Luigi</color>!<br>Gençliğimdeki hâlimi hatırlattın...",
+    "reason": "Önceki “senin yaşlarımı” anlatım bozukluğu düzeltildi."
+  },
+  "0x139D": {
+    "tr": "Boo avında ustalaştın!<br>Yaşasın korkusuz Boo Avcısı!",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x139E": {
+    "tr": "Kaplan avına sessizce süzülür...<br>sonra şimşek gibi ÇAKAR!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x13A0": {
+    "tr": "Bugün repertuvarında ne çılgın<br>numaralar varmış, <color=0003>Luigi</color>!",
+    "reason": "“Busting out wild techniques” kelimesi kelimesine değil, eğlenceli eğitmen diliyle çevrildi."
+  },
+  "0x13A1": {
+    "tr": "O Boo en sonunda pes etti ya!<br>Ünün senden önce gitmeye başlamış,<hr><color=0003>Luigi</color>!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x13A3": {
+    "tr": "Boo dışındaki hayaletler baktığın<br>yönde ortaya çıkmaz.<hr>Yani onlara sırtını dönüp<br>sinsice yanaşman gerek...<hr>Ama bunu sen çoktan çözmüşsündür,<br>heh heh!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x13A4": {
+    "tr": "Konaktaki bitkiler biraz ilgi istiyor...<br>Madem ortalığı temizliyorsun,<hr>onlara da bir iyilik yap.<br>Bitkilerin ne sevdiğini bilirsin!",
+    "reason": "v5 yaratıcı geçiş: anlam korunarak karakter sesi ve doğal oyun Türkçesi güçlendirildi; EN/FR/DE/IT/ES karşılıkları birlikte değerlendirildi."
+  },
+  "0x13A9": {
+    "tr": "Demek ki konağın bütün ışıklarını açmak,<br>tüm Boo'ları bulmanın en kestirme yolu.<hr>Ne dersin, delikanlı?",
+    "reason": "Uzun ve bürokratik cümle sadeleştirildi; Profesörün konuşma tonu korundu."
+  },
+  "0x13AA": {
+    "tr": "Etkileyici, <color=0003>Luigi</color>! Tüm Boo'lar<br>yakalandı!<hr>Dürüst olayım, HEPSİNİ birden<br>toplayacağını hiç beklemiyordum!<hr>Sen gerçek bir Boo Ustasısın!<br><hr>Şimdi geriye yalnızca kardeşini<br>geri almak kaldı!<hr>İyi idare edeceğine eminim,<br>ama yine de dikkatli ol!",
+    "reason": "“tam bir gerçek Boo Ustası’sın” tekrar ve yanlış kesme düzeltildi."
+  },
+  "0x13AB": {
+    "tr": "Müthişti, <color=0003>Luigi</color>!<br>Şimdi durmak yok!",
+    "reason": "“That was wild” kelimesi kelimesine “Bu çok çılgındı” yerine doğal ünlemle çevrildi."
+  },
+  "0x13AF": {
+    "tr": "Harika iş, <color=0003>Luigi</color>!<br>Ustaca tekniklerinden<hr>çok etkilendim.",
+    "reason": "“brilliant techniques” için yapay “parlak teknikler” ifadesi düzeltildi. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x13B0": {
+    "tr": "Çok yeteneklisin, orası kesin; ama<br>tekniklerini görünce öğretmenin olan<hr>benim yeteneğimin büyüklüğü karşısında<br>ürperdim!",
+    "reason": "Kaynak repliğin E. Gadd’ın kendini öven şakası korunarak çift olumsuz ve anlam kayması düzeltildi."
+  },
+  "0x177F": {
+    "tr": "Efendim, bu rahat yer benim<br>hayalet araştırmalarımı yaptığım mekân.<hr>Burası <color=0003>Profesör E. Gadd</color>'ın Hayalet<br>Araştırma Laboratuvarı!<hr>Kısaca Laboratuvar diyelim.",
+    "reason": "“if you’re of a shortening mind” ifadesindeki yapay “eğer kısa seviyorsan” kaldırıldı. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x1788": {
+    "tr": "Yaygın teoriye göre Boo'lar<br>kalabalık hâlde gezerken güçlenir.<hr>Bir şekilde güçlerini de birleştiriyor<br>olmalılar... Bu güç muhtemelen<hr>kardeşini alt etti.",
+    "reason": "“common theory” ve “overwhelmed” için daha doğal/doğru Türkçe karşılıklar kullanıldı."
+  },
+  "0x178E": {
+    "tr": "Hadi bakalım, oğlum. Kendini çok<br>hırpalama. Sakin ol ve o Boo'ları<hr>birer birer yakalamaya çalış.<br>İşin püf noktası <color=0001>hareket kontrolleriyle</color><hr>[0008:0000000C] düğmesini birlikte kullanmak.<br>Sakın unutma!",
+    "reason": "Kontrol simgesine apostrofla ek bağlamak yerine okunabilir “düğmesini” yapısı kullanıldı; satır akışı düzeltildi. [ID eşlemesi çok dilli kaynakla yeniden doğrulandı.]"
+  },
+  "0x1791": {
+    "tr": "Şimdi sana dikkatlice bakınca<br>bir şey hatırladım... Seninkine benzeyen<hr>kırmızı şapkalı bir adam konağa doğru<br>gitti; durup iki laf bile etmedi...<hr>ve bir daha dönmedi.<br>O da mı rüyaydı?",
+    "reason": "“now that I get a look at you” ve yön hareketi doğal Türkçeye düzeltildi."
+  },
+  "0x179B": {
+    "tr": "Ama doğrusu,<br>hâlâ biraz... test istiyor.",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x17A3": {
+    "tr": "Şu testte bana yardım edebilirseniz...",
+    "reason": "Kaynak “help me with the test”; mevcut “testi tamamlayıverseniz” anlamı değiştiriyordu."
+  },
+  "0x17D6": {
+    "tr": "Fırsatı gördüğünde,<br>[0019:00000008,00000006] düğmesini basılı tut ve<hr>[0008:0000000C] düğmesini ters yöne it!",
+    "reason": "Kontrol simgesine apostrofla ek bağlanması kaldırıldı."
+  },
+  "0x17D9": {
+    "tr": "[0019:00000008,00000006] ile süpürürken,<br>[0008:0000000C] ters yöne iterek onları<hr>kendine çek!",
+    "reason": "Kontrol ikonuna apostrofla ek bağlama kaldırıldı ve komut kısaltıldı."
+  },
+  "0x17E1": {
+    "tr": "İki ya da fazlasını birden yakala;<br>bakarsın güzel bir sürpriz çıkar!<hr>Heh heh heh...",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x17E4": {
+    "tr": "Hayalet yakalamak için el feneriyle<br><color=0002>Poltergust 3000</color>'i birlikte<hr>kullanmalısın. Anladın mı, delikanlı?",
+    "reason": "“as a team” kelimesi kelimesine “takım gibi” çevrilmişti."
+  },
+  "0x17F1": {
+    "tr": "VAY! On hayaletten on tanesi!<br>Kusursuz iş, <color=0003>Luigi</color>!",
+    "reason": "“Positively dazzling” Türkçede doğal, oyun içi övgüye çevrildi."
+  },
+  "0x17F3": {
+    "tr": "İşte bu, hayalet yakalamak için<br>tasarladığım süpürge.<hr>Adı... dâhiyane bir isim...<br><color=0002>Poltergust 3000</color>! Her türlü şeyi<hr>içine çekebilir.<br>Haydi, çalıştır bakalım!",
+    "reason": "“Let ’er rip!” için bağlama uygun doğal Türkçe kullanıldı."
+  },
+  "0x17F4": {
+    "tr": "[0019:00000008,00000006] ile süpür;<br>yönünü değiştirmek için de<hr><color=0001>hareket kontrollerini</color> kullan.",
+    "reason": "Mevcut cümlede ilk kontrol simgesinden sonra yüklem eksikti."
+  },
+  "0x17FA": {
+    "tr": "Galeride biraz dinlenmeye<br>ne dersin? Orayla epey gurur<hr>duyuyorum, bilirsin...",
+    "reason": "“cool-down” bağlamda “serinleme” değil antrenman sonrası dinlenmedir."
+  },
+  "0x1801": {
+    "tr": "[0008:00000001] ile Flaşampulün güçlü ışığını<br>patlatırsan hayaletler kısa süreliğine<hr>sersemler. İşte o an süpürgeyi çalıştır!",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x1802": {
+    "tr": "[0019:00000008,00000006] ile süpürürken,<br>[0008:0000000C] ters yöne iterek onları<hr>kendine çek!",
+    "reason": "Aynı eğitim komutu tutarlı hale getirildi."
+  },
+  "0x1804": {
+    "tr": "Hayalet yakalarken Flaşampul ile<br><color=0002>Poltergust 3000</color>'i birlikte<hr>kullanacaksın. Anladın mı, evlat?",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x1805": {
+    "tr": "İki veya daha fazlasını aynı anda<br>yakalarsan hoş bir sürpriz çıkabilir!<hr>Heh heh heh...",
+    "reason": "Ödül iması Türkçede daha doğal ve Profesörün muzip tonuna uygunlaştırıldı."
+  },
+  "0x1839": {
+    "tr": "Bugünlük sanata yeterince<br>hayran kaldın mı, <color=0003>Luigi</color>?",
+    "reason": "“sanat takdirin” İngilizceden kelimesi kelimesine ve yapaydı."
+  },
+  "0x1842": {
+    "tr": "Gençliğimde hayaletleri tablolara<br>hapseden bir makine tasarladım.<hr>Sonra dünyayı dolaşıp onları topladım.<br>Ah, ne günlerdi ama!",
+    "reason": "“Glamorous” literal karşılığı yerine nostaljik Profesör anlatımı kullanıldı; İspanyolca/Fransızca yaklaşımına yakın."
+  },
+  "0x1844": {
+    "tr": "Galeriye hoş geldin!",
+    "reason": "Türkçe ortak isim olan “galeri”ye gelen ekte gereksiz kesme kaldırıldı."
+  },
+  "0x1845": {
+    "tr": "Bir zamanlar tam 25 tablom vardı;<br><color=0001>Ünlü Hayalet Koleksiyonum</color> eksiksizdi!<hr>Şimdiyse elimde yalnız boş çerçeveler var.<br>Ne yazık! Tam bir trajedi!",
+    "reason": "Cümle akışı ve trajikomik ton iyileştirildi."
+  },
+  "0x1848": {
+    "tr": "Arkadaki odaya gidip o parçayı<br>bulabilir misin?<hr>Mobilyaları silkelemek için [0008:00000003] tuşuna bas.<br>Arkada bir yerde olmalı!",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x1854": {
+    "tr": "Pekâlâ... Şimdi sana<br>dehşet verici bir hikâye anlatmalıyım...",
+    "reason": "Garip satır kırılımı ve mekanik giriş temizlendi."
+  },
+  "0x1855": {
+    "tr": "Bu oda <color=0003>Luigi</color> sayesinde<br>baştan aşağı süslendiğinde görmelisin!<hr>Heh heh heh!",
+    "reason": "“Ağzına kadar dekore edilmiş” mekanik ifadesi doğal Türkçeleştirildi."
+  },
+  "0x1858": {
+    "tr": "İlerledikçe ve hedefleri bir bir<br>tamamladıkça o kupayı geri alabilirsin.<hr>[0008:00000003] tuşuna basınca hedeflerini<br>görebilirsin.<hr>Arada bir kontrol etmeyi unutma!",
+    "reason": "İlerleme anlatımı ve son öneri daha doğal oyun Türkçesine uyarlandı."
+  },
+  "0x185A": {
+    "tr": "Harika. <color=0001>arama işlevi</color><br>artık <color=0002>Game Boy Horror</color>'a eklendi.<hr>Bunca zahmete girdiğin için<br>teşekkürler, <color=0003>Luigi</color>.<hr>Galeride <color=0001>arama işlevini</color><br><color=0001></color>denemelisin. Sadece [0008:00000004] tuşuna bas.",
+    "reason": "Kontrol ikonuna apostrofla ek bağlama kaldırıldı."
+  },
+  "0x185D": {
+    "tr": "Soracağın bir şey var mı?",
+    "reason": "“Do you have any questions?” mevcut çeviride “sorun/problem” anlamına kaymıştı."
+  },
+  "0x1860": {
+    "tr": "İlerledikçe ve işleri yoluna koydukça<br>o <color=0001>kupa</color> da güzelleşir!<hr>Kolay olsun diye [0008:00000003] tuşuna basınca<br>hedeflerini gösterecek şekilde ayarladım.<hr>Uygun olduğunda bir bak!",
+    "reason": "Kontrol simgesine apostrofla ek bağlama kaldırıldı."
+  },
+  "0x1861": {
+    "tr": "Bu, hayaletleri yenme onuruna verilen<br>bir <color=0001>kupa</color>. <color=0003>Luigi</color>, ne kadar çok<hr>iş başardığın şimdiden üzerinde<br>belli olmaya başladı!",
+    "reason": "“how busy you’ve been” bağlamında “meşgul” yerine başarı/çaba anlamı korundu."
+  },
+  "0x1862": {
+    "tr": "Başardığın her şeyi [0008:00000003] tuşuna basarak<br>görebilirsin.<hr>O kadar kolay ki... istediğin zaman,<br>hatta şimdi bile bakabilirsin!<hr>Heh heh heh.",
+    "reason": "Kontrol simgesine apostrofla ek bağlama kaldırıldı."
+  },
+  "0x18A7": {
+    "tr": "Aklını karıştıracak kısmı şu:<br>Bunca işi yalnızca tek bir gecede<hr>başardın! Aferin, <color=0003>Luigi</color>!",
+    "reason": "“Well done” yanlışlıkla “elinden gelenin en iyisini yaptın” olmuştu; ayrıca “hard work lasted” doğal Türkçeye aktarıldı."
+  },
+  "0x18AB": {
+    "tr": "Bahse girerim, dünyada benden başka<br>kimsenin böyle güzel tabloları yoktur!<hr>Heh heh heh!",
+    "reason": "İngilizce deyim literal aktarılmadan Profesörün böbürlenmesi doğal biçimde verildi."
+  },
+  "0x1B58": {
+    "tr": "Ce-eee! Buldun beni: CeBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B59": {
+    "tr": "CeBuu: Ce-eee! Yine buldun!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5A": {
+    "tr": "CeBuu: Hihihi! Yine mi sen?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5B": {
+    "tr": "CeBuu: Bu saklambaç hiç eskimiyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5C": {
+    "tr": "Acı mı acı, ben AcıBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5D": {
+    "tr": "AcıBuu: Bir numara benim, kesin!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5E": {
+    "tr": "AcıBuu: Ohooo! Ortalık kızışıyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B5F": {
+    "tr": "AcıBuu: Acım fena yakar!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B60": {
+    "tr": "Selam, ben <color=0003>Luigi</color>! Şey... Buuigi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B61": {
+    "tr": "Buuigi: İkinci kardeş benim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B62": {
+    "tr": "Buuigi: Vaaah, Mariooo!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B63": {
+    "tr": "Buuigi: Yeşil olmak zor zanaat!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B64": {
+    "tr": "Kung Buu'nun gazabını tat!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B65": {
+    "tr": "Kung Buu: Kapışalım mı?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B66": {
+    "tr": "Kung Buu: Usta karşında!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B67": {
+    "tr": "Kung Buu: Acı yoksa zafer yok!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B68": {
+    "tr": "Çekilin pistten! DansBuu geldi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B69": {
+    "tr": "DansBuu: Buu-gie yap!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6A": {
+    "tr": "DansBuu: Şu figürlere bak!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6B": {
+    "tr": "DansBuu: Ritmi yakaladım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6C": {
+    "tr": "Hav hav! Ben Buuldog!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6D": {
+    "tr": "Buuldog: En çok aranan Buu benim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6E": {
+    "tr": "Buuldog: Hırçınlığım üstümde...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B6F": {
+    "tr": "Buuldog: Tasmasız kaldım, çıldıralım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B70": {
+    "tr": "Adım Buuşahane! Şahane, değil mi?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B71": {
+    "tr": "Buuşahane: Havalılık bende doğuştan!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B72": {
+    "tr": "Buuşahane: Karizmaya bak, karizmaya!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B73": {
+    "tr": "Buuşahane: Adımı aklına kazı!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B74": {
+    "tr": "Allô! Je suis Buu La La!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B75": {
+    "tr": "Buu La La: Ben... magnifique!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B76": {
+    "tr": "Buu La La: Très belle, moi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B77": {
+    "tr": "Buu La La: Hayran olabilirsin, mon ami.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B78": {
+    "tr": "Hıııçk... Ben... BuuHuu...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B79": {
+    "tr": "BuuHuu: Niye uğraşıyorum ki...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7A": {
+    "tr": "BuuHuu: Ben zaten mahvoldum...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7B": {
+    "tr": "BuuHuu: Hiç şansım yooook...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7C": {
+    "tr": "Mis gibi, tertemiz... ŞamBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7D": {
+    "tr": "ŞamBuu: Üf! Leş gibi kokuyorsun!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7E": {
+    "tr": "ŞamBuu: Iyy! Bir sabun yüzü gör!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B7F": {
+    "tr": "ŞamBuu: Midemi köpürttün!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B80": {
+    "tr": "Bana GameBuu de, yeter!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B81": {
+    "tr": "GameBuu: Her ekrandayım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B82": {
+    "tr": "GameBuu: Oyunu durdur, beni durduramazsın!",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x1B83": {
+    "tr": "GameBuu: Ben hep kayıtlı kalırım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B84": {
+    "tr": "Ah kader! Neden Buumeo'yum ben?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B85": {
+    "tr": "Buumeo: Senden nasıl kaçmalı?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B86": {
+    "tr": "Buumeo: İşte böyle kaçarım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B87": {
+    "tr": "Buumeo: Bir de şöyle kaçarım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B88": {
+    "tr": "Karşınızda zarif BuuZarif!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B89": {
+    "tr": "BuuZarif: Dik dik bakmayı kes!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8A": {
+    "tr": "BuuZarif: Dedim ya, BAKMA!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8B": {
+    "tr": "BuuZarif: Yaaapmaaaa!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8C": {
+    "tr": "Ben TurBuu'yum, gaza bastım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8D": {
+    "tr": "TurBuu: Motorları çalıştır!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8E": {
+    "tr": "TurBuu: Damalı bayrak göründü!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B8F": {
+    "tr": "TurBuu: Pite girmem lazım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B90": {
+    "tr": "Adım Buuris. Und kork!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B91": {
+    "tr": "Buuris: Git avay! Bleh!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B92": {
+    "tr": "Buuris: Vereye kaçsam?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B93": {
+    "tr": "Buuris: Buradan çıkmak vant!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B94": {
+    "tr": "Ben Buulivia! Senden hiç hoşlanmadım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B95": {
+    "tr": "Buulivia: Baş belası tesisatçı!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B96": {
+    "tr": "Buulivia: Yine mi geldin?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B97": {
+    "tr": "Buulivia: Bana kimse karşı koyamaz!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B98": {
+    "tr": "Ben güzeller güzeli Buunita!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B99": {
+    "tr": "Buunita: Yeşil, bana mı vuruldun?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9A": {
+    "tr": "Buunita: Kovalamacanın tadı başka!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9B": {
+    "tr": "Buunita: Hadi ama, yakalasana!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9C": {
+    "tr": "Karşında nefis mi nefis BuuNefis!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9D": {
+    "tr": "BuuNefis: Yanına patates ister misin?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9E": {
+    "tr": "BuuNefis: Korku sosu da olsun mu?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1B9F": {
+    "tr": "BuuNefis: Atıştırmalık sensin!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA0": {
+    "tr": "Adımı ağzına alma: TaBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA1": {
+    "tr": "TaBuu: Hışşt! Kapa çeneni!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA2": {
+    "tr": "TaBuu: Tek kelime etme!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA3": {
+    "tr": "TaBuu: Sus dedim, SUS!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA4": {
+    "tr": "Ben BamBuu, memnuniyetle!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA5": {
+    "tr": "BamBuu: Şak! Bam! Buu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA6": {
+    "tr": "BamBuu: Seni bam diye çarparım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA7": {
+    "tr": "BamBuu: Benden uzak dur!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA8": {
+    "tr": "GameBuu Advance oynamaya var mısın?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BA9": {
+    "tr": "GameBuu Advance: Bu oyunun patronu benim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAA": {
+    "tr": "GameBuu Advance: İleri seviye!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAB": {
+    "tr": "GameBuu Advance: Oyun cepte!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAC": {
+    "tr": "Beni mi aradın? BuuŞoför!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAD": {
+    "tr": "BuuŞoför: Yanlış yolcuya çattın, bayım.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAE": {
+    "tr": "BuuŞoför: Seni tanımıyorum bile!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BAF": {
+    "tr": "BuuŞoför: Benim otobüse binmiyor muydun?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB0": {
+    "tr": "Ben BuuZırva! Pöh!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB1": {
+    "tr": "BuuZırva: Naa-na-na-na!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB2": {
+    "tr": "BuuZırva: Uugidi Buugidi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB3": {
+    "tr": "BuuZırva: Zırva mırva, narf narf!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB4": {
+    "tr": "Pis mi pis... BuuSümük!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB5": {
+    "tr": "BuuSümük: Iyy! Bu ne biçim koku?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB6": {
+    "tr": "BuuSümük: Kimse beni sevmiyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB7": {
+    "tr": "BuuSümük: Yoksa kokan ben miyim?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB8": {
+    "tr": "Şıngır mıngır, Bay ŞıngırBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BB9": {
+    "tr": "Bay ŞıngırBuu: Ben ne yaptım?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBA": {
+    "tr": "Bay ŞıngırBuu: Hayırdır sana?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBB": {
+    "tr": "Bay ŞıngırBuu: Bir sakinleş!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBC": {
+    "tr": "AltBuu ringlere geri döndü!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBD": {
+    "tr": "AltBuu: Tepene çıkarım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBE": {
+    "tr": "AltBuu: Sinsice yaklaşıyorum...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BBF": {
+    "tr": "AltBuu: Arkandayım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC0": {
+    "tr": "Buumerang geliyor—eğil!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC1": {
+    "tr": "Buumerang: Yine döndüm sana!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC2": {
+    "tr": "Buumerang: Geri geldim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC3": {
+    "tr": "Buumerang: Başım dönüüüyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC4": {
+    "tr": "Buu Çoban koyunlarını kaybetmiş!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC5": {
+    "tr": "Buu Çoban: Mee-e-e, fena biriyim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC6": {
+    "tr": "Buu Çoban: Gel kuzucuğum!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC7": {
+    "tr": "Buu Çoban: Şu koyunlar da akılsız!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC8": {
+    "tr": "TamBuurin'i kim çalkalıyor?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BC9": {
+    "tr": "TamBuurin: Seni şıngır şıngır ederim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BCA": {
+    "tr": "TamBuurin: Kafanda çanlar çalacak...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BCB": {
+    "tr": "TamBuurin: Ben grubun ritmiyim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BCC": {
+    "tr": "Saat altı Buu-lteni başlıyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BCD": {
+    "tr": "BuuSpiker: Buu! Ayrıntılar onda!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BCE": {
+    "tr": "BuuSpiker: Ah, buu insanlık!",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x1BCF": {
+    "tr": "BuuSpiker: Hava durumu: buu-berbat.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD0": {
+    "tr": "Buutik: c'est chic!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD1": {
+    "tr": "Buutik: Üstünü kim giydirdi?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD2": {
+    "tr": "Buutik: O renk tam senlik!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD3": {
+    "tr": "Buutik: Tüm Buu'larda indirim!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD4": {
+    "tr": "Beni yakalamak mı? Buuşver!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD5": {
+    "tr": "Buuşver: Geç bunları!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD6": {
+    "tr": "Buuşver: Palavra!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD7": {
+    "tr": "Buuşver: Zırva!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD8": {
+    "tr": "Karşınızda trajik Buuripides.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BD9": {
+    "tr": "Buuripides: Sen tam bir trajedisin.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDA": {
+    "tr": "Buuripides: Derim ki: sahneden çekil!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDB": {
+    "tr": "Buuripides: Ah, ağlanacak hâl!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDC": {
+    "tr": "Ben BuuFön: Saçlara bak, Yeşil!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDD": {
+    "tr": "BuuFön: Kuaförün kim?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDE": {
+    "tr": "BuuFön: O paspası bir yıkat!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BDF": {
+    "tr": "BuuFön: Tarakla tanıştın mı hiç?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BE0": {
+    "tr": "Ben BuuKaçık! Kaçığım kaçık!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BE1": {
+    "tr": "BuuKaçık: Deli Buu yollarda!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BE2": {
+    "tr": "BuuKaçık: Burada bir buu-natik var!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x1BE3": {
+    "tr": "BuuKaçık: Kafayı komple sıyırdım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2330": {
+    "tr": "Bayıldım...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2331": {
+    "tr": "Buradan okunacak gibi değil...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2332": {
+    "tr": "Buna otursam elimde kalır...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2333": {
+    "tr": "Ne hurda ama! Bunun üstüne mi<br>oturacağım?<hr>Hadi oradan! Benim de standartlarım var!",
+    "reason": "“I have standards” ölçü birimi değil, kişisel standart/onur anlamında; FR/DE/IT/ES bunu açıkça doğruluyor."
+  },
+  "0x2334": {
+    "tr": "Kim bilir kaç zamandır<br>su yüzü görmemiş... Yazık.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2338": {
+    "tr": "Mum ışığı sıradan bir odayı bile<br>bir anda güzelleştiriyor...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x233C": {
+    "tr": "Buranın atmosferini iyice<br>tamamlıyor...",
+    "reason": "“Havasına hava katıyor” gereksiz tekrar ve yapay bir ifade."
+  },
+  "0x233D": {
+    "tr": "Bu iyi para eder...",
+    "reason": "“fetch a pretty penny” deyimi doğal Türkçeye çevrildi."
+  },
+  "0x2343": {
+    "tr": "Soğuk görünüyor... Hey!<br>Nefesim buhar oluyor!",
+    "reason": "İngilizce yapı Türkçede doğal fiziksel gözleme dönüştürüldü."
+  },
+  "0x2344": {
+    "tr": "Biraz spor şart.<br>Hazır buradayken iki yumruk<hr>sallayayım bari...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2346": {
+    "tr": "Of, cayır cayır...<br>Biri biraz serinletse keşke.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2349": {
+    "tr": "Yakından bakınca güve yemiş!<br>Iyyy!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x234A": {
+    "tr": "Tozdan beyaz eldiven kararır!<br>Temizlik şart.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x234C": {
+    "tr": "Şuraya kıvrılsam sabaha kadar<br>uyanmayabilirim...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x234F": {
+    "tr": "Epey eski ve kırılgan<br>görünüyor...",
+    "reason": "Cansız nesne için “yaşlı ve narin” yerine tüm dillerdeki old/fragile anlamı doğal Türkçeye aktarıldı."
+  },
+  "0x2351": {
+    "tr": "Tam koleksiyonluk...<br>Acaba kaç para eder?",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2353": {
+    "tr": "Rahatmış gibi... Yok yok,<br>tulumum bana yeter!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2355": {
+    "tr": "Vay canına... Şu Boo'lar sahte konağı<br>gerçek gibi yapmış!",
+    "reason": "“Realistic fake mansion” literal ve hantaldı; Luigi’nin şaşkın iç sesi doğal Türkçeye çevrildi."
+  },
+  "0x2356": {
+    "tr": "Bahse varım içinde<br>buz gibi bir şey var...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2358": {
+    "tr": "BURADA BAY KEMİK YATAR... ŞŞŞ!",
+    "reason": "Mezar taşı şakası kısa ve Türkçede komik bir “sessizlik” uyarısıyla yeniden kuruldu."
+  },
+  "0x235A": {
+    "tr": "Bende de bundan vardı sanki...<br>Evet, kesin vardı!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x235C": {
+    "tr": "VAHAHA! Bunu hangi deha tasarladı?!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2365": {
+    "tr": "Bir gün yıldızlara kadar<br>gitsem ne güzel olur...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2366": {
+    "tr": "Şunu bir çeviresim var...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2367": {
+    "tr": "Resim desen resim...<br>Sanat dersen, orada dur.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2369": {
+    "tr": "Sivri şeylerle aramız<br>hiç iyi değildir...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x236F": {
+    "tr": "Nefes kesici! Sade bir tasarım,<br>üstüne de gündelik şıklıktan bir tutam!",
+    "reason": "“Casual elegance” literal kalıp olmaktan çıkarılıp doğal tasarım yorumu yapıldı."
+  },
+  "0x2371": {
+    "tr": "Şapka konusunda burnum<br>biraz havadadır...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2373": {
+    "tr": "Of... Pilim bitti.<br>Şu yatağa bir bıraksam kendimi...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2376": {
+    "tr": "Hiçbir numarası yok...<br>Sıkıcı!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x237B": {
+    "tr": "İŞTE şıklık budur!",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x237D": {
+    "tr": "Biri hava atmaya<br>doyamamış galiba.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x237F": {
+    "tr": "Boo'lar sabahları yüzlerini<br>yıkıyor mudur acaba?",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2381": {
+    "tr": "Buna gözüm kaldı...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2382": {
+    "tr": "Şuna bir süpürge<br>gezdirmek şart.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2384": {
+    "tr": "Bu da neyin nesi?",
+    "reason": "“What in the world” kalıbı doğal Türkçe şaşkınlık ifadesine çevrildi."
+  },
+  "0x2385": {
+    "tr": "İçinden iki kurabiye çıksa<br>dünya var...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2388": {
+    "tr": "Nedense içime<br>bir hüzün çöktü...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2389": {
+    "tr": "Şapka dediğin elde yıkanır.<br>Başka türlüsü içime sinmez.<hr>Kardeşim şapkalarını çamaşır<br>makinesine atıp duruyor ama...<hr>Bence bu düpedüz özensizlik.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x238D": {
+    "tr": "Kimse bu hayaletlere suyu<br>boşa akıtmamayı öğretmedi mi?",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x238F": {
+    "tr": "Şunu bir çalsam mı?",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2391": {
+    "tr": "Koşu konusunda<br>fena değilimdir...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2393": {
+    "tr": "Bunu Mario kaldırırdı belki...",
+    "reason": "v5 yapısal QA: kaynakta olmayan ek renk etiketi kaldırıldı; Luigi’nin kardeşine gönderme yapan doğal iç sesi korundu."
+  },
+  "0x2394": {
+    "tr": "Bundan birini giysem<br>bayağı babayiğit görünürüm...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2396": {
+    "tr": "Bir iki “kendin yap” kitabı<br>edinsem fena olmaz...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2397": {
+    "tr": "İnsanın tüylerini ürpertiyor...",
+    "reason": "“How disturbing” ortam tonuna uygun, daha atmosferik Türkçeye çevrildi."
+  },
+  "0x2399": {
+    "tr": "Taş gibi donmuş.<br>Bakarken bile dişlerim takırdıyor.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x239A": {
+    "tr": "Böyle ayazda ateşin<br>başından kalkılmaz...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x239C": {
+    "tr": "Bu resmen yolun ortasına<br>dikilmiş.",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x23A2": {
+    "tr": "Burada posta güvercini<br>yetiştirsem ne güzel olurdu...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x23B0": {
+    "tr": "İnsanın fırçayı eline<br>alası geliyor...",
+    "reason": "v5 yaratıcı geçiş: Luigi’nin çevre inceleme iç sesi daha doğal, karakterli ve kısa Türkçeye uyarlandı."
+  },
+  "0x2714": {
+    "tr": "Bugün <color=0003>Bayan Petunya</color>'ya yaptığım<br>şakayı görmeliydiniz!",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2715": {
+    "tr": "Küveti dondurucudan çıkardığım<br>buzla doldurdum; o da hoop,<hr>kendini içine attı!",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2716": {
+    "tr": "Öyle bir titredi ki bir an<br>vicdanım sızladı...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2717": {
+    "tr": "Ama <color=0003>Bayan Petunya</color><br>taş gibi kadındır!",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2719": {
+    "tr": "Isınınca kızgınlığı da<br>çözülüverdi!<hr>(<color=0003>Nana</color>)",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x271E": {
+    "tr": "İnsan nereye dönse<br>karşısına bir gizem çıkar...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x271F": {
+    "tr": "...ama başını çevirip kaçmak<br>hiçbir gizemi çözmez.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2720": {
+    "tr": "Yüzünü çevirmek yerine<br>yana dön; gizeme başka<hr>bir açıdan bak.<br>Bir yol mutlaka açılır.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2725": {
+    "tr": "Üçüncü oğlum daha<br>kundakta sayılır.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2726": {
+    "tr": "Tuhaf olan şu ki, insanları<br>öteki ikisinin hiç yapamadığı<hr>kadar korkutuyor...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2727": {
+    "tr": "İkizlere gelince...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2729": {
+    "tr": "Elementler üzerlerine yürüyünce<br>korkudan tir tir titriyorlar!",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x272A": {
+    "tr": "Bazen bebekten bile daha<br>çocuk olduklarını düşünüyorum!",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x272B": {
+    "tr": "“Karanlık Onların Peyniri!” diye bir<br>kitap var.",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x272F": {
+    "tr": "Karanlık hayalet fareler için neyse,<br>peynir de gerçek fareler için odur...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2730": {
+    "tr": "Karanlıkta keyiften<br>altın altın parlarlar.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2731": {
+    "tr": "Işıklar geri gelmeden önce<br>birine yanaşmayı denemeliyim.<hr>(<color=0003>C. Parmesan</color>)",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2736": {
+    "tr": "<color=0001>Element Hayaletleri</color> denen ruhlar,<br>dünyamızı oluşturan<hr>ateş, su ve buzun içinde<br>yaşarlar.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2737": {
+    "tr": "Bu <color=0001>elementleri</color> kullanmak için<br>önce bir <color=0002>Element Madalyası</color> gerekir.<hr>Belki de <color=0001>Element Hayaletleri</color><br>yalnızca madalyayı taşıyana görünür.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x273C": {
+    "tr": "Sevgili okur...<br>Işığa kanmayan inatçı hayaletlerle<hr>hepimizin başı belaya girmiştir,<br>değil mi?",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x273D": {
+    "tr": "Işıktan sakınmak için<br>bin bir numara bilirler.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x273E": {
+    "tr": "Peki, parlak zekâlı okurlar,<br>bu inatçı hortlaklardan biri başınıza<hr>bela olursa ne yaparsınız?<br>Ben olsam önce bir açık arardım...",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x273F": {
+    "tr": "... Onları açık yakalayacak,<br>gardlarını düşürecek bir yol.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2740": {
+    "tr": "Hayalet şaşırıp kalbini açtı mı,<br>yakalama vakti gelmiş demektir.<hr>Ben bu yöntemle düzinelercesini<br>topladım, benden söylemesi...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2745": {
+    "tr": "İkizler yaşlarına göre inanılmaz<br>utangaç hayaletler...<hr>Oda anahtarlarını bile konağın<br>öbür ucuna saklamışlar.<hr>İnsan anne olunca neler çekiyor...",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2746": {
+    "tr": "Geçen gün oyuncak helikopterlerini<br>bir döndürdüm diye kıyameti kopardılar!<hr>Ah, şimdiki hayalet çocuklar...<br>Ne düşündükleri hiç belli değil!",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2747": {
+    "tr": "Elementler birbirini alt eder:<br>ateş buzu eritir,<hr>su ateşi söndürür,<br>buz da suyu dondurur.",
+    "reason": "v5 yaratıcı geçiş: günlük/kitap anlatıcısının sesi ve Türkçe anlatım ritmi güçlendirildi; diğer Avrupa yerelleştirmeleriyle karşılaştırıldı."
+  },
+  "0x2B2F": {
+    "tr": "Rasathanede görülen, kayan yıldız<br>gibi düşen bir hayalet.",
+    "reason": "Rasathane ortak addır; bulunma eki kesmeyle ayrılmaz. Satır akışı da düzeltildi."
+  },
+  "0x2B74": {
+    "tr": "Aynasever anne",
+    "reason": "Başlık, diğer dillerdeki “narcissistic/mirror-loving” yaklaşımına göre kısa ve karakterli yapıldı."
+  },
+  "0x2B76": {
+    "tr": "Dansçı çift",
+    "reason": "Başlık isim tamlamasına dönüştürüldü."
+  },
+  "0x2B77": {
+    "tr": "Avare kâhya",
+    "reason": "“Wandering butler” kısa, başlık niteliğinde ve atmosferik Türkçeleştirildi."
+  },
+  "0x2B7E": {
+    "tr": "Banyo güzeli",
+    "reason": "“Bathing beauty” doğal Türkçe başlık olarak yeniden kuruldu."
+  },
+  "0x2B80": {
+    "tr": "Yalnız bilardo ustası",
+    "reason": "Diğer diller bilardo bağlamını açık ediyor; belirsiz “yarışmacı” yerine karakterin oyunu belirtildi."
+  },
+  "0x2B85": {
+    "tr": "Müşterisiz ressam",
+    "reason": "“Unsold/starving artist” esprisi daha kısa ve Türkçede doğal başlık hâline getirildi."
+  },
+  "0x2B88": {
+    "tr": "Buz kesmiş dağcı",
+    "reason": "“Chilly climber” kelime oyunu daha canlı Türkçeye taşındı."
+  },
+  "0x2BA1": {
+    "tr": "Neville öteki dünyasını,<br>hayattayken yetişemediği kitaplara<hr>yetişmeye adamış.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BA2": {
+    "tr": "Uzun öteki hayatı için<br>gizli birikimini önceden<hr>bir kenara zulalamış.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BA3": {
+    "tr": "Gece boyu yaygarayı basar,<br>uyku nedir bilmez.<hr>Hayalet doğunca normal<br>herhâlde.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BA4": {
+    "tr": "Bir zamanlar bölge vals şampiyonuydular;<br>şimdi ayakları yere basmadığı için<br>yarışmalara da ayak basamıyorlar.",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x2BA5": {
+    "tr": "Konakta durmadan dolaşıp efendisinin<br>vasiyetini arıyor. Vasiyetten kendine de<br>bir pay çıkmasını umuyor!",
+    "reason": "“Will” bağlamı Türkçede doğal miras/vâris esprisine dönüştürüldü."
+  },
+  "0x2BA6": {
+    "tr": "Duygulu ezgiler çalar ama kendisi pek<br>duygusal sayılmaz. İşin tuhafı,<br>video oyunlarına bayılır.",
+    "reason": "“Moving melodies / surly disposition” zıtlığı Türkçede daha net ve nükteli kuruldu."
+  },
+  "0x2BA8": {
+    "tr": "Üç öğün ona göre atıştırmalık;<br>gözü hep açık büfede.<hr>Kendini yiyerek öldürdü,<br>hâlâ doymadı.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BA9": {
+    "tr": "Yenebilir gibi duran ne varsa<br>bu ürkütücü köpeğin dişlerinden<hr>nasibini alır.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BAA": {
+    "tr": "Konağın korku ve umutsuzluğundan doğdu.<br>Şimdiyse ne kimden korkacağını<br>ne de neye umutsuzlanacağını biliyor.",
+    "reason": "Kaynak cümlenin ironisi akıcı Türkçe paralel yapıyla korundu."
+  },
+  "0x2BAB": {
+    "tr": "Kaslara da zambaklara da<br>gönül vermiş iyi kalpli bir vücutçu.<hr>Zambak mı? Saflığın simgesi.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BAC": {
+    "tr": "Altı yıl önce Bayan Hayalet<br>yarışmasında ikinciydi.<hr>Son zamanlarda podyumdan<br>pek çağıran yok.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BAD": {
+    "tr": "Hayattayken bitiremediği atkıyı<br>hâlâ örüyor.<br>Şimdiden yaklaşık 265 metre oldu.",
+    "reason": "Türkçe metinde İngiliz ölçü birimi “871 feet” bırakılmıştı; Avrupa dilleri metrik birime yerelleştiriyor. 871 ft ≈ 265,5 m."
+  },
+  "0x2BAE": {
+    "tr": "Sıska Karambol, bilardo dünyasında<br>bir efsane. Ne yazık ki masasına<hr>bugüne dek tek bir canlı ruh oturmadı.",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2BAF": {
+    "tr": "İkizler saklambaç sever.<br>Ama ikisi de saklanınca ebe kalmıyor;<hr>oyun da hiç bitmiyor.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BB0": {
+    "tr": "Çekingen Boo'lar sürü olunca<br>hem boyları hem egoları ŞİŞİYOR!",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BB1": {
+    "tr": "Antika küplerini öyle seviyor ki<br>şimdi birinin içinde yaşıyor.<br>Sevinci içine sığmıyor—kendisi de!",
+    "reason": "“Contain himself” kap/küp kelime oyunu Türkçede yeniden yaratıldı."
+  },
+  "0x2BB2": {
+    "tr": "Kısa bir kestirme derken<br>Sue Pea'nın uykusu<hr>ebediyete uzamış.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BB3": {
+    "tr": "Otuz yılda tek tablo satamadı.<br>Yine de sanatını mezara gömmeye<hr>niyeti yok.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BB4": {
+    "tr": "Karanlıkta kendi hâlinde takılıyor;<br>ailesi de bu mesafeden<hr>gayet memnun.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BB5": {
+    "tr": "Bir zamanlar hem oyuncakları hem sinirleri<br>fazlasıyla kurulu bir koleksiyoncunundu.<br>Şimdiyse kurulmadan yürüyüp gidiyorlar.",
+    "reason": "v6 manuel son geçiş: metin kutusu genişliği, kaynak anlamı ve karakter tonu birlikte kontrol edilerek kısaltılıp doğallaştırıldı."
+  },
+  "0x2BB7": {
+    "tr": "Taçlı dev bir Boo.<br>Öteki Boo'ları da işin içine kattığı<hr>şeytani planlarını durmadan kuruyor.",
+    "reason": "v5 yaratıcı geçiş: portre biyografisindeki mizah/kelime oyunu Türkçede daha canlı yeniden kuruldu."
+  },
+  "0x2BC0": {
+    "tr": "CeBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC1": {
+    "tr": "AcıBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC2": {
+    "tr": "Buuigi",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC3": {
+    "tr": "Kung Buu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC4": {
+    "tr": "DansBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC5": {
+    "tr": "Buuldog",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC6": {
+    "tr": "Buuşahane",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC7": {
+    "tr": "Buu La La",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC8": {
+    "tr": "BuuHuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BC9": {
+    "tr": "ŞamBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCA": {
+    "tr": "GameBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCB": {
+    "tr": "Buumeo",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCC": {
+    "tr": "BuuZarif",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCD": {
+    "tr": "TurBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCE": {
+    "tr": "Buuris",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BCF": {
+    "tr": "Buulivia",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD0": {
+    "tr": "Buunita",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD1": {
+    "tr": "BuuNefis",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD2": {
+    "tr": "TaBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD3": {
+    "tr": "BamBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD4": {
+    "tr": "GameBuu Advance",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD5": {
+    "tr": "BuuŞoför",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD6": {
+    "tr": "BuuZırva",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD7": {
+    "tr": "BuuSümük",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD8": {
+    "tr": "Bay ŞıngırBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BD9": {
+    "tr": "AltBuu",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDA": {
+    "tr": "Buumerang",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDB": {
+    "tr": "Buu Çoban",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDC": {
+    "tr": "TamBuurin",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDD": {
+    "tr": "BuuSpiker",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDE": {
+    "tr": "Buutik",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BDF": {
+    "tr": "Buuşver",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BE0": {
+    "tr": "Buuripides",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BE1": {
+    "tr": "BuuFön",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2BE2": {
+    "tr": "BuuKaçık",
+    "reason": "Boo adı Türkçeye özgü kelime oyunuyla yerelleştirildi; diğer Avrupa dilleri de bu adları serbestçe yeniden kuruyor."
+  },
+  "0x2C44": {
+    "tr": "Bu madalya Ateş Hayaletlerini<br>içine çekip alev püskürtmeni sağlar.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C45": {
+    "tr": "Bu madalya Su Hayaletlerini<br>içine çekip su püskürtmeni sağlar.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C46": {
+    "tr": "Bu madalya Buz Hayaletlerini<br>içine çekip buz püskürtmeni sağlar.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C47": {
+    "tr": "Mario'nun meşhur şapkası.<br>Deterjan kokuyor ama o bildik<hr>“Mario” kokusu hâlâ sinmiş.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C48": {
+    "tr": "Mario'dan bir mektup.<br>Yazısı neredeyse okunmuyor;<hr>belli ki çok acele etmiş.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C49": {
+    "tr": "Rasathanede bulunan bir yıldız.<br>Mario'ya aitti ve<br>göz kamaştırıcı bir ışık yayıyor.",
+    "reason": "Rasathane ortak addır; bulunma eki kesmeyle ayrılmaz."
+  },
+  "0x2C4A": {
+    "tr": "Mario'nun beyaz eldivenleri.<br>Terden hâlâ hafif nemli...",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2C4B": {
+    "tr": "Mario'nun ayakkabıları.<br>Maceralardan epey yıpranmışlar...<hr>Bir de o tanıdık koku var.",
+    "reason": "v5 yaratıcı geçiş: eşya açıklaması kısa, doğal ve oyun tonuna uygun Türkçeleştirildi."
+  },
+  "0x2D2A": {
+    "tr": "Kâhya Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D2B": {
+    "tr": "Gizli Odada bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D2C": {
+    "tr": "Falcı Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D2D": {
+    "tr": "Ayna Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D2E": {
+    "tr": "Çamaşır Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D2F": {
+    "tr": "Mutfakta bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D30": {
+    "tr": "Yemek Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D31": {
+    "tr": "Balo Salonunda bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D32": {
+    "tr": "Bilardo Salonunda bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D33": {
+    "tr": "Gösterim Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D34": {
+    "tr": "Depo Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D35": {
+    "tr": "Müzik Odasında bulundu.",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x2D36": {
+    "tr": "Spor Salonunda bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D37": {
+    "tr": "Çocuk Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D38": {
+    "tr": "İkizlerin Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D39": {
+    "tr": "Oturma Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D3A": {
+    "tr": "Misafir Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D3B": {
+    "tr": "Ebeveyn Yatak Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D3C": {
+    "tr": "Çalışma Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D3D": {
+    "tr": "Salonda bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D3E": {
+    "tr": "Giyinme Odasında bulundu.",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x2D3F": {
+    "tr": "Ön Odada bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D40": {
+    "tr": "Astral Salonda bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D41": {
+    "tr": "Nana'nın Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D42": {
+    "tr": "Çay Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D43": {
+    "tr": "Cephanelikte bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D44": {
+    "tr": "Telefon Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D45": {
+    "tr": "Av Trofeleri Odasında bulundu.",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x2D46": {
+    "tr": "Seramik Atölyesinde bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D47": {
+    "tr": "Saat Odasında bulundu.",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x2D48": {
+    "tr": "Ressamın Atölyesinde bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D49": {
+    "tr": "Soğuk Odada bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D4A": {
+    "tr": "Mahzende bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D4B": {
+    "tr": "Boru Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2D4C": {
+    "tr": "Şalter Odasında bulundu.",
+    "reason": "Türkçe ortak oda/yer adlarına gelen çekim eklerinde kesme işareti kullanılmaz; oda adı terminolojisi de ana harita çevirisiyle eşitlendi."
+  },
+  "0x2DA9": {
+    "tr": "Ce-eee! Buldun beni: CeBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAA": {
+    "tr": "Acı mı acı, ben AcıBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAB": {
+    "tr": "Selam, ben <color=0003>Luigi</color>! Şey... Buuigi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAC": {
+    "tr": "Kung Buu'nun gazabını tat!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAD": {
+    "tr": "Çekilin pistten! DansBuu geldi!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAE": {
+    "tr": "Hav hav! Ben Buuldog!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DAF": {
+    "tr": "Adım Buuşahane! Şahane, değil mi?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB0": {
+    "tr": "Allô! Je suis Buu La La!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB1": {
+    "tr": "Hıııçk... Ben... BuuHuu...",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB2": {
+    "tr": "Mis gibi, tertemiz... ŞamBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB3": {
+    "tr": "Bana GameBuu de, yeter!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB4": {
+    "tr": "Ah kader! Neden Buumeo'yum ben?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB5": {
+    "tr": "Karşınızda zarif BuuZarif!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB6": {
+    "tr": "Ben TurBuu'yum, gaza bastım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB7": {
+    "tr": "Adım Buuris. Und kork!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB8": {
+    "tr": "Ben Buulivia! Senden hiç hoşlanmadım!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DB9": {
+    "tr": "Ben güzeller güzeli Buunita!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBA": {
+    "tr": "Karşında nefis mi nefis BuuNefis!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBB": {
+    "tr": "Adımı ağzına alma: TaBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBC": {
+    "tr": "Ben BamBuu, memnuniyetle!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBD": {
+    "tr": "GameBuu Advance oynamaya var mısın?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBE": {
+    "tr": "Beni mi aradın? BuuŞoför!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DBF": {
+    "tr": "Ben BuuZırva! Pöh!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC0": {
+    "tr": "Pis mi pis... BuuSümük!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC1": {
+    "tr": "Şıngır mıngır, Bay ŞıngırBuu!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC2": {
+    "tr": "AltBuu ringlere geri döndü!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC3": {
+    "tr": "Buumerang geliyor—eğil!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC4": {
+    "tr": "Buu Çoban koyunlarını kaybetmiş!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC5": {
+    "tr": "TamBuurin'i kim çalkalıyor?",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC6": {
+    "tr": "Saat altı Buu-lteni başlıyor!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC7": {
+    "tr": "Buutik: c'est chic!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC8": {
+    "tr": "Beni yakalamak mı? Buuşver!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DC9": {
+    "tr": "Karşınızda trajik Buuripides.",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DCA": {
+    "tr": "Ben BuuFön: Saçlara bak, Yeşil!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x2DCB": {
+    "tr": "Ben BuuKaçık! Kaçığım kaçık!",
+    "reason": "Boo repliği adındaki kelime oyunuyla birlikte Türkçede yeniden yazıldı; karakter tonu ve espri korundu."
+  },
+  "0x32C9": {
+    "tr": "Milyoner!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32CA": {
+    "tr": "1. Bölge Tamamlandı!",
+    "reason": "EN 'Cleared' başarı durumu; IT/ES 'completata/completada' ile de tamamlanma anlamı doğrulanıyor."
+  },
+  "0x32CD": {
+    "tr": "Işıl Işıl!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32CE": {
+    "tr": "Poltergust'a Giriş",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32D2": {
+    "tr": "Servet Büyüyor!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32D5": {
+    "tr": "Altın Ciyak!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x32D9": {
+    "tr": "Boo-naliz",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32DB": {
+    "tr": "Servet Sahibi!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32DD": {
+    "tr": "Konak Tamamlandı!",
+    "reason": "Başarım bağlamında 'cleared' = tamamlandı; diğer dillerle karşılaştırıldı."
+  },
+  "0x32DE": {
+    "tr": "Gizli Anahtar",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32DF": {
+    "tr": "Bitki Ustası",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32E2": {
+    "tr": "Zamana Karşı Usta",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32E4": {
+    "tr": "Para İçinde!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32E6": {
+    "tr": "Rüya Gibi Konak",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32E7": {
+    "tr": "Gizli Konak Tamamlandı!",
+    "reason": "Başarım bağlamında 'cleared' = tamamlandı; diğer dillerle karşılaştırıldı."
+  },
+  "0x32E9": {
+    "tr": "Altın Muziplik",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32EA": {
+    "tr": "Hızın Yetmedi!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32ED": {
+    "tr": "Para Babası!",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32EF": {
+    "tr": "Rüyaların Konağı",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32F2": {
+    "tr": "Ekspres Temizlik",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32F3": {
+    "tr": "Patronları Süpür Geç",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x32F4": {
+    "tr": "Afiş Avcısı",
+    "reason": "Başarım adı, ilgili başarım koşulu ve diğer Avrupa dillerinin serbest başlık yaklaşımı dikkate alınarak kısa ve yaratıcı Türkçeye uyarlandı."
+  },
+  "0x332E": {
+    "tr": "1. Bölgeyi tamamladın.",
+    "reason": "Başarım koşulu 'Cleared Area 1' diğer dillerde tamamlama olarak çevrilmiş."
+  },
+  "0x333C": {
+    "tr": "Gizli Odayı ya da<br>Mühürlü Odayı buldun.",
+    "reason": "Türkçe ortak oda adlarına belirtme durum eki kesmesiz yazılır."
+  },
+  "0x3341": {
+    "tr": "Konağı tamamladın.",
+    "reason": "Başarım koşulunda 'cleared' = tamamladın."
+  },
+  "0x3342": {
+    "tr": "Spor Salonundaki gizli anahtarı<br>aldın.",
+    "reason": "Rec Room diğer Avrupa dillerinde de fitness/gym odasıdır; ana oda çevirisi “Spor Salonu” ile eşitlendi ve ortak ada gelen ekte kesme kaldırıldı."
+  },
+  "0x3343": {
+    "tr": "Kemik Avlusundaki bitkiyi tamamen<br>büyüttün.",
+    "reason": "Boneyard için daha önce doğrulanan “Kemik Avlusu” terimiyle eşitlendi; eski “Kemiklik” tutarsızdı."
+  },
+  "0x334B": {
+    "tr": "Gizli konağı tamamladın.",
+    "reason": "Başarım koşulunda 'cleared' = tamamladın."
+  },
+  "0x334C": {
+    "tr": "Sağlığın hiç 50 ya da altına düşmeden<br>konağı tamamladın.",
+    "reason": "Başarım koşulunda 'cleared' = tamamladın; koşul korunuyor."
+  },
+  "0x3355": {
+    "tr": "Sağlığın hiç 80 ya da altına düşmeden<br>konağı tamamladın.",
+    "reason": "Başarım koşulunda 'cleared' = tamamladın; koşul korunuyor."
+  },
+  "0x0044": {
+    "tr": "Flaşampul",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x0053": {
+    "tr": "Flaşampul",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x0119": {
+    "tr": "Flaşampul Kullan",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x010E": {
+    "tr": "Portre Rövanşı",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x010F": {
+    "tr": "Portre Rövanşı'nı seçersen daha önce<br>yakaladığın hayaletlerle yeniden<br>kapışabilirsin.<br>Ancak amiibo kullanılamaz.",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x0233": {
+    "tr": "Portre Rövanşı'ndan Çık",
+    "reason": "v6 manuel kontrol: kısa oyun/arayüz metni daha doğal ve okunaklı Türkçeye çekildi."
+  },
+  "0x0234": {
+    "tr": "Portre Rövanşı'ndan çıkıp<br>galeriye dön.",
+    "reason": "v6 manuel kontrol: kısa oyun/arayüz metni daha doğal ve okunaklı Türkçeye çekildi."
+  },
+  "0x0237": {
+    "tr": "Portre Rövanşı'ndan Çık",
+    "reason": "v6 manuel kontrol: kısa oyun/arayüz metni daha doğal ve okunaklı Türkçeye çekildi."
+  },
+  "0x3346": {
+    "tr": "Portre Rövanşı'ndaki tüm hayaletleri<br>beş dakika ya da daha kısa sürede<br>süpürdün.",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x3357": {
+    "tr": "Portre Rövanşı'ndaki tüm hayaletleri<br>üç dakika ya da daha kısa sürede<br>süpürdün.",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x02FC": {
+    "tr": "<color=0003>Jöluigi</color>, hayalet sayın...[000F:00000000]!<br>Ve [000F:00000001]G topladın!<hr>Etkileyici! İnanılmaz!<br>Beklediğimden de iyi!<hr><color=0003>Luigi</color>, verdiğin tüm emek için<br>teşekkür ederim! Heh heh heh!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x02FD": {
+    "tr": "<color=0003>Jöluigi</color>'nin hayalet sayısı...[000F:00000000]!<br>Ve [000F:00000001]G topladı. Güzel!<hr>Tüm bu veriler araştırmama kesinlikle<br>yardım edecek.<hr>Teşekkürler, <color=0003>Luigi</color>!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x1799": {
+    "tr": "Şu yeşil dublörünle tanış.<br>Adını <color=0003>Jöluigi</color> koydum!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x179D": {
+    "tr": "<color=0003>Jöluigi </color>için test işini sana<br>ve <color=0003>geçmişteki bana</color> devrediyorum.<br>Zaman yolculuğu harika değil mi?",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x179E": {
+    "tr": "<color=0003>Jöluigi</color>'ye iyi bak!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x17A1": {
+    "tr": "<color=0003>Luigi</color>, evlat, <color=0003>Jöluigi </color>'yi<br>konağa yanında götürmek istediğinde,<hr>tek yapman gereken laboratuvarda<br><color=0001>Eşli Oyna</color>'yı seçmek!",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x17A4": {
+    "tr": "Ah! <color=0003>Jöluigi</color>'ye iyi bakın.<br>Çok kolay <color=0001>yanar ve erir</color>...",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x17A9": {
+    "tr": "Ne dersin, <color=0003>Jöluigi</color>'yi yanına alıp<br>biraz keşfe çıksan?",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x0140": {
+    "tr": "Müzik Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x026C": {
+    "tr": "Müzik Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x0155": {
+    "tr": "Av Trofeleri Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x0281": {
+    "tr": "Av Trofeleri Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x0157": {
+    "tr": "Saat Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x0283": {
+    "tr": "Saat Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x0277": {
+    "tr": "Giyinme Odası",
+    "reason": "v6 manuel kontrol: oda adı diğer Avrupa dilleri ve odanın oyun içi işleviyle karşılaştırılarak doğal Türkçeye uyarlandı."
+  },
+  "0x1017": {
+    "tr": "... A-Alo? ... Kiminle<br>görüşüyorum... acaba?",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x13A2": {
+    "tr": "Aferin sana, <color=0003>Luigi</color> evlat!<br>Bu kez de sana özel bir tüyo<hr>vereceğim!",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x1790": {
+    "tr": "Bunun rüya mı, yanılsama mı,<br>ne olduğu belli değil ama...<hr>Ben olsam perili bir ev kazandığıma<br>pek sevinmezdim!",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x1798": {
+    "tr": "Heh heh heh! Merhaba!<br>Ben <color=0003>geleceğin Profesör E. Gadd</color>'ıyım!",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x17A0": {
+    "tr": "Cidden müthiş bir icat. Zaten<br><color=0003>gelecekteki benden</color> aşağısı<br>beklenmezdi!<hr>Hem gelecekteki ben yardımımızı<br>istediyse, yardım etmek boynumuzun<br>borcu!",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x1F42": {
+    "tr": "(Saçım harika değil mi?<br>Tabii, ona çok vakit harcıyorum. O<hr>tablonun içinde kapalı kalınca<br>çok sıkılmıştım...<hr>Şimdi bütün vaktimi aynanın önünde<br>geçiriyorum.<br>İnsanları korkutuyor ama ne âlâ—<hr>işlerim gül gibi!)",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x1F47": {
+    "tr": "(Hıh! Şu pejmürde tipe bak;<br>bir nota bile çalamaz!)",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x1F4D": {
+    "tr": "(Bir el kapışalım mı?)",
+    "reason": "v6 manuel kontrol: anlam korunurken konuşmacının karakter sesi ve doğal Türkçe ritmi güçlendirildi."
+  },
+  "0x1F4E": {
+    "tr": "(Şimdi eserlerimin gücünü<br>anladı mı, oui?)",
+    "reason": "v6 manuel kontrol: kaynak metindeki kelime oyunu/üslup, diğer Avrupa yerelleştirmeleri de dikkate alınarak Türkçede yeniden kuruldu."
+  },
+  "0x2732": {
+    "tr": "Pericles'in kitabını buldun.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2B1C": {
+    "tr": "Yemek Odasındaki bir hayalet. Elleri<br>dolu olduğundan<br>seni yakalayamaz.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2B1E": {
+    "tr": "Ayna Odasındaki bir Yakalayan<br>Hayalet;<br>yalnızca yansımada görülür.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2C30": {
+    "tr": "Ateş Elementi Madalyası",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2C31": {
+    "tr": "Su Elementi Madalyası",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2C32": {
+    "tr": "Buz Elementi Madalyası",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x2B05": {
+    "tr": "Dansçı Maskeli Hayalet",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x2B0A": {
+    "tr": "Bowling Hayaleti",
+    "reason": "v6 manuel kontrol: EN/FR/DE/IT/ES karşılaştırmasıyla oyun terimi Türkçede daha doğal ve yaratıcı biçimde yerelleştirildi."
+  },
+  "0x3330": {
+    "tr": "Bir bitkiyi suladın.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x3334": {
+    "tr": "Beş portre hayaletinin<br>resmini aldın.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x3340": {
+    "tr": "Tüm portre hayaletlerinin<br>resimlerini aldın.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x3344": {
+    "tr": "B veya daha yüksek dereceli<br>bir konak elde ettin.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x3349": {
+    "tr": "Tüm portre hayaletlerine<br>altın çerçeve kazandırdın.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x334A": {
+    "tr": "A veya daha yüksek dereceli<br>bir konak elde ettin.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x3352": {
+    "tr": "Tüm portre hayaletlerine<br>platin çerçeve kazandırdın.",
+    "reason": "v6 manuel kontrol: Türkçe dilbilgisi, ek kullanımı veya anlatım bozukluğu düzeltildi."
+  },
+  "0x102A": {
+    "tr": "Ama şimdi bir dinle. Galeriden kaçan<br>bir hayalet var ki yalnızca en koyu<hr>karanlıkta saklanır... Adı da...<hr><color=0003>Amca Kasvet</color>...",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B6F": {
+    "tr": "Amca Kasvet",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B71": {
+    "tr": "Sir Ayaz",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B67": {
+    "tr": "Bayan Petunya",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B60": {
+    "tr": "Bay Tir Tir",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B63": {
+    "tr": "Bay Tıkınır",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  },
+  "0x2B69": {
+    "tr": "Sıska Karambol",
+    "reason": "v6 manuel kontrol: açık anlam/kelime oyunu taşıyan ad Türkçe oyun tonuna uygun biçimde yerelleştirildi; bağlı kullanımlar tutarlılaştırıldı."
+  }
+}

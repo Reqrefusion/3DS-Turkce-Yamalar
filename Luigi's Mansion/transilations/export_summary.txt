@@ -1,0 +1,18 @@
+Luigi's Mansion 3DS EUR export summary
+Original: /mnt/data/00040000001D1A00.00000005 Luigi's Mansion (CTR-P-BGNP) (E).zip
+Patch: /mnt/data/LM3DS_TR_v6_RELEASE/01_PATCH/LM3DS_TR_MANUAL_v6.zip
+Region root: romfs/Region_EU
+Languages: English, Dutch, French, German, Italian, Spanish, Turkish
+
+GMSG outputs:
+  - main.gmsg.csv
+  - main.gmsg.qa.csv
+
+Font outputs:
+  - ending.gzf.csv
+  - location.gzf.csv
+  - main.gzf.csv
+  - matching.gzf.csv
+  - font_summary.csv
+
+Note: the EUR dump has no Dutch/main.gmsg; Dutch cells are therefore blank.
