@@ -1,0 +1,18 @@
+{
+  "font_bundle_member": "/mnt/data/LM2_TR_FONTFIX_V4/font_patch/febundlefonts_res.data",
+  "fonts": {
+    "Alor_Narrow_Condensed": 156,
+    "Alor": 163
+  },
+  "missing_characters": [
+    {
+      "codepoint": "U+0023",
+      "char": "#",
+      "occurrences": 2,
+      "examples": [
+        "tweaker:35C8CB88 #ifdef USE_TWEAKER",
+        "tweaker:76B6DDB1 #define BASIC_MATH_COUNTS"
+      ]
+    }
+  ]
+}

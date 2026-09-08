@@ -1,0 +1,96 @@
+{
+  "fe": {
+    "scope": "fe",
+    "rows": 1935,
+    "languages": [
+      "english",
+      "ukenglish",
+      "french",
+      "nafrench",
+      "german",
+      "italian",
+      "spanish",
+      "naspanish",
+      "dutch",
+      "portuguese",
+      "russian",
+      "japanese"
+    ],
+    "members": {
+      "english": "fe/english.data",
+      "ukenglish": "fe/ukenglish.data",
+      "french": "fe/french.data",
+      "nafrench": "fe/nafrench.data",
+      "german": "fe/german.data",
+      "italian": "fe/italian.data",
+      "spanish": "fe/spanish.data",
+      "naspanish": "fe/naspanish.data",
+      "dutch": "fe/dutch.data",
+      "portuguese": "fe/portuguese.data",
+      "russian": "fe/russian.data",
+      "japanese": "fe/japanese.data"
+    },
+    "patch_member": "0004000000076500/romfs/art/fe/english.data",
+    "language_hashes": {
+      "english": "7A947B29",
+      "ukenglish": "5F2F5E69",
+      "french": "A93C2035",
+      "nafrench": "30D469C4",
+      "german": "AAAD26B9",
+      "italian": "BC0FCCA1",
+      "spanish": "B482A4B5",
+      "naspanish": "2F242024",
+      "dutch": "04FE8CB7",
+      "portuguese": "F0616EF2",
+      "russian": "747AA7C4",
+      "japanese": "95F1D726"
+    }
+  },
+  "tweaker": {
+    "scope": "tweaker",
+    "rows": 161,
+    "languages": [
+      "english",
+      "ukenglish",
+      "french",
+      "nafrench",
+      "german",
+      "italian",
+      "spanish",
+      "naspanish",
+      "dutch",
+      "portuguese",
+      "russian",
+      "japanese"
+    ],
+    "members": {
+      "english": "tweaker/english.data",
+      "ukenglish": "tweaker/ukenglish.data",
+      "french": "tweaker/french.data",
+      "nafrench": "tweaker/nafrench.data",
+      "german": "tweaker/german.data",
+      "italian": "tweaker/italian.data",
+      "spanish": "tweaker/spanish.data",
+      "naspanish": "tweaker/naspanish.data",
+      "dutch": "tweaker/dutch.data",
+      "portuguese": "tweaker/portuguese.data",
+      "russian": "tweaker/russian.data",
+      "japanese": "tweaker/japanese.data"
+    },
+    "patch_member": "0004000000076500/romfs/art/tweaker/english.data",
+    "language_hashes": {
+      "english": "7A947B29",
+      "ukenglish": "5F2F5E69",
+      "french": "A93C2035",
+      "nafrench": "30D469C4",
+      "german": "AAAD26B9",
+      "italian": "BC0FCCA1",
+      "spanish": "B482A4B5",
+      "naspanish": "2F242024",
+      "dutch": "04FE8CB7",
+      "portuguese": "F0616EF2",
+      "russian": "747AA7C4",
+      "japanese": "95F1D726"
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "format": "NLG custom ETC1_A4",
+  "page_order": [
+    "Alor#0",
+    "Alor#1",
+    "Alor#2",
+    "Alor_Narrow_Condensed#0",
+    "Alor_Narrow_Condensed#1"
+  ],
+  "fixes": [
+    "preserve original render-width packing",
+    "rebuild dotless i",
+    "rebuild dotted capital I",
+    "cedilla from native C/c",
+    "breve from native degree-ring curve",
+    "patch A4 alpha",
+    "patch ETC1 color plane",
+    "regenerate 5 mip levels"
+  ],
+  "desc_compressed": 1726,
+  "tex_compressed": 75711,
+  "allocated_tex": 75960,
+  "changed_alpha_bytes": 1225,
+  "changed_etc1_bytes": 1507,
+  "native_etc_exact_blocks": 83,
+  "native_etc_nearest_blocks": 248,
+  "packing": {
+    "Narrow": {
+      "same_positions": true,
+      "same_renderwidth_sequence": true,
+      "count": 156
+    },
+    "Alor": {
+      "same_positions": true,
+      "same_renderwidth_sequence": true,
+      "count": 163
+    }
+  },
+  "zlib_validation": {
+    "0": 336,
+    "152": 8324,
+    "1912": 436480,
+    "77872": 0,
+    "77880": 0
+  },
+  "glyph_checks": {
+    "Narrow": {
+      "has_turkish": true,
+      "old_slots_removed": true
+    },
+    "Alor": {
+      "has_turkish": true,
+      "old_slots_removed": true
+    }
+  },
+  "target_records": [
+    {
+      "font": "Alor",
+      "new_cp": 305,
+      "char": "ı",
+      "slot_cp": 161,
+      "page": 0,
+      "x": 178,
+      "y": 170,
+      "rw": 10,
+      "rh": 34,
+      "kind": "dotless",
+      "bbox": [
+        1,
+        12,
+        6,
+        23
+      ]
+    },
+    {
+      "font": "Alor",
+      "new_cp": 304,
+      "char": "İ",
+      "slot_cp": 205,
+      "page": 0,
+      "x": 208,
+      "y": 204,
+      "rw": 11,
+      "rh": 34,
+      "kind": "Idot",
+      "bbox": [
+        1,
+        1,
+        6,
+        23
+      ]
+    },
+    {
+      "font": "Alor",
+      "new_cp": 286,
+      "char": "Ğ",
+      "slot_cp": 211,
+      "page": 0,
+      "x": 219,
+      "y": 204,
+      "rw": 21,
+      "rh": 34,
+      "kind": "Gbreve",
+      "bbox": [
+        0,
+        1,
+        17,
+        23
+      ]
+    },
+    {
+      "font": "Alor",
+      "new_cp": 350,
+      "char": "Ş",
+      "slot_cp": 218,
+      "page": 1,
+      "x": 21,
+      "y": 0,
+      "rw": 19,
+      "rh": 34,
+      "kind": "Sced",
+      "bbox": [
+        1,
+        6,
+        16,
+        29
+      ]
+    },
+    {
+      "font": "Alor",
+      "new_cp": 351,
+      "char": "ş",
+      "slot_cp": 224,
+      "page": 1,
+      "x": 78,
+      "y": 0,
+      "rw": 18,
+      "rh": 34,
+      "kind": "sced",
+      "bbox": [
+        0,
+        11,
+        12,
+        28
+      ]
+    },
+    {
+      "font": "Alor",
+      "new_cp": 287,
+      "char": "ğ",
+      "slot_cp": 225,
+      "page": 1,
+      "x": 96,
+      "y": 0,
+      "rw": 18,
+      "rh": 34,
+      "kind": "gbreve",
+      "bbox": [
+        0,
+        6,
+        13,
+        28
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 305,
+      "char": "ı",
+      "slot_cp": 161,
+      "page": 3,
+      "x": 130,
+      "y": 124,
+      "rw": 8,
+      "rh": 31,
+      "kind": "dotless",
+      "bbox": [
+        1,
+        14,
+        4,
+        25
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 304,
+      "char": "İ",
+      "slot_cp": 205,
+      "page": 3,
+      "x": 109,
+      "y": 155,
+      "rw": 9,
+      "rh": 31,
+      "kind": "Idot",
+      "bbox": [
+        1,
+        3,
+        5,
+        25
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 286,
+      "char": "Ğ",
+      "slot_cp": 211,
+      "page": 3,
+      "x": 118,
+      "y": 155,
+      "rw": 16,
+      "rh": 31,
+      "kind": "Gbreve",
+      "bbox": [
+        1,
+        3,
+        12,
+        25
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 350,
+      "char": "Ş",
+      "slot_cp": 218,
+      "page": 3,
+      "x": 150,
+      "y": 155,
+      "rw": 15,
+      "rh": 31,
+      "kind": "Sced",
+      "bbox": [
+        1,
+        8,
+        12,
+        30
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 351,
+      "char": "ş",
+      "slot_cp": 224,
+      "page": 3,
+      "x": 195,
+      "y": 155,
+      "rw": 14,
+      "rh": 31,
+      "kind": "sced",
+      "bbox": [
+        0,
+        13,
+        9,
+        30
+      ]
+    },
+    {
+      "font": "Narrow",
+      "new_cp": 287,
+      "char": "ğ",
+      "slot_cp": 225,
+      "page": 3,
+      "x": 209,
+      "y": 155,
+      "rw": 14,
+      "rh": 31,
+      "kind": "gbreve",
+      "bbox": [
+        0,
+        8,
+        10,
+        30
+      ]
+    }
+  ],
+  "sha256": "ec8625eda2334f26de0114cffd07671632340a37b17576bed35d8eccca401514"
+}
