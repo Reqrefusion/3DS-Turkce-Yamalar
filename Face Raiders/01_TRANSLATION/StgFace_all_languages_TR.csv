@@ -1,0 +1,2608 @@
+﻿Index,Label,EU_Dutch,EU_English,EU_French,EU_German,EU_Italian,EU_Portuguese,EU_Russian,EU_Spanish,JP_Japanese,US_English,US_French,US_Portuguese,US_Spanish,Turkish,Source_Max_Lines,Source_Safe_Line_Units,Turkish_Lines,Turkish_Max_Line_Units,Fit_Status,Placeholder_Check,PUA_Glyph_Check,Translation_Note,Fit_Note
+0,StgFace_16,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+1,StgFace_Title_PressA, Beginnen,Press ,Appuyez sur ,Drücke ,Premi ,Prima ,Нажми ,Pulsa ,を押してください,Press ,Appuyez sur ,Aperte ,Oprime ,Bas ,1,12.8,1,5.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+2,StgFace_Title_Nintendo,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+3,StgFace_Title_ButtonA,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+4,StgFace_Title_ButtonB,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+5,StgFace_Title_ButtonC,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+6,"StgFace_Explain_Select
+",,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+7,StgFace_Explain_Decide,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+8,StgFace_Explain_Return,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+9,StgFace_Next2,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+10,StgFace_Return, Terug, Back, Retour, Zurück, Indietro, Anterior, Назад, Atrás,もどる, Back, Retour, Voltar, Atrás, Geri,1,9.85,1,5.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+11,StgFace_Yes,Ja,Yes,Oui,Ja,Sì,Sim,Да,Sí,はい,Yes,Oui,Sim,Sí,Evet,1,3.0,1,4.0,REVIEW,OK,OK,Standart onay düğmesi. “Evet” doğal Türkçe karşılık; kaynak dillerden uzun olduğu için gerçek cihazda düğme genişliği görsel olarak doğrulanmalı.,Exceeds the empirical line/width envelope; shorten or test carefully.
+12,StgFace_No,Nee,No,Non,Nein,No,Não,Нет,No,いいえ,No,Non,Não,No,Hayır,1,3.55,1,4.55,REVIEW,OK,OK,Standart ret düğmesi. “Hayır” anlamı koruyan doğal karşılık; kaynak dillerden uzun olduğu için gerçek cihazda düğme genişliği görsel olarak doğrulanmalı.,Exceeds the empirical line/width envelope; shorten or test carefully.
+13,StgFace_Decide,Oké,Confirm,OK,Okay,OK,Confirmar,Подтвердить,Aceptar,決定,OK,OK,OK,Aceptar,Onayla,1,8.75,1,5.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+14,StgFace_Next, Verder, Next, Suite, Weiter, Avanti,Seguinte, Далее, Seguir,次へ, Next, Suite, Próximo, Seguir, İleri,1,9.35,1,5.95,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+15,StgFace_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+16,StgFace_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+17,StgFace_SeqTitle_StageSelect,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+18,StgFace_SeqTitle_StageSelect_Stage1,Level 1,Stage 1,Stage 1,Stufe 1,Livello 1,Nível 1,Уровень 1,Fase 1,ステージ１,Stage 1,Niveau 1,Fase 1,Fase 1,Bölüm 1,1,7.15,1,6.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+19,StgFace_SeqTitle_StageSelect_Stage2,Level 2,Stage 2,Stage 2,Stufe 2,Livello 2,Nível 2,Уровень 2,Fase 2,ステージ２,Stage 2,Niveau 2,Fase 2,Fase 2,Bölüm 2,1,7.15,1,6.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+20,StgFace_SeqTitle_StageSelect_Stage3,Level 3,Stage 3,Stage 3,Stufe 3,Livello 3,Nível 3,Уровень 3,Fase 3,ステージ３,Stage 3,Niveau 3,Fase 3,Fase 3,Bölüm 3,1,7.15,1,6.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+21,StgFace_SeqTitle_StageSelect_Stage4,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+22,StgFace_SeqTitle_ModeSelect,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+23,StgFace_SeqTitle_ModeSelectA,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+24,StgFace_SeqTitle_ModeSelectB,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+25,StgFace_Calibration,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+26,StgFace_Attention,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+27,StgFace_FaceMatching_OutsideCamera, Buiten, Outer, APN ext., Außen, Esterni, C. Ext., Наружу, C. ext.,外カメラ, Switch, APN ext., Trocar, C. ext., Dış,1,9.35,1,4.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+28,StgFace_FaceMatching_InsideCamera, Binnen, Inner, APN int., Innen, Interno, C. Int., Внутрь, C. int.,内カメラ, Switch, APN int., Trocar, C. int., İç,1,8.9,1,3.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+29,StgFace_FaceMatching_Distance,Afstand vergroten,Move farther away,Un peu plus loin...,Abstand zu gering!,Allontanati un po'.,Afaste-se mais.,Подвинь дальше,Aléjate un poco.,顔を 遠ざけてください,Move farther away,Un peu plus loin...,Distancie-se mais!,Aléjate un poco.,Biraz uzaklaş,1,16.5,1,11.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+30,StgFace_FaceMatching_Close,Afstand verkleinen,Move closer,Un peu plus près...,Abstand zu groß!,Avvicinati un po'.,Aproxime-se mais.,Подвинь ближе,Acércate más.,顔を 近づけましょう,Move closer,Un peu plus près...,Aproxime-se mais!,Acércate más.,Biraz yaklaş,1,16.6,1,10.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+31,StgFace_FaceMatching_Right,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+32,StgFace_FaceMatching_Left,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+33,StgFace_FaceMatching_Up,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+34,StgFace_FaceMatching_Down,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+35,StgFace_FaceMatching_Wait,"Plaats mond en ogen
+binnen de lijnen","Align mouth and eyes
+with the guide","Alignez la bouche
+et les yeux avec
+les repères.","Mund und Augen an
+Markierung ausrichten!","Allinea occhi e bocca
+con gli indicatori.","Enquadre os olhos
+e a boca nas linhas.","Совмести рот и глаза
+с метками.","Haz coincidir la boca y
+los ojos con la guía.","目と口をガイドに
+あわせてください","Align the shapes with
+your eyes and mouth.","Alignez les repères avec
+la bouche et les yeux.","Enquadre os olhos e 
+a boca na moldura.","Haz coincidir la boca y
+los ojos con la guía.","Ağzını ve gözlerini
+kılavuza hizala",3,21.15,2,15.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+36,StgFace_FaceMatching_ShowFace,"Plaats het gezicht
+binnen het kader",Put a face in the frame,Cadrez un visage.,"Das Gesicht muss sich
+im Rahmen befinden.",Fotografa una faccia.,"Coloque uma cara na 
+moldura.",Помести лицо в рамку.,¡A ver esa cara!,顔を写してください,Put a face in the frame,Cadrez un visage.,"Coloque uma cara
+na moldura",¡A ver esa cara!,Yüzü çerçeveye al,2,20.25,1,15.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+37,StgFace_FaceMatching_Shutter,"Het sluitergeluid wordt
+afgespeeld",Shutter sound will play,"L'obturateur va
+émettre un son.",Auslöser-Geräusch an,Sentirai il suono dello scatto.,"Será emitido um
+som do obturador.",Раздастся звук затвора.,"Se oirá el sonido del obturador
+cuando se haga la foto.",シャッター音が鳴ります。,Shutter sound will play.,"L'obturateur va
+émettre un son.","O som do obturador
+será emitido.","Se escuchará el sonido del
+obturador al sacar la foto.",Deklanşör sesi duyulacak,2,26.7,1,21.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+38,StgFace_FaceMatching_Sex,  Geslacht,Gender,Sexe,Geschlecht, Sesso,  Género,Пол,  Sexo,性別,Gender,Sexe,Sexo,Sexo,Cinsiyet,1,9.55,1,7.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+39,StgFace_FaceMatching_Male,(♂),(♂),(♂),(♂),(♂),(♂),(♂),(♂),男性,♂,♂,♂,♂,(♂),1,2.6,1,2.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+40,StgFace_FaceMatching_Male?,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+41,StgFace_FaceMatching_Female,(♀),(♀),(♀),(♀),(♀),(♀),(♀),(♀),女性,♀,♀,♀,♀,(♀),1,2.6,1,2.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+42,StgFace_FaceMatching_Female?,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+43,StgFace_FaceMatching_Sex??,??,??,??,???,???,??,??,(?),？？,??,??,??,(?),??,1,3.0,1,2.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+44,StgFace_FaceMatching_Age,  Leeftijd,Age,Âge,Alter, Età,  Idade,Возраст,  Edad,年令,Age,Âge,Idade,Edad,Yaş,1,8.55,1,3.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+45,StgFace_FaceMatching_Baby,Baby,Baby,Bébé,Baby,Bebè,Bebé,Младенец,Bebé,赤ちゃん,Infant,Bébé,Bebê,Bebé,Bebek,1,5.55,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+46,StgFace_FaceMatching_Child,Kind,Child,Enfant,Kind,Bimbo,Criança,Ребенок,Niño,子供,Child,Enfant,Criança,Niño,Çocuk,1,6.55,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+47,StgFace_FaceMatching_Young,Jongere,Young adult,Jeune,Heranwachsend,Giovane,Jovem,Молодой,Joven,ヤング,Young Adult,Jeune,Jovem,Joven,Genç,1,13.2,1,4.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+48,StgFace_FaceMatching_Adult,Volwassene,Adult,Adulte,Erwachsen,Adulto,Adulto,Взрослый,Adulto,大人,Adult,Adulte,Adulto,Adulto,Yetişkin,1,9.75,1,7.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+49,StgFace_FaceMatching_Old,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+50,StgFace_FaceMatching_Age??,??,??,??,???,???,??,??,(?),？？才,Age Unknown,Âge inconnu,Idade ??,Edad indeterminada,??,1,16.8,1,2.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+51,StgFace_FaceMatching_SexAge,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls　%ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,%ls %ls,1,6.0,1,6.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+52,StgFace_FaceMatching_Unlock00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+53,StgFace_FaceMatching_Unlock01Man,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+54,StgFace_FaceMatching_Unlock01Woman,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+55,StgFace_Face_PropertyBabyBoy,Baby (jongen),Baby Boy,Bébé garçon,Baby (Junge),Neonato,Menino,Маленький мальчик,Bebé niño,男の赤ちゃん 顔,Male Infant Face,Bébé garçon,Bebê menino,Bebé niño,Erkek Bebek,1,14.3,1,10.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+56,StgFace_Face_PropertyBabyGirl,Baby (meisje),Baby Girl,Bébé fille,Baby (Mädchen),Neonata,Menina,Маленькая девочка,Bebé niña,女の赤ちゃん 顔,Female Infant Face,Bébé fille,Bebê menina,Bebé niña,Kız Bebek,1,16.3,1,8.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+57,StgFace_Face_PropertyBaby,Baby,Baby,Bébé,Baby,Faccia di bebè,Bebé,Лицо младенца,Bebé,赤ちゃん 顔,Infant Face,Bébé,Bebê,Bebé,Bebek,1,12.1,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+58,StgFace_Face_PropertyBoy,Jongen,Boy,Garçon,Junge,Bambino,Rapaz,Мальчик,Niño,男の子 顔,Male Child Face,Garçon,Menino,Niño,Erkek Çocuk,1,12.85,1,10.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+59,StgFace_Face_PropertyGirl,Meisje,Girl,Fille,Mädchen,Bambina,Rapariga,Девочка,Niña,女の子 顔,Female Child Face,Fille,Menina,Niña,Kız Çocuk,1,14.85,1,8.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+60,StgFace_Face_PropertyChild,Kind,Child,Enfant,Kind,Faccia di bimbo,Criança,Лицо ребенка,Niño,子供な顔,Child Face,Enfant,Criança,Niño,Çocuk,1,12.85,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+61,StgFace_Face_PropertyYoungMan,Jongeman,Youth,Jeune homme,Junger Herr,Ragazzo,Rapaz,Юноша,Chico,ヤングな男性 顔,Young Male Face,Jeune homme,Garoto,Chico,Genç Erkek,1,13.75,1,9.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+62,StgFace_Face_PropertyYoungWoman,Jongedame,Young Lady,Jeune femme,Junge Dame,Ragazza,Rapariga,Девушка,Chica,ヤングな女性 顔,Young Female Face,Jeune femme,Garota,Chica,Genç Kadın,1,15.75,1,9.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+63,StgFace_Face_PropertyYoung,Jongere,Young Adult,Jeune,Heranwachsend,Faccia giovane,Jovem,Молодое лицо,Joven,ヤングな顔,Young Face,Jeune,Jovem,Joven,Genç Yetişkin,1,13.2,1,11.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+64,StgFace_Face_PropertyMan,Man,Man,Homme,Mann,Adulto,Homem,Мужчина,Hombre,大人の男性 顔,Adult Male Face,Homme,Homem,Hombre,Erkek,1,13.3,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+65,StgFace_Face_PropertyWoman,Vrouw,Woman,Femme,Frau,Adulta,Mulher,Женщина,Mujer,大人の女性 顔,Adult Female Face,Femme,Mulher,Mujer,Kadın,1,15.3,1,4.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+66,StgFace_Face_PropertyAdult25,Volwassene,Adult,Adulte,Erwachsen,Faccia adulta,Adulto,Лицо взрослого,Adulto,大人な顔,Adult Face,Adulte,Adulto,Adulto,Yetişkin,1,11.6,1,7.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+67,StgFace_Face_PropertyGentleman,Heer,Gentleman,Homme âgé,Herr,Anziano,Senhor,Пожилой мужчина,Señor,紳士な顔,Older Male Face,Aîné,Senhor,Señor,Beyefendi,1,13.5,1,8.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+68,StgFace_Face_PropertyLady,Dame,Lady,Femme âgée,Dame,Anziana,Senhora,Пожилая женщина,Señora,淑女な顔,Older Female Face,Aînée,Senhora,Señora,Hanımefendi,1,15.5,1,10.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+69,StgFace_Face_PropertyAdult60,Volwassene,Adult,Adulte,Senior,Faccia anziana,Adulto,Пожилое лицо,Adulto,大人な顔,Older Face,Adulte,Adulto,Adulto,İleri Yaş,1,12.6,1,7.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+70,StgFace_Face_PropertyMale,Man,Male,Homme,Männlich,Maschio,Homem,Мужской,Hombre,年令不詳の男顔,"Male, Age ??",Homme ,Masculino / Idade ??,Hombre,Erkek,1,17.35,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+71,StgFace_Face_PropertyFemale,Vrouw,Female,Femme,Weiblich,Femmina,Mulher,Женский,Mujer,年令不詳の女顔,"Female, Age ??",Femme,Feminino / Idade ??,Mujer,Kadın,1,16.35,1,4.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+72,StgFace_Face_Property??,Onbekend,Unidentified,Non identifié,Nicht ermittelbar,Non identificato,Desconhecido,Неизвестно,Desconocido,年令性別不詳顔,"Sex ??, Age ??",Non identifié,Sexo ?? / Idade ??,Desconocido,Belirsiz,1,15.55,1,6.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+73,StgFace_06,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+74,StgFace_Game_Score,Score,Score,Score,Score,Punti,Pontuação,Очки,Puntuación,スコア,Score,Pointage,Pontos,Puntuación,Skor,1,9.55,1,4.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+75,StgFace_Game_Perfect,Perfect!,Perfect!,Parfait !,Perfekt!,Perfetto!,Perfeito!,Отлично!,¡Perfecto!,パーフェクト!,Perfect!,Parfait!,Perfect!,¡Perfecto!,Mükemmel!,1,9.55,1,8.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+76,StgFace_08,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+77,StgFace_09,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+78,StgFace_10,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+79,StgFace_SubTitle_Explain_Shoot,Druk op  om te vuren!,Press  to fire!,Appuyez sur  pour tirer !,Drücke  zum Schießen!,Premi  per sparare!,Prima  para disparar!,"Нажми , чтобы выстрелить!",¡Pulsa  para lanzar bolas!,で、タマを発射！,Press  to fire,Appuyez sur  pour tirer!,Aperte  para disparar,¡Oprime  para lanzar bolas!,Ateş etmek için !,1,25.4,1,16.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+80,StgFace_SubTitle_Explain_Move,Beweeg het systeem om te richten.,Move the system to aim,Déplacez la console pour viser.,Bewege das System zum Zielen!,Muovi la console per puntare.,Movimente a consola para apontar.,"Двигай систему, чтобы прицелиться.",Apunta moviendo la consola.,本体を動かして 顔をねらおう,Aim Nintendo 3DS and fire away!,Visez en déplaçant la console et tirez!,Mire e atire com o Nintendo 3DS! ,Apunta moviendo la consola.,Nişan almak için konsolu hareket ettir,1,33.3,1,33.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+81,StgFace_SubTitle_Boss_Stage1_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+82,StgFace_SubTitle_Boss_Stage1_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+83,StgFace_SubTitle_Boss_Stage1_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+84,StgFace_SubTitle_Boss_Stage1_05,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+85,StgFace_SubTitle_Boss_Stage1_03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+86,StgFace_SubTitle_Boss_Stage1_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+87,StgFace_SubTitle_Boss_Stage3_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+88,StgFace_SubTitle_Darekato_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+89,StgFace_SubTitle_Darekato_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+90,StgFace_SubTitle_Darekato_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+91,StgFace_SubTitle_warning_hole_02,"Als je wordt geraakt, verlies je energie.",The meter drops as you take damage...,La jauge représente votre énergie...,Die Energie sinkt mit jedem Treffer!,"Più danni subisci, meno energia ti resta!","Ao sofrer danos, a barra desce...",Повреждения уменьшают индикатор!,La barra se irá vaciando si te alcanzan.,ダメージを受けると減ってしまう,The meter drops as you take damage...,La jauge représente votre énergie...,A barra diminui se você for atingido!,La barra se irá vaciando si te dañan.,Hasar aldıkça gösterge azalır...,1,35.5,1,27.35,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+92,StgFace_SubTitle_warning_hole_00,"Als je energie op is, heb je verloren!","If the meter runs out, it's game over!","Quand elle est vide, vous avez perdu !",Ohne Energie ist das Spiel vorbei!,"Se finisce l'energia, hai perso!",Perderá se a barra se esgotar!,Если индикатор пуст — игра окончена!,Si se vacía del todo... ¡se acabó!,なくなると ゲームオーバー!,"If the meter runs out, it's game over!","Quand la jauge est vide, c'est perdu!","Se a barra acabar, você perde!",Si se vacía del todo... ¡será el fin!,Gösterge biterse oyun biter!,1,32.65,1,25.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+93,StgFace_SubTitle_warning_hole_03,Waarschuwing: toestand kritiek!,Keep an eye on the damage meter!,Surveillez votre jauge d'énergie !,Warnung: Kritisches Niveau erreicht!,Occhio a non farti colpire!,Fique atento à barra de danos!,Следи за индикатором повреждений!,¡Procura que no te hagan daño!,ダメージ注意!,Keep an eye on the damage meter!,Surveillez votre jauge d'énergie!,Fique de olho na barra de vida!,¡Procura que no te hagan daño!,Hasar göstergesine dikkat!,1,32.0,1,23.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+94,StgFace_SubTitle_warning_hole_01,O nee! Je hebt bijna geen energie meer!,You can't take much more damage!,Danger ! La situation devient critique !,Vorsicht! Energiestand kritisch!,Non puoi farti colpire ancora!,Não pode sofrer muito mais danos!,Повреждения слишком велики!,¡Cuidado! ¡No aguantarás mucho más!,ピンチ!  ダメージ注意!,You can't take much more damage!,Vous êtes au bord de la catastrophe!,A sua vida está quase acabando!,¡Cuidado! ¡No aguantarás mucho más!,Bir darbeye daha dayanamayabilirsin!,1,34.1,1,32.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+95,StgFace_SubTitle_Hint,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+96,StgFace_SubTitle_Hint_faceBomb,Bommen gereed! Gebruik ze met !,A face bomb! Press  to use it!,Bombe prête ! Appuyez sur  !,Gesichtsbomben bereit! Wirf mit !,Una bomba faccia! Premi  per usarla!,Uma bomba facial! Prima  para usá-la!,"Бомба для лица! Бросай, нажимая !",¡Una cara-bomba! ¡Lánzala con !,顔ボム ゲット!　ピンチの時はで,You got a bomb! Push  to use it!,Vous avez une bombe! Appuyez sur !,Uma bomba! Aperte  para lançá-la!,¡Una cara-bomba! ¡Lánzala con !,Yüz Bombası! Kullanmak için !,1,33.7,1,26.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+97,StgFace_14,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+98,StgFace_Game_GroupBonus,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+99,StgFace_Game_Explain_Pause,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+100,StgFace_Game_Sleep,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+101,StgFace_Game_Pause,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+102,StgFace_Game_Pause_End?,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+103,StgFace_Result_Score,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+104,StgFace_Result_HighScore,Record,High Score,Meilleur score,Highscore,Record punti,Recorde,Рекорд,Récord,ハイスコア,High Score,Record,Recorde,Récord,Rekor,1,12.35,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+105,StgFace_Result_HighScore_Renew,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+106,StgFace_Result_GetFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+107,StgFace_Result_GetFace_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+108,StgFace_Result_GetFace_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+109,StgFace_Result_MissFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+110,StgFace_Result_MissFace_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+111,StgFace_Result_MissFace_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+112,StgFace_Result_ReleaseFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+113,StgFace_FaceRecord,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+114,StgFace_FaceRecord_Yes,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+115,StgFace_FaceRecord_No,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+116,StgFace_FaceRecord_Recording,Bezig met opslaan...,Saving...,Sauvegarde...,Speichervorgang...,Salvataggio in corso...,A guardar...,Идет сохранение...,Guardando...,記録中です,Saving...,Sauvegarde...,Salvando...,Guardando...,Kaydediliyor...,1,19.3,1,12.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+117,StgFace_FaceRecord_TheDate,%02d-%02d-%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,%02d-%02d-%d,%d年%d月%d日,%d/%d/%d,%02d/%02d/%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,1,13.0,1,12.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+118,StgFace_FaceRecord_TheDate_00,DD-MM-YYYY,DD/MM/YYYY,DD/MM/YYYY,DD.MM.YYYY,GG/MM/AAAA,DD/MM/YYYY,DD.MM.YYYY,DD-MM-YYYY,YYYY年MM月DD日,MM/DD/YYYY,DD/MM/YYYY,DD/MM/YYYY,DD/MM/YYYY,GG.AA.YYYY,1,10.4,1,9.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+119,StgFace_FaceRecord_Retake,Opnieuw,Retake,Reprendre,Ersetzen,Rifai,Outra Foto,Еще раз,Otra foto,撮りなおす,Retake,Reprendre,Outra foto,Otra foto,Tekrar Çek,1,9.7,1,9.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+120,StgFace_FaceRecord_Retake_Ok,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+121,StgFace_FaceRecord_NewFace,"Nieuw
+gezicht",New Face,"Nouveau
+visage","Neues
+Gesicht","Nuova
+faccia","Nova
+Cara",Новое,"Nueva
+cara",新顔,New Face,"Nouveau
+visage","Nova
+cara","Nueva
+cara",Yeni Yüz,2,7.7,1,7.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+122,StgFace_FaceRecord_Full,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+123,StgFace_FaceRecord_ Delete_WhichFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+124,StgFace_FaceRecord_ Delete_Stop,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+125,StgFace_FaceRecord_ Delete_Deleted,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+126,StgFace_ThankYou,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+127,StgFace_15,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+128,StgFace_SeqTitle_Record_Top,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+129,StgFace_SeqTitle_Record_Property,Gekozen gezicht:,Selected face,Visage choisi,Details,Faccia scelta,Cara selecionada,Выбранное лицо,Cara elegida,選ばれた顔,Selected Face,Visage choisi,Cara selecionada,Cara elegida,Seçili yüz,1,14.6,1,8.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+130,StgFace_SeqTitle_Record_CollectionDate,Ontmoet op:,Date Met,Première rencontre,Zuerst aufgetaucht:,Data di incontro,Primeiro Encontro,Встречено,Primer encuentro,出会った日,Met On,Première rencontre,Primeiro encontro,Primer encuentro,Tanışma tarihi,1,18.05,1,12.35,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+131,StgFace_SeqTitle_Record_Appearance,Gekozen:,Times chosen,Sélections,Bisherige Auftritte:,Numero di apparizioni,Vezes escolhida,Выбиралось,Veces seleccionada,選ばれた回数,Appearances,Sélections,Aparições,Veces seleccionada,Seçilme sayısı,1,18.4,1,11.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+132,StgFace_SeqTitle_Record_AppearanceData,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+133,StgFace_SeqTitle_Record_NotLike,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+134,StgFace_SeqTitle_Record_Expressive_Laugh,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+135,StgFace_SeqTitle_Record_Expressive_Cry,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+136,StgFace_SeqTitle_Record_Expressive_Angry,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+137,StgFace_SeqTitle_Record_Expressive,Uitdrukking,Expression,Expression,Grimasse,Espressione,Expressão,Выражение,Expresiones,次の表情に,Expression,Expression,Expressão,Expresiones,İfade,1,10.55,1,4.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+138,StgFace_SeqTitle_Record_Delete_Top,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+139,StgFace_SeqTitle_Record_Delete,Wissen,Delete,Effacer,Löschen,Cancella,Apagar,Удалить,Borrar,消去,Delete,Effacer,Deletar,Borrar,Sil,1,7.1,1,2.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+140,StgFace_SeqTitle_Record_Adjust_Top,Aanpassen,Adjust,Ajuster,Zuschneiden,Modifica,Ajustar,Подогнать,Ajustar,位置あわせ,Adjust,Ajuster,Ajustar cara,Ajustar,Ayarla,1,11.5,1,5.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+141,StgFace_SeqTitle_Record_Adjust,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+142,StgFace_SeqTitle_Record_SexAge,Geslacht/leeftijd,Gender/Age,Sexe / Âge,Daten,Sesso/età,Género/Idade,Пол/возраст,Sexo/Edad,性別・年令,Info,Sexe / Âge,Mudar sexo / idade,Sexo/Edad,Cinsiyet/Yaş,1,16.25,1,11.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+143,StgFace_SeqTitle_Record_Sex_Baby,Tot en met 3 jaar,Up to 3 years,Jusqu'à 3 ans,Bis zu 3 Jahre,Fino a 3 anni,Até aos 3 anos,До 3 лет,Hasta 3 años,～3才,Up to 3 years,Jusqu'à 3 ans,De 0 a 3 anos,Hasta 3 años,3 yaşa kadar,1,15.2,1,11.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+144,StgFace_SeqTitle_Record_Sex_Child,4-9 jaar,4 to 9 years,Entre 4 et 9 ans,4-9 Jahre,Da 4 a 9 anni,4-9 anos,4-9 лет,De 4 a 9 años,4～9才,4-9 years,Entre 4 et 9 ans,De 4 a 9 anos,De 4 a 9 años,4-9 yaş,1,14.0,1,6.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+145,StgFace_SeqTitle_Record_Sex_Young,10-29 jaar,10 to 29 years,Entre 10 et 29 ans,10-29 Jahre,Da 10 a 29 anni,10-29 anos,10-29 лет,De 10 a 29 años,10～29才,10 to 29 years,Entre 10 et 29 ans,De 10 a 29 anos,De 10 a 29 años,10-29 yaş,1,16.2,1,8.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+146,StgFace_SeqTitle_Record_Sex_Adult,30-49 jaar,30 to 49 years,Entre 30 et 49 ans,30-49 Jahre,Da 30 a 49 anni,30-49 anos,30-49 лет,De 30 a 49 años,30～49才,30 to 49 years,Entre 30 et 49 ans,De 30 a 49 anos,De 30 a 49 años,30-49 yaş,1,16.2,1,8.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+147,StgFace_SeqTitle_Record_Sex_Old,Ouder dan 50 jaar,Over 50 years,Plus de 50 ans,Über 50 Jahre,Oltre i 50 anni,Mais de 50 anos,Более 50 лет,Más de 50 años,50才～,Over 50 years,Plus de 50 ans,Mais de 50 anos,Más de 50 años,50 yaş üstü,1,15.9,1,10.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+148,StgFace_SeqTitle_Record_Adjust_ExplainAbove00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+149,StgFace_SeqTitle_Record_Adjust_ExplainAbove01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+150,StgFace_SeqTitle_Record_Adjust_ExplainAbove,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+151,StgFace_SeqTitle_Record_Adjust_Explain,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+152,StgFace_SeqTitle_Record_Delete?,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+153,StgFace_PutFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+154,StgFace_PutFace_PutFaceButton ,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+155,StgFace_PutFace_Explain_PutFaceButton ,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+156,StgFace_PutFace_PleaseChooseEnemy,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+157,StgFace_PutFace_PleaseChooseFace,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+158,StgFace_SeqTitle_CastingList,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+159,StgFace_SeqTitle_Record_Boss,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+160,StgFace_SeqTitle_Record_SmallFry00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+161,StgFace_SeqTitle_Record_SmallFry01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+162,StgFace_SeqTitle_Record_SmallFry02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+163,StgFace_SeqTitle_Record_SmallFry03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+164,StgFace_SeqTitle_Record_SmallFry04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+165,StgFace_SeqTitle_Record_SmallFry05,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+166,StgFace_Dialog_OutCamera,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+167,StgFace_Dialog_Congratulation,Gefeliciteerd!,Congratulations!,Félicitations !,Glückwunsch!,Complimenti!,Parabéns!,Поздравляем!,¡Enhorabuena!,おめでとうございます!,Congratulations!,Félicitations!,Parabéns!,¡Felicidades!,Tebrikler!,1,14.65,1,8.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+168,StgFace_Dialog_UnlockOpenOutCamera,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+169,StgFace_Dialog_UnlockRecord,"Je hebt een gezicht bemachtigd!
+De optie VERZAMELING is
+aan het menu toegevoegd!","You've collected a face!
+Face Collection has been
+added to the menu!","Un visage a été capturé !
+Vous pouvez maintenant choisir
+Collection dans le menu !","Du hast ein Gesicht gefangen!
+„Gesichtergalerie“ wurde dem
+Hauptmenü hinzugefügt.","Hai salvato una faccia!
+Ora l'opzione Collezione
+è stata aggiunta al menu!","Guardou uma cara!
+O modo Coleção foi
+adicionado ao menu.","Тебе удалось собрать лицо!
+Коллекция лиц добавлена в меню!","¡Has conseguido una cara y el modo
+Colección se ha añadido al menú!","顔が登録されたので
+「顔コレクション」が
+選べるようになりました!","You saved a new face!
+Face Collection has been
+added to the menu!","Un visage a été sauvegardé!
+Vous pouvez maintenant choisir
+Collection dans le menu!","Você salvou uma cara!
+A ""Galeria de caras"" foi 
+adicionada ao menu!","¡Has guardado una cara y el modo
+Colección se ha añadido al menú!","Bir yüz yakaladın!
+Yüz Koleksiyonu artık
+menüde!",3,30.3,3,18.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+170,StgFace_Dialog_UnlockStage2,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+171,StgFace_Dialog_UnlockCasting,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+172,StgFace_Dialog_UnlockStage3,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+173,StgFace_Dialog_UnlockStage4,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+174,StgFace_Dialog_UnlockStage5,"Je verzameling is uitgebreid!
+Nu kun je levels kiezen in
+Demonstratiegezichten!","Your face collection has expanded!
+Now you can select stages in
+Share the Fun!","Votre collection de visages
+s'est agrandie ! Vous pouvez
+maintenant choisir votre stage
+en mode Mission éclair !","Deine Gesichtergalerie ist gewachsen!
+Du kannst nun im „Vorführmodus“
+einzelne Stufen direkt anwählen!","La tua collezione cresce!
+Ora puoi scegliere diversi
+livelli in Gara di facce.","A sua Coleção cresceu!
+Agora já pode selecionar níveis no
+Modo Partilhado!","Твоя коллекция лиц расширилась!
+Теперь ты можешь выбирать уровни
+в режиме Покажи другу!","¡Tu colección de caras ha
+aumentado! ¡Ahora puedes elegir
+fases en el modo Demostración!","新しい顔が増えたので、
+「遊んでもらう」で
+ステージが選べるようになりました!","Your face collection has expanded!
+You can now select Show a Friend!","Votre collection de visages
+s'est agrandie! Vous pouvez
+maintenant choisir votre
+niveau en mode Jeu éclair!","A sua galeria de caras cresceu!
+Agora já pode selecionar fases no
+modo amigo!","¡Tu colección de caras ha
+aumentado! ¡Ahora puedes elegir
+fases en el modo Demostración!","Yüz koleksiyonun büyüdü!
+Artık Neşeyi Paylaş!
+modunda bölüm seçebilirsin!",4,33.0,3,23.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+175,StgFace_Dialog_UnlockStage6,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+176,StgFace_Dialog_UnlockCollection,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+177,StgFace_Lower_ADecide,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+178,StgFace_Lower_ANext,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+179,StgFace_Lower_PadSelect_ADecide,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+180,StgFace_Lower_PadSelect_ADecide_BBack,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+181,StgFace_Lower_PadSelect_ACasting_BBack,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+182,StgFace_Lower_PadAdjust_ADecide_BBack,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+183,StgFace_Lower_PadAdjust_Adjust,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+184,StgFace_Game_Pause_Explain,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+185,StgFace_Game_Explain_Home, Terug naar het HOME-menu,: Return to HOME Menu, Retourner au menu HOME, Zurück zum HOME-Menü, Torna al menu HOME,: Regressar ao Menu HOME, — вернуться в меню HOME , Volver al menú HOME,を押すとHOMEメニューにもどります,Press  to go to the HOME Menu, Retourner au menu HOME,: Voltar ao menu HOME, Volver al menú HOME,: HOME Menüsüne dön,1,27.9,1,19.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+186,StgFace_TitleMenu_Button00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+187,StgFace_TitleMenu_Button01,Spelen,Play,Campagne,Herausforderung,Gioca,Jogar,Играть,Jugar,遊ぶ,Play,Jouer,Jogar,Jugar,Oyna,1,15.0,1,4.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+188,StgFace_TitleMenu_Button02,Verzameling,Face Collection,Collection,Gesichtergalerie,Collezione,Coleção,Коллекция лиц,Colección,顔コレクション,Face Collection,Collection,Galeria de caras,Colección,Yüz Koleksiyonu,1,14.65,1,13.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+189,StgFace_TitleMenu_Button03,Demonstratie,Share the Fun!,Mission éclair,Vorführmodus,Gara di facce,Modo Partilhado,Покажи другу!,Demostración,遊んでもらう,Show a Friend!,Jeu éclair,Modo amigo,Demostración,Neşeyi Paylaş!,1,13.8,1,12.15,OK,OK,OK,"EU “Share the Fun!”, US “Show a Friend!” ve Japonca işlev karşılaştırılarak kısa, oyunbaz ad seçildi: “Neşeyi Paylaş!”.",Shipped Latin localizations suggest this should fit.
+190,StgFace_Button00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+191,StgFace_Button08,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+192,StgFace_Button01,Aanpassen,Customise,Paramètres,Anpassen,Personalizza,Personalizar,Подогнать,Editar,顔の設定,Settings,Paramètres,Modificar,Editar,Özelleştir,1,11.1,1,8.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+193,StgFace_Button06,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+194,StgFace_Button02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+195,StgFace_Button03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+196,StgFace_Button04,Opnieuw,Play Again,Réessayer,Erneut spielen,Gioca di nuovo,Jogar Outra Vez,Играть еще раз,Repetir,もう一度遊ぶ,Play Again,Réessayer,Jogar outra vez,Jugar otra vez,Tekrar Oyna,1,14.2,1,10.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+197,StgFace_Button05,Stoppen,Cancel,Annuler,Beenden,Esci,Sair,Отмена,Cancelar,やめる,Cancel,Annuler,Cancelar,Cancelar,İptal,1,7.55,1,4.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+198,StgFace_Button07,Wissen,Delete,Effacer,Löschen,Cancella,Apagar,Удалить,Borrar,消去する,Delete,Effacer,Deletar,Borrar,Sil,1,7.1,1,2.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+199,StgFace_PNote,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+200,StgFace_FaceMatching_Diagnosis,Bezig met analyseren,Analysing...,Analyse...,Überprüfung...,Analisi in corso...,A analisar...,Идет анализ...,Analizando...,診断中,Analyzing photo...,Analyse...,Analizando...,Analizando...,Analiz ediliyor...,1,18.3,1,13.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+201,StgFace_Initialize,Voorbereiden...,Preparing...,Préparation...,Vorbereitung...,"Preparazione
+in corso...",A preparar...,Идет подготовка...,Preparando...,準備中です…,Preparing...,Préparation...,Preparando...,Preparando...,Hazırlanıyor...,2,13.2,1,12.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+202,StgFace_WhichFace,Met welk gezicht wil je spelen?,Which face do you want to play with?,Avec quel visage voulez-vous jouer ?,Mit welchem Gesicht spielen?,Che faccia vuoi usare per giocare?,Que cara deseja usar?,Какое лицо выбрать для игры?,¿Qué cara quieres usar?,どの顔で遊びますか？,Select a face to play with!,Jouer avec quel visage?,Qual cara deseja usar?,¿Qué cara quieres usar?,Hangi yüzle oynamak istersin?,1,32.15,1,25.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+203,StgFace_Figure,Systeem,System,Console,System,Console,Consola,Система,Consola,本体,System,Console,Console,Consola,Konsol,1,7.2,1,5.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+204,StgFace_Dialog_2face,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+205,StgFace_Dialog_4face,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+206,StgFace_New,NIEUW,NEW,NOUVEAU,NEU,NUOVO,Novo,НОВОЕ,¡Nuevo!,NEW,NEW!,NOUVEAU,NOVA!,¡Nuevo!,YENİ,1,7.2,1,3.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+207,StgFace_Menu_00,Selecteren,Select,Sélection,Auswählen,Seleziona,Selecionar,Выбрать,Seleccionar,選択,Select,Sélection,Selecionar,Seleccionar,Seç,1,10.1,1,3.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+208,StgFace_Menu_01,Bevestigen,Confirm,OK,Okay,OK,Confirmar,OK,Aceptar,決定,Confirm,OK,Confirmar,Aceptar,Onayla,1,9.55,1,5.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+209,StgFace_?,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+210,StgFace_Darekato_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+211,StgFace_Darekato_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+212,StgFace_Darekato_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+213,StgFace_Darekato_03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+214,StgFace_Darekato_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+215,StgFace_Darekato_05,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+216,StgFace_Darekato_06,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+217,StgFace_Darekato_ShowFace_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+218,StgFace_Darekato_ShowFace_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+219,StgFace_HintDialog_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+220,StgFace_HintDialog_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+221,StgFace_HintDialog_03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+222,StgFace_HintDialog_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+223,StgFace_HintDialog_05,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+224,StgFace_HintDialog_06,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+225,StgFace_HintDialog_07,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+226,StgFace_HintDialog_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+227,StgFace_MemoryFull,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+228,StgFace_Lower_FaceDefeated,Geredde gezichten,Rescued Faces,Visages secourus,Gerettete Gesichter,Facce recuperate,Caras Resgatadas,Спасенные лица,Caras rescatadas,助けた顔,Rescued Faces,Visages sauvés,Caras resgatadas,Caras rescatadas,Kurtarılan Yüzler,1,18.05,1,15.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+229,StgFace_Title_Pnote,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+230,StgFace_Result_kao,Gezichtsbonus,Face Bonus,Bonus visage,Gesichtsbonus,Faccia bonus,Cara de Bónus,Бонус за лицо,Bonificación:,顔ボーナス,Face Bonus,Bonus visage,Bônus,Bonificación:,Yüz Bonusu,1,12.55,1,9.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+231,StgFace_TotalResult_01,Score,Total Score,Score total,Gesamtscore,Punteggio totale,Pontuação Total,Всего очков,Puntuación total:,トータルスコア,Total Score,Pointage total,Resultado final,Puntuación total:,Toplam Skor,1,15.15,1,10.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+232,StgFace_FaceRecord_ new,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+233,StgFace_scorerank_combo,Maximale combo,Max Combo,Meilleur combo,Maximale Combo,Super combo,Combinação Máxima,Макс. комбинация,Combo máximo:,最大コンボ,Max Combo,Meilleur combo,Melhor combo,Combo máximo,Maks. Kombo,1,16.2,1,10.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+234,StgFace_screencapture_00,Niet opslaan,Don't Save,Suite,Verwerfen,Non salvare,Não guardar,Не сохранять,No guardar,しない,Don't,Non,Não salvar,No guardar,Kaydetme,1,10.6,1,8.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+235,StgFace_screencapture_01,Opslaan,Save,Sauvegarder,Speichern,Salva,Guardar,Сохранить,Guardar,記録する,Save,Sauvegarder,Salvar,Guardar,Kaydet,1,11.0,1,6.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+236,StgFace_capturedialog_00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+237,StgFace_capturedialog_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+238,StgFace_score_00,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,%d,1,2.2,1,2.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+239,StgFace_score_01,%d%03d,"%d,%03d",%d %03d,%d %03d,%d%03d,%d%03d,%d%03d,%d%03d,%d%03d,"%d,%03d",%d %03d,%d %03d,%d%03d,%d.%03d,1,7.15,1,7.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+240,StgFace_score_02,%d %03d,"%d,%03d",%d %03d,%d %03d,%d.%03d,%d.%03d,%d %03d,%d %03d,%d%03d,"%d,%03d",%d %03d,%d %03d,%d %03d,%d.%03d,1,7.15,1,7.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+241,StgFace_FaceMatching_guide,"Plaats mond en ogen
+binnen de lijnen, en
+druk dan op .","Align mouth and
+eyes with the guides,
+then press .","Alignez la bouche et les
+yeux avec les repères,
+puis appuyez sur .","Richte Augen und Mund
+an der Markierung aus
+und drücke dann .","Allinea occhi e bocca
+con gli indicatori, poi
+premi .","Enquadre os olhos e a
+boca nas linhas e prima
+.
+","Совмести глаза
+и рот с метками,
+затем нажми .","Haz coincidir la boca
+y los ojos con la guía
+y pulsa .","目と口をガイドにあわせ
+を押してください","Align the eyes
+and mouth with the
+guides, then press .","Alignez la bouche et les
+yeux avec les repères,
+puis appuyez sur .","Enquadre os olhos e a
+boca nas linhas e 
+aperte .","Haz coincidir la boca
+y los ojos con la guía
+y oprime .","Ağzını ve gözlerini
+kılavuza hizala,
+sonra  bas.",4,20.2,3,15.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+242,StgFace_FaceMatching_ok,Is dit gezicht oké?,Is this face OK?,"Ce portrait vous
+convient-il ?",Ist dieses Gesicht okay?,Va bene questa faccia?,Que tal esta cara?,Это лицо в порядке?,¿Te parece bien así?,この顔で いいですか？,Is this face OK?,"Cette photo vous
+convient-elle?",OK?,¿Te parece bien así?,Bu yüz uygun mu?,2,21.15,1,14.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+243,StgFace_demo_lr,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+244,StgFace_friend_runk_ymd,%02d-%02d-%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,%02d-%02d-%d,%d年%d月%d日,%d/%d/%d,%02d/%02d/%d,%02d/%02d/%d,%02d/%02d/%d,%02d.%02d.%d,1,13.0,1,12.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+245,StgFace_friend_runk_nin,　,　,　,　,　,　,　,　,人,　,　,　,　,　,1,1.0,1,1.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+246,StgFace_Information, Advies, Advice, Info, Information, Consiglio, Conselhos, Совет,  Información,ひとこと, Advice, Info, Ajuda,  Información, İpucu,1,13.1,1,6.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+247,StgFace_SeqTitle_StageSelect_gameselect,Kies een level!,Select a stage!,Choisissez un stage !,Wähle eine Stufe!,Scegli un livello!,Escolha um nível!,Выбери уровень!,¡Elige una fase!,ステージを選んでください,Select a stage!,Choisissez un niveau!,Escolha uma fase!,¡Elige una fase!,Bir bölüm seç!,1,18.2,1,11.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+248,StgFace_FaceCollection_ufo,"Er is een ufo geland!
+De ufo ontvoert gezichten uit
+Nintendo 3DS Camera.","A UFO has landed! The UFO
+will abduct faces from
+Nintendo 3DS Camera.","Un OVNI ! Il va capturer
+des visages sauvegardés
+dans l'application photo.","Ein UFO ist aufgetaucht!
+Es entführt Gesichter aus
+Nintendo 3DS-Kamera.","Atterra un UFO! Delle facce
+saranno rapite dalla Fotocamera
+Nintendo 3DS!","Surgiu um OVNI! O OVNI irá
+raptar caras da
+Câmara Nintendo 3DS. ","Приземлилось НЛО! Это НЛО
+похитит лица из приложения
+Камера Nintendo 3DS.","Ha aterrizado un OVNI que
+abducirá caras de Cámara
+de Nintendo 3DS.","UFOが着陸しました。
+ニンテンドー3DSカメラから
+顔を運んできてくれます。","Wow, a UFO has landed!
+This UFO will abduct faces
+from Nintendo 3DS Camera.","Un ovni! Il va capturer des
+visages sauvegardés dans
+l'application photo.","Nossa! Surgiu um OVNI!
+Este OVNI vai abduzir as caras
+da câmera Nintendo 3DS!","Ha aterrizado un OVNI que
+abducirá caras de Cámara
+de Nintendo 3DS.","Bir UFO indi! UFO,
+Nintendo 3DS Kamera’dan
+yüzleri kaçıracak.",3,28.35,3,21.75,OK,OK,OK,"UFO’nun yüz “kaçırması”, uzaylı kaçırma şakasını korumak için bilinçli olarak “kaçıracak” diye çevrildi.",Shipped Latin localizations suggest this should fit.
+249,StgFace_FaceCollection_list,Ufo-bemanning,UFO Crew,Équipage de l'OVNI,UFO-Besatzung,Equipaggio UFO,Pilotos do OVNI,Экипаж НЛО,Equipo OVNI,搭乗者リスト,UFO Crew,Équipage de l'ovni,Tripulação OVNI,Equipo OVNI,UFO Mürettebatı,1,15.4,1,14.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+250,StgFace_FaceCollection_retrieval,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+251,StgFace_FaceCollection_notfound,"Er zijn geen gezichten
+gevonden.",Couldn't find any faces.,Aucun visage n'a été trouvé.,Keine Gesichter gefunden.,"Non è stata trovata
+nessuna faccia...","Não foram encontradas
+caras.",Не удалось найти лица.,"No se ha encontrado
+ninguna cara.",顔が見つかりませんでした…,"Unable to find any faces 
+in Nintendo 3DS Camera
+photos.",Aucun visage n'a été trouvé.,"Não foi possível encontrar 
+nenhuma cara nas fotos
+da câmera Nintendo 3DS.","No se ha encontrado ninguna
+cara en la aplicación Cámara
+de Nintendo 3DS.",Hiç yüz bulunamadı.,3,24.65,1,16.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+252,StgFace_FaceCollection_hint,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+253,StgFace_FaceCollection_found,"Ontvoering uit
+Nintendo 3DS Camera
+voltooid!","Abduction from
+Nintendo 3DS Camera
+complete!","La capture de visages
+depuis l'application
+photo est terminée !","In Nintendo 3DS-Kamera
+hat es einen perfiden Fall von
+Facenapping gegeben!","Si sono verificati dei rapimenti
+di facce dalla Fotocamera
+Nintendo 3DS!","Rapto a partir da Câmara 
+Nintendo 3DS concluído!
+","Лица из приложения Камера
+Nintendo 3DS похищены!","¡La abducción de caras de
+Cámara de Nintendo 3DS
+se ha completado!","3DSカメラから
+顔を連れて来ました!","Abduction from Nintendo
+3DS Camera complete!","La capture de visages
+apparaissant dans l'appareil
+photo est terminée!","Concluída a abdução pela
+câmera Nintendo 3DS !","¡La abducción de caras de
+Cámara de Nintendo 3DS
+se ha completado!","Nintendo 3DS Kamera’dan
+yüz kaçırma
+tamamlandı!",3,27.05,3,21.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+254,StgFace_FaceCollection_list_title,Ufo-bemanning,UFO Crew,Équipage de l'OVNI,UFO-Besatzung,Equipaggio UFO,Pilotos do OVNI,Экипаж НЛО,Equipo OVNI,搭乗者リスト,UFO Crew,Équipage de l'ovni,Tripulação OVNI,Equipo OVNI,UFO Mürettebatı,1,15.4,1,14.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+255,StgFace_FaceCollection_overcapacity,Vol,Full,Plein,Voll,Completo,Cheia,Нет места,Llena,満　席,Full,Pleine,Cheia,Llena,Dolu,1,7.75,1,3.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+256,StgFace_FaceMatching_Male_Baby,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+257,StgFace_FaceMatching_Female_Baby,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+258,StgFace_FaceMatching_Male_Child,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+259,StgFace_FaceMatching_Female_Child,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+260,StgFace_FaceMatching_Male_Young,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+261,StgFace_FaceMatching_Female_Young,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+262,StgFace_FaceMatching_Male_Adult,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+263,StgFace_FaceMatching_Female_Adult,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+264,StgFace_SeqTitle_StageSelect_friend,Demonstratiegezichten,Demo Faces,Visages amis,Gesichter von Freunden,Amici,Modelos de Caras,Лица друзей,Amigos,遊んでくれた人,Friends Shown:,Visages amis :,Amigos:,Amigos,Konuk Yüzleri,1,20.55,1,11.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+265,StgFace_SeqTitle_StageSelect_friend_persons,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+266,StgFace_SeqTitle_StageSelect_unlock_st2,"Verzamel twee gezichten
+om dit level vrij te spelen.
+Probeer eens je familieleden
+te fotograferen!","Unlock this by collecting
+two faces. Try getting
+family members' faces!","Collectionnez deux visages
+pour jouer. Et si vous preniez
+en photo des membres de
+votre famille ?","Hierfür brauchst du zwei Gesichter!
+
+Vielleicht findest du welche
+in deiner Familie?","Per sbloccare questo gioco
+ti servono due facce.
+Scatta le foto dei membri
+della tua famiglia!","Desbloqueie este nível reunindo
+duas caras. Experimente com
+caras de familiares!","Открой этот уровень, собрав два
+лица. Попробуй сфотографи-
+ровать членов семьи!","Consigue dos caras para
+desbloquear esta fase.
+¡Prueba con las caras
+de tus familiares!","顔が2つ必要です。
+
+家族の顔を集めてみよう!","You need two faces to play this.
+
+Try getting your
+family members' faces!","Collectionnez deux visages
+pour jouer. Vous pourriez
+photographier les membres
+de votre famille!","Você precisa colecionar 2 caras
+para jogar esta fase.
+Experimente com caras
+da sua família!","Debes conseguir dos caras
+para desbloquear esta fase.
+¡Prueba con las caras
+de tus familiares!","Açmak için iki yüz topla.
+Aile bireylerinin
+yüzlerini çekmeyi dene!",4,31.4,3,20.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+267,StgFace_SeqTitle_StageSelect_unlock_st3a,"Verzamel drie gezichten
+om dit level vrij te spelen.
+Probeer je vrienden eens
+te fotograferen!","Unlock this by collecting
+three faces. Try getting
+your friends' faces!","Collectionnez trois visages pour
+jouer. Profitez-en pour tirer le
+portrait de quelques amis !","Hierfür brauchst du drei Gesichter!
+
+Hast du deine Freunde
+schon geknipst?","Per sbloccare questo gioco
+ti servono tre facce.
+Scatta le foto dei tuoi
+amici!","Desbloqueie este nível reunindo
+três caras. Experimente com
+caras de amigos!","Открой этот уровень, собрав три
+лица. Попробуй сфотографи-
+ровать своих друзей!","Consigue tres caras para
+desbloquear esta fase.
+¡Prueba con las caras
+de tus amigos!","顔が3つ必要です。
+
+友達の顔を集めてみよう!","You need three faces to play this.
+
+Try getting your
+friends' faces!","Collectionnez trois visages pour
+jouer. Prenez des photos de vos
+amis aussi!","Você precisa colecionar 3 caras
+para jogar esta fase.
+Experimente com caras
+dos seus amigos!","Consigue tres caras para
+desbloquear esta fase.
+¡Prueba con las caras
+de tus amigos!","Açmak için üç yüz topla.
+Arkadaşlarının
+yüzlerini çekmeyi dene!",4,31.2,3,20.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+268,StgFace_SeqTitle_StageSelect_unlock_st4,"Verzamel vijf gezichten om dit
+level vrij te spelen. Probeer
+eens gezichten uit tekeningen
+of foto's te fotograferen!","Unlock this by collecting
+five faces. Try taking
+photos of other photos,
+or even drawings!","Collectionnez cinq visages
+pour jouer. Essayez d'en
+photographier à partir de
+photos ou d'images !","Hierfür brauchst du fünf Gesichter!
+
+Wie wäre es mit Magazinen
+oder Zeichnungen?","Per sbloccare questo gioco
+ti servono cinque facce.
+Scatta le foto alle facce nei
+quadri o in altre foto!","Desbloqueie este nível reunindo
+cinco caras. Experimente com
+fotos de outras fotos ou de 
+ilustrações!","Открой этот уровень, собрав пять
+лиц. Попробуй сфотографировать
+лица на других фото или даже на
+рисунках!","Consigue cinco caras para
+desbloquear esta fase.
+¡Prueba con caras de fotos
+o ilustraciones!","顔が5つ必要です。
+
+イラストや、写真など
+動かない顔を集めてみよう!","You need five faces to play this.
+
+Try taking pictures of faces in
+drawings or other photos!","Collectionnez cinq visages
+pour jouer. Essayez d'en
+photographier à partir de
+photos ou d'images!","Você precisa colecionar 5 caras
+para jogar esta fase.
+Experimente tirar fotos de
+imagens ou fotos de caras!","Consigue cinco caras para
+desbloquear esta fase.
+¡Prueba con caras de fotos
+o ilustraciones!","Açmak için beş yüz topla.
+Fotoğraflardaki, hatta
+çizimlerdeki yüzleri çek!",4,31.65,3,21.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+269,StgFace_SeqTitle_StageSelect_unlock_st5,"???
+Probeer eens wat gezichten
+van vrienden te verzamelen
+in Demonstratie.","???
+Try collecting friends' faces
+using Share the Fun.","???
+Mission éclair vous
+permet de collectionner
+les visages de vos amis !","???
+Sammele fleißig Gesichter
+im „Vorführmodus“.","???
+Colleziona le facce dei tuoi
+amici con Gara di facce.","???
+Obtenha caras de amigos com
+o Modo Partilhado.","???
+Попробуй собрать лица друзей
+в режиме Покажи другу!","(?)
+Consigue caras de amigos
+con el modo Demostración.","？？？
+
+「遊んでもらう」で、
+友達の顔を集めてみよう。","???
+Try collecting friends' faces
+with Show a Friend!","???
+
+Collectionnez les visages de
+vos amis dans Jeu éclair!","???
+
+Colecione mais caras no
+modo amigo.","(?)
+
+Consigue caras de amigos con
+el modo Demostración.","???
+Arkadaşına oynatıp
+yüzlerini topla.",4,25.3,3,16.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+270,StgFace_SeqTitle_StageSelect_unlock_st6,"???
+Blijf die gezichten verzamelen! 
+Probeer ze eens te mengen
+in Nintendo 3DS Camera!","???
+Try merging faces in
+Nintendo 3DS Camera!
+Keep collecting!","???
+Fusionnez des visages avec
+l'appareil photo Nintendo 3DS
+pour enrichir votre collection !   ","???
+Hast du schon mal „Morphing“ in
+Nintendo 3DS-Kamera ausprobiert?
+Sammele mehr Gesichter!","???
+Hai già provato a unire due volti
+con la Fotocamera Nintendo 3DS?
+Colleziona altre facce!","???
+Colecione mais caras!
+Experimente fundir caras com a
+Câmara Nintendo 3DS!","???
+Собери еще больше лиц, напри-
+мер, с эффектом Наложение
+Камеры Nintendo 3DS!","(?)
+¡Fusiona caras con la aplicación
+Cámara de Nintendo 3DS y
+aumenta tu colección!","？？？
+
+ニンテンドー3DSカメラで顔合成を
+したり、たくさん顔を集めよう。","???
+Try merging faces in
+Nintendo 3DS Camera!
+Keep collecting!","???
+Fusionnez des visages grâce à
+l'appareil photo Nintendo 3DS.
+Enrichissez votre collection!","???
+Experimente fundir caras com
+a câmera Nintendo 3DS! 
+Colecione mais caras!","(?)
+¡Fusiona caras con la aplicación
+Cámara de Nintendo 3DS y
+aumenta tu colección!","???
+Nintendo 3DS Kamera’da
+yüzleri birleştir!
+Toplamaya devam et!",4,30.3,4,20.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+271,StgFace_SeqTitle_StageSelect_unlock_st3b,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+272,StgFace_FaceMatching_st1_first,"Maak eens een foto van
+iemands gezicht.","Try taking a photo of
+someone's face.","Essayez de prendre
+le visage de quelqu'un
+en photo.","Nimm das Gesicht von
+jemandem auf.","Prova a scattare la foto
+di qualche faccia.","Tire uma foto a uma 
+cara.","Попробуй кого-нибудь
+сфотографировать.","Saca una foto
+de una cara.","「誰かの顔」を
+写してみよう。","Try taking a photo
+of someone's face.","Essayez de prendre
+le visage de quelqu'un
+en photo.","Tire uma foto da cara de
+outra pessoa!","Saca una foto
+de una cara.","Birinin yüzünün
+fotoğrafını çek.",3,21.55,2,14.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+273,StgFace_FaceMatching_st2_first,"Maak eens een foto van
+een nieuw gezicht.","Try taking a photo of
+a new face.","Essayez de prendre
+un nouveau visage
+en photo.","Nimm ein neues
+Gesicht auf.","Prova a scattare la foto
+di una faccia nuova.","Tire uma foto a uma
+nova cara.","Попробуй сфотографи-
+ровать новое лицо.","Saca una foto de
+una cara nueva.","「まだ撮っていない顔」を
+写してみよう。","Try taking a photo
+of a new face.","Essayez de prendre
+un nouveau visage
+en photo.","Tire uma foto de uma 
+nova cara!","Saca una foto de
+una cara nueva.","Yeni bir yüzün
+fotoğrafını çek.",3,21.55,2,14.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+274,StgFace_FaceMatching_st3_first,"Maak eens een foto
+van iemand met een
+vierkant gezicht.","Try taking a photo
+of someone with
+a squarish face.","Essayez de trouver un
+visage qui vous évoque
+le soleil.","Suche nach einem
+kantigen Gesicht.","Prova a scattare la foto
+di una faccia bella come
+il sole!","Escolha uma pessoa
+com uma cara quadrada.","Попробуй сделать
+фотографию человека
+с квадратным лицом.","Busca una persona con
+la cara cuadrada.","「四角い顔の人」を
+撮ってみよう。","Take a photo of
+someone with a
+square face.","Essayez de trouver
+un visage carré.","Experimente tirar uma
+foto de uma cara 
+quadrada!","Busca una persona con
+la cara cuadrada.","Köşeli yüzlü
+birinin fotoğrafını
+çekmeyi dene.",3,21.55,3,16.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+275,StgFace_FaceMatching_st4_first,"Zoek eens iemand die
+inspiratie uitstraalt.","Try looking for
+someone who is
+a shining inspiration.","Tirez le portrait de
+quelqu'un de brillant
+et qui vous inspire.","Suche nach jemandem,
+der eine strahlende
+Inspiration darstellt.","Cerca una faccia
+che ispiri la tua
+vena artistica!","Escolha uma pessoa 
+com um ar inspirador.","Попробуй найти чело-
+века, который как
+вдохновение.","Busca una persona
+que te inspire.","「いま、輝いてる人」を
+探してみよう。","Look for someone
+who inspires you!","Trouvez quelqu'un de
+brillant qui vous inspire.","Procure uma pessoa
+que te inspire!","Busca una persona
+que te inspire.","Işıl ışıl, sana ilham
+veren birini bul.",3,21.35,2,15.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+276,StgFace_FaceMatching_arrow,"Dit zijn je gezichten
+tot nu toe.",These are your faces so far.,"Voici les visages que
+vous avez collectionnés
+jusqu'à maintenant.","Dies sind deine
+bisherigen Gesichter.","Da qui vedi le facce che
+hai collezionato finora.","Estas são as caras reunidas
+até ao momento.","Это твои лица
+на данный момент.","Estas son las caras
+que has conseguido
+hasta el momento.",いままでの顔は、こちらから。,Here are your faces so far...,"Voici les visages que
+vous avez collectionnés
+jusqu'à maintenant.","Estas são as caras que
+você tem.","Estas son las caras
+que has conseguido
+hasta el momento.","Topladığın yüzler
+burada.",3,25.15,2,14.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+277,StgFace_FaceMatching_crown,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+278,StgFace_capturedialog_description,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+279,StgFace_hint_button,Tip,Tips,Astuce,Tipp,Consiglio,Conselho,Совет,Consejo,ヒント,Tips,Astuces,Dicas,Consejos,İpuçları,1,8.0,1,6.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+280,StgFace_hint_stage1_enemy,"De brokstukken die op je af
+vliegen kun je neerschieten.","You can shoot down the rubble
+that comes flying towards you.","Tirez sur les débris qui vous foncent
+dessus pour dévier leur trajectoire.","Gegnerische Geschosse
+kannst du abschießen.","Puoi sparare ai frammenti
+che ti vengono contro.","Pode alvejar os destroços que são
+lançados contra si.","Ты можешь сбивать обломки,
+которые летят на тебя.","Puedes derribar los trozos
+de pared que vuelan hacia ti.",飛んでくる破片は、うち落とせる。,"You can shoot any wall fragments
+that come flying toward you!","Tirez sur les débris qui vous foncent
+dessus pour dévier leur trajectoire.","Você pode rebater os destroços
+que vêm voando na sua direção!","Puedes derribar los trozos
+de pared que vuelan hacia ti.","Üzerine uçan enkazı
+vurarak parçalayabilirsin.",2,32.2,2,22.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+281,StgFace_hint_stage1_boss,"Gebruik scherpe punten om door
+groene barrières heen te breken.",Use spikes to break green barriers.,"Utilisez les boules à pointes
+pour démolir la visière verte !","Verwende Stacheln, um grüne
+Barrieren zu brechen.","Usa le sfere con spine per
+rompere la maschera verde.","Utilize espigões para destruir as
+barreiras verdes.","Используй шипы, чтобы пробить
+зеленые заграждения.","Utiliza los pinchos para destruir
+la protección del jefe.",緑のバリアは、トゲで壊せる。,Use spikes to break green barriers.,"Utilisez des pointes pour
+démolir les barrières vertes!","Use os espinhos para destruir as
+barreiras verdes!","Utiliza las púas para
+destruir las barreras verdes.","Yeşil bariyerleri
+dikenlerle parçala.",2,31.15,2,16.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+282,StgFace_hint_stage2_enemy,"Deze vijand is alleen te
+verslaan als hij blauw is.","You can only defeat this enemy
+when it's blue.","Cet ennemi ne peut être
+vaincu que lorsqu'il est bleu.","Diesen Feind kannst du nur
+besiegen, wenn er gerade blau ist.","Puoi sconfiggere questi nemici
+solo quando diventano blu.","Só poderá derrotar este inimigo se
+este estiver a azul.","Ты можешь победить этого
+противника, только когда он
+станет синим.","Solo podrás derrotar a los enemigos
+que cambian de color cuando
+sean azules.",青い時しか倒せない。,"You can only defeat this enemy
+when it's blue.","Cet ennemi ne peut être
+éliminé que lorsqu'il est bleu.","Os inimigos que mudam de cor só
+podem ser derrotados quando estão
+azuis.","Solo podrás derrotar a los enemigos
+que cambian de color cuando
+sean azules.","Bu düşmanı yalnızca
+maviyken yenebilirsin.",3,31.35,2,19.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+283,StgFace_hint_stage2_boss,"Als je het echte gezicht niet te
+zien krijgt, mik dan hierop!","If the real face doesn't show itself...
+try here.","Si le vrai visage ne se montre pas...
+essayez de tirer ici.","Wenn sich das Gesicht nicht zeigen
+will, schieß einfach hierauf!","Se non vedi la vera faccia...
+Colpisci qui!","Se não conseguir ver a cara
+verdadeira... experimente aqui.","Если не видно настоящего лица...
+Попробуй здесь!","Si la cara de verdad se oculta,
+¡dispara donde indica la flecha!",どちらもニセ者の時は…この辺。,"If the real face doesn't show itself,
+try shooting here!","Si le vrai visage ne se montre pas,
+essayez de tirer ici.","Se não conseguir encontrar a cara
+verdadeira, atire aqui!","Si la cara de verdad se oculta,
+¡apunta aquí!","Gerçek yüz ortaya çıkmıyorsa...
+burayı dene.",2,32.6,2,27.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+284,StgFace_hint_stage3_enemy,Begin met de rode vijanden.,Go for the red ones first.,"Concentrez-vous d'abord
+sur les rouges.",Nimm dir zuerst die roten vor!,Sconfiggi prima quelli rossi.,Comece pelos inimigos vermelhos.,Начинай с красных.,Ve primero a por los rojos.,赤いのを先に。,Go for the red ones first!,"Concentrez-vous d'abord
+sur les rouges.",Comece pelos inimigos vermelhos!,Comienza primero con los rojos.,Önce kırmızıları indir.,2,28.4,1,18.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+285,StgFace_hint_stage3_boss,"Wat zou er gebeuren als je ze
+allemaal ondersteboven schiet?","What might happen if you flip
+them all over?","Que se passe-t-il si vous
+les retournez tous ?","Stelle alle Gesichter auf den Kopf,
+um den Obermotz anzugreifen!","Cosa succederà se capovolgi
+tutte le facce?","O que poderá acontecer se as virar
+todas ao contrário?","Интересно, что произойдет, если
+ты их все перевернешь?","¿Qué pasará si consigues darles
+la vuelta a todos los enemigos?",全部ひっくり返すと…。,"Flinging all of the faces back is
+the key to defeating this one!","Essayez de renvoyer tous les
+visages sur le boss...","Para pegar esta cara experimente 
+devolver todas as caras lançadas!","¿Qué pasará si consigues
+devolvérselas todas?","Hepsini ters çevirirsen
+ne olur dersin?",2,30.75,2,20.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+286,StgFace_hint_stage4_enemy,Kijk uit voor het spervuur!,Avoid rapid fire.,Attention aux tirs en rafales.,"Nimm dich vor dem
+Schnellfeuer in Acht!",Occhio ai colpi in sequenza!,Cuidado com os tiros contínuos.,Берегись быстрого обстрела.,¡Cuidado con los disparos rápidos!,連打危険。,Watch out for their rapid fire!,Attention à leurs tirs en rafale.,"Cuidado com os tiros contínuos do
+adversário.",¡Cuidado! ¡Disparan muy rápido!,Seri atışa dikkat.,2,29.8,1,15.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+287,StgFace_hint_stage4_boss,"Als de baas naar links draait, kaatst
+zijn straalaanval naar rechts!","When the boss rotates left,
+its beam attack goes right!","Le rayon laser du boss part dans
+le sens opposé à sa rotation !","Wenn der Boss sich nach
+links dreht, wird der Strahl
+nach rechts reflektiert!","Quando il boss si sposta a destra
+i suoi attacchi si riflettono a sinistra!","Quando o boss vira à esquerda, o
+ataque de luz vai para a direita!","Если босс поворачивается влево,
+его атака направлена вправо!","¡Cuando el jefe gira a la izquierda,
+el rayo va hacia la derecha!",ボスが左回りの時は、ビームは右回り!,"When the boss turns left, its beam
+attack goes right!","Lorsque le boss tourne à gauche,
+son rayon laser part vers la droite!","Quando o chefão vira à esquerda,
+o ataque de luz vem da direita!","¡Cuando el jefe gira a la izquierda,
+el rayo va hacia la derecha!","Boss sola dönerse,
+ışın saldırısı sağa gider!",3,33.95,2,20.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+288,StgFace_hint_extrastage,"Je bent al zo ver gekomen.
+Dit kun je vast wel zelf oplossen!","You've made it this far - you can
+make it through this by yourself!","Si vous êtes arrivé jusque-là,
+vous êtes capable d'aller au
+bout de l'aventure !","Du bist schon so weit gekommen,
+den Rest schaffst du auch noch!","Se hai raggiunto questo livello
+significa che puoi farcela! Dai!","Se já conseguiu chegar até aqui, o
+resto não será difícil!","Тебе удалось пройти через все эти
+испытания, а значит, тебе по плечу
+и следующий уровень!","Si has conseguido llegar tan lejos,
+¡seguro que esto te resulta pan
+comido!","ここまで、これたあなたなら
+きっとクリアできる!","You've made it this far...
+You can do this!","Vous avez réussi à vous rendre ici...
+Vous êtes donc capable d'aller au
+bout de l'aventure! Allez, un effort!","Você está quase lá!
+Vamos lá! Você consegue!","Si has conseguido llegar tan lejos,
+¡seguro que esto te resulta pan
+comido!","Buraya kadar geldiysen...
+gerisini de tek başına yaparsın!",3,31.35,2,27.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+289,StgFace_pause_continue,Verdergaan,Continue,Continuer,Fortfahren,Continua,Continuar,Далее,Continuar,つづける,Continue,Continuer,Continuar,Continuar,Devam Et,1,10.0,1,7.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+290,StgFace_pause_quit,Stoppen,Quit,Quitter,Verlassen,Esci,Sair,Выйти,Abandonar,やめる,Quit,Quitter,Sair da fase,Abandonar,Çık,1,10.55,1,2.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+291,StgFace_ufo_fukidashi_01,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+292,StgFace_ufo_fukidashi_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+293,StgFace_ufo_dialog_01,De foto wordt verstuurd...,Sending photo...,Transfert de la photo...,Foto wird gesendet...,Invio della foto in corso...,A enviar foto...,"Идет отправка
+фотографии...",Enviando foto...,写真を届けています。,Sending photo to SD Card...,Transfert de la photo...,Salvando foto no cartão SD...,Enviando foto...,Fotoğraf gönderiliyor...,2,25.2,1,20.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+294,StgFace_ufo_dialog_02,"De foto is opgeslagen
+op de SD-kaart!",Photo saved to SD Card!,"Photo sauvegardée
+sur la carte SD !","Das Foto wurde auf
+SD Card gespeichert!","La foto è salvata
+sulla scheda SD.","Foto guardada no Cartão SD!
+",Фото сохранено на карте SD!,"Se ha guardado la foto
+en la tarjeta SD.",SDカードに保存しました!,Saved to SD Card!,"Photo sauvegardée
+sur la carte SD!",Foto salva no cartão SD.,"Se ha guardado la foto
+en la tarjeta SD.","Fotoğraf SD Karta
+kaydedildi!",2,24.55,2,16.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+295,StgFace_ufo_dialog_03,"De foto kon niet
+worden verstuurd.",Could not send photo.,"Transfert de la
+photo impossible.",Konnte Foto nicht senden.,"Non è possibile
+inviare la foto.",Não foi possível enviar a foto.,"Не удалось отправить
+фотографию.","No se ha podido enviar
+la foto.",写真を届けられませんでした…,Could not send photo.,"Transfert de la
+photo impossible.",Não foi possível salvar a foto.,"No se ha podido guardar
+la foto en la tarjeta SD.",Fotoğraf gönderilemedi.,2,26.7,1,20.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+296,StgFace_Result_highscore,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+297,StgFace_hint_stage1_enemy_title,Tip voor level 1,Stage 1 Tip,Stage 1 - Astuce,Tipp zu Stufe 1,Consiglio livello 1,Nível 1: Conselho,Совет: уровень 1,Consejo fase 1,ステージ１のコツ,Stage 1 Hint,Niveau 1 - Astuce,Dica: Fase 1,Consejo fase 1,Bölüm 1 İpucu,1,15.05,1,11.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+298,StgFace_hint_stage1_boss_title,Tip voor baas van level 1,Stage 1 Tip,Stage 1 - Astuce boss,Tipp zum Boss von Stufe 1,Consiglio boss livello 1,Nível 1: Conselho sobre o Boss,Совет: босс уровня 1,Consejo jefe fase 1,ステージ１　ボスのコツ,Stage 1　Boss Hint,Niveau 1 - Astuce boss,Dica: Fase 1 - Chefão,Consejo jefe fase 1,Bölüm 1 Boss İpucu,1,26.15,1,15.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+299,StgFace_hint_stage2_enemy_title,Tip voor level 2,Stage 2 Tip,Stage 2 - Astuce,Tipp zu Stufe 2,Consiglio livello 2,Nível 2: Conselho,Совет: уровень 2,Consejo fase 2,ステージ２のコツ,Stage 2 Hint,Niveau 2 - Astuce,Dica: Fase 2,Consejo fase 2,Bölüm 2 İpucu,1,15.05,1,11.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+300,StgFace_hint_stage2_boss_title,Tip voor baas van level 2,Stage 2 Tip,Stage 2 - Astuce boss,Tipp zum Boss von Stufe 2,Consiglio boss livello 2,Nível 2: Conselho sobre o Boss,Совет: босс уровня 2,Consejo jefe fase 2,ステージ２　ボスのコツ,Stage 2　Boss Hint,Niveau 2 - Astuce boss,Dica: Fase 2 - Chefão,Consejo jefe fase 2,Bölüm 2 Boss İpucu,1,26.15,1,15.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+301,StgFace_hint_stage3_enemy_title,Tip voor level 3,Stage 3 Tip,Stage 3 - Astuce,Tipp zu Stufe 3,Consiglio livello 3,Nível 3: Conselho,Совет: уровень 3,Consejo fase 3,ステージ３のコツ,Stage 3 Hint,Niveau 3 - Astuce,Dica: Fase 3,Consejo fase 3,Bölüm 3 İpucu,1,15.05,1,11.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+302,StgFace_hint_stage3_boss_title,Tip voor baas van level 3,Stage 3 Tip,Stage 3 - Astuce boss,Tipp zum Boss von Stufe 3,Consiglio boss livello 3,Nível 3: Conselho sobre o Boss,Совет: босс уровня 3,Consejo jefe fase 3,ステージ３　ボスのコツ,Stage 3　Boss Hint,Niveau 3 - Astuce boss,Dica: Fase 3 - Chefão,Consejo jefe fase 3,Bölüm 3 Boss İpucu,1,26.15,1,15.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+303,StgFace_hint_stage4_enemy_title,Tip voor laatste level,Final Stage Tip,Dernier stage - Astuce,Tipp zur Finalen Stufe,Consiglio livello finale,Nível Final: Conselho,Совет: последний уровень,Consejo fase final,ファイナルステージのコツ,Final Stage Hint,Dernier niveau - Astuce,Dica: Última fase,Consejo fase final,Final Bölümü İpucu,1,20.6,1,15.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+304,StgFace_hint_stage4_boss_title,Tip voor baas van laatste level,Final Stage Boss Tip,Dernier stage - Astuce boss,Tipp zum Boss der Finalen Stufe,Consiglio boss livello finale,Nível Final: Conselho sobre o Boss,Совет: босс последнего уровня,Consejo jefe fase final,ファイナルステージ　ボスのコツ,Final Stage　Boss Hint,Dernier niveau - Astuce boss,Dica: Última fase - Chefão,Consejo jefe fase final,Final Boss İpucu,1,29.25,1,13.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+305,StgFace_hint_extra_title,Tip voor extra level,Extra Stage Tip,Stage extra - Astuce,Tipp zum Ausdauer-Modus,Consiglio livello extra,Nível Extra: Conselho,Совет: дополнительный уровень,Consejo fase extra,エクストラステージのコツ,Extra Stage Hint,Niveau extra - Astuce,Dica: Fase extra,Consejo fase extra,Ek Bölüm İpucu,1,21.95,1,12.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+306,StgFace_screenshot_ymd,Gemaakt op %02d-%02d-%d,Taken on %02d/%02d/%d,Prise le %02d/%02d/%d,Aufgenommen: %02d.%02d.%d,Scatto del %02d/%02d/%d,Tirada a %02d/%02d/%d,Снято: %02d.%02d.%d,Sacada el %02d-%02d-%d,%d年%d月%d日 に撮影,Taken on %d/%d/%d,Prise le %02d/%02d/%d,Foto tirada: %02d/%02d/%d,Sacada el %02d/%02d/%d,Çekim: %02d.%02d.%d,1,24.55,1,17.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+307,StgFace_screenshot_01,Een nieuwe topscore!,Beat the high score!,Meilleur score battu !,Den Highscore geknackt!,Record battuto!,Bata o recorde!,Побит рекорд!,¡Has batido el récord!,ハイスコア更新の瞬間!,Beat the high score!,Battez le record!,Bata o recorde!,¡Bate el récord!,Rekor kırıldı!,1,21.1,1,11.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+308,StgFace_screenshot_02,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+309,StgFace_screenshot_03,Je hebt iemand in beeld!,Caught someone on camera!,Un visage a été photographié !,Foto von jemandem gemacht!,Qualcuno è a favore di camera!,Tirou uma foto a alguém!,Камера кого-то поймала!,¡Una foto sorpresa de alguien!,誰かが写りました!,Took a photo of someone!,Un visage a été photographié!,Foto tirada!,¡Has sacado a alguien en la foto!,Birini kameraya yakaladın!,1,28.2,1,22.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+310,StgFace_screenshot_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+311,StgFace_FaceCollection_pnote_ymd,Gemaakt op %02d-%02d-%d,Taken: %02d/%02d/%d,Prise le : %02d/%02d/%d,Aufgenommen: %02d.%02d.%d,Scatto del %02d/%02d/%d,Tirada a: %02d/%02d/%d,Снято: %02d.%02d.%d,Sacada el %02d-%02d-%d,撮影日　%d年%d月%d日,Taken: %d/%d/%d,Prise le : %02d/%02d/%d,Foto tirada: %02d/%02d/%d,Sacada el %02d/%02d/%d,Çekildi: %02d.%02d.%d,1,24.55,1,18.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+312,StgFace_FaceCollection_pnote_crew,Ontvoerde nummer %d,Abductee Number %d,Visage capturé n° %d,Entführungsopfer Nummer %d,Faccia rapita numero %d,Rapto número %d,Похищенный номер %d,Abducido número %d,搭乗順　%d番目,UFO Face Number %d,Visage capturé nº %d,Rapto número %d,Abducidos: %d,Kaçırılan Yüz No. %d,1,25.6,1,16.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+313,StgFace_Game_nothit,Let op je omgeving!,Mind your surroundings.,Attention en vous déplaçant.,Achte auf deine Umgebung!,Non far urtare la console.,Atenção ao que o rodeia.,Не стукни систему.,Ten cuidado al moverte.,本体をぶつけないでね。,Be careful moving around!,Attention en vous déplaçant.,Atenção ao mover-se!,Ten cuidado al moverte.,Çevrene dikkat et.,1,25.15,1,16.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+314,StgFace_Information_message00,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+315,StgFace_ufo_fukidashi_03,"Welkom bij Sneaky shots! Je kunt
+de foto de volgende keer opslaan.","Welcome to Sneaky Snaps!
+You can save the photo next time.","Bienvenue ! La prochaine fois,
+la photo pourra être sauvegardée.","Willkommen zu SneakySnaps.
+Speichere das nächste Foto!","Eccoti Scatto matto. La prossima
+volta potrai salvare la foto.","Bem-vindo ao Fotos Furtivas! Da
+próxima vez, poderá guardar a foto.","Это Неожиданные снимки!
+Впредь фото сохранится.","¡Esta es la Cámara de incógnito! A
+partir de ahora podrás guardar fotos.","びっくりシャッターのご紹介!
+次回からは保存できます。","Welcome to Surprise Snaps!
+You can save the photo next time.","Bienvenue! La prochaine fois,
+la photo pourra être sauvegardée.","Este é o modo foto-surpresa! Você
+pode salvar a foto na próxima vez!","¡Esta es la Cámara de incógnito!
+Podrás guardar la foto más tarde.","Sürpriz Çekim’e hoş geldin!
+Bir dahaki fotoğrafı kaydedebilirsin.",2,33.6,2,31.9,OK,OK,OK,"“Sneaky/Surprise Snaps” özelliği, gizli çekim çağrışımını azaltıp işlevi anlatacak şekilde “Sürpriz Çekim” olarak yerelleştirildi.",Shipped Latin localizations suggest this should fit.
+316,StgFace_ufo_fukidashi_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+317,StgFace_Information_shutter_01,"Wil je Sneaky shots
+blijven gebruiken?","Do you want to keep
+using Sneaky Snaps?","Continuer à utiliser
+la fonction
+Photo surprise ?","SneakySnaps
+weiter verwenden?","Vuoi continuare a usare
+Scatto matto?","Deseja continuar a
+utilizar o modo
+Fotos Furtivas?","Продолжать исполь-
+зовать функцию
+Неожиданные снимки?","¿Quieres seguir
+usando la Cámara
+de incógnito?","びっくりシャッターを
+このまま使えるように
+しておいていいですか？","Do you want to keep
+using Surprise Snaps?","Continuer à utiliser
+la fonction
+Photo surprise?","Continuar no modo
+foto-surpresa?","¿Quieres seguir
+usando la Cámara
+de incógnito?","Sürpriz Çekim’i
+kullanmaya devam
+etmek ister misin?",3,20.6,3,16.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+318,StgFace_Information_shutter_02,"Sneaky shots is
+ingeschakeld.","Sneaky Snaps has
+been turned on.","Photo surprise
+activée.","SneakySnaps
+wurde eingeschaltet.","Scatto matto è stato
+attivato.","O modo Fotos Furtivas
+foi ligado.","Неожиданные снимки
+включены.","Cámara de incógnito
+activada.","びっくりシャッターを
+ONにしました。",Surprise Snaps is on.,"Photo surprise
+activée.","O modo foto-surpresa
+foi ativado.","Se ha activado la
+Cámara de incógnito.","Sürpriz Çekim
+açıldı.",2,19.45,2,11.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+319,StgFace_Information_shutter_03,"Sneaky shots is
+uitgeschakeld.","Sneaky Snaps has
+been turned off.","Photo surprise
+désactivée.","Sneaky Snaps
+wurde ausgeschaltet.","Scatto matto è stato
+disattivato.","O modo Fotos Furtivas
+foi desligado.","Неожиданные снимки
+выключены.","Cámara de incógnito
+desactivada.","びっくりシャッターを
+OFFにしました。",Surprise Snaps is off.,"Photo surprise
+désactivée.","O modo foto-surpresa
+foi desativado.","Se ha desactivado la
+Cámara de incógnito.","Sürpriz Çekim
+kapatıldı.",2,19.45,2,11.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+320,StgFace_Information_shutter_04,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+321,StgFace_Information_shutter_button, Sneaky shots, Sneaky Snaps, Photo surprise, SneakySnaps, Scatto matto, Fotos Furtivas, Неожиданные снимки, Cámara de incógnito,シャッター設定, Surprise Snaps, Photo surprise, Foto-surpresa, Cámara de incógnito, Sürpriz Çekim,1,19.6,1,14.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+322,StgFace_hint_stage4_boss_afro,Kijk uit! Schiet niet op het haar!,Danger! Don't shoot the hair.,Ne tirez pas sur la perruque !,Vorsicht! Nicht die Haare treffen!,Pericolo! Non sparare ai capelli!,Cuidado! Não dispare ao cabelo!,Осторожно! Не стреляй в волосы!,¡Peligro! ¡No dispares a la peluca!,うつな、危険。,Danger! Hold your fire!,Danger! Cessez le feu!,Cuidado! Não dispare!,¡Peligro! ¡Alto el fuego!,Tehlike! Saça ateş etme.,1,29.75,1,20.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+323,StgFace_asondemorau_bonus_text01,Maak foto's van mensen om je heen!,Try taking photos of people nearby!,Prenez les gens alentour en photo !,Fotografiere Menschen um dich herum!,Scatta una foto a chi ti sta vicino.,Tire fotos a pessoas próximas de si!,Фотографируй людей вокруг тебя!,¡Haz fotos de gente que esté cerca!,近くにいる人を写してみよう!,Try taking photos of people nearby!,Prenez les gens alentour en photo!,Tire fotos de pessoas ao seu redor!,¡Toma fotos de gente que esté cerca!,Yakındaki insanların fotoğrafını çek!,1,33.25,1,31.9,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+324,StgFace_asondemorau_bonus_text02,Laat het gezicht niet vallen!,Don't let the face fall!,Il ne doit pas tomber au fond de l'eau !,Halte das Gesicht in der Luft!,Non far cadere la faccia!,Cuidado para não deixar a cara cair!,"Осторожно, не дай лицу упасть!",¡No dejes que la cara caiga!,落とさないように当てつづけよう!,Be careful not to drop it!,Il ne doit pas tomber au fond de l'eau!,Cuidado para não deixar cair!,¡No dejes que caiga!,Yüzü düşürme!,1,33.0,1,12.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+325,StgFace_asondemorau_bonus_text03,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+326,StgFace_asondemorau_delivery_lend,Geef het systeem aan iemand anders.,Pass the system on to someone.,Prêtez la console à quelqu'un.,Gib das System jemand anderem.,Passa la console a qualcuno.,Dê a consola a outra pessoa.,Дай систему кому-нибудь другому.,Pásale la consola a tu amigo.,誰かに渡してください,Pass the system on to someone.,Prêtez la console à quelqu'un.,Empreste o console a outra pessoa.,Pásale la consola a un amigo.,Konsolu başka birine ver.,1,32.0,1,21.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+327,StgFace_asondemorau_delivery_lend_button_left,Verzameling,Showing Off,Choix visage,Vorführen,Da Collezione,Exibir,Для показа,Elegir cara,見せたい顔,Choose Face,Choix visage,Escolher cara,Elegir cara,Yüz Seç,1,12.05,1,6.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+328,StgFace_asondemorau_delivery_lend_button_right,Ontvangen,Received,C'est fait,Erhalten,Passo,Recebida,Получено,¡La tengo!,受け取った,"OK, Start!",Commencez!,"OK, começar!",¡La tengo!,Aldım,1,11.0,1,4.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+329,StgFace_asondemorau_delivery_return,Geef de eigenaar het systeem terug,Return the system to its owner.,Rendez la console à son propriétaire.,Gib das System dem Besitzer zurück.,Ridai la console.,Devolva a consola.,Верни систему владельцу.,Devuélvele la consola a su dueño.,持ち主に返してください,Return the system to its owner.,Rendez la console à son propriétaire.,Devolva o console ao dono.,Devuélvele la consola a su dueño.,Konsolu sahibine geri ver.,1,32.25,1,22.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+330,StgFace_asondemorau_delivery_return_button_left,Nog een keer,Play Again,Rejouer,Noch einmal,Ancora,Continuar,Еще раз!,Otra vez,もう一度,Once More,Rejouer,Outra vez,Otra vez,Bir Daha,1,11.0,1,7.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+331,StgFace_asondemorau_delivery_return_button_right,Terug,Return,C'est fait,Zurück,Ridai,Devolver,Верни,¡La tengo!,返します,Return,C'est fait,Devolver,Devolver,Geri Ver,1,9.05,1,7.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+332,StgFace_hint_bonus_title,Tip voor het bonuslevel,Bonus Stage Hint,Stage bonus - Astuce ,Tipp zur Bonus-Stufe,Consigli livello bonus,Nível de Bónus: Conselho,Совет по бонус-уровню,Consejo fase bonus,ボーナスステージのコツ,Bonus Stage Hint,Niveau bonus - Astuce ,Dica para a fase de bônus,Consejo fase de bonificación,Bonus Bölüm İpucu,1,25.15,1,15.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+333,StgFace_hint_bonus,"Probeer 'm om te beginnen
+herhaaldelijk te raken!",Start with consecutive hits!,Commencez par tirer sans répit !,Triff sie hintereinander!,Spara di continuo!,Comece por disparar sem parar!,Начни с непрерывной стрельбы!,¡Consigue un combo al principio!,まずは連打!,Start with consecutive hits!,Commencez en tirant sans arrêt!,Comece a disparar sem parar!,¡No pares de disparar!,Önce seri isabetler!,2,28.55,1,17.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+334,StgFace_Lower_PadAdjust_pad,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+335,StgFace_Lower_PadAdjust_pad_text,Bewegen,Move,Déplacer,Bewegen,Muovi,Mover,Двигать,Mover,顔をずらす,Move,Déplacer,Mover,Mover,Taşı,1,7.55,1,3.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+336,StgFace_Lower_PadAdjust_up,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+337,StgFace_Lower_PadAdjust_up_text,Vergroten,Enlarge,Zoom avant,Vergrößern,Ingrandisci,Expandir,Увеличить,Aumentar,顔を大きくする,Expand,Zoom avant,Expandir,Aumentar,Büyüt,1,10.0,1,5.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+338,StgFace_Lower_PadAdjust_down,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+339,StgFace_Lower_PadAdjust_down_text,Verkleinen,Shrink,Zoom arrière,Verkleinern,Rimpicciolisci,Diminuir,Уменьшить,Reducir,顔を小さくする,Shrink,Zoom arrière,Diminuir,Reducir,Küçült,1,11.5,1,5.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+340,StgFace_Lower_PadAdjust_side,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+341,StgFace_Lower_PadAdjust_side_text,Draaien,Rotate,Faire pivoter,Rotieren,Ruota,Rodar,Поворачивать,Girar,顔を回転させる,Rotate,Faire pivoter,Girar,Girar,Döndür,1,11.6,1,6.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+342,StgFace_hint_stage0_title,Tip,Tip,Astuce,Tipp zum Spiel,Come giocare,Conselho,Совет,Consejo,このゲームのコツ,Hints,Astuces,Dicas,Consejos,İpucu,1,11.85,1,4.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+343,StgFace_hint_stage0_title_00,"De brokstukken die op je af
+vliegen kun je neerschieten.","You can shoot down the rubble
+that comes flying towards you.","Tirez sur les débris qui vous foncent
+dessus pour dévier leur trajectoire.","Gegenstände, die sich dir nähern,
+kannst du abschießen.","Puoi sparare ai frammenti
+che ti vengono contro.","Pode alvejar os destroços que são
+lançados contra si.","Ты можешь сбивать обломки,
+которые летят на тебя.","Puedes derribar los trozos
+de pared que vuelan hacia ti.",飛んでくる破片は、うち落とせる。,"You can shoot any wall fragments
+that come flying towards you!","Tirez sur les débris qui vous foncent
+dessus pour dévier leur trajectoire.","Você pode rebater os destroços
+que vêm voando na sua direção!","Puedes derribar los trozos
+de pared que vuelan hacia ti.","Üzerine uçan enkazı
+vurarak parçalayabilirsin.",2,32.2,2,22.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+344,StgFace_Information_shutter_05,"Wil je Sneaky shots
+gebruiken?","Do you want to use
+Sneaky Snaps?","Utiliser la fonction
+Photo surprise ?","Soll SneakySnaps
+aktiviert werden?","Vuoi usare
+Scatto matto?","Deseja utilizar o modo
+Fotos Furtivas?","Использовать
+Неожиданные снимки?","¿Quieres utilizar la
+Cámara de incógnito?","びっくりシャッターを
+使えるようにしますか？","Do you want to use
+Surprise Snaps?","Utiliser la fonction
+Photo surprise?","Deseja usar o modo
+foto-surpresa?","¿Quieres utilizar la
+Cámara de incógnito?","Sürpriz Çekim’i
+kullanmak ister misin?",2,19.35,2,19.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+345,StgFace_SeqTitle_StageSelect_unlock_asondemorau_st1,"Verzamel twee gezichten
+om dit level vrij te spelen.
+Probeer eens je familieleden
+te fotograferen!","Unlock this by collecting
+two faces. Try getting
+family members' faces!","Collectionnez deux visages
+pour jouer. Et si vous preniez
+en photo des membres de
+votre famille ?","Hierfür brauchst du zwei Gesichter!
+
+Wie wäre es mit Gesichtern
+aus deiner Familie?","Per sbloccare questo gioco
+ti servono due facce.
+Scatta le foto dei membri
+della tua famiglia!","Desbloqueie este nível reunindo
+duas caras. Experimente com
+caras de familiares!
+","Открой этот уровень, собрав два
+лица. Попробуй сфотографи-
+ровать членов семьи!","Consigue dos caras para
+desbloquear esta fase.
+¡Prueba con las caras
+de tus familiares!","顔が2つ必要です。
+
+家族の顔を集めてみよう!","You need two faces to play this.
+
+Try getting your
+family members' faces!","Collectionnez deux visages
+pour jouer. Essayez de
+photographier les membres
+de votre famille!","Você precisa colecionar 2 caras
+para jogar esta fase.
+Experimente com caras
+da sua familia!","Debes conseguir dos caras
+para desbloquear esta fase.
+¡Prueba con las caras
+de tus familiares!","Açmak için iki yüz topla.
+Ailenden yüzler
+çekmeyi dene!",4,31.4,3,20.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+346,StgFace_SeqTitle_StageSelect_unlock_asondemorau_st2,"???
+Demonstreer dit spel aan
+zoveel mogelijk mensen!","???
+Try sharing the fun with
+lots of other people!","???
+Partagez ce jeu avec le
+plus de monde possible !","???
+Teile die Freude mit so vielen
+Menschen wie möglich!","???
+Divertiti con tanti amici!","???
+Partilhe a diversão com as
+outras pessoas!","???
+Поделись впечатлениями
+с другими людьми!","(?)
+¡Comparte la diversión
+con mucha gente!","？？？
+
+たくさんの人に遊んでもらおう!
+","???
+Try playing Show a Friend!
+with lots of other people!","???
+Partagez ce jeu avec le
+plus de monde possible!","???
+Compartilhe a diversão com 
+outras pessoas!","(?)
+¡Comparte la diversión
+con mucha gente!","???
+Daha çok kişiye
+oynatmayı dene!",4,25.0,3,13.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+347,StgFace_SeqTitle_StageSelect_unlock_asondemorau_st3,"Verzamel twee gezichten
+om dit level vrij te spelen.
+Probeer eens je vrienden
+te fotograferen!","Unlock this by collecting
+two faces. Try getting
+your friends' faces!","Collectionnez deux visages pour
+jouer. Profitez-en pour tirer le
+portrait de quelques amis !","Hierfür brauchst du zwei Gesichter!
+
+Wie wäre es mit Gesichtern
+deiner Freunde?","Per sbloccare questo gioco
+ti servono due facce.
+Scatta le foto dei tuoi amici!","Desbloqueie este nível reunindo
+duas caras. Experimente com
+caras de amigos!","Открой этот уровень, собрав два
+лица. Попробуй сфотографи-
+ровать своих друзей!","Consigue dos caras para
+desbloquear esta fase.
+¡Prueba con las caras de
+tus amigos!","顔が2つ必要です。
+
+友達の顔を集めてみよう!","You need two faces to play this.
+
+Try getting your
+friends' faces!","Collectionnez deux visages pour
+jouer. Prenez des photos de vos
+amis!","Você precisa colecionar 2 caras
+para jogar esta fase.
+Experimente com caras dos
+seus amigos!","Debes conseguir dos caras
+para desbloquear esta fase.
+¡Prueba con las caras de
+tus amigos!","Açmak için iki yüz topla.
+Arkadaşlarının
+yüzlerini çekmeyi dene!",4,31.4,3,20.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+348,StgFace_SeqTitle_passenger_list_button_return,Terug,Back,Retour,Zurück,Indietro,Anterior,Назад,Atrás,もどる,Back,Retour,Voltar,Atrás,Geri,1,7.55,1,3.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+349,StgFace_FaceCollection_hatena,???,???,???,???,???,???,???,(?),？？？,???,???,???,(?),???,1,3.0,1,3.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+350,StgFace_FaceCollection_gotofind,"De ufo is op zoek gegaan
+naar gezichten.","The UFO went looking
+for faces.","L'OVNI est parti à la
+recherche de visages
+à capturer...","Das UFO schaut sich
+nach Gesichtern um.","L'UFO è a caccia
+di facce...","O OVNI foi à procura de
+caras.",НЛО произвело поиск лиц.,"El OVNI se ha ido
+en busca de caras.",顔を探しに行きました。,"The UFO went searching
+for faces.","L'ovni est parti à la
+recherche de visages
+à capturer...","O OVNI foi à procura
+de caras.","El OVNI se ha ido
+en busca de caras.","UFO yüz aramaya
+gitti.",3,21.05,2,14.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+351,StgFace_FaceCollection_search,"Nintendo 3DS Camera
+wordt doorzocht...","Searching through
+Nintendo 3DS Camera...","Recherche dans
+l'application photo...","Durchsuche
+Nintendo 3DS-Kamera...","Ricerca con la Fotocamera
+Nintendo 3DS in corso...","A procurar na Câmara
+Nintendo 3DS.","Идет поиск в приложении
+Камера Nintendo 3DS...","Buscando en la aplicación
+Cámara de Nintendo 3DS...",3DSカメラの中を探しています。,"Searching through the
+Nintendo 3DS Camera...","Recherche dans
+l'application photo...","Procurando pela câmera
+Nintendo 3DS...","Buscando en la aplicación
+Cámara de Nintendo 3DS...","Nintendo 3DS Kamera’da
+yüz aranıyor...",2,22.8,2,20.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+352,StgFace_FaceCollection_findhas,"De zoektocht naar
+gezichten is gelukt!",Face search successful!,Recherche fructueuse !,Gesichtersuche erfolgreich!,Faccia trovata!,"Pesquisa de caras concluída
+com sucesso!",Поиск лиц прошел успешно!,¡Se han encontrado caras!,顔が見つかりました!,Face search successful!,Recherche fructueuse!,A busca foi bem sucedida!,¡Se han encontrado caras!,Yüz bulundu!,2,24.7,1,10.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+353,StgFace_Information_shutter_06,"Sneaky shots neemt
+soms foto's, zoals
+wanneer je een nieuwe
+topscore behaalt!","Sneaky Snaps will take
+photos at certain times,
+like when you beat the
+high score!","Photo surprise se
+déclenche à certaines
+occasions (lorsque
+vous battez le meilleur
+score, par exemple) !","SneakySnaps macht zu
+bestimmten Anlässen
+überraschende Fotos!","Scatto matto scatta
+foto in certi momenti,
+per esempio quando
+stabilisci un record.","O Fotos Furtivas tirará
+fotos em alturas
+importantes, como
+quando bater um
+recorde!","Функция Неожиданные
+снимки будет делать
+фото в определенные
+моменты.","La Cámara de incógnito
+hace fotos sorpresa,
+por ejemplo, si se bate
+algún récord.","びっくりシャッターを
+使うと、ハイスコア更新の
+瞬間などが自動記録
+できるよ!","Surprise Snaps will take
+photos at certain times,
+like when you beat a
+high score!","Photo surprise se
+déclenche si, par
+exemple, vous
+battez un record!","Foto-surpresa bate
+fotos inesperadas,
+como quando você 
+bate um recorde!","La Cámara de incógnito
+toma fotos sorpresa,
+por ejemplo, si se bate
+algún récord.","Sürpriz Çekim belli
+anlarda, örneğin rekor
+kırdığında otomatik
+fotoğraf çeker!",5,21.35,4,19.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+354,StgFace_Information_shutter_07,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+355,StgFace_game_faceget_new,NIEUW,NEW,NOUVEAU,NEU,NUOVO,NOVA,НОВОЕ,¡Nueva!,NEW,NEW,NOUVEAU,Nova,Nueva,YENİ,1,7.2,1,3.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+356,StgFace_SeqTitle_StageSelect_final,Laatste level,Final Stage,Dernier stage,Finale Stufe,Livello finale,Nível Final,Последний уровень,Fase final,ファイナルステージ,Final Stage,Dernier niveau,Última fase,Fase final,Final Bölümü,1,12.6,1,10.35,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+357,StgFace_FaceMatching_crown_01,"Het meest gekozen gezicht
+ontvangt een kroon.","The face that gets chosen
+the most will receive a crown.","Le visage sélectionné le plus
+souvent se verra couronné.","Das am meisten verwendete
+Gesicht bekommt eine Krone!","La faccia che appare più spesso
+riceverà una corona.","A cara escolhida mais vezes
+receberá uma coroa.","Лицо, которое выбиралось
+чаще всего, получит корону.","La cara más elegida
+recibirá una corona.","もっとも多く選ばれた顔には、
+王冠があたえられます。","The face that gets chosen
+the most will receive a crown.","Le visage sélectionné le plus
+souvent se verra couronné.","A cara mais popular 
+receberá uma coroa.","La cara más elegida
+recibirá una corona.","En çok seçilen yüz
+bir taç kazanır.",2,27.6,2,15.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+358,StgFace_FaceMatching_crown_02,"In de Verzameling is te zien hoe
+vaak een gezicht is gekozen.","The number of times chosen can
+be checked in Face Collection.","Vous pouvez vérifier le nombre
+de sélections dans la collection.","Die Anzahl der Auftritte wird in
+der Gesichtergalerie angezeigt.","Per sapere quante volte appare
+una faccia, controlla Collezione.","Veja quantas vezes foi 
+escolhida na Coleção.","Посмотри в Коллекции лиц,
+как часто выбиралось лицо.","Puedes ver cuántas veces se ha
+usado una cara en la colección.","選ばれた回数は、
+顔コレクションで確認できます。","Face Collection displays how
+often a face has been chosen.","Vous pouvez vérifier le nombre
+de sélections dans Collection.","Veja quantas vezes a cara foi
+escolhida em ""Galeria de caras"".","Puedes ver cuántas veces se ha
+usado una cara en la colección.","Kaç kez seçildiğini
+Yüz Koleksiyonu’nda gör.",2,27.95,2,21.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+359,StgFace_Information_break,"Wat dacht je van
+een korte pauze?","How about taking
+a break for a bit?","Et si vous faisiez
+une petite pause ?","Wie wäre es mit einer
+kleinen Pause?",Vuoi fare una pausa?,"Que tal fazer uma
+pausa?","Может сделать
+короткий перерыв?","¿Quieres tomarte
+un descanso?",すこし休みませんか？,Want to take a break?,"Que diriez-vous d'une
+petite pause?",Quer fazer uma pausa?,"¿Quieres tomarte
+un descanso?","Biraz mola vermeye
+ne dersin?",2,19.9,2,16.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+360,StgFace_eyecatch_saving,Bezig met opslaan...,Saving...,Sauvegarde...,Speichervorgang...,Salvataggio in corso...,A guardar...,Идет сохранение...,Guardando...,保存中…,Saving...,Sauvegarde en cours...,Salvando...,Guardando...,Kaydediliyor...,1,19.65,1,12.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+361,StgFace_SeqTitle_StageSelect_asondemorau_first,"Kom terug als
+je meer gezichten
+hebt verzameld.","Come back once
+you've collected
+more faces.","Revenez quand vous
+aurez collectionné
+plus de visages.","Komm zurück, sobald
+du mehr Gesichter
+gesammelt hast.","Torna quando avrai
+più facce nella tua
+Collezione.","Volte assim que tiver
+reunido mais caras.","Возвращайся, когда
+соберешь больше лиц.","Vuelve cuando hayas
+conseguido caras
+nuevas.","顔が集まったら
+また来てね。","Come back when
+you've collected
+more faces!","Revenez quand vous
+aurez collectionné
+plus de visages.","Volte assim que tiver
+reunido mais caras!","Vuelve cuando hayas
+conseguido caras
+nuevas.","Daha çok yüz
+toplayınca
+yine gel.",3,18.35,3,11.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+362,StgFace_WhichFace_asondemorau_00,Kies een gezicht om te demonstreren.,Select a face to show off.,Choisissez le visage à montrer.,Wähle ein Gesicht zum Vorführen.,Scegli una faccia da mostrare.,Selecione a cara a exibir.,Выбери лицо для показа.,Elige una cara para este modo.,見せたい顔を選んでください,Select the face you want to show off!,Choisissez le visage à montrer.,Selecione a cara a ser exibida.,Elige una cara para este modo.,Göstereceğin yüzü seç.,1,33.0,1,20.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+363,StgFace_WhichFace_asondemorau_01,Wil je dit gezicht demonstreren?,Do you want to make this face appear?,Faire apparaître ce visage ?,Dieses Gesicht auftreten lassen?,Vuoi far partecipare questa faccia?,Quer que esta cara seja exibida?,"Хочешь, чтобы это лицо появлялось?",¿Quieres que salga esta cara?,この顔を登場させますか？,Do you want to make this face appear?,Faire apparaître ce visage?,Quer que esta cara apareça?,¿Quieres que salga esta cara?,Bu yüz görünsün mü?,1,33.45,1,17.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+364,StgFace_SubTitle_kaonin_01,Je hebt een nieuw gezicht bemachtigd!,Nabbed a Fresh Face!,Visage inopiné capturé !,Du hast ein Frischgesicht gefangen!,Hai ottenuto una faccia nuova!,Apanhou uma Cara Nova!,Поймано новое лицо!,¡Has conseguido una cara nueva!,生顔から、顔ゲット!,Nabbed a Fresh Face!,Visage saisi sur le vif!,Agarrou uma nova cara!,¡Has conseguido una cara nueva!,Bir Sürpriz Yüz yakaladın!,1,33.1,1,22.25,OK,OK,OK,“Fresh Face” sözcük oyunu doğrudan “Taze Yüz” yerine oyun içindeki beklenmedik karşılaşmayı vurgulayan “Sürpriz Yüz” yapıldı.,Shipped Latin localizations suggest this should fit.
+365,StgFace_SubTitle_irogao_red,De rode vlinder heeft de meter gevuld!,The red butterfly refilled the meter!,Le papillon rouge restaure votre jauge !,Der Schmetterling hat die Leiste gefüllt!,La farfalla rossa ti fa recuperare energia!,A borboleta vermelha deu-lhe energia!,Красная бабочка вернула индикатор!,¡La mariposa roja te ha dado energía!,赤から生まれた チョウ で回復!,The red butterfly refilled your meter!,Le papillon rouge restaure votre jauge!,A borboleta vermelha encheu a barra!,¡La mariposa roja te ha dado energía!,Kırmızı kelebek göstergeyi doldurdu!,1,37.75,1,31.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+366,StgFace_SubTitle_irogao_blue,De blauwe vlinder heeft de meter gevuld!,The blue butterfly refilled the meter!,Le papillon bleu restaure votre jauge !,Der Schmetterling hat die Leiste gefüllt!,La farfalla blu ti fa recuperare energia!,A borboleta azul deu-lhe energia!,Синяя бабочка вернула индикатор!,¡La mariposa azul te ha dado energía!,青から生まれた チョウ で回復!,The blue butterfly refilled your meter!,Le papillon bleu restaure votre jauge!,A borboleta azul encheu a barra!,¡La mariposa azul te ha dado energía!,Mavi kelebek göstergeyi doldurdu!,1,35.55,1,29.45,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+367,StgFace_SubTitle_irogao_yellow,De gele vlinder heeft de meter gevuld!,The yellow butterfly refilled the meter!,Le papillon jaune restaure votre jauge !,Der Schmetterling hat die Leiste gefüllt!,La farfalla gialla ti fa recuperare energia!,A borboleta amarela deu-lhe energia!,Желтая бабочка вернула индикатор!,¡La mariposa amarilla te ha dado energía!,黄色から生まれた チョウ で回復!,The yellow butterfly refilled your meter!,Le papillon jaune restaure votre jauge!,A borboleta amarela encheu a barra!,¡La mariposa amarilla te ha dado energía!,Sarı kelebek göstergeyi doldurdu!,1,37.4,1,29.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+368,StgFace_SubTitle_irogao_red_effect,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+369,StgFace_SubTitle_irogao_blue_effect,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+370,StgFace_SubTitle_irogao_yellow_effect,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+371,StgFace_Information_message01,"Ga eens kijken in
+Verzameling! Druk op 
+om terug te gaan en er
+een kijkje te nemen!","You should drop by
+Face Collection!
+Press  to go back
+and check it out!","Avez-vous déjà admiré
+votre collection ?
+Appuyez sur  et
+allez y jeter un œil !","Du kannst dir nun deine
+Gesichtergalerie ansehen!
+Mit  kommst du zurück
+und kannst sie öffnen!","La Collezione è lì
+a tua disposizione!
+Premi  per tornare
+indietro e rivederla!","Dê uma vista de olhos
+à Coleção! Prima 
+para voltar atrás e
+consultá-la!","Проверь коллекцию лиц!
+Нажми , чтобы
+вернуться и посмотреть
+ее!","¡Deberías pasarte por
+el modo Colección!
+¡Pulsa  para volver
+y echarle un vistazo!","「顔コレクション」に
+入れるのダ!
+でもどって
+みるのダ!","Put it in Face
+Collection!
+Press  to go back
+and check it out!","Avez-vous déjà admiré
+votre collection?
+Appuyez sur  pour
+retourner et allez y jeter
+un coup d'œil!","Adicionada à galeria
+de caras! Aperte  para 
+voltar e vê-la!","¡Se ha guardado en
+el modo Colección!
+¡Oprime  para volver
+y echarle un vistazo!","Yüz Koleksiyonu’na
+uğrasana!
+ ile geri dön,
+bir göz at!",5,23.1,4,16.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+372,StgFace_Information_message02,"Ojee! Er is iets
+aan de hand in
+Verzameling!","Aiiiieee! Something's
+happening in
+Face Collection!","Aaah ! Il se passe
+quelque chose
+dans votre collection !","Es gab einen Vorfall in
+der Gesichtergalerie!","Ehi! Qualcosa di nuovo
+bolle in pentola in
+Collezione!","Oh! Algo está a
+acontecer na Coleção!","Ой! Что-то происходит
+в коллекции лиц!","¡Parece que está
+pasando algo en
+el modo Colección!","「顔コレクション」で
+なにか起こっている
+らしいのダ!","Uh-oh! Something's
+happening over in
+Face Collection!","Aaah! Il se passe
+quelque chose dans
+votre collection!","Ih! Algo está
+acontecendo na
+galeria de caras!","¡Parece que está
+pasando algo en
+el modo Colección!
+","Aaa! Bir şey oluyor
+Yüz Koleksiyonu’nda!",4,19.7,2,18.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+373,StgFace_Information_message03,"Er... Er is iets
+bijzonders gebeurd
+in Verzameling! Neem
+er eens een kijkje!","There's... There's
+something in Face
+Collection! Try selecting
+it and pressing !","Il y a une... chose
+dans votre collection !
+Sélectionnez-la et
+appuyez sur  !","Etwas Sonderbares ist
+in der Gesichtergalerie
+passiert! Schau nach!","Sembra ci siano novità
+in Collezione! Vai a
+dare un'occhiata...","Passa-se... passa-se
+algo na Coleção!
+Prima  para ver o
+que é!","Что-то... Что-то
+происходит в коллекции
+лиц! Попробуй выбрать
+ее и нажать !","¡Hay algo en el modo
+Colección! ¡Selecciónalo
+y pulsa  a ver qué pasa!","「顔コレクション」に
+なにかいるのダ!
+を押してみるのダ!","Hmmmm... There's
+something in
+Face Collection!
+Try pressing !","Il y a une... chose
+dans votre collection!
+Sélectionnez-la et
+appuyez sur !","Hum, tem algo
+acontencendo na
+galeria de caras!
+Aperte !","¡Hay algo en el modo
+Colección! Oprime 
+para verlo.","Orada... Bir şey var
+Yüz Koleksiyonu’nda!
+Seçip  bas!",4,21.9,3,18.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+374,StgFace_Information_message04,"Sommige levels zijn
+pas beschikbaar als je
+Demonstratie hebt
+geprobeerd!","There are some stages
+that won't be unlocked
+unless you try using
+Share the Fun!","Certains stages ne
+seront débloqués
+que si vous jouez
+à Mission éclair !","Spiele den Vorführ-
+modus, um einige der
+Stufen zu Gesicht zu
+bekommen!","Alcuni livelli non si
+sbloccheranno se non
+usi Gara di facce!","Alguns níveis só serão
+desbloqueados se 
+utilizar o Modo
+Partilhado!","Некоторые уровни
+откроются, только
+если ты попробуешь
+режим Покажи другу!","Algunas fases no se
+desbloquearán hasta
+que uses el modo
+Demostración.","「遊んでもらう」を
+やらないと出ない
+ステージもあるのダ!","Some stages can only
+be unlocked by playing
+Show a Friend!","Certains niveaux ne
+seront débloqués
+que si vous jouez
+à Jeu éclair!","Algumas fases só se
+abrem ao jogar no
+modo amigo!","Algunas fases no se
+desbloquearán hasta
+que uses el modo
+Demostración.","Bazı bölümler ancak
+arkadaşına oynatırsan
+açılır!",4,19.8,3,19.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+375,StgFace_Information_message05,"Gebruik Nintendo 3DS
+Camera eens om wat
+foto's te maken van je
+vrienden en familie!","Try taking photos
+of your friends
+and family using
+Nintendo 3DS Camera!","Essayez de prendre
+vos proches en photo
+avec l'appareil photo
+Nintendo 3DS !","Mach Fotos mit
+Nintendo 3DS-Kamera
+und nimm deine Familie
+und Freunde auf!","Prova a fare foto ai tuoi
+amici e ai tuoi familiari
+con la Fotocamera
+Nintendo 3DS.","Tire fotos aos seus
+amigos e família com a
+Câmara Nintendo
+3DS!","Попробуй сделать
+фото друзей и членов
+семьи в приложении
+Камера Nintendo 3DS!","¡Saca fotos de tus
+familiares y amigos con
+la aplicación Cámara
+de Nintendo 3DS!","3DSカメラで
+家族や友人を
+撮ってみるのダ!","Take photos of your
+friends and family with
+Nintendo 3DS Camera!","Essayez de prendre
+vos proches en photo
+avec l'appareil photo
+Nintendo 3DS!","Tire fotos de sua
+família e amigos com a
+câmera Nintendo 3DS!","¡Saca fotos de tus
+familiares y amigos con
+la aplicación Cámara
+de Nintendo 3DS!","Nintendo 3DS Kamera’yla
+ailenin ve arkadaşlarının
+fotoğraflarını çek!",4,21.6,3,21.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+376,StgFace_Information_message06,"Als je gezichten mengt
+met Nintendo 3DS
+Camera, gebeurt er
+iets speciaals!","Something might
+happen if you
+merge faces using
+Nintendo 3DS Camera!","Quelque chose pourrait
+se produire si vous
+fusionnez des visages
+avec l'appareil photo !","Wenn du Gesichter mit
+Nintendo 3DS-Kamera
+morphst, passiert
+sicherlich etwas!","Scopri cosa accade se
+provi a unire due facce
+nella Fotocamera
+Nintendo 3DS.","Algo engraçado irá
+acontecer se fundir
+caras com a Câmara
+Nintendo 3DS!","Что-то может 
+произойти, если ты
+используешь эффект
+Наложение.","¡Fusiona caras con
+la aplicación Cámara
+de Nintendo 3DS
+a ver qué pasa!","3DSカメラで
+顔合成をすると
+なにかが起こるのダ!","Try merging faces with
+Nintendo 3DS Camera!","Quelque chose pourrait
+se produire si vous
+fusionnez des visages
+avec l'appareil photo!","Tente fundir caras
+com a câmera
+Nintendo 3DS!","¡Fusiona caras con
+la aplicación Cámara
+de Nintendo 3DS
+a ver qué pasa!","Nintendo 3DS Kamera’da
+yüzleri birleştirirsen
+bir şeyler olabilir!",4,20.3,3,20.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+377,StgFace_Information_message07,"Zet je Sneaky shots aan,
+dan wordt er automatisch
+een foto gemaakt als je
+een topscore neerzet!","If Sneaky Snaps is turned
+on, photos will be taken
+automatically when you
+get a high score! Snap!","Si Photo surprise est
+activée, une photo est
+prise quand le meilleur
+score est battu !","Wenn du SneakySnaps
+einschaltest, macht das
+Programm automatisch
+Schnappschüsse!","Se Scatto matto è
+attivo, quando realizzi
+un nuovo record sarà
+scattata una foto!","Se ligar o modo Fotos
+Furtivas, ser-lhe-á
+tirada uma foto
+automaticamente quando
+bater um recorde! Clique!","Если Неожиданные
+снимки включены, ког-
+да ты побьешь рекорд,
+будет сделано фото!","Activa la Cámara de
+incógnito y esta sacará
+una foto cuando batas
+un récord.","びっくりシャッターが
+ＯＮなら、ハイスコアの
+瞬間が自動で
+撮影されるのダ!","If Surprise Snaps is on,
+your picture will be
+taken when you get a
+high score! Surprise!","Si Photo surprise est
+activée, une photo est
+prise quand le record
+est battu!","Ao bater um recorde
+prepare-se para tirar
+uma foto com 
+foto-surpresa!","Activa la Cámara de
+incógnito y esta sacará
+una foto cuando batas
+un récord.","Sürpriz Çekim açıksa,
+rekor kırınca
+fotoğrafın çekilir!
+Çıt!",5,22.45,4,18.4,OK,OK,OK,Kısa kamera sesi “Snap!” Türkçede doğal ses efekti olarak “Çıt!” diye uyarlandı.,Shipped Latin localizations suggest this should fit.
+378,StgFace_Information_message08,"Meer! Meer! Meer
+gezichten! Probeer het
+ook eens met foto's
+en tekeningen!","More! More!
+More faces!
+Even faces from photos
+or drawings will do!","Encore des visages !
+Ceux issus de photos
+ou d'images feront
+très bien l'affaire !","Mehr! Mehr! Noch
+mehr Gesichter! Es
+klappt auch mit Bildern
+und Zeichnungen!","Cerca sempre nuove
+facce! Puoi fotografare
+anche ritratti o... altre
+foto!","Mais! Mais!
+Mais caras!
+Até caras de fotos ou
+desenhos servem!","Еще! Еще! Больше
+лиц! Подойдут даже
+лица с фотографий
+или рисунков!","Puedes conseguir más
+caras haciendo fotos
+de ilustraciones o de
+otras fotos.","顔をもっと増やすのダ!
+イラストや写真でも
+OKなのダ!","Collect more faces!
+You can get faces from
+photos or drawings!","Ça prend des visages!
+Même ceux provenant
+de photos ou d'images
+feront bien l'affaire!","Mais! Mais!
+Mais caras!
+Até caras de fotos ou
+desenhos servem!","Puedes conseguir más
+caras tomando fotos
+de ilustraciones o de
+otras fotos.","Daha! Daha!
+Daha çok yüz!
+Fotoğraf ve çizimlerdeki
+yüzler de olur!",4,21.1,4,21.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+379,StgFace_Information_message09,"Blader snel door de
+pagina's in Verzameling
+door op  of  te
+drukken! Zoef!","Flip through pages in
+Face Collection quickly
+by pressing  or !
+Flip-flip-flip-flip-flip!","Utilisez  ou  pour
+tourner rapidement
+les pages de votre
+collection !","Blättere durch die
+Gesichtergalerie
+mithilfe von  / !
+Das geht ratzfatz!","Cambia le pagine di
+Collezione premendo
+ o !","Vire rapidamente as 
+páginas da Coleção
+premindo  ou !","Для быстрого
+просмотра страниц
+в коллекции лиц
+нажми  или !","Usa  y  para pasar
+las páginas cuando
+tengas muchas caras
+en la colección.","「顔コレクション」
+でパッパッパなのダ!","Flip through pages in
+Face Collection quickly
+by pressing  or !","Utilisez  ou  pour
+tourner rapidement
+les pages de votre
+collection!","Vire as páginas da
+galeria de caras com
+ ou !","Usa  y  para pasar
+las páginas cuando
+tengas muchas caras
+en la colección.","Yüz Koleksiyonu’nda
+ veya  ile sayfaları
+şipşak çevir!
+Fırt fırt fırt!",4,20.05,4,19.8,OK,OK,OK,Sayfa çevirme onomatopesi diğer dillerdeki oyunbaz tona göre “Fırt fırt fırt!” olarak yeniden yaratıldı.,Shipped Latin localizations suggest this should fit.
+380,StgFace_Information_message10,"Druk op START
+om uit een level
+te vluchten!","If you want to flee
+from a stage,
+press START!","Pour vous échapper
+d'un stage en cours,
+appuyez sur START !","Wenn du aus einer
+Stufe fliehen musst,
+drücke START!","Se vuoi uscire da un
+livello mentre giochi,
+premi START.","Se quiser evitar um
+nível, prima START!","Если ты хочешь
+сбежать с уровня,
+нажми START!","Pulsa el botón START
+durante una fase para
+abandonarla.","ステージを途中で
+やめたいなら
+STARTボタンなのダ!","If you want to flee
+a stage, press START!","Pour vous enfuir
+d'un niveau en cours,
+appuyez sur START!","Aperte START para
+sair da fase!","Oprime el botón START
+durante una fase para
+abandonarla.","Bölümden kaçmak
+istersen START’a bas!",3,19.5,2,19.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+381,StgFace_Information_message11,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+382,StgFace_Information_message12,"Druk tijdens een level
+op  of  om een
+onvergetelijke foto
+te maken! ","If you press  or  in
+a stage, you can take
+a photo to remember
+the fun! Ah, memories!","Appuyez sur  ou 
+en cours de jeu pour
+prendre une petite
+photo-souvenir !","Während einer Stufe
+kannst du mit  / 
+Erinnerungsfotos
+aufnehmen!","Premendo  o 
+mentre giochi, puoi
+avere una foto ricordo
+del livello in cui sei!","Prima  ou  durante
+um nível para tirar uma
+foto e recordar 
+momentos divertidos!
+Ah, memórias!","Если ты нажмешь
+ или  во время
+игры, ты можешь
+сделать фото!","Pulsa  o  durante
+una fase para sacar
+una foto de recuerdo.","ステージでか!
+自分で記念写真が
+撮れるのダ!","If you press  or  in
+a stage, you can take
+a photo to remember
+the fun! Ah, memories!","Appuyez sur  ou 
+en cours de jeu pour
+prendre une petite
+photo souvenir!","Aperte  ou  durante
+uma fase para tirar uma
+foto e lembrar
+momentos divertidos!","Oprime  o  durante
+una fase para sacar
+una foto de recuerdo.","Bölümde  veya  ile
+hatıra fotoğrafı çek!
+Ah, ne günler!",5,20.95,3,18.65,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+383,StgFace_Information_message13,"Kies in Verzameling
+voor AANPASSEN om
+verzamelde gezichten
+te perfectioneren!","Use Adjust in Face
+Collection to fine-tune
+faces to perfection!","Utilisez Ajuster dans
+la collection pour
+positionner un visage
+au millimètre près !","In der Gesichtergalerie
+kannst du Gesichter
+unter „Zuschneiden“
+perfektionieren!","Se usi Modifica in
+Collezione, puoi dare
+libero sfogo alla tua
+vena artistica!","Utilize a função 
+Ajustar, na Coleção,
+para aperfeiçoar
+as caras!","Используй Подогнать
+в коллекции лиц,
+чтобы довести лица
+до совершенства!","Usa la opción ""Ajustar""
+en el modo Colección
+para retocar las caras
+a tu gusto.","「顔コレクション」の
+位置あわせで
+顔をいい感じに
+できるのダ!","Use Adjust in Face
+Collection to fine-tune
+faces to perfection!","Utilisez Ajuster dans
+la collection pour
+positionner un visage
+au millimètre près!","Use a função ""Ajustar
+cara"" em ""Galeria de
+caras"" para aperfeiçoar
+as caras!","Usa la opción Ajustar
+en el modo Colección
+para retocar las caras
+a tu gusto.","Yüz Koleksiyonu’ndaki
+Ayarla ile yüzlere
+son rötuşu yap!",4,21.55,3,19.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+384,StgFace_Information_message14,"Ik heb me laten
+vertellen dat er uit rode
+plekken iets moois zou
+kunnen komen!","Rumour has it that
+something nice might
+come out of red
+places!","Les éléments de décor
+rouges réservent de
+bonnes surprises...
+Enfin, il paraît !","An roten Orten kann dir
+etwas Gutes passieren!
+Nun, auf jeden Fall
+hörte ich so etwas!","Dicono in giro che
+nei posti rossi se ne
+vedono delle belle!
+Chissà...","Dizem que o vermelho 
+dá sorte!","Что-то милое может
+появиться из красных
+мест! По крайней
+мере, так я слышал!","Me han dicho que
+las zonas rojas ocultan
+algo interesante...
+¿Será verdad?","赤いところには
+なにかがあらわれる…
+というウワサなのダ!","Something nice might
+come out of red
+places! Well, that's
+what I hear, anyway!","Les éléments de décor
+rouges réservent de
+bonnes surprises...
+À ce qu'il paraît!","Dizem que o vermelho
+dá sorte! Bom, foi o
+que me falaram!","Me han dicho que
+las zonas rojas ocultan
+algo interesante...
+¿Será verdad?","Dedikoduya göre
+kırmızı yerlerden
+güzel bir şey çıkıyormuş!
+Ben demiyorum...",4,21.65,4,21.45,OK,OK,OK,"Dedikodu esprisi kelimesi kelimesine değil, Türkçedeki imalı anlatım ritmiyle “Ben demiyorum...” şeklinde uyarlandı.",Shipped Latin localizations suggest this should fit.
+385,StgFace_Information_message15,"Als de camera tijdens
+het spelen een gezicht
+herkent, verschijnt het
+als nieuw gezicht!","If the cameras pick
+up someone's face
+during play, it'll appear
+as a Fresh Face!","Un visage détecté par
+l'appareil photo en
+cours de jeu s'appelle
+un « visage inopiné » !","Wenn die Kamera im
+Spiel ein neues Gesicht
+erkennt, wird dieses
+zum Frischgesicht!","Se gli obiettivi trovano
+una faccia durante il
+gioco, viene aggiunta
+alla Collezione.","Se as câmaras focarem
+a cara de alguém
+durante o jogo, ela
+será exibida como uma
+Cara Nova!","Если во время игры
+камеры распознают
+чье-либо лицо, оно
+станет новым лицом!","Las cámaras capturarán
+caras nuevas si enfocas
+la cara de alguien
+mientras juegas.","遊びながら
+誰かの顔を映すと
+「生顔」が
+登場するのダ!","If the cameras pick
+up someone's face
+during play, it'll appear
+as a Fresh Face!","Surveillez l'écran pour
+voir les visages saisis
+sur le vif par l'appareil
+photo en cours de jeu!","Uma nova cara aparece
+quando a câmera
+detecta a cara de
+alguém durante o jogo!","Las cámaras capturarán
+caras nuevas si enfocas
+la cara de alguien
+mientras juegas.","Oyun sırasında kamera
+birinin yüzünü görürse,
+Sürpriz Yüz olarak
+karşına çıkar!",5,21.2,4,20.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+386,StgFace_Information_message16,"Zit je in de problemen,
+richt de camera's dan
+op een kleur! Wie weet
+krijg je wel hulp...","When in trouble, aim at
+a colour! Something
+just might come
+and help you!","En cas de danger,
+avoir une couleur dans le
+champ de l'appareil photo
+pourrait vous sauver !","Wenn du in Schwierig-
+keiten gerätst, visiere
+schnell eine Farbe an.
+Das hilft!","Se ti trovi nei guai,
+punta la console verso
+un colore: potresti
+avere un aiuto...","Quando não souber o
+que fazer, aponte as
+câmaras a uma cor!
+Pode ajudá-lo!","Если ты в беде,
+направь камеры на
+какой-нибудь цвет.
+Это может помочь!","Si estás en apuros,
+apunta a un color.
+¡No te arrepentirás!","ピンチの時は
+色を映すのダ!
+なにかが
+助けてくれるのダ!","When you're in trouble,
+point the cameras at
+a color! Something
+there might help you!","Quand ça se corse,
+avoir une couleur en
+ligne de mire pourrait
+vous tirer d'affaire!","Quando não souber o
+que fazer, aponte as
+câmeras a uma cor!
+Pode ser que te ajude!","Si estás en apuros,
+apunta con las cámaras
+a algo de algún color.
+¡Podría serte útil!","Başın dertteyse bir
+renge nişan al! Belki
+yardımına bir şey yetişir!",4,21.9,3,22.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+387,StgFace_Information_message17,"Nieuwe gezichten die
+de camera vindt, zie je
+in het spel. Versla ze
+en verzamel ze!","Fresh Faces appear
+when the camera picks
+up faces! Bag 'em
+by shooting 'em!","Battez les visages
+inopinés détectés
+par l'appareil photo
+pour les capturer !","Frischgesichter tauchen
+auf, wenn die Kamera
+im Spiel jemand Neues
+wahrnimmt...","Se gli obiettivi trovano
+una faccia nuova,
+apparirà nel gioco.
+Prendila!","As Caras Novas são
+exibidas quando a
+câmara foca uma cara!
+Derrote-as para as
+colecionar!","Когда камеры распоз-
+нают лицо, появляют-
+ся новые лица.
+Победи и собери их!","Si la cámara detecta
+una cara, esta aparece
+como cara nueva.
+¡Intenta atraparla!","顔を映すと出る「生顔」
+倒してゲットするのダ!","Fresh Faces appear
+when the camera
+picks up a face! Defeat
+them to collect them!","Éliminez les visages
+saisis sur le vif par
+l'appareil photo pour
+les collectionner!","Novas caras aparecem
+quando a câmera detecta
+uma cara! Atire nelas
+para colecioná-las!","Si la cámara detecta
+una cara, esta aparece
+como cara nueva.
+¡Intenta atraparla!","Kamera yüz görünce
+Sürpriz Yüz çıkar!
+Vurup indir,
+koleksiyonuna kat!",5,21.7,4,17.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+388,StgFace_Information_message18,"Vind meer mensen om
+Demonstratie te
+spelen, dan gebeurt er
+iets leuks!","Get more people to
+play Share the Fun!
+Something nice might
+just happen!","Partagez ce jeu avec
+plein de monde grâce
+à Mission éclair ! Une
+surprise vous attend !","Zeige deinen Freunden
+den Vorführmodus!
+Sicherlich passiert dann
+etwas Aufregendes!","Fai partecipare quanti
+più amici puoi a Gara
+di facce! Potresti avere
+una bella sorpresa!","Convide mais pessoas
+para jogar ao Modo 
+Partilhado! Vai ver
+como é divertido!","Предложи другим
+людям поиграть
+в Покажи другу!
+Произойдет хорошее!","Enseña el modo
+Demostración
+a más gente.
+¡No te arrepentirás!","遊んでくれた人を
+もっと増やすのダ!
+いいことが
+起こるのダ!","Don't be afraid to try
+Show a Friend!
+Something cool just
+might happen!","N'hésitez pas à essayer
+Jeu éclair. Une belle
+surprise vous attend
+peut-être... Qui sait?","Tente usar o modo
+amigo mais vezes!
+Algo legal pode
+acontecer!","Enseña el modo
+Demostración a
+más gente. ¡No
+te arrepentirás!","Daha çok kişiye oynat!
+Belki sürpriz olur!",4,21.2,2,19.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+389,StgFace_Information_message19,"Als je Sneaky shots
+aanzet, maak ik foto's
+van gezichten. Dat
+wordt lachen!","I'll take photos of faces
+if Sneaky Snaps is turned
+on! I hope I can get some
+nice snaps!","Des photos de visages
+seront prises si Photo
+surprise est activée !","Ich fotografiere Gesichter,
+wenn du SneakySnaps
+aktiviert hast. Das wird
+ein Riesenspaß!","Se Scatto matto è
+attivo, farò una foto
+a sorpresa. Spero di
+fare una foto perfetta!","Se o modo Fotos 
+Furtivas estiver ligado, 
+tirarei fotos a caras!
+Espero conseguir boas
+fotos!","Если Неожиданные
+снимки включены,
+я буду делать фото.
+Будет весело!","Sacaré fotos de caras
+cuando la Cámara de
+incógnito esté activada. 
+¡Ya verás qué risa!","びっくりシャッターＯＮで
+顔を写してもらうのダ!
+おもしろ写真を
+ゲットなのダ!","I'll take photos of your
+face if Surprise Snaps
+is on! I hope I can get
+some funny snaps!","Des photos de visages
+seront prises si Photo
+surprise est activée!","Vou tirar fotos da sua
+cara no modo foto-
+surpresa! Acho que
+vai ser engraçado!","Te sacaré fotos cuando
+la Cámara de incógnito
+esté activada. 
+¡Ya verás qué risa!","Sürpriz Çekim açıksa
+yüzleri çekerim!
+Umarım komik kareler
+yakalarım!",5,24.2,4,18.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+390,StgFace_Information_message20,"Laat de speler
+eens een foto van
+zijn of haar eigen
+gezicht maken!","Get the player to
+try taking a photo
+of their own face! ","Dites au joueur de
+prendre son propre
+visage en photo !","Bring den Spieler
+dazu, ein Selbstporträt
+zu machen! ","Lascia che i giocatori
+scattino le foto alle
+proprie facce!","O jogador deverá
+tentar tirar uma foto à
+própria cara!","Предложи игроку
+попробовать сделать
+фото своего лица!","Intenta que el jugador se
+haga una foto de la cara.","遊んでいる人に自分の顔を
+映してもらうのダ!","Get the player to
+try taking a photo
+of his/her own face! ","Dites au joueur de
+prendre son propre
+visage en photo!","O jogador deve tirar
+uma foto da
+própria cara!","Intenta que el jugador
+se tome una foto de
+la cara.","Oyuncuya kendi yüzünü
+çektirmeyi dene!",4,22.1,2,19.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+391,StgFace_Information_message21,"Vertel je vrienden dat
+ze in het spel foto's
+kunnen maken door op
+ of  te drukken!","Let your friends know
+they can take photos
+in-game! All you've got
+to do is press  or !","Dites à vos amis
+qu'ils peuvent prendre
+des photos en cours
+de jeu avec  ou  !","Sag deinen Freunden,
+dass sie im Spiel
+Fotos mit  / 
+machen können!","Spiega ai tuoi amici
+come fotografare un
+momento di gioco! Gli
+basta premere  o !","Diga aos seus amigos
+que podem tirar fotos
+durante o jogo! Basta
+premir  ou !","Скажи своим друзьям,
+что они могут делать
+фото в игре! Нужно
+просто нажать  или !","¡Diles a tus amigos que
+pueden hacer fotos
+mientras juegan si
+pulsan  o !","記念写真について
+相手に教えるのダ!
+かを
+押すだけなのダ!","Let your friends know
+they can take photos
+in-game! Remember,
+just press  or !","Dites à vos amis
+qu'ils peuvent prendre
+des photos en cours
+de jeu avec  ou !","Diga aos seus amigos
+que podem tirar fotos
+durante o jogo! É só
+apertar  ou !","¡Diles a tus amigos que
+pueden tomar fotos
+mientras juegan si
+oprimen  o !","Arkadaşlarına söyle:
+oyunda fotoğraf için
+ veya  yeter!",4,19.85,3,18.1,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+392,StgFace_Information_message22,"Wil je een gezicht
+demonstreren, kies
+er dan eentje dat
+erg grappig is!","When picking a face to
+show off to someone,
+choose one that'll
+really surprise 'em!","Quand vous choisissez
+le visage à montrer à
+un ami, sélectionnez
+le plus surprenant !","Wenn du das Spiel
+vorführst, solltest du
+ein wirklich gelungenes
+Gesicht wählen!","Quando scegli una
+faccia dalla Collezione,
+selezionane una che
+sorprenda tutti!","Quando escolher uma
+cara para mostrar a
+alguém, escolha uma
+que os surpreenda!","Если ты выбираешь
+лицо на показ, выбери
+такое, которое всех
+удивит!","Cuando enseñes el
+juego a un amigo,
+¡elige una cara que
+le sorprenda!","「見せたい顔」で
+相手がビックリするような
+顔を選ぶのダ!","When picking a face to
+show off to someone,
+choose one that'll
+really surprise 'em!","Quand vous choisissez
+un visage à montrer à
+un ami, sélectionnez
+le plus surprenant!","Escolha uma cara bem
+legal para mostrar
+aos seus amigos!","Cuando enseñes el
+juego a un amigo,
+¡elige una cara que
+le sorprenda!","Gösterirken gerçekten
+şaşırtacak bir yüz seç!",4,19.95,2,20.15,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+393,StgFace_Information_message23,"Houd iets roods of
+blauws omhoog, en
+zorg dat de camera
+het kan zien.","Try holding up
+something that's red or
+blue so that the
+camera can see it!","Cadrez un élément
+rouge ou bleu pour
+que l'appareil photo
+le détecte !","Richte das System
+auf einen blauen oder
+roten Hintergrund!","Prova a tenere in alto
+qualcosa di rosso o blu
+in modo che sia visibile
+agli obiettivi.","Agarre em algo
+vermelho ou azul, para
+que a câmara o
+distinga!","Держи что-нибудь
+красное или синее
+в фокусе камеры!","¡Apunta con la cámara
+a algo rojo o azul!","赤色や青色をカメラに
+映るようにかざすのダ!","Hold up something
+red or blue so that
+the camera can see it!","Cadrez un élément
+rouge ou bleu pour
+que l'appareil photo
+le détecte!","Segure algo azul ou
+vermelho para que
+a câmera possa
+detectar!","¡Apunta con la cámara
+a algo rojo o azul!","Kameraya kırmızı ya da
+mavi bir şey göster!",4,20.8,2,19.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+394,StgFace_Information_message24,"Om nieuwe gezichten
+te verzamelen moet je
+ze eerst verslaan!","Shoot Fresh Faces to
+collect faces easily! Try
+to get faces on
+camera during play!","Cadrez des visages en
+cours de jeu pour faire
+apparaître des visages
+inopinés à capturer.","Frischgesichter zu
+bezwingen, ist eine
+elegante Art, Gesichter
+zu sammeln!","Per collezionare altre
+facce, cattura le Facce
+nuove che vedi in giro
+durante il gioco!","Poderá facilmente obter
+caras derrotando Caras 
+Novas! Apanhe-as
+durante o jogo!","Собирай лица,
+побеждая новые лица!
+Попробуй поймать
+лица во время игры!","Puedes aumentar tu
+colección fácilmente si
+derrotas caras nuevas
+mientras juegas.","「生顔」を倒すと、顔が
+かんたんに手に入るのダ!
+顔を映して
+もらうのダ!","You can get faces
+easily by beating a
+Fresh Face! Try it and
+capture some faces!","Éliminez les visages
+saisis sur le vif pour
+les ajouter à votre
+collection!","É fácil aumentar sua
+coleção se derrotar
+novas caras!
+Experimente!","Puedes aumentar tu
+colección fácilmente si
+derrotas caras nuevas
+mientras juegas.","Sürpriz Yüzleri vur,
+yüzleri kolayca topla!
+Oynarken kameraya
+yüz yakalat!",4,21.5,4,18.75,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+395,StgFace_Information_message25,"Je kunt nieuwe
+levels vrijspelen
+door gezichten
+te verzamelen!","You can unlock
+new stages by
+collecting faces!","Collectionnez les
+visages pour
+débloquer de
+nouveaux stages !","Du schaltest Stufen
+frei, indem du fleißig
+Gesichter sammelst!","Collezionando nuove
+facce potrai sbloccare
+altri livelli!","Colecione caras e 
+desbloqueie novos
+níveis!","Собирая лица, ты
+можешь открыть
+новые уровни!","¡Colecciona caras para
+desbloquear más fases!","顔を集めると
+新しいステージが
+遊べるのダ!","You can unlock
+new stages by
+collecting faces!","Collectionnez des
+visages pour
+débloquer de
+nouveaux niveaux!","Colecione mais caras
+para abrir mais fases!","¡Colecciona caras para
+desbloquear más fases!","Yüz topla,
+yeni bölümler açılsın!",4,20.3,2,18.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+396,StgFace_Information_message26,"Hier kun je je vrienden
+en familieleden kennis
+laten maken met
+Gezichtenjacht!","Introduce people to
+Face Raiders here! Let
+your friends and
+family have a go!","Initiez vos proches à
+La guerre des têtes
+grâce à ce mode !","Du kannst Face Raiders
+deiner Familie oder
+Freunden vorführen!
+Teile den Spaß!","Da qui puoi presentare
+Caccia alla faccia ai
+tuoi amici e parenti!
+Avvisami però, così
+mi do una pettinata!","Mostre o Face Raiders
+às outras pessoas!
+Convide os seus
+amigos e família a 
+experimentar!","Здесь ты можешь
+показать Face Raiders
+другим! Дай поиграть
+друзьям!","¡Aquí puedes enseñar
+Atrapacaras a tu familia
+y amigos!","ここは、このゲームを
+紹介する場所なのダ!
+いろんな人に
+遊んでもらうのダ!","This is a fast way to show
+Face Raiders to friends
+and family. Try it out!","Initiez vos proches à
+Face Raiders grâce
+à ce mode!","Mostre o Face Raiders
+a outras pessoas!
+Convide sua família e
+amigos para jogar!","¡Aquí puedes enseñar
+Face Raiders a tu
+familia y amigos!","Face Raiders’ı burada
+tanıt! Arkadaşların
+ve ailen de oynasın!",5,22.5,3,19.1,OK,OK,OK,Oyun adı marka/başlık olduğu için “Face Raiders” çevrilmeden korundu.,Shipped Latin localizations suggest this should fit.
+397,StgFace_Information_message27,"De gezichten die je
+verzamelt verschijnen
+waar en wanneer ze
+maar willen!","Get more faces and
+they might turn up in a
+stage by surprise! Try
+replaying stages!","Obtenez plus de visages
+et ceux-ci pourraient faire
+une apparition-surprise
+dans un stage ! N'hésitez
+pas à rejouer les stages !","Von dir gesammelte
+Gesichter werden in
+dein Spiel kommen, wie
+es ihnen gefällt!","Più facce collezioni,
+più ne potrai vedere
+mentre giochi! Prova
+a rigiocare i livelli!","Reúna mais caras e
+estas poderão aparecer
+de surpresa num nível!
+Repita níveis!","Собери больше лиц,
+и они могут появиться
+на другом уровне!
+Повторяй уровни!","¡Colecciona más caras
+y puede que aparezcan
+por sorpresa! ¡Repite
+las fases y verás!","顔が増えると
+出てくる顔も変わるのダ!
+もう一度ステージを
+遊んでみるのダ!","Get more faces and
+see if they surprise you
+while you're playing!
+Try replaying stages! ","Obtenez plus de visages
+et ceux-ci pourraient faire
+une apparition-surprise
+dans un niveau! N'hésitez
+pas à rejouer les niveaux!","Consiga mais caras e
+elas podem aparecer
+nas fases! Tente jogar
+as fases de novo!","¡Colecciona más caras
+y puede que aparezcan
+por sorpresa! ¡Repite
+las fases y verás!","Yüzler çoğalınca
+bölümlerde sürpriz
+çıkabilir!
+Tekrar oyna!",5,24.15,4,16.35,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+398,StgFace_Information_message28,"Je moet echt
+Demonstratie
+eens proberen!","You should give
+Share the Fun
+a bash sometime!","N'oubliez pas d'essayer
+le mode Mission éclair !","Du solltest ruhig mal
+den Vorführmodus
+ausprobieren!","Prova la tua abilità con
+Gara di facce di tanto
+in tanto!","Jogue no Modo
+Partilhado de vez em
+quando!","Попробуй поиграть
+в Покажи другу!","¡Deberías probar el
+modo Demostración
+de vez en cuando!","ためしに一度
+自分で遊んでみると
+いいのダ!","You might even want to
+play Show a Friend! by
+yourself just for kicks!","Essayez Jeu éclair
+par vous-même et
+cela pourrait bien
+s'avérer rigolo!","Se quiser, você pode
+jogar no modo amigo
+você mesmo!","¡Deberías probar el
+modo Demostración
+de vez en cuando!","Bir ara sen de
+bu modu dene!",4,21.15,2,12.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+399,StgFace_Information_message29,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+400,StgFace_Information_message30,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+401,StgFace_Information_message31,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+402,StgFace_Information_message32,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+403,StgFace_Information_message33,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+404,StgFace_Information_message34,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+405,StgFace_Information_message35,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+406,StgFace_Information_message36,,,,,,,,,,,,,,,1,0.0,0,0.0,EMPTY,OK,OK,,
+407,StgFace_FaceCollection_notes,"Je kunt geen gezicht wissen
+als je er maar eentje hebt.","You can't delete faces when
+you only have one face left.","S'il ne vous reste qu'un visage,
+vous ne pouvez pas l'effacer.","Du kannst keine Gesichter
+löschen, wenn du
+nur eins besitzt.","Non puoi cancellare una faccia
+se è l'unica che ti rimane.","Não é possível apagar caras
+quando só tem uma.","Ты не можешь удалить лица,
+если у тебя осталось только
+одно.","No puedes borrar esta cara si es
+la única en la colección.","顔が1つの時は
+消去できません。","You can't delete faces when
+you only have one face left.","S'il ne vous reste qu'un visage,
+vous ne pouvez pas l'effacer.","Não é possível deletar caras
+quando tiver só uma.","No puedes borrar caras si solo
+te queda una.","Tek bir yüzün kaldığında
+yüz silemezsin.",3,28.55,2,20.7,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+408,StgFace_FaceCollection_rephotograph,"Maak een foto van het
+gezicht dat je opnieuw
+wilt fotograferen.","Take a photo of the
+face you want to retake.","Reprenez le visage
+choisi en photo.","Mach ein Foto von dem
+Gesicht, das du erneut
+aufnehmen willst.","Scatta un'altra foto
+alla faccia se la prima
+non ti piace.","Tire uma foto à cara que
+quer voltar a fotografar.","Сделай фото лица,
+которое ты хочешь
+сфотографировать
+повторно.","Vuelve a hacer una foto
+de la cara.","撮りなおす顔を
+写してください。","Take a photo of the
+face you want to retake.","Reprenez le visage
+choisi en photo.","Tire uma foto da cara
+que deseja fotografar
+de novo.","Vuelve a tomar una foto
+de la cara.","Yeniden çekmek istediğin
+yüzün fotoğrafını çek.",4,22.6,2,21.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+409,StgFace_FaceRegister_full,"Op dit moment kunnen
+er geen gezichten meer
+worden opgeslagen.","No more faces can
+be saved at this time.","Le nombre maximal de
+visages sauvegardés
+a été atteint.","Zurzeit können keine
+weiteren Gesichter
+gespeichert werden.","Ora non è possibile
+salvare altre facce.","Já não é possível
+guardar mais caras.","В этот раз больше
+невозможно сохранить
+новые лица.","No se pueden guardar
+más caras por ahora.","顔がいっぱいなので
+記録されません。","No more faces can
+be saved at this time.","Vous ne pouvez pas
+sauvegarder d'autres
+visages actuellement.","Já não é possível
+salvar mais caras.","No se pueden guardar
+más caras por ahora.","Şu anda başka yüz
+kaydedilemiyor.",3,20.25,2,15.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+410,StgFace_FaceRegister_full_button,Beginnen,Start,Démarrer,Anfangen,Comincia,Iniciar,Начать,Comenzar,はじめる,Start,Démarrer,Começar,Comenzar,Başla,1,8.2,1,4.55,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+411,StgFace_data_initialization,"Wil je de gegevens
+van Gezichtenjacht
+wissen?","Reset data for
+Face Raiders?","Réinitialiser les
+données du jeu ?","Die Speicherdaten
+für Face Raiders
+zurücksetzen?","Vuoi formattare i dati
+di Caccia alla faccia?","Reiniciar dados do
+Face Raiders?","Сбросить данные игры
+Face Raiders?","¿Quieres borrar los
+datos de Atrapacaras?","顔シューティングの
+データを初期化します。","Reset data for
+Face Raiders?","Réinitialiser les
+données du jeu
+Face Raiders?",Formatando dados...,"Borrando datos
+de Face Raiders.","Face Raiders verileri
+sıfırlansın mı?",3,20.0,2,18.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+412,StgFace_data_initialization_button,Wissen,Reset Data,Réinitialiser,Zurücksetzen,Formatta,Reiniciar,Сброс,Borrar datos,初期化する,Reset Data,Réinitialiser,Formatar,Borrar datos,Veriyi Sıfırla,1,12.0,1,11.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+413,StgFace_data_initialization_reminder,"De gegevens gaan
+voor altijd verloren.
+Weet je het zeker?","Data cannot be
+restored once reset.
+Are you sure?","Vous ne pourrez pas
+récupérer les données
+réinitialisées. OK ?","Gelöschte Spieldaten
+können nicht wieder-
+hergestellt werden.
+Bist du dir sicher?","Se formatti i dati, non
+potrai più recuperarli.
+Confermi?","Não é possível
+restaurar os dados
+após serem reiniciados.
+Deseja continuar?","После сброса данные
+невозможно восстано-
+вить. Продолжить?","Los datos borrados no
+se podrán recuperar.
+¿Quieres continuar?","初期化するとデータを元に
+戻すことはできません。
+本当にいいですか？","Data cannot be
+restored once reset.
+Are you sure?","Vous ne pourrez pas
+récupérer les données
+réinitialisées. OK?","Não será possível
+recuperar os dados.
+Deseja continuar?","Los datos borrados no
+se podrán recuperar.
+¿Quieres continuar?","Sıfırlanan veriler
+geri getirilemez.
+Emin misin?",4,20.4,3,15.25,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+414,StgFace_data_initialization_reminder_button,Ja,I'm sure,OK,Natürlich!,Sì,Sim,Да,Sí,本当にいい,I'm sure,OK,Sim,¡Pues claro!,Eminim,1,10.6,1,5.5,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+415,StgFace_data_initialization_run,"De gegevens worden gewist...
+Zet het systeem niet uit.","Resetting data... Please do not
+turn off the power.","Réinitialisation...
+N'éteignez pas la console.","Daten werden zurückgesetzt...
+Das System nicht ausschalten.","Formattazione dei dati
+in corso...
+Non spegnere la console.","A reiniciar dados...
+Não desligue a consola.","Идет сброс данных...
+Пожалуйста, не выключайте
+систему.","Borrando datos...
+No apagues la consola.","初期化しています。
+電源を切らないでください。","Resetting data... Please do not
+turn off the power.","Réinitialisation en cours...
+N'éteignez pas la console.","Formatando dados...
+Não desligue o console.","Borrando datos...
+No apagues la consola.","Veriler sıfırlanıyor...
+Lütfen konsolu kapatmayın.",3,26.85,2,23.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+416,StgFace_screenshot_message_on,Tekst toevoegen,Add caption,Légende,Untertitel hinzufügen,Mostra info,Inserir Legenda ,Добавить инфо,Mostrar información,ふきだし　表示,Add caption,Légende,Inserir legenda ,Mostrar información,Yazı ekle,1,19.15,1,7.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+417,StgFace_screenshot_message_off,Tekst verwijderen,Don't add caption,Sans légende,Kein Untertitel,Nascondi info,Não Inserir Legenda,Не добавлять,Ocultar información,ふきだし　消す,Don't add caption,Sans légende,Não inserir legenda,Ocultar información,Yazı ekleme,1,17.55,1,9.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+418,StgFace_SDcard_message_code_text_25,"De SD-kaart is tegen schrijven
+beveiligd.
+
+Schakel het systeem uit, zet de
+schrijfbeveiliging op de SD-kaart
+uit en voer hem opnieuw in.","Cannot write to the SD Card.
+
+Please turn off the power, move
+the SD Card's write-protection
+switch to the off position, then
+reinsert the SD Card.","La carte SD est protégée en écriture.
+
+Éteignez la console, retirez la
+protection de la carte SD, puis
+réinsérez-la dans la console.","Auf die SD Card kann nicht
+geschrieben werden.
+
+Bitte schalte das System aus, hebe
+den Schreibschutz der SD Card auf
+und stecke die SD Card erneut ein.","La scheda SD è protetta
+da scrittura.
+Spegni la console, disattiva
+la protezione e reinserisci
+la scheda SD.","Não é possível guardar dados neste
+Cartão SD.
+
+Desligue a consola, mova a patilha
+de proteção contra escrita e volte
+a inserir o Cartão SD.","Карта SD защищена от записи.
+
+Пожалуйста, выключите
+систему, снимите защиту от
+записи с карты SD, затем
+вновь вставьте карту SD.","No se puede escribir
+en la tarjeta SD.
+Apaga la consola, retira la
+protección contra escritura
+de la tarjeta SD y vuelve
+a insertar la tarjeta SD.","SDカードが書き込み禁止に
+なっています。
+
+電源をOFFにしてSDカードの
+書き込み禁止スイッチを解除し
+さし直してください。","Cannot write to the SD Card.
+
+Please turn off the power, move
+the SD Card's write-protection
+switch to the unlocked position,
+and then reinsert the SD Card.","La carte SD est protégée en écriture.
+
+Éteignez la console, retirez la
+protection de la carte SD, puis
+réinsérez-la dans la console.","Não é possível salvar no cartão SD.
+
+Desligue o console, mova a trava
+de proteção contra gravação para
+destravar o cartão SD e
+insira-o novamente.","No se puede escribir
+en la tarjeta SD.
+Apaga la consola, retira la
+protección contra escritura
+de la tarjeta SD y vuelve
+a insertar la tarjeta SD.","SD Karta yazılamıyor.
+
+Lütfen konsolu kapatın, SD Kartın
+yazma koruma anahtarını kapalı
+konuma getirin ve SD Kartı
+yeniden takın.",6,33.1,6,29.2,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+419,StgFace_SDcard_message_code_text_23,"Er is geen SD-kaart gevonden.
+Schakel het systeem uit en
+voer een SD-kaart in.","There is no SD Card inserted.
+Please turn off the system
+and insert an SD Card into
+the SD Card slot.","Aucune carte SD n'est détectée.
+Éteignez la console et insérez une
+carte SD dans le port carte SD.","Es ist keine SD Card eingesteckt.
+Bitte schalte das System aus
+und stecke eine SD Card in
+den SD Card-Steckplatz.","Nella console non è inserita
+alcuna scheda SD.
+Spegni la console e inserisci
+una scheda SD nello slot
+scheda SD.","Não existe nenhum Cartão SD
+inserido. Desligue, por favor,
+a consola e insira um Cartão SD na
+ranhura para Cartões SD.","Карта SD не вставлена.
+Пожалуйста, выключите систему
+и вставьте карту SD в слот
+для карт SD.","No se encuentra ninguna
+tarjeta SD. Apaga la consola
+e inserta una tarjeta SD en
+la ranura para tarjetas SD.","SDカードがささっていません。
+電源をOFFにして本体にSDカードを
+さしこんでください。","There is no SD Card inserted.
+Please turn off the system
+and insert an SD Card into
+the SD Card slot.","Aucune carte SD n'est détectée.
+Éteignez la console et insérez une
+carte SD dans la fente pour carte SD.","Não foi possível detectar um
+cartão SD. Desligue o console e
+insira um cartão SD na entrada SD.","No se encuentra ninguna
+tarjeta SD. Apaga la consola
+e inserta una tarjeta SD en
+la ranura para tarjetas SD.","SD Kart takılı değil.
+Lütfen konsolu kapatın ve
+SD Kart yuvasına bir
+SD Kart takın.",5,32.6,4,22.6,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+420,StgFace_SDcard_message_code_text_30,"Er is niet genoeg vrije ruimte
+op de SD-kaart. Wis gegevens
+om ruimte vrij te maken of
+gebruik een SD-kaart met
+meer vrije ruimte.","No more pictures can be saved
+to the SD Card. Either delete
+pictures to make space, or use
+an SD Card with more free space.","Impossible de sauvegarder plus
+de données sur cette carte SD.
+Effacez des données ou utilisez
+une autre carte SD.","Es können keine weiteren Daten
+mehr auf der SD Card gespeichert
+werden. Bitte lösche einige Daten
+oder verwende eine SD Card mit
+mehr freiem Speicherplatz.","Nella scheda SD non c'è
+abbastanza spazio. Cancella
+alcuni dati, oppure usa una
+scheda SD con più spazio libero.","Não é possível guardar mais fotos no
+Cartão SD. Apague algumas fotos ou
+use um cartão com mais espaço livre.","На карте SD нельзя сохранить
+новые данные. Или удалите
+данные, чтобы освободить
+место, или используйте
+карту SD, на которой больше
+свободного места.","No se pueden guardar más imágenes
+en la tarjeta SD. Borra imágenes o
+usa una tarjeta SD que tenga más
+espacio libre.","SDカードの
+残り保存可能枚数が0枚です。
+これ以上保存できません。
+※写真を消すか
+空き容量のあるSDカードを
+お使いください。","No more pictures can be
+saved as the SD Card
+does not have sufficient
+free space available.","Espace libre insuffisant
+sur la carte SD. Aucune
+photo ne peut être
+sauvegardée.","Não há mais espaço suficiente no
+cartão SD para salvar imagens.","No se pueden guardar más
+imágenes en la tarjeta SD porque
+no tiene suficiente espacio libre.","SD Karta başka fotoğraf
+kaydedilemiyor. Yer açmak için
+fotoğrafları silin veya daha fazla
+boş alanı olan bir SD Kart kullanın.",6,32.3,4,29.4,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+421,StgFace_FaceCollection_decision, Oké, Confirm, OK, Okay, OK, OK, OK, Aceptar,決定, OK, OK, OK, Aceptar, Onayla,1,9.3,1,8.05,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+422,StgFace_asondemorau_bonus_text04,Vijf treffers zouden genoeg moeten zijn!,Shoot it five times to defeat it!,Touchez-le cinq fois pour le battre !,5 Treffer sollten reichen!,Ti bastano 5 colpi per vincere!,Dispare cinco vezes para o derrotar!,"Попади пять раз, чтобы победить!",¡Dispárale 5 veces para derrotarlo!,5回うって倒せ!,Shoot it five times to defeat it!,Tirez dessus cinq fois pour l'éliminer!,Atinja-o 5 vezes para derrotá-lo!,¡Dispárale 5 veces para derrotarlo!,Yenmek için beş kez vur!,1,36.35,1,20.85,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+423,StgFace_Lower_ranking,Klassement,Leaderboard,Classement,Highscore-Liste,Classifica,Tabela de Classificações,Классификация,Clasificación,ランキング,Leaderboards,Classement,Ranking,Clasificación,Sıralama,1,21.2,1,7.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+424,StgFace_Game_Explain_photo_illustration,Fotografeer een foto of tekening!,Photos/drawings of faces are OK!,Utilisez aussi images et photos !,Knips auch abgebildete Gesichter!,Fotografa anche immagini e foto!,Fotografe imagens e fotos!,Фото/рисунки лиц в порядке!,Saca caras de ilustraciones y fotos.,写真やイラストの顔でもOKです,Faces from pictures work too!,Photographiez des images aussi!,Caras em fotos também funcionam!,También sirven las fotos con caras.,Fotoğraf ve çizim yüzleri de olur!,1,31.7,1,29.0,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+425,StgFace_SDcard_message_plaza_text_03,"De aanvullende gegevens
+worden opgeslagen...
+Verwijder de SD-kaart niet.","Creating extra data...
+Do not remove the SD Card.","Création des données
+additionnelles...
+Ne retirez pas la carte SD.","Zusatzdaten werden angelegt...
+Bitte die SD Card nicht entfernen.","Creazione dati aggiuntivi in corso...
+Non rimuovere la scheda SD.","A criar dados adicionais...
+Não remova o Cartão SD.","Идет создание дополнительных
+данных...
+Не извлекайте карту SD.","Creando datos adicionales...
+No extraigas la tarjeta SD.","追加データを作っています。
+SDカードを抜かないでください。","Creating extra data...
+Do not remove the SD Card.","Création des données
+additionnelles en cours...
+Ne retirez pas la carte SD.","Criando dados adicionais...
+Não retire o cartão SD.","Creando datos adicionales...
+No extraigas la tarjeta SD.","Ek veri oluşturuluyor...
+SD Kartı çıkarmayın.",3,30.95,2,20.3,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
+426,StgFace_Lower_PadAdjust_LRXY, Vervormen, Resize, Dimensions, Verformen, Dimensioni, Reajustar, Размер, Tamaño, 顔を変形する, Adjust face, Dimensions, Ajustar cara, Ajustar cara, Boyutlandır,1,19.2,1,17.8,OK,OK,OK,,Shipped Latin localizations suggest this should fit.
