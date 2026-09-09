@@ -1,0 +1,16 @@
+ARAÇLAR
+
+araclar/mii_plaza_update_tr_tool.py
+  Güncel Update Data içindeki BMSM dosyalarını çıkarma, 8 dili CSV'ye aktarma,
+  placeholder doğrulama, Türkçe BMSM oluşturma ve LA4 fontlarını Türkçe gliflerle yamalama aracı.
+
+Örnek:
+  python mii_plaza_update_tr_tool.py extract miiplaza.zip --out romfs
+  python mii_plaza_update_tr_tool.py export romfs --csv ceviri.csv
+  python mii_plaza_update_tr_tool.py validate ceviri.csv
+  python mii_plaza_update_tr_tool.py build romfs ceviri.csv --out patch --allow-incomplete
+
+araclar/mii_plaza_tr_tool.py
+  Temel CXI içindeki eski MEET.msbt yapısı için araçtır.
+
+CSV dosyaları "ceviri" klasöründedir. Update CSV'sinde 8 resmî dil yan yana ve en sağda Turkish sütunu bulunur.

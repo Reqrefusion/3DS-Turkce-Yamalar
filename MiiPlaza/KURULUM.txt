@@ -1,0 +1,27 @@
+STREETPASS MII PLAZA TÜRKÇE YAMA - KURULUM
+
+Bu paket Avrupa StreetPass Mii Plaza temel başlığı ve Avrupa Update Data içeriği için hazırlanmıştır.
+
+1) SD kartındaki eski Mii Plaza yama klasörünü yedekle:
+   /luma/titles/0004001000022800/
+
+2) Eski deneme yamasının dosyalarının karışmaması için bu klasörü temizle veya yedeğe taşı.
+
+3) Bu paketteki "luma" klasörünü SD kartın köküne kopyala.
+   Sonuç şu şekilde olmalı:
+   SD:/luma/titles/0004001000022800/romfs/...
+
+4) Konsolu SELECT basılı aç ve Luma yapılandırmasında "Enable game patching" seçeneğinin açık olduğundan emin ol.
+
+5) StreetPass Mii Plaza Update Data kurulu kalmalı. Oyunu HOME Menu'den normal şekilde aç.
+
+Yama sekiz Avrupa dil klasörünün tamamına uygulanmıştır; konsol dilini İngilizceye çevirmen gerekmez.
+
+HIZLI KONTROL
+Oyunda "StreetPass Mii Plaza" başlığının metin olarak kullanıldığı yerlerde "StreetPass Mii Meydanı" ve ana Plaza menülerinde "Meydan", "Evet", "Hayır" gibi Türkçe metinler görünmelidir.
+
+Yama hiç görünmüyorsa:
+- SD yolunun yanlışlıkla .../Mii_Plaza_Turkce_Paket/luma/... şeklinde iç içe olmadığını kontrol et.
+- Doğru yol doğrudan SD:/luma/titles/0004001000022800/romfs/... olmalı.
+- Enable game patching açık olmalı.
+- Luma3DS'i güncel tut.
