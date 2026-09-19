@@ -1,0 +1,29 @@
+DR. MARIO TÜRKÇE YAMA — BURADAN BAŞLAYIN
+
+1. ZIP'i bir klasöre çıkarın; ZIP'in içinden kopyalama yapmayın.
+2. Oyunun başlık kimliği 000400000013BB00 olmalıdır.
+3. 3DS'te Luma3DS ve oyun kurulu olmalıdır. Bu paket oyun veya Luma3DS kurmaz.
+4. Konsolu kapatın, SD kartı bilgisayara takın.
+5. SD:/luma/titles/000400000013BB00 klasörü varsa önce bilgisayara yedekleyin.
+   Önceki Dr. Mario yamasını deniyorsanız yedekten sonra eski yama klasörünü
+   kaldırın; böylece eski dosyalar yeni yamaya karışmaz.
+6. Bu paketin LayeredFS klasörünü açın. İçindeki luma klasörünü SD kartın
+   köküne kopyalayın. Son yol şu olmalıdır:
+   SD:/luma/titles/000400000013BB00/romfs/
+   SD kartta LayeredFS/luma veya luma/luma gibi fazladan bir katman olmamalı.
+7. SD kartı konsola takın. SELECT basılıyken konsolu açın.
+8. Luma3DS menüsünde Enable game patching seçeneğini etkinleştirin.
+   Menüde gösterilen kaydet/çık tuşuyla çıkın.
+9. Oyunu normal şekilde açın. MUCİZE TEDAVİ LABORATUVARI ve ÖZEL KLİNİK
+   düğmelerini, DURAKLAT yazısını ve eğitim açıklamalarını kontrol edin.
+
+Hazır yamayı kullanmak için Python gerekmez.
+Yamayı kaldırmak için bu oyuna ait yama klasörünü kaldırın veya yedeği geri koyun.
+Oyun kaydı bu paketin içinde değildir.
+
+Gorsel_Karsilastirma.html: 100 görselin özgün/Türkçe karşılaştırması.
+README.md: sıfırdan kullanım, düzenleme, yeniden oluşturma ve sorun giderme.
+DOGRULAMA.txt: yapılan kontroller ve sınırları.
+
+Bu paket dosya ve görsel denetimlerinden geçirilmiştir. Gerçek 3DS veya
+emülatör üzerinde oynanış testi yapılmamıştır.

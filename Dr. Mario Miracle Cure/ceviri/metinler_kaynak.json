@@ -1,0 +1,1172 @@
+{
+  "stage_help.msbt": [
+    {
+      "index": 0,
+      "label": "STAGE_HELP_001",
+      "text": "Intro to Dr. Mario"
+    },
+    {
+      "index": 1,
+      "label": "STAGE_HELP_002",
+      "text": "Intro to Dr. Luigi"
+    },
+    {
+      "index": 2,
+      "label": "STAGE_HELP_003",
+      "text": "Advanced L-Capsules"
+    },
+    {
+      "index": 3,
+      "label": "STAGE_HELP_004",
+      "text": "Blasting Capsules"
+    },
+    {
+      "index": 4,
+      "label": "STAGE_HELP_005",
+      "text": "Z-Blasting Capsules"
+    },
+    {
+      "index": 5,
+      "label": "STAGE_HELP_006",
+      "text": "Blasting Viruses"
+    },
+    {
+      "index": 6,
+      "label": "STAGE_HELP_007",
+      "text": "Zap Attacks"
+    },
+    {
+      "index": 7,
+      "label": "STAGE_HELP_008",
+      "text": "Explosive Treatments"
+    },
+    {
+      "index": 8,
+      "label": "STAGE_HELP_009",
+      "text": "Miracle Cure Combos"
+    },
+    {
+      "index": 9,
+      "label": "STAGE_HELP_010",
+      "text": "Shocking Sabotage"
+    },
+    {
+      "index": 10,
+      "label": "STAGE_HELP_DESCRIPTION_001",
+      "text": "Right, let's learn the basics! Your goal\nis to eliminate all of the viruses in the\nbottle. To clear a virus, place capsules\nthat match its color next to it to create\na set of four matching pieces in a\nhorizontal or vertical line. If you plan\nahead, you can form chain reactions\nthat eliminate many viruses in one go!"
+    },
+    {
+      "index": 11,
+      "label": "STAGE_HELP_DESCRIPTION_002",
+      "text": "Dr. Luigi's speciality is using L-shaped\ncapsules called \"L-capsules\" to clear\nviruses. In every other respect this\nmode plays like Dr. Mario, but it's very\nimportant to remember that Dr. Luigi's\ncapsules require a bit of a different\nstrategy because of their shape."
+    },
+    {
+      "index": 12,
+      "label": "STAGE_HELP_DESCRIPTION_003",
+      "text": "As the difficulty increases in Dr. Luigi\nmode, his L-capsules change from\nhaving three pieces in one color and\none in another to having two pieces in\none color and two in another. This can\nreally change how you place them. Try\nout this style of L-capsule here, in a\nslightly harder stage."
+    },
+    {
+      "index": 13,
+      "label": "STAGE_HELP_DESCRIPTION_004",
+      "text": "Capsule Blasters are handy when you\nneed to clear out excess capsules.\nUse one in a set of its own color, and\nall matching capsules will vanish."
+    },
+    {
+      "index": 14,
+      "label": "STAGE_HELP_DESCRIPTION_005",
+      "text": "Capsule Blaster Z is a truly remarkable\nmiracle cure. Use it in a set of any\ncolor, and all of the capsules that are\nin your bottle will disappear!"
+    },
+    {
+      "index": 15,
+      "label": "STAGE_HELP_DESCRIPTION_006",
+      "text": "Virus Blasters are an incredible way to\nclear your bottle fast. Use one in a set\nof its own color to eliminate every\nvirus of that color in one go!"
+    },
+    {
+      "index": 16,
+      "label": "STAGE_HELP_DESCRIPTION_007",
+      "text": "Zappers are very useful when things\nare looking grim. They blast entire\nlines clean, eliminating both viruses\nand capsules with surgical precision."
+    },
+    {
+      "index": 17,
+      "label": "STAGE_HELP_DESCRIPTION_008",
+      "text": "When dire times call for drastic action,\nnothing works quite like an Exploder.\nThe moment it lands, it detonates,\ntaking out everything around it."
+    },
+    {
+      "index": 18,
+      "label": "STAGE_HELP_DESCRIPTION_009",
+      "text": "Can you use a Zapper or Exploder to\nactivate both the Virus Blaster and the\nCapsule Blaster in one go? If so, you\ncan trigger quite an impressive combo!"
+    },
+    {
+      "index": 19,
+      "label": "STAGE_HELP_DESCRIPTION_010",
+      "text": "Some miracle cures disrupt opponents\nduring vs. play. Reversers swap the\ncontrols, Lockers prevent rotations,\nand Boosters increase drop speed."
+    }
+  ],
+  "boot_dialog.msbt": [
+    {
+      "index": 0,
+      "label": "BOOT_NEW_CREATE_SAVE_DATA",
+      "text": "Creating save data..."
+    },
+    {
+      "index": 1,
+      "label": "BOOT_BROKEN_SAVE_DATA",
+      "text": "Save data is corrupted\nand must be reset."
+    },
+    {
+      "index": 2,
+      "label": "BOOT_LOAD_SAVE_DATA",
+      "text": "Loading save data..."
+    },
+    {
+      "index": 3,
+      "label": "BOOT_LOAD_COMPLEATE_AND_HOMEMSG",
+      "text": "Save data loaded.\n\nIf you want to return to the HOME\nMenu, press the HOME Button."
+    },
+    {
+      "index": 4,
+      "label": "BOOT_INIT_COMPLEATE_AND_HOMEMSG",
+      "text": "Save data created.\n\nIf you want to return to the HOME\nMenu, press the HOME Button."
+    },
+    {
+      "index": 5,
+      "label": "BOOT_SAVE_INVALID_MSG",
+      "text": "Unable to create save data.\n\nYou can play the game,\nbut settings and results\nwill not be saved."
+    }
+  ],
+  "error_eula.msbt": [
+    {
+      "index": 0,
+      "label": "ERR_EULA_LOCAL_NETWORK_ERROR",
+      "text": "Communication failed.\n\nPlease try again from\nthe beginning."
+    },
+    {
+      "index": 1,
+      "label": "ERR_EULA_LOCAL_WIRELESS_OFF",
+      "text": "Wireless communication\nis currently disabled. \n\nPlease enable wireless\ncommunication."
+    }
+  ],
+  "system.msbt": [
+    {
+      "index": 0,
+      "label": "SYSTEM_NULL",
+      "text": ""
+    }
+  ],
+  "menu_game.msbt": [
+    {
+      "index": 0,
+      "label": "MENU_GAME_CONTINUE",
+      "text": "Continue"
+    },
+    {
+      "index": 1,
+      "label": "MENU_GAME_NEXT",
+      "text": "Next"
+    },
+    {
+      "index": 2,
+      "label": "MENU_GAME_ONE_MORE",
+      "text": "Try Again"
+    },
+    {
+      "index": 3,
+      "label": "MENU_GAME_END",
+      "text": "Quit"
+    }
+  ],
+  "menu_dialog.msbt": [
+    {
+      "index": 0,
+      "label": "MENU_DIALOG_NETWORK_CONNECT",
+      "text": "Connect to Nintendo Network?"
+    },
+    {
+      "index": 1,
+      "label": "MENU_DIALOG_NETWORK_NOTFOUND_MASTER",
+      "text": "Unable to find a partner."
+    },
+    {
+      "index": 2,
+      "label": "MENU_DIALOG_NETWORK_CHILD_CONNECT_WAIT",
+      "text": "Please tell the other\nplayer to select Join."
+    },
+    {
+      "index": 3,
+      "label": "MENU_DIALOG_NETWORK_CHILD_CONNECT_CONFIRM",
+      "text": "%ls\nhas connected.\n\nPlay with this partner?"
+    },
+    {
+      "index": 4,
+      "label": "MENU_DIALOG_NETWORK_DISALLOW",
+      "text": "Communication has\nbeen canceled."
+    },
+    {
+      "index": 5,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_CONNECT",
+      "text": "Are you sure you want\nto start local wireless\ncommunication?"
+    },
+    {
+      "index": 6,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_END_CONFIRM",
+      "text": "Are you sure you want\nto end local wireless\ncommunication?"
+    },
+    {
+      "index": 7,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_WAIT_END_01",
+      "text": "The other system has ended\ncommunication.\n\nEnding local communication...\n\nPlease wait."
+    },
+    {
+      "index": 8,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_WAIT_END_02",
+      "text": "A communication error has occurred.\n\nEnding local communication...\n\nPlease wait."
+    },
+    {
+      "index": 9,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_CONNECT_END",
+      "text": "Your partner has chosen\nto end this session.\n\nEnding local communication..."
+    },
+    {
+      "index": 10,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_CONNECT_WAIT",
+      "text": "Please wait."
+    },
+    {
+      "index": 11,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_CONNECT_WAIT_SB",
+      "text": "Please wait."
+    },
+    {
+      "index": 12,
+      "label": "MENU_DIALOG_NETWORK_WIRELESS_CONNECT_REMATCH",
+      "text": "Waiting for your partner\nto make selections..."
+    },
+    {
+      "index": 13,
+      "label": "MENU_DIALOG_DLP_READY",
+      "text": "Getting ready...\n\nPlease wait."
+    },
+    {
+      "index": 14,
+      "label": "MENU_DIALOG_SETTING_CLIENT_WAIT",
+      "text": "Your partner is configuring\nthe game settings...\n\nTo change your settings in\nOptions, tap the icon below."
+    },
+    {
+      "index": 15,
+      "label": "MENU_DIALOG_RESULT_CLIENT_WAIT",
+      "text": "Waiting for your partner\nto make selections...\n\nPlease wait."
+    },
+    {
+      "index": 16,
+      "label": "MENU_DIALOG_RESULT_CLIENT_WAIT_SB",
+      "text": "Waiting for your partner\nto make selections...\n\nPlease wait."
+    },
+    {
+      "index": 17,
+      "label": "MENU_DIALOG_NETWORK_OWNER_FIND",
+      "text": "Looking for a partner...\n\nPlease wait."
+    },
+    {
+      "index": 18,
+      "label": "MENU_DIALOG_NETWORK_OWNER_CONSENT_WAIT",
+      "text": "Trying to establish\na connection...\n\nPlease wait."
+    },
+    {
+      "index": 19,
+      "label": "MENU_DIALOG_NETWORK_CHILD_ERROR_END",
+      "text": "Communication failed.\n\nPlease close the software\nvia the HOME Menu."
+    },
+    {
+      "index": 20,
+      "label": "MENU_DIALOG_NETWORK_CHILD_ERROR_END_SB",
+      "text": "Communication failed.\nPlease close the software\nvia the HOME Menu."
+    },
+    {
+      "index": 21,
+      "label": "MENU_DIALOG_NETWORK_CHILD_GAME_END",
+      "text": "Please close the software\nvia the HOME Menu."
+    },
+    {
+      "index": 22,
+      "label": "MENU_DIALOG_NETWORK_CONNECT_NINTENDO_NETWORK",
+      "text": "Connecting to Nintendo Network...\n\nPlease wait."
+    },
+    {
+      "index": 23,
+      "label": "MENU_DIALOG_WIFI_ERROR_TO_TOP",
+      "text": "A communication error has\noccurred.\n\nReturning to the main menu."
+    },
+    {
+      "index": 24,
+      "label": "MENU_DIALOG_WIFI_ERROR_TO_MENU",
+      "text": "Communication has\nbeen terminated.\n\nReturning to the\nOnline Battle menu."
+    },
+    {
+      "index": 25,
+      "label": "MENU_DIALOG_BREAKTIME_MESSAGE",
+      "text": "It's been 30 minutes since you\nstarted playing. Please be sure\nto take regular breaks."
+    },
+    {
+      "index": 26,
+      "label": "MENU_DLP_NEED_UPDATE",
+      "text": "Your partner's system may require a\nsystem update in order to participate\nin Download Play. If this is the case,\nhe or she should select Cancel and\nthen update via System Settings.\n(The system will not be updated\nsimply by selecting OK.)"
+    },
+    {
+      "index": 27,
+      "label": "MENU_DIALOG_NETWORK_INET_CONNECT_END",
+      "text": "Your partner has chosen\nto end this session.\n\nReturning to the\nOnline Battle menu."
+    },
+    {
+      "index": 28,
+      "label": "MENU_DIALOG_LOCAL_ERROR_TO_MENU",
+      "text": "A communication error has occurred.\n\nReturning to the Local Match menu."
+    },
+    {
+      "index": 29,
+      "label": "MENU_DIALOG_LOCAL_ERROR_TO_MENU_SB",
+      "text": "A communication error\nhas occurred.\n\nReturning to the\nLocal Match menu."
+    }
+  ],
+  "stage_challenge.msbt": [
+    {
+      "index": 0,
+      "label": "STAGE_CHALLENGE_001",
+      "text": "Coin Collector"
+    },
+    {
+      "index": 1,
+      "label": "STAGE_CHALLENGE_002",
+      "text": "Bottled Bottle"
+    },
+    {
+      "index": 2,
+      "label": "STAGE_CHALLENGE_003",
+      "text": "Grin and Bear It"
+    },
+    {
+      "index": 3,
+      "label": "STAGE_CHALLENGE_004",
+      "text": "Mining for Miracles"
+    },
+    {
+      "index": 4,
+      "label": "STAGE_CHALLENGE_005",
+      "text": "Virus Valley"
+    },
+    {
+      "index": 5,
+      "label": "STAGE_CHALLENGE_006",
+      "text": "Harmonic Healing"
+    },
+    {
+      "index": 6,
+      "label": "STAGE_CHALLENGE_007",
+      "text": "Superstar Science"
+    },
+    {
+      "index": 7,
+      "label": "STAGE_CHALLENGE_008",
+      "text": "Vertical Zapper Zinger"
+    },
+    {
+      "index": 8,
+      "label": "STAGE_CHALLENGE_009",
+      "text": "Exploderama"
+    },
+    {
+      "index": 9,
+      "label": "STAGE_CHALLENGE_010",
+      "text": "Musical Mayhem"
+    },
+    {
+      "index": 10,
+      "label": "STAGE_CHALLENGE_011",
+      "text": "P Switch Pushover"
+    },
+    {
+      "index": 11,
+      "label": "STAGE_CHALLENGE_012",
+      "text": "Rainbow Road"
+    },
+    {
+      "index": 12,
+      "label": "STAGE_CHALLENGE_013",
+      "text": "Three-Move Medication"
+    },
+    {
+      "index": 13,
+      "label": "STAGE_CHALLENGE_014",
+      "text": "Zap to Zilch"
+    },
+    {
+      "index": 14,
+      "label": "STAGE_CHALLENGE_015",
+      "text": "A Heartfelt Battle"
+    },
+    {
+      "index": 15,
+      "label": "STAGE_CHALLENGE_016",
+      "text": "Vertical Zapper Dropper"
+    },
+    {
+      "index": 16,
+      "label": "STAGE_CHALLENGE_017",
+      "text": "Strawberry Crop"
+    },
+    {
+      "index": 17,
+      "label": "STAGE_CHALLENGE_018",
+      "text": "Leave No Leftovers"
+    },
+    {
+      "index": 18,
+      "label": "STAGE_CHALLENGE_019",
+      "text": "Miraculous Recovery"
+    },
+    {
+      "index": 19,
+      "label": "STAGE_CHALLENGE_020",
+      "text": "Arch Nemesis"
+    },
+    {
+      "index": 20,
+      "label": "STAGE_CHALLENGE_021",
+      "text": "Butterfly Buster"
+    },
+    {
+      "index": 21,
+      "label": "STAGE_CHALLENGE_022",
+      "text": "The Hidden Heart"
+    },
+    {
+      "index": 22,
+      "label": "STAGE_CHALLENGE_023",
+      "text": "Ten-Chain Champ"
+    },
+    {
+      "index": 23,
+      "label": "STAGE_CHALLENGE_024",
+      "text": "Buried Treasure"
+    },
+    {
+      "index": 24,
+      "label": "STAGE_CHALLENGE_025",
+      "text": "Speedy Treatment"
+    },
+    {
+      "index": 25,
+      "label": "STAGE_CHALLENGE_026",
+      "text": "Controlled Demolition"
+    },
+    {
+      "index": 26,
+      "label": "STAGE_CHALLENGE_027",
+      "text": "Zap the Left, Blast the Rest"
+    },
+    {
+      "index": 27,
+      "label": "STAGE_CHALLENGE_028",
+      "text": "Stair Builder"
+    },
+    {
+      "index": 28,
+      "label": "STAGE_CHALLENGE_029",
+      "text": "Red and Blue Maze"
+    },
+    {
+      "index": 29,
+      "label": "STAGE_CHALLENGE_030",
+      "text": "Royal Radiance"
+    }
+  ],
+  "layout_message.msbt": [
+    {
+      "index": 0,
+      "label": "lyt_0005",
+      "text": "OK"
+    },
+    {
+      "index": 1,
+      "label": "lyt_0006",
+      "text": "Back"
+    },
+    {
+      "index": 2,
+      "label": "lyt_0014",
+      "text": "Next"
+    },
+    {
+      "index": 3,
+      "label": "lyt_0015",
+      "text": "Level"
+    },
+    {
+      "index": 4,
+      "label": "lyt_0031",
+      "text": "Quick Drop"
+    },
+    {
+      "index": 5,
+      "label": "lyt_0033",
+      "text": "Capsule Ghost\nImage"
+    },
+    {
+      "index": 6,
+      "label": "lyt_0034",
+      "text": "Writing Hand"
+    },
+    {
+      "index": 7,
+      "label": "lyt_0041",
+      "text": "OK"
+    },
+    {
+      "index": 8,
+      "label": "lyt_0042",
+      "text": "Yes"
+    },
+    {
+      "index": 9,
+      "label": "lyt_0043",
+      "text": "No"
+    },
+    {
+      "index": 10,
+      "label": "lyt_0056",
+      "text": "Viruses Eliminated"
+    },
+    {
+      "index": 11,
+      "label": "lyt_0057",
+      "text": "Time"
+    },
+    {
+      "index": 12,
+      "label": "lyt_0058",
+      "text": "Lv. Reached"
+    },
+    {
+      "index": 13,
+      "label": "lyt_0075",
+      "text": "Rating"
+    },
+    {
+      "index": 14,
+      "label": "lyt_0078",
+      "text": "Name"
+    },
+    {
+      "index": 15,
+      "label": "lyt_0080",
+      "text": "Partner found. Your game will start in five seconds."
+    },
+    {
+      "index": 16,
+      "label": "lyt_0081",
+      "text": "Records"
+    },
+    {
+      "index": 17,
+      "label": "lyt_0097",
+      "text": ":"
+    },
+    {
+      "index": 18,
+      "label": "lyt_0102",
+      "text": "Position"
+    },
+    {
+      "index": 19,
+      "label": "lyt_0103",
+      "text": "Mode"
+    },
+    {
+      "index": 20,
+      "label": "lyt_0104",
+      "text": "Type"
+    },
+    {
+      "index": 21,
+      "label": "lyt_0107",
+      "text": "Total Play Time"
+    },
+    {
+      "index": 22,
+      "label": "lyt_0108",
+      "text": "Please select a host."
+    },
+    {
+      "index": 23,
+      "label": "lyt_0109",
+      "text": "Cancel"
+    },
+    {
+      "index": 24,
+      "label": "lyt_0110",
+      "text": "Score"
+    },
+    {
+      "index": 25,
+      "label": "lyt_0113",
+      "text": "Refresh"
+    },
+    {
+      "index": 26,
+      "label": "lyt_0114",
+      "text": "Please hold your system\nvertically during this mode."
+    },
+    {
+      "index": 27,
+      "label": "lyt_0115",
+      "text": "Use this in a matching virus/capsule set,\nand all capsules of its color will vanish.\nWhite ones match to any color."
+    },
+    {
+      "index": 28,
+      "label": "lyt_0116",
+      "text": "Use this in a matching virus/capsule set,\nand all viruses of its color will vanish."
+    },
+    {
+      "index": 29,
+      "label": "lyt_0117",
+      "text": "When this comes to rest, everything that\nlines up with its arrows will vanish."
+    },
+    {
+      "index": 30,
+      "label": "lyt_0118",
+      "text": "When this comes to rest, it explodes,\ndestroying everything nearby."
+    },
+    {
+      "index": 31,
+      "label": "lyt_0119",
+      "text": "Capsule Blaster R"
+    },
+    {
+      "index": 32,
+      "label": "lyt_0120",
+      "text": "Capsule Blaster Y"
+    },
+    {
+      "index": 33,
+      "label": "lyt_0121",
+      "text": "Capsule Blaster B"
+    },
+    {
+      "index": 34,
+      "label": "lyt_0122",
+      "text": "Capsule Blaster Z"
+    },
+    {
+      "index": 35,
+      "label": "lyt_0123",
+      "text": "Virus Blaster R"
+    },
+    {
+      "index": 36,
+      "label": "lyt_0124",
+      "text": "Virus Blaster Y"
+    },
+    {
+      "index": 37,
+      "label": "lyt_0125",
+      "text": "Virus Blaster B"
+    },
+    {
+      "index": 38,
+      "label": "lyt_0126",
+      "text": "Vertical Zapper"
+    },
+    {
+      "index": 39,
+      "label": "lyt_0127",
+      "text": "Horizontal Zapper"
+    },
+    {
+      "index": 40,
+      "label": "lyt_0128",
+      "text": "+Zapper"
+    },
+    {
+      "index": 41,
+      "label": "lyt_0129",
+      "text": "Exploder"
+    },
+    {
+      "index": 42,
+      "label": "lyt_0130",
+      "text": "Reverser"
+    },
+    {
+      "index": 43,
+      "label": "lyt_0131",
+      "text": "Locker"
+    },
+    {
+      "index": 44,
+      "label": "lyt_0132",
+      "text": "Booster"
+    },
+    {
+      "index": 45,
+      "label": "lyt_0133",
+      "text": "Sending data...\nPlease wait."
+    },
+    {
+      "index": 46,
+      "label": "lyt_0134",
+      "text": "Viruses Eliminated"
+    }
+  ],
+  "menu.msbt": [
+    {
+      "index": 0,
+      "label": "MENU_DESCRIPTION_001",
+      "text": "Play a variety of specially designed stages in\nwhich you can experiment with the different\nmiracle cures and learn how best to use them."
+    },
+    {
+      "index": 1,
+      "label": "MENU_DESCRIPTION_002",
+      "text": "Play Dr. Mario, Dr. Luigi, and Virus Buster\nafter configuring various settings to customize\nyour experience. Different game types are\navailable for Dr. Mario and Dr. Luigi games."
+    },
+    {
+      "index": 2,
+      "label": "MENU_DESCRIPTION_003",
+      "text": "Connect to Nintendo Network, and engage in\nonline battles with fellow players from around\nthe world. You can also check the rankings\nand your ratings for online battles here."
+    },
+    {
+      "index": 3,
+      "label": "MENU_DESCRIPTION_004",
+      "text": "Connect with nearby players for vs. and co-op\nplay."
+    },
+    {
+      "index": 4,
+      "label": "MENU_DESCRIPTION_005",
+      "text": "Configure various gameplay settings."
+    },
+    {
+      "index": 5,
+      "label": "MENU_DESCRIPTION_012",
+      "text": "This mode uses basic capsules and\nbutton controls."
+    },
+    {
+      "index": 6,
+      "label": "MENU_DESCRIPTION_013",
+      "text": "This mode uses L-capsules and button\ncontrols."
+    },
+    {
+      "index": 7,
+      "label": "MENU_DESCRIPTION_014",
+      "text": "This mode uses basic capsules and\nTouch Screen controls. Tap a capsule\nto rotate it, and drag and drop a\ncapsule to move it."
+    },
+    {
+      "index": 8,
+      "label": "MENU_DESCRIPTION_015",
+      "text": "This game's not over till game over!\nViruses continue to appear steadily in\nyour bottle from below. See how long\nyou can last before your bottle fills up."
+    },
+    {
+      "index": 9,
+      "label": "MENU_DESCRIPTION_016",
+      "text": "Eliminate every virus to clear a stage\nand move to the next one--each is\nharder than the last."
+    },
+    {
+      "index": 10,
+      "label": "MENU_DESCRIPTION_017",
+      "text": "Take on the CPU in a frantic battle.\nWin by eliminating all of your viruses\nfirst or by using chains and combos\nto make the CPU lose."
+    },
+    {
+      "index": 11,
+      "label": "MENU_OPTION_TITLE_001",
+      "text": "Quick Drop"
+    },
+    {
+      "index": 12,
+      "label": "MENU_OPTION_TITLE_002",
+      "text": "Capsule Ghost Image"
+    },
+    {
+      "index": 13,
+      "label": "MENU_OPTION_TITLE_003",
+      "text": "Writing Hand"
+    },
+    {
+      "index": 14,
+      "label": "MENU_OPTION_UPPER_DESCRIPTION_001",
+      "text": "While this option is on,\nyou can make capsules\nfall instantly by pressing\nup on the +Control Pad."
+    },
+    {
+      "index": 15,
+      "label": "MENU_OPTION_UPPER_DESCRIPTION_002",
+      "text": "While this option is on,\nghost images will appear\nto mark where capsules\nwill land."
+    },
+    {
+      "index": 16,
+      "label": "MENU_OPTION_UPPER_DESCRIPTION_003",
+      "text": "This option lets you orient\nthe screens based on which\nhand you use to hold the\nstylus. This allows for more\ncomfortable play when you\nhold your system vertically."
+    },
+    {
+      "index": 17,
+      "label": "MENU_OPTION_VALID",
+      "text": "On"
+    },
+    {
+      "index": 18,
+      "label": "MENU_OPTION_INVALID",
+      "text": "Off"
+    },
+    {
+      "index": 19,
+      "label": "MENU_OPTION_RIGHT_HAND",
+      "text": "Right"
+    },
+    {
+      "index": 20,
+      "label": "MENU_OPTION_LEFT_HAND",
+      "text": "Left"
+    },
+    {
+      "index": 21,
+      "label": "MENU_DIFFICULTY_GAME_LEVEL",
+      "text": "Difficulty"
+    },
+    {
+      "index": 22,
+      "label": "MENU_DIFFICULTY_SPEED_LEVEL",
+      "text": "Speed"
+    },
+    {
+      "index": 23,
+      "label": "MENU_GAME_KIND_DM",
+      "text": "Dr. Mario"
+    },
+    {
+      "index": 24,
+      "label": "MENU_GAME_KIND_PL",
+      "text": "Dr. Luigi"
+    },
+    {
+      "index": 25,
+      "label": "MENU_GAME_KIND_SB",
+      "text": "Virus Buster"
+    },
+    {
+      "index": 26,
+      "label": "MENU_GAME_RULE_ENDLESS",
+      "text": "Endless"
+    },
+    {
+      "index": 27,
+      "label": "MENU_GAME_RULE_STANDARD",
+      "text": "Classic"
+    },
+    {
+      "index": 28,
+      "label": "MENU_GAME_RULE_VSCOM",
+      "text": "Vs. CPU"
+    },
+    {
+      "index": 29,
+      "label": "MENU_NETWORKPLAY_RANKING_SELECT_TOP_DESCRIPTION_UP",
+      "text": "View the players who fill the top\n100 positions in the rankings for\neach kind of online battle."
+    },
+    {
+      "index": 30,
+      "label": "MENU_NETWORKPLAY_RANKING_SELECT_PERIPHERY_DESCRIPTION_UP",
+      "text": "View your position in the rankings and\nthe positions of those around you for\neach kind of online battle."
+    },
+    {
+      "index": 31,
+      "label": "MENU_NETWORKPLAY_RANKING_SELECT_RECORD_DESCRIPTION_UP",
+      "text": "View your rating for each\nkind of online battle."
+    },
+    {
+      "index": 32,
+      "label": "MENU_LOCALPLAY_TOP_MENU_01",
+      "text": "Play together with someone nearby who\nalso owns this game."
+    },
+    {
+      "index": 33,
+      "label": "MENU_LOCALPLAY_TOP_MENU_02",
+      "text": "Play together with someone nearby who\ndoesn't own this game. Please tell your\npartner to select Download Play on his\nor her system's HOME Menu."
+    },
+    {
+      "index": 34,
+      "label": "MENU_LOCALPLAY_JOIN_MENU_01",
+      "text": "Start looking for a partner. Please note, if\nyou select Invite, you should tell the person\nyou want to play with to select Join."
+    },
+    {
+      "index": 35,
+      "label": "MENU_LOCALPLAY_JOIN_MENU_02",
+      "text": "Join a partner who has issued an invitation\nfrom his or her system."
+    },
+    {
+      "index": 36,
+      "label": "MENU_LOCALPLAY_INVITATION_01",
+      "text": "Looking for a partner..."
+    },
+    {
+      "index": 37,
+      "label": "MENU_RIGHT_BUTTON_01",
+      "text": "Next"
+    },
+    {
+      "index": 38,
+      "label": "MENU_RIGHT_BUTTON_02",
+      "text": "OK"
+    },
+    {
+      "index": 39,
+      "label": "MENU_NODATA_RANKING",
+      "text": "Unable to display your position because\nyou have yet to participate in this kind of\nonline battle."
+    },
+    {
+      "index": 40,
+      "label": "MENU_NODATA_NET_RECORD",
+      "text": "Unable to display your rating because\nyou have yet to participate in this kind\nof online battle."
+    },
+    {
+      "index": 41,
+      "label": "MENU_SPEED_LOW",
+      "text": "Slow"
+    },
+    {
+      "index": 42,
+      "label": "MENU_SPEED_MED",
+      "text": "Med"
+    },
+    {
+      "index": 43,
+      "label": "MENU_SPEED_HI",
+      "text": "Fast"
+    },
+    {
+      "index": 44,
+      "label": "MENU_DLP_WAIT",
+      "text": "Receiving..."
+    },
+    {
+      "index": 45,
+      "label": "MENU_DLP_CLIENT_WAIT",
+      "text": "Looking for a Download Play partner...\nPlease wait.\n\nPress the B Button to stop the search."
+    },
+    {
+      "index": 46,
+      "label": "MENU_DLP_CLIENT_DISTRIBUTION",
+      "text": "Sending data to\n%ls...\nPlease wait."
+    },
+    {
+      "index": 47,
+      "label": "MENU_STAGE_NO",
+      "text": "Stage %d"
+    },
+    {
+      "index": 48,
+      "label": "MENU_HELP_NO",
+      "text": "Training %d"
+    },
+    {
+      "index": 49,
+      "label": "MENU_VIRUS_LV_01",
+      "text": "Low"
+    },
+    {
+      "index": 50,
+      "label": "MENU_VIRUS_LV_02",
+      "text": "Medium"
+    },
+    {
+      "index": 51,
+      "label": "MENU_VIRUS_LV_03",
+      "text": "High"
+    },
+    {
+      "index": 52,
+      "label": "MENU_NETWORKPLAYER_UPPER",
+      "text": "Connect to Nintendo Network, and battle\nplayers from around the world. Your results\nwill affect your ratings."
+    },
+    {
+      "index": 53,
+      "label": "MENU_DESCRIPTION_NET_001",
+      "text": "Win by destroying all of your viruses\nfirst or by using chains, combos, and\nsabotaging miracle cures to make your\nopponent lose."
+    },
+    {
+      "index": 54,
+      "label": "MENU_DESCRIPTION_NET_002",
+      "text": "Win by destroying all of your viruses\nfirst or by using chains and combos\nto make your opponent lose."
+    },
+    {
+      "index": 55,
+      "label": "MENU_DESCRIPTION_NET_003",
+      "text": "Destroy all of your viruses first to earn\na point. The first to earn three points\nwins. Virus levels and capsule drop\nspeeds will be set at random."
+    },
+    {
+      "index": 56,
+      "label": "MENU_DESCRIPTION_NET_004",
+      "text": "Team up with a partner to do battle\nagainst the viruses. Work together to\neliminate them as quickly as you can."
+    },
+    {
+      "index": 57,
+      "label": "MENU_RULE_SB_VS",
+      "text": "Vs."
+    },
+    {
+      "index": 58,
+      "label": "MENU_RULE_SB_COORP",
+      "text": "Co-op"
+    },
+    {
+      "index": 59,
+      "label": "MENU_DOWNLOADPLAY_CANCEL",
+      "text": "Cancel"
+    },
+    {
+      "index": 60,
+      "label": "MENU_DOWNLOADPLAY_BACK",
+      "text": "Back"
+    },
+    {
+      "index": 61,
+      "label": "MENU_STAGE_MODE",
+      "text": "Mode: "
+    },
+    {
+      "index": 62,
+      "label": "MENU_STAGE_VIRUS",
+      "text": "Virus Lv.: "
+    },
+    {
+      "index": 63,
+      "label": "MENU_STAGE_SPEED",
+      "text": "Speed: "
+    },
+    {
+      "index": 64,
+      "label": "MENU_RECORD_SLOW",
+      "text": "Slow: "
+    },
+    {
+      "index": 65,
+      "label": "MENU_RECORD_MED",
+      "text": "Med: "
+    },
+    {
+      "index": 66,
+      "label": "MENU_RECORD_FAST",
+      "text": "Fast: "
+    },
+    {
+      "index": 67,
+      "label": "MENU_RECORD_EASY",
+      "text": "Easy: "
+    },
+    {
+      "index": 68,
+      "label": "MENU_RECORD_NORMAL",
+      "text": "Normal: "
+    },
+    {
+      "index": 69,
+      "label": "MENU_RECORD_HARD",
+      "text": "Hard: "
+    }
+  ],
+  "stage_casual.msbt": [
+    {
+      "index": 0,
+      "label": "STAGE_CASUAL_001",
+      "text": "On Call with Dr. Mario"
+    },
+    {
+      "index": 1,
+      "label": "STAGE_CASUAL_002",
+      "text": "On Call with Dr. Luigi"
+    },
+    {
+      "index": 2,
+      "label": "STAGE_CASUAL_003",
+      "text": "Mushroom Medic"
+    },
+    {
+      "index": 3,
+      "label": "STAGE_CASUAL_004",
+      "text": "Fire Flower First Aid"
+    },
+    {
+      "index": 4,
+      "label": "STAGE_CASUAL_005",
+      "text": "Efficient Treatment"
+    },
+    {
+      "index": 5,
+      "label": "STAGE_CASUAL_006",
+      "text": "Chain Training"
+    },
+    {
+      "index": 6,
+      "label": "STAGE_CASUAL_007",
+      "text": "Step It Up"
+    },
+    {
+      "index": 7,
+      "label": "STAGE_CASUAL_008",
+      "text": "Rainbow Riot"
+    },
+    {
+      "index": 8,
+      "label": "STAGE_CASUAL_009",
+      "text": "Step It Up 2"
+    },
+    {
+      "index": 9,
+      "label": "STAGE_CASUAL_010",
+      "text": "Rainy-Day Remedy"
+    },
+    {
+      "index": 10,
+      "label": "STAGE_CASUAL_011",
+      "text": "Head-to-Head Challenge"
+    },
+    {
+      "index": 11,
+      "label": "STAGE_CASUAL_012",
+      "text": "Head-to-Head Challenge 2"
+    },
+    {
+      "index": 12,
+      "label": "STAGE_CASUAL_013",
+      "text": "One-Move Medication"
+    },
+    {
+      "index": 13,
+      "label": "STAGE_CASUAL_014",
+      "text": "Four-Move Medication"
+    },
+    {
+      "index": 14,
+      "label": "STAGE_CASUAL_015",
+      "text": "Rapid Remedy"
+    },
+    {
+      "index": 15,
+      "label": "STAGE_CASUAL_016",
+      "text": "Pot Luck"
+    },
+    {
+      "index": 16,
+      "label": "STAGE_CASUAL_017",
+      "text": "Rapid Remedy 2"
+    },
+    {
+      "index": 17,
+      "label": "STAGE_CASUAL_018",
+      "text": "Two-Move Medication"
+    },
+    {
+      "index": 18,
+      "label": "STAGE_CASUAL_019",
+      "text": "Be the Best!"
+    },
+    {
+      "index": 19,
+      "label": "STAGE_CASUAL_020",
+      "text": "Be the Best! 2"
+    }
+  ]
+}
