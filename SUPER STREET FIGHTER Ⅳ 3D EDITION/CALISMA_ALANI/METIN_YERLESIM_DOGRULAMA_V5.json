@@ -1,0 +1,1998 @@
+{
+  "policy": "V5: mevcut satır limit altındaysa aynen korunur; sadece limit aşan satır kırılır. Dikey kapasite aşılırsa yalnız o blok aynı kapasitede semantik yeniden dengelenir.",
+  "changed_occurrences": 228,
+  "block_reflow_occurrences": 16,
+  "manual_occurrences": 4,
+  "under_limit_changed_count": 0,
+  "new_single_word_line_count": 0,
+  "new_bad_boundary_count": 0,
+  "changed_linecount_over_official_count": 0,
+  "remaining_gt2pct_overflow_count": 0,
+  "changes": [
+    {
+      "file": "_GUI/_mes/common.arc.csv",
+      "gmd": "SaveDialog",
+      "key": "ID_DLG_2400",
+      "budget": 368,
+      "before": "Veriler bozulmuş.\r\nTüm veriler varsayılan durumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak.",
+      "after": "Veriler bozulmuş.\r\nTüm veriler varsayılan\r\ndurumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoButtle_ADN",
+      "key": "MSG_00",
+      "budget": 349,
+      "before": "Sana ne kadar güçlü olduğumu göstereceğim!",
+      "after": "Sana ne kadar güçlü\r\nolduğumu göstereceğim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoButtle_CNL",
+      "key": "MSG_07",
+      "budget": 350,
+      "before": "Vay. Bir dayak daha yemeye mi geldin, memur?",
+      "after": "Vay. Bir dayak\r\ndaha yemeye mi geldin, memur?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoButtle_DDL",
+      "key": "MSG_04",
+      "budget": 356,
+      "before": "Hıh! Bu ufak cılızın Britanya şampiyonu\r\nolduğunu mu söylüyorsun!? Dalga geçiyorsun!",
+      "after": "Hıh! Bu ufak cılızın Britanya şampiyonu\r\nolduğunu mu söylüyorsun!?\r\nDalga geçiyorsun!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoButtle_DDL",
+      "key": "MSG_08",
+      "budget": 356,
+      "before": "Hele de bir meslektaş boksörden geliyorsa...",
+      "after": "Hele de bir meslektaş\r\nboksörden geliyorsa..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ZGF",
+      "budget": 362,
+      "before": "Şimdi günde ne kadar spor yapıyorsun,\r\niki dakika falan mı? Haberleri izlemiyor musun?\r\nYüksek yağ oranı güçlü bağışıklığın sırrı!\r\nBenim gibi sağlıklı olmak istemez misin?",
+      "after": "Şimdi günde ne kadar spor yapıyorsun,\r\niki dakika falan mı?\r\nHaberleri izlemiyor musun?\r\nYüksek yağ oranı güçlü bağışıklığın sırrı!\r\nBenim gibi sağlıklı olmak istemez misin?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "GKI",
+      "budget": 362,
+      "before": "İnsanlığını aştığını falan söylüyormuşsun.\r\nO ne demek şimdi? Ben senden iriyim, değil mi?\r\nO zaman senin aşmış insanlığını da mı\r\naşmış oluyorum, ne?",
+      "after": "İnsanlığını aştığını falan söylüyormuşsun.\r\nO ne demek şimdi?\r\nBen senden iriyim, değil mi?\r\nO zaman senin aşmış insanlığını da mı\r\naşmış oluyorum, ne?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "VEG",
+      "budget": 362,
+      "before": "Dünyaya hükmetmek bana koca bir baş ağrısı\r\ngibi geliyor. Dünyayı gördün mü hiç?\r\nDevasa be! Omuzlanacak çok fazla\r\nsorumluluk var.",
+      "after": "Dünyaya hükmetmek\r\nbana koca bir baş ağrısı\r\ngibi geliyor. Dünyayı gördün mü hiç?\r\nDevasa be! Omuzlanacak çok fazla\r\nsorumluluk var."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DJY",
+      "budget": 362,
+      "before": "Duymak istediğim tek ses, sevgilim yanımda\r\ndünyayı turlarken motosikletimin egzozundan\r\nçıkan hayat verici karbondioksitin sesi! Evet!",
+      "after": "Duymak istediğim tek ses, sevgilim yanımda\r\ndünyayı turlarken\r\nmotosikletimin egzozundan\r\nçıkan hayat verici karbondioksitin sesi! Evet!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SKR",
+      "budget": 362,
+      "before": "Okul çocuklarını dövmekten zevk almıyorum,\r\ntamam mı? Bu bir turnuva, ben sadece kurallara\r\nuydum. Ne? Ryu mu? Yok, hiç duymadım.\r\nNeyse, dediğim gibi...",
+      "after": "Okul çocuklarını dövmekten zevk almıyorum,\r\ntamam mı?\r\nBu bir turnuva, ben sadece kurallara\r\nuydum. Ne? Ryu mu? Yok, hiç duymadım.\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ROS",
+      "budget": 362,
+      "before": "Candy'mle tanışana kadar kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum.",
+      "after": "Candy'yle tanışana dek kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DAN",
+      "budget": 362,
+      "before": "Yenilgi trenine binmek nasıl, Ken Masters?\r\nSonraki durak: Başarısızlık Kasabası! Nüfus: sen!\r\nNe? Yanlış kişi mi? Hadi canım!\r\nKaybettiğin için utanıyorsun işte!",
+      "after": "Yenilgi trenine binmek nasıl, Ken Masters?\r\nSonraki durak: Başarısızlık Kasabası!\r\nNüfus: sen!\r\nNe? Yanlış kişi mi? Hadi canım!\r\nKaybettiğin için utanıyorsun işte!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "AGL",
+      "budget": 362,
+      "before": "Bir dakika, hanımefendi! Bütün o ateş,\r\nelektrik falan gizli aletlerden mi çıkıyordu?\r\nBunun kurallara aykırı olmadığını mı söylüyorsun?\r\nCiddi misin?",
+      "after": "Bir dakika, hanımefendi! Bütün o ateş,\r\nelektrik falan gizli aletlerden mi çıkıyordu?\r\nBunun kurallara\r\naykırı olmadığını mı söylüyorsun?\r\nCiddi misin?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "CHB",
+      "budget": 362,
+      "before": "Havalı saç ve şık kıyafet tamam da\r\nbenim eşsiz dövüş stilimi kimse taklit edemez!\r\nİmkânsız! Milyon yıl geçse de olmaz, ezik!\r\nUnut gitsin! Asla!",
+      "after": "Havalı saç ve şık kıyafet tamam da\r\nbenim eşsiz dövüş stilimi\r\nkimse taklit edemez!\r\nİmkânsız! Milyon yıl geçse de olmaz, ezik!\r\nUnut gitsin! Asla!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "JHA",
+      "budget": 362,
+      "before": "Yenilginin ıstırabını öğrendin mi, Ken Masters!\r\nNe? Yanlış kişi mi? Gazetede gördüğüm\r\nfotoğraftan biraz farklısın ama estetik\r\nameliyata paran yeter, yani...",
+      "after": "Yenilginin ıstırabını\r\nöğrendin mi, Ken Masters!\r\nNe? Yanlış kişi mi? Gazetede gördüğüm\r\nfotoğraftan biraz farklısın ama estetik\r\nameliyata paran yeter, yani..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RIC",
+      "budget": 362,
+      "before": "Kusura bakma dostum, yemekte çok seçiciyim.\r\nSadece hamburger, sosisli, patates, pizza,\r\nsoğan halkası, spagetti, sandviç, tavuk, biftek,\r\npirzola, patates püresi, lahana salatası, rosto...",
+      "after": "Kusura bakma dostum,\r\nyemekte çok seçiciyim. Sadece hamburger,\r\nsosisli, patates, pizza, soğan halkası,\r\nspagetti, sandviç, tavuk, biftek, pirzola,\r\npatates püresi, lahana salatası, rosto..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "GUY",
+      "budget": 362,
+      "before": "Bir dakika dostum. Sen ninjaya hiç benzemiyorsun.\r\nParşömenlerin, yıldızların, masken nerede?\r\nHem hangi ninja böyle spor ayakkabı giyer?\r\nAçıkla bakalım!",
+      "after": "Bir dakika dostum.\r\nSen ninjaya hiç benzemiyorsun.\r\nParşömenlerin, yıldızların, masken nerede?\r\nHem hangi ninja böyle spor ayakkabı giyer?\r\nAçıkla bakalım!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "CDY",
+      "budget": 362,
+      "before": "Yenilgi sana yakıştı, Ken Masters! Ne? Yanlış\r\nkişi mi? Olmaz! Saçını tanıyorum! Ama şu kıyafet\r\nne? Hesabı ödemeden restorandan mı kaçtın?",
+      "after": "Yenilgi sana yakıştı, Ken Masters!\r\nNe? Yanlış\r\nkişi mi? Olmaz!\r\nSaçını tanıyorum! Ama şu kıyafet\r\nne? Hesabı ödemeden\r\nrestorandan mı kaçtın?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "IBK",
+      "budget": 362,
+      "before": "Vay anasını! Ninja! Gerçek bir ninja! Candy!\r\nCandy, bebeğim, çabuk gel! Şuna bak! Gerçek ninja!\r\nBana ninja yıldızı bile attı! Müthiş değil mi?\r\nBir fotoğraf çekilelim!",
+      "after": "Vay anasını! Ninja! Gerçek bir ninja! Candy!\r\nCandy, bebeğim, çabuk gel!\r\nŞuna bak! Gerçek ninja!\r\nBana ninja yıldızı bile attı! Müthiş değil mi?\r\nBir fotoğraf çekilelim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "MKT",
+      "budget": 362,
+      "before": "Yenilgi nasılmış, Ken Masters? Ne? Yanlış kişi mi?\r\nHadi oradan. Kıyafetini gördüğümde tanırım.\r\nAyakkabı giymediğini de biliyorum. Sensin işte!\r\nBiliyorum!",
+      "after": "Yenilgi nasılmış, Ken Masters?\r\nNe? Yanlış kişi mi?\r\nHadi oradan. Kıyafetini gördüğümde tanırım.\r\nAyakkabı giymediğini de biliyorum.\r\nSensin işte!\r\nBiliyorum!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DDL",
+      "budget": 362,
+      "before": "Beni merak etme, dostum. Öyle görünmesem de\r\ntam bir centilmenim! Yere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu zaman özür dilerim!\r\nNeyse, dediğim gibi...",
+      "after": "Beni merak etme, dostum.\r\nÖyle görünmesem de tam bir centilmenim!\r\nYere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu\r\nzaman özür dilerim!\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "HKN",
+      "budget": 362,
+      "before": "Dostum! Dostuuum! Bu da ne? Niye her yerin yağ?\r\nKoca bir tencere patlamış mısır yaparken\r\nkaza falan mı oldu? Çünkü ben mısır yaparken...",
+      "after": "Dostum! Dostuuum!\r\nBu da ne? Niye her yerin yağ?\r\nKoca bir tencere patlamış mısır yaparken\r\nkaza falan mı oldu?\r\nÇünkü ben mısır yaparken..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "JRI",
+      "budget": 362,
+      "before": "Lanet olsun, canım yandı! Deli misin? Gerçekten\r\nbeni sakatlamak ister gibi saldırdın! Bana bir şey\r\nolsaydı ne yapacaktın? Sigortan bunları karşılıyor mu?",
+      "after": "Lanet olsun, canım yandı!\r\nDeli misin? Gerçekten\r\nbeni sakatlamak ister gibi saldırdın!\r\nBana bir şey\r\nolsaydı ne yapacaktın?\r\nSigortan bunları karşılıyor mu?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SPC_00",
+      "budget": 362,
+      "before": "Rakibinin elinden yenilmek nasılmış, Ken Masters?\r\nBeni tanımıyormuş gibi yapma! Kudretli Rufus'u\r\nherkes tanır! Ciddiyim. Git kime istersen sor.\r\nBen ünlüyüm!",
+      "after": "Rakibinin elinden yenilmek nasılmış,\r\nKen Masters?\r\nBeni tanımıyormuş gibi yapma!\r\nKudretli Rufus'u\r\nherkes tanır! Ciddiyim. Git kime istersen sor.\r\nBen ünlüyüm!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SPC_01",
+      "budget": 362,
+      "before": "Neyin peşindesin, dostum? Hareketlerimi göstermemi\r\nistiyorsun. Niye? Kopyalayacak mısın? Sende o kumaş\r\nyok! Hareketlerim bedenime özel dikildi! Benim!\r\nHepsi benim!",
+      "after": "Neyin peşindesin, dostum?\r\nHareketlerimi göstermemi\r\nistiyorsun. Niye?\r\nKopyalayacak mısın? Sende o kumaş\r\nyok! Hareketlerim bedenime\r\nözel dikildi! Benim!\r\nHepsi benim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_00",
+      "budget": 362,
+      "before": "Son zamanlarda o kadar ünlendim ki dışarı çıkınca\r\ninsanlar imza istemeden yürüyemiyorum! Belki de\r\nkoruma tutmalıyım! Cidden!",
+      "after": "Son zamanlarda\r\no kadar ünlendim ki dışarı çıkınca\r\ninsanlar imza istemeden yürüyemiyorum!\r\nBelki de\r\nkoruma tutmalıyım! Cidden!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_01",
+      "budget": 362,
+      "before": "Şunu düşünüyordum... Okyanusla denizin farkı ne?\r\nSadece boyut mu? Konum önemli mi? Bir deniz çok\r\nçalışırsa okyanusluğa terfi edebilir mi?",
+      "after": "Şunu düşünüyordum...\r\nOkyanusla denizin farkı ne?\r\nSadece boyut mu?\r\nKonum önemli mi? Bir deniz çok\r\nçalışırsa okyanusluğa terfi edebilir mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_02",
+      "budget": 362,
+      "before": "Güzel bir özel yapım motosikletten daha çok\r\nsevdiğim bir şey yok. Sadece renk ve şekil de değil.\r\nGenel dengeye dikkat edip görünüşün de...",
+      "after": "Güzel bir özel yapım motosikletten daha çok\r\nsevdiğim bir şey yok.\r\nSadece renk ve şekil de değil.\r\nGenel dengeye dikkat edip görünüşün de..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_03",
+      "budget": 362,
+      "before": "Geçen gün motosikletle Çin'e gittim. Ne? Yalan\r\nsöylemiyorum! Ben asla yalan söylemem! Motorla\r\ngittim işte! İnanmıyor musun? Haritaya bak!\r\nYolu baştan anlatırım sana!",
+      "after": "Geçen gün motosikletle Çin'e gittim.\r\nNe? Yalan\r\nsöylemiyorum! Ben asla\r\nyalan söylemem! Motorla\r\ngittim işte! İnanmıyor musun? Haritaya bak!\r\nYolu baştan anlatırım sana!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_04",
+      "budget": 362,
+      "before": "Hobi mi? Karaoke, bebeğim! Doyamıyorum! Bir keresinde\r\nCandy'yle bir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız hoparlörlerin parasını\r\nhâlâ ödüyoruz...",
+      "after": "Hobi mi? Karaoke, bebeğim!\r\nDoyamıyorum! Bir keresinde Candy'yle\r\nbir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız\r\nhoparlörlerin parasını hâlâ ödüyoruz..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_05",
+      "budget": 362,
+      "before": "Sadece dövüş dünyasında efsane değilim! Motorcu\r\nçevrelerinde de tanınırım! Büyük ihtimalle Amerika'nın\r\nen iyi motorcusuyum! Ama hedefim daha da büyük!\r\nBir gün...",
+      "after": "Sadece dövüş dünyasında efsane değilim!\r\nMotorcu çevrelerinde de tanınırım! Büyük\r\nihtimalle Amerika'nın en iyi motorcusuyum!\r\nAma hedefim daha da büyük! Bir gün..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_06",
+      "budget": 362,
+      "before": "Candy son zamanlarda bahçeciliğe sardı. Şu küçük\r\nsoğana benzeyen şeyler var ya? Biraz bana benzer?\r\nHa evet! Soğanlar! Bahçeye bir sürü dikti, sonra...",
+      "after": "Candy son zamanlarda bahçeciliğe sardı.\r\nŞu küçük\r\nsoğana benzeyen şeyler var ya?\r\nBiraz bana benzer?\r\nHa evet! Soğanlar!\r\nBahçeye bir sürü dikti, sonra..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_07",
+      "budget": 362,
+      "before": "Candy'mde en çok neyi sevdiğimi bilmek ister misin?\r\nSana ne! Bu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem! Zaten bana rakip\r\nolamazsın ama yine de...",
+      "after": "Candy'mde en çok neyi sevdiğimi\r\nbilmek ister misin? Sana ne!\r\nBu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem!\r\nZaten bana rakip olamazsın ama yine de..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_08",
+      "budget": 362,
+      "before": "Kadınlar alışverişte neden bu kadar oyalanıyor?\r\nCandy'ye söylediğimi söyleme ama kız aynı renkteki\r\niki bluz arasında iki saat karar veremedi!\r\nAralarında hiç fark yoktu!",
+      "after": "Kadınlar alışverişte neden\r\nbu kadar oyalanıyor?\r\nCandy'ye söylediğimi söyleme\r\nama kız aynı renkteki\r\niki bluz arasında iki saat karar veremedi!\r\nAralarında hiç fark yoktu!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CNL",
+      "key": "VEG",
+      "budget": 357,
+      "before": "Bunu ne kadar zamandır beklediğimi\r\nbilemezsin! Günahlarının bedelini ödeyeceksin!",
+      "after": "Bunu ne kadar zamandır beklediğimi\r\nbilemezsin! Günahlarının\r\nbedelini ödeyeceksin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "KEN",
+      "budget": 355,
+      "before": "Kendini gerçek bir kazanan sanıyorsun\r\nama bu kez kazanamadın, değil mi büyük adam?",
+      "after": "Kendini gerçek bir kazanan sanıyorsun\r\nama bu kez kazanamadın,\r\ndeğil mi büyük adam?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "SKR",
+      "budget": 355,
+      "before": "Artık senseinin ne kadar güçlü olduğunu\r\nbiliyorsun! Akşam yemeğini sen ısmarlıyorsun,\r\ndeğil mi?",
+      "after": "Artık senseinin ne kadar güçlü olduğunu\r\nbiliyorsun! Akşam yemeğini\r\nsen ısmarlıyorsun,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "CDY",
+      "budget": 355,
+      "before": "İşsiz olmak hapiste olmaktan iyidir herhâlde...\r\nİyi misin, dostum? Biraz neşelen!",
+      "after": "İşsiz olmak hapiste olmaktan\r\niyidir herhâlde...\r\nİyi misin, dostum? Biraz neşelen!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "ADN",
+      "budget": 355,
+      "before": "Saikyo sanatlarına geçmeden kral olamazsın!\r\nDenemek ister misin?",
+      "after": "Saikyo sanatlarına\r\ngeçmeden kral olamazsın!\r\nDenemek ister misin?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "RND_01",
+      "budget": 355,
+      "before": "Ayakta kalan kazanır! Az kalsın tökezliyordum\r\nama düşmedim; demek ki kazandım!",
+      "after": "Ayakta kalan kazanır!\r\nAz kalsın tökezliyordum\r\nama düşmedim; demek ki kazandım!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "RND_04",
+      "budget": 355,
+      "before": "Akşam yemeği mi? Genelde lavabonun başında\r\ndikilip fasulyeyi konserveden yerim.",
+      "after": "Akşam yemeği mi?\r\nGenelde lavabonun başında\r\ndikilip fasulyeyi konserveden yerim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "CNL",
+      "budget": 356,
+      "before": "O inanılmaz hareketlerinizi bana gösterdiğiniz\r\niçin minnettarım, dedektif!",
+      "after": "O inanılmaz hareketlerinizi\r\nbana gösterdiğiniz\r\niçin minnettarım, dedektif!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "ZGF",
+      "budget": 356,
+      "before": "Efendim, profesyonel güreş hakkındaki\r\nfikirlerimi yeniden düşünmeme neden oldunuz.",
+      "after": "Efendim, profesyonel güreş hakkındaki\r\nfikirlerimi yeniden\r\ndüşünmeme neden oldunuz."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GUL",
+      "budget": 356,
+      "before": "Stilinizde askerî bir hassasiyet hissediyorum.\r\nBunu yine yapmalıyız!",
+      "after": "Stilinizde askerî\r\nbir hassasiyet hissediyorum.\r\nBunu yine yapmalıyız!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "BSN",
+      "budget": 356,
+      "before": "Yeteneklerinize karşı hiç gurur duymuyorsunuz.\r\nBeni asla yenememenizin nedeni bu.",
+      "after": "Yeteneklerinize karşı hiç\r\ngurur duymuyorsunuz.\r\nBeni asla yenememenizin nedeni bu."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "BLR",
+      "budget": 356,
+      "before": "Görünüşe fazla önem veriyorsunuz, dostum.",
+      "after": "Görünüşe fazla önem\r\nveriyorsunuz, dostum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GKI",
+      "budget": 356,
+      "before": "İblis rakipler heyecanlı bir müsabaka çıkarıyor,\r\nbu kesin!",
+      "after": "İblis rakipler heyecanlı\r\nbir müsabaka çıkarıyor,\r\nbu kesin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "DJY",
+      "budget": 356,
+      "before": "Kaybetmek istemiyorsanız dansı asgari düzeyde\r\ntutsanız iyi olur, efendim.",
+      "after": "Kaybetmek istemiyorsanız\r\ndansı asgari düzeyde\r\ntutsanız iyi olur, efendim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GEN",
+      "budget": 356,
+      "before": "Bir büyüğümü böyle hırpaladığım için çok üzgünüm,\r\nefendim. Kişisel algılamayın.",
+      "after": "Bir büyüğümü böyle\r\nhırpaladığım için çok üzgünüm,\r\nefendim. Kişisel algılamayın."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "AGL",
+      "budget": 356,
+      "before": "Böyle bir durumda takma ad kullanmak size de\r\nbiraz kaba gelmiyor mu?",
+      "after": "Böyle bir durumda takma\r\nad kullanmak size de\r\nbiraz kaba gelmiyor mu?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DJY",
+      "key": "DDL",
+      "budget": 355,
+      "before": "Bir beyefendiyle dövüşmek her zaman zevk!",
+      "after": "Bir beyefendiyle dövüşmek\r\nher zaman zevk!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_DSM",
+      "key": "GKI",
+      "budget": 355,
+      "before": "Çevrendeki her şey yanılsamadır ve geçicidir.\r\nGücün de buna dâhil.",
+      "after": "Çevrendeki her şey\r\nyanılsamadır ve geçicidir.\r\nGücün de buna dâhil."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_FLN",
+      "key": "VEG",
+      "budget": 354,
+      "before": "Senin gibi bir kötünün\r\nelini kolunu sallayarak gitmesine izin veremem!",
+      "after": "Senin gibi bir kötünün elini kolunu\r\nsallayarak gitmesine izin veremem!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GEN",
+      "key": "RIC",
+      "budget": 354,
+      "before": "İnsanın kendi yetenekleri konusunda\r\nen kötü hakem kendisidir! Gözümden kaybol!",
+      "after": "İnsanın kendi yetenekleri konusunda\r\nen kötü hakem kendisidir!\r\nGözümden kaybol!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GEN",
+      "key": "GUY",
+      "budget": 354,
+      "before": "Ayakların hızlı olabilir,\r\nama hiç kimse kaçınılmaz ölümünden kaçamaz.",
+      "after": "Ayakların hızlı olabilir,\r\nama hiç kimse kaçınılmaz\r\nölümünden kaçamaz."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GKI",
+      "key": "RIC",
+      "budget": 354,
+      "before": "İki mesleğin peşinden gidiyorsun,\r\nama ikisinde de görkemli biçimde çuvallıyorsun!",
+      "after": "İki mesleğin peşinden gidiyorsun,\r\nama ikisinde de görkemli\r\nbiçimde çuvallıyorsun!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GKI",
+      "key": "GUY",
+      "budget": 354,
+      "before": "Küstahlığının cezası olarak\r\nBushinryu geleneğini kökünden yok edeceğim!",
+      "after": "Küstahlığının cezası olarak\r\nBushinryu geleneğini\r\nkökünden yok edeceğim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GUY",
+      "key": "CMY",
+      "budget": 357,
+      "before": "Bu savaşı tek başına vermek zorunda değilsin.\r\nMüttefiklerin var, değil mi?",
+      "after": "Bu savaşı tek başına\r\nvermek zorunda değilsin.\r\nMüttefiklerin var, değil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_GUY",
+      "key": "DDL",
+      "budget": 357,
+      "before": "Batı'nın en iyi dövüş tekniklerini\r\ntatmama izin verdiğiniz için teşekkür ederim.",
+      "after": "Batı'nın en iyi dövüş tekniklerini\r\ntatmama izin\r\nverdiğiniz için teşekkür ederim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_HND",
+      "key": "DSM",
+      "budget": 357,
+      "before": "Güçlenmek için meditasyondan fazlası gerekir!\r\nAntrenman yapmalısın!",
+      "after": "Güçlenmek için meditasyondan\r\nfazlası gerekir!\r\nAntrenman yapmalısın!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_HND",
+      "key": "AGL",
+      "budget": 357,
+      "before": "Kolunda başka ne numara var, hanımefendi?",
+      "after": "Kolunda başka ne numara\r\nvar, hanımefendi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_JRI",
+      "key": "RYU",
+      "budget": 361,
+      "before": "Senin gibi dövüşçülerle kapışmayı seviyorum.\r\nEn azından karşı koyuyorsun.",
+      "after": "Senin gibi dövüşçülerle\r\nkapışmayı seviyorum.\r\nEn azından karşı koyuyorsun."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_MKT",
+      "key": "GEN",
+      "budget": 357,
+      "before": "Bana büyüklerime saygı göstermem öğretildi,\r\no yüzden bu kez gitmene izin vereceğim!",
+      "after": "Bana büyüklerime saygı\r\ngöstermem öğretildi,\r\no yüzden bu kez gitmene izin vereceğim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "DSM",
+      "budget": 357,
+      "before": "Sen de benim gibisin, değil mi?\r\nBaşkalarının göremediği şeyleri görüyorsun...",
+      "after": "Sen de benim gibisin, değil mi?\r\nBaşkalarının göremediği\r\nşeyleri görüyorsun..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "VEG",
+      "budget": 357,
+      "before": "Planının gerçekleşmesine izin vermeyeceğim!\r\nBeni yok edemeyeceksin!",
+      "after": "Planının gerçekleşmesine\r\nizin vermeyeceğim!\r\nBeni yok edemeyeceksin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "RND_04",
+      "budget": 357,
+      "before": "Çok yoruldum... Güzel bir köpük banyosunda\r\nrahatlamak için sabırsızlanıyorum.",
+      "after": "Çok yoruldum...\r\nGüzel bir köpük banyosunda\r\nrahatlamak için sabırsızlanıyorum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_SKR",
+      "key": "DJY",
+      "budget": 357,
+      "before": "Üzgünüm! Dövüşmekle o kadar meşguldüm ki\r\nritmini dinlemeyi unuttum!",
+      "after": "Üzgünüm! Dövüşmekle\r\no kadar meşguldüm ki\r\nritmini dinlemeyi unuttum!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_SKR",
+      "key": "ADN",
+      "budget": 357,
+      "before": "Dövüşmek eğlenceli olmalı!\r\nBütün zaman boyunca çok kızgın görünüyordun.",
+      "after": "Dövüşmek eğlenceli olmalı!\r\nBütün zaman boyunca\r\nçok kızgın görünüyordun."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_VEG",
+      "key": "BLR",
+      "budget": 357,
+      "before": "Artık hiçbir işime yaramıyorsun.\r\nKan kaybederek ölmeni izlemekten keyif alacağım.",
+      "after": "Artık hiçbir işime yaramıyorsun.\r\nKan kaybederek ölmeni\r\nizlemekten keyif alacağım."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_VEG",
+      "key": "SPC_01",
+      "budget": 357,
+      "before": "Sen, hurdalığa gitmeye mahkûm\r\nhatalı bir numuneden başka bir şey değilsin!",
+      "after": "Sen, hurdalığa gitmeye mahkûm\r\nhatalı bir numuneden\r\nbaşka bir şey değilsin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_BSN",
+      "key": "MSG_06",
+      "budget": 343,
+      "before": "Tek başına hiçbir şey yapamıyorsun,\r\nöyle mi? Sandığımdan da işe yaramazmışsın!",
+      "after": "Tek başına hiçbir şey yapamıyorsun,\r\nöyle mi?\r\nSandığımdan da işe yaramazmışsın!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_01",
+      "budget": 354,
+      "before": "Yani vay be, bu motor taş gibi ağır. Ben bile\r\nherhâlde birkaç yüz metre götüremezdim.",
+      "after": "Yani vay be, bu motor taş gibi ağır.\r\nBen bile\r\nherhâlde birkaç yüz metre götüremezdim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_04",
+      "budget": 354,
+      "before": "Aynen öyle! Ciddiye alırsam böyle bir motoru\r\ndünyanın çevresinde yedi kez iterim!",
+      "after": "Aynen öyle!\r\nCiddiye alırsam böyle bir motoru\r\ndünyanın çevresinde yedi kez iterim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "Tabii, bir süre önce kolları sıvayıp onu tamir ettim.\r\nArtık her yere gidebilir!",
+      "after": "Tabii, bir süre önce kolları\r\nsıvayıp onu tamir ettim.\r\nArtık her yere gidebilir!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Ama sadece dolaşmak aradığım heyecanı vermez!",
+      "after": "Ama sadece dolaşmak\r\naradığım heyecanı vermez!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_09",
+      "budget": 354,
+      "before": "Hmmm... Bir bakalım... Bu çöl sıcağından biraz\r\nbıktım... Buldum! Kuzey Kutbu'na gidelim mi, bebeğim?",
+      "after": "Hmmm... Bir bakalım...\r\nBu çöl sıcağından biraz\r\nbıktım... Buldum!\r\nKuzey Kutbu'na gidelim mi, bebeğim?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_11",
+      "budget": 354,
+      "before": "Değil mi ama? Yalnız Kuzey Kutbu'na hiç gitmedim.\r\nOraya nasıl gidilir biliyor musun, bebeğim?",
+      "after": "Değil mi ama?\r\nYalnız Kuzey Kutbu'na hiç gitmedim.\r\nOraya nasıl gidilir biliyor musun, bebeğim?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_13",
+      "budget": 354,
+      "before": "Tek yapacağımız dümdüz kuzeye gitmek.\r\nKuzey Kutbu'ndan daha kuzeye gidemezsin, değil mi?",
+      "after": "Tek yapacağımız dümdüz kuzeye gitmek.\r\nKuzey Kutbu'ndan daha kuzeye\r\ngidemezsin, değil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_CNL",
+      "key": "MSG_03",
+      "budget": 354,
+      "before": "Her şeyin sonunda, bunları kendim için de\r\nyaptığımı düşünüyorum. Yapabileceğim çok\r\ndaha fazla şey var. Bunu kendime borçluyum.",
+      "after": "Her şeyin sonunda, bunları kendim için de\r\nyaptığımı düşünüyorum. Yapabileceğim çok\r\ndaha fazla şey var.\r\nBunu kendime borçluyum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_DDL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Maceralı bir yolculuktu ama peşinde olduğum\r\nyeni gülleri bulamadım.",
+      "after": "Maceralı bir yolculuktu\r\nama peşinde olduğum\r\nyeni gülleri bulamadım."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_DDL",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "İnsanlık tasarımda ne kadar ilerlerse ilerlesin\r\ndoğal bir çiçeğin güzelliğiyle hiçbir şey\r\nkıyaslanamaz.",
+      "after": "İnsanlık tasarımda\r\nne kadar ilerlerse ilerlesin\r\ndoğal bir çiçeğin güzelliğiyle hiçbir şey\r\nkıyaslanamaz."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_JRI",
+      "key": "MSG_03",
+      "budget": 351,
+      "before": "Seni yenmek yalnızca fazladan bir ikramiyeydi.\r\nBen yönetimi ele geçirirken siz aptalları\r\nbirbirinize düşürmek istedim.",
+      "after": "Seni yenmek yalnızca\r\nfazladan bir ikramiyeydi.\r\nBen yönetimi ele geçirirken siz aptalları\r\nbirbirinize düşürmek istedim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoEnding_SKR",
+      "key": "MSG_00",
+      "budget": 350,
+      "before": "Çok teşekkür ederim, Ryu-san!\r\nSeninle tekrar dövüşmek gerçekten harikaydı!",
+      "after": "Çok teşekkür ederim, Ryu-san!\r\nSeninle tekrar dövüşmek\r\ngerçekten harikaydı!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_00",
+      "budget": 356,
+      "before": "Üf... Bu dövüş turnuvalarını neden hep\r\nkuş uçmaz kervan geçmez yerlerde yapıyorlar?",
+      "after": "Üf... Bu dövüş turnuvalarını neden hep\r\nkuş uçmaz kervan geçmez\r\nyerlerde yapıyorlar?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_01",
+      "budget": 356,
+      "before": "Böyle giderse oraya ulaşana kadar o kadar spor\r\nyapacağım ki kilo verip cılızın birine benzeyeceğim.",
+      "after": "Böyle giderse oraya\r\nulaşana kadar o kadar spor\r\nyapacağım ki kilo verip\r\ncılızın birine benzeyeceğim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_02",
+      "budget": 356,
+      "before": "Ha ha! Hey! Bahse girerim bunun arkasında o pislik\r\nvar. Bu bir tür komplo!",
+      "after": "Ha ha! Hey!\r\nBahse girerim bunun arkasında o pislik\r\nvar. Bu bir tür komplo!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_03",
+      "budget": 356,
+      "before": "Kimden bahsettiğimi biliyorsun; geçen gün onun\r\nkopyalarından biri daha karşıma çıktı.\r\nBu adam daha ne kadar alçalabilir ki?",
+      "after": "Kimden bahsettiğimi biliyorsun;\r\ngeçen gün onun\r\nkopyalarından biri daha karşıma çıktı.\r\nBu adam daha ne kadar alçalabilir ki?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_04",
+      "budget": 356,
+      "before": "Yani ona nasıl Amerika'nın bir numaralı dövüşçüsü\r\ndiyebilirler!? Düşünmesi bile kanımı kaynatıyor.",
+      "after": "Yani ona nasıl Amerika'nın\r\nbir numaralı dövüşçüsü\r\ndiyebilirler!? Düşünmesi\r\nbile kanımı kaynatıyor."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_06",
+      "budget": 356,
+      "before": "Ama öyle böbürlenecek kadar sınıfsız değilim.",
+      "after": "Ama öyle\r\nböbürlenecek kadar sınıfsız değilim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_09",
+      "budget": 356,
+      "before": "Bana öyle bakma, bebeğim. Ellerim terler de\r\nşu motorun kontrolünü kaybederim.",
+      "after": "Bana öyle bakma, bebeğim.\r\nEllerim terler de\r\nşu motorun kontrolünü kaybederim."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_10",
+      "budget": 356,
+      "before": "Amerika'nın en iyi kızısın, güzelim... Yok, dünyanın...\r\nBoş ver dünyayı! Sen lanet evrenin en iyisisin!",
+      "after": "Amerika'nın en iyi kızısın, güzelim...\r\nYok, dünyanın...\r\nBoş ver dünyayı!\r\nSen lanet evrenin en iyisisin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_11",
+      "budget": 356,
+      "before": "Seni tek kelimeyle anlatmam gerekse\r\n\"süpersıcakfıstıkseksimuhteşemötesi\" derdim!",
+      "after": "Seni tek kelimeyle anlatsam,\r\n“süper ateşli,\r\nseksi ve muhteşem” derdim!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_12",
+      "budget": 356,
+      "before": "Bir sonraki yerde öğle yemeği molası verelim mi?",
+      "after": "Bir sonraki yerde öğle\r\nyemeği molası verelim mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_16",
+      "budget": 356,
+      "before": "Yani benzinlikteki adam gayet açık anlattı, değil mi?",
+      "after": "Yani benzinlikteki adam gayet açık anlattı,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_17",
+      "budget": 356,
+      "before": "Kavşağa kadar dümdüz git, sonra beyaz köpeğin\r\noturduğu yerden dön dedi. Değil mi?",
+      "after": "Kavşağa kadar dümdüz\r\ngit, sonra beyaz köpeğin\r\noturduğu yerden dön dedi. Değil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_19",
+      "budget": 356,
+      "before": "Hem hangi köpek sırtüstü dümdüz yatıp uyur ki",
+      "after": "Hem hangi köpek sırtüstü\r\ndümdüz yatıp uyur ki"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Görünüşe göre turnuvanın arkasında S.I.N. var.\r\nHem de Juri olayından bu kadar kısa süre sonra...",
+      "after": "Görünüşe göre turnuvanın arkasında S.I.N.\r\nvar. Hem de Juri olayından\r\nbu kadar kısa süre sonra..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Baba... Keşke hakkında daha çok şey bilseydim.\r\nSeni bir daha hiç göremeyecek olsam da,",
+      "after": "Baba... Keşke hakkında\r\ndaha çok şey bilseydim.\r\nSeni bir daha hiç göremeyecek olsam da,"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_08",
+      "budget": 354,
+      "before": "Bana göz kulak ol, baba.\r\nKötü planlarına son vereceğime söz veriyorum!",
+      "after": "Bana göz kulak ol, baba.\r\nKötü planlarına son\r\nvereceğime söz veriyorum!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_09",
+      "budget": 354,
+      "before": "Başka hiç kimsenin benim yaşadıklarımı\r\nyaşamak zorunda kalmamasını sağlayacağım.",
+      "after": "Başka hiç kimsenin benim yaşadıklarımı\r\nyaşamak zorunda\r\nkalmamasını sağlayacağım."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_02",
+      "budget": 354,
+      "before": "Liseli güzellerden Brezilyalı canavar adamlara\r\nkadar herkes onun muhteşem eğitiminden\r\nfaydalandı!",
+      "after": "Liseli güzellerden Brezilyalı\r\ncanavar adamlara\r\nkadar herkes onun muhteşem eğitiminden\r\nfaydalandı!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "Bu yarı tanrı süperstardan doğrudan emir alma\r\nfırsatını kaçırmayın! Hemen başvurun, kayıt\r\nücretinde %50 indirim kazanın!",
+      "after": "Bu yarı tanrı süperstardan\r\ndoğrudan emir alma\r\nfırsatını kaçırmayın! Hemen başvurun, kayıt\r\nücretinde %50 indirim kazanın!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Ama durun! Hepsi bu değil! Başvururken\r\nbu reklamdan bahsedin; bir Saikyo tişörtü\r\nve bir çift dal budama makası tamamen bedava!",
+      "after": "Ama durun! Hepsi bu değil! Başvururken\r\nbu reklamdan bahsedin; bir Saikyo tişörtü\r\nve bir çift dal budama\r\nmakası tamamen bedava!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_07",
+      "budget": 354,
+      "before": "Ağaç budarken tişörtü giyin, mahalledeki\r\ngüzelleri sopayla uzaklaştırmak zorunda kalın!\r\nBeklemeyin! Hemen ara- Aslında direkt gelin!",
+      "after": "Ağaç budarken tişörtü giyin, mahalledeki\r\ngüzelleri sopayla\r\nuzaklaştırmak zorunda kalın!\r\nBeklemeyin! Hemen\r\nara- Aslında direkt gelin!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_DDL",
+      "key": "MSG_01",
+      "budget": 351,
+      "before": "Hmm... İyi bir müsabakayı geri çevirmem ama\r\nbu davette görgü eksikliği seziyorum.",
+      "after": "Hmm... İyi bir müsabakayı\r\ngeri çevirmem ama\r\nbu davette görgü eksikliği seziyorum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_GUL",
+      "key": "MSG_08",
+      "budget": 354,
+      "before": "O alçaklara bunu ödeteceğim, Charlie!\r\nÖrgütlerinin son dalına kadar yok edeceğim!\r\nBu dünyada işledikleri her kötülüğü\r\ngün yüzüne çıkaracağım!",
+      "after": "O alçaklara bunu ödeteceğim, Charlie!\r\nÖrgütlerinin son\r\ndalına kadar yok edeceğim!\r\nBu dünyada işledikleri her kötülüğü\r\ngün yüzüne çıkaracağım!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_HKN",
+      "key": "MSG_07",
+      "budget": 355,
+      "before": "Biraz ateşe yaklaştırınca\r\ngörünmez mürekkep ortaya çıkıyor, değil mi?\r\nSen buraya",
+      "after": "Biraz ateşe yaklaştırınca\r\ngörünmez mürekkep ortaya çıkıyor,\r\ndeğil mi?\r\nSen buraya"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_HND",
+      "key": "MSG_07",
+      "budget": 355,
+      "before": "Ve müthiş eğleniyorum! Böyle devam edersem\r\nbir sürü hayran kazanacağım!",
+      "after": "Ve müthiş eğleniyorum!\r\nBöyle devam edersem\r\nbir sürü hayran kazanacağım!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_JRI",
+      "key": "MSG_04",
+      "budget": 354,
+      "before": "Turnuva mı, ha?\r\nHa ha... İlginç... Şey, emin olmak için\r\nsoruyorum: Bunun kuralları falan yok, değil mi?",
+      "after": "Turnuva mı, ha?\r\nHa ha... İlginç... Şey, emin olmak için\r\nsoruyorum: Bunun kuralları falan yok,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_RIC",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Zorlukların üstesinden gelmek için\r\n“yaparım” demek ve yanan bir tutku yeter!",
+      "after": "Zorlukların üstesinden gelmek için\r\n“yaparım” demek\r\nve yanan bir tutku yeter!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_ROS",
+      "key": "MSG_05",
+      "budget": 359,
+      "before": "Ben yalnızca onu koruyabilir, yol gösterebilir,\r\nBison'ı yok etme arayışında yardım edebilirim.\r\nBu benim son görevim olacak...",
+      "after": "Ben yalnızca onu koruyabilir,\r\nyol gösterebilir, Bison'ı yok etme\r\narayışında yardım edebilirim.\r\nBu benim son görevim olacak..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_RYU",
+      "key": "MSG_01",
+      "budget": 354,
+      "before": "Ve görünen o ki bunun arkasında da S.I.N. var.\r\nPerde arkasında uğursuz bir şeyler\r\ndöndüğü hissinden kurtulamıyorum.",
+      "after": "Ve görünen o ki bunun\r\narkasında da S.I.N. var.\r\nPerde arkasında uğursuz bir şeyler\r\ndöndüğü hissinden kurtulamıyorum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_ZGF",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "ve yaratıcılığın neler başarabileceğini göstereceğim!\r\nBeni dinleyin, Ana Rusya'nın gençleri!\r\nKızıl Siklon sizi yüzüstü bırakmayacak!",
+      "after": "ve yaratıcılığın neler\r\nbaşarabileceğini göstereceğim!\r\nBeni dinleyin, Ana Rusya'nın gençleri!\r\nKızıl Siklon sizi yüzüstü bırakmayacak!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "PlayerDataMenu",
+      "key": "ID_PDT_0306",
+      "budget": 351,
+      "before": "Oyun Jetonlarını Figür Puanına (FP) dönüştür.",
+      "after": "Oyun Jetonlarını Figür\r\nPuanına (FP) dönüştür."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "SaveDialog",
+      "key": "ID_DLG_2400",
+      "budget": 368,
+      "before": "Veriler bozulmuş.\r\nTüm veriler varsayılan durumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak.",
+      "after": "Veriler bozulmuş.\r\nTüm veriler varsayılan\r\ndurumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak."
+    },
+    {
+      "file": "_GUI/_id/_common/save.arc.csv",
+      "gmd": "SaveDialog",
+      "key": "ID_DLG_2400",
+      "budget": 368,
+      "before": "Veriler bozulmuş.\r\nTüm veriler varsayılan durumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak.",
+      "after": "Veriler bozulmuş.\r\nTüm veriler varsayılan\r\ndurumuna döndürülecek.\r\nStreetPass etkinleştirilmişse\r\nSUPER STREET FIGHTER IV 3D EDITION'ın\r\nStreetPass özelliği devre dışı bırakılacak."
+    },
+    {
+      "file": "_GUI/_id/_chara/FLN.arc.csv",
+      "gmd": "FoComment_FLN",
+      "key": "VEG",
+      "budget": 354,
+      "before": "Senin gibi bir kötünün\r\nelini kolunu sallayarak gitmesine izin veremem!",
+      "after": "Senin gibi bir kötünün elini kolunu\r\nsallayarak gitmesine izin veremem!"
+    },
+    {
+      "file": "_GUI/_id/_chara/HND.arc.csv",
+      "gmd": "FoComment_HND",
+      "key": "DSM",
+      "budget": 357,
+      "before": "Güçlenmek için meditasyondan fazlası gerekir!\r\nAntrenman yapmalısın!",
+      "after": "Güçlenmek için meditasyondan\r\nfazlası gerekir!\r\nAntrenman yapmalısın!"
+    },
+    {
+      "file": "_GUI/_id/_chara/HND.arc.csv",
+      "gmd": "FoComment_HND",
+      "key": "AGL",
+      "budget": 357,
+      "before": "Kolunda başka ne numara var, hanımefendi?",
+      "after": "Kolunda başka ne numara\r\nvar, hanımefendi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/HND.arc.csv",
+      "gmd": "FoPrologue_HND",
+      "key": "MSG_07",
+      "budget": 355,
+      "before": "Ve müthiş eğleniyorum! Böyle devam edersem\r\nbir sürü hayran kazanacağım!",
+      "after": "Ve müthiş eğleniyorum!\r\nBöyle devam edersem\r\nbir sürü hayran kazanacağım!"
+    },
+    {
+      "file": "_GUI/_id/_chara/SKR.arc.csv",
+      "gmd": "FoComment_SKR",
+      "key": "DJY",
+      "budget": 357,
+      "before": "Üzgünüm! Dövüşmekle o kadar meşguldüm ki\r\nritmini dinlemeyi unuttum!",
+      "after": "Üzgünüm! Dövüşmekle\r\no kadar meşguldüm ki\r\nritmini dinlemeyi unuttum!"
+    },
+    {
+      "file": "_GUI/_id/_chara/SKR.arc.csv",
+      "gmd": "FoComment_SKR",
+      "key": "ADN",
+      "budget": 357,
+      "before": "Dövüşmek eğlenceli olmalı!\r\nBütün zaman boyunca çok kızgın görünüyordun.",
+      "after": "Dövüşmek eğlenceli olmalı!\r\nBütün zaman boyunca\r\nçok kızgın görünüyordun."
+    },
+    {
+      "file": "_GUI/_id/_chara/SKR.arc.csv",
+      "gmd": "FoEnding_SKR",
+      "key": "MSG_00",
+      "budget": 350,
+      "before": "Çok teşekkür ederim, Ryu-san!\r\nSeninle tekrar dövüşmek gerçekten harikaydı!",
+      "after": "Çok teşekkür ederim, Ryu-san!\r\nSeninle tekrar dövüşmek\r\ngerçekten harikaydı!"
+    },
+    {
+      "file": "_GUI/_id/_chara/ROS.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "DSM",
+      "budget": 357,
+      "before": "Sen de benim gibisin, değil mi?\r\nBaşkalarının göremediği şeyleri görüyorsun...",
+      "after": "Sen de benim gibisin, değil mi?\r\nBaşkalarının göremediği\r\nşeyleri görüyorsun..."
+    },
+    {
+      "file": "_GUI/_id/_chara/ROS.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "VEG",
+      "budget": 357,
+      "before": "Planının gerçekleşmesine izin vermeyeceğim!\r\nBeni yok edemeyeceksin!",
+      "after": "Planının gerçekleşmesine\r\nizin vermeyeceğim!\r\nBeni yok edemeyeceksin!"
+    },
+    {
+      "file": "_GUI/_id/_chara/ROS.arc.csv",
+      "gmd": "FoComment_ROS",
+      "key": "RND_04",
+      "budget": 357,
+      "before": "Çok yoruldum... Güzel bir köpük banyosunda\r\nrahatlamak için sabırsızlanıyorum.",
+      "after": "Çok yoruldum...\r\nGüzel bir köpük banyosunda\r\nrahatlamak için sabırsızlanıyorum."
+    },
+    {
+      "file": "_GUI/_id/_chara/ROS.arc.csv",
+      "gmd": "FoPrologue_ROS",
+      "key": "MSG_05",
+      "budget": 359,
+      "before": "Ben yalnızca onu koruyabilir, yol gösterebilir,\r\nBison'ı yok etme arayışında yardım edebilirim.\r\nBu benim son görevim olacak...",
+      "after": "Ben yalnızca onu koruyabilir,\r\nyol gösterebilir, Bison'ı yok etme\r\narayışında yardım edebilirim.\r\nBu benim son görevim olacak..."
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "KEN",
+      "budget": 355,
+      "before": "Kendini gerçek bir kazanan sanıyorsun\r\nama bu kez kazanamadın, değil mi büyük adam?",
+      "after": "Kendini gerçek bir kazanan sanıyorsun\r\nama bu kez kazanamadın,\r\ndeğil mi büyük adam?"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "SKR",
+      "budget": 355,
+      "before": "Artık senseinin ne kadar güçlü olduğunu\r\nbiliyorsun! Akşam yemeğini sen ısmarlıyorsun,\r\ndeğil mi?",
+      "after": "Artık senseinin ne kadar güçlü olduğunu\r\nbiliyorsun! Akşam yemeğini\r\nsen ısmarlıyorsun,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "CDY",
+      "budget": 355,
+      "before": "İşsiz olmak hapiste olmaktan iyidir herhâlde...\r\nİyi misin, dostum? Biraz neşelen!",
+      "after": "İşsiz olmak hapiste olmaktan\r\niyidir herhâlde...\r\nİyi misin, dostum? Biraz neşelen!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "ADN",
+      "budget": 355,
+      "before": "Saikyo sanatlarına geçmeden kral olamazsın!\r\nDenemek ister misin?",
+      "after": "Saikyo sanatlarına\r\ngeçmeden kral olamazsın!\r\nDenemek ister misin?"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "RND_01",
+      "budget": 355,
+      "before": "Ayakta kalan kazanır! Az kalsın tökezliyordum\r\nama düşmedim; demek ki kazandım!",
+      "after": "Ayakta kalan kazanır!\r\nAz kalsın tökezliyordum\r\nama düşmedim; demek ki kazandım!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoComment_DAN",
+      "key": "RND_04",
+      "budget": 355,
+      "before": "Akşam yemeği mi? Genelde lavabonun başında\r\ndikilip fasulyeyi konserveden yerim.",
+      "after": "Akşam yemeği mi?\r\nGenelde lavabonun başında\r\ndikilip fasulyeyi konserveden yerim."
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_02",
+      "budget": 354,
+      "before": "Liseli güzellerden Brezilyalı canavar adamlara\r\nkadar herkes onun muhteşem eğitiminden\r\nfaydalandı!",
+      "after": "Liseli güzellerden Brezilyalı\r\ncanavar adamlara\r\nkadar herkes onun muhteşem eğitiminden\r\nfaydalandı!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "Bu yarı tanrı süperstardan doğrudan emir alma\r\nfırsatını kaçırmayın! Hemen başvurun, kayıt\r\nücretinde %50 indirim kazanın!",
+      "after": "Bu yarı tanrı süperstardan\r\ndoğrudan emir alma\r\nfırsatını kaçırmayın! Hemen başvurun, kayıt\r\nücretinde %50 indirim kazanın!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Ama durun! Hepsi bu değil! Başvururken\r\nbu reklamdan bahsedin; bir Saikyo tişörtü\r\nve bir çift dal budama makası tamamen bedava!",
+      "after": "Ama durun! Hepsi bu değil! Başvururken\r\nbu reklamdan bahsedin; bir Saikyo tişörtü\r\nve bir çift dal budama\r\nmakası tamamen bedava!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DAN.arc.csv",
+      "gmd": "FoPrologue_DAN",
+      "key": "MSG_07",
+      "budget": 354,
+      "before": "Ağaç budarken tişörtü giyin, mahalledeki\r\ngüzelleri sopayla uzaklaştırmak zorunda kalın!\r\nBeklemeyin! Hemen ara- Aslında direkt gelin!",
+      "after": "Ağaç budarken tişörtü giyin, mahalledeki\r\ngüzelleri sopayla\r\nuzaklaştırmak zorunda kalın!\r\nBeklemeyin! Hemen\r\nara- Aslında direkt gelin!"
+    },
+    {
+      "file": "_GUI/_id/_chara/HKN.arc.csv",
+      "gmd": "FoPrologue_HKN",
+      "key": "MSG_07",
+      "budget": 355,
+      "before": "Biraz ateşe yaklaştırınca\r\ngörünmez mürekkep ortaya çıkıyor, değil mi?\r\nSen buraya",
+      "after": "Biraz ateşe yaklaştırınca\r\ngörünmez mürekkep ortaya çıkıyor,\r\ndeğil mi?\r\nSen buraya"
+    },
+    {
+      "file": "_GUI/_id/_chara/GEN.arc.csv",
+      "gmd": "FoComment_GEN",
+      "key": "RIC",
+      "budget": 354,
+      "before": "İnsanın kendi yetenekleri konusunda\r\nen kötü hakem kendisidir! Gözümden kaybol!",
+      "after": "İnsanın kendi yetenekleri konusunda\r\nen kötü hakem kendisidir!\r\nGözümden kaybol!"
+    },
+    {
+      "file": "_GUI/_id/_chara/GEN.arc.csv",
+      "gmd": "FoComment_GEN",
+      "key": "GUY",
+      "budget": 354,
+      "before": "Ayakların hızlı olabilir,\r\nama hiç kimse kaçınılmaz ölümünden kaçamaz.",
+      "after": "Ayakların hızlı olabilir,\r\nama hiç kimse kaçınılmaz\r\nölümünden kaçamaz."
+    },
+    {
+      "file": "_GUI/_id/_chara/ZGF.arc.csv",
+      "gmd": "FoPrologue_ZGF",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "ve yaratıcılığın neler başarabileceğini göstereceğim!\r\nBeni dinleyin, Ana Rusya'nın gençleri!\r\nKızıl Siklon sizi yüzüstü bırakmayacak!",
+      "after": "ve yaratıcılığın neler\r\nbaşarabileceğini göstereceğim!\r\nBeni dinleyin, Ana Rusya'nın gençleri!\r\nKızıl Siklon sizi yüzüstü bırakmayacak!"
+    },
+    {
+      "file": "_GUI/_id/_chara/RYU.arc.csv",
+      "gmd": "FoPrologue_RYU",
+      "key": "MSG_01",
+      "budget": 354,
+      "before": "Ve görünen o ki bunun arkasında da S.I.N. var.\r\nPerde arkasında uğursuz bir şeyler\r\ndöndüğü hissinden kurtulamıyorum.",
+      "after": "Ve görünen o ki bunun\r\narkasında da S.I.N. var.\r\nPerde arkasında uğursuz bir şeyler\r\ndöndüğü hissinden kurtulamıyorum."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoButtle_DDL",
+      "key": "MSG_04",
+      "budget": 356,
+      "before": "Hıh! Bu ufak cılızın Britanya şampiyonu\r\nolduğunu mu söylüyorsun!? Dalga geçiyorsun!",
+      "after": "Hıh! Bu ufak cılızın Britanya şampiyonu\r\nolduğunu mu söylüyorsun!?\r\nDalga geçiyorsun!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoButtle_DDL",
+      "key": "MSG_08",
+      "budget": 356,
+      "before": "Hele de bir meslektaş boksörden geliyorsa...",
+      "after": "Hele de bir meslektaş\r\nboksörden geliyorsa..."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "CNL",
+      "budget": 356,
+      "before": "O inanılmaz hareketlerinizi bana gösterdiğiniz\r\niçin minnettarım, dedektif!",
+      "after": "O inanılmaz hareketlerinizi\r\nbana gösterdiğiniz\r\niçin minnettarım, dedektif!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "ZGF",
+      "budget": 356,
+      "before": "Efendim, profesyonel güreş hakkındaki\r\nfikirlerimi yeniden düşünmeme neden oldunuz.",
+      "after": "Efendim, profesyonel güreş hakkındaki\r\nfikirlerimi yeniden\r\ndüşünmeme neden oldunuz."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GUL",
+      "budget": 356,
+      "before": "Stilinizde askerî bir hassasiyet hissediyorum.\r\nBunu yine yapmalıyız!",
+      "after": "Stilinizde askerî\r\nbir hassasiyet hissediyorum.\r\nBunu yine yapmalıyız!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "BSN",
+      "budget": 356,
+      "before": "Yeteneklerinize karşı hiç gurur duymuyorsunuz.\r\nBeni asla yenememenizin nedeni bu.",
+      "after": "Yeteneklerinize karşı hiç\r\ngurur duymuyorsunuz.\r\nBeni asla yenememenizin nedeni bu."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "BLR",
+      "budget": 356,
+      "before": "Görünüşe fazla önem veriyorsunuz, dostum.",
+      "after": "Görünüşe fazla önem\r\nveriyorsunuz, dostum."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GKI",
+      "budget": 356,
+      "before": "İblis rakipler heyecanlı bir müsabaka çıkarıyor,\r\nbu kesin!",
+      "after": "İblis rakipler heyecanlı\r\nbir müsabaka çıkarıyor,\r\nbu kesin!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "DJY",
+      "budget": 356,
+      "before": "Kaybetmek istemiyorsanız dansı asgari düzeyde\r\ntutsanız iyi olur, efendim.",
+      "after": "Kaybetmek istemiyorsanız\r\ndansı asgari düzeyde\r\ntutsanız iyi olur, efendim."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "GEN",
+      "budget": 356,
+      "before": "Bir büyüğümü böyle hırpaladığım için çok üzgünüm,\r\nefendim. Kişisel algılamayın.",
+      "after": "Bir büyüğümü böyle\r\nhırpaladığım için çok üzgünüm,\r\nefendim. Kişisel algılamayın."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoComment_DDL",
+      "key": "AGL",
+      "budget": 356,
+      "before": "Böyle bir durumda takma ad kullanmak size de\r\nbiraz kaba gelmiyor mu?",
+      "after": "Böyle bir durumda takma\r\nad kullanmak size de\r\nbiraz kaba gelmiyor mu?"
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoEnding_DDL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Maceralı bir yolculuktu ama peşinde olduğum\r\nyeni gülleri bulamadım.",
+      "after": "Maceralı bir yolculuktu\r\nama peşinde olduğum\r\nyeni gülleri bulamadım."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoEnding_DDL",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "İnsanlık tasarımda ne kadar ilerlerse ilerlesin\r\ndoğal bir çiçeğin güzelliğiyle hiçbir şey\r\nkıyaslanamaz.",
+      "after": "İnsanlık tasarımda\r\nne kadar ilerlerse ilerlesin\r\ndoğal bir çiçeğin güzelliğiyle hiçbir şey\r\nkıyaslanamaz."
+    },
+    {
+      "file": "_GUI/_id/_chara/DDL.arc.csv",
+      "gmd": "FoPrologue_DDL",
+      "key": "MSG_01",
+      "budget": 351,
+      "before": "Hmm... İyi bir müsabakayı geri çevirmem ama\r\nbu davette görgü eksikliği seziyorum.",
+      "after": "Hmm... İyi bir müsabakayı\r\ngeri çevirmem ama\r\nbu davette görgü eksikliği seziyorum."
+    },
+    {
+      "file": "_GUI/_id/_chara/GUL.arc.csv",
+      "gmd": "FoPrologue_GUL",
+      "key": "MSG_08",
+      "budget": 354,
+      "before": "O alçaklara bunu ödeteceğim, Charlie!\r\nÖrgütlerinin son dalına kadar yok edeceğim!\r\nBu dünyada işledikleri her kötülüğü\r\ngün yüzüne çıkaracağım!",
+      "after": "O alçaklara bunu ödeteceğim, Charlie!\r\nÖrgütlerinin son\r\ndalına kadar yok edeceğim!\r\nBu dünyada işledikleri her kötülüğü\r\ngün yüzüne çıkaracağım!"
+    },
+    {
+      "file": "_GUI/_id/_chara/JRI.arc.csv",
+      "gmd": "FoComment_JRI",
+      "key": "RYU",
+      "budget": 361,
+      "before": "Senin gibi dövüşçülerle kapışmayı seviyorum.\r\nEn azından karşı koyuyorsun.",
+      "after": "Senin gibi dövüşçülerle\r\nkapışmayı seviyorum.\r\nEn azından karşı koyuyorsun."
+    },
+    {
+      "file": "_GUI/_id/_chara/JRI.arc.csv",
+      "gmd": "FoEnding_JRI",
+      "key": "MSG_03",
+      "budget": 351,
+      "before": "Seni yenmek yalnızca fazladan bir ikramiyeydi.\r\nBen yönetimi ele geçirirken siz aptalları\r\nbirbirinize düşürmek istedim.",
+      "after": "Seni yenmek yalnızca\r\nfazladan bir ikramiyeydi.\r\nBen yönetimi ele geçirirken siz aptalları\r\nbirbirinize düşürmek istedim."
+    },
+    {
+      "file": "_GUI/_id/_chara/JRI.arc.csv",
+      "gmd": "FoPrologue_JRI",
+      "key": "MSG_04",
+      "budget": 354,
+      "before": "Turnuva mı, ha?\r\nHa ha... İlginç... Şey, emin olmak için\r\nsoruyorum: Bunun kuralları falan yok, değil mi?",
+      "after": "Turnuva mı, ha?\r\nHa ha... İlginç... Şey, emin olmak için\r\nsoruyorum: Bunun kuralları falan yok,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/BSN.arc.csv",
+      "gmd": "FoEnding_BSN",
+      "key": "MSG_06",
+      "budget": 343,
+      "before": "Tek başına hiçbir şey yapamıyorsun,\r\nöyle mi? Sandığımdan da işe yaramazmışsın!",
+      "after": "Tek başına hiçbir şey yapamıyorsun,\r\nöyle mi?\r\nSandığımdan da işe yaramazmışsın!"
+    },
+    {
+      "file": "_GUI/_id/_chara/ADN.arc.csv",
+      "gmd": "FoButtle_ADN",
+      "key": "MSG_00",
+      "budget": 349,
+      "before": "Sana ne kadar güçlü olduğumu göstereceğim!",
+      "after": "Sana ne kadar güçlü\r\nolduğumu göstereceğim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/RIC.arc.csv",
+      "gmd": "FoPrologue_RIC",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Zorlukların üstesinden gelmek için\r\n“yaparım” demek ve yanan bir tutku yeter!",
+      "after": "Zorlukların üstesinden gelmek için\r\n“yaparım” demek\r\nve yanan bir tutku yeter!"
+    },
+    {
+      "file": "_GUI/_id/_chara/MKT.arc.csv",
+      "gmd": "FoComment_MKT",
+      "key": "GEN",
+      "budget": 357,
+      "before": "Bana büyüklerime saygı göstermem öğretildi,\r\no yüzden bu kez gitmene izin vereceğim!",
+      "after": "Bana büyüklerime saygı\r\ngöstermem öğretildi,\r\no yüzden bu kez gitmene izin vereceğim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoButtle_CNL",
+      "key": "MSG_07",
+      "budget": 350,
+      "before": "Vay. Bir dayak daha yemeye mi geldin, memur?",
+      "after": "Vay. Bir dayak\r\ndaha yemeye mi geldin, memur?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoComment_CNL",
+      "key": "VEG",
+      "budget": 357,
+      "before": "Bunu ne kadar zamandır beklediğimi\r\nbilemezsin! Günahlarının bedelini ödeyeceksin!",
+      "after": "Bunu ne kadar zamandır beklediğimi\r\nbilemezsin! Günahlarının\r\nbedelini ödeyeceksin!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoEnding_CNL",
+      "key": "MSG_03",
+      "budget": 354,
+      "before": "Her şeyin sonunda, bunları kendim için de\r\nyaptığımı düşünüyorum. Yapabileceğim çok\r\ndaha fazla şey var. Bunu kendime borçluyum.",
+      "after": "Her şeyin sonunda, bunları kendim için de\r\nyaptığımı düşünüyorum. Yapabileceğim çok\r\ndaha fazla şey var.\r\nBunu kendime borçluyum."
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Görünüşe göre turnuvanın arkasında S.I.N. var.\r\nHem de Juri olayından bu kadar kısa süre sonra...",
+      "after": "Görünüşe göre turnuvanın arkasında S.I.N.\r\nvar. Hem de Juri olayından\r\nbu kadar kısa süre sonra..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Baba... Keşke hakkında daha çok şey bilseydim.\r\nSeni bir daha hiç göremeyecek olsam da,",
+      "after": "Baba... Keşke hakkında\r\ndaha çok şey bilseydim.\r\nSeni bir daha hiç göremeyecek olsam da,"
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_08",
+      "budget": 354,
+      "before": "Bana göz kulak ol, baba.\r\nKötü planlarına son vereceğime söz veriyorum!",
+      "after": "Bana göz kulak ol, baba.\r\nKötü planlarına son\r\nvereceğime söz veriyorum!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_09",
+      "budget": 354,
+      "before": "Başka hiç kimsenin benim yaşadıklarımı\r\nyaşamak zorunda kalmamasını sağlayacağım.",
+      "after": "Başka hiç kimsenin benim yaşadıklarımı\r\nyaşamak zorunda\r\nkalmamasını sağlayacağım."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ZGF",
+      "budget": 362,
+      "before": "Şimdi günde ne kadar spor yapıyorsun,\r\niki dakika falan mı? Haberleri izlemiyor musun?\r\nYüksek yağ oranı güçlü bağışıklığın sırrı!\r\nBenim gibi sağlıklı olmak istemez misin?",
+      "after": "Şimdi günde ne kadar spor yapıyorsun,\r\niki dakika falan mı?\r\nHaberleri izlemiyor musun?\r\nYüksek yağ oranı güçlü bağışıklığın sırrı!\r\nBenim gibi sağlıklı olmak istemez misin?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "GKI",
+      "budget": 362,
+      "before": "İnsanlığını aştığını falan söylüyormuşsun.\r\nO ne demek şimdi? Ben senden iriyim, değil mi?\r\nO zaman senin aşmış insanlığını da mı\r\naşmış oluyorum, ne?",
+      "after": "İnsanlığını aştığını falan söylüyormuşsun.\r\nO ne demek şimdi?\r\nBen senden iriyim, değil mi?\r\nO zaman senin aşmış insanlığını da mı\r\naşmış oluyorum, ne?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "VEG",
+      "budget": 362,
+      "before": "Dünyaya hükmetmek bana koca bir baş ağrısı\r\ngibi geliyor. Dünyayı gördün mü hiç?\r\nDevasa be! Omuzlanacak çok fazla\r\nsorumluluk var.",
+      "after": "Dünyaya hükmetmek\r\nbana koca bir baş ağrısı\r\ngibi geliyor. Dünyayı gördün mü hiç?\r\nDevasa be! Omuzlanacak çok fazla\r\nsorumluluk var."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DJY",
+      "budget": 362,
+      "before": "Duymak istediğim tek ses, sevgilim yanımda\r\ndünyayı turlarken motosikletimin egzozundan\r\nçıkan hayat verici karbondioksitin sesi! Evet!",
+      "after": "Duymak istediğim tek ses, sevgilim yanımda\r\ndünyayı turlarken\r\nmotosikletimin egzozundan\r\nçıkan hayat verici karbondioksitin sesi! Evet!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SKR",
+      "budget": 362,
+      "before": "Okul çocuklarını dövmekten zevk almıyorum,\r\ntamam mı? Bu bir turnuva, ben sadece kurallara\r\nuydum. Ne? Ryu mu? Yok, hiç duymadım.\r\nNeyse, dediğim gibi...",
+      "after": "Okul çocuklarını dövmekten zevk almıyorum,\r\ntamam mı?\r\nBu bir turnuva, ben sadece kurallara\r\nuydum. Ne? Ryu mu? Yok, hiç duymadım.\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ROS",
+      "budget": 362,
+      "before": "Candy'mle tanışana kadar kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum.",
+      "after": "Candy'yle tanışana dek kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DAN",
+      "budget": 362,
+      "before": "Yenilgi trenine binmek nasıl, Ken Masters?\r\nSonraki durak: Başarısızlık Kasabası! Nüfus: sen!\r\nNe? Yanlış kişi mi? Hadi canım!\r\nKaybettiğin için utanıyorsun işte!",
+      "after": "Yenilgi trenine binmek nasıl, Ken Masters?\r\nSonraki durak: Başarısızlık Kasabası!\r\nNüfus: sen!\r\nNe? Yanlış kişi mi? Hadi canım!\r\nKaybettiğin için utanıyorsun işte!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "AGL",
+      "budget": 362,
+      "before": "Bir dakika, hanımefendi! Bütün o ateş,\r\nelektrik falan gizli aletlerden mi çıkıyordu?\r\nBunun kurallara aykırı olmadığını mı söylüyorsun?\r\nCiddi misin?",
+      "after": "Bir dakika, hanımefendi! Bütün o ateş,\r\nelektrik falan gizli aletlerden mi çıkıyordu?\r\nBunun kurallara\r\naykırı olmadığını mı söylüyorsun?\r\nCiddi misin?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "CHB",
+      "budget": 362,
+      "before": "Havalı saç ve şık kıyafet tamam da\r\nbenim eşsiz dövüş stilimi kimse taklit edemez!\r\nİmkânsız! Milyon yıl geçse de olmaz, ezik!\r\nUnut gitsin! Asla!",
+      "after": "Havalı saç ve şık kıyafet tamam da\r\nbenim eşsiz dövüş stilimi\r\nkimse taklit edemez!\r\nİmkânsız! Milyon yıl geçse de olmaz, ezik!\r\nUnut gitsin! Asla!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "JHA",
+      "budget": 362,
+      "before": "Yenilginin ıstırabını öğrendin mi, Ken Masters!\r\nNe? Yanlış kişi mi? Gazetede gördüğüm\r\nfotoğraftan biraz farklısın ama estetik\r\nameliyata paran yeter, yani...",
+      "after": "Yenilginin ıstırabını\r\nöğrendin mi, Ken Masters!\r\nNe? Yanlış kişi mi? Gazetede gördüğüm\r\nfotoğraftan biraz farklısın ama estetik\r\nameliyata paran yeter, yani..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RIC",
+      "budget": 362,
+      "before": "Kusura bakma dostum, yemekte çok seçiciyim.\r\nSadece hamburger, sosisli, patates, pizza,\r\nsoğan halkası, spagetti, sandviç, tavuk, biftek,\r\npirzola, patates püresi, lahana salatası, rosto...",
+      "after": "Kusura bakma dostum,\r\nyemekte çok seçiciyim. Sadece hamburger,\r\nsosisli, patates, pizza, soğan halkası,\r\nspagetti, sandviç, tavuk, biftek, pirzola,\r\npatates püresi, lahana salatası, rosto..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "GUY",
+      "budget": 362,
+      "before": "Bir dakika dostum. Sen ninjaya hiç benzemiyorsun.\r\nParşömenlerin, yıldızların, masken nerede?\r\nHem hangi ninja böyle spor ayakkabı giyer?\r\nAçıkla bakalım!",
+      "after": "Bir dakika dostum.\r\nSen ninjaya hiç benzemiyorsun.\r\nParşömenlerin, yıldızların, masken nerede?\r\nHem hangi ninja böyle spor ayakkabı giyer?\r\nAçıkla bakalım!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "CDY",
+      "budget": 362,
+      "before": "Yenilgi sana yakıştı, Ken Masters! Ne? Yanlış\r\nkişi mi? Olmaz! Saçını tanıyorum! Ama şu kıyafet\r\nne? Hesabı ödemeden restorandan mı kaçtın?",
+      "after": "Yenilgi sana yakıştı, Ken Masters!\r\nNe? Yanlış\r\nkişi mi? Olmaz!\r\nSaçını tanıyorum! Ama şu kıyafet\r\nne? Hesabı ödemeden\r\nrestorandan mı kaçtın?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "IBK",
+      "budget": 362,
+      "before": "Vay anasını! Ninja! Gerçek bir ninja! Candy!\r\nCandy, bebeğim, çabuk gel! Şuna bak! Gerçek ninja!\r\nBana ninja yıldızı bile attı! Müthiş değil mi?\r\nBir fotoğraf çekilelim!",
+      "after": "Vay anasını! Ninja! Gerçek bir ninja! Candy!\r\nCandy, bebeğim, çabuk gel!\r\nŞuna bak! Gerçek ninja!\r\nBana ninja yıldızı bile attı! Müthiş değil mi?\r\nBir fotoğraf çekilelim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "MKT",
+      "budget": 362,
+      "before": "Yenilgi nasılmış, Ken Masters? Ne? Yanlış kişi mi?\r\nHadi oradan. Kıyafetini gördüğümde tanırım.\r\nAyakkabı giymediğini de biliyorum. Sensin işte!\r\nBiliyorum!",
+      "after": "Yenilgi nasılmış, Ken Masters?\r\nNe? Yanlış kişi mi?\r\nHadi oradan. Kıyafetini gördüğümde tanırım.\r\nAyakkabı giymediğini de biliyorum.\r\nSensin işte!\r\nBiliyorum!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DDL",
+      "budget": 362,
+      "before": "Beni merak etme, dostum. Öyle görünmesem de\r\ntam bir centilmenim! Yere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu zaman özür dilerim!\r\nNeyse, dediğim gibi...",
+      "after": "Beni merak etme, dostum.\r\nÖyle görünmesem de tam bir centilmenim!\r\nYere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu\r\nzaman özür dilerim!\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "HKN",
+      "budget": 362,
+      "before": "Dostum! Dostuuum! Bu da ne? Niye her yerin yağ?\r\nKoca bir tencere patlamış mısır yaparken\r\nkaza falan mı oldu? Çünkü ben mısır yaparken...",
+      "after": "Dostum! Dostuuum!\r\nBu da ne? Niye her yerin yağ?\r\nKoca bir tencere patlamış mısır yaparken\r\nkaza falan mı oldu?\r\nÇünkü ben mısır yaparken..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "JRI",
+      "budget": 362,
+      "before": "Lanet olsun, canım yandı! Deli misin? Gerçekten\r\nbeni sakatlamak ister gibi saldırdın! Bana bir şey\r\nolsaydı ne yapacaktın? Sigortan bunları karşılıyor mu?",
+      "after": "Lanet olsun, canım yandı!\r\nDeli misin? Gerçekten\r\nbeni sakatlamak ister gibi saldırdın!\r\nBana bir şey\r\nolsaydı ne yapacaktın?\r\nSigortan bunları karşılıyor mu?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SPC_00",
+      "budget": 362,
+      "before": "Rakibinin elinden yenilmek nasılmış, Ken Masters?\r\nBeni tanımıyormuş gibi yapma! Kudretli Rufus'u\r\nherkes tanır! Ciddiyim. Git kime istersen sor.\r\nBen ünlüyüm!",
+      "after": "Rakibinin elinden yenilmek nasılmış,\r\nKen Masters?\r\nBeni tanımıyormuş gibi yapma!\r\nKudretli Rufus'u\r\nherkes tanır! Ciddiyim. Git kime istersen sor.\r\nBen ünlüyüm!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "SPC_01",
+      "budget": 362,
+      "before": "Neyin peşindesin, dostum? Hareketlerimi göstermemi\r\nistiyorsun. Niye? Kopyalayacak mısın? Sende o kumaş\r\nyok! Hareketlerim bedenime özel dikildi! Benim!\r\nHepsi benim!",
+      "after": "Neyin peşindesin, dostum?\r\nHareketlerimi göstermemi\r\nistiyorsun. Niye?\r\nKopyalayacak mısın? Sende o kumaş\r\nyok! Hareketlerim bedenime\r\nözel dikildi! Benim!\r\nHepsi benim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_00",
+      "budget": 362,
+      "before": "Son zamanlarda o kadar ünlendim ki dışarı çıkınca\r\ninsanlar imza istemeden yürüyemiyorum! Belki de\r\nkoruma tutmalıyım! Cidden!",
+      "after": "Son zamanlarda\r\no kadar ünlendim ki dışarı çıkınca\r\ninsanlar imza istemeden yürüyemiyorum!\r\nBelki de\r\nkoruma tutmalıyım! Cidden!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_01",
+      "budget": 362,
+      "before": "Şunu düşünüyordum... Okyanusla denizin farkı ne?\r\nSadece boyut mu? Konum önemli mi? Bir deniz çok\r\nçalışırsa okyanusluğa terfi edebilir mi?",
+      "after": "Şunu düşünüyordum...\r\nOkyanusla denizin farkı ne?\r\nSadece boyut mu?\r\nKonum önemli mi? Bir deniz çok\r\nçalışırsa okyanusluğa terfi edebilir mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_02",
+      "budget": 362,
+      "before": "Güzel bir özel yapım motosikletten daha çok\r\nsevdiğim bir şey yok. Sadece renk ve şekil de değil.\r\nGenel dengeye dikkat edip görünüşün de...",
+      "after": "Güzel bir özel yapım motosikletten daha çok\r\nsevdiğim bir şey yok.\r\nSadece renk ve şekil de değil.\r\nGenel dengeye dikkat edip görünüşün de..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_03",
+      "budget": 362,
+      "before": "Geçen gün motosikletle Çin'e gittim. Ne? Yalan\r\nsöylemiyorum! Ben asla yalan söylemem! Motorla\r\ngittim işte! İnanmıyor musun? Haritaya bak!\r\nYolu baştan anlatırım sana!",
+      "after": "Geçen gün motosikletle Çin'e gittim.\r\nNe? Yalan\r\nsöylemiyorum! Ben asla\r\nyalan söylemem! Motorla\r\ngittim işte! İnanmıyor musun? Haritaya bak!\r\nYolu baştan anlatırım sana!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_04",
+      "budget": 362,
+      "before": "Hobi mi? Karaoke, bebeğim! Doyamıyorum! Bir keresinde\r\nCandy'yle bir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız hoparlörlerin parasını\r\nhâlâ ödüyoruz...",
+      "after": "Hobi mi? Karaoke, bebeğim!\r\nDoyamıyorum! Bir keresinde Candy'yle\r\nbir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız\r\nhoparlörlerin parasını hâlâ ödüyoruz..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_05",
+      "budget": 362,
+      "before": "Sadece dövüş dünyasında efsane değilim! Motorcu\r\nçevrelerinde de tanınırım! Büyük ihtimalle Amerika'nın\r\nen iyi motorcusuyum! Ama hedefim daha da büyük!\r\nBir gün...",
+      "after": "Sadece dövüş dünyasında efsane değilim!\r\nMotorcu çevrelerinde de tanınırım! Büyük\r\nihtimalle Amerika'nın en iyi motorcusuyum!\r\nAma hedefim daha da büyük! Bir gün..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_06",
+      "budget": 362,
+      "before": "Candy son zamanlarda bahçeciliğe sardı. Şu küçük\r\nsoğana benzeyen şeyler var ya? Biraz bana benzer?\r\nHa evet! Soğanlar! Bahçeye bir sürü dikti, sonra...",
+      "after": "Candy son zamanlarda bahçeciliğe sardı.\r\nŞu küçük\r\nsoğana benzeyen şeyler var ya?\r\nBiraz bana benzer?\r\nHa evet! Soğanlar!\r\nBahçeye bir sürü dikti, sonra..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_07",
+      "budget": 362,
+      "before": "Candy'mde en çok neyi sevdiğimi bilmek ister misin?\r\nSana ne! Bu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem! Zaten bana rakip\r\nolamazsın ama yine de...",
+      "after": "Candy'mde en çok neyi sevdiğimi\r\nbilmek ister misin? Sana ne!\r\nBu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem!\r\nZaten bana rakip olamazsın ama yine de..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_08",
+      "budget": 362,
+      "before": "Kadınlar alışverişte neden bu kadar oyalanıyor?\r\nCandy'ye söylediğimi söyleme ama kız aynı renkteki\r\niki bluz arasında iki saat karar veremedi!\r\nAralarında hiç fark yoktu!",
+      "after": "Kadınlar alışverişte neden\r\nbu kadar oyalanıyor?\r\nCandy'ye söylediğimi söyleme\r\nama kız aynı renkteki\r\niki bluz arasında iki saat karar veremedi!\r\nAralarında hiç fark yoktu!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_01",
+      "budget": 354,
+      "before": "Yani vay be, bu motor taş gibi ağır. Ben bile\r\nherhâlde birkaç yüz metre götüremezdim.",
+      "after": "Yani vay be, bu motor taş gibi ağır.\r\nBen bile\r\nherhâlde birkaç yüz metre götüremezdim."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_04",
+      "budget": 354,
+      "before": "Aynen öyle! Ciddiye alırsam böyle bir motoru\r\ndünyanın çevresinde yedi kez iterim!",
+      "after": "Aynen öyle!\r\nCiddiye alırsam böyle bir motoru\r\ndünyanın çevresinde yedi kez iterim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_05",
+      "budget": 354,
+      "before": "Tabii, bir süre önce kolları sıvayıp onu tamir ettim.\r\nArtık her yere gidebilir!",
+      "after": "Tabii, bir süre önce kolları\r\nsıvayıp onu tamir ettim.\r\nArtık her yere gidebilir!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_06",
+      "budget": 354,
+      "before": "Ama sadece dolaşmak aradığım heyecanı vermez!",
+      "after": "Ama sadece dolaşmak\r\naradığım heyecanı vermez!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_09",
+      "budget": 354,
+      "before": "Hmmm... Bir bakalım... Bu çöl sıcağından biraz\r\nbıktım... Buldum! Kuzey Kutbu'na gidelim mi, bebeğim?",
+      "after": "Hmmm... Bir bakalım...\r\nBu çöl sıcağından biraz\r\nbıktım... Buldum!\r\nKuzey Kutbu'na gidelim mi, bebeğim?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_11",
+      "budget": 354,
+      "before": "Değil mi ama? Yalnız Kuzey Kutbu'na hiç gitmedim.\r\nOraya nasıl gidilir biliyor musun, bebeğim?",
+      "after": "Değil mi ama?\r\nYalnız Kuzey Kutbu'na hiç gitmedim.\r\nOraya nasıl gidilir biliyor musun, bebeğim?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoEnding_CHB",
+      "key": "MSG_13",
+      "budget": 354,
+      "before": "Tek yapacağımız dümdüz kuzeye gitmek.\r\nKuzey Kutbu'ndan daha kuzeye gidemezsin, değil mi?",
+      "after": "Tek yapacağımız dümdüz kuzeye gitmek.\r\nKuzey Kutbu'ndan daha kuzeye\r\ngidemezsin, değil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_00",
+      "budget": 356,
+      "before": "Üf... Bu dövüş turnuvalarını neden hep\r\nkuş uçmaz kervan geçmez yerlerde yapıyorlar?",
+      "after": "Üf... Bu dövüş turnuvalarını neden hep\r\nkuş uçmaz kervan geçmez\r\nyerlerde yapıyorlar?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_01",
+      "budget": 356,
+      "before": "Böyle giderse oraya ulaşana kadar o kadar spor\r\nyapacağım ki kilo verip cılızın birine benzeyeceğim.",
+      "after": "Böyle giderse oraya\r\nulaşana kadar o kadar spor\r\nyapacağım ki kilo verip\r\ncılızın birine benzeyeceğim."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_02",
+      "budget": 356,
+      "before": "Ha ha! Hey! Bahse girerim bunun arkasında o pislik\r\nvar. Bu bir tür komplo!",
+      "after": "Ha ha! Hey!\r\nBahse girerim bunun arkasında o pislik\r\nvar. Bu bir tür komplo!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_03",
+      "budget": 356,
+      "before": "Kimden bahsettiğimi biliyorsun; geçen gün onun\r\nkopyalarından biri daha karşıma çıktı.\r\nBu adam daha ne kadar alçalabilir ki?",
+      "after": "Kimden bahsettiğimi biliyorsun;\r\ngeçen gün onun\r\nkopyalarından biri daha karşıma çıktı.\r\nBu adam daha ne kadar alçalabilir ki?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_04",
+      "budget": 356,
+      "before": "Yani ona nasıl Amerika'nın bir numaralı dövüşçüsü\r\ndiyebilirler!? Düşünmesi bile kanımı kaynatıyor.",
+      "after": "Yani ona nasıl Amerika'nın\r\nbir numaralı dövüşçüsü\r\ndiyebilirler!? Düşünmesi\r\nbile kanımı kaynatıyor."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_06",
+      "budget": 356,
+      "before": "Ama öyle böbürlenecek kadar sınıfsız değilim.",
+      "after": "Ama öyle\r\nböbürlenecek kadar sınıfsız değilim."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_09",
+      "budget": 356,
+      "before": "Bana öyle bakma, bebeğim. Ellerim terler de\r\nşu motorun kontrolünü kaybederim.",
+      "after": "Bana öyle bakma, bebeğim.\r\nEllerim terler de\r\nşu motorun kontrolünü kaybederim."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_10",
+      "budget": 356,
+      "before": "Amerika'nın en iyi kızısın, güzelim... Yok, dünyanın...\r\nBoş ver dünyayı! Sen lanet evrenin en iyisisin!",
+      "after": "Amerika'nın en iyi kızısın, güzelim...\r\nYok, dünyanın...\r\nBoş ver dünyayı!\r\nSen lanet evrenin en iyisisin!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_11",
+      "budget": 356,
+      "before": "Seni tek kelimeyle anlatmam gerekse\r\n\"süpersıcakfıstıkseksimuhteşemötesi\" derdim!",
+      "after": "Seni tek kelimeyle anlatsam,\r\n“süper ateşli,\r\nseksi ve muhteşem” derdim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_12",
+      "budget": 356,
+      "before": "Bir sonraki yerde öğle yemeği molası verelim mi?",
+      "after": "Bir sonraki yerde öğle\r\nyemeği molası verelim mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_16",
+      "budget": 356,
+      "before": "Yani benzinlikteki adam gayet açık anlattı, değil mi?",
+      "after": "Yani benzinlikteki adam gayet açık anlattı,\r\ndeğil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_17",
+      "budget": 356,
+      "before": "Kavşağa kadar dümdüz git, sonra beyaz köpeğin\r\noturduğu yerden dön dedi. Değil mi?",
+      "after": "Kavşağa kadar dümdüz\r\ngit, sonra beyaz köpeğin\r\noturduğu yerden dön dedi. Değil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_19",
+      "budget": 356,
+      "before": "Hem hangi köpek sırtüstü dümdüz yatıp uyur ki",
+      "after": "Hem hangi köpek sırtüstü\r\ndümdüz yatıp uyur ki"
+    },
+    {
+      "file": "_GUI/_id/_chara/DSM.arc.csv",
+      "gmd": "FoComment_DSM",
+      "key": "GKI",
+      "budget": 355,
+      "before": "Çevrendeki her şey yanılsamadır ve geçicidir.\r\nGücün de buna dâhil.",
+      "after": "Çevrendeki her şey\r\nyanılsamadır ve geçicidir.\r\nGücün de buna dâhil."
+    },
+    {
+      "file": "_GUI/_id/_chara/GKI.arc.csv",
+      "gmd": "FoComment_GKI",
+      "key": "RIC",
+      "budget": 354,
+      "before": "İki mesleğin peşinden gidiyorsun,\r\nama ikisinde de görkemli biçimde çuvallıyorsun!",
+      "after": "İki mesleğin peşinden gidiyorsun,\r\nama ikisinde de görkemli\r\nbiçimde çuvallıyorsun!"
+    },
+    {
+      "file": "_GUI/_id/_chara/GKI.arc.csv",
+      "gmd": "FoComment_GKI",
+      "key": "GUY",
+      "budget": 354,
+      "before": "Küstahlığının cezası olarak\r\nBushinryu geleneğini kökünden yok edeceğim!",
+      "after": "Küstahlığının cezası olarak\r\nBushinryu geleneğini\r\nkökünden yok edeceğim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/DJY.arc.csv",
+      "gmd": "FoComment_DJY",
+      "key": "DDL",
+      "budget": 355,
+      "before": "Bir beyefendiyle dövüşmek her zaman zevk!",
+      "after": "Bir beyefendiyle dövüşmek\r\nher zaman zevk!"
+    },
+    {
+      "file": "_GUI/_id/_chara/GUY.arc.csv",
+      "gmd": "FoComment_GUY",
+      "key": "CMY",
+      "budget": 357,
+      "before": "Bu savaşı tek başına vermek zorunda değilsin.\r\nMüttefiklerin var, değil mi?",
+      "after": "Bu savaşı tek başına\r\nvermek zorunda değilsin.\r\nMüttefiklerin var, değil mi?"
+    },
+    {
+      "file": "_GUI/_id/_chara/GUY.arc.csv",
+      "gmd": "FoComment_GUY",
+      "key": "DDL",
+      "budget": 357,
+      "before": "Batı'nın en iyi dövüş tekniklerini\r\ntatmama izin verdiğiniz için teşekkür ederim.",
+      "after": "Batı'nın en iyi dövüş tekniklerini\r\ntatmama izin\r\nverdiğiniz için teşekkür ederim."
+    },
+    {
+      "file": "_GUI/_id/_chara/VEG.arc.csv",
+      "gmd": "FoComment_VEG",
+      "key": "BLR",
+      "budget": 357,
+      "before": "Artık hiçbir işime yaramıyorsun.\r\nKan kaybederek ölmeni izlemekten keyif alacağım.",
+      "after": "Artık hiçbir işime yaramıyorsun.\r\nKan kaybederek ölmeni\r\nizlemekten keyif alacağım."
+    },
+    {
+      "file": "_GUI/_id/_chara/VEG.arc.csv",
+      "gmd": "FoComment_VEG",
+      "key": "SPC_01",
+      "budget": 357,
+      "before": "Sen, hurdalığa gitmeye mahkûm\r\nhatalı bir numuneden başka bir şey değilsin!",
+      "after": "Sen, hurdalığa gitmeye mahkûm\r\nhatalı bir numuneden\r\nbaşka bir şey değilsin!"
+    }
+  ],
+  "block_reflows": [
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RIC",
+      "budget": 362,
+      "before": "Kusura bakma dostum, yemekte çok seçiciyim.\r\nSadece hamburger, sosisli, patates, pizza,\r\nsoğan halkası, spagetti, sandviç, tavuk, biftek,\r\npirzola, patates püresi, lahana salatası, rosto...",
+      "after": "Kusura bakma dostum,\r\nyemekte çok seçiciyim. Sadece hamburger,\r\nsosisli, patates, pizza, soğan halkası,\r\nspagetti, sandviç, tavuk, biftek, pirzola,\r\npatates püresi, lahana salatası, rosto..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DDL",
+      "budget": 362,
+      "before": "Beni merak etme, dostum. Öyle görünmesem de\r\ntam bir centilmenim! Yere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu zaman özür dilerim!\r\nNeyse, dediğim gibi...",
+      "after": "Beni merak etme, dostum.\r\nÖyle görünmesem de tam bir centilmenim!\r\nYere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu\r\nzaman özür dilerim!\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_04",
+      "budget": 362,
+      "before": "Hobi mi? Karaoke, bebeğim! Doyamıyorum! Bir keresinde\r\nCandy'yle bir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız hoparlörlerin parasını\r\nhâlâ ödüyoruz...",
+      "after": "Hobi mi? Karaoke, bebeğim!\r\nDoyamıyorum! Bir keresinde Candy'yle\r\nbir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız\r\nhoparlörlerin parasını hâlâ ödüyoruz..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_05",
+      "budget": 362,
+      "before": "Sadece dövüş dünyasında efsane değilim! Motorcu\r\nçevrelerinde de tanınırım! Büyük ihtimalle Amerika'nın\r\nen iyi motorcusuyum! Ama hedefim daha da büyük!\r\nBir gün...",
+      "after": "Sadece dövüş dünyasında efsane değilim!\r\nMotorcu çevrelerinde de tanınırım! Büyük\r\nihtimalle Amerika'nın en iyi motorcusuyum!\r\nAma hedefim daha da büyük! Bir gün..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_07",
+      "budget": 362,
+      "before": "Candy'mde en çok neyi sevdiğimi bilmek ister misin?\r\nSana ne! Bu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem! Zaten bana rakip\r\nolamazsın ama yine de...",
+      "after": "Candy'mde en çok neyi sevdiğimi\r\nbilmek ister misin? Sana ne!\r\nBu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem!\r\nZaten bana rakip olamazsın ama yine de..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_FLN",
+      "key": "VEG",
+      "budget": 354,
+      "before": "Senin gibi bir kötünün\r\nelini kolunu sallayarak gitmesine izin veremem!",
+      "after": "Senin gibi bir kötünün elini kolunu\r\nsallayarak gitmesine izin veremem!"
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Görünüşe göre turnuvanın arkasında S.I.N. var.\r\nHem de Juri olayından bu kadar kısa süre sonra...",
+      "after": "Görünüşe göre turnuvanın arkasında S.I.N.\r\nvar. Hem de Juri olayından\r\nbu kadar kısa süre sonra..."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_ROS",
+      "key": "MSG_05",
+      "budget": 359,
+      "before": "Ben yalnızca onu koruyabilir, yol gösterebilir,\r\nBison'ı yok etme arayışında yardım edebilirim.\r\nBu benim son görevim olacak...",
+      "after": "Ben yalnızca onu koruyabilir,\r\nyol gösterebilir, Bison'ı yok etme\r\narayışında yardım edebilirim.\r\nBu benim son görevim olacak..."
+    },
+    {
+      "file": "_GUI/_id/_chara/FLN.arc.csv",
+      "gmd": "FoComment_FLN",
+      "key": "VEG",
+      "budget": 354,
+      "before": "Senin gibi bir kötünün\r\nelini kolunu sallayarak gitmesine izin veremem!",
+      "after": "Senin gibi bir kötünün elini kolunu\r\nsallayarak gitmesine izin veremem!"
+    },
+    {
+      "file": "_GUI/_id/_chara/ROS.arc.csv",
+      "gmd": "FoPrologue_ROS",
+      "key": "MSG_05",
+      "budget": 359,
+      "before": "Ben yalnızca onu koruyabilir, yol gösterebilir,\r\nBison'ı yok etme arayışında yardım edebilirim.\r\nBu benim son görevim olacak...",
+      "after": "Ben yalnızca onu koruyabilir,\r\nyol gösterebilir, Bison'ı yok etme\r\narayışında yardım edebilirim.\r\nBu benim son görevim olacak..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CNL.arc.csv",
+      "gmd": "FoPrologue_CNL",
+      "key": "MSG_00",
+      "budget": 354,
+      "before": "Görünüşe göre turnuvanın arkasında S.I.N. var.\r\nHem de Juri olayından bu kadar kısa süre sonra...",
+      "after": "Görünüşe göre turnuvanın arkasında S.I.N.\r\nvar. Hem de Juri olayından\r\nbu kadar kısa süre sonra..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RIC",
+      "budget": 362,
+      "before": "Kusura bakma dostum, yemekte çok seçiciyim.\r\nSadece hamburger, sosisli, patates, pizza,\r\nsoğan halkası, spagetti, sandviç, tavuk, biftek,\r\npirzola, patates püresi, lahana salatası, rosto...",
+      "after": "Kusura bakma dostum,\r\nyemekte çok seçiciyim. Sadece hamburger,\r\nsosisli, patates, pizza, soğan halkası,\r\nspagetti, sandviç, tavuk, biftek, pirzola,\r\npatates püresi, lahana salatası, rosto..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "DDL",
+      "budget": 362,
+      "before": "Beni merak etme, dostum. Öyle görünmesem de\r\ntam bir centilmenim! Yere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu zaman özür dilerim!\r\nNeyse, dediğim gibi...",
+      "after": "Beni merak etme, dostum.\r\nÖyle görünmesem de tam bir centilmenim!\r\nYere düşene tekme atmam,\r\ngeğirdikten sonra da çoğu\r\nzaman özür dilerim!\r\nNeyse, dediğim gibi..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_04",
+      "budget": 362,
+      "before": "Hobi mi? Karaoke, bebeğim! Doyamıyorum! Bir keresinde\r\nCandy'yle bir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız hoparlörlerin parasını\r\nhâlâ ödüyoruz...",
+      "after": "Hobi mi? Karaoke, bebeğim!\r\nDoyamıyorum! Bir keresinde Candy'yle\r\nbir karaoke odasını bir haftalığına tuttuk!\r\nAcayip eğlendik! Kırdığımız\r\nhoparlörlerin parasını hâlâ ödüyoruz..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_05",
+      "budget": 362,
+      "before": "Sadece dövüş dünyasında efsane değilim! Motorcu\r\nçevrelerinde de tanınırım! Büyük ihtimalle Amerika'nın\r\nen iyi motorcusuyum! Ama hedefim daha da büyük!\r\nBir gün...",
+      "after": "Sadece dövüş dünyasında efsane değilim!\r\nMotorcu çevrelerinde de tanınırım! Büyük\r\nihtimalle Amerika'nın en iyi motorcusuyum!\r\nAma hedefim daha da büyük! Bir gün..."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "RND_07",
+      "budget": 362,
+      "before": "Candy'mde en çok neyi sevdiğimi bilmek ister misin?\r\nSana ne! Bu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem! Zaten bana rakip\r\nolamazsın ama yine de...",
+      "after": "Candy'mde en çok neyi sevdiğimi\r\nbilmek ister misin? Sana ne!\r\nBu çok gizli, ayrıcalıklı bilgi dostum!\r\nSenin de ona âşık olmanı istemem!\r\nZaten bana rakip olamazsın ama yine de..."
+    }
+  ],
+  "manuals": [
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ROS",
+      "before": "Candy'mle tanışana kadar kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum.",
+      "after": "Candy'yle tanışana dek kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum."
+    },
+    {
+      "file": "_GUI/_mes/menu.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_11",
+      "before": "Seni tek kelimeyle anlatmam gerekse\r\n\"süpersıcakfıstıkseksimuhteşemötesi\" derdim!",
+      "after": "Seni tek kelimeyle anlatsam,\r\n“süper ateşli,\r\nseksi ve muhteşem” derdim!"
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoComment_CHB",
+      "key": "ROS",
+      "before": "Candy'mle tanışana kadar kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum.",
+      "after": "Candy'yle tanışana dek kadere inanmazdım.\r\nGöz göze geldiğimiz an kalp krizi geçiriyorum\r\nsandım! Belki de geçirdim. Ayrıntıları pek\r\nhatırlamıyorum."
+    },
+    {
+      "file": "_GUI/_id/_chara/CHB.arc.csv",
+      "gmd": "FoPrologue_CHB",
+      "key": "MSG_11",
+      "before": "Seni tek kelimeyle anlatmam gerekse\r\n\"süpersıcakfıstıkseksimuhteşemötesi\" derdim!",
+      "after": "Seni tek kelimeyle anlatsam,\r\n“süper ateşli,\r\nseksi ve muhteşem” derdim!"
+    }
+  ],
+  "remaining_overflow": []
+}

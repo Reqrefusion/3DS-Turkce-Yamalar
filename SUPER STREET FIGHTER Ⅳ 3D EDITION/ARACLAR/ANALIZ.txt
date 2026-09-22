@@ -1,0 +1,23 @@
+YÜKLENEN DOSYALARIN YAPISI
+
+Dil klasörleri
+- _eng
+- _fre
+- _ger
+- _ita
+- _spa
+
+Eşleşme
+- Her dil klasöründe 254 ARC dosyası var.
+- ARC yolları ve giriş sıraları beş dilde eşleşiyor.
+- Temel dilde 348 GMD metin öğesi var.
+- Temel dilde 272 TEX görsel öğesi var.
+- Temel dilde 4 GFD öğesi var; araç bunları değiştirmeden korur.
+- CSV dışa aktarımında 38 ARC dosyası ve toplam 9208 metin satırı oluşuyor.
+- Görsel dışa aktarımında 251 ARC klasörü ve 272 eşleştirilmiş görsel varlığı oluşuyor.
+
+Çıktı mantığı
+- Metinler tek bir dosyada toplanmaz; her kaynak ARC için ayrı *.arc.csv üretilir.
+- Görseller tek klasörde toplanmaz; her kaynak ARC için ayrı klasör oluşturulur.
+- Geri yazmada mevcut _eng ARC yolları ve iç giriş adları korunur.
+- Değişmeyen ARC dosyaları byte olarak aynen kopyalanır.

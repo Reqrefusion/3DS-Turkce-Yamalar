@@ -1,0 +1,33 @@
+Street Fighter IV 3DS - Türkçe Font Karakter Eşlemesi
+======================================================
+
+Desteklenen Türkçe karakterler: Ç ç Ğ ğ İ ı Ö ö Ş ş Ü ü
+Metinlerde kullanılan ek glifler: â î û “
+
+Metinler ASCII'ye çevrilmez; gerçek Unicode karakterler GFD tablosunda tutulur.
+Font atlası Nintendo 3DS ETC1A4 biçimindedir.
+
+Kaynak ve üretim yöntemi
+------------------------
+Ö/ö/Ü/ü : oyunun Almanca fontundaki özgün glif ve metrikler
+â/î/û    : oyunun Fransızca fontundaki özgün glif ve metrikler
+Ç/ç      : C/c temel glifi + hücrenin altına ayrılmış gerçek cedilla alanı
+Ş/ş      : S/s temel glifi + hücrenin altına ayrılmış gerçek cedilla alanı
+Ğ/ğ      : G/g temel glifi + glif üst sınırına göre konumlandırılmış breve
+İ        : I temel glifi + ortalanmış üst nokta
+ı        : i temel glifi - üst nokta
+“        : mevcut çift tırnak biçiminden hücre içinde üretilmiş açılış tırnağı
+
+Metrik ilkesi
+-------------
+Sentetik gliflerde hücre genişliği ve advance/spacing değerleri temel Latin
+karakterden aynen alınır. Genel font yüksekliği değiştirilmez (14 px / 16 px).
+Alt/üst işaretler hücre içinde tutulur; genişlik veya satır yüksekliği büyütülmez.
+
+Aktif font tanımları:
+- menu fntm16
+- menu fntm14
+- menu fntb16
+- common fntm16
+
+Ayrıntılı kontrol: FONT_METRIK_DOGRULAMA_V6.txt

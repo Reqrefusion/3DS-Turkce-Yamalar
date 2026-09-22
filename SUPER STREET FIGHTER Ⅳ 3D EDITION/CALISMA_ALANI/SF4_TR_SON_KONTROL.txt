@@ -1,0 +1,25 @@
+STREET FIGHTER IV 3D EDITION - TÜRKÇE ÇALIŞMA ALANI SON KONTROLÜ
+
+Metin
+- CSV metin satırı: 9208
+- Boş Türkçe alan: 0
+- Hazır yamadaki metinlerle uyuşmazlık: 0
+- Limit altında olup gereksiz yeniden kırılan kayıt: 0
+- Yeni tek kelimelik satır: 0
+
+Görseller
+- Font dışı düzenlenmiş Türkçe görsel: 263/263 doğrulandı
+- ETC1A4 geri yazımında özgün ETC1 renk blokları korunur
+
+Font
+- Destek: Ç ç Ğ ğ İ ı Ö ö Ş ş Ü ü â î û “
+- Aktif font tanımı: 4/4
+- Metrik doğrulama hatası: 0
+- Ç/ç/Ş/ş alt işaretleri hücrenin son satırına kadar iner ve gövdeyle çakışmaz
+- Ğ/ğ breve işareti temel glifin üst sınırına göre konumlandırılır
+- Sentetik gliflerde temel Latin karakterin hücre genişliği ve advance/spacing'i korunur
+- Font yüksekliği değiştirilmez
+
+Araç
+- sf4_tr_tool.py ETC1A4 TEX + GFD font düzeltmesini build sırasında otomatik uygular
+- Araçla özgün İngilizce font arşivinden yeniden build sonucu hazır YAMA font ARC'siyle byte-byte eşleşmiştir
