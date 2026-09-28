@@ -1,5 +1,15 @@
 STREET FIGHTER 3DS TÜRKÇE ÇEVİRİ ARAÇLARI
 
+V7 notu: Bu arşiv beş dilin orijinal ARC kaynaklarını içermez; aşağıdaki
+extract-all/build komutları için oyundan alınan ayrı bir kaynak gerekir.
+Paketlenmiş altı düzeltilmiş görseli yeniden oluşturmak için bu klasörde
+"py bozuk_firca_yazilarini_duzelt.py" komutunu çalıştırabilirsiniz.
+Paketlenmiş dört fontu mevcut YAMA üzerinde tekrar güncellemek için
+"py font_isaretlerini_yenile.py" komutunu çalıştırabilirsiniz.
+Bu iki komut yanında gelen fonts dosyalarını ve Pillow'u kullanır.
+V8'de eklenen üç arayüz düzeltmesini tekrar oluşturmak için
+"py ek_arayuz_gorsellerini_duzelt.py" komutunu çalıştırın.
+
 Amaç
 - _eng, _fre, _ger, _ita, _spa klasörlerindeki aynı ARC dosyalarını eşleştirir.
 - Metinleri ARC bazında CSV'ye çıkarır; bütün diller yan yana görünür.

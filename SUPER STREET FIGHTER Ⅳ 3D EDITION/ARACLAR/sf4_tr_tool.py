@@ -749,25 +749,18 @@ def _font_shift_mask(mask, dy: int):
 
 
 def _font_add_breve(mask, lowercase: bool = False, xheight_top: Optional[int] = None):
-    """Ğ/ğ brevesini glifin gerçek üst boşluğuna yerleştirir; gövdeyi kaydırmaz."""
+    """Draw a symmetric, two-row breve above the unchanged G/g body."""
     out = mask.copy()
     p = out.load()
     w, h = out.size
     bbox = mask.getbbox()
     top = bbox[1] if bbox else (7 if lowercase else 3)
-    # Küçük harfte ê/ö gibi yerleşim: gövdeden önce 1 boş satır kalır.
-    # Büyük harfte mevcut aksanlı Latin harflerin cap-height alanını kullanır.
-    y0 = max(0, top - (4 if lowercase else 3))
+    y0 = max(0, top - 3)
     cx = (w - 1) // 2
-    left = max(0, cx - 2)
-    right = min(w - 1, cx + 2)
-    pts = [
-        (left, y0, 204), (right, y0, 204),
-        (left, y0 + 1, 255), (min(w - 1, left + 1), y0 + 1, 153),
-        (max(0, right - 1), y0 + 1, 153), (right, y0 + 1, 255),
-        (max(0, cx - 1), y0 + 2, 187), (cx, y0 + 2, 255),
-        (min(w - 1, cx + 1), y0 + 2, 187),
-    ]
+    pts = [(cx - 2, y0, 221), (cx + 2, y0, 221),
+           (cx - 2, y0 + 1, 187), (cx + 2, y0 + 1, 187),
+           (cx - 1, y0 + 2, 204), (cx, y0 + 2, 255),
+           (cx + 1, y0 + 2, 204)]
     for x, y, a in pts:
         if 0 <= x < w and 0 <= y < h:
             p[x, y] = max(p[x, y], a)
@@ -806,16 +799,17 @@ def _font_dotless_i(mask, xheight_top: Optional[int] = None):
 
 
 def _font_add_cedilla_inline(mask):
-    """Ç/ç/Ş/ş: gövdeyi yalnız 1 px yukarı alır, son satırı gerçek cedilla kuyruğuna ayırır."""
-    out = _font_shift_mask(mask, -1)
+    """Reserve two baseline rows for a connected, curved cedilla."""
+    out = _font_shift_mask(mask, -2)
     p = out.load()
     w, h = out.size
     cx = (w - 1) // 2
-    # Penultimate row bağlantı; final row sola kıvrılan kuyruk.
-    for x, a in ((cx, 255), (min(w - 1, cx + 1), 170)):
-        p[x, h - 2] = max(p[x, h - 2], a)
-    for x, a in ((max(0, cx - 2), 119), (max(0, cx - 1), 255), (cx, 204)):
-        p[x, h - 1] = max(p[x, h - 1], a)
+    # The extra row gives the hook an actual curve at 14 and 16 px.
+    for x, y, a in ((cx, h - 3, 204), (cx, h - 2, 255),
+                    (min(w - 1, cx + 1), h - 2, 187),
+                    (cx, h - 1, 187), (max(0, cx - 1), h - 1, 255),
+                    (max(0, cx - 2), h - 1, 136)):
+        p[x, y] = max(p[x, y], a)
     return out
 
 
