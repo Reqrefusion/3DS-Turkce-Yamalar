@@ -1,23 +1,29 @@
-https://gamebanana.com/mods/705559
-# Ace Attorney Trilogy 3DS Türkçe v27 — Yüzey Tamamlama + İ Origin Fix
+# Phoenix Wright: Ace Attorney Trilogy — 3DS Türkçe Yama
 
-Bu sürüm çalışan v26 tabanını korur.
+[Yayın sayfası](https://gamebanana.com/mods/705559) · [Belgelenen hataların teknik incelemesi](ISSUE_4_ANALIZ.md) · [Araçların kullanımı](TOOLS_TR.md)
 
-## Yeni
-- Büyük `İ`, küçük `ı` ile aynı güvenli renderer-origin düzeltmesini alır: yalnız çizim konumu 2 px sola; cursor/advance korunur.
-- GS2/GS3: New Game → **Yeni Oyun**, Continue → **Devam**, SAVE → **KAYDET**, LOAD → **YÜKLE**.
-- GS2/GS3 dil düğmeleri: **İngilizce / Japonca**.
-- GS1/GS2/GS3 araştırma eylemleri: Move/Examine/Present/Talk → **Git / İncele / Sun / Konuş**.
-- GS2/GS3 stilize CHECK → **İNCELE**.
-- GS1/GS2/GS3 Event → **Olay**.
-- GS3 QUIT / Quit the game? → **ÇIKIŞ / Oyundan çık?**.
-- 5+4+5 bölüm başlığı görsel olarak denetlendi; 14'ü de zaten Türkçe olduğundan korunmuştur.
+## Kurulum
 
-## Luma EUR kurulumu
-`code.bin` doğrudan `sd:/luma/titles/0004000000133300/code.bin` konumunda olmalıdır.
-`romfs` klasörü aynı TitleID klasörünün altındadır.
+Yama Avrupa sürümü, **0004000000133300**, içindir. Başlık klasörünü `sd:/luma/titles/` altına yerleştirin ve Luma oyun yamalarını etkinleştirin.
 
-**code.bin'i exefs klasörüne koyma.**
+```text
+luma/titles/0004000000133300/
+    code.bin
+    romfs/
+        pack.dat
+        pack.inc
+```
 
-## Araçlar
-`tools/` altında code.bin patcher, IPS aracı, BCH texture aracı, pack/LZ11 aracı, yüzey UI patcher ve önceki analiz yardımcıları bulunur. Sistem fontları kullanılır; font dosyaları pakete dahil değildir.
+`code.bin` doğrudan başlık klasöründe bulunur. `pack.dat` ile `pack.inc` birlikte değiştirilmelidir. Mevcut yama ve kayıt dosyalarınızı yedekleyin.
+
+## Kaynak araçları
+
+`tools/aat3ds_tool.py` paket açma, diyalog aktarımı ve yeniden oluşturma girişidir. `tools/repair_native_controls.py` mevcut Türkçe paketteki komutları ve atlama hedeflerini özgün 3DS senaryolarıyla karşılaştırır. Komut tablosu, metin koruması ve kontrol akışı paket üretiminden önce doğrulanır.
+
+Araçlar sayısal parametreleri yazı karakteri gibi dönüştürmez. Çözülemeyen atlamalar, bilinmeyen metin kodları ve eksik senaryolar hatayla durur. Çıktı için yeni veya boş bir klasör kullanılmalıdır; başarısız onarım tamamlanmış sonuç gibi yayımlanmaz.
+
+## Doğrulama durumu
+
+103 senaryoda Türkçe metinlerin korunduğu; 1.776 yerel atlama ve 365 paketlenmiş tablo hedefinin özgün olay hedefleriyle eşleştiği doğrulandı. Portekizce çeviri karşılaştırma için kullanıldı; farklı bölgeye ait program dosyası kopyalanmadı.
+
+Belgelenen beş sorunun oyun içinde giderildiği henüz doğrulanmadı. Ayrıntılı rapor, otomatik değiştirilmeyen farkları da listeler.

@@ -17,6 +17,7 @@ import hashlib
 import json
 import re
 import struct
+import unicodedata
 from pathlib import Path
 
 
@@ -217,8 +218,15 @@ def unescape_message_text(text: str) -> tuple[tuple[int, ...], tuple[str, ...]]:
             token = text[pos:pos + 6]
             if len(token) != 6 or not re.fullmatch(r"\\u[0-9A-Fa-f]{4}", token):
                 raise FormatError(f"invalid Unicode escape near: {text[pos:pos + 12]!r}")
-            characters.append(chr(int(token[2:], 16)))
-            protected.append(token.upper())
+            codepoint = int(token[2:], 16)
+            characters.append(chr(codepoint))
+            # Escaped printable source text (for example Japanese glossary
+            # entries) is translatable; only actual controls and known game
+            # markers must remain identical in the target.
+            if unicodedata.category(chr(codepoint)).startswith("C") or codepoint in {
+                0x0100, 0x0101, 0x0102, 0xFF00, 0xFF01,
+            }:
+                protected.append(token.upper())
             pos += 6
         else:
             raise FormatError(f"unsupported message escape: \\{kind}")
@@ -1351,7 +1359,7 @@ def cmd_msg_build(args: argparse.Namespace) -> None:
                 translated_units, translated_controls = unescape_message_text(row["translation"])
                 if source_controls != translated_controls:
                     raise FormatError(
-                        f"CSV line {row['line_number']}: preserve every \\uXXXX and \\0 "
+                        f"CSV line {row['line_number']}: preserve every control/marker and \\0 "
                         "token from source_text, in the same order"
                     )
                 translated_units = terminate_message_units(translated_units)

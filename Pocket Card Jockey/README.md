@@ -70,12 +70,14 @@ Türkçe karakterleri `ÇĞİÖŞÜçğıöşü` biçiminde doğrudan yazabilirs
 `source_text` içindeki özel gösterimler önemlidir:
 
 - `\n`: oyun içi satır sonu; metnin akışına göre yerini değiştirebilirsiniz.
-- `\uXXXX` ve `\0`: oyun değişkenleri, biçimlendirme işaretleri veya özel
-  Unicode karakterleridir. Bunların tamamını çeviriye aynı sırada kopyalayın.
+- `\uXXXX`: özel kontrol kodu veya kaynakta kaçışlı gösterilen gerçek bir
+  Unicode karakteridir. Kontrol kodlarını ve oyun işaretlerini çeviride koruyun;
+  kaçışlı Japonca gibi görünen metinleri ise normal metin gibi çevirebilirsiniz.
+- `\0`: oyun değişkeni veya metin sonu işaretidir; çeviride koruyun.
 - `\\`: gerçek ters eğik çizgidir.
 
-Araç, `\uXXXX` veya `\0` işaretlerinden biri kaybolursa bozuk mesaj üretmemek
-için o satırı reddeder. Metin alanının ekrandaki genişliği otomatik büyümez;
+Araç, kontrol kodları, oyun işaretleri veya `\0` kaybolursa bozuk mesaj
+üretmemek için o satırı reddeder. Metin alanının ekrandaki genişliği otomatik büyümez;
 uzun Türkçe cümlelerde `\n` kullanın veya ifadeyi kısaltın.
 
 Örnek:

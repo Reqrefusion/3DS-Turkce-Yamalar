@@ -109,7 +109,7 @@ la [[C:0000:0003:0000]]parte inferior[[C:0000:0003:FFFF]].","[[C:0000:0003:0000]
 "62","ready_dist_ok","97","305","1","0","Ready to begin!","Klaar!","Tout est en place !","Los geht's!","Ora puoi cominciare!","Pronto para começar!","Можно начинать!","¡Ya está todo preparado!","Başlamaya hazır!","24","24","1","16","16","OK",""
 "63","ready_dist_D_2","166","277","1","0","Move to [[C:0000:0003:0000]]about 35cm [[C:0000:0003:FFFF]]away.","Houd [[C:0000:0003:0000]]zo'n 35 cm[[C:0000:0003:FFFF]] afstand.","Placez-vous à [[C:0000:0003:0000]]environ 35 cm[[C:0000:0003:FFFF]].","Bitte [[C:0000:0003:0000]]ca. 35 cm[[C:0000:0003:FFFF]] Abstand halten!","Mantieni [[C:0000:0003:0000]]35 cm[[C:0000:0003:FFFF]] di distanza.","Afaste a consola [[C:0000:0003:0000]]cerca de 35 cm[[C:0000:0003:FFFF]].","Отойди [[C:0000:0003:0000]]примерно на 35 см[[C:0000:0003:FFFF]] назад.","Mantente a unos [[C:0000:0003:0000]]35 cm[[C:0000:0003:FFFF]].","[[C:0000:0003:0000]]Yaklaşık 35 cm[[C:0000:0003:FFFF]] uzağa geç.","32","32","1","25","25","OK",""
 "64","ready_ok","103","89","1","0","OK","Oké","OK","Okay","OK","OK","OK","Vale","Tamam","4","4","1","5","5","OK",""
-"65","ready_start","114","188","1","0","Press  to shoot!","Schiet met !","Tirez avec  !"," Schießen","Colpisci con !","Prima  para disparar!"," — выстрел!","¡Dispara con !","Ateş etmek için !","22","22","1","18","18","OK",""
+"65","ready_start","114","188","1","0","Press  to shoot!","Schiet met !","Tirez avec  !"," Schießen","Colpisci con !","Prima  para disparar!"," — выстрел!","¡Dispara con !","Ateş etmek için  tuşuna bas!","22","22","1","29","29","OK",""
 "66","ready_start_front","114","188","1","0","Shoot the front!","Schiet van voren!","Tirez de face !","Schieß von vorn!","Colpisci di fronte!","Dispare de frente!","Стреляй спереди!","¡Dispara de frente!","Önden ateş et!","19","19","1","14","14","OK",""
 "67","ready_start_bar","28","350","1","0","Keep your aim fixed while you move!","Houd de ?-kaart goed in beeld!","Gardez votre cible en ligne de mire !","Behalte die ?-Karte immer im Blick!","Punta sempre il bersaglio muovendoti!","Mantenha o alvo fixo ao mover-se!","Целься в одну точку, когда двигаешься!","¡Mantén fijo el objetivo al moverte!","Hareket ederken hedefi sabit tut!","38","38","1","33","33","OK",""
 "68","gameselect_","","","","","","","","","","","","","","0","0","1","0","0","BOŞ",""
@@ -154,7 +154,7 @@ ortaya çıktı!","34","16","3","26","13","OK",""
 "78","gamesel_golf","137","205","1","0","AR Shot","Minibiljart","Bille-cross","Mini-Billard","Rotolandia","Mini-Bilhar","Бильярд","Minibillar","AR Vuruşu","12","12","1","9","9","OK","“AR Shot” kelime oyununu ve vuruş mekaniğini korumak için “AR Vuruşu” seçildi."
 "79","gamesel_golf2","139","246","1","0","AR Shot 2","Minibiljart 2","Bille-cross 2","Mini-Billard 2","Rotolandia 2","Mini-Bilhar 2","Бильярд 2","Minibillar II","AR Vuruşu 2","14","14","1","11","11","OK",""
 "80","gamesel_fish","137","205","1","0","Fishing","Vissen","Pêche","Angeln","Pesca","Pesca","Рыбалка","Pesca","Balıkçılık","7","7","1","10","10","OK",""
-"81","gamesel_fish2","139","246","1","0","Free Fishing","Vrij vissen","Pêche libre","Freies Angeln","Pesca libera","Pesca Livre","Рыбалка 2","Pesca libre","Serbest Av","13","13","1","10","10","OK","“Free Fishing” için arayüze daha iyi sığan kısa ve doğal “Serbest Av” seçildi."
+"81","gamesel_fish2","139","246","1","0","Free Fishing","Vrij vissen","Pêche libre","Freies Angeln","Pesca libera","Pesca Livre","Рыбалка 2","Pesca libre","Serbest Balıkçılık","13","13","1","18","18","OK","“Free Fishing” için arayüze sığan ve oyun modu anlamını koruyan “Serbest Balıkçılık” kullanıldı."
 "82","gamesel_fishbook","139","246","1","0","Fish Gallery","Visverzameling","Livre de pêche","Fischgalerie","Album marino","Aquário","Трофеи","Libro de peces","Balık Galerisi","14","14","1","14","14","OK",""
 "83","gamesel_draw","137","205","1","0","Graffiti","Graffiti","Graffiti","Graffiti","Graffiti","Graffiti","Граффити","Grafiti","Grafiti","8","8","1","7","7","OK",""
 "84","gamesel_back","116","188","1","0","Back","Terug","Retour","Zurück","Indietro","Anterior","Назад","Atrás","Geri","8","8","1","4","4","OK",""
@@ -250,8 +250,7 @@ eine Spielmünze kaufen?","Compri [[C:0001:0001:]]
 per 1 moneta di gioco?","Comprar [[C:0001:0001:]]
 por 1 ?","Купить [[C:0001:0001:]]
 за 1 игровую монетку?","¿Quieres comprar el minijuego
-[[C:0001:0001:]] por 1 ?","[[C:0001:0001:]]
-1 Oyun Parasına alınsın mı?","38","29","2","28","28","OK",""
+[[C:0001:0001:]] por 1 ?","[[C:0001:0001:]]\r\n1 Oyun Parası karşılığında satın almak ister misin?","38","29","2","56","56","OK",""
 "100","gamesel_coin_open_2","240","251","2","0","Buy [[C:0001:0001:]]
 for 3 Play Coins?","Wil je [[C:0001:0001:]]
 voor 3 speelmunten kopen?","Acheter [[C:0001:0001:]]
@@ -260,8 +259,7 @@ drei Spielmünzen kaufen?","Compri [[C:0001:0001:]]
 per 3 monete di gioco?","Comprar [[C:0001:0001:]]
 por 3 ?","Купить [[C:0001:0001:]]
 за 3 игровые монетки?","¿Quieres comprar el minijuego
-[[C:0001:0001:]] por 3 ?","[[C:0001:0001:]]
-3 Oyun Parasına alınsın mı?","38","29","2","28","28","OK",""
+[[C:0001:0001:]] por 3 ?","[[C:0001:0001:]]\r\n3 Oyun Parası karşılığında satın almak ister misin?","38","29","2","56","56","OK",""
 "101","gamesel_mycoin","237","51","1","0","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","[[C:0001:0000:]]","0","0","1","0","0","OK",""
 "102","gamesel_nocoin","240","251","2","0","[[C:0000:0003:0000]]You don't have enough
 Play Coins![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Je hebt niet genoeg
@@ -269,8 +267,7 @@ speelmunten![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Vous n'avez pas
 assez de pièces ![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Du besitzt nicht
 genügend Spielmünzen![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Non hai [[C:0000:0003:0000]]abbastanza
 [[C:0000:0003:0000]]monete di gioco![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Moedas de Jogo insuficientes![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Мало игровых монеток![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]¡No tienes suficientes[[C:0000:0003:FFFF]]
-[[C:0000:0003:0000]]monedas de juego![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Yeterli Oyun Paran
-yok![[C:0000:0003:FFFF]]","39","29","2","22","18","OK",""
+[[C:0000:0003:0000]]monedas de juego![[C:0000:0003:FFFF]]","[[C:0000:0003:0000]]Yeterli Oyun Paran\r\nyok![[C:0000:0003:FFFF]]","39","29","2","26","26","OK",""
 "103","gamesel_soldout","231","108","1","0","Sold out","Uitverkocht","Épuisé","Ausverkauft","Già venduto","Esgotadas","Продано","Agotado","Tükendi","11","11","1","7","7","OK",""
 "104","gamesel_coin_open_3","17","252","3","0","Now you can press
 + together to take
@@ -304,14 +301,14 @@ aynı anda bas!","65","23","4","55","24","OK",""
 "114","main_shoot_hint_body","28","350","1","0","Aim for the body!","Richt op zijn lijf!","Visez le corps !","Ziele auf den Körper!","Mira al corpo!","Aponte ao corpo!","Целься в туловище!","¡Apunta al cuerpo!","Gövdesine nişan al!","21","21","1","19","19","OK",""
 "115","main_shoot_hint_head","28","350","1","0","Aim for the head!","Richt op zijn hoofd!","Visez la tête !","Ziele auf den Kopf!","Mira alla testa!","Aponte à cabeça!","Целься в голову!","¡Apunta a la cabeza!","Başına nişan al!","20","20","1","16","16","OK",""
 "116","main_shoot_hint_nohit","28","350","1","0","That doesn't seem to be very effective...","Dat werkt niet zo goed...","Ce n'est pas très efficace...","Das ist nicht sehr effektiv...","Sembra che non succeda nulla...","Não está a surtir efeito!","Это не работает!","¡Así no le haces ni cosquillas!","Pek etkili görünmüyor...","41","41","1","24","24","OK",""
-"117","main_shoot_hint_rotate","28","350","1","0","Try circling around to find an opening.","Draai om hem heen. Zoek een opening.","Essayez de le prendre à revers !","Finde die Lücke!","Giragli intorno e cerca punti scoperti.","Gire em seu redor!","Обойди кругом, чтобы найти мишень.","¡Gira a su alrededor!","Etrafında dönüp bir açık ara.","39","39","1","29","29","OK",""
+"117","main_shoot_hint_rotate","28","350","1","0","Try circling around to find an opening.","Draai om hem heen. Zoek een opening.","Essayez de le prendre à revers !","Finde die Lücke!","Giragli intorno e cerca punti scoperti.","Gire em seu redor!","Обойди кругом, чтобы найти мишень.","¡Gira a su alrededor!","Etrafında dönüp bir açık bulmaya çalış.","39","39","1","39","39","OK",""
 "118","main_shoot_rest_tail","7","86","1","0","[[C:0001:0000:]] left!","Nog [[C:0001:0000:]]!","Encore [[C:0001:0000:]]","Noch [[C:0001:0000:]]!","Ancora [[C:0001:0000:]]!","[[C:0001:0000:]] restantes!","Еще [[C:0001:0000:]]!","¡[[C:0001:0000:]]!","[[C:0001:0000:]] kaldı!","11","11","1","7","7","OK",""
 "119","main_shoot_retry","7","86","1","0","Again!","Opnieuw!","Encore !","Noch mal!","Ancora!","Repetir!","Еще!","Otra vez","Tekrar!","9","9","1","7","7","OK",""
 "120","main_fish_","","","","","","","","","","","","","","0","0","1","0","0","BOŞ",""
-"121","main_fish_start","32","232","1","0","2 minutes to fish!","Vis 2 minuten!","Vous avez 2 min !","Angle 2 Minuten!","Hai 2 minuti!","Tem 2 minutos!","У тебя 2 минуты!","¡Tienes 2 minutos!","2 dk balık tut!","18","18","1","15","15","OK",""
+"121","main_fish_start","32","232","1","0","2 minutes to fish!","Vis 2 minuten!","Vous avez 2 min !","Angle 2 Minuten!","Hai 2 minuti!","Tem 2 minutos!","У тебя 2 минуты!","¡Tienes 2 minutos!","2 dakika balık tut!","18","18","1","19","19","OK",""
 "122","main_fish_start_free","32","232","1","0","START","START","C'EST PARTI !","Los geht's!","VIA!","COMEÇAR","СТАРТ","¡A pescar!","BAŞLA","13","13","1","5","5","OK",""
 "123","main_fish_Tuna","59","192","1","0","Tuna","Tonijn","Thon","Thunfisch","Tonno","Atum","Тунец","Atún","Ton Balığı","9","9","1","10","10","OK",""
-"124","main_fish_Seabream","59","192","1","0","Red Snapper","Rode snapper","Vivaneau","Rotbrasse","Dentice","Pargo","Морской окунь","Pargo rojo","Kırmızı Snapper","13","13","1","15","15","OK","Balık adı evrensel tanınabilirlik için “Kırmızı Snapper” olarak bırakıldı."
+"124","main_fish_Seabream","59","192","1","0","Red Snapper","Rode snapper","Vivaneau","Rotbrasse","Dentice","Pargo","Морской окунь","Pargo rojo","Kızıl Alkapan","13","13","1","13","13","OK","Balık adı evrensel tanınabilirlik için “Kırmızı Snapper” olarak bırakıldı."
 "125","main_fish_Salmon","59","192","1","0","Salmon","Zalm","Saumon","Lachs","Salmone","Salmão","Лосось","Salmón","Somon","7","7","1","5","5","OK",""
 "126","main_fish_R_Flounder","59","192","1","0","Flounder","Platvis","Sole","Flunder","Sogliola","Linguado","Палтус","Rodaballo","Pisi","9","9","1","4","4","OK",""
 "127","main_fish_Mackerel","59","192","1","0","Mackerel","Makreel","Maquereau","Makrele","Sgombro","Cavala","Скумбрия","Caballa","Uskumru","9","9","1","7","7","OK",""
@@ -324,7 +321,7 @@ aynı anda bas!","65","23","4","55","24","OK",""
 "134","main_fish_Blacksnapper","59","192","1","0","Sea Bream","Zeebrasem","Dorade","Seebrasse","Orata","Besugo","Карась-многозуб","Besugo","Çipura","15","15","1","6","6","OK",""
 "135","main_fish_Tyoutyouuo","59","192","1","0","Butterfly Fish","Koraalvlinder","Poisson-papillon","Falterfisch","Pesce farfalla","Peixe-Borboleta","Рыба-бабочка","Pez mariposa","Kelebek Balığı","16","16","1","14","14","OK",""
 "136","main_fish_Nanyouhagi","59","192","1","0","Regal Tang","Doktersvis","Poisson-chirurgien","Doktorfisch","Pesce chirurgo","Peixe-Barbeiro","Рыба-хирург","Pez cirujano azul","Mavi Cerrah","18","18","1","11","11","OK",""
-"137","main_fish_Mongara","59","192","1","0","Clown Triggerfish","Trekkervis","Baliste clown","Drückerfisch","Pesce balestra","Peixe-Porco","Спинорог-клоун","Ballesta payaso","Palyaço Tetik","17","17","1","13","13","OK","Clown Triggerfish için yaygın tanımlayıcı karşılık “Palyaço Tetik Balığı” kullanıldı."
+"137","main_fish_Mongara","59","192","1","0","Clown Triggerfish","Trekkervis","Baliste clown","Drückerfisch","Pesce balestra","Peixe-Porco","Спинорог-клоун","Ballesta payaso","Palyaço Tetikbalığı","17","17","1","19","19","OK","Clown Triggerfish için yaygın tanımlayıcı karşılık “Palyaço Tetik Balığı” kullanıldı."
 "138","main_fish_Yukatahata","59","192","1","0","Coral Hind","Rode koraalbaars","Mérou rouge","Juwelenbarsch","Cernia puntinata","Mero","Групер","Cherna estrellada","Mercan Orfozu","17","17","1","13","13","OK",""
 "139","main_fish_Otomebera","59","192","1","0","Moon Wrasse","Maanlipvis ","Girelle","Mond-Lippfisch","Labride lunare","Bodião-Lua","Губан лунный","Lábrido lunar","Ay Lapinası","14","14","1","11","11","OK",""
 "140","main_fish_Cheep_Cheep","59","192","1","0","Cheep Cheep","Cheep Cheep","Cheep Cheep","Cheep-Cheep","Pesce Smack","Cheep Cheep","Чип-чип","Cheep Cheep","Cheep Cheep","11","11","1","11","11","OK",""
@@ -463,8 +460,9 @@ dourado no Pesca Livre!","Поймано видов рыб: [[C:0001:0000:]]!
 появится золотая рыба!","¡Has capturado [[C:0001:0000:]] especies
 distintas! ¡Ya puedes atrapar
 al pez dorado en Pesca libre!","[[C:0001:0000:]] farklı tür yakaladın!
-Artık Serbest Av'da
-altın balık görünecek!","82","29","3","63","22","OK","“Free Fishing” adıyla tutarlı olması için burada “Serbest Av” kullanıldı."
+Artık Serbest Balıkçılık
+modunda altın balık
+görünecek!","82","29","3","75","24","OK","“Free Fishing” adı 81. satırla tutarlı olacak biçimde “Serbest Balıkçılık” olarak çevrildi."
 "188","main_zukan_new_7","63","276","3","0","Caught all king-sized fish!
 You've caught everything!","Je hebt alle reuzenvissen
 gevangen! Je hebt nu alle
@@ -630,7 +628,7 @@ havalı fotoğraflar
 "241","main_photo_save_1","95","387","1","0"," Hide/show guide -  Retake -  Save"," Uitleg aan/uit -  Opnieuw -  Opslaan"," Masquer -  Autre photo -  Sauvegarde"," Vollbild -  Erneut -  Speichern"," Schermo intero -  Rifai -  Salva"," Ocultar -  Outra Foto -  Guardar"," Рамка -  Еще раз -  Сохранить"," Pantalla completa  Otra foto  Guardar"," Rehber aç/kapat -  Tekrar -  Kaydet","41","41","1","39","39","OK",""
 "242","main_photo_saving","100","356","1","0","Saving","Bezig met opslaan","Sauvegarde","Speichervorgang","Salvataggio in corso","A guardar","Идет сохранение","Guardando","Kaydediliyor","20","20","1","12","12","OK",""
 "243","main_photo_saved","100","356","1","0","Photo saved!","De foto is opgeslagen!","Photo sauvegardée !","Foto wurde gespeichert!","Foto salvata!","Foto guardada!","Фото сохранено!","¡Se ha guardado la foto!","Fotoğraf kaydedildi!","24","24","1","20","20","OK",""
-"244","main_photo_saved_ok","100","356","1","0","You can view it in Nintendo 3DS Camera!","Bekijk 'm in Nintendo 3DS Camera!","Allez la voir dans l'application photo !","Sieh es dir in Nintendo 3DS-Kamera an!","Guarda con la Fotocamera Nintendo 3DS.","Pode vê-la na Câmara Nintendo 3DS!","Его можно увидеть в Камере Nintendo 3DS.","¡Mírala en Cámara de Nintendo 3DS!","Nintendo 3DS Kamerasında görebilirsin!","40","40","1","38","38","OK",""
+"244","main_photo_saved_ok","100","356","1","0","You can view it in Nintendo 3DS Camera!","Bekijk 'm in Nintendo 3DS Camera!","Allez la voir dans l'application photo !","Sieh es dir in Nintendo 3DS-Kamera an!","Guarda con la Fotocamera Nintendo 3DS.","Pode vê-la na Câmara Nintendo 3DS!","Его можно увидеть в Камере Nintendo 3DS.","¡Mírala en Cámara de Nintendo 3DS!","Nintendo 3DS Kamera uygulamasında görebilirsin!","40","40","1","47","47","OK",""
 "245","main_photo_sd_err_1","100","356","1","0","No SD Card is inserted.","Er is geen SD-kaart geplaatst.","Aucune carte SD n'est insérée.","Keine SD Card vorhanden.","Non è inserita nessuna scheda SD.","Cartão SD não inserido.","Не вставлена карта SD.","No hay ninguna tarjeta SD insertada.","SD Kart takılı değil.","36","36","1","21","21","OK",""
 "246","main_photo_sd_err_2","100","356","1","0","then insert an SD Card into the system.","en plaats een SD-kaart in het systeem.","puis insérez une carte SD.","dann stecke eine SD Card ein.","e inserisci una scheda SD nella console.","e insira um Cartão SD.","затем вставь в нее карту SD.","e inserta luego una tarjeta SD.","sonra sisteme bir SD Kart tak.","40","40","1","30","30","OK",""
 "247","main_photo_sd_err_3","100","356","1","0","The SD Card is write-protected.","De SD-kaart is beveiligd tegen schrijven.","La carte SD est protégée en écriture.","Die SD Card ist schreibgeschützt!","La scheda SD è protetta da scrittura.","O Cartão SD está protegido contra escrita.","Эта карта SD защищена от записи.","La tarjeta SD está protegida.","SD Kart yazmaya karşı korumalı.","42","42","1","31","31","OK",""
@@ -638,7 +636,8 @@ havalı fotoğraflar
 "249","main_photo_sd_err_3_2","100","356","1","0","move the write-protection switch to ""off""","zet de schrijfbeveiliging uit ...","retirez la protection de la carte SD,","hebe den Schreibschutz der SD Card auf","disattiva la protezione","mova a patilha de proteção contra escrita","сними защиту от записи с карты SD,","retira la protección contra escritura","yazma koruma kilidini ""kapalı""ya getir","41","41","1","38","38","OK",""
 "250","main_photo_sd_err_3_3","100","356","1","0","and then reinsert the SD Card.","en voer de SD-kaart opnieuw in.","puis réinsérez-la dans la console.","und stecke die SD Card erneut ein.","e quindi reinserisci la scheda SD.","e depois volte a inserir o Cartão SD.","затем вновь вставь карту SD.","y vuelve a insertar la tarjeta SD.","ve SD Kartı yeniden tak.","37","37","1","24","24","OK",""
 "251","main_photo_sd_err_4","100","356","1","0","","","","","","","","","","0","0","1","0","0","BOŞ",""
-"252","main_photo_sd_err_5","100","356","1","0","This SD Card's photo limit has been reached.","Er passen geen foto's meer op de SD-kaart.","Nombre maximal de photos atteint sur la carte SD.","Kein Platz mehr auf der SD Card!","Limite di foto della scheda SD raggiunto.","O limite de fotos do Cartão SD foi atingido.","На карте SD больше нет места для фото.","Límite para fotos de la tarjeta SD alcanzado.","SD Kart fotoğraf sınırına ulaştı.","49","49","1","33","33","OK",""
+"252","main_photo_sd_err_5","100","356","1","0","This SD Card's photo limit has been reached.","Er passen geen foto's meer op de SD-kaart.","Nombre maximal de photos atteint sur la carte SD.","Kein Platz mehr auf der SD Card!","Limite di foto della scheda SD raggiunto.","O limite de fotos do Cartão SD foi atingido.","На карте SD больше нет места для фото.","Límite para fotos de la tarjeta SD alcanzado.","Bu SD Kartta kullanılabilecek
+fotoğraf hakkı kalmadı.","49","49","1","52","29","OK",""
 "253","main_mii_photo_","","","","","","","","","","","","","","0","0","1","0","0","BOŞ",""
 "254","main_mii_photo_expl_1_ar","155","137","1","0","Touch!","Raak aan!","Touchez","Berühre!","Tocca","Toque!","Коснись","Toca","Dokun!","9","9","1","6","6","OK",""
 "255","main_mii_photo_looks_ar","106","144","1","0","Expression","Andere uitdrukking","Visage","Ausdruck ändern","Espressione","Mudar Expressão","Мимика","Expresión","İfade","18","18","1","5","5","OK",""
@@ -661,7 +660,7 @@ poses","Andere pose","Choisir
 une pose","Pose wechseln","Scegli posa","Definir Poses","Заданные
 позы","Determinar
 poses","Hazır
-pozları seç","15","13","2","16","11","OK",""
+pozları kullan","15","13","2","19","14","OK",""
 "262","main_mii_photo_eye_ar","153","165","2","0","Make eye
 contact","Maak
 oogcontact","Orientation
@@ -757,7 +756,7 @@ sıfırla","22","16","2","13","7","OK",""
 Ligada","В камеру: вкл.","Mirar a cámara: Sí","Kameraya bak: Açık","20","18","2","18","18","OK",""
 "286","main_chara_photo_dir_off","130","174","1","0","Face camera: Off","Vrije focus","Orientation libre","Freier Fokus","Guarda camera: no","Câmara Facial:
 Desligada","В камеру: выкл.","Mirar a cámara: No","Kameraya bak: Kapalı","23","18","2","20","20","OK",""
-"287","main_chara_photo_select","188","141","1","0"," Change character"," Personage kiezen"," Changer"," Charakter ändern"," Cambia"," Mudar Personagem"," Поменять героя"," Personaje"," Karakter değiş","18","18","1","16","16","OK",""
+"287","main_chara_photo_select","188","141","1","0"," Change character"," Personage kiezen"," Changer"," Charakter ändern"," Cambia"," Mudar Personagem"," Поменять героя"," Personaje"," Karakter değiştir","18","18","1","19","19","OK",""
 "288","main_chara_photo_size","187","65","1","0","Size","Formaat","Taille","Größe","Dimensione","Tamanho","Размер","Tamaño","Boyut","10","10","1","5","5","OK",""
 "289","main_chara_photo_reset_1","11","260","5","0","Reset the characters'
 poses, size and position?","De pose, positie en grootte
@@ -772,7 +771,7 @@ ve konumu sıfırlansın mı?","55","29","2","49","25","OK",""
 "290","main_chara_photp_reset_yes","182","135","1","0","Reset","Herstellen","Par défaut","Zurücksetzen","Ripristina","Restaurar","Сброс","Restaurar","Sıfırla","12","12","1","7","7","OK",""
 "291","main_chara_photo_reset_no","182","135","1","0","Cancel","Annuleren","Annuler","Abbrechen","Annulla","Cancelar","Отмена","Cancelar","İptal","9","9","1","5","5","OK",""
 "292","main_shoot2_","","","","","","","","","","","","","","0","0","1","0","0","BOŞ",""
-"293","main_shoot2_start_1","32","232","1","0","Hole in the middle!","Middelste gat","Trou central","Mittelloch","Foro centrale","Buraco central","Отверстие в центре","Agujero central","Ortada bir delik!","19","19","1","17","17","OK",""
+"293","main_shoot2_start_1","32","232","1","0","Hole in the middle!","Middelste gat","Trou central","Mittelloch","Foro centrale","Buraco central","Отверстие в центре","Agujero central","Ortadaki delik!","19","19","1","15","15","OK",""
 "294","main_shoot2_start_2","32","232","1","0","Peek in and fire!","Kijk erin en schiet!","Dans le trou !","Halte dich bereit!","Mira e colpisci!","Espreite e dispare!","Загляни и стреляй!","¡Ojo al blanco!","İçeri bak, ateş et!","20","20","1","19","19","OK",""
 "295","main_shoot2_start_3","32","232","1","0","Hit the button!","Raak de knop!","Visez le bouton !","Triff den Knopf!","Premi il pulsante!","Acerte no botão! ","Ударь по кнопке!","¡Dale al botón!","Düğmeyi vur!","18","18","1","12","12","OK",""
 "296","main_shoot2_start_4","32","232","1","0","Flying targets!","Raak de doelen!","Cibles volantes !","Triff fliegende Ziele!","Bersagli volanti!","Alvos voadores!","Мишени летают!","¡A por las volantes!","Uçan hedefler!","22","22","1","14","14","OK",""
@@ -946,8 +945,8 @@ um die Augen zu entspannen.","Assicurati di far riposare gli
 occhi per non stancarti troppo.","Faça pausas regulares para
 descansar a vista!","Делай перерывы, чтобы
 глаза не уставали!","¡No olvides tomarte un
-descanso de vez en cuando!","Gözlerin yorulmasın diye
-mutlaka ara ver!","61","31","2","40","24","OK",""
+descanso de vez en cuando!","Gözlerin yorulmaması için
+mola vermeyi unutma!","61","31","2","45","25","OK",""
 "334","marker_error_","","","","","","","","","","","","","","0","0","1","0","0","BOŞ",""
 "335","marker_error_far","29","395","1","0","Move a bit closer.","Kom iets dichterbij.","Vous êtes trop loin.","Bewege das System näher an die Karte heran!","Avvicinati un po'.","Aproxime-se um pouco.","Подойди немного ближе.","Acércate un poco.","Biraz yaklaş.","43","43","1","13","13","OK",""
 "336","marker_error_near","29","395","1","0","Move a bit farther away.","Neem iets meer afstand.","Vous êtes trop près.","Zu geringer Abstand zwischen Karte und System!","Allontanati un po'.","Afaste-se um pouco.","Отойди немного дальше.","Aléjate un poco.","Biraz uzaklaş.","46","46","1","14","14","OK",""
@@ -978,9 +977,8 @@ AR Games были
 повреждены
 и сброшены.","Los datos de guardado
 de Juegos RA estaban
-dañados y se han borrado.","AR Oyunları kayıt
-verisi bozuldu ve
-sıfırlandı.","84","26","4","45","17","OK",""
+dañados y se han borrado.","AR Oyunları kayıt verisi
+bozulduğu için sıfırlandı.","84","26","4","50","26","OK",""
 "344","error_savedata_mii","10","256","2","0","The Mii Maker save data was
 corrupted and has been reset.","De opgeslagen gegevens
 van Mii-maker waren

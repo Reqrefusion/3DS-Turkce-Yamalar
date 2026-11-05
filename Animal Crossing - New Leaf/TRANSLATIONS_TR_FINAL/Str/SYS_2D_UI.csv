@@ -1,7 +1,7 @@
 ﻿entry,label,EN,ES,FR,IT,DE,TRANSLATION
 0,,Press ,Pulsa ,Appuie sur ,Premi ,Drücke , tuşuna bas
 1,,Continue,Continuar,Continuer,Continua,Weiter,Devam Et
-2,,New Save File,Nueva partida,Nouvelle partie,Nuova partita,Neues Spiel,Yeni Kayıt
+2,,New Save File,Nueva partida,Nouvelle partie,Nuova partita,Neues Spiel,Yeni Kayıt Dosyası
 3,,Move In,Mudarse,Emménager,Trasloca,Einziehen,Taşın
 4,,Back,Atrás,Retour,Indietro,Zurück,Geri
 5,,{{TAG:0011:0000:0000}},{{TAG:000E:0003:}}{{TAG:0011:0000:0000}},{{TAG:000E:0003:}}{{TAG:0011:0000:0000}},{{TAG:000E:0003:}}{{TAG:0011:0000:0000}},{{TAG:0011:0000:0000}},{{TAG:0011:0000:0000}}
@@ -131,8 +131,8 @@ saat seç!"
 123,,Looks like someone's leaving.,Alguien se va...,"Tiens, quelqu'un s'en va !",Qualcuno se ne va.,Ein Besucher verlässt die Stadt.,Birisi gidiyor gibi.
 124,,Someone wants to save.,Alguien quiere guardar.,Quelqu'un est en train de sauvegarder sa partie.,Qualcuno vuole salvare.,Jemand möchte speichern.,Birisi kayıt yapmak istiyor.
 125,,Looks like it's time to go home.,Es hora de irse...,"Ah, il est l'heure de rentrer !",È ora di andare a casa.,"Zeit, den Besuch zu beenden.",Eve dönme vakti geldi.
-126,,Please end the conversation.,Deja la conversación.,Assez papoté !,Termina le conversazioni.,Bitte beende das Gespräch.,Lütfen konuşmayı bitirin.
-127,,Please close the window.,Cierra la ventana.,Merci de fermer la fenêtre.,Chiudi la finestra.,Bitte schließe das Fenster.,Lütfen pencereyi kapatın.
+126,,Please end the conversation.,Deja la conversación.,Assez papoté !,Termina le conversazioni.,Bitte beende das Gespräch.,Lütfen konuşmayı bitir.
+127,,Please close the window.,Cierra la ventana.,Merci de fermer la fenêtre.,Chiudi la finestra.,Bitte schließe das Fenster.,Lütfen pencereyi kapat.
 128,,The operation was canceled.,Cancelado,L'opération a été annulée.,Operazione annullata.,Der Vorgang wurde abgebrochen.,İşlem iptal edildi.
 129,,Please gather at the dock.,¡Al muelle!,Rends-toi sur le ponton.,Riunitevi al molo.,Komm zum Anleger am Strand!,Lütfen iskelede toplanın.
 130,,The boat trip is being canceled...,El viaje se cancela...,Annulation de la traversée...,Annullamento della traversata in corso...,Die Überfahrt wird abgesagt...,Tekne turu iptal ediliyor...
@@ -178,7 +178,7 @@ bir hata oluştu."
 164,,Enter town name!,¿Cómo se llama el pueblo?,Entre le nom de la ville !,Come si chiama la città?,Wie heißt die Stadt?,Kasabanın adını gir!
 165,,What's your name?,¿Cómo te llamas?,Quel est ton nom ?,Come ti chiami?,Wie heißt du?,Adın ne?
 166,,Enter a nickname!,Escribe un apodo.,Entre un surnom !,Scrivi un soprannome!,Wie ist dein Spitzname?,Bir lakap gir!
-167,,Invent a catchphrase!,Escribe una muletilla.,Invente une expression !,Inventa un intercalare!,Ersinne einen Spruch!,Bir ağız alışkanlığı bul!
+167,,Invent a catchphrase!,Escribe una muletilla.,Invente une expression !,Inventa un intercalare!,Ersinne einen Spruch!,Bir söz uydur!
 168,,Enter a greeting!,Escribe un saludo.,Entre une salutation !,Scrivi un saluto!,Gib eine Begrüßung ein!,Bir selamlama yaz!
 169,,Name the exhibit!,Escribe un título.,Nomme ton exposition !,Scrivi un titolo!,Benenne die Ausstellung!,Sergiye ad ver!
 170,,Name your design!,¿Cómo se llama el diseño?,Nomme ton motif !,Dai un nome al modello!,Benenne dein Design!,Tasarımına ad ver!
@@ -233,8 +233,7 @@ is now your friend.","Ahora eres amig{{TAG:000E:0006:02006F0002006100}} de
 {{TAG:0011:0000:0000}}, de {{TAG:000E:0003:}}{{TAG:0011:0002:0000}}.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}} {{TAG:000E:000A:0600640065002000040064002700}}{{TAG:0011:0002:0000}}
 est devenu{{TAG:000E:0005:000002006500}} ton ami{{TAG:000E:0005:000002006500}}.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}} da {{TAG:0011:0002:0000}}
 è diventat{{TAG:000E:0012:0D0002006F00020061000000}} tu{{TAG:000E:0012:0D0002006F00020061000000}} amic{{TAG:000E:0012:0D0002006F00020061000000}}!","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}} aus {{TAG:0011:0002:0000}}
-ist jetzt dein Freund.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}}, {{TAG:0011:0002:0000}} kasabasından;
-artık arkadaşın."
+ist jetzt dein Freund.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}}, {{TAG:0011:0002:0000}} kasabasından artık arkadaşın."
 199,,"You can now press  to
 check on your best friends!","¡Toca  para echar
 un vistazo a tus
@@ -261,8 +260,7 @@ meilleur{{TAG:000E:0005:02007300040065007300}} ami{{TAG:000E:0005:02007300040065
 è stat{{TAG:000E:0012:0D0002006F00020061000000}} aggiunt{{TAG:000E:0012:0D0002006F00020061000000}} alla lista
 dei tuoi migliori amici!","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}} aus {{TAG:0011:0002:0000}}
 gehört nun zu deinen besten
-Freunden.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}}, {{TAG:0011:0002:0000}} kasabasından;
-artık en iyi arkadaşın."
+Freunden.","{{TAG:000E:0003:}}{{TAG:0011:0000:0000}}, {{TAG:0011:0002:0000}} kasabasından artık en iyi arkadaşın."
 205,,"Are you sure you want to
 adjust your settings so
 that you never run into
@@ -290,8 +288,7 @@ mejores amigos en la lista!","Tu ne peux avoir que
 32 meilleurs amis au
 maximum !","Puoi avere un massimo
 di 32 migliori amici!","Du kannst nur bis zu 32
-beste Freunde haben!","En fazla 32 en iyi
-arkadaşın olabilir!"
+beste Freunde haben!",En fazla 32 kişiyle en iyi arkadaş olabilirsin!
 207,,"Make {{TAG:0011:0000:0000}} from
 {{TAG:0011:0002:0000}} one of your
 best friends?","¿Quieres añadir a la lista
@@ -464,7 +461,8 @@ dass du bei deinen nächsten
 Besuchen wieder auf diesen
 Spieler triffst.","Bu kişiyi engellersen,
 bir sonraki ada ziyaretinde
-rastgele eşleştirilmezsiniz."
+bu kişiyle rastgele
+eşleştirilmezsin."
 220,,{{TAG:000E:0003:}}{{TAG:0011:0003:0000}},{{TAG:000E:0003:}}{{TAG:0011:0003:0000}},{{TAG:000E:0003:}}{{TAG:0011:0003:0000}},{{TAG:000E:0003:}}{{TAG:0011:0003:0000}},{{TAG:000E:0003:}}{{TAG:0011:0003:0000}},{{TAG:000E:0003:}}{{TAG:0011:0003:0000}}
 221,,Season,Estación,Saison,Stagione,Jahreszeit,Mevsim
 222,,Time,Hora,Heures,Orario,Zeit,Saat
@@ -949,7 +947,7 @@ non può essere inviato.","Du kannst keine Bestellung
 aufgeben, da die Versand-
 zentrale des Postamts
 überlastet ist.","Postanenin dağıtım merkezi
-kapasiteyi aştığı için
+kapasitesini doldurduğu için
 sipariş verilemiyor."
 294,,"Your order has been placed!
 Your order will be delivered
@@ -1061,7 +1059,7 @@ vornimmst, wird es nicht
 länger ein Profi-Design sein.
 Dennoch fortfahren?","Değiştirirsen artık profesyonel
 tasarım sayılmayacak.
-Yine de devam edilsin mi?"
+Yine de devam etmek istiyor musun?"
 328,,No,No,Non,No,Nein,Hayır
 329,,Yes,Sí,Oui,Sì,Ja,Evet
 330,,"Do you want to
@@ -1790,7 +1788,7 @@ l'appareil photo
 Nintendo 3DS.","Impossibile attivare la
 Fotocamera Nintendo 3DS.","Nintendo 3DS-Kamera
 konnte nicht gestartet
-werden.","Nintendo 3DS Kamerası
+werden.","Nintendo 3DS Kamera uygulaması
 başlatılamadı."
 418,,Searching for QR Code...,Buscando QR Code...,Recherche d'un QR Code...,Ricerca QR Code in corso...,QR Code wird gesucht...,QR Kodu aranıyor...
 419,,"Your QR Code data was
@@ -1988,7 +1986,7 @@ to use any features that
 allow the sharing of personal
 data.","Kişisel veri paylaşımına izin veren
 özellikleri kullanmak için
-yetkilendirme gerekir."
+izin gerekir."
 448,,"Please refer to the {{TAG:0000:0003:0200}}Child
 Online Privacy Protection{{TAG:0000:0003:FFFF}}
 restriction. This can be

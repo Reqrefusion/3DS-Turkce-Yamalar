@@ -1,0 +1,532 @@
+{
+  "format": "3ds_native_review",
+  "opcodes": {
+    "0": {
+      "name": "bop",
+      "count": 0
+    },
+    "1": {
+      "name": "b",
+      "count": 0
+    },
+    "2": {
+      "name": "p",
+      "count": 0
+    },
+    "3": {
+      "name": "color",
+      "count": 1
+    },
+    "4": {
+      "name": "pause",
+      "count": 1
+    },
+    "5": {
+      "name": "music",
+      "count": 2
+    },
+    "6": {
+      "name": "sound",
+      "count": 2
+    },
+    "7": {
+      "name": "fullscreen_text",
+      "count": 0
+    },
+    "8": {
+      "name": "2args_choice_jmp",
+      "count": 2
+    },
+    "9": {
+      "name": "3args_choice_jmp",
+      "count": 3
+    },
+    "10": {
+      "name": "rejmp",
+      "count": 1
+    },
+    "11": {
+      "name": "speed",
+      "count": 1
+    },
+    "12": {
+      "name": "wait",
+      "count": 1
+    },
+    "13": {
+      "name": "endjmp",
+      "count": 0
+    },
+    "14": {
+      "name": "name",
+      "count": 1
+    },
+    "15": {
+      "name": "testimony_box",
+      "count": 2
+    },
+    "16": {
+      "name": "10",
+      "count": 1
+    },
+    "17": {
+      "name": "evd_window_plain",
+      "count": 0
+    },
+    "18": {
+      "name": "bgcolor",
+      "count": 3
+    },
+    "19": {
+      "name": "showphoto",
+      "count": 1
+    },
+    "20": {
+      "name": "removephoto",
+      "count": 0
+    },
+    "21": {
+      "name": "testimony_jmp",
+      "count": 0
+    },
+    "22": {
+      "name": "savegame",
+      "count": 0
+    },
+    "23": {
+      "name": "newevidence",
+      "count": 1
+    },
+    "24": {
+      "name": "18",
+      "count": 1
+    },
+    "25": {
+      "name": "19",
+      "count": 2
+    },
+    "26": {
+      "name": "swoosh",
+      "count": 4
+    },
+    "27": {
+      "name": "bg",
+      "count": 1
+    },
+    "28": {
+      "name": "hidetextbox",
+      "count": 1
+    },
+    "29": {
+      "name": "1D",
+      "count": 1
+    },
+    "30": {
+      "name": "person",
+      "count": 3
+    },
+    "31": {
+      "name": "hideperson",
+      "count": 0
+    },
+    "32": {
+      "name": "20",
+      "count": 1
+    },
+    "33": {
+      "name": "evidence_window_lifebar",
+      "count": 0
+    },
+    "34": {
+      "name": "fademusic",
+      "count": 2
+    },
+    "35": {
+      "name": "23",
+      "count": 2
+    },
+    "36": {
+      "name": "reset",
+      "count": 0
+    },
+    "37": {
+      "name": "25",
+      "count": 1
+    },
+    "38": {
+      "name": "26",
+      "count": 1
+    },
+    "39": {
+      "name": "shake",
+      "count": 2
+    },
+    "40": {
+      "name": "testimony_animation",
+      "count": 1
+    },
+    "41": {
+      "name": "29",
+      "count": 1
+    },
+    "42": {
+      "name": "2A",
+      "count": 3
+    },
+    "43": {
+      "name": "2B",
+      "count": 0
+    },
+    "44": {
+      "name": "jmp",
+      "count": 1
+    },
+    "45": {
+      "name": "nextpage_button",
+      "count": 0
+    },
+    "46": {
+      "name": "nextpage_nobutton",
+      "count": 0
+    },
+    "47": {
+      "name": "animation",
+      "count": 2
+    },
+    "48": {
+      "name": "30",
+      "count": 1
+    },
+    "49": {
+      "name": "personvanish",
+      "count": 2
+    },
+    "50": {
+      "name": "32",
+      "count": 2
+    },
+    "51": {
+      "name": "33",
+      "count": 5
+    },
+    "52": {
+      "name": "fadetoblack",
+      "count": 1
+    },
+    "53": {
+      "name": "cond_jmp",
+      "count": 2
+    },
+    "54": {
+      "name": "36",
+      "count": 1
+    },
+    "55": {
+      "name": "37",
+      "count": 2
+    },
+    "56": {
+      "name": "38",
+      "count": 1
+    },
+    "57": {
+      "name": "littlesprite",
+      "count": 1
+    },
+    "58": {
+      "name": "3A",
+      "count": 3
+    },
+    "59": {
+      "name": "3B",
+      "count": 2
+    },
+    "60": {
+      "name": "3C",
+      "count": 1
+    },
+    "61": {
+      "name": "3D",
+      "count": 1
+    },
+    "62": {
+      "name": "3E",
+      "count": 1
+    },
+    "63": {
+      "name": "3F",
+      "count": 0
+    },
+    "64": {
+      "name": "40",
+      "count": 0
+    },
+    "65": {
+      "name": "41",
+      "count": 0
+    },
+    "66": {
+      "name": "soundtoggle",
+      "count": 1
+    },
+    "67": {
+      "name": "lifebar",
+      "count": 1
+    },
+    "68": {
+      "name": "guilty",
+      "count": 1
+    },
+    "69": {
+      "name": "45",
+      "count": 0
+    },
+    "70": {
+      "name": "bgtile",
+      "count": 1
+    },
+    "71": {
+      "name": "47",
+      "count": 2
+    },
+    "72": {
+      "name": "48",
+      "count": 2
+    },
+    "73": {
+      "name": "wingame",
+      "count": 0
+    },
+    "74": {
+      "name": "4A",
+      "count": 1
+    },
+    "75": {
+      "name": "4B",
+      "count": 1
+    },
+    "76": {
+      "name": "4C",
+      "count": 0
+    },
+    "77": {
+      "name": "4D",
+      "count": 2
+    },
+    "78": {
+      "name": "wait_noanim",
+      "count": 1
+    },
+    "79": {
+      "name": "4F",
+      "count": 7
+    },
+    "80": {
+      "name": "50",
+      "count": 1
+    },
+    "81": {
+      "name": "51",
+      "count": 2
+    },
+    "82": {
+      "name": "52",
+      "count": 1
+    },
+    "83": {
+      "name": "53",
+      "count": 0
+    },
+    "84": {
+      "name": "54",
+      "count": 2
+    },
+    "85": {
+      "name": "55",
+      "count": 2
+    },
+    "86": {
+      "name": "56",
+      "count": 2
+    },
+    "87": {
+      "name": "57",
+      "count": 1
+    },
+    "88": {
+      "name": "58",
+      "count": 0
+    },
+    "89": {
+      "name": "59",
+      "count": 1
+    },
+    "90": {
+      "name": "5A",
+      "count": 1
+    },
+    "91": {
+      "name": "5B",
+      "count": 2
+    },
+    "92": {
+      "name": "5C",
+      "count": 3
+    },
+    "93": {
+      "name": "center",
+      "count": 1
+    },
+    "94": {
+      "name": "5E",
+      "count": 0
+    },
+    "95": {
+      "name": "5F",
+      "count": 3
+    },
+    "96": {
+      "name": "60",
+      "count": 4
+    },
+    "97": {
+      "name": "61",
+      "count": 3
+    },
+    "98": {
+      "name": "62",
+      "count": 0
+    },
+    "99": {
+      "name": "63",
+      "count": 0
+    },
+    "100": {
+      "name": "64",
+      "count": 1
+    },
+    "101": {
+      "name": "65",
+      "count": 2
+    },
+    "102": {
+      "name": "66",
+      "count": 3
+    },
+    "103": {
+      "name": "67",
+      "count": 0
+    },
+    "104": {
+      "name": "68",
+      "count": 0
+    },
+    "105": {
+      "name": "bganim",
+      "count": 2
+    },
+    "106": {
+      "name": "switchscript",
+      "count": 1
+    },
+    "107": {
+      "name": "6B",
+      "count": 3
+    },
+    "108": {
+      "name": "6C",
+      "count": 1
+    },
+    "109": {
+      "name": "6D",
+      "count": 1
+    },
+    "110": {
+      "name": "6E",
+      "count": 1
+    },
+    "111": {
+      "name": "6F",
+      "count": 1
+    },
+    "112": {
+      "name": "70",
+      "count": 0
+    },
+    "113": {
+      "name": "71",
+      "count": 3
+    },
+    "114": {
+      "name": "72",
+      "count": 0
+    },
+    "115": {
+      "name": "73",
+      "count": 0
+    },
+    "116": {
+      "name": "74",
+      "count": 2
+    },
+    "117": {
+      "name": "75",
+      "count": 4
+    },
+    "118": {
+      "name": "76",
+      "count": 2
+    },
+    "119": {
+      "name": "77",
+      "count": 2
+    },
+    "120": {
+      "name": "78",
+      "count": 1
+    },
+    "121": {
+      "name": "79",
+      "count": 0
+    },
+    "122": {
+      "name": "7A",
+      "count": 1
+    },
+    "123": {
+      "name": "7B",
+      "count": 2
+    },
+    "124": {
+      "name": "7C",
+      "count": 0
+    },
+    "125": {
+      "name": "7D",
+      "count": 1
+    },
+    "126": {
+      "name": "7E",
+      "count": 1
+    },
+    "127": {
+      "name": "7F",
+      "count": 0
+    }
+  },
+  "provenance": {
+    "native_dispatch_table": "0x25B2D4",
+    "legacy_skip_table": "0x25B4D4",
+    "note": "Skip table is NOT authoritative for handler consumption; handlers reviewed.",
+    "handler_verified_overrides": {
+      "0x55": 2,
+      "0x5d": 1,
+      "0x69": 2,
+      "0x6c": 1,
+      "0x70": 0
+    },
+    "legacy_7f_operand": 1,
+    "native_7f_operand": 0,
+    "counts_sha256": "c2ed8597abeeb71fc21728f73c7f116fdbc8df79025170fa66a1b05b87206167"
+  }
+}

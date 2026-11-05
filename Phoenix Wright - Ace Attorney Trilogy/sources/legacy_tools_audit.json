@@ -1,0 +1,209 @@
+{
+  "opcode_differences": [
+    {
+      "opcode": "0x4",
+      "old": 0,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x33",
+      "old": 2,
+      "reviewed": 5
+    },
+    {
+      "opcode": "0x3a",
+      "old": 2,
+      "reviewed": 3
+    },
+    {
+      "opcode": "0x4a",
+      "old": 0,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x5a",
+      "old": 2,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x5c",
+      "old": 0,
+      "reviewed": 3
+    },
+    {
+      "opcode": "0x5e",
+      "old": null,
+      "reviewed": 0
+    },
+    {
+      "opcode": "0x60",
+      "old": 2,
+      "reviewed": 4
+    },
+    {
+      "opcode": "0x64",
+      "old": 0,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x6e",
+      "old": 2,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x70",
+      "old": 2,
+      "reviewed": 0
+    },
+    {
+      "opcode": "0x74",
+      "old": 0,
+      "reviewed": 2
+    },
+    {
+      "opcode": "0x75",
+      "old": 0,
+      "reviewed": 4
+    },
+    {
+      "opcode": "0x76",
+      "old": 1,
+      "reviewed": 2
+    },
+    {
+      "opcode": "0x77",
+      "old": 1,
+      "reviewed": 2
+    },
+    {
+      "opcode": "0x7b",
+      "old": 0,
+      "reviewed": 2
+    },
+    {
+      "opcode": "0x7c",
+      "old": 1,
+      "reviewed": 0
+    },
+    {
+      "opcode": "0x7d",
+      "old": 0,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x7e",
+      "old": 0,
+      "reviewed": 1
+    },
+    {
+      "opcode": "0x7f",
+      "old": 1,
+      "reviewed": 0
+    }
+  ],
+  "literal_turkish_support": {
+    "Ç": true,
+    "Ğ": false,
+    "İ": false,
+    "Ö": true,
+    "Ş": false,
+    "Ü": true,
+    "ç": true,
+    "ğ": false,
+    "ı": false,
+    "ö": true,
+    "ş": false,
+    "ü": true
+  },
+  "width_overwrites": [
+    {
+      "character": "Ç",
+      "current_width": 12,
+      "old_patcher_width": 5
+    },
+    {
+      "character": "Ğ",
+      "current_width": 12,
+      "old_patcher_width": 11
+    },
+    {
+      "character": "İ",
+      "current_width": 5,
+      "old_patcher_width": 13
+    },
+    {
+      "character": "Ö",
+      "current_width": 12,
+      "old_patcher_width": 9
+    },
+    {
+      "character": "Ş",
+      "current_width": 10,
+      "old_patcher_width": 5
+    },
+    {
+      "character": "Ü",
+      "current_width": 12,
+      "old_patcher_width": 10
+    },
+    {
+      "character": "ç",
+      "current_width": 9,
+      "old_patcher_width": 10
+    },
+    {
+      "character": "ğ",
+      "current_width": 9,
+      "old_patcher_width": 11
+    },
+    {
+      "character": "ı",
+      "current_width": 6,
+      "old_patcher_width": 10
+    },
+    {
+      "character": "ö",
+      "current_width": 10,
+      "old_patcher_width": 10
+    },
+    {
+      "character": "ş",
+      "current_width": 8,
+      "old_patcher_width": 8
+    },
+    {
+      "character": "ü",
+      "current_width": 9,
+      "old_patcher_width": 10
+    }
+  ],
+  "current_dialogue_cache": [
+    {
+      "entry": 58,
+      "compressed_cache_matches_raw": true,
+      "raw_size": 2165272,
+      "cached_raw_size": 2165272
+    },
+    {
+      "entry": 6786,
+      "compressed_cache_matches_raw": true,
+      "raw_size": 1981752,
+      "cached_raw_size": 1981752
+    },
+    {
+      "entry": 9622,
+      "compressed_cache_matches_raw": true,
+      "raw_size": 2607424,
+      "cached_raw_size": 2607424
+    }
+  ],
+  "source_hashes": {
+    "dialogue_tools\\dlgTool2.py": "ce2280fea3786e5c892994166b8259441c63d85046076909318d61afe5dbc07b",
+    "font_tools\\bffnt.py": "4638b2bec2a314876a8307b42355b75716d6b6b8f13bd77a1b65ddad6b7a8f2c",
+    "font_tools\\codePatcher.py": "a2c49082642de52a148bc20ab0f5961bcfb134a5c64ea1a6038c5398587a5f24",
+    "font_tools\\patch_manifest_tr.py": "ba5213ee547e5bd009ced3c8339634c22b71222bd5f74ff7cfb633f1ea0cc6ad",
+    "packing_tools\\packTool.py": "e35659e10bb0f5c0cfa8dfb78b245ea60e2667a652d99e107b203def1f321097",
+    "picture_tools\\BchPngConv2.py": "ef636e147707bdf487d10669f14ce37f87b0532cf652cd73074ce9bc1d9ef8bd",
+    "sound_tools\\bcsar.py": "1faff0b60484970042138db2f6265e03c044d5465e4a18c828be8d1ed6338f8f"
+  }
+}
