@@ -1,48 +1,56 @@
-# Bravely Default Türkçe Yama — Progress v3.6
-
-Bu paket v3.5 üzerine gerçek cihazdaki Türkçe karakter `?` sorunu için Latin-1 uyumluluk katmanı ve yeni raster düzeltmeleri ekler.
-
-**EUR kullanıcıları doğrudan `BravelyDefault_TR_Progress_v3.6_LayeredFS_EUR.zip` paketini SD kart köküne çıkarabilir. Font için ek araç çalıştırılması gerekmez.**
-
-Ayrıntılar `Docs/` ve doğrulamalar `Reports/` altındadır.
-
-# Bravely Default Türkçe Yama — Progress v3.5
-
-> **Font düzeltmesi:** Gerçek 3DS testinde Türkçe Extended-A karakterlerinin `?` görünmesi üzerine v3.4 font katmanı yeniden incelendi. v3.5 hem `Graphics/UI/Font/Font` hem `Graphics/UI_en/Font/Font` arşivlerini hazır yamalı olarak içerir. Ayrıntı: `Docs/FONT_FIX_v3.5_TR.md`.
-
-**Font düzeltmesi:** Bu sürümde iki hazır Türkçe font arşivi bulunur: `romfs/Graphics/UI/Font/Font` ve `romfs/Graphics/UI_en/Font/Font`. `Ğ ğ İ ı Ş ş` için ayrıca font patch komutu çalıştırmanız gerekmez.
-
-Bu paket, kullanıcının mevcut `Common_en` Türkçe çevirisini ana terminoloji kaynağı kabul eden güncel çalışma sürümüdür. Final sürüm değildir; fakat bu noktaya kadar doğrulanmış bütün runtime yamalarını, kaynak araçları, audit raporlarını ve süreci içerir.
-
-## v3.3 özeti
-
-- 401 çalışma sayfası yeniden işlendi; 142 binary tablo yeniden üretildi.
-- Common_en tarafında toplam 30.523 text-field değişimi bulunan build üretildi ve 11 crowd/index arşivi yeniden paketlendi.
-- EventViewer için 553 yeni kalite override'ı; toplam 561 kaynak başlık için bağlama göre Türkçe eşleme hazırlandı. Karışık `Kristal of Wind` türü satırlar giderildi.
-- Shop tarafında 73 yeni doldurma uygulandı; kaynak İngilizceyle birebir kalan kullanıcı repliği 0.
-- Paramater tarafında 263 kullanıcıya görünür eşya açıklaması çevrildi; sentence-like açıklamalarda kaynakla birebir kalan kayıt 0.
-- 34 yapılandırılmış sistem/komut metni, 27 legacy mesaj ve 16 konum ek olarak işlendi.
-- UI BCLYT: 674 değişen metin; 171 dar alanda kontrollü font ölçekleme; yapısal audit'te taşma 0.
-- `No/Yes/OK/On/Off/Close/Continue/Buy/Easy/Hard/Fast/None/Cancel/Quit/Confirm/Element` exact-token taramasında kaçak 0.
-- 18 crowd/index çifti, 711 arşiv girdisi, 327 DARC girdisi ve 384 BTBF girdisi yapısal kontrolden geçti; error/warning 0.
+# BRAVELY DEFAULT Türkçe yama
 
 ## Kurulum
 
-Ana pakette `romfs/` runtime yaması bulunur. Luma3DS için bu içerik bölge Title ID'sinin altındaki `romfs` klasörüne yerleştirilir. EUR: `00040000000FC600`, USA: `00040000000FC500`. Luma'da `Enable game patching` açık olmalıdır.
+Oyununuzun Title ID değeriyle eşleşen kök klasörü `sd:/luma/titles/` içine kopyalayın. Luma3DS ayarlarında **Enable game patching** açık olmalıdır. Mevcut yamanızı önce yedekleyin.
 
-Türkçe `Ğ ğ İ ı Ş ş` desteği **v3.5 runtime paketine iki font katmanında hazır olarak gömülüdür**. `romfs/Graphics/UI/Font/Font` ve `romfs/Graphics/UI_en/Font/Font` yamalı DARC/CFNT arşivleridir; normal kurulumda ek font komutu gerekmez. `Tools/patch_font_layeredfs.py` ve `Tools/prepare_layeredfs.py` yalnız yeniden üretim/denetim amacıyla tutulur. Ayrıntılar `Docs/FONT_KURULUM_VE_DOGRULAMA_TR.md` içindedir.
+- `00040000000FC600/` → `sd:/luma/titles/00040000000FC600/`
 
-## Terminoloji
+## Çalışma dosyaları
 
-Kullanıcının mevcut `Common_en` çevirisi otoritedir. Örnekler: `Freelancer → Serbest Savaşçı`, `Black Mage → Kara Büyücü`, `White Mage → Beyaz Büyücü`, `Spell Fencer → Büyü Kılıççısı`, `Salve-Maker → İlaç Ustası`, `Spiritmaster → Ruh Ustası`, `Party Chat → Parti Sohbeti`, `Abilink → Yetenek Bağı`, `MND → İRA`, `Time Mage → Zaman Büyücüsü`.
+Düzenleme kaynağı: `araclar/translations_tr.py`.
 
-## Durum
+Araç girişi: `araclar/prepare_layeredfs.py`. Komutları oyun klasöründe çalıştırın.
 
-v3.4 gerçek Avrupa 3DS testinde Türkçe Extended-A karakterleri `?` olarak raporlandı; bu geri bildirim v3.5 ortak-font düzeltmesini doğurdu. v3.5 dosya yapısı ve aktif CMAP zincirleri açısından doğrulanmıştır; yeni iki-font düzeltmesinin gerçek cihaz testi kullanıcı tarafında yapılacaktır. Kalan çalışma başlıkları `Docs/KALAN_ISLER_TR.md` içindedir.
+Çeviri eşlemeleri Python veri modülleri ve araçların okuduğu JSON dosyaları içinde tutulur. Bunlar birlikte çalışan modüller olduğu için araclar altında korunmuştur. Bazı araştırma/üretim betikleri özgün harici girdileri gerektirir.
 
-## v3.9 notu
-Dinamik kısa etiketler için MP/BP/JP kısalık denetimi ve TW_10 satır hizası düzeltmeleri eklendi. Ayrıntılar Docs/CHANGELOG_v3.9_TR.md içindedir.
+## Klasörler
 
+- `araclar/`: Üretim, düzenleme ve doğrulama araçları.
+- `belgeler/`: Kullanım ve teknik açıklamalar.
 
-## v3.10 terminoloji notu
-Kısa puan adları artık İngilizce kaynak kısaltmalarından değil Türkçe ana kavramlardan türetilir: Büyü Puanı=BP, Cesaret Puanı=CP, Meslek Puanı=MP. Ayrıntılar `Docs/TERIM_KISALTMALARI_v3.10_TR.md`.
+## Açıklamalar
+
+- [Kullanım ve teknik notlar 1](belgeler/ALTYAZI_FONT_VE_GLYPH_FIX_TR.md)
+- [Kullanım ve teknik notlar 2](belgeler/ARACLAR_TR.md)
+- [Kullanım ve teknik notlar 3](belgeler/BASLIGA_DON_START_DUGMESI_TR.md)
+- [Kullanım ve teknik notlar 4](belgeler/BASLIK_UZUNLUK_VE_HIZA_TR.md)
+- [Kullanım ve teknik notlar 5](belgeler/teknik_notlar_TR.md)
+- [Kullanım ve teknik notlar 6](belgeler/teknik_notlar_TR_ek2.md)
+- [Kullanım ve teknik notlar 7](belgeler/teknik_notlar_TR_ek3.md)
+- [Kullanım ve teknik notlar 8](belgeler/teknik_notlar_TR_ek4.md)
+- [Kullanım ve teknik notlar 9](belgeler/teknik_notlar_TR_ek5.md)
+- [Kullanım ve teknik notlar 10](belgeler/teknik_notlar_TR_ek6.md)
+- [Kullanım ve teknik notlar 11](belgeler/teknik_notlar_TR_ek7.md)
+- [Kullanım ve teknik notlar 12](belgeler/teknik_notlar_TR_ek8.md)
+- [Kullanım ve teknik notlar 13](belgeler/teknik_notlar_TR_ek9.md)
+- [Kullanım ve teknik notlar 14](belgeler/teknik_notlar_TR_ek10.md)
+- [Kullanım ve teknik notlar 15](belgeler/CODE_BIN_ANALIZI_TR.md)
+- [Kullanım ve teknik notlar 16](belgeler/COMMON_INCELEMESI_TR.md)
+- [Kullanım ve teknik notlar 17](belgeler/DUGME_VE_RASTER_BOYUT_TR.md)
+- [Kullanım ve teknik notlar 18](belgeler/FONT_COMPAT_TR.md)
+- [Kullanım ve teknik notlar 19](belgeler/FONT_DOTLESS_I_FIX_TR.md)
+- [Kullanım ve teknik notlar 20](belgeler/FONT_FIX_TR.md)
+- [Kullanım ve teknik notlar 21](belgeler/FONT_GLYPH_KALITE_TR.md)
+- [Kullanım ve teknik notlar 22](belgeler/FONT_KURULUM_VE_DOGRULAMA_TR.md)
+- [Kullanım ve teknik notlar 23](belgeler/INGILIZCE_KAPSAM_DENETIMI_TR.md)
+- [Kullanım ve teknik notlar 24](belgeler/KALAN_ISLER_TR.md)
+- [Kullanım ve teknik notlar 25](belgeler/KISALIK_VE_DINAMIK_METIN_DENETIMI_TR.md)
+- [Kullanım ve teknik notlar 26](belgeler/kullanim_notlari.md)
+- [Kullanım ve teknik notlar 27](belgeler/RASTER_DUZELTMELERI_TR.md)
+- [Kullanım ve teknik notlar 28](belgeler/SUREC_VE_MIMARI_TR.md)
+- [Kullanım ve teknik notlar 29](belgeler/TERIM_KISALTMALARI_TR.md)
+- [Kullanım ve teknik notlar 30](belgeler/TERIM_VE_KALITE_POLITIKASI_TR.md)
+- [Kullanım ve teknik notlar 31](belgeler/UI_TASMA_VE_HIZA_TR.md)
+
+Kurulum ve çeviri dosyalarının içerikleri klasör düzenlemesi sırasında korunmuştur. Teknik denetim ile gerçek cihazdaki görünüm ayrı değerlendirilmelidir.

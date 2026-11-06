@@ -10,7 +10,7 @@ if OUT.exists(): shutil.rmtree(OUT)
 BASE.mkdir(parents=True,exist_ok=True)
 shutil.copytree(V11,OUT)
 DATA=OUT/'000400000004D200/romfs/data'
-TOOLS=OUT/'ARACLAR'; REPORTS=OUT/'RAPORLAR'; PREV=OUT/'ONIZLEMELER'
+TOOLS=OUT/'araclar'; REPORTS=OUT/'RAPORLAR'; PREV=OUT/'ONIZLEMELER'
 TOOLS.mkdir(exist_ok=True);REPORTS.mkdir(exist_ok=True);PREV.mkdir(exist_ok=True)
 
 # Exact original UI atlas reset. V10/V11 broad clearing is discarded.

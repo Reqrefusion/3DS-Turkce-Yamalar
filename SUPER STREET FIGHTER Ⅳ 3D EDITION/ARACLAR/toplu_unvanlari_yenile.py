@@ -5,9 +5,9 @@ from scipy import ndimage as ndi
 from PIL import Image,ImageDraw,ImageFont
 import sf4_tr_tool as sf4
 ROOT=Path(__file__).resolve().parent.parent
-BASE=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title'
-CLEAN=ROOT/'CALISMA_ALANI/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
-FONT=ROOT/'ARACLAR/fonts/DejaVuSans-Bold.ttf'
+BASE=ROOT/'calisma/images/_GUI/_id/_title'
+CLEAN=ROOT/'calisma/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
+FONT=ROOT/'araclar/fonts/DejaVuSans-Bold.ttf'
 LABELS={
 23:('Kararsız','Süper Dâhi','Yardımcı Eğitmen'),
 24:('Yarım Pişmiş','Kışkırtıcı','Koca Yürekli'),
@@ -61,7 +61,7 @@ def draw(n,plate):
         d.text((x,y),label,font=f,fill=fill,stroke_width=width,stroke_fill=stroke)
     folder=BASE/f'title{n:03}.arc';path=next(folder.glob('*.tur.png'))
     image.resize((256,128),Image.Resampling.LANCZOS).save(path)
-    arcpath=ROOT/f'YAMA/_eng/_GUI/_id/_title/title{n:03}.arc'
+    arcpath=ROOT/f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{n:03}.arc'
     arc=sf4.ArcFile(arcpath.read_bytes());arcpath.write_bytes(arc.rebuild({0:sf4.png_to_tex_bytes(path,arc.unpack(0))}))
 if __name__=='__main__':
     for n in LABELS:draw(n,clean(n));print(n)

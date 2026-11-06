@@ -5,7 +5,7 @@ ROOT=Path('/mnt/data/sushi_work')
 SRC=ROOT/'review_v05'/'csv'
 OUTROOT=ROOT/'review_v06'
 OUT=OUTROOT/'csv'
-TOOL=ROOT/'review_v05'/'full_bundle'/'Araclar'/'sushi_msbt_csv_flat.py'
+TOOL=ROOT/'review_v05'/'full_bundle'/'araclar'/'sushi_msbt_csv_flat.py'
 PATCH_BASE=ROOT/'review_v05'/'full_bundle'/'LayeredFS'/'00040000001C1D00'
 SOURCE=ROOT/'msgstudio'/'msgstudio'
 
@@ -610,13 +610,13 @@ readme=f'''SUSHI STRIKER TÜRKÇE ÇEVİRİ KALİTE İNCELEMESİ - v0.6\n{'='*62
 # Full bundle + tools
 bundle=OUTROOT/'full_bundle'; (bundle/'LayeredFS').mkdir(parents=True)
 shutil.copytree(rebuilt,bundle/'LayeredFS'/'00040000001C1D00')
-shutil.copytree(OUT,bundle/'CSV')
+shutil.copytree(OUT,bundle/'ceviri')
 (bundle/'Raporlar').mkdir()
 for name in ['V06_YENI_BLOK_SATIR_INCELEME.csv','SATIR_BAZLI_INCELEME_KUMULATIF.csv','TUM_10676_SATIR_DURUMU.csv','V06_YENI_DEGISIKLIKLER.csv','INCELEME_DEGISIKLIKLERI.csv','INCELEME_SON_DURUM_ESSIZ.csv','V06_YENI_DEGISIKLIK_UZUNLUK_UYARILARI.csv','ROUNDTRIP_DOGRULAMA.txt']:
     shutil.copy2(OUTROOT/name,bundle/'Raporlar'/name)
 # v0.5 araçlarını taşı, v0.6 uygulama betiğini de ekle.
-shutil.copytree(ROOT/'review_v05'/'full_bundle'/'Araclar',bundle/'Araclar')
-shutil.copy2(Path(__file__),bundle/'Araclar'/'v06_inceleme_uygulama_betigi.py')
+shutil.copytree(ROOT/'review_v05'/'full_bundle'/'araclar',bundle/'araclar')
+shutil.copy2(Path(__file__),bundle/'araclar'/'v06_inceleme_uygulama_betigi.py')
 shutil.copy2(OUTROOT/'README_TR.txt',bundle/'README_TR.txt')
 manifest=[]
 for p in sorted(x for x in bundle.rglob('*') if x.is_file()):
@@ -629,7 +629,7 @@ def zipdir(src,out):
             if p.is_file(): z.write(p,p.relative_to(src).as_posix())
 zipdir(bundle,OUTROOT/'Sushi_Striker_TR_v06_FULL.zip')
 ptmp=OUTROOT/'patch_bundle'; ptmp.mkdir(); shutil.copytree(bundle/'LayeredFS',ptmp/'LayeredFS'); zipdir(ptmp,OUTROOT/'Sushi_Striker_TR_v06_LayeredFS.zip'); shutil.rmtree(ptmp)
-atmp=OUTROOT/'tools_bundle'; atmp.mkdir(); shutil.copytree(bundle/'Araclar',atmp/'Araclar'); shutil.copy2(OUTROOT/'README_TR.txt',atmp/'README_TR.txt'); zipdir(atmp,OUTROOT/'Sushi_Striker_TR_v06_Araclar.zip'); shutil.rmtree(atmp)
+atmp=OUTROOT/'tools_bundle'; atmp.mkdir(); shutil.copytree(bundle/'araclar',atmp/'araclar'); shutil.copy2(OUTROOT/'README_TR.txt',atmp/'README_TR.txt'); zipdir(atmp,OUTROOT/'Sushi_Striker_TR_v06_Araclar.zip'); shutil.rmtree(atmp)
 
 print('v0.6 OK')
 print('full target rows',len(new_full),'changed',new_changed,'same',new_same,'targeted',targeted)

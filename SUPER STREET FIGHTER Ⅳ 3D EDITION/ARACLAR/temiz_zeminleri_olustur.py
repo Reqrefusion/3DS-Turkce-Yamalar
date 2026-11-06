@@ -6,8 +6,8 @@ import numpy as np
 
 ROOT=Path(__file__).resolve().parent.parent
 HERE=Path(__file__).resolve().parent
-ASSETS=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title'
-OUT=ROOT/'CALISMA_ALANI/temiz_zeminler'
+ASSETS=ROOT/'calisma/images/_GUI/_id/_title'
+OUT=ROOT/'calisma/temiz_zeminler'
 OUT.mkdir(parents=True,exist_ok=True)
 ROWS={'078':(((4,44),(0,36)),((45,84),(38,74)),((85,123),(76,112))),
       '150':(((4,42),(0,36)),((45,82),(38,74)),((85,122),(76,112))),

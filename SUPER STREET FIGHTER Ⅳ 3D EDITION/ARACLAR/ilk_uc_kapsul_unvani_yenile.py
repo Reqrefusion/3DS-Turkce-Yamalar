@@ -18,7 +18,7 @@ LABELS={
 
 
 def rebuild(index):
- folder=ROOT/f'CALISMA_ALANI/images/_GUI/_id/_title/title{index}.arc'
+ folder=ROOT/f'calisma/images/_GUI/_id/_title/title{index}.arc'
  path=next(folder.glob('*.fre.png'))
  a=np.asarray(Image.open(path).convert('RGBA')).copy()
  # Preserve all three original portraits, capsule edges, and exterior.
@@ -46,7 +46,7 @@ def rebuild(index):
             stroke_width=4,stroke_fill=(125,54,69,255))
  target=next(folder.glob('*.tur.png'))
  img.resize((256,128),Image.Resampling.LANCZOS).save(target)
- arc_path=ROOT/f'YAMA/_eng/_GUI/_id/_title/title{index}.arc'
+ arc_path=ROOT/f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{index}.arc'
  arc=sf4.ArcFile(arc_path.read_bytes());arc_path.write_bytes(arc.rebuild({0:sf4.png_to_tex_bytes(target,arc.unpack(0))}))
  assert sf4.ArcFile(arc_path.read_bytes()).unpack(0)[:4]==sf4.TEX_MAGIC
 

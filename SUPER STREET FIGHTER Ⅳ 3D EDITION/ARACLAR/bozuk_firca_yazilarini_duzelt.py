@@ -39,11 +39,11 @@ def lettering(lines, rows, size=(128, 128)):
 
 
 def write_asset(arc_name, entry, asset_name, lines, rows, size):
-    image_path = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
+    image_path = ROOT / "calisma/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
     image = lettering(lines, rows, size)
     assert image.size == Image.open(image_path).size
     image.save(image_path)
-    arc_path = ROOT / "YAMA/_eng/_GUI/_id/_common" / arc_name
+    arc_path = ROOT / "0004000000033C00/romfs/_eng/_GUI/_id/_common" / arc_name
     arc = sf4.ArcFile(arc_path.read_bytes())
     tex = sf4.png_to_tex_bytes(image_path, arc.unpack(entry))
     arc_path.write_bytes(arc.rebuild({entry: tex}))
@@ -71,17 +71,17 @@ def left_aligned_labels(lines, rows):
 
 
 def write_exact(arc_name, entry, asset_name, image):
-    image_path = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
+    image_path = ROOT / "calisma/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
     assert image.size == Image.open(image_path).size
     image.save(image_path)
-    arc_path = ROOT / "YAMA/_eng/_GUI/_id/_common" / arc_name
+    arc_path = ROOT / "0004000000033C00/romfs/_eng/_GUI/_id/_common" / arc_name
     arc = sf4.ArcFile(arc_path.read_bytes())
     arc_path.write_bytes(arc.rebuild({entry: sf4.png_to_tex_bytes(image_path, arc.unpack(entry))}))
     print(f"Updated {arc_name}/{asset_name}")
 
 
 def result_score_labels():
-    path = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common/battle.arc/002_d_u_text_ID.eng.png"
+    path = ROOT / "calisma/images/_GUI/_id/_common/battle.arc/002_d_u_text_ID.eng.png"
     result = Image.open(path).convert("RGBA")
     font_path = str(Path(__file__).resolve().parent / "fonts/DejaVuSans-Bold.ttf")
     replacements = [
@@ -121,7 +121,7 @@ if __name__ == "__main__":
              (83, 96), (100, 112), (116, 128), (132, 145),
              (148, 160), (164, 176)]
     write_exact("battle.arc", 0, "000_resultText_ID", left_aligned_labels(labels, slots))
-    ready_path = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common/menu.arc/002_ready_ID.eng.png"
+    ready_path = ROOT / "calisma/images/_GUI/_id/_common/menu.arc/002_ready_ID.eng.png"
     write_exact("menu.arc", 2, "002_ready_ID", Image.open(ready_path).convert("RGBA"))
     level = lettering(["SEVİYE"], [(1, 21)], (128, 64))
     write_exact("menu.arc", 3, "003_lv_jpn_ID", level)

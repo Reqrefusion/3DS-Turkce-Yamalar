@@ -1,0 +1,5 @@
+GRAVITY FALLS TÜRKÇE ÇALIŞMA PROJESİ
+
+Bu klasörde hazır Title ID kurulum ağacı bulunmuyor. Üretim için kendi özgün RomFS girdiniz gerekir. Metinler ceviri/main.csv ve ceviri/dialogue.csv; font girdileri varliklar/fontlar altındadır. Üretim girişi araclar/paketle.py dosyasıdır.
+
+Kurulum hedefi 000400000014D900 değeridir. Üretimden sonra oluşan romfs ağacını bu Title ID altında SD kartta luma/titles konumuna yerleştirin ve Luma oyun yamalamayı etkinleştirin. Kaynakları ve çeviriyi yedekleyin; metin kontrol kodlarını koruyun. Belgelenen kapsam altı oyun dili yuvasını içerir; oyun içi görünüm ayrıca denenmelidir.

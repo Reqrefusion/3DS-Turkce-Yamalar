@@ -1,0 +1,44 @@
+[
+  {
+    "font": "Caption_US.bffnt",
+    "changed_user_glyphs": [],
+    "tr_bad": [],
+    "user_map_bad": [],
+    "base_missing": [],
+    "base_bad": []
+  },
+  {
+    "font": "UI_Caption_US.bffnt",
+    "changed_user_glyphs": [
+      {
+        "char": "µ",
+        "codepoint": "U+00B5"
+      },
+      {
+        "char": "¿",
+        "codepoint": "U+00BF"
+      },
+      {
+        "char": "ò",
+        "codepoint": "U+00F2"
+      }
+    ],
+    "tr_bad": [],
+    "user_map_bad": [],
+    "base_missing": [],
+    "base_bad": []
+  },
+  {
+    "font": "Common_Sura_B_16.bffnt",
+    "changed_user_glyphs": [
+      {
+        "char": "®",
+        "codepoint": "U+00AE"
+      }
+    ],
+    "tr_bad": [],
+    "user_map_bad": [],
+    "base_missing": [],
+    "base_bad": []
+  }
+]

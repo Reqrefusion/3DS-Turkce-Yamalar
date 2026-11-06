@@ -9,7 +9,7 @@ LANGS=('deu','eng','esp','fra','ita','nld')
 def load_tool(path=None):
     candidates=[]
     if path: candidates.append(Path(path))
-    candidates += [Path(__file__).with_name('sushi_msbt_csv_flat.py'),Path('/mnt/data/sushi_work/review_v09/Araclar/sushi_msbt_csv_flat.py')]
+    candidates += [Path(__file__).with_name('sushi_msbt_csv_flat.py'),Path('/mnt/data/sushi_work/review_v09/araclar/sushi_msbt_csv_flat.py')]
     for p in candidates:
         if p.exists():
             spec=importlib.util.spec_from_file_location('msbtkit',p); m=importlib.util.module_from_spec(spec); spec.loader.exec_module(m); return m
@@ -282,9 +282,9 @@ def main():
                     ms=[n for n in names if n.lower().endswith('.msbt')]
                     if len(ms)!=243:problems.append(f'msbt={len(ms)}')
                 if kind=='full':
-                    for req in ['LayeredFS/00040000001C1D00/','CSV/','Araclar/','Raporlar/']:
+                    for req in ['LayeredFS/00040000001C1D00/','ceviri/','araclar/','Raporlar/']:
                         if not any(n.startswith(req) for n in names):problems.append('missing '+req)
-                    csvs=[n for n in names if n.startswith('CSV/') and n.lower().endswith('.csv')]
+                    csvs=[n for n in names if n.startswith('ceviri/') and n.lower().endswith('.csv')]
                     ms=[n for n in names if n.startswith('LayeredFS/00040000001C1D00/') and n.lower().endswith('.msbt')]
                     if len(csvs)!=243:problems.append(f'csv={len(csvs)}')
                     if len(ms)!=243:problems.append(f'msbt={len(ms)}')

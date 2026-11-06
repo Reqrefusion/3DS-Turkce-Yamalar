@@ -2,7 +2,7 @@
 
 This operates on the existing package: the original five-language ARC source
 archive is not included. Run from ARACLAR with:
-  python font_isaretlerini_yenile.py ../YAMA/_eng
+  python font_isaretlerini_yenile.py ../0004000000033C00/romfs/_eng
 """
 from pathlib import Path
 import sys
@@ -44,6 +44,6 @@ def update_arc(path: Path, gfd_indices):
 
 
 if __name__ == "__main__":
-    base = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).resolve().parent.parent / "YAMA/_eng"
+    base = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(__file__).resolve().parent.parent / "0004000000033C00/romfs/_eng"
     update_arc(base / "_GUI/_font/menu.arc", (2, 5, 9))
     update_arc(base / "_GUI/_font/common.arc", (2,))

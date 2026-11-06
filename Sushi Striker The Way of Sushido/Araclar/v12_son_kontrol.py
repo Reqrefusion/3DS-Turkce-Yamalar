@@ -3,7 +3,7 @@ import csv, os, glob, shutil
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-CSV_DIR=ROOT/'CSV'
+CSV_DIR=ROOT/'ceviri'
 REPORT_DIR=ROOT/'Raporlar'
 REPORT_DIR.mkdir(exist_ok=True)
 

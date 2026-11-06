@@ -4,8 +4,8 @@ from PIL import Image,ImageDraw,ImageFont
 import numpy as np
 import sf4_tr_tool as sf4
 ROOT=Path(__file__).resolve().parent.parent;HERE=Path(__file__).resolve().parent
-BASE=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title'
-CLEAN=ROOT/'CALISMA_ALANI/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
+BASE=ROOT/'calisma/images/_GUI/_id/_title'
+CLEAN=ROOT/'calisma/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
 LABELS={
 61:('Her Yerde Uyur','Karateci','Fasulye Ezmesini Severim'),
 62:('Ev Yok, İş Yok','Samuray Dövüşçü','Aç Dövüşçü'),
@@ -211,7 +211,7 @@ def write(n):
         draw.text((x,y),label,font=font,fill=(255,249,240,255),stroke_width=4,stroke_fill=(129,21,41,255))
     folder=BASE/f'title{n:03}.arc';path=next(folder.glob('*.tur.png'))
     image.resize((256,128),Image.Resampling.LANCZOS).save(path)
-    arcpath=ROOT/f'YAMA/_eng/_GUI/_id/_title/title{n:03}.arc'
+    arcpath=ROOT/f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{n:03}.arc'
     arc=sf4.ArcFile(arcpath.read_bytes());arcpath.write_bytes(arc.rebuild({0:sf4.png_to_tex_bytes(path,arc.unpack(0))}))
 if __name__=='__main__':
     for n in LABELS:write(n);print(n)

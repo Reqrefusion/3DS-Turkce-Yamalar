@@ -1,0 +1,11 @@
+# Çalışma akışı
+
+Kurulum için kökteki README.md dosyasını kullanın. Title ID klasörleri oyun kökünde tutulur.
+
+İngilizce dil yuvası kullanılır. Grafik/CTXB denetim kayıtları raporlar altındadır. Görsel kaynaklarla font/metin üretimini birbirinden ayırın; oyun içi görünüm ayrıca kontrol edilmelidir.
+
+Düzenleme kaynağı: `ceviri/translations_v089.csv`.
+
+Araç girişi: `araclar/mm3d_tr_tool_v3.py`. Komutları oyun klasöründe çalıştırın; ayrıntılı seçenekler ilgili aracın yardımında bulunur.
+
+Çeviri kimliklerini ve kontrol kodlarını koruyun. Özgün girdilerin üzerine yazmayın. Teknik doğrulama, gerçek cihaz testi yerine geçmez.

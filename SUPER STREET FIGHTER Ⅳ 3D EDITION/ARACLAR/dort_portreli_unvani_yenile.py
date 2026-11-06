@@ -9,8 +9,8 @@ import numpy as np
 import sf4_tr_tool as sf4
 ROOT=Path(__file__).resolve().parent.parent
 HERE=Path(__file__).resolve().parent
-BASE=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title'
-CLEAN=ROOT/'CALISMA_ALANI/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
+BASE=ROOT/'calisma/images/_GUI/_id/_title'
+CLEAN=ROOT/'calisma/temiz_zeminler';CLEAN.mkdir(parents=True,exist_ok=True)
 LABELS={
 55:('Ateşle Sınanmak','Acele İşe Şeytan Karışır','Tedbir İyidir'),
 56:('Geçmiş Geride Kaldı','Fırtına Öncesi Sessizlik','Şerde Hayır Var'),
@@ -51,7 +51,7 @@ def write(n,clean):
         draw.text((x,y),label,font=font,fill=(255,249,243,255),stroke_width=4,stroke_fill=(119,24,31,255))
     path=next((BASE/f'title{n:03}.arc').glob('*.tur.png'))
     im.resize((256,128),Image.Resampling.LANCZOS).save(path)
-    arcpath=ROOT/f'YAMA/_eng/_GUI/_id/_title/title{n:03}.arc'
+    arcpath=ROOT/f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{n:03}.arc'
     arc=sf4.ArcFile(arcpath.read_bytes());arcpath.write_bytes(arc.rebuild({0:sf4.png_to_tex_bytes(path,arc.unpack(0))}))
 if __name__=='__main__':
     background=plate()

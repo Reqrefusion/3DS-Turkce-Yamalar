@@ -10,8 +10,8 @@ import sf4_tr_tool as sf4
 
 ROOT=Path(__file__).resolve().parent.parent
 HERE=Path(__file__).resolve().parent
-BASE=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title'
-CLEAN=ROOT/'CALISMA_ALANI/temiz_zeminler'
+BASE=ROOT/'calisma/images/_GUI/_id/_title'
+CLEAN=ROOT/'calisma/temiz_zeminler'
 CLEAN.mkdir(parents=True,exist_ok=True)
 LABELS={
  '016':('Kriz Ası','Biraz Yavaş','Ben Gariban'),
@@ -93,7 +93,7 @@ def paint(number,background):
                   stroke_width=4,stroke_fill=(134,32,51,255))
     path=next((BASE/f'title{number}.arc').glob('*.tur.png'))
     img.resize((256,128),Image.Resampling.LANCZOS).save(path)
-    arcpath=ROOT/f'YAMA/_eng/_GUI/_id/_title/title{number}.arc'
+    arcpath=ROOT/f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{number}.arc'
     arc=sf4.ArcFile(arcpath.read_bytes())
     arcpath.write_bytes(arc.rebuild({0:sf4.png_to_tex_bytes(path,arc.unpack(0))}))
 

@@ -1,0 +1,11 @@
+# Çalışma akışı
+
+Kurulum için kökteki README.md dosyasını kullanın. Title ID klasörleri oyun kökünde tutulur.
+
+Temel içerik ve güncelleme çevirileri ayrıdır. Güncelleme işlemleri araclar/mii_plaza_update_tr_tool.py ile yapılır.
+
+Düzenleme kaynağı: `ceviri/mii_plaza_base_turkish.csv ve ceviri/mii_update_turkish.csv`.
+
+Araç girişi: `araclar/mii_plaza_tr_tool.py`. Komutları oyun klasöründe çalıştırın; ayrıntılı seçenekler ilgili aracın yardımında bulunur.
+
+Çeviri kimliklerini ve kontrol kodlarını koruyun. Özgün girdilerin üzerine yazmayın. Teknik doğrulama, gerçek cihaz testi yerine geçmez.

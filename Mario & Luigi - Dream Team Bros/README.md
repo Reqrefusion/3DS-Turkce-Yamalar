@@ -1,79 +1,30 @@
-# DreamTeam MSBT Translation Workflow
+# Mario & Luigi - Dream Team Bros Türkçe yama
 
-Bu repo, MSBT tabanlı çeviri iş akışı için temiz çalışma alanıdır.
+## Kurulum
 
-## İçerik
+Oyununuzun Title ID değeriyle eşleşen kök klasörü `sd:/luma/titles/` içine kopyalayın. Luma3DS ayarlarında **Enable game patching** açık olmalıdır. Mevcut yamanızı önce yedekleyin.
 
-- `tools/`:
-  - `message_msbt_toolkit.py` — container/MSBT/JSON iş akışı
-  - `tr_name_localizer.py` — özel ad ve kelime oyunu yerelleştirme scripti
-- `data/languages/`:
-  - tüm EU dilleri için FMes container dosyaları
-  - FMes içinden çıkarılmış ham `.msbt` dosyaları
-  - her MSBT için ayrı JSON ve toplu `all.json`
-  - bağımsız `.msbt` dosyaları
-  - doğrulama raporları
-- `data/current_patch/tr/`:
-  - mevcut çalışan TR yama paketi
-  - bu paketin FMes `.bin/.dat` dosyaları
-  - FMes içinden çıkarılmış ham `.msbt` dosyaları
-  - JSON yedekleri
-  - değişiklik ve doğrulama raporları
-- `reports/`: genel doğrulama özetleri
+- `00040000000D9000/` → `sd:/luma/titles/00040000000D9000/`
 
-## Klasör düzeni
+## Çalışma dosyaları
 
-Her dil klasöründe aynı yapı kullanılır:
+Düzenleme kaynağı: `kaynaklar/current_patch/tr/fmes/json/`.
 
-```text
-<data/languages/LANG>
-├── fmes/
-│   ├── FMes.bin
-│   ├── FMes.dat
-│   ├── msbt/
-│   └── json/
-│       ├── all.json
-│       └── per_msbt/
-├── standalone_msbt/
-└── verify_report.json
-```
+Araç girişi: `araclar/fmes_safe_packager.py`. Komutları oyun klasöründe çalıştırın.
 
-## Temel kullanım
+FMes/MSBT JSON kayıtlarındaki metin alanlarını düzenleyin; kod, kimlik ve ham veri alanlarını koruyun. Resmî dil referansları kaynaklar/languages altında tutulur.
 
-### 1) FMes container'ı çıkar
-```bash
-python tools/message_msbt_toolkit.py extract-container data/current_patch/tr/fmes/FMes.bin data/current_patch/tr/fmes/FMes.dat out/extracted
-```
+## Klasörler
 
-### 2) FMes container'ı JSON'a dök
-```bash
-python tools/message_msbt_toolkit.py export-container-json data/current_patch/tr/fmes/FMes.bin data/current_patch/tr/fmes/FMes.dat out/json
-```
+- `araclar/`: Üretim, düzenleme ve doğrulama araçları.
+- `kaynaklar/`: Üretimde gereken girdiler ve referanslar.
+- `belgeler/`: Kullanım ve teknik açıklamalar.
+- `raporlar/`: Denetim ve test kayıtları.
 
-### 3) JSON'dan tekrar FMes üret
-```bash
-python tools/message_msbt_toolkit.py import-container-json data/current_patch/tr/fmes/FMes.bin data/current_patch/tr/fmes/FMes.dat out/json out/FMes.bin out/FMes.dat
-```
+## Açıklamalar
 
-### 4) No-op doğrulama yap
-```bash
-python tools/message_msbt_toolkit.py verify-container-noop data/current_patch/tr/fmes/FMes.bin data/current_patch/tr/fmes/FMes.dat --out-json out/verify.json
-```
+- [Kullanım ve teknik notlar 1](belgeler/kullanim_notlari.md)
+- [Kullanım ve teknik notlar 2](belgeler/NAME_LOCALIZATION_GUIDE_TR.md)
+- [Kullanım ve teknik notlar 3](belgeler/WORKFLOW_TR.md)
 
-### 5) Tek bir MSBT'yi JSON ile düzenle
-```bash
-python tools/message_msbt_toolkit.py export-standalone-json data/current_patch/tr/fmes/msbt/0653.msbt out/0653.json
-python tools/message_msbt_toolkit.py import-standalone-json data/current_patch/tr/fmes/msbt/0653.msbt out/0653.json out/0653.msbt
-```
-
-## Çalışma kuralı
-
-1. Önce `fmes/msbt/` içindeki ham `.msbt` dosyasıyla çalış.
-2. JSON'u yedek ve düzenleme formatı olarak kullan.
-3. Değişmeyen girdilerde `raw_full_hex` korunur.
-4. Her importtan sonra `verify-container-noop` veya tekrar export karşılaştırması yap.
-5. Özel ad çevirilerinde diğer dillerle kıyas yapmadan karar verme.
-
-## Not
-
-Bu repo içinde dosya adları bilerek sade tutuldu. Sürüm etiketi yerine klasör ve rapor üzerinden takip yapman daha güvenli olur.
+Kurulum ve çeviri dosyalarının içerikleri klasör düzenlemesi sırasında korunmuştur. Teknik denetim ile gerçek cihazdaki görünüm ayrı değerlendirilmelidir.

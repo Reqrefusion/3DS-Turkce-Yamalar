@@ -24,7 +24,7 @@ LABELS = {
 
 
 def draw_one(number):
-    folder = ROOT / f'CALISMA_ALANI/images/_GUI/_id/_title/title{number}.arc'
+    folder = ROOT / f'calisma/images/_GUI/_id/_title/title{number}.arc'
     reference = next(folder.glob('*.spa.png'))
     pixels = np.asarray(Image.open(reference).convert('RGBA')).copy()
     # Each reference keeps a long red stripe at the same vertical position.
@@ -53,7 +53,7 @@ def draw_one(number):
                   stroke_width=stroke, stroke_fill=(155,27,48,255))
     target = next(folder.glob('*.tur.png'))
     image.resize((256,128), Image.Resampling.LANCZOS).save(target)
-    arc_path = ROOT / f'YAMA/_eng/_GUI/_id/_title/title{number}.arc'
+    arc_path = ROOT / f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{number}.arc'
     arc = sf4.ArcFile(arc_path.read_bytes())
     arc_path.write_bytes(arc.rebuild({0: sf4.png_to_tex_bytes(target, arc.unpack(0))}))
     assert sf4.ArcFile(arc_path.read_bytes()).unpack(0)[:4] == sf4.TEX_MAGIC

@@ -37,8 +37,8 @@ def ranks():
 
 def versus_rank_sheet():
     """Keep the native rank chart, replacing the two English rank names."""
-    base = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common/battle_vs.arc/000_netRslt00_BM_HQ_NOMIP.eng.png"
-    translated = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common/battle_vs.arc/000_netRslt00_BM_HQ_NOMIP.tur.png"
+    base = ROOT / "calisma/images/_GUI/_id/_common/battle_vs.arc/000_netRslt00_BM_HQ_NOMIP.eng.png"
+    translated = ROOT / "calisma/images/_GUI/_id/_common/battle_vs.arc/000_netRslt00_BM_HQ_NOMIP.tur.png"
     native = Image.open(base).convert("RGBA")
     out = Image.open(translated).convert("RGBA")
     out.paste(native.crop((0, 160, 256, 256)), (0, 160))
@@ -60,10 +60,10 @@ def versus_rank_sheet():
 
 
 def update(arc_name, entry, asset_name, image):
-    image_path = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
+    image_path = ROOT / "calisma/images/_GUI/_id/_common" / arc_name / (asset_name + ".tur.png")
     assert Image.open(image_path).size == image.size
     image.save(image_path)
-    arc_path = ROOT / "YAMA/_eng/_GUI/_id/_common" / arc_name
+    arc_path = ROOT / "0004000000033C00/romfs/_eng/_GUI/_id/_common" / arc_name
     arc = sf4.ArcFile(arc_path.read_bytes())
     arc_path.write_bytes(arc.rebuild({entry: sf4.png_to_tex_bytes(image_path, arc.unpack(entry))}))
     assert sf4.ArcFile(arc_path.read_bytes()).unpack(entry)[:4] == sf4.TEX_MAGIC
@@ -72,6 +72,6 @@ def update(arc_name, entry, asset_name, image):
 
 if __name__ == "__main__":
     update("worldmap.arc", 3, "003_class_jpn_kor_ID", ranks())
-    p = ROOT / "CALISMA_ALANI/images/_GUI/_id/_common/menu.arc/006_cs_cursor_ID.eng.png"
+    p = ROOT / "calisma/images/_GUI/_id/_common/menu.arc/006_cs_cursor_ID.eng.png"
     update("menu.arc", 6, "006_cs_cursor_ID", Image.open(p).convert("RGBA"))
     update("battle_vs.arc", 0, "000_netRslt00_BM_HQ_NOMIP", versus_rank_sheet())

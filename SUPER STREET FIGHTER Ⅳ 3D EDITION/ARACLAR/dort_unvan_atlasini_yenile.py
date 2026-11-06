@@ -28,7 +28,7 @@ ROW_MAP = {
 
 def image_for(index: str) -> Image.Image:
     if index == '014':
-        reference = next((ROOT / 'CALISMA_ALANI/images/_GUI/_id/_title/title014.arc').glob('*.spa.png'))
+        reference = next((ROOT / 'calisma/images/_GUI/_id/_title/title014.arc').glob('*.spa.png'))
         pixels = np.asarray(Image.open(reference).convert('RGBA')).copy()
         # Five sources share the same translucent horizontal stripes. The
         # Spanish lettering differs; restore each internal scan line using
@@ -43,7 +43,7 @@ def image_for(index: str) -> Image.Image:
                 pixels[y, 29:161] = np.median(clean, axis=0).astype('uint8')
         aligned = Image.fromarray(pixels, 'RGBA')
     else:
-        aligned = Image.open(ROOT / 'CALISMA_ALANI/temiz_zeminler'/f'title{index}_textless.png').convert('RGBA')
+        aligned = Image.open(ROOT / 'calisma/temiz_zeminler'/f'title{index}_textless.png').convert('RGBA')
     base = aligned.resize((1024, 512), Image.Resampling.NEAREST)
     draw = ImageDraw.Draw(base)
     for row, label in enumerate(TITLES[index]):
@@ -66,10 +66,10 @@ def image_for(index: str) -> Image.Image:
 
 
 def update(index: str) -> None:
-    directory = ROOT / f'CALISMA_ALANI/images/_GUI/_id/_title/title{index}.arc'
+    directory = ROOT / f'calisma/images/_GUI/_id/_title/title{index}.arc'
     destination = next(directory.glob('*.tur.png'))
     image_for(index).save(destination)
-    target = ROOT / f'YAMA/_eng/_GUI/_id/_title/title{index}.arc'
+    target = ROOT / f'0004000000033C00/romfs/_eng/_GUI/_id/_title/title{index}.arc'
     arc = sf4.ArcFile(target.read_bytes())
     original = arc.unpack(0)
     assert sf4.parse_tex_info(original).width == 256

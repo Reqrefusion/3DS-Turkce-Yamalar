@@ -34,7 +34,7 @@ def u(s):
 def flat(s): return ' '.join(u(s).split())
 
 def load_rules():
-    p=BASE/'ARACLAR/manual_review_v7.py'
+    p=BASE/'araclar/manual_review_v7.py'
     spec=importlib.util.spec_from_file_location('v7rules',p)
     m=importlib.util.module_from_spec(spec)
     old=sys.argv[:]; sys.argv=[str(p)]

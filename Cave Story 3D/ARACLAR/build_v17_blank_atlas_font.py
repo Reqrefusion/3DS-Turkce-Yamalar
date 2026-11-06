@@ -12,7 +12,7 @@ BASE.mkdir(parents=True)
 shutil.copytree(V16,OUT)
 DATA=OUT/'000400000004D200/romfs/data'
 EXEFS=OUT/'000400000004D200/exefs'
-R=OUT/'RAPORLAR'; P=OUT/'ONIZLEMELER'; T=OUT/'ARACLAR'
+R=OUT/'RAPORLAR'; P=OUT/'ONIZLEMELER'; T=OUT/'araclar'
 
 # ---------- parse original BMFont ----------
 fnt_orig=(ORIG_FONT/'font_batang.fnt').read_text('latin1')

@@ -12,15 +12,15 @@ if OUT.exists(): shutil.rmtree(OUT)
 BASE.mkdir(parents=True, exist_ok=True)
 shutil.copytree(V9,OUT)
 DATA=OUT/'000400000004D200/romfs/data'
-TOOLS=OUT/'ARACLAR'; REPORTS=OUT/'RAPORLAR'; PREV=OUT/'ONIZLEMELER'
+TOOLS=OUT/'araclar'; REPORTS=OUT/'RAPORLAR'; PREV=OUT/'ONIZLEMELER'
 REPORTS.mkdir(exist_ok=True); PREV.mkdir(exist_ok=True); TOOLS.mkdir(exist_ok=True)
 
 # Restore all SJS from V7 (contains MNA), then apply V9 compatibility/layout passes.
 v7data=V7/'000400000004D200/romfs/data'
 for p in v7data.rglob('*.sjs'):
     rel=p.relative_to(v7data); dst=DATA/rel; dst.parent.mkdir(parents=True,exist_ok=True); shutil.copy2(p,dst)
-subprocess.run(['python',str(OUT/'ARACLAR/font_compatibility_cleanup_v9.py'),'--data',str(DATA)],check=True,capture_output=True,text=True)
-subprocess.run(['python',str(OUT/'ARACLAR/manual_layout_fixes_v9.py'),'--data',str(DATA),'--report',str(REPORTS/'SATIR_MANUEL_DUZELTMELERI_V10.tsv')],check=True,capture_output=True,text=True)
+subprocess.run(['python',str(OUT/'araclar/font_compatibility_cleanup_v9.py'),'--data',str(DATA)],check=True,capture_output=True,text=True)
+subprocess.run(['python',str(OUT/'araclar/manual_layout_fixes_v9.py'),'--data',str(DATA),'--report',str(REPORTS/'SATIR_MANUEL_DUZELTMELERI_V10.tsv')],check=True,capture_output=True,text=True)
 
 # --- sprite-safe 3x7 UI font ---
 F={

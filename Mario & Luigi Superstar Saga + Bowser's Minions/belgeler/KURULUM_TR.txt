@@ -1,0 +1,11 @@
+# Çalışma akışı
+
+Kurulum için kökteki README.md dosyasını kullanın. Title ID klasörleri oyun kökünde tutulur.
+
+EU_en mesaj yuvası kullanılır. Düzenleme arayüzü araclar/mlss_gui.py, kurulum başlatıcıları araclar/YAMAYI_KUR.bat ve .sh dosyalarıdır.
+
+Düzenleme kaynağı: `araclar/csv/`.
+
+Araç girişi: `araclar/mlss_translate.py`. Komutları oyun klasöründe çalıştırın; ayrıntılı seçenekler ilgili aracın yardımında bulunur.
+
+Çeviri kimliklerini ve kontrol kodlarını koruyun. Özgün girdilerin üzerine yazmayın. Teknik doğrulama, gerçek cihaz testi yerine geçmez.

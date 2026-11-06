@@ -1,0 +1,11 @@
+# Çalışma akışı
+
+Kurulum için kökteki README.md dosyasını kullanın. Title ID klasörleri oyun kökünde tutulur.
+
+İngilizce -en.stb dil dosyaları hedeflenir. Düzenleyici araclar/proje/translator_gui.py dosyasıdır. Çeviri, resim ve font girdileri birlikte korunmalıdır; kaynak arşivi kaynaklar/arsiv altındadır.
+
+Düzenleme kaynağı: `ceviri/translations_tr.tsv`.
+
+Araç girişi: `araclar/proje/naa_localizer.py`. Komutları oyun klasöründe çalıştırın; ayrıntılı seçenekler ilgili aracın yardımında bulunur.
+
+Çeviri kimliklerini ve kontrol kodlarını koruyun. Özgün girdilerin üzerine yazmayın. Teknik doğrulama, gerçek cihaz testi yerine geçmez.

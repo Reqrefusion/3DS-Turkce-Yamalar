@@ -2,10 +2,10 @@ from pathlib import Path
 import csv, shutil, re, subprocess, hashlib, zipfile, sys, os
 ROOT=Path('/mnt/data/sushi_work')
 BASE=ROOT/'work_v08'/'full'
-SRC=BASE/'CSV'
+SRC=BASE/'ceviri'
 OUTROOT=ROOT/'review_v08'
 OUT=OUTROOT/'csv'
-TOOL=BASE/'Araclar'/'sushi_msbt_csv_flat.py'
+TOOL=BASE/'araclar'/'sushi_msbt_csv_flat.py'
 PATCH_BASE=BASE/'LayeredFS'/'00040000001C1D00'
 SOURCE=ROOT/'work_v08'/'source'/'msgstudio'
 PREV_AUDIT=BASE/'Raporlar'/'SATIR_BAZLI_INCELEME_KUMULATIF.csv'
@@ -341,23 +341,23 @@ with zipfile.ZipFile(layerzip,'w',zipfile.ZIP_DEFLATED) as z:
     for p in rebuilt.rglob('*'):
         if p.is_file(): z.write(p,Path('LayeredFS')/p.relative_to(rebuilt))
 # tools bundle
-arac=OUTROOT/'Araclar';arac.mkdir()
-for p in (BASE/'Araclar').glob('*.py'): shutil.copy2(p,arac/p.name)
+arac=OUTROOT/'araclar';arac.mkdir()
+for p in (BASE/'araclar').glob('*.py'): shutil.copy2(p,arac/p.name)
 shutil.copy2(Path(__file__),arac/'v08_inceleme_uygulama_betigi.py')
 toolszip=OUTROOT/'Sushi_Striker_TR_v08_Araclar.zip'
 with zipfile.ZipFile(toolszip,'w',zipfile.ZIP_DEFLATED) as z:
     for p in arac.rglob('*'): z.write(p,p.relative_to(arac))
 # Full bundle folder
 bundle=OUTROOT/'bundle';bundle.mkdir()
-shutil.copytree(OUT,bundle/'CSV')
-shutil.copytree(arac,bundle/'Araclar')
+shutil.copytree(OUT,bundle/'ceviri')
+shutil.copytree(arac,bundle/'araclar')
 shutil.copytree(rebuilt,bundle/'LayeredFS'/'00040000001C1D00')
 rap=bundle/'Raporlar';rap.mkdir()
 for name in ['V08_YENI_BLOK_SATIR_INCELEME.csv','V08_YENI_DEGISIKLIKLER.csv','SATIR_BAZLI_INCELEME_KUMULATIF.csv','TUM_10676_SATIR_DURUMU.csv','INCELEME_DEGISIKLIKLERI.csv','INCELEME_SON_DURUM_ESSIZ.csv','V08_YENI_DEGISIKLIK_UZUNLUK_UYARILARI.csv','ROUNDTRIP_DOGRULAMA.txt']:
     shutil.copy2(OUTROOT/name,rap/name)
 # README + manifest
 reviewed=sum(1 for r in master if r['review_status']!='BEKLİYOR'); same=sum(1 for r in master if r['decision']=='AYNI KALDI'); changed=sum(1 for r in master if r['decision']=='DEĞİŞTİ')
-readme=f'''Sushi Striker Türkçe yama v0.8\n\nBu paket şunları içerir:\n- LayeredFS/00040000001C1D00: yeniden enjekte edilmiş tam yama\n- CSV/: 243 MSBT için, DEU/ENG/ESP/FRA/ITA/NLD/TUR sütunlu CSV'ler\n- Araclar/: CSV <-> MSBT aracı ve inceleme betikleri\n- Raporlar/: satır bazlı karar/gerekçe ve değişiklik geçmişi\n\nİnceleme durumu\n- Toplam satır: {len(master)}\n- Karar verilen: {reviewed}\n- BEKLİYOR: {sum(1 for r in master if r['review_status']=='BEKLİYOR')}\n- Master raporda DEĞİŞTİ: {changed}\n- Master raporda AYNI KALDI: {same}\n- v0.8 yeni blok raporu: {len(new_audit)} satır\n- v0.8 metin müdahalesi: {len(changes)}\n- Round-trip farkı: {len(diffs)}\n- >48 görünür karakter uyarısı (v0.8 değişiklikleri): {len(warn)}\n\nNot: Her incelenen satırın neden değiştiği veya neden aynı kaldığı Raporlar/SATIR_BAZLI_INCELEME_KUMULATIF.csv ve TUM_10676_SATIR_DURUMU.csv içinde kayıtlıdır.\n'''
+readme=f'''Sushi Striker Türkçe yama v0.8\n\nBu paket şunları içerir:\n- LayeredFS/00040000001C1D00: yeniden enjekte edilmiş tam yama\n- ceviri/: 243 MSBT için, DEU/ENG/ESP/FRA/ITA/NLD/TUR sütunlu CSV'ler\n- araclar/: CSV <-> MSBT aracı ve inceleme betikleri\n- Raporlar/: satır bazlı karar/gerekçe ve değişiklik geçmişi\n\nİnceleme durumu\n- Toplam satır: {len(master)}\n- Karar verilen: {reviewed}\n- BEKLİYOR: {sum(1 for r in master if r['review_status']=='BEKLİYOR')}\n- Master raporda DEĞİŞTİ: {changed}\n- Master raporda AYNI KALDI: {same}\n- v0.8 yeni blok raporu: {len(new_audit)} satır\n- v0.8 metin müdahalesi: {len(changes)}\n- Round-trip farkı: {len(diffs)}\n- >48 görünür karakter uyarısı (v0.8 değişiklikleri): {len(warn)}\n\nNot: Her incelenen satırın neden değiştiği veya neden aynı kaldığı Raporlar/SATIR_BAZLI_INCELEME_KUMULATIF.csv ve TUM_10676_SATIR_DURUMU.csv içinde kayıtlıdır.\n'''
 (bundle/'README_TR.txt').write_text(readme,encoding='utf-8')
 manifest=[]
 for p in sorted(bundle.rglob('*')):

@@ -8,7 +8,7 @@ OUTROOT=ROOT/'review_v10'
 OUT=OUTROOT/'csv'
 SOURCE=ROOT/'review_v09_source'/'msgstudio'
 PATCH_BASE=PREV/'rebuilt_title'
-TOOL=PREV/'Araclar'/'sushi_msbt_csv_flat.py'
+TOOL=PREV/'araclar'/'sushi_msbt_csv_flat.py'
 PREV_MASTER=PREV/'TUM_10676_SATIR_DURUMU.csv'
 PREV_AUDIT=PREV/'SATIR_BAZLI_INCELEME_KUMULATIF.csv'
 PREV_CHANGES=PREV/'INCELEME_DEGISIKLIKLERI.csv'
@@ -337,8 +337,8 @@ for pp in OUT.glob('*.csv'):
 writecsv(OUTROOT/'ROUNDTRIP_FARKLARI.csv',['file','label','expected','actual'],diffs)
 
 # Copy tools now; validator written externally / copied by build caller if present.
-arac=OUTROOT/'Araclar'; arac.mkdir()
-for pp in (PREV/'Araclar').glob('*.py'): shutil.copy2(pp,arac/pp.name)
+arac=OUTROOT/'araclar'; arac.mkdir()
+for pp in (PREV/'araclar').glob('*.py'): shutil.copy2(pp,arac/pp.name)
 shutil.copy2(Path(__file__),arac/'v10_derin_kalite_teknik_gecis.py')
 validator_src=ROOT/'msbt_technical_validator.py'
 if validator_src.exists(): shutil.copy2(validator_src,arac/'msbt_technical_validator.py')
@@ -346,8 +346,8 @@ for pp in arac.glob('*.py'): py_compile.compile(str(pp),doraise=True)
 
 # Bundle first, technical validator will be run after zips are made.
 bundle=OUTROOT/'bundle'; bundle.mkdir()
-shutil.copytree(OUT,bundle/'CSV')
-shutil.copytree(arac,bundle/'Araclar')
+shutil.copytree(OUT,bundle/'ceviri')
+shutil.copytree(arac,bundle/'araclar')
 shutil.copytree(rebuilt,bundle/'LayeredFS'/'00040000001C1D00')
 rap=bundle/'Raporlar'; rap.mkdir()
 for name in ['V10_DERIN_KALITE_VE_TEKNIK_INCELEME.csv','V10_YENI_DEGISIKLIKLER.csv','V10_YENI_DEGISIKLIK_UZUNLUK_UYARILARI.csv',
@@ -358,8 +358,8 @@ readme=f'''Sushi Striker Türkçe yama v0.10 — derin kalite + teknik bütünl�
 
 İçerik:
 - LayeredFS/00040000001C1D00/: yeniden enjekte edilmiş tam yama
-- CSV/: 243 MSBT için DEU/ENG/ESP/FRA/ITA/NLD/TUR sütunlu CSV'ler
-- Araclar/: CSV↔MSBT aracı, önceki uygulama betikleri, v0.10 uygulama betiği ve bağımsız teknik doğrulayıcı
+- ceviri/: 243 MSBT için DEU/ENG/ESP/FRA/ITA/NLD/TUR sütunlu CSV'ler
+- araclar/: CSV↔MSBT aracı, önceki uygulama betikleri, v0.10 uygulama betiği ve bağımsız teknik doğrulayıcı
 - Raporlar/: 10.676 satır master raporu, v0.10 değişiklikleri, teknik doğrulama ve kümülatif raporlar
 
 v0.10 özellikle round-trip testinin yakalayamadığı kontrol-kodu bozulmalarını düzeltir:
@@ -393,7 +393,7 @@ if (arac/'msbt_technical_validator.py').exists():
     shutil.copy2(tech_report,rap/tech_report.name); shutil.copy2(tech_txt,rap/tech_txt.name)
 
 # Add roundtrip summary.
-summary=(f'CSV/MSBT dosyaları: {len(list(OUT.glob("*.csv")))}\nToplam etiket: {total}\n'
+summary=(f'ceviri/MSBT dosyaları: {len(list(OUT.glob("*.csv")))}\nToplam etiket: {total}\n'
          f'v0.10 değişen satır: {len(changes)}\nv0.10 yeniden gerekçelendirilen satır: {len(review_rows)}\n'
          f'CSV→MSBT→CSV farkı: {len(diffs)}\nYeni değişiklik uzun satır uyarısı (>48): {len(warn)}\n')
 (OUTROOT/'ROUNDTRIP_DOGRULAMA.txt').write_text(summary,encoding='utf-8'); shutil.copy2(OUTROOT/'ROUNDTRIP_DOGRULAMA.txt',rap/'ROUNDTRIP_DOGRULAMA.txt')

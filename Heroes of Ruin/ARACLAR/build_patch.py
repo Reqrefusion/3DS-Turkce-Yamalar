@@ -26,8 +26,8 @@ def main() -> None:
     here = Path(__file__).resolve().parent
     root = here.parent
     ap = argparse.ArgumentParser(description='Heroes of Ruin Turkce yama paketleyici')
-    ap.add_argument('--translations', default=str(root / 'CEVIRI' / 'translation_multilang'))
-    ap.add_argument('--font', default=str(root / 'FONT' / 'demo_font_orijinal.bcfnt_'))
+    ap.add_argument('--translations', default=str(root / 'ceviri' / 'translation_multilang'))
+    ap.add_argument('--font', default=str(root / 'varliklar/fontlar' / 'demo_font_orijinal.bcfnt_'))
     ap.add_argument('--output', default=str(root / 'YAMA_YENIDEN_OLUSTURULDU'))
     ap.add_argument('--input-format', choices=['csv','json'], default='csv')
     ap.add_argument('--slot', default='_UK', help='Turkce ile degistirilecek dil klasoru; varsayilan _UK')

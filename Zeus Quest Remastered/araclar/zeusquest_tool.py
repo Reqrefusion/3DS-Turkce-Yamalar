@@ -194,7 +194,7 @@ def extract(args):
     with getzip(Path(args.game)) as z:
         strings,_=metadata_read(z.read(METADATA))
         for lang in LANGS:
-            write_csv(dest/'ceviriler'/f'{lang}_TR.csv',FIELDNAMES,source_lang_rows(strings,lang))
+            write_csv(dest/'ceviri'/f'{lang}_TR.csv',FIELDNAMES,source_lang_rows(strings,lang))
         print('Metadata dili satırları:',{k:b-a for k,(a,b) in LANGS.items()})
         # Combined file: Each column has its own exact metadata index and ordinal.
         # Blocks differ due to literal deduplication; correspondence IS NOT guaranteed.
@@ -207,14 +207,14 @@ def extract(args):
                     r[f'{lang}_index']=start+ordinal;r[lang]=strings[start+ordinal]
                 else:r[f'{lang}_index']='';r[lang]=''
             merged.append(r)
-        write_csv(dest/'ceviriler'/'DILLER_YAN_YANA_KARSILASTIRMA.csv',
+        write_csv(dest/'ceviri'/'DILLER_YAN_YANA_KARSILASTIRMA.csv',
                   ['sira','hizalama',*[x for lang in LANGS for x in (lang+'_index',lang)],'turkce'],merged)
         uimaster=[]
         for name in z.namelist():
             if name.startswith('romfs/Data/') and (name.rsplit('/',1)[-1].startswith('level') or name.endswith('.assets')):
                 try:uimaster.extend(scene_ui(z.read(name),name))
                 except ValueError:continue
-        write_csv(dest/'ceviriler'/'UI_EN_TR.csv',UIFIELDS,uimaster)
+        write_csv(dest/'ceviri'/'UI_EN_TR.csv',UIFIELDS,uimaster)
         font=bitmap_coverage(z)
         if font:
             obj,glyphs=font;present=set(glyphs)

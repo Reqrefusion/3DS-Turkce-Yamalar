@@ -5,10 +5,10 @@ import sf4_tr_tool as sf4
 
 ROOT=Path(__file__).resolve().parent.parent
 HERE=Path(__file__).resolve().parent
-FOLDER=ROOT/'CALISMA_ALANI/images/_GUI/_id/_title/title008.arc'
+FOLDER=ROOT/'calisma/images/_GUI/_id/_title/title008.arc'
 TARGET=next(FOLDER.glob('*.tur.png'))
-ARC=ROOT/'YAMA/_eng/_GUI/_id/_title/title008.arc'
-CLEAN=ROOT/'CALISMA_ALANI/temiz_zeminler/title008_textless.png'
+ARC=ROOT/'0004000000033C00/romfs/_eng/_GUI/_id/_title/title008.arc'
+CLEAN=ROOT/'calisma/temiz_zeminler/title008_textless.png'
 
 def rebuild():
     image=Image.open(CLEAN).convert('RGBA').resize((1024,512),Image.Resampling.NEAREST)

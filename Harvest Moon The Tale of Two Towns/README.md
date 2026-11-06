@@ -1,22 +1,27 @@
-# Harvest Moon TR FINAL v16 - Width Fit
-
-Bu paket metin düzeltmelerinin yanında resim tabanlı yazıları orijinal sprite/texture boyutlarına göre yeniden kontrol eder.
-
-## Grafik yerleşim düzeltmeleri
-- Klavye düğmeleri orijinal yazı yüksekliği ve dikey merkezine göre yeniden çizildi: `B GERİ`, `Y ONAY`, `X SİL`.
-- `console_obj_data` içindeki tüm Türkçe resim etiketleri sabit sprite boyutunu değiştirmeden, orijinal yazının dikey metriklerine göre yeniden yerleştirildi.
-- Yeni Türkçe yazının orijinalde olmayan bir kenara değmesi/taşması otomatik kontrolde sıfırlandı.
-- `Kaydediliyor. Lütfen bekle...` görselinde kaybolan siyah arka plan geri getirildi.
-- CEC `Teslim` düğmesindeki düz renkli dikdörtgen yama kaldırılıp ahşap zeminle yumuşak biçimde birleştirildi.
-- Diğer değiştirilmiş DARC/BCLIM ve CTPK görsellerinin genişlik/yükseklik/format değerleri orijinalle karşılaştırıldı; görüntü boyutları değiştirilmedi.
-- Kısa Türkçe kelimeler (`Başla!`, `Bitiş!` vb.) sırf İngilizceden daha kısa diye gereksiz yere genişletilmedi; yalnız gerçek kesilme/taşma/yerleşim hataları düzeltildi.
+# Harvest Moon The Tale of Two Towns Türkçe yama
 
 ## Kurulum
-Eski `/luma/titles/000400000007A300/` klasörünü tamamen silin ve paketteki `luma` klasörünü SD kart köküne kopyalayın.
 
+Oyununuzun Title ID değeriyle eşleşen kök klasörü `sd:/luma/titles/` içine kopyalayın. Luma3DS ayarlarında **Enable game patching** açık olmalıdır. Mevcut yamanızı önce yedekleyin.
 
-## v16 yatay yerleşim taraması
-- Tüm değiştirilen resim yazıları soldan/sağdan taşma ve yatay boşluk açısından tekrar denetlendi.
-- Klavye `GERİ / ONAY / SİL` etiketlerinde önceki doğrulanmış yükseklik korunup yalnız yatay doluluk düzeltildi.
-- Klavye yazıları orijinal Back/Register/Delete genişliğinin yaklaşık %90'ını hedefler; her iki yanda güvenli piksel boşluğu bırakılır.
-- Diğer kısa Türkçe etiketler (ör. `Al`, `Yaz`, `Kış`) sırf İngilizce karşılığı daha geniş diye yapay biçimde uzatılmadı; merkezleme ve sınır güvenliği korundu.
+- `000400000007A300/` → `sd:/luma/titles/000400000007A300/`
+
+## Çalışma dosyaları
+
+Düzenleme kaynağı: `ceviri/mes_data.csv` ve `ceviri/event_mes_data.csv`.
+
+Araç girişi: `araclar/build_final.py`. Komutları oyun klasöründe çalıştırın.
+
+Kaynak ROM ZIP dosyası ve özel karakter haritası kullanılır. Üretimden önce girdileri ve çevirileri yedekleyin; mesaj kapasitesini ve kontrol kodlarını koruyun.
+
+## Klasörler
+
+- `ceviri/`: Düzenlenecek çeviri verileri.
+- `araclar/`: Üretim, düzenleme ve doğrulama araçları.
+- `belgeler/`: Kullanım ve teknik açıklamalar.
+
+## Açıklamalar
+
+- [Kullanım ve teknik notlar 1](belgeler/kullanim_notlari.md)
+
+Kurulum ve çeviri dosyalarının içerikleri klasör düzenlemesi sırasında korunmuştur. Teknik denetim ile gerçek cihazdaki görünüm ayrı değerlendirilmelidir.
