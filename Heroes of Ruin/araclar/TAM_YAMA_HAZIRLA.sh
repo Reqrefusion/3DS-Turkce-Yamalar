@@ -1,2 +1,3 @@
 #!/bin/sh
-python3 araclar/tam_yama_hazirla.py "$1"
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd) || exit 1
+python3 "$SCRIPT_DIR/tam_yama_hazirla.py" "$1"

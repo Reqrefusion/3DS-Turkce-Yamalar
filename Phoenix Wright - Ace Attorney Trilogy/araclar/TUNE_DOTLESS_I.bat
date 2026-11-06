@@ -1,5 +1,6 @@
 @echo off
 setlocal
+cd /d "%~dp0.."
 if "%~1"=="" (
   echo Kullanim: TUNE_DOTLESS_I.bat 1 ^| 2 ^| 3
   echo Orijinal decrypted/uncompressed code.bin dosyasini input\code.bin konumuna koyun.

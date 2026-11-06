@@ -190,5 +190,6 @@ class App:
 
 if __name__=='__main__':
     root=tk.Tk(); root.geometry('1540x760')
-    default=sys.argv[1] if len(sys.argv)>1 else ('translations_tr.tsv' if Path('translations_tr.tsv').exists() else None)
+    default_path=Path(__file__).resolve().parents[2]/'ceviri'/'translations_tr.tsv'
+    default=sys.argv[1] if len(sys.argv)>1 else (str(default_path) if default_path.is_file() else None)
     App(root,default); root.mainloop()
