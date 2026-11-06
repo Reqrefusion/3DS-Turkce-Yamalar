@@ -366,7 +366,7 @@ with first.open(encoding='utf-8-sig',newline='') as f:
 replacements={
 ('Announce.ttb',2):'KÂBUS MODU açıldı!',
 ('Announce.ttb',3):'NİHAİ MOD açıldı!',
-('Announce.ttb',5):'PATRON SERİSİ MODU açıldı!',
+('Announce.ttb',5):'BOSS SERİSİ MODU açıldı!',
 ('GameOver.ttb',4):'<emoji/Decide> RAHAT stile geç ve oyuna dön.',
 ('GameOver.ttb',8):'RAHAT stile geçmek istiyor musunuz?\n\n*Stil, bir oyun dosyası yüklenirken\ndeğiştirilebilir.',
 ('Option.ttb',31):'↑＋SALDIRI ile alt silah kullanımını etkinleştirir',
@@ -376,7 +376,7 @@ replacements={
 for (fn,i),v in replacements.items(): patches[fn][i]=v
 # Staff roll role labels: names/titles of games/company remain proper nouns.
 roles={
-'Scenario Supervisor':'Senaryo Sorumlusu','English Localization Director':'İngilizce Yerelleştirme Direktörü','Sound Engineer':'Ses Mühendisi','Director':'Yönetmen','Music':'Müzik','Programmer':'Programcı','Background Graphics':'Arka Plan Grafikleri','Sound Director':'Ses Direktörü','UI Designer':'Arayüz Tasarımcısı','QC':'Kalite Kontrol','Lead Character Graphics':'Baş Karakter Grafikçisi','Planner':'Planlama','Special Thanks':'Özel Teşekkürler','Sound Effects':'Ses Efektleri','Sound Producer':'Ses Yapımcısı','All INTI staff':'Tüm INTI çalışanları','Producer':'Yapımcı','Lead Programmer':'Baş Programcı','Lead Background Graphics':'Baş Arka Plan Grafikçisi','Character Graphics':'Karakter Grafikleri','Lead UI Graphics':'Baş Arayüz Grafikçisi','PR':'Halkla İlişkiler','ALL RIGHTS RESERVED.':'TÜM HAKLARI SAKLIDIR.'}
+'Scenario Supervisor':'Senaryo Sorumlusu','English Localization Director':'İngilizce Yerelleştirme Direktörü','Sound Engineer':'Ses Mühendisi','Director':'Yönetmen','Music':'Müzik','Programmer':'Programcı','Background Graphics':'Arka Plan Grafikleri','Sound Director':'Ses Direktörü','UI Designer':'Arayüz Tasarımcısı','QC':'Kalite Kontrol','Lead Character Graphics':'Baş Karakter Grafikleri','Planner':'Planlama','Special Thanks':'Özel Teşekkürler','Sound Effects':'Ses Efektleri','Sound Producer':'Ses Yapımcısı','All INTI staff':'Tüm INTI çalışanları','Producer':'Yapımcı','Lead Programmer':'Baş Programcı','Lead Background Graphics':'Baş Arka Plan Grafikleri','Character Graphics':'Karakter Grafikleri','Lead UI Graphics':'Baş Arayüz Grafikleri','PR':'Halkla İlişkiler','ALL RIGHTS RESERVED.':'TÜM HAKLARI SAKLIDIR.'}
 st=load_ttb(ROM/'StaffRoll.ttb')
 for i in range(len(st.records)):
     s=st.text_for_record(i)

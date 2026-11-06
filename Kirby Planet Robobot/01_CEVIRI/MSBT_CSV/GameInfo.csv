@@ -9,14 +9,14 @@ habilidad⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005E00⟧ノウ
 Ability","⟦MSBT:0E000000020002005F00⟧Abandon
 pouvoir⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005500⟧Soltar
 habilidad⟦MSBT:0E000000020002006400⟧","Gücü
-Bırak",
-1,PauseButtonTitle,Pause,Pause,Pause,Pausa,Pausa,ポーズ,Pause,Pause,Pausa,Mola,
+Bırak",Ability Drop menü komutu “Gücü Bırak” olarak anlaşılır.
+1,PauseButtonTitle,Pause,Pause,Pause,Pausa,Pausa,ポーズ,Pause,Pause,Pausa,Mola,Pause düğmesinin kısa karşılığı “Mola” doğru.
 2,TiltResetButtonTitle,⟦MSBT:0E000000020002006200⟧Reset Tilt⟦MSBT:0E000000020002006400⟧,"⟦MSBT:0E000000020002005500⟧Réinit.⟦MSBT:0E000000020002006400⟧
 ⟦MSBT:0E000000020002005500⟧inclinaison⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002004F00⟧Reset der
 Kippfunkt.⟦MSBT:0E000000020002006400⟧",⟦MSBT:0E000000020002005D00⟧Reimposta⟦MSBT:0E000000020002006400⟧,Restaurar,"かたむき
 リセット",⟦MSBT:0E000000020002006200⟧Reset Tilt⟦MSBT:0E000000020002006400⟧,"⟦MSBT:0E000000020002005500⟧Réinit.⟦MSBT:0E000000020002006400⟧
 ⟦MSBT:0E000000020002005500⟧inclinaison⟦MSBT:0E000000020002006400⟧",Restaurar,"Eğimi
-Sıfırla",
+Sıfırla",Ekran eğimini sıfırlama komutu doğru.
 3,GuideBoardFirstIcCube,"This item contains ⟦MSBT:0E00000003000400FF4600FF⟧code⟦MSBT:0E00000003000400000000FF⟧
 that will ⟦MSBT:0E00000003000400FF4600FF⟧unlock the barrier
 ⟦MSBT:0E00000003000400000000FF⟧leading to the boss!","⟦MSBT:0E000000020002005A00⟧Les ⟦MSBT:0E00000003000400FF4600FF⟧données⟦MSBT:0E00000003000400000000FF⟧ contenues dans
@@ -35,8 +35,8 @@ cet objet ⟦MSBT:0E00000003000400FF4600FF⟧permettent l'accès
 ⟦MSBT:0E00000003000400000000FF⟧à la porte du boss!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005A00⟧¡Los cibercubos permiten
 ⟦MSBT:0E000000020002005A00⟧⟦MSBT:0E00000003000400FF4600FF⟧desactivar⟦MSBT:0E00000003000400000000FF⟧⟦MSBT:0E000000020002005A00⟧ la ⟦MSBT:0E00000003000400FF4600FF⟧barrera
 digital ⟦MSBT:0E00000003000400000000FF⟧que rodea al jefe!⟦MSBT:0E000000020002006400⟧","Bu eşya, patrona giden
-⟦MSBT:0E00000003000400FF4600FF⟧engeli açacak⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF4600FF⟧kodu⟦MSBT:0E00000003000400000000FF⟧ içerir!",
-4,AssistStarWindowItemTitle,Bandana Waddle Dee,Bandana Waddle Dee,Waddle-Dee-Assistent,Waddle Dee aiutante,Waddle Dee pañuelo,バンダナワドルディが アイテムをくれる！,Bandana Waddle Dee,Bandana Waddle Dee,Waddle Dee pañuelo,Bandanalı Waddle Dee,
+⟦MSBT:0E00000003000400FF4600FF⟧engeli açacak⟦MSBT:0E00000003000400000000FF⟧ ⟦MSBT:0E00000003000400FF4600FF⟧kodu⟦MSBT:0E00000003000400000000FF⟧ içerir!",Eşyanın patrona giden bariyeri açan kod içerdiği açık; biçim vurguları korunuyor.
+4,AssistStarWindowItemTitle,Bandana Waddle Dee,Bandana Waddle Dee,Waddle-Dee-Assistent,Waddle Dee aiutante,Waddle Dee pañuelo,バンダナワドルディが アイテムをくれる！,Bandana Waddle Dee,Bandana Waddle Dee,Waddle Dee pañuelo,Bandanalı Waddle Dee,"Bandana Waddle Dee adı, diğer oyun metinlerindeki yerelleştirmeyle tutarlı."
 5,AssistStarWindowItemText,"⟦MSBT:0E000000020002005500⟧Waddle Dee's items can turn
 into ⟦MSBT:0E00000003000400FFDE00FF⟧something ⟦MSBT:0E000000020002005500⟧better ⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400000000FF⟧via
 ⟦MSBT:0E00000003000400FFDE00FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ or other means.⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005500⟧Waddle Dee peut vous offrir
@@ -57,8 +57,8 @@ de ⟦MSBT:0E00000003000400FFDE00FF⟧meilleurs objets ⟦MSBT:0E000000030004000
 pueden ser ⟦MSBT:0E00000003000400FFDE00FF⟧aún mejores⟦MSBT:0E00000003000400000000FF⟧ gracias
 a funciones como ⟦MSBT:0E00000003000400FFDE00FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧!⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E000000020002005500⟧Waddle Dee'nin eşyaları
 ⟦MSBT:0E00000003000400FFDE00FF⟧StreetPass⟦MSBT:0E00000003000400000000FF⟧ gibi yollarla
-⟦MSBT:0E00000003000400FFDE00FF⟧daha iyi eşyalara⟦MSBT:0E00000003000400000000FF⟧ dönüşebilir.⟦MSBT:0E000000020002006400⟧",
-6,AssistStarWindowTouchTitle,Helper Item: Assist Star!,Objet S.O.S. : étoile assistance,Hilfsitem: Hilfsvitalstern,Oggetto utile: stella aiuto!,¡Estrella de ayuda!,おたすけアイテム アシストスター！,Helper Item: Assist Star!,Objet S.O.S. : étoile assistance,¡Estrella de ayuda!,Yardım Yıldızı!,
+⟦MSBT:0E00000003000400FFDE00FF⟧daha iyi eşyalara⟦MSBT:0E00000003000400000000FF⟧ dönüşebilir.⟦MSBT:0E000000020002006400⟧",Waddle Dee eşyalarının StreetPass veya başka yollarla daha iyi eşyalara dönüşmesi doğru.
+6,AssistStarWindowTouchTitle,Helper Item: Assist Star!,Objet S.O.S. : étoile assistance,Hilfsitem: Hilfsvitalstern,Oggetto utile: stella aiuto!,¡Estrella de ayuda!,おたすけアイテム アシストスター！,Helper Item: Assist Star!,Objet S.O.S. : étoile assistance,¡Estrella de ayuda!,Yardımcı Eşya: Yardım Yıldızı!,Yardımcı eşyanın türü ve Assist Star adı başlıkta belirtildi.
 7,AssistStarWindowTouchText,"⟦MSBT:0E00000003000400FFDE00FF⟧Touch⟦MSBT:0E00000003000400000000FF⟧ the ⟦MSBT:0E00000003000400FFDE00FF⟧Assist Star
 ⟦MSBT:0E00000003000400000000FF⟧on the lower screen or
 press ⟦MSBT:0E00010003000000⟧ to use it!","⟦MSBT:0E000000020002005500⟧⟦MSBT:0E00000003000400FFDE00FF⟧Touchez⟦MSBT:0E00000003000400000000FF⟧ l'⟦MSBT:0E00000003000400FFDE00FF⟧étoile assistance
@@ -77,63 +77,64 @@ press ⟦MSBT:0E00010003000000⟧ to use the
 ⟦MSBT:0E00000003000400000000FF⟧sur l'écran tactile, ou appuyez
 sur ⟦MSBT:0E00010003000000⟧  pour l'utiliser .⟦MSBT:0E000000020002006400⟧","⟦MSBT:0E00000003000400FFDE00FF⟧Toca⟦MSBT:0E00000003000400000000FF⟧ la ⟦MSBT:0E00000003000400FFDE00FF⟧estrella de ayuda⟦MSBT:0E00000003000400000000FF⟧
 en la pantalla inferior u
-oprime ⟦MSBT:0E00010003000000⟧  para usarla.","⟦MSBT:0E000000020002005A00⟧Alt ekranda ⟦MSBT:0E00000003000400FFDE00FF⟧dokun⟦MSBT:0E00000003000400000000FF⟧ ya da
-⟦MSBT:0E00010003000000⟧'a basarak kullan!⟦MSBT:0E000000020002006400⟧",
-8,ArmorActionTwist,Use,⟦MSBT:0E000000020002005500⟧Utiliser⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Aktion⟦MSBT:0E000000020002006400⟧,Usa,Usar,はめる,Insert,⟦MSBT:0E000000020002005500⟧Utiliser⟦MSBT:0E000000020002006400⟧,Usar,⟦MSBT:0E000000020002005A00⟧Kullan⟦MSBT:0E000000020002006400⟧,
-9,ArmorActionRide,Enter,⟦MSBT:0E000000020002005F00⟧Entrer⟦MSBT:0E000000020002006400⟧,Rein!,Entra,⟦MSBT:0E000000020002005500⟧Montar⟦MSBT:0E000000020002006400⟧,のる,Enter,⟦MSBT:0E000000020002005F00⟧Entrer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002004F00⟧Abordar⟦MSBT:0E000000020002006400⟧,Bin,
-10,ArmorActionGetOff,Exit,Sortir,Raus!,Esci,Bajar,おりる,Exit,Sortir,Bajar,Çık,
-11,ArmorActionLift,Hold,⟦MSBT:0E000000020002005F00⟧Porter⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Heben⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Prendi⟦MSBT:0E000000020002006400⟧,Coger,もつ,Hold,⟦MSBT:0E000000020002005F00⟧Porter⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005300⟧Agarrar⟦MSBT:0E000000020002006400⟧,Tut,
-12,ArmorActionPutOff,⟦MSBT:0E000000020002005A00⟧Let Go⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Lâcher⟦MSBT:0E000000020002006400⟧,Lösen,⟦MSBT:0E000000020002005500⟧Lascia⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Soltar⟦MSBT:0E000000020002006400⟧,はずす,⟦MSBT:0E000000020002005A00⟧Let Go⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Lâcher⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Soltar⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Bırak⟦MSBT:0E000000020002006400⟧,
-13,BossNameBlocky,Blocky,Blocky,Blocky,Blocky,Blocky,ブロッキー,Blocky,Blocky,Blocky,Blocky,
-14,BossNameBlockyEx,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,Re:ブロッキー,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,
-15,BossNameBonkers,Bonkers,Bonkers,Bonkers,Bonkers,Bonkers,ボンカース,Bonkers,Bonkers,Bonkers,Bonkers,
-16,BossNameBonkersEx,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Re:ボンカース,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,
-17,BossNameDubior,Dubior,Dubior,Dubior,Dubior,Dubior,ドゥビア,Dubior,Dubior,Dubior,Dubior,
-18,BossNameDubiorEx,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,Re:ドゥビア,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,
-19,BossNameKingsdoo,King Doo,Roi Doo,König Glubsch,Re Doo,Rey Doo,キングスドゥ,King Doo,Roi Doo,Rey Doo,Kral Doo,
-20,BossNameKingsdooEx,King Doo 2.0,Roi Doo 2.0,König Glubsch 2.0,Re Doo 2.0,Rey Doo 2.0,Re:キングスドゥ,King Doo 2.0,Roi Doo 2.0,Rey Doo 2.0,Kral Doo 2.0,
-21,BossNamePoisonboros,Miasmoros,Miasmoros,Toxiboros,Miasmoros,Hedoamo,ポイズンボロス,Miasmoros,Miasmoros,Hedoamo,Zehirboros,
-22,BossNamePoisonborosEx,Miasmoros 2.0,Miasmoros 2.0,Toxiboros 2.0,Miasmoros 2.0,Hedoamo 2.0,Re:ポイズンボロス,Miasmoros 2.0,Miasmoros 2.0,Hedoamo 2.0,Zehirboros 2.0,
-23,BossNameWhispyborg,Clanky Woods,Méca-Whispy,Cyber-Whispy,Whispyborg,Whispyborg,ウィスピーボーグ,Clanky Woods,Méca-Whispy,Whispyborg,Meka Whispy,
-24,BossNameWhispyborgEx,Clanky Woods 2.0,Méca-Whispy 2.0,Cyber-Whispy 2.0,Whispyborg 2.0,Whispyborg 2.0,Re:ウィスピーボーグ,Clanky Woods 2.0,Méca-Whispy 2.0,Whispyborg 2.0,Meka Whispy 2.0,
-25,BossNameHolokracko,Holo-Kracko,Holo-Kracko,Holo-Kracko,Olo-Kracko,Holokracko,ホロ・クラッコ,Holo-Kracko,Holo-Kracko,Holokracko,Holo-Kracko,
-26,BossNameHolokrackoEx,Holo-Kracko 2.0,Holo-Kracko 2.0,Holo-Kracko 2.0,Olo-Kracko 2.0,Holokracko 2.0,Re:ホロ・クラッコ,Holo-Kracko 2.0,Holo-Kracko 2.0,Holokracko 2.0,Holo-Kracko 2.0,
-27,BossNameHolospherelowpers,Holo-Doomers,Holo-Chimair,Holo-Spuk,Olo-Fenix,Holoespectros,ホロ・ローパーズ,Holo-Doomers,Holo-Chimair,Holoesfespectros,Holo-Hayaletler,
-28,BossNameHolospherelowpersEx,Holo-Doomers 2.0,Holo-Chimair 2.0,Holo-Spuk 2.0,Olo-Fenix 2.0,Holoespectros 2.0,Re:ホロ・ローパーズ,Holo-Doomers 2.0,Holo-Chimair 2.0,Holoesfespectros 2.0,Holo-Hayaletler 2.0,
-29,BossNameHoloicedragon,Holo-Ice Dragon,Holo-Dragon de glace,Holo-Ice Dragon,Olo-Ice Dragon,Holo Ice Dragon,ホロ・アイスドラゴン,Holo-Ice Dragon,Holo-Dragon de glace,Holodragón de hielo,Holo-Buz Ejderi,
-30,BossNameHoloicedragonEx,Holo-Ice Dragon 2.0,Holo-Dragon de glace 2.0,Holo-Ice Dragon 2.0,Olo-Ice Dragon 2.0,Holo Ice Dragon 2.0,Re:ホロ・アイスドラゴン,Holo-Ice Dragon 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Dragon de glace 2.0⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Holodragón de hielo 2.0⟦MSBT:0E000000020002006400⟧,Holo-Buz Ejderi 2.0,
-31,BossNameHologaraga,Holo-Coily Rattler,Holo-Krotal,⟦MSBT:0E000000020002005A00⟧Holo-Klapperschlängler⟦MSBT:0E000000020002006400⟧,Olo-Sonaglius,Holocascabel,ホロ・ガラーガ,Holo-Coily Rattler,Holo-Krotal,Holocascabel,Holo-Çıngıraklı,
-32,BossNameHologaragaEx,Holo-Coily Rattler 2.0,Holo-Krotal 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Klappersch. 2.0⟦MSBT:0E000000020002006400⟧,Olo-Sonaglius 2.0,Holocascabel 2.0,Re:ホロ・ガラーガ,Holo-Coily Rattler 2.0,Holo-Krotal 2.0,Holocascabel 2.0,Holo-Çıngıraklı 2.0,
-33,BossNameZankibble,Kibble Blade,Seigneur Hache,Ritter Rammkamm,Ser de' Zac,Gladiosharpe,ザンキブル,Kibble Blade,Seigneur Hache,Gladiosharpe,Kibble Kılıcı,
-34,BossNameZankibbleEx,Kibble Blade 2.0,Seigneur Hache 2.0,⟦MSBT:0E000000020002005A00⟧Ritter Rammkamm 2.0⟦MSBT:0E000000020002006400⟧,Ser de' Zac 2.0,Gladiosharpe 2.0,Re:ザンキブル,Kibble Blade 2.0,Seigneur Hache 2.0,Gladiosharpe 2.0,Kibble Kılıcı 2.0,
-35,BossNameArmorSpanner,Invader Armour,Armure de combat,Invasorenpanzer,Armatura d'assalto,Armadura invasora,インベードアーマー,Invader Armor,Armure invasion,Armadura invasora,İstilacı Zırhı,
-36,BossNameScrewRoboGiant,Gigavolt,Gigavolt,Gigavolt,Gigavolt,Gigavolt,⟦MSBT:0E000000020002006400⟧鉄巨兵ギガヴォルト⟦MSBT:0E000000020002006400⟧,Gigavolt,Gigavolt,Gigavolt,Gigavolt,
-37,BossNameScrewRoboGiant2,Gigavolt II,Gigavolt II,Gigavolt II,Gigavolt+,Gigavolt II,鉄巨兵ギガヴォルト2,Gigavolt II,Gigavolt II,Gigavolt II,Gigavolt II,
-38,BossNameHolographSystemCore,Holo Defence API,Holo-défense,⟦MSBT:0E000000020002005A00⟧Holo-Defensiv.sys⟦MSBT:0E000000020002006400⟧,Firewall olografico,Holodefensor,ホログラフ防衛システムズ,Holo Defense API,Holo-défense,Holodefensor,Holo Savunma,
-39,BossNameHolographSystemCoreEx,Holo Defence API 2.0,Holo-défense 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Defensiv.sys 2.0⟦MSBT:0E000000020002006400⟧,Firewall olografico 2.0,Holodefensor 2.0,Re:ホログラフ防衛システムズ,Holo Defense API 2.0,Holo-défense 2.0,Holodefensor 2.0,Holo Savunma 2.0,
-40,BossNameTelepatris,Telepathos,Télépathos,Teleporterling,Telepathos,Telepathos,テレパトリス,Telepathos,Télépathos,Telepathos,Telepatos,
-41,BossNameTelepatrisEx,Telepathos 2.0,Télépathos 2.0,Teleporterling 2.0,Telepathos 2.0,Telepathos 2.0,Re:テレパトリス,Telepathos 2.0,Télépathos 2.0,Telepathos 2.0,Telepatos 2.0,
-42,BossNameShootingCannon,C.O.G.S.,Base engrenages,N-Goor-Basis,IngraBase,Base MK,ンギュア基地,C.O.G.S.,Base engrenages,Base MK,Dişli Üssü,
-43,BossNameSusie,Susie,Susie,Susi,Susie,Susi,秘書スージー,Susie,Susie,Susi,Susie,
-44,BossNameSusieEx,Susie 2.0,Susie 2.0,Susi 2.0,Susie 2.0,Susi 2.0,Re:秘書スージー,Susie 2.0,Susie 2.0,Susi 2.0,Susie 2.0,
-45,BossNameMetaknightborg,Mecha Knight,Méca-Knight,Mecha-Knight,Mecha Knight,Meca Knight,メタナイトボーグ,Mecha Knight,Méca-Knight,Meca Knight,Meka Knight,
-46,BossNameMetaknightborgEx,Stock Mecha Knight,Unité Méca-Knight,Mecha-Serie A,Mecha Knight seriale,Modelo Meca Knight,強化量産メタナイトボーグ,Stock Mecha Knight,Unité Méca-Knight,Modelo Meca Knight,Seri Meka Knight,
-47,BossNameMetaknightborgkai,Mecha Knight+,Méca-Knight Ver. 2,⟦MSBT:0E000000020002006400⟧Mecha-Knight+⟦MSBT:0E000000020002006400⟧,Mecha Knight+,Meca Knight +,メタナイトボーグ改,Mecha Knight+,Méca-Knight Ver. 2,Meca Knight +,Meka Knight+,
-48,BossNameClonededede,Dedede Clone,Clone de DaDiDou,Dedede-Klon,Clone di Dedede,Clon Dedede,クローンデデデ,Dedede Clone,Clone de Dadidou,Clon Dedede,Dedede Klonu,
-49,BossNameClonedededeEx,Dedede Clone 2.0,Clone de DaDiDou 2.0,Dedede-Klon 2.0,Clone di Dedede 2.0,Clon Dedede 2.0,Re:クローンデデデ,Dedede Clone 2.0,Clone de Dadidou 2.0,Clon Dedede 2.0,Dedede Klonu 2.0,
-50,BossNameClonedededeWithCannon,Dedede Clones & D3,Clones de DaDiDou & D3,Dedede-Klone & D3,Cloni di Dedede e D3,Clones Dedede y D3,クローンデデデ&D3砲,Dedede Clones & D3,⟦MSBT:0E000000020002005F00⟧Clones de Dadidou & D3⟦MSBT:0E000000020002006400⟧,Clones Dedede y D3,Dedede Klonları & D3,
-51,BossNameClonedededeWithCannonEx,⟦MSBT:0E000000020002005F00⟧Dedede Clones & D3 2.0⟦MSBT:0E000000020002006400⟧,Clones de DaDiDou & D3 2.0,⟦MSBT:0E000000020002005A00⟧Dedede-Klone & D3 2.0⟦MSBT:0E000000020002006400⟧,Cloni di Dedede e D3 2.0,Clones Dedede y D3 2.0,Re:クローンデデデ&D3砲,⟦MSBT:0E000000020002005F00⟧Dedede Clones & D3 2.0⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Clones de Dadidou & D3 2.0⟦MSBT:0E000000020002006400⟧,Clones Dedede y D3 2.0,⟦MSBT:0E000000020002005F00⟧Dedede Klonları & D3 2.0⟦MSBT:0E000000020002006400⟧,
-52,BossNameKaboola,Core Kabula,Noyau Boumbala,Nucleaboola,Kabula Ka-bum,Nucleokabula,コア・カブーラー,Core Kabula,Noyau Boumbala,Nucleokabula,Çekirdek Kabula,
-53,BossNameSecurityservice,Security Force,Drone de sécurité,Security-Drohne,Robosentinella,Vigilante robótico,セキュリティサービス,Security Force,Drone de sécurité,Vigilante robótico,Güvenlik Gücü,
-54,BossNameSecurityserviceEx,Security Force 2.0,Drone de sécurité 2.0,Security-Drohne 2.0,Robosentinella 2.0,Vigilante robótico 2.0,Re:セキュリティサービス,Security Force 2.0,Drone de sécurité 2.0,Vigilante robótico 2.0,Güvenlik Gücü 2.0,
-55,BossNameHartmann,President Haltmann,Président Haltmann,Präsident Haltmann,Presidente Haltmann,Presidente Haltmann,プレジデント・ハルトマン,President Haltmann,Président Haltmann,Presidente Haltmann,Başkan Haltmann,
-56,BossNameHartmannEx,Pres. Haltmann 2.0,Prés. Haltmann 2.0,Präs. Haltmann 2.0,Presidente Haltmann 2.0,Presidente Haltmann 2.0,Re:プレジデント・ハルトマン,Pres. Haltmann 2.0,Prés. Haltmann 2.0,Presidente Haltmann 2.0,Bşk. Haltmann 2.0,
-57,BossNameMothercomputer,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,
-58,BossNameMothercomputerEx,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,
-59,BossNameMothercomputership,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,
-60,BossNameMothercomputershipEx,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,
-61,BossNameMothercomputerScrewBattle,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,
-62,BossNameClonedarkmatter,Dark Matter Clone,Clone de Matière Noire,Dark-Matter-Klon,Clone di Dark Matter,Clon Materia oscura,クローン剣士ダークマター,Dark Matter Clone,Clone de Matière Noire,Clon Materia oscura,Kara Madde Klonu,
-63,BossNameMothercomputersoulcore,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,
-64,BossNameGalacticknight,Galacta Knight Returns,Galacta Knight invoqué,⟦MSBT:0E000000020002005A00⟧Ultra-Knights Rückkehr⟦MSBT:0E000000020002006400⟧,Il ritorno di Galacta Knight,Galacta Knight contrataca,ギャラクティックナイト リターンズ,Galacta Knight Returns,Galacta Knight invoqué,Galacta Knight contrataca,Galacta Knight Dönüyor,
-65,BossNameClonesectnia,Sectonia Clone,Clone de Sectonia,Sectonia-Klon,Clone di Sectonia,Clon Sectonia,クローンセクトニア,Sectonia Clone,Clone de Sectonia,Clon Sectonia,Sectonia Klonu,
+oprime ⟦MSBT:0E00010003000000⟧  para usarla.","Alt ekrandaki ⟦MSBT:0E00000003000400FFDE00FF⟧Yardım Yıldızı'na⟦MSBT:0E00000003000400000000FF⟧
+⟦MSBT:0E00000003000400FFDE00FF⟧dokun⟦MSBT:0E00000003000400000000FF⟧ ya da
+⟦MSBT:0E00010003000000⟧ düğmesine basarak kullan!",Alt ekrandaki Yardım Yıldızı’na dokunma ve düğmeyle kullanma seçenekleri açıklaştırıldı; simge ve vurgu etiketleri korundu.
+8,ArmorActionTwist,Use,⟦MSBT:0E000000020002005500⟧Utiliser⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Aktion⟦MSBT:0E000000020002006400⟧,Usa,Usar,はめる,Insert,⟦MSBT:0E000000020002005500⟧Utiliser⟦MSBT:0E000000020002006400⟧,Usar,⟦MSBT:0E000000020002005A00⟧Kullan⟦MSBT:0E000000020002006400⟧,Zırhı kullanma eylemi kısa menü etiketi olarak doğru.
+9,ArmorActionRide,Enter,⟦MSBT:0E000000020002005F00⟧Entrer⟦MSBT:0E000000020002006400⟧,Rein!,Entra,⟦MSBT:0E000000020002005500⟧Montar⟦MSBT:0E000000020002006400⟧,のる,Enter,⟦MSBT:0E000000020002005F00⟧Entrer⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002004F00⟧Abordar⟦MSBT:0E000000020002006400⟧,Bin,Zırha binme komutu doğru.
+10,ArmorActionGetOff,Exit,Sortir,Raus!,Esci,Bajar,おりる,Exit,Sortir,Bajar,Çık,Zırhtan çıkma komutu doğru.
+11,ArmorActionLift,Hold,⟦MSBT:0E000000020002005F00⟧Porter⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Heben⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Prendi⟦MSBT:0E000000020002006400⟧,Coger,もつ,Hold,⟦MSBT:0E000000020002005F00⟧Porter⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005300⟧Agarrar⟦MSBT:0E000000020002006400⟧,Tut,Tutma eylemi doğru.
+12,ArmorActionPutOff,⟦MSBT:0E000000020002005A00⟧Let Go⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Lâcher⟦MSBT:0E000000020002006400⟧,Lösen,⟦MSBT:0E000000020002005500⟧Lascia⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Soltar⟦MSBT:0E000000020002006400⟧,はずす,⟦MSBT:0E000000020002005A00⟧Let Go⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Lâcher⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Soltar⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005A00⟧Bırak⟦MSBT:0E000000020002006400⟧,Bırakma komutu ve biçim etiketi doğru.
+13,BossNameBlocky,Blocky,Blocky,Blocky,Blocky,Blocky,ブロッキー,Blocky,Blocky,Blocky,Blocky,Blocky karakter adı değiştirilmeden korundu.
+14,BossNameBlockyEx,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,Re:ブロッキー,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0,Blocky 2.0 boss adı kaynakla aynı.
+15,BossNameBonkers,Bonkers,Bonkers,Bonkers,Bonkers,Bonkers,ボンカース,Bonkers,Bonkers,Bonkers,Bonkers,Bonkers karakter adı korundu.
+16,BossNameBonkersEx,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Re:ボンカース,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0,Bonkers 2.0 boss adı kaynakla aynı.
+17,BossNameDubior,Dubior,Dubior,Dubior,Dubior,Dubior,ドゥビア,Dubior,Dubior,Dubior,Dubior,Dubior karakter adı korundu.
+18,BossNameDubiorEx,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,Re:ドゥビア,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0,Dubior 2.0 boss adı kaynakla aynı.
+19,BossNameKingsdoo,King Doo,Roi Doo,König Glubsch,Re Doo,Rey Doo,キングスドゥ,King Doo,Roi Doo,Rey Doo,Kral Doo,King Doo adı “Kral Doo” olarak çevrildi.
+20,BossNameKingsdooEx,King Doo 2.0,Roi Doo 2.0,König Glubsch 2.0,Re Doo 2.0,Rey Doo 2.0,Re:キングスドゥ,King Doo 2.0,Roi Doo 2.0,Rey Doo 2.0,Kral Doo 2.0,King Doo 2.0 adı tutarlı.
+21,BossNamePoisonboros,Miasmoros,Miasmoros,Toxiboros,Miasmoros,Hedoamo,ポイズンボロス,Miasmoros,Miasmoros,Hedoamo,Zehirboros,Miasmoros adı “Zehirboros” olarak anlamca yerelleştirilmiş.
+22,BossNamePoisonborosEx,Miasmoros 2.0,Miasmoros 2.0,Toxiboros 2.0,Miasmoros 2.0,Hedoamo 2.0,Re:ポイズンボロス,Miasmoros 2.0,Miasmoros 2.0,Hedoamo 2.0,Zehirboros 2.0,Zehirboros 2.0 adı tutarlı.
+23,BossNameWhispyborg,Clanky Woods,Méca-Whispy,Cyber-Whispy,Whispyborg,Whispyborg,ウィスピーボーグ,Clanky Woods,Méca-Whispy,Whispyborg,Meka Whispy,Clanky Woods için kullanılan Meka Whispy adı kaynak karakteri tanınır biçimde koruyor.
+24,BossNameWhispyborgEx,Clanky Woods 2.0,Méca-Whispy 2.0,Cyber-Whispy 2.0,Whispyborg 2.0,Whispyborg 2.0,Re:ウィスピーボーグ,Clanky Woods 2.0,Méca-Whispy 2.0,Whispyborg 2.0,Meka Whispy 2.0,Meka Whispy 2.0 adı ana boss adıyla tutarlı.
+25,BossNameHolokracko,Holo-Kracko,Holo-Kracko,Holo-Kracko,Olo-Kracko,Holokracko,ホロ・クラッコ,Holo-Kracko,Holo-Kracko,Holokracko,Holo-Kracko,Holo-Kracko adı korundu.
+26,BossNameHolokrackoEx,Holo-Kracko 2.0,Holo-Kracko 2.0,Holo-Kracko 2.0,Olo-Kracko 2.0,Holokracko 2.0,Re:ホロ・クラッコ,Holo-Kracko 2.0,Holo-Kracko 2.0,Holokracko 2.0,Holo-Kracko 2.0,Holo-Kracko 2.0 adı korundu.
+27,BossNameHolospherelowpers,Holo-Doomers,Holo-Chimair,Holo-Spuk,Olo-Fenix,Holoespectros,ホロ・ローパーズ,Holo-Doomers,Holo-Chimair,Holoesfespectros,Holo-Hayaletler,Holo-Doomers için Holo-Hayaletler karşılığı tutarlı.
+28,BossNameHolospherelowpersEx,Holo-Doomers 2.0,Holo-Chimair 2.0,Holo-Spuk 2.0,Olo-Fenix 2.0,Holoespectros 2.0,Re:ホロ・ローパーズ,Holo-Doomers 2.0,Holo-Chimair 2.0,Holoesfespectros 2.0,Holo-Hayaletler 2.0,Holo-Hayaletler 2.0 adı ana boss adıyla tutarlı.
+29,BossNameHoloicedragon,Holo-Ice Dragon,Holo-Dragon de glace,Holo-Ice Dragon,Olo-Ice Dragon,Holo Ice Dragon,ホロ・アイスドラゴン,Holo-Ice Dragon,Holo-Dragon de glace,Holodragón de hielo,Holo-Buz Ejderi,Holo-Buz Ejderi adı anlamı doğru aktarıyor.
+30,BossNameHoloicedragonEx,Holo-Ice Dragon 2.0,Holo-Dragon de glace 2.0,Holo-Ice Dragon 2.0,Olo-Ice Dragon 2.0,Holo Ice Dragon 2.0,Re:ホロ・アイスドラゴン,Holo-Ice Dragon 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Dragon de glace 2.0⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005F00⟧Holodragón de hielo 2.0⟦MSBT:0E000000020002006400⟧,Holo-Buz Ejderi 2.0,Holo-Buz Ejderi 2.0 adı tutarlı.
+31,BossNameHologaraga,Holo-Coily Rattler,Holo-Krotal,⟦MSBT:0E000000020002005A00⟧Holo-Klapperschlängler⟦MSBT:0E000000020002006400⟧,Olo-Sonaglius,Holocascabel,ホロ・ガラーガ,Holo-Coily Rattler,Holo-Krotal,Holocascabel,Holo-Çıngıraklı,Holo-Çıngıraklı adı karakterin çıngıraklı yılan temasını koruyor.
+32,BossNameHologaragaEx,Holo-Coily Rattler 2.0,Holo-Krotal 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Klappersch. 2.0⟦MSBT:0E000000020002006400⟧,Olo-Sonaglius 2.0,Holocascabel 2.0,Re:ホロ・ガラーガ,Holo-Coily Rattler 2.0,Holo-Krotal 2.0,Holocascabel 2.0,Holo-Çıngıraklı 2.0,Holo-Çıngıraklı 2.0 adı tutarlı.
+33,BossNameZankibble,Kibble Blade,Seigneur Hache,Ritter Rammkamm,Ser de' Zac,Gladiosharpe,ザンキブル,Kibble Blade,Seigneur Hache,Gladiosharpe,Kibble Kılıcı,Kibble Kılıcı adı düşman adı ile silah türünü koruyor.
+34,BossNameZankibbleEx,Kibble Blade 2.0,Seigneur Hache 2.0,⟦MSBT:0E000000020002005A00⟧Ritter Rammkamm 2.0⟦MSBT:0E000000020002006400⟧,Ser de' Zac 2.0,Gladiosharpe 2.0,Re:ザンキブル,Kibble Blade 2.0,Seigneur Hache 2.0,Gladiosharpe 2.0,Kibble Kılıcı 2.0,Kibble Kılıcı 2.0 adı tutarlı.
+35,BossNameArmorSpanner,Invader Armour,Armure de combat,Invasorenpanzer,Armatura d'assalto,Armadura invasora,インベードアーマー,Invader Armor,Armure invasion,Armadura invasora,İstilacı Zırhı,"Invader Armour, “İstilacı Zırhı” olarak doğru."
+36,BossNameScrewRoboGiant,Gigavolt,Gigavolt,Gigavolt,Gigavolt,Gigavolt,⟦MSBT:0E000000020002006400⟧鉄巨兵ギガヴォルト⟦MSBT:0E000000020002006400⟧,Gigavolt,Gigavolt,Gigavolt,Gigavolt,Gigavolt özel adı korundu.
+37,BossNameScrewRoboGiant2,Gigavolt II,Gigavolt II,Gigavolt II,Gigavolt+,Gigavolt II,鉄巨兵ギガヴォルト2,Gigavolt II,Gigavolt II,Gigavolt II,Gigavolt II,Gigavolt II adı kaynakla aynı.
+38,BossNameHolographSystemCore,Holo Defence API,Holo-défense,⟦MSBT:0E000000020002005A00⟧Holo-Defensiv.sys⟦MSBT:0E000000020002006400⟧,Firewall olografico,Holodefensor,ホログラフ防衛システムズ,Holo Defense API,Holo-défense,Holodefensor,Holo Savunma Sistemi,"Holo Defence API adı, Arena tablosundaki “Holo Savunma Sistemi” ile eşitlendi."
+39,BossNameHolographSystemCoreEx,Holo Defence API 2.0,Holo-défense 2.0,⟦MSBT:0E000000020002005A00⟧Holo-Defensiv.sys 2.0⟦MSBT:0E000000020002006400⟧,Firewall olografico 2.0,Holodefensor 2.0,Re:ホログラフ防衛システムズ,Holo Defense API 2.0,Holo-défense 2.0,Holodefensor 2.0,Holo Savunma Sistemi 2.0,Holo Savunma Sistemi adı ve 2.0 ibaresi tutarlılaştırıldı.
+40,BossNameTelepatris,Telepathos,Télépathos,Teleporterling,Telepathos,Telepathos,テレパトリス,Telepathos,Télépathos,Telepathos,Telepatos,Telepathos özel adı Türkçe sesletime uygun biçimde Telepatos olarak aktarılmış.
+41,BossNameTelepatrisEx,Telepathos 2.0,Télépathos 2.0,Teleporterling 2.0,Telepathos 2.0,Telepathos 2.0,Re:テレパトリス,Telepathos 2.0,Télépathos 2.0,Telepathos 2.0,Telepatos 2.0,Telepatos 2.0 adı ana boss adıyla tutarlı.
+42,BossNameShootingCannon,C.O.G.S.,Base engrenages,N-Goor-Basis,IngraBase,Base MK,ンギュア基地,C.O.G.S.,Base engrenages,Base MK,Dişli Üssü,"C.O.G.S. kelime oyunu, “Dişli Üssü” ile anlamlı biçimde yerelleştirilmiş."
+43,BossNameSusie,Susie,Susie,Susi,Susie,Susi,秘書スージー,Susie,Susie,Susi,Susie,Susie karakter adı korundu.
+44,BossNameSusieEx,Susie 2.0,Susie 2.0,Susi 2.0,Susie 2.0,Susi 2.0,Re:秘書スージー,Susie 2.0,Susie 2.0,Susi 2.0,Susie 2.0,Susie 2.0 adı tutarlı.
+45,BossNameMetaknightborg,Mecha Knight,Méca-Knight,Mecha-Knight,Mecha Knight,Meca Knight,メタナイトボーグ,Mecha Knight,Méca-Knight,Meca Knight,Meka Knight,Meka Knight adı Demo tablosundaki kullanımla tutarlı.
+46,BossNameMetaknightborgEx,Stock Mecha Knight,Unité Méca-Knight,Mecha-Serie A,Mecha Knight seriale,Modelo Meca Knight,強化量産メタナイトボーグ,Stock Mecha Knight,Unité Méca-Knight,Modelo Meca Knight,Seri Üretim Meka Knight,Stock burada seri üretilmiş modeli anlatıyor; “Seri Üretim” olarak açıklaştırıldı.
+47,BossNameMetaknightborgkai,Mecha Knight+,Méca-Knight Ver. 2,⟦MSBT:0E000000020002006400⟧Mecha-Knight+⟦MSBT:0E000000020002006400⟧,Mecha Knight+,Meca Knight +,メタナイトボーグ改,Mecha Knight+,Méca-Knight Ver. 2,Meca Knight +,Meka Knight+,Mecha Knight+ adı Demo tablosuyla tutarlı.
+48,BossNameClonededede,Dedede Clone,Clone de DaDiDou,Dedede-Klon,Clone di Dedede,Clon Dedede,クローンデデデ,Dedede Clone,Clone de Dadidou,Clon Dedede,Dedede Klonu,Dedede Klonu adı doğru.
+49,BossNameClonedededeEx,Dedede Clone 2.0,Clone de DaDiDou 2.0,Dedede-Klon 2.0,Clone di Dedede 2.0,Clon Dedede 2.0,Re:クローンデデデ,Dedede Clone 2.0,Clone de Dadidou 2.0,Clon Dedede 2.0,Dedede Klonu 2.0,Dedede Klonu 2.0 adı tutarlı.
+50,BossNameClonedededeWithCannon,Dedede Clones & D3,Clones de DaDiDou & D3,Dedede-Klone & D3,Cloni di Dedede e D3,Clones Dedede y D3,クローンデデデ&D3砲,Dedede Clones & D3,⟦MSBT:0E000000020002005F00⟧Clones de Dadidou & D3⟦MSBT:0E000000020002006400⟧,Clones Dedede y D3,Dedede Klonları & D3,Dedede Klonları ve D3 özel adı doğru.
+51,BossNameClonedededeWithCannonEx,⟦MSBT:0E000000020002005F00⟧Dedede Clones & D3 2.0⟦MSBT:0E000000020002006400⟧,Clones de DaDiDou & D3 2.0,⟦MSBT:0E000000020002005A00⟧Dedede-Klone & D3 2.0⟦MSBT:0E000000020002006400⟧,Cloni di Dedede e D3 2.0,Clones Dedede y D3 2.0,Re:クローンデデデ&D3砲,⟦MSBT:0E000000020002005F00⟧Dedede Clones & D3 2.0⟦MSBT:0E000000020002006400⟧,⟦MSBT:0E000000020002005500⟧Clones de Dadidou & D3 2.0⟦MSBT:0E000000020002006400⟧,Clones Dedede y D3 2.0,⟦MSBT:0E000000020002005F00⟧Dedede Klonları & D3 2.0⟦MSBT:0E000000020002006400⟧,"Dedede Klonları ve D3 2.0 adı, biçim etiketleri korunarak verildi."
+52,BossNameKaboola,Core Kabula,Noyau Boumbala,Nucleaboola,Kabula Ka-bum,Nucleokabula,コア・カブーラー,Core Kabula,Noyau Boumbala,Nucleokabula,Çekirdek Kabula,"Core Kabula, çekirdek formunu belirtmek için “Çekirdek Kabula” oldu."
+53,BossNameSecurityservice,Security Force,Drone de sécurité,Security-Drohne,Robosentinella,Vigilante robótico,セキュリティサービス,Security Force,Drone de sécurité,Vigilante robótico,Güvenlik Gücü,"Security Force, “Güvenlik Gücü” olarak çevrildi."
+54,BossNameSecurityserviceEx,Security Force 2.0,Drone de sécurité 2.0,Security-Drohne 2.0,Robosentinella 2.0,Vigilante robótico 2.0,Re:セキュリティサービス,Security Force 2.0,Drone de sécurité 2.0,Vigilante robótico 2.0,Güvenlik Gücü 2.0,Güvenlik Gücü 2.0 adı tutarlı.
+55,BossNameHartmann,President Haltmann,Président Haltmann,Präsident Haltmann,Presidente Haltmann,Presidente Haltmann,プレジデント・ハルトマン,President Haltmann,Président Haltmann,Presidente Haltmann,Başkan Haltmann,"President Haltmann, “Başkan Haltmann” olarak yerelleştirildi."
+56,BossNameHartmannEx,Pres. Haltmann 2.0,Prés. Haltmann 2.0,Präs. Haltmann 2.0,Presidente Haltmann 2.0,Presidente Haltmann 2.0,Re:プレジデント・ハルトマン,Pres. Haltmann 2.0,Prés. Haltmann 2.0,Presidente Haltmann 2.0,Bşk. Haltmann 2.0,Pres. kısaltması “Bşk.” ile tutarlılaştırıldı.
+57,BossNameMothercomputer,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,Star Dream adı projedeki “Yıldız Rüyası” karşılığıyla tutarlı.
+58,BossNameMothercomputerEx,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,"Soul OS boss adı .exe biçiminde yerelleştirildi; PauseMenu tablosundaki mevcut, kaynakla karşılaştırılmış tercihle tutarlı."
+59,BossNameMothercomputership,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,Star Dream adı tutarlı.
+60,BossNameMothercomputershipEx,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,"Soul OS boss adı .exe biçiminde yerelleştirildi; PauseMenu tablosundaki mevcut, kaynakla karşılaştırılmış tercihle tutarlı."
+61,BossNameMothercomputerScrewBattle,Star Dream,Idole des étoiles,Sternentraum,Sogno Stellare,Sueño Estelar,星の夢,Star Dream,Idole des étoiles,Sueño Estelar,Yıldız Rüyası,Star Dream adı tutarlı.
+62,BossNameClonedarkmatter,Dark Matter Clone,Clone de Matière Noire,Dark-Matter-Klon,Clone di Dark Matter,Clon Materia oscura,クローン剣士ダークマター,Dark Matter Clone,Clone de Matière Noire,Clon Materia oscura,Kara Madde Klonu,"Dark Matter Clone, “Kara Madde Klonu” olarak çevrildi."
+63,BossNameMothercomputersoulcore,Star Dream Soul OS,idole_des_etoiles.exe,Sternengeist OS,Sogno Stellare.exe,Sueño Estelar.exe,星の夢.Soul OS,Star Dream Soul OS,idole_des_etoiles.exe,Sueño Estelar.exe,Yıldız Rüyası.exe,"Soul OS boss adı .exe biçiminde yerelleştirildi; PauseMenu tablosundaki mevcut, kaynakla karşılaştırılmış tercihle tutarlı."
+64,BossNameGalacticknight,Galacta Knight Returns,Galacta Knight invoqué,⟦MSBT:0E000000020002005A00⟧Ultra-Knights Rückkehr⟦MSBT:0E000000020002006400⟧,Il ritorno di Galacta Knight,Galacta Knight contrataca,ギャラクティックナイト リターンズ,Galacta Knight Returns,Galacta Knight invoqué,Galacta Knight contrataca,Galacta Knight Geri Dönüyor,Returns anlamı “Geri Dönüyor” ile eksiksiz karşılandı.
+65,BossNameClonesectnia,Sectonia Clone,Clone de Sectonia,Sectonia-Klon,Clone di Sectonia,Clon Sectonia,クローンセクトニア,Sectonia Clone,Clone de Sectonia,Clon Sectonia,Sectonia Klonu,Sectonia Klonu adı doğru.

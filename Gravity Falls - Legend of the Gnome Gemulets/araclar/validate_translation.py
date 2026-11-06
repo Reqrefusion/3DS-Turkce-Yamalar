@@ -53,7 +53,7 @@ def main() -> None:
                 print(f"ERROR {path.name}:{group} id={r.get('id')}: tag mismatch")
                 print(f"  source tags: {dict(tags(src))}")
                 print(f"  transl. tags: {dict(tags(tr))}")
-            if len(src) >= 10 and len(tr) / max(1, len(src)) > a.max_ratio:
+            if src.strip().casefold() not in {"no conversation"} and len(src) >= 10 and len(tr) / max(1, len(src)) > a.max_ratio:
                 warnings += 1
                 print(f"WARN  {path.name}:{group} id={r.get('id')}: length {len(src)} -> {len(tr)} ({len(tr)/len(src):.2f}x)")
 

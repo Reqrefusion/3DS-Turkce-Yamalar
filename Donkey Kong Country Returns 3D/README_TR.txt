@@ -41,7 +41,7 @@ Hazır yapı:
 
 DOĞRULAMA
 ---------
-- 855/855 Türkçe satır V4-aware export ile birebir geri okundu.
+- 855/855 Türkçe satır yeni arşivden dışa aktarılıp üretim CSV’siyle birebir karşılaştırıldı. Kaynak-hedef incelemesinde 15 çeviri düzeltildi.
 - RST resource CRC: OK
 - RST definition CRC: OK
 - RST header CRC: OK
@@ -53,7 +53,7 @@ Türkçe kullanım sayıları:
 {"Ğ": 0, "ğ": 129, "İ": 37, "Ş": 29, "ş": 234, "ı": 795}
 
 SHA-256 euenglish.res:
-f2c40b247c4f305ce93e15858af9550a34177ab1e298e17fb48cd81cd870f44c
+d5449a2a1f7aa1fcfd94541836181fd48eca6fff760c9388128f7e29dc49e47a
 
 Not: Bu yöntem font atlasını yeniden encode etmediği için V3'teki bozuk glif
 riskini ortadan kaldırır. Son görsel hizalama gerçek oyun içinde test edilmelidir.

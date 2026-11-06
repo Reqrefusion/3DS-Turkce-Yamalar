@@ -102,7 +102,7 @@
 100,eol_retry:0:*,\x_button_32         Retry,\x_button_32     <space=0.5>RÉESSAYER,\x_button_32   Von vorne,\x_button_32    <space=0.5>Ricomincia,\x_button_32       Otra vez,\x_button_32         Tekrar Dene,01
 101,eol_retry_confirm:0:*,Are you sure you want to retry the level?,RÉESSAYER CE NIVEAU ?,Level wirklich von vorne beginnen?,Vuoi davvero ricominciare il livello?,¿Seguro que quieres repetir este nivel?,Bölümü yeniden denemek|istediğinden emin misin?,01
 102,eol_retry_core:0:*,\x_button_32         Retry,\x_button_32     <space=0.5>RÉESSAYER,\x_button_32   Von vorne,\x_button_32    <space=0.5>Ricomincia,\x_button_32       Otra vez,\x_button_32         Tekrar Dene,01
-103,eol_unlock_diorama:0:*,DIORAMA GALLERY UPDATED!,DU NOUVEAU DANS LES DIORAMAS !,DIORAMEN-GALERIE AKTUALISIERT!,NUOVI DIORAMI DISPONIBILI!,¡Galería de dioramas actualizada!,DİYORAMA GALERİSİ GÜNCELLENDİ!,01
+103,eol_unlock_diorama:0:*,DIORAMA GALLERY UPDATED!,DU NOUVEAU DANS LES DIORAMAS !,DIORAMEN-GALERIE AKTUALISIERT!,NUOVI DIORAMI DISPONIBILI!,¡Galería de dioramas actualizada!,DİORAMA GALERİSİ GÜNCELLENDİ!,01
 104,eol_unlock_image:0:*,IMAGE GALLERY UPDATED!,DU NOUVEAU DANS LES IMAGES !,BILDER-GALERIE AKTUALISIERT!,NUOVE IMMAGINI DISPONIBILI!,¡Galería de imágenes actualizada!,GÖRSEL GALERİSİ GÜNCELLENDİ!,01
 105,eol_unlock_music:0:*,MUSIC GALLERY UPDATED!,DU NOUVEAU DANS LES MUSIQUES !,MUSIK-GALERIE AKTUALISIERT!,NUOVE MUSICHE DISPONIBILI!,¡Galería musical actualizada!,MÜZİK GALERİSİ GÜNCELLENDİ!,01
 106,eol_unlock_nosavegame:0:*,Good Job!,BRAVO !,Bravo!,Ben fatto!,¡Bien hecho!,Aferin!,01
@@ -110,7 +110,7 @@
 108,eol_viewreplay_core:0:*,\y_button_32	    View Replay,\y_button_32	        REVOIR,\y_button_32 Wiederholung,\y_button_32	 <squish=0.90>Guarda il replay,\y_button_32   Ver repetición,\y_button_32	    Tekrarı İzle,01
 109,eol_worldclear:0:*,World Clear!,MONDE TERMINÉ !,Welt geschafft!,MONDO COMPLETATO!,¡Mundo superado!,Dünya Tamamlandı!,01
 110,exitboard:0:*,Exit,<squish=0.60>SORTIE,<squish=0.5>Zurück,<squish=0.60>USCITA,<squish=0.6>Salida,<squish=0.8>ÇIKIŞ,01
-111,extras_diorama:0:*,Diorama Gallery,DIORAMAS,Dioramen-Galerie,GALLERIA DIORAMI,<scale=0.9>Galería de dioramas,Diyorama Galerisi,01
+111,extras_diorama:0:*,Diorama Gallery,DIORAMAS,Dioramen-Galerie,GALLERIA DIORAMI,<scale=0.9>Galería de dioramas,Diorama Galerisi,01
 112,extras_diorama_categories:0:*,Jungle,DIORAMA DE LA JUNGLE,Dschungel,GIUNGLA,Jungla,Cangıl,01
 113,extras_diorama_categories:1:*,Beach,DIORAMA DE LA PLAGE,Strand,SPIAGGIA,Playa,Sahil,01
 114,extras_diorama_categories:2:*,Ruins,DIORAMA DES RUINES,Ruinen,ROVINE,Ruinas,Harabeler,01
@@ -123,14 +123,14 @@
 121,extras_diorama_instruction_:0:*,\dpad_all_directions      Rotate,\dpad_all_directions  <squish=0.9>FAIRE PIVOTER,\dpad_all_directions<squish=0.8>Diorama drehen,\dpad_all_directions     Ruota,\dpad_all_directions       Girar,\dpad_all_directions      Döndür,01
 122,extras_diorama_instruction_D1:0:*,\9097e9e2\y_button_32      Zoom,\9097e9e2\y_button_32<space=3.8>ZOOMER,\9097e9e2\y_button_32     Zoom,\9097e9e2\y_button_32     Zoom,\9097e9e2\y_button_32<squish=0.8> Acercar/Alejar,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
 123,extras_diorama_instruction_D2:0:*,\9097e9e2\y_button_32      Zoom,\9097e9e2\y_button_32<space=3.8>ZOOMER,\9097e9e2\y_button_32     Zoom,\9097e9e2\y_button_32     Zoom,\9097e9e2\y_button_32<squish=0.8> Acercar/Alejar,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
-124,extras_diorama_titles:0:*,Jungle Diorama,DIORAMA DE LA JUNGLE,Dschungel-Diorama,GIUNGLA,Diorama de la jungla,Cangıl Diyoraması,01
-125,extras_diorama_titles:1:*,Beach Diorama,DIORAMA DE LA PLAGE,Strand-Diorama,SPIAGGIA,Diorama de la playa,Sahil Diyoraması,01
-126,extras_diorama_titles:2:*,Ruins Diorama,DIORAMA DES RUINES,Ruinen-Diorama,ROVINE,Diorama de las ruinas,Harabeler Diyoraması,01
-127,extras_diorama_titles:3:*,Cave Diorama,DIORAMA DE LA CAVERNE,Höhlen-Diorama,CAVERNE,Diorama de la caverna,Mağara Diyoraması,01
-128,extras_diorama_titles:4:*,Forest Diorama,DIORAMA DE LA FORÊT,Wald-Diorama,FORESTA,Diorama del bosque,Orman Diyoraması,01
-129,extras_diorama_titles:5:*,Cliff Diorama,DIORAMA DE LA FALAISE,Klippen-Diorama,SCOGLIERA,Diorama del acantilado,Uçurum Diyoraması,01
-130,extras_diorama_titles:6:*,Factory Diorama,DIORAMA DE L'USINE,Fabrik-Diorama,FABBRICA,Diorama de la fábrica,Fabrika Diyoraması,01
-131,extras_diorama_titles:7:*,Volcano Diorama,DIORAMA DU VOLCAN,Vulkan-Diorama,VULCANO,Diorama del volcán,Volkan Diyoraması,01
+124,extras_diorama_titles:0:*,Jungle Diorama,DIORAMA DE LA JUNGLE,Dschungel-Diorama,GIUNGLA,Diorama de la jungla,Cangıl Dioraması,01
+125,extras_diorama_titles:1:*,Beach Diorama,DIORAMA DE LA PLAGE,Strand-Diorama,SPIAGGIA,Diorama de la playa,Sahil Dioraması,01
+126,extras_diorama_titles:2:*,Ruins Diorama,DIORAMA DES RUINES,Ruinen-Diorama,ROVINE,Diorama de las ruinas,Harabeler Dioraması,01
+127,extras_diorama_titles:3:*,Cave Diorama,DIORAMA DE LA CAVERNE,Höhlen-Diorama,CAVERNE,Diorama de la caverna,Mağara Dioraması,01
+128,extras_diorama_titles:4:*,Forest Diorama,DIORAMA DE LA FORÊT,Wald-Diorama,FORESTA,Diorama del bosque,Orman Dioraması,01
+129,extras_diorama_titles:5:*,Cliff Diorama,DIORAMA DE LA FALAISE,Klippen-Diorama,SCOGLIERA,Diorama del acantilado,Uçurum Dioraması,01
+130,extras_diorama_titles:6:*,Factory Diorama,DIORAMA DE L'USINE,Fabrik-Diorama,FABBRICA,Diorama de la fábrica,Fabrika Dioraması,01
+131,extras_diorama_titles:7:*,Volcano Diorama,DIORAMA DU VOLCAN,Vulkan-Diorama,VULCANO,Diorama del volcán,Volkan Dioraması,01
 132,extras_imagenames:0:*,Frogoon,GREBULLE,Froschler,GRACICRÀ,Ranolón,Kurbazorba,01
 133,extras_imagenames:1:*,Awk,RAPAK,Papageier,GRACCHIO,Aco,Gak,01
 134,extras_imagenames:2:*,Pinchly & Pal,KRABAK & UN AMI,Zwicki & ein Freund,PIZZICHELE & CO.,Pinzolero y su colega,Kıskaçlı ve Dostu,01
@@ -164,7 +164,7 @@
 162,extras_imagenames:30:*,Mugly,JAUNY,Grässli,BRUTTOMUSO,Mufeo,Çirko,01
 163,extras_imagenames:31:*,Scurvy Crew,MARINS MALINS,<squish=0.80>Die fiese Landkrabbencrew<squish=1.0>,BARBACHELE,Marinos dañinos,Kıskaçlı Korsanlar,01
 164,extras_imagenames:32:*,Stu,BOMBY,Bomberich,BOMBADINO,Condorado,Yahni,01
-165,extras_imagenames:33:*,Mole Miner Max,"TOBBY, CHEF TAUPE",Oberkumpel Otto,GROTTALPA MAXIMA,Topo minero Max,Madenci Max,01
+165,extras_imagenames:33:*,Mole Miner Max,"TOBBY, CHEF TAUPE",Oberkumpel Otto,GROTTALPA MAXIMA,Topo minero Max,Köstebek Madenci Max,01
 166,extras_imagenames:34:*,Mole Miners,TAUPES MINIÈRES,Maulwurfkumpel,MINATORI GROTTALPA,Topos mineros,Madenci Köstebekler,01
 167,extras_imagenames:35:*,Mangoruby,MANGORUBY,Mangoruby,DRAGRUCO,Lombrillante,Işıltırtıl,01
 168,extras_imagenames:36:*,Thugly,MAUVY,Garstli,TRUCEBRONCIO,Mumalo,Zorbo,01
@@ -215,7 +215,7 @@
 213,extras_image_categories:0:*,Critters 1 Gallery,GALERIE DES CRÉATURES 1,Kreaturen 1,CREATURE 1,Galería de criaturas 1,Yaratıklar 1 Galerisi,01
 214,extras_image_categories:1:*,Critters 2 Gallery,GALERIE DES CRÉATURES 2,Kreaturen 2,CREATURE 2,Galería de criaturas 2,Yaratıklar 2 Galerisi,01
 215,extras_image_categories:2:*,Tiki Gallery,GALERIE DES TIKIS,Die Tikis,TIKI,Galería de tikis,Tiki Galerisi,01
-216,extras_image_categories:3:*,Boss Gallery,GALERIE DES BOSS,Bösewichte,BOSS,Galería de jefes,Baş Düşmanlar,01
+216,extras_image_categories:3:*,Boss Gallery,GALERIE DES BOSS,Bösewichte,BOSS,Galería de jefes,Baş Düşman Galerisi,01
 217,extras_image_categories:4:*,Worlds Gallery,GALERIE DES MONDES,Welten,MONDI,Galería de mundos,Dünyalar Galerisi,01
 218,extras_image_categories:5:*,Kong Gallery,GALERIE KONG,Die Kongs,KONG,Galería Kong,Kong Galerisi,01
 219,extras_image_categories:6:*,Golden Temple Gallery,GALERIE DU TEMPLE D'OR,Goldener Tempel,PIRAMIDE SCINTILLANTE,Galería del templo dorado,Altın Tapınak Galerisi,01
@@ -227,7 +227,7 @@
 225,extras_image_category_title:0:*,Critters 1 Gallery,GALERIE DES CRÉATURES 1,Kreaturen 1,CREATURE 1,Galería de criaturas 1,Yaratıklar 1 Galerisi,01
 226,extras_image_category_title:1:*,Critters 2 Gallery,GALERIE DES CRÉATURES 2,Kreaturen 2,CREATURE 2,Galería de criaturas 2,Yaratıklar 2 Galerisi,01
 227,extras_image_category_title:2:*,Tiki Gallery,GALERIE DES TIKIS,Die Tikis,TIKI,Galería de tikis,Tiki Galerisi,01
-228,extras_image_category_title:3:*,Boss Gallery,GALERIE DES BOSS,Bösewichte,BOSS,Galería de jefes,Baş Düşmanlar,01
+228,extras_image_category_title:3:*,Boss Gallery,GALERIE DES BOSS,Bösewichte,BOSS,Galería de jefes,Baş Düşman Galerisi,01
 229,extras_image_category_title:4:*,Worlds Gallery,GALERIE DES MONDES,Welten,MONDI,Galería de mundos,Dünyalar Galerisi,01
 230,extras_image_category_title:5:*,Kong Gallery,GALERIE KONG,Die Kongs,KONG,Galería Kong,Kong Galerisi,01
 231,extras_image_category_title:6:*,Golden Temple Gallery,GALERIE DU TEMPLE D'OR,Goldener Tempel,PIRAMIDE SCINTILLANTE,<scale=0.8>Galería del templo dorado,<scale=0.8>Altın Tapınak Galerisi,01
@@ -292,7 +292,7 @@
 290,extras_unlock_instructions_:0:*,Defeat all boss monsters|to unlock this gallery!,GAGNEZ CONTRE TOUS LES BOSS POUR|DÉBLOQUER TOUTE LA GALERIE SÉLECTIONNÉE !,"Besiege alle Bösewichte, um|diese Galerie freizuschalten!",Sconfiggi tutti i boss per sbloccare|questo contenuto!,¡Derrota a todos los jefes|para acceder a esta galería!,Tüm bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
 291,extras_unlock_instructions_D1:0:*,Collect puzzle pieces to unlock this gallery!,RASSEMBLEZ DES PIÈCES DE PUZZLE POUR|DÉBLOQUER LA GALERIE SÉLECTIONNÉE !,"Finde Puzzleteile, um|diese Galerie freizuschalten!",Colleziona le tessere dei puzzle|per sbloccare questo contenuto!,¡Encuentra piezas de puzle|para acceder a esta galería!,Bu galeriyi açmak için|yapboz parçaları topla!,01
 292,extras_unlock_instructions_D2:0:*,Defeat boss monsters to unlock this gallery!,GAGNEZ CONTRE UN CERTAIN BOSS POUR|DÉBLOQUER TOUTE LA GALERIE SÉLECTIONNÉE !,"Besiege Bösewichte, um|diese Galerie freizuschalten!",Sconfiggi i boss per sbloccare|questo contenuto!,¡Derrota jefes para|acceder a esta galería!,Bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
-293,extras_unlock_instructions_D3:0:*,Collect puzzle pieces and defeat|boss monsters to unlock this item!,<scale=0.85>RASSEMBLEZ DES PIÈCES DE PUZZLE ET GAGNEZ CONTRE|UN CERTAIN BOSS POUR DÉBLOQUER L'ÉLÉMENT SÉLECTIONNÉ !,"Finde Puzzleteile und besiege Bösewichte,|um dieses Item freizuschalten!",Colleziona le tessere dei puzzle e sconfiggi|i boss per sbloccare questo contenuto!,¡Encuentra piezas de puzle y derrota jefes|para desbloquear este objeto!,Yapboz parçaları topla ve bölüm sonu|düşmanlarını yenerek bu öğeyi aç!,01
+293,extras_unlock_instructions_D3:0:*,Collect puzzle pieces and defeat|boss monsters to unlock this item!,<scale=0.85>RASSEMBLEZ DES PIÈCES DE PUZZLE ET GAGNEZ CONTRE|UN CERTAIN BOSS POUR DÉBLOQUER L'ÉLÉMENT SÉLECTIONNÉ !,"Finde Puzzleteile und besiege Bösewichte,|um dieses Item freizuschalten!",Colleziona le tessere dei puzzle e sconfiggi|i boss per sbloccare questo contenuto!,¡Encuentra piezas de puzle y derrota jefes|para desbloquear este objeto!,"Yapboz parçalarını topla, bölüm sonu|düşmanlarını yen ve bu öğeyi aç!",01
 294,extras_unlock_instructions_D4:0:*,Defeat boss monsters to unlock this item!,GAGNEZ CONTRE UN CERTAIN BOSS POUR|DÉBLOQUER L'ÉLÉMENT SÉLECTIONNÉ !,"Besiege Bösewichte, um|dieses Item freizuschalten!",Sconfiggi i boss per sbloccare|questo contenuto!,¡Derrota jefes para|desbloquear este objeto!,Bölüm sonu düşmanlarını yenerek|bu öğeyi aç!,01
 295,extras_unlock_instructions_D5:0:*,Collect puzzle pieces to unlock this item!,RASSEMBLEZ DES PIÈCES DE PUZZLE POUR|DÉBLOQUER L'ÉLÉMENT SÉLECTIONNÉ !,"Finde Puzzleteile, um|dieses Item freizuschalten!",Colleziona le tessere dei puzzle|per sbloccare questo contenuto!,¡Encuentra piezas de puzle|para desbloquear este objeto!,Bu öğeyi açmak için|yapboz parçaları topla!,01
 296,extras_unlock_instructions_D6:0:*,Only the most determined ape|may unlock this item!,SEUL UN SINGE TRÈS DÉTERMINÉ PEUT|DÉBLOQUER L'ÉLÉMENT SÉLECTIONNÉ !,Nur der entschlossenste Affe|kann dieses Item freischalten!,Solo il primate più intrepido può sbloccare|questo contenuto!,¡Solo el simio más decidido|desbloqueará este objeto!,Bu öğeyi yalnızca|en azimli maymun açabilir!,01
@@ -637,7 +637,7 @@
 635,shop_worldkey_comment:4:OPT,"<squish=0.82>I know this key is huge, but you're a big ape. You can handle it.","<squish=0.82>JE SAIS QUE|CETTE CLÉ EST ÉNORME,|MAIS TU ES COSTAUD.|TU PEUX Y ARRIVER.","<squish=0.82>Ich weiss, das ist ein grosser Schlüssel, aber ein grosser Affe wie du packt das schon.","<squish=0.82>SO CHE QUESTA|CHIAVE È GIGANTESCA,|MA SEI UNA SCIMMIA|GRANDE E GROSSA. CE|LA PUOI FARE.","<squish=0.82>Ya sé que la llave es enorme, pero eres fuerte de sobra. Te las arreglarás.",<squish=0.82>Bu anahtarın dev gibi olduğunu biliyorum|ama sen de iri bir maymunsun. Taşırsın.,01
 636,shop_worldkey_purchase:0:CON,"<squish=0.82>Oh sure, take the easy way out.","<squish=0.82>C'EST ÇA, OPTE DONC|POUR LA FACILITÉ !","<squish=0.82>Sicher, mach's dir nur einfach...","<squish=0.82>OH, FA' COME VUOI!|SCEGLI PURE LA|STRADA PIÙ FACILE.","<squish=0.82>Claro, tú sigue el camino más fácil, por supuesto...","<squish=0.82>Tabii tabii, sen kolay yolu seç.",01
 637,shop_worldkey_purchase:1:CON,"<squish=0.82>What, you need a key to bust through some flimsy lock?",<squish=0.82>QUOI ? TU AS BESOIN|D'UNE CLÉ POUR|OUVRIR UN VERROU|RÉCALCITRANT ?,"<squish=0.82>Was? Du brauchst einen Schlüssel, um ein stümperhaftes Schloss zu knacken?",<squish=0.82>COME DICI? TI SERVONO|DELLE CHIAVI PER|APRIRE DEI|LUCCHETTI?,<squish=0.82>¿Necesitas una llave para librarte de un candadito de nada?,"<squish=0.82>Ne yani, şu uyduruk kilidi aşmak için|anahtara mı ihtiyacın var?",01
-638,shop_worldkey_purchase:2:OPT,<squish=0.82>On your way to uncovering all of this island’s secrets!,"<squish=0.82>ALLEZ, VA DONC|DÉCOUVRIR TOUS LES|SECRETS DE L'ÎLE !",<squish=0.82>Dann mal los! Entdecke alle Geheimnisse dieser Insel!,<squish=0.82>SEI SULLA STRADA|GIUSTA PER SCOPRIRE|TUTTI I SEGRETI|DELL'ISOLA!,"<squish=0.82>¡Adelante, descubre todos los secretos de la isla!","<squish=0.82>Haydi, adanın bütün sırlarını keşfet!",01
+638,shop_worldkey_purchase:2:OPT,<squish=0.82>On your way to uncovering all of this island’s secrets!,"<squish=0.82>ALLEZ, VA DONC|DÉCOUVRIR TOUS LES|SECRETS DE L'ÎLE !",<squish=0.82>Dann mal los! Entdecke alle Geheimnisse dieser Insel!,<squish=0.82>SEI SULLA STRADA|GIUSTA PER SCOPRIRE|TUTTI I SEGRETI|DELL'ISOLA!,"<squish=0.82>¡Adelante, descubre todos los secretos de la isla!",<squish=0.82>Adanın bütün sırlarını keşfetme yolundasın!,01
 639,shop_worldkey_purchase:3:OPT,<squish=0.82>Go forth and discover something new!,"<squish=0.82>ALLEZ, VA VOIR|S'IL Y A DU NOUVEAU|À DÉCOUVRIR !",<squish=0.82>Auf geht's und entdecke etwas Neues!,<squish=0.82>VAI AVANTI E SCOPRI|QUALCOSA DI NUOVO!,<squish=0.82>¡Avanza y descubre algo nuevo!,<squish=0.82>Git ve yeni bir şey keşfet!,01
 640,shop_worldkey_purchase:4:OPT,"<squish=0.82>If you find all the KONG letters, something exciting may happen!","<squish=0.82>SI TU TROUVES TOUTES|LES LETTRES KONG, IL SE|PASSERA SÛREMENT|QUELQUE CHOSE !","<squish=0.82>Wenn du alle KONG-Buchstaben findest, passiert vielleicht etwas Aufregendes!",<squish=0.82>TROVA TUTTE LE|LETTERE KONG E|POTREBBE ACCADERE|QUALCOSA DI BELLO!,"<squish=0.82>Si encuentras todas las letras KONG, ¡puede pasar algo emocionante!",<squish=0.82>Tüm KONG harflerini bulursan|heyecan verici bir şey olabilir!,01
 641,shop_worldkey_purchase:5:DIS,"<squish=0.82>Are you trying to find all the island’s secrets, or are you just taking the easy route?",<squish=0.82>TU ESSAIES DE TROUVER TOUS LES SECRETS DE L'ÎLE OU TU PRENDS LA VOIE DE LA FACILITÉ ?,"<squish=0.82>Versuchst du, alle Geheimnisse dieser Insel zu lösen oder nimmst du eine Abkürzung?",<squish=0.82>STAI CERCANDO DI|SCOPRIRE TUTTI I|SEGRETI DELL'ISOLA|O STAI SCEGLIENDO|LA VIA PIÙ FACILE?,<squish=0.82>¿Quieres encontrar todos los secretos de la isla o solo tratas de seguir la ruta más fácil?,"<squish=0.82>Adanın bütün sırlarını mı arıyorsun,|yoksa sadece kolay yolu mu seçiyorsun?",01

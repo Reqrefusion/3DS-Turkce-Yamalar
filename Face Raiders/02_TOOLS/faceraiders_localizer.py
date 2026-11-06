@@ -41,7 +41,8 @@ def u64(b: bytes, off: int, endian: str = '<') -> int:
 
 
 def replace_escaped_pua(text: str) -> str:
-    """Turn literal \\uE000-style sequences into PUA glyphs without touching Turkish UTF-8."""
+    """Normalize newlines and turn escaped PUA sequences into glyphs."""
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
     return re.sub(r'\\u([eEfF][0-9a-fA-F]{3})', lambda m: chr(int(m.group(1), 16)), text)
 
 
@@ -346,6 +347,7 @@ def fit_metrics(values: Dict[str,str], tr: str) -> Tuple[int,float,int,float,str
     safe_units = 0.0
     for lang, text in values.items():
         if not text: continue
+        text = text.replace('\r\n', '\n').replace('\r', '\n')
         lines = text.split('\n')
         source_lines = max(source_lines, len(lines))
         if lang in LATIN_LANGS:

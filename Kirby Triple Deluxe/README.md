@@ -1,10 +1,30 @@
-# Kirby Triple Deluxe Türkçe Yama
-https://github.com/IcySon55/3DLandMSBTeditor
+# Kirby Triple Deluxe Türkçe yama
 
-MSBT leri çıkarıp geri yükleme için MSBT Editor Reloaded kullanılmıştır. tr klasöründen değişiklikleri import edebilirsiniz. XMSBT dosyalarını bir herhangi bir editörle değiştirebilirsiniz.
+## Kurulum
 
-Yama Avrupa sürümü içindir. 000400000010C000 dosyasını sd kartdaki luma/titles klasörüne atın.
+Oyununuzun Title ID değeriyle eşleşen klasörü SD kartınızdaki `luma/titles/` içine kopyalayın. Luma3DS ayarlarında **Enable game patching** seçeneğini etkinleştirin. Mevcut yamanızı değiştirmeden önce yedekleyin.
 
-Çeviride hatalar bulursanız tr klasöründen xmsbt dosyalarını herhangi bir metin editörü ile düzeltebilir veya issue açabilirsiniz. Yardımcı olması adına İngilizceye bakabilirsiniz.
+- `000400000010C000/` → `sd:/luma/titles/000400000010C000/`
 
-Bazı kısımlarda türkçe karakter desteklenirken bazı yerlerde desteklenmiyor ayırıca satır ayrımlarıda mantıklı olmuyor çoğu zaman. Bunları olabildiğince süzeltmeye çalıştım genede hata olabilir.
+Oyun EUR bölgesi içindir.
+
+## Çeviri ve araçlar
+
+`ceviri/MSBT_CSV/` içindeki tabloların `TR_Turkish` alanlarını düzenleyin. `kaynaklar/MSBT_SABLON/` üretim şablonlarını içerir.
+
+Oyun klasöründe:
+
+```text
+python araclar/build_patch.py
+python araclar/verify_package.py
+```
+
+Üretim çıktısı `calisma/uretim/` altındadır. Araç kurulum klasörüne metinleri de aktarır; üretmeden önce mevcut yamanızı yedekleyin. Font düzenleme ve kontrol araçları `araclar/` altındadır.
+
+[Araçta kullanılan MSBT projesi](https://github.com/IcySon55/3DLandMSBTeditor)
+
+## Açıklamalar
+
+- [00 OKU BENI](belgeler/00_OKU_BENI.txt)
+- [KURULUM VE CALISMA AKISI](belgeler/KURULUM_VE_CALISMA_AKISI.md)
+- [kullanim notlari](belgeler/kullanim_notlari.md)

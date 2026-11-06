@@ -101,11 +101,11 @@ HELP_RAPPEL_TUTORIAL_3##Bırakmak için @[RT]
 HELP_RELEASE_SWING##Bırakmak için @[RT] tuşuna bas
 HELP_RELEASE_SWING_IMPULSE##Yeniden salınmak için @[B] tuşuna bas
 HELP_ROLL##Çömelmişken yuvarlanmak için @[LT] tuşunu basılı tut ve @[Analog] ile hareket et.
-HELP_ROLL_BACKWARD##Geriye Yuvarlan @[ButtonL] + @[ArrowLeft]@[Analog]
-HELP_ROLL_BACKWARD2##Geriye Yuvarlan @[ButtonL] + @[Analog]@[ArrowRight]
-HELP_ROLL_FORWARD##İleri Yuvarlan @[ButtonL] + @[Analog]@[ArrowRight]
-HELP_ROLL_FORWARD2##İleri Yuvarlan @[ButtonL] + @[ArrowLeft]@[Analog]
-HELP_ROLLBACKWARDS##Geriye Yuvarlan @[LT] + @[ArrowLeft]@[Analog]
+HELP_ROLL_BACKWARD##Geriye yuvarlan @[ButtonL] + @[ArrowLeft]@[Analog]
+HELP_ROLL_BACKWARD2##Geriye yuvarlan @[ButtonL] + @[Analog]@[ArrowRight]
+HELP_ROLL_FORWARD##İleri yuvarlan @[ButtonL] + @[Analog]@[ArrowRight]
+HELP_ROLL_FORWARD2##İleri yuvarlan @[ButtonL] + @[ArrowLeft]@[Analog]
+HELP_ROLLBACKWARDS##Geriye yuvarlan @[LT] + @[ArrowLeft]@[Analog]
 HELP_ROPE_1##İpe tutunmak için zıpla
 HELP_ROPE_2##Hareket etmek için @[LS] kullan.|Bırakmak için @[RT] tuşuna bas.
 HELP_ROPE_3##İleri atlamak için @[B] tuşuna bas
@@ -113,8 +113,8 @@ HELP_RV_RUN##Koş!
 HELP_SLOW_FALL##Gölge Pençelerini kullanmak için duvara yakın zıpla.
 HELP_SLOW_FALL_0##Gölge Pençeleri'ni elde ettin.|Onlarla duvarlara tırman!
 HELP_START_SWING##Yeniden salınmak için @[B] tuşuna bas
-HELP_STOP_SWING##Durmak ve aşağı inmek için @[LS]'yi aşağı basılı tut.
-HELP_STOP_SWING_IMPULSE##Yukarı çıkmak için @[LS]'yi yukarı basılı tut.|Yeniden salınmak için @[B] tuşuna bas.|Bırakmak için @[RT] tuşuna bas.
+HELP_STOP_SWING##Durup aşağı inmek için @[LS]'yi aşağı doğru tut.
+HELP_STOP_SWING_IMPULSE##Yukarı çıkmak için @[LS]'yi yukarı tut.|Salınmaya devam etmek için @[B] tuşuna bas.|Bırakmak için @[RT] tuşuna bas.
 HELP_STOPWATCHES##Kronometreyi elde ettin.||@[D-DOWN] ile seç||Düşmanları ve tuzakları yavaşlatmak için @[A] tuşuna bas.|Etkisini artırmak için @[A] tuşunu basılı tut.
 HELP_SWIM_1##Yüzmek için @[Analog] kullan.|Daha hızlı gitmek için @[B] tuşuna bas.
 HELP_SWIM_2##Dalış yaparken oksijen çubuğunu takip et!|Doldurmak için hava cepleri ara.
@@ -124,15 +124,15 @@ HELP_SWING_TUTORIAL_JUMP_GRAB##Zıpla ve salınma noktasına tutunmak için @[RT
 HELP_TELEPORTER##Bu aygıtı hâlâ kullanamazsın.
 HELP_TELEPORTER_2##Kalede başka bölgelere ışınlanmak için bu aygıtı kullan.
 HELP_TOWER_NEED_OFFENSIVE_SPIRIT##Gargoyle asansörü kullanmana izin vermiyor.|Burada yardıma ihtiyacın var.
-HELP_TOWER_USE_OFFENSIVE_SPIRIT##Schneider'ın Ruhunu kullanarak yardım al.|@[CrossRight] ile çağır
+HELP_TOWER_USE_OFFENSIVE_SPIRIT##Schneider'in Ruhundan yardım al.|@[CrossRight] ile çağır.
 HELP_TREVOR_HALL_DOOR##Bu kapıyı açan kolu bul.
-HELP_TREVOR_VS_DRACULA##Onunkunun zıddı olan büyüyü seçmek için @[D-RIGHT] tuşuna bas.
+HELP_TREVOR_VS_DRACULA##Onunkinin tersi olan büyüyü seçmek için @[D-RIGHT] tuşuna bas.
 HELP_USABLE##Kullanmak için @[RT] tuşuna bas
 HELP_USABLE_RELEASE##Bırakmak için @[RT] tuşuna bas
 HELP_VK_DOOR##Savaş Haçın geliştirildi.|Artık kutsal taş kapıları çekebilirsin!
 HELP_VK_RECOVERED_1##Trevor Belmont'un Savaş Haçı'nı geri aldın!
 HELP_VK_RECOVERED_2##Artık düşmanları uzaktan yakalayabilir, salınma ve rapel noktalarını kullanabilirsin.
-HELP_WATERFALLS_NEED_DEFENSIVE_SPIRIT##Mevcut yeteneklerinle bu ölümcül şelaleden geçemezsin.|Daha sonra geri gel.
+HELP_WATERFALLS_NEED_DEFENSIVE_SPIRIT##Mevcut yeteneklerinle bu ölümcül şelaleyi aşamazsın.|Daha sonra geri gel.
 HELP_WATERFALLS_USE_DEFENSIVE_SPIRIT##Seni koruması için Belnades'in Ruhunu kullan.|@[CrossLeft] ile çağır
 HELP_WOLF_FORM_1##Kurt Formu'nu keşfettin.||Etkinleştirmek için @[D-RIGHT] tuşuna bas; saldırılarınla düşmanlara daha fazla hasar verirsin.
 HELP_WOLF_FORM_2##Bazı kapıları açmak için Kurt Formu'nu da kullanabilirsin.
@@ -165,18 +165,18 @@ dracula_trevor_taunt_4#Dracula#Kardeşliği yerle bir edeceğim!
 dracula_trevor_taunt_5#Dracula#Hepsini öldüreceğim!
 dracula_trevor_taunt_6#Dracula#Ölme vakti!
 necromancer_taunt_0#Necromancer#Baban köpek gibi öldü!
-necromancer_taunt_1#Necromancer#Ailen cesaretten yoksun... yazıklar olsun!
-necromancer_taunt_2#Necromancer#Baban korkak ve zayıftı... tıpkı senin gibi!
+necromancer_taunt_1#Necromancer#Ailen cesaretsiz, yazıklar olsun!
+necromancer_taunt_2#Necromancer#Baban da senin gibi korkak ve zayıftı!
 necromancer_taunt_3#Necromancer#Yakında ona katılacaksın, genç Belmont!
 night_watchman_taunt_0#Night_Watchman#Scaven'lerime yem olacaksın!
 night_watchman_taunt_1#Night_Watchman#Scaven'lerim seni onlardan birine dönüştürecek!
 night_watchman_taunt_2#Night_Watchman#Yakında yeni bir Scaven'den fazlası olmayacaksın!
 night_watchman_taunt_3#Night_Watchman#Umarım ceset tadını seversin
-night_watchman_taunt_4#Night_Watchman#Direnme... çok yakında sürünün bir parçası olacaksın
-risas_succubus#Succubus#Mmmm... hihihi
-succubu_visible_taunt_00#Succubus#Siiiiimooooon... Gel, Simon...
+night_watchman_taunt_4#Night_Watchman#Direnme... Çok yakında sürüye katılacaksın.
+risas_succubus#Succubus#Mmm... hihi
+succubu_visible_taunt_00#Succubus#Siiiiimooooon... Gel, Simon
 succubu_visible_taunt_01#Succubus#Yaklaş, Simon. Korkma...
-succubu_visible_taunt_02#Succubus#Haydi Simon... yaklaş... bize katıl...
+succubu_visible_taunt_02#Succubus#Simon... Yaklaş, bize katıl!
 succubus_combat_taunt_0#Succubus#Öpüşümü beğenmedin mi, Simon? Hahahaha!
 succubus_combat_taunt_1#Succubus#Beni reddettiğine pişman olacaksın!
 succubus_combat_taunt_2#Succubus#Beni istediğini biliyorum, Simon!
@@ -186,15 +186,15 @@ succubus_combat_taunt_41#Succubus#Hahaha!
 succubus_combat_taunt_42#Succubus#Hahaha!
 succubus_combat_taunt_5#Succubus#Lanet olsun sana, Simon!
 succubus_combat_taunt_6#Succubus#Bunun bedelini ödeyeceksin, Simon!
-succubus_taunt_1#Succubus#Gel, Simon...
-succubus_taunt_2#Succubus#Ooooh... Simon...
-succubus_taunt_3#Succubus#Simon...
-succubus_taunt_6#Succubus#Yaklaşmaya devam et, Simon... çok ama çok yakınsın...
+succubus_taunt_1#Succubus#Gel, Simon
+succubus_taunt_2#Succubus#Ooooh, Simon
+succubus_taunt_3#Succubus#Simon
+succubus_taunt_6#Succubus#Biraz daha yaklaş, Simon... Çok yakındasın!
 succubus_taunt_8#Succubus#Daha da yaklaş, Simon. Ne bekliyorsun?
-succubus_taunt_9#Succubus#Bizi daha fazla bekletme, Simon...
+succubus_taunt_9#Succubus#Artık bekletme bizi, Simon...
 cutscene_1_2_line0_1#Elder#Gördün, Marie. Ayna sana Gabriel'in kaderini gösterdi.
 cutscene_1_2_line0_2#Elder#Çocuğu babasından korumalısın.
-cutscene_1_2_line0_3#Elder#Gelecekte onun karşısına dikilebilecek tek kişi Trevor ve onun soyundan gelenler olacak.
+cutscene_1_2_line0_3#Elder#Gelecekte onunla sadece Trevor ve soyundan gelenler yuzlesebilecek.
 cutscene_1_2_line0_4#Elder#Oğlunun hayatta kalması, insanlığın tek umudu.
 cutscene_1_2_line1#Elder#Alacakaranlık çöktüğünde onun için geleceğiz.
 cutscene_2_1_line0#Sypha#Koş, Simon! Durma!
@@ -219,7 +219,7 @@ cutscene_2_3_line3#Simon#Kahretsin! Sessizliğinden bıktım artık!
 cutscene_2_3_line4#Simon#Göster onu bana!
 cutscene_2_3_line5#Simon#Hemen! Şimdi!
 cutscene_2_3_line6#Simon#Aptal yaratık!
-cutscene_2_3_line7#Simon#Peki. Peki. Hiç değilse söyle: Nereye gitmeliyim?
+cutscene_2_3_line7#Simon#Peki, peki. Hiç değilse nereye gitmem gerek, söyle.
 cutscene_2_4_line0#Alucard#Hayıır...
 cutscene_2_4_line1#Alucard#Bir adım daha yaklaşma.
 cutscene_2_4_line10_1#Simon#Karanlık Lord'u fazlasıyla öfkelendirmiş olmalı ki çok geçmeden;
@@ -227,7 +227,7 @@ cutscene_2_4_line10_2#Simon#Dracula, ordularıyla Kardeşliğin kalesine saldır
 cutscene_2_4_line10_3#Simon#Annem beni korumaya çalışırken öldürüldü.
 cutscene_2_4_line11_1#Alucard#Anlıyorum. Şimdi de Karanlığın Prensi'nin karşısına tek başına mı dikileceksin?
 cutscene_2_4_line11_2#Alucard#Baban, Kardeşliğin gelmiş geçmiş en iyi savaşçılarından biriydi. Yine de Dracula'yı yenemedi.
-cutscene_2_4_line11_3#Alucard#Senin başaracağını sana düşündüren ne?
+cutscene_2_4_line11_3#Alucard#Nereden cikardin bunu basaracagini?
 cutscene_2_4_line12#Simon#Babamı tanıyor muydun?
 cutscene_2_4_line13#Simon#Cevap ver. Babamı tanıyor muydun?
 cutscene_2_4_line14#Alucard#Sana söz veriyorum... onun karşısında yalnız durmayacaksın.
@@ -238,17 +238,17 @@ cutscene_2_4_line5#Simon#Kalede beni yönlendiren bir varlık var... Beni ona g�
 cutscene_2_4_line6#Simon#Babamındı. Onun ölümünün... ve annemin ölümünün intikamını almak için kullanacağım.
 cutscene_2_4_line7#Alucard#Annen nasıl öldü?
 cutscene_2_4_line8#Simon#Bunu neden bilmek istiyorsun?
-cutscene_2_4_line9_1#Simon#Babam, ben daha çocukkken yıllar önce bu kaleye gelmişti.
+cutscene_2_4_line9_1#Simon#Babam ben daha cocukken, yillar once bu kaleye gelmisti.
 cutscene_2_4_line9_2#Simon#Burada yaşayan kötülüğü yok etmeye geldi. Bir daha geri dönmedi.
 cutscene_2_5_line1#Dracula#Adına layıksın, Belmont.
 cutscene_2_5_line2#Simon#Ben Simon Belmont. Ailemin ölümünün intikamını almaya geldim... Seni yok etmeye geldim.
-cutscene_2_5_line3#Dracula#Söyle bakalım: Bunu nasıl yapmayı planlıyorsun, Simon Belmont?
+cutscene_2_5_line3#Dracula#Soyle bakalim: Bunu nasil yapacaksin, Simon Belmont?
 cutscene_2_5_line4#Dracula#Şununla mı... mesela?
 cutscene_2_5_line5_1#Dracula#Taşıdığın o kutsal emanetin bende bir hükmü yok, genç Belmont.
 cutscene_2_5_line5_2#Dracula#Şunu bil: Baban benim elimden öldü. Aynı kaderi sen de mi paylaşacaksın?
 cutscene_2_5_line6#Dracula#Beni öldüremezsin. Tıpkı baban gibi, boş yere öleceksin.
 cutscene_2_5_line7#Simon#Göreceğiz bakalım!
-cutscene_2_5_line8#Simon#İmkânsız....!
+cutscene_2_5_line8#Simon#İmkânsız...!
 cutscene_2_5_line9#Dracula#Aramıza katılman ne hoş... Alucard.
 cutscene_3_1_line1#Alucard#Demek sen de buradaydın.
 cutscene_3_1_line10#Alucard#Nerede olduğunu söyle.
@@ -275,7 +275,7 @@ cutscene_3_4_line4#Alucard#Görünüşe göre kader bana ikinci bir şans verdi.
 cutscene_3_4_line5#Alucard#Başladığımı bitirmeye geldim.
 cutscene_3_4_line6_1#Dracula#Neden geldiğini biliyorum. Yanımda duracağını ummuştum, oğlum.
 cutscene_3_4_line6_2#Dracula#Kardeşliği yok etmek zorunda olduğumu anlayacağını ummuştum.
-cutscene_3_4_line6_3#Dracula#Benimle gel... bu dünyayı yeniden şekillendirelim.
+cutscene_3_4_line6_3#Dracula#Benimle gel... Dünyayı yeniden şekillendirelim.
 cutscene_3_4_line7_1#Alucard#Seninle mi? Bana bak! Beni bir canavara çevirdin, Baba!
 cutscene_3_4_line7_2#Alucard#Beni senin gibi yaptın: kana susamış, nefretle dolu bir yaratığa.
 cutscene_3_4_line7_3#Alucard#O gece ölmeme izin vermeliydin...
@@ -287,8 +287,8 @@ cutscene_3_5_line1#Simon#Ne demek istiyorsun?
 cutscene_3_5_line2#Alucard#Boynunda taşıdığın kolyeyi istiyor.
 cutscene_3_5_line3#Simon#Asla! Babamın hediyesiydi. Ondan geriye kalan tek şey bu.
 cutscene_3_5_line4_1#Alucard#Baban, onun gerçek gücünü bilmeden sana verdi.
-cutscene_3_5_line4_2#Alucard#Onu taşıdığın sürece kendi başına karar verip tamamen özgürce hareket edemezsin.
-cutscene_3_5_line4_3#Alucard#Eylemlerin yönlendirilecek, manipüle edileceksin.
+cutscene_3_5_line4_2#Alucard#Bu kolye takiliyken kendi kararlarini veremez, ozgurce davranamazsin.
+cutscene_3_5_line4_3#Alucard#Seni yonlendirip kukla gibi kullanacaklar.
 cutscene_3_5_line4_4#Alucard#Buraya tamamen kendi özgür iradenle geldiğini mi sanıyorsun?
 cutscene_3_5_line4_5#Alucard#Bırak onu... sana ait değil.
 cutscene_3_5_line5#Alucard#...tıpkı babana ait olmadığı gibi.
@@ -298,15 +298,15 @@ cutscene_4_1_line0#Sypha#O, babanın eşyası Simon. Lütfen bırak, oyuncak de�
 cutscene_4_1_line1#Sypha#Kardeşlik bunu söylemek için neden şimdiye kadar bekledi?
 cutscene_4_1_line2#Trevor#Bilmiyorum. Sanırım onun geri dönmeyeceğine inandılar.
 cutscene_4_1_line3_1#Trevor#Ben olmalıyım, Sypha. Başka kimse olamaz! Anlıyorsun, değil mi?
-cutscene_4_1_line3_2#Trevor#Kendi ailemin onuru adına, bu utançla yaşayamam.
+cutscene_4_1_line3_2#Trevor#Ailemin onuru icin bu utanci tasiyamam.
 cutscene_4_1_line3_3#Trevor#Seni ve Simon'u bundan korumalıyım.
 cutscene_4_1_line4#Trevor#Annemin intikamını almalıyım.
 cutscene_4_1_line5_1#Trevor#Bu küçük ayna parçasını çocukluğumdan beri yanımda taşıyorum.
 cutscene_4_1_line5_2#Trevor#Geçmişini ve gerçek kaderini gösterebilen büyülü bir aynadan geldiği söylenir.
-cutscene_4_1_line5_3#Trevor#Bana hiç bir şey göstermedi ama belki bir gün, oğlum... senin kaderinden bir şeyler gösterir.
+cutscene_4_1_line5_3#Trevor#Bana hiçbir şey göstermedi ama belki bir gün, oğlum, kaderinle ilgili bir şey gösterir.
 cutscene_4_1_line6_1#Trevor#Onu sakla ve daima yanında taşı, Simon.
 cutscene_4_1_line6_2#Trevor#Benim için yapar mısın?
-cutscene_4_1_line7_1#Trevor#Şafak sökmeden dönmezsem, çocuğu al ve burayı ardında bırak.
+cutscene_4_1_line7_1#Trevor#Safak sokene dek donmezsem cocugu al ve buradan uzaklas.
 cutscene_4_1_line7_2#Trevor#Ormana git, ama beni arama.
 cutscene_4_1_line8#Sypha#Bize geri dön, aşkım.
 cutscene_4_2_line0#Lost_Soul#Hoş geldin, Trevor. Seni bekliyordum.
@@ -324,19 +324,19 @@ cutscene_4_4_line1_2#Dracula#Beni karşılaması için "özel" birini göndermen
 cutscene_4_4_line10#Trevor#Adını söyleyeceğim...!
 cutscene_4_4_line11#Trevor#Tam da onu kalbine kazımadan önce!
 cutscene_4_4_line2#Dracula#Bunu söylüyorum çünkü elinde Gandolfi'nin silahlarından birini tuttuğunu görüyorum.
-cutscene_4_4_line3#Dracula#Çaresizlik içinde Kardeşlik seni kandırmışa benziyor.
+cutscene_4_4_line3#Dracula#Kardeslik caresizlik icinde seni kandirmis olmali.
 cutscene_4_4_line4#Dracula#Yine de böylesi bir silahı kullanan savaşçının adını bilmek isterim.
-cutscene_4_4_line5_1#Trevor#Varlığın bile bana ve aileme utanç getiren birinin... Şeytan.
-cutscene_4_4_line5_2#Trevor#Bu topraklarda bir iğrençlikten ibaretsin.
+cutscene_4_4_line5_1#Trevor#Varlığın bile bana ve aileme utanç veriyor, Şeytan!
+cutscene_4_4_line5_2#Trevor#Bu dunyada igrenc bir varliksin.
 cutscene_4_4_line5_3#Trevor#Kim olduğunu, ne olduğunu biliyorum ve bugün intikamımı alacağım...
 cutscene_4_4_line6#Trevor#...annemin öldürülmesinin hesabını.
-cutscene_4_4_line7_1#Dracula#Demek kişisel... Bu işi çok daha ilginç kılıyor.
+cutscene_4_4_line7_1#Dracula#Demek kişisel? Bu iş daha da ilginçleşti.
 cutscene_4_4_line7_2#Dracula#İntikam güçlü bir duygudur, dostum. Yıllardır en yakın yoldaşım oldu.
-cutscene_4_4_line8_1#Dracula#O kadar çok kişiyi öldürdüm ki... Hepsini daha iyi bir yaşama gönderdim; bunu görmüyor musun?
+cutscene_4_4_line8_1#Dracula#O kadar çok kişiyi öldürdüm ki... Hepsini daha iyi bir yaşama gönderdim; görmüyor musun?
 cutscene_4_4_line8_2#Dracula#Kurbanlarımı tanımakla ilgilenmem. Anneni tanımıyorum, çocuk!
 cutscene_4_4_line9#Trevor#Ama tanıyordun! Hem de çok iyi tanıyordun!
 cutscene_4_5_line0#Trevor#Şimdi anlıyorum... Her şeyi anlıyorum.
-cutscene_4_5_line1#Trevor#Kaderime karşı savaştım, her ne kadar boşuna olsa da.
+cutscene_4_5_line1#Trevor#Boşuna olsa da kaderime karşı savaştım.
 cutscene_4_5_line10_1#Dracula#Hayııır!... Yaşa...
 cutscene_4_5_line10_2#Dracula#Yaşa, oğlum.......
 cutscene_4_5_line2_1#Trevor#Ama sen... sen kaderini kabullendin. Her fırsatta ihanete uğradın,
@@ -541,13 +541,13 @@ GUI_CHAPTER004##Perde III - Trevor Belmont
 GUI_CHAPTER005##Oynama Süresi
 GUI_CINEMATICS001##Oynatılıyor
 GUI_CINEMATICS002## / 
-GUI_CONFIRM001##Macera yeniden başlatılsın mı?
-GUI_CONFIRM002##Yeni Oyun onaylansın mı ve son kayıt silinsin mi?
+GUI_CONFIRM001##Maceraya yeniden başlansın mı?
+GUI_CONFIRM002##Yeni oyun başlatılıp son kayıt silinsin mi?
 GUI_CONFIRM004##Maceraya devam edilsin mi?
 GUI_CONFIRM005##Değişiklikler onaylansın mı?
-GUI_CONFIRM006##Seçili perdeye devam edilsin mi?
+GUI_CONFIRM006##Seçili bölüme devam edilsin mi?
 GUI_CONFIRM007##Seçili işaret silinsin mi?
-GUI_CONFIRM008##Ana menüye çıkılsın mı?|Kaydedilmemiş tüm ilerleme kaybolacak.
+GUI_CONFIRM008##Ana menüye dönülsün mü?|Kaydedilmemiş tüm ilerleme kaybolacak.
 GUI_CONFIRM009##Yeni bir ipucu alınsın mı?
 GUI_CONFIRM010##Bulmaca çözülsün mü?
 GUI_CONFIRM011##Son kayıt noktasına dönülsün mü?|Kaydedilmemiş tüm ilerleme kaybolacak.
@@ -559,14 +559,14 @@ GUI_CONTROLS003##Oyunu Duraklat
 GUI_CONTROLS004##Doğrudan Saldırılar
 GUI_CONTROLS005##Alan Saldırıları
 GUI_CONTROLS006##İkincil Silah
-GUI_CONTROLS007##Zıpla / Çift Zıpla / Geri Sıçra / Salın
-GUI_CONTROLS008##Düşmanları Yakala / Salınma ve Rapel Noktalarını Tut-Bırak
+GUI_CONTROLS007##Zıpla / Çift Zıpla / Geri Savur / Salın
+GUI_CONTROLS008##Düşmanları yakala / salınma, rapel noktalarına tutun-bırak
 GUI_CONTROLS009##Büyü Güçlerini Aç/Kapat
 GUI_CONTROLS010##Etkin İkincil Silahı Seç
 GUI_CONTROLS011##Seyahat Kitabını Aç
 GUI_CONTROLS012##Özel Görünümü Etkinleştir
 GUI_CONTROLS013##Daire Pad
-GUI_CONTROLS014##+ Kontrol Pad
+GUI_CONTROLS014##+ Yön Tuşları
 GUI_CONTROLS015##Dokunmatik Ekran
 GUI_CONTROLS016##Yakınlaştır
 GUI_CONTROLS017##Uzaklaştır
@@ -575,12 +575,12 @@ GUI_CONTROLS019##Bilgi
 GUI_CONTROLS020##Yakınlaştır/Uzaklaştır
 GUI_CREDITS001##© 2013 Konami Digital Entertainment
 GUI_CREDITS002##Geliştiren: MercurySteam
-GUI_DATA_CORRUPT##Kayıt verisi bozuk.|Veri biçimlendiriliyor ...
+GUI_DATA_CORRUPT##Kayıt verisi bozuk.|Veri biçimlendiriliyor...
 GUI_DIFICULTY_UNLOCKED##'Hardcore' zorluk modu açıldı.
-GUI_GAME_COMPLETE##Oyun %100 tamamlandı!||Ek ara sahne açıldı: 'Separate ways'||Ana menüden izleyebilirsin.
-GUI_GAME_EXTRA_CUTSCENE##Ek ara sahne açıldı: 'Separate ways'||Ana menüden izleyebilirsin.
+GUI_GAME_COMPLETE##Oyun %100 tamamlandı!||Ek ara sahne açıldı: Ayrı Yollar||Ana menüden izleyebilirsin.
+GUI_GAME_EXTRA_CUTSCENE##Ek ara sahne açıldı: Ayrı Yollar||Ana menüden izleyebilirsin.
 GUI_GAME_FINISHED_1##Oyun @[$COMPLETE]% tamamlandı
-GUI_GAME_FINISHED_2##Oyunu %100 tamamlamak için tüm sırları bul ve özel bir ara sahnenin kilidini aç: 'Separate Ways'
+GUI_GAME_FINISHED_2##Oyunu %100 tamamlamak için tüm sırları bul ve özel Ayrı Yollar ara sahnesinin kilidini aç.
 GUI_HEALTH##Sağlık ve Güvenlik
 GUI_MAP_MARKS01##Hedef
 GUI_MAP_MARKS02##Hedef Rehberi
@@ -589,7 +589,7 @@ GUI_MAP_MARKS04##Işınlayıcı
 GUI_MAP_MARKS05##Can Çeşmesi
 GUI_MAP_MARKS06##Büyü Çeşmesi
 GUI_MAP_MARKS07##Gizli
-GUI_MAP_TUTO01##Bu, Seyahat Kitabındaki harita ekranı.
+GUI_MAP_TUTO01##Bu Seyahat Kitabı'ndaki harita ekranı.
 GUI_MAP_TUTO02##Gösterildiği gibi bir notu sürükleyip bırakarak haritaya yerleştirebilirsin.
 GUI_MAP_TUTO03##Buradan aşağıdaki Envanter ve Yetenekler sekmelerine de erişebilirsin.|Şimdi dene!
 GUI_MAP001##İşaret

@@ -24,7 +24,7 @@ def main():
     with tempfile.TemporaryDirectory(prefix='layton_tr_') as td:
         td=Path(td); src=td/'src'; out=td/'out'; src.mkdir()
         count=extract_xs(Path(a.clean_fa),src)
-        cmd=[sys.executable,str(HERE/'xs'/'arac'/'layton_xs_tool.py'),'inject',str(src),str(a.project),str(out),'--compression','original','--encoding-policy','turkish-font','--report',str(td/'xs_report.json')]
+        cmd=[sys.executable,str(HERE/'xs'/'araclar'/'layton_xs_tool.py'),'inject',str(src),str(a.project),str(out),'--compression','original','--encoding-policy','turkish-font','--report',str(td/'xs_report.json')]
         subprocess.run(cmd,check=True)
         reps={f'txt/uk/{p.relative_to(out).as_posix()}':p for p in out.rglob('*.xs')}
         stat=repack(str(a.clean_fa),reps,str(a.output_fa))

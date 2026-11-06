@@ -1,20 +1,13 @@
-# Detective Pikachu Türkçe Yama — v18 Manuel Tur 14
+# Detective Pikachu Türkçe çeviri çalışması
 
-Bu paket kullanıcı tarafından sağlanan Türkçe patch'in çok-dilli manuel kalite denetimidir.
+Bu klasör, çeviri denetimi için kullanılan İngilizce MSBT dosyalarını, çok dilli karşılaştırma tablolarını ve MSBT araçlarını içerir. Kurulabilir bir yama paketi bu klasörde bulunmuyor; çalışma henüz tamamlanmadı.
 
-- Bu tur: `episode7.csv` **1003/1003**
-- Bu tur değişti: **266**
-- Bu tur aynı kaldı: **737**
-- Kümülatif manuel: **6737/17653**
-- Henüz manuel incelenmedi: **10916**
+- Toplam kayıt: **17.653**
+- Manuel incelenen: **8.044**
+- Düzeltilen: **2.827**
+- Değişmeden bırakılan: **5.217**
+- İncelenmeyi bekleyen: **9.609**
 
-Klasörler:
-- `patch_v18/` — kurulabilir Türkçe patch
-- `comparison_csv_v18/` — tüm 27 çok-dilli CSV
-- `manual_review_csv_v18/` — manuel karar ve raporlar
-- `qa_v18/` — heuristik QA
-- `tools/` — MSBT araçları ve manuel karar dosyası
+İncelenen satırlar İngilizce kaynak ve mevcut Fransızca, Almanca, İtalyanca, İspanyolca, Japonca ve Çince yerelleştirmelerle karşılaştırılıyor. Bu klasörde Portekizce kaynak sütunu bulunmuyor. Episode 1’de 1.307/1.307 kayıt çok dilli kaynaklarla tek tek incelendi; bu turda 437 kayıt incelendi, 85 çeviri düzeltildi; Pokémon vakalarına tepki, korkmuş çocuğa hitap ve not açma yönergesi doğallaştırıldı. Pokémon vokalizasyonu etiketi “Pokémon sesi” olarak standardize edildi; olay yerine dönme, Burmy kolyesi çıkarımı, pelerin hasarı ve Tepig kanıt repliği ve Aipom diyalogları kaynak anlamına göre düzenlendi; “Pokémon cry” teknik etiketi “Pokémon sesi” oldu. Kontrol etiketlerinin sırası ve sayısı 30 kayıtta da korundu. Son deneme derlemesinde 27 MSBT dosyası üretildi; etiket sırası korundu, kontrol etiketleri denetimi geçti ve kod çözülemeyen bayt çıkmadı. Bu kontrol, gerçek cihazdaki yazı tipi ve ekran görünümünü doğrulamaz.
 
-Türkçe font korunmuştur.
-
-Final Episode 7 heuristik QA: **191/191 bayrak manuel tekrar kontrol edildi; kritik hata 0.**
+Çalışma tabloları `comparison_csv` altında, araçlar `tools` altında, temel İngilizce MSBT dosyaları da `00040000001C1E00/romfs/message/English` altında yer alır.

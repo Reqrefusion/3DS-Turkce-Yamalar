@@ -102,7 +102,7 @@
 100,eol_retry:0:*,\x_button_32         Tekrar Dene,01
 101,eol_retry_confirm:0:*,Bölümü yeniden denemek|istediğinden emin misin?,01
 102,eol_retry_core:0:*,\x_button_32         Tekrar Dene,01
-103,eol_unlock_diorama:0:*,DİYORAMA GALERİSİ GÜNCELLENDİ!,01
+103,eol_unlock_diorama:0:*,DİORAMA GALERİSİ GÜNCELLENDİ!,01
 104,eol_unlock_image:0:*,GÖRSEL GALERİSİ GÜNCELLENDİ!,01
 105,eol_unlock_music:0:*,MÜZİK GALERİSİ GÜNCELLENDİ!,01
 106,eol_unlock_nosavegame:0:*,Aferin!,01
@@ -110,7 +110,7 @@
 108,eol_viewreplay_core:0:*,\y_button_32	    Tekrarı İzle,01
 109,eol_worldclear:0:*,Dünya Tamamlandı!,01
 110,exitboard:0:*,<squish=0.8>ÇIKIŞ,01
-111,extras_diorama:0:*,Diyorama Galerisi,01
+111,extras_diorama:0:*,Diorama Galerisi,01
 112,extras_diorama_categories:0:*,Cangıl,01
 113,extras_diorama_categories:1:*,Sahil,01
 114,extras_diorama_categories:2:*,Harabeler,01
@@ -123,14 +123,14 @@
 121,extras_diorama_instruction_:0:*,\dpad_all_directions      Döndür,01
 122,extras_diorama_instruction_D1:0:*,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
 123,extras_diorama_instruction_D2:0:*,\9097e9e2\y_button_32<squish=0.8> Yakınlaştır,01
-124,extras_diorama_titles:0:*,Cangıl Diyoraması,01
-125,extras_diorama_titles:1:*,Sahil Diyoraması,01
-126,extras_diorama_titles:2:*,Harabeler Diyoraması,01
-127,extras_diorama_titles:3:*,Mağara Diyoraması,01
-128,extras_diorama_titles:4:*,Orman Diyoraması,01
-129,extras_diorama_titles:5:*,Uçurum Diyoraması,01
-130,extras_diorama_titles:6:*,Fabrika Diyoraması,01
-131,extras_diorama_titles:7:*,Volkan Diyoraması,01
+124,extras_diorama_titles:0:*,Cangıl Dioraması,01
+125,extras_diorama_titles:1:*,Sahil Dioraması,01
+126,extras_diorama_titles:2:*,Harabeler Dioraması,01
+127,extras_diorama_titles:3:*,Mağara Dioraması,01
+128,extras_diorama_titles:4:*,Orman Dioraması,01
+129,extras_diorama_titles:5:*,Uçurum Dioraması,01
+130,extras_diorama_titles:6:*,Fabrika Dioraması,01
+131,extras_diorama_titles:7:*,Volkan Dioraması,01
 132,extras_imagenames:0:*,Kurbazorba,01
 133,extras_imagenames:1:*,Gak,01
 134,extras_imagenames:2:*,Kıskaçlı ve Dostu,01
@@ -164,7 +164,7 @@
 162,extras_imagenames:30:*,Çirko,01
 163,extras_imagenames:31:*,Kıskaçlı Korsanlar,01
 164,extras_imagenames:32:*,Yahni,01
-165,extras_imagenames:33:*,Madenci Max,01
+165,extras_imagenames:33:*,Köstebek Madenci Max,01
 166,extras_imagenames:34:*,Madenci Köstebekler,01
 167,extras_imagenames:35:*,Işıltırtıl,01
 168,extras_imagenames:36:*,Zorbo,01
@@ -215,7 +215,7 @@
 213,extras_image_categories:0:*,Yaratıklar 1 Galerisi,01
 214,extras_image_categories:1:*,Yaratıklar 2 Galerisi,01
 215,extras_image_categories:2:*,Tiki Galerisi,01
-216,extras_image_categories:3:*,Baş Düşmanlar,01
+216,extras_image_categories:3:*,Baş Düşman Galerisi,01
 217,extras_image_categories:4:*,Dünyalar Galerisi,01
 218,extras_image_categories:5:*,Kong Galerisi,01
 219,extras_image_categories:6:*,Altın Tapınak Galerisi,01
@@ -227,7 +227,7 @@
 225,extras_image_category_title:0:*,Yaratıklar 1 Galerisi,01
 226,extras_image_category_title:1:*,Yaratıklar 2 Galerisi,01
 227,extras_image_category_title:2:*,Tiki Galerisi,01
-228,extras_image_category_title:3:*,Baş Düşmanlar,01
+228,extras_image_category_title:3:*,Baş Düşman Galerisi,01
 229,extras_image_category_title:4:*,Dünyalar Galerisi,01
 230,extras_image_category_title:5:*,Kong Galerisi,01
 231,extras_image_category_title:6:*,<scale=0.8>Altın Tapınak Galerisi,01
@@ -292,7 +292,7 @@
 290,extras_unlock_instructions_:0:*,Tüm bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
 291,extras_unlock_instructions_D1:0:*,Bu galeriyi açmak için|yapboz parçaları topla!,01
 292,extras_unlock_instructions_D2:0:*,Bölüm sonu düşmanlarını yenerek|bu galeriyi aç!,01
-293,extras_unlock_instructions_D3:0:*,Yapboz parçaları topla ve bölüm sonu|düşmanlarını yenerek bu öğeyi aç!,01
+293,extras_unlock_instructions_D3:0:*,"Yapboz parçalarını topla, bölüm sonu|düşmanlarını yen ve bu öğeyi aç!",01
 294,extras_unlock_instructions_D4:0:*,Bölüm sonu düşmanlarını yenerek|bu öğeyi aç!,01
 295,extras_unlock_instructions_D5:0:*,Bu öğeyi açmak için|yapboz parçaları topla!,01
 296,extras_unlock_instructions_D6:0:*,Bu öğeyi yalnızca|en azimli maymun açabilir!,01
@@ -637,7 +637,7 @@
 635,shop_worldkey_comment:4:OPT,<squish=0.82>Bu anahtarın dev gibi olduğunu biliyorum|ama sen de iri bir maymunsun. Taşırsın.,01
 636,shop_worldkey_purchase:0:CON,"<squish=0.82>Tabii tabii, sen kolay yolu seç.",01
 637,shop_worldkey_purchase:1:CON,"<squish=0.82>Ne yani, şu uyduruk kilidi aşmak için|anahtara mı ihtiyacın var?",01
-638,shop_worldkey_purchase:2:OPT,"<squish=0.82>Haydi, adanın bütün sırlarını keşfet!",01
+638,shop_worldkey_purchase:2:OPT,<squish=0.82>Adanın bütün sırlarını keşfetme yolundasın!,01
 639,shop_worldkey_purchase:3:OPT,<squish=0.82>Git ve yeni bir şey keşfet!,01
 640,shop_worldkey_purchase:4:OPT,<squish=0.82>Tüm KONG harflerini bulursan|heyecan verici bir şey olabilir!,01
 641,shop_worldkey_purchase:5:DIS,"<squish=0.82>Adanın bütün sırlarını mı arıyorsun,|yoksa sadece kolay yolu mu seçiyorsun?",01

@@ -24,7 +24,7 @@ def main():
    roots=extract(Path(fa),td/Path(fa).stem)
    for lang,root in roots.items():
     pj=td/f'{Path(fa).stem}_{lang}.jsonl'
-    subprocess.run([sys.executable,str(HERE/'xs'/'arac'/'layton_xs_tool.py'),'export',str(root),str(pj)],check=True,stdout=subprocess.DEVNULL)
+    subprocess.run([sys.executable,str(HERE/'xs'/'araclar'/'layton_xs_tool.py'),'export',str(root),str(pj)],check=True,stdout=subprocess.DEVNULL)
     data={}
     for line in pj.open(encoding='utf-8'):
      r=json.loads(line)

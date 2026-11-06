@@ -1,4 +1,4 @@
-id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,translation,notes
+﻿id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,translation,notes
 0,0x3B12,16,0,16,1.000,0B8E6484,Outside of town.,Kasaba dışında.,
 1,0x3B34,12,0,12,1.000,D9138C43,By the tree.,Ağacın yanı.,
 2,0x3B4E,16,0,16,1.000,E11E4F66,Yun's Tea House.,Yun'un Çay Evi,
@@ -23,7 +23,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 21,0x3D3C,12,0,12,1.000,FA0E0DB5,Cam's house.,Cam'in Evi,
 22,0x3D56,13,0,13,1.000,E61A6AC5,Kana's place.,Kana'nın Yeri,
 23,0x3D72,10,0,10,1.000,BE639E59,Town Hall.,Belediye,
-24,0x3D88,14,0,14,1.000,39989BBC,Laney's house.,Laney'in Evi,
+24,0x3D88,14,0,14,1.000,39989BBC,Laney's house.,Laney'nin Evi,
 25,0x3DA6,16,0,16,1.000,E4C8A8BD,Georgia's house.,Georgia'nın Evi,
 26,0x3DC8,14,0,14,1.000,CC7EFBB4,Reina's house.,Reina'nın Evi,
 27,0x3DE6,13,0,13,1.000,826900DA,Nori's house.,Nori'nin Evi,
@@ -152,9 +152,9 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 150,0x86DA,6,0,6,1.000,4415CD82,Tomato,Domat.,
 151,0x86E8,7,0,7,1.000,4985191A,Spinach,Ispanak,
 152,0x86F8,9,0,9,1.000,832C7FE3,Buckwheat,Karabuğd.,
-153,0x870C,15,0,15,1.000,FDB17115,Carnation Seeds,Karanfil Tohum,
-154,0x872C,15,0,15,1.000,38330C76,Sunflower Seeds,Ayçiçeği Tohum,
-155,0x874C,16,0,16,1.000,4752A841,White Rose Seeds,Beyaz Gül Tohum,
+153,0x870C,15,0,15,1.000,FDB17115,Carnation Seeds,Karanfil Tohumu,
+154,0x872C,15,0,15,1.000,38330C76,Sunflower Seeds,Ayçiçeği Tohumu,
+155,0x874C,16,0,16,1.000,4752A841,White Rose Seeds,Beyaz Gül Tohumu,
 156,0x876E,13,0,13,1.000,AD6BC225,Gentian Seeds,Gentian Tohum,
 157,0x878A,12,0,12,1.000,0DE654E1,Great Yogurt,Üstün Yoğurt,
 158,0x87A4,15,0,15,1.000,CEF00F31,Great Herb Mayo,Üstün Otlu Mayo,
@@ -170,7 +170,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 168,0x8894,12,0,12,1.000,75309DE3,French Fries,Patates Kız.,
 169,0x88AE,13,0,13,1.000,D7C9EBF3,Pickled Onion,Soğan Turşusu,
 170,0x88CA,14,0,14,1.000,4BB8118B,Pickled Carrot,Havuç Turşusu,
-171,0x88E8,15,0,15,1.000,8C5E401B,Bok Choy Kimchi,Bok Choy Kimchi,
+171,0x88E8,15,0,15,1.000,8C5E401B,Bok Choy Kimchi,Pak Choi Kimchi,
 172,0x8908,6,0,6,1.000,24E7DCFD,Potato,Patat.,
 173,0x8916,5,0,5,1.000,5C9EEF84,Onion,Soğan,
 174,0x8922,6,0,6,1.000,2CABB1F4,Carrot,Havuç,
@@ -213,7 +213,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 211,0x92A8,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 212,0x92C0,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 213,0x92D8,33,4,29,0.848,F8E7853B,It's so cute!{BR}I love animals!,Çok tatlı!{BR}Hayvanları severim,
-214,0x931C,74,4,70,0.905,3AA14EF3,"That your pet?{#232B}I love most animals, but{BR}I'm not a big fan of this{BR}one.",Bu senin evcilin mi?{#232B}Çoğu hayvanı severim ama{BR}bundan hoşlanmıyorum.,
+214,0x931C,74,4,70,0.905,3AA14EF3,"That your pet?{#232B}I love most animals, but{BR}I'm not a big fan of this{BR}one.",Bu senin evcil hayvanın mı?{#232B}Çoğu hayvanı severim ama{BR}bundan hoşlanmam.,
 215,0x93B2,102,4,98,0.882,F564203E,"Huh? A Blue Feather!?{BR}Really? For me!?{#232B}{#1F46}{#1FA6}{#1F4D}{#2136}G-Gotcha.{BR}Well, let's go somewhere{BR}and talk about this.",Ha? Mavi Tüy mü!?{BR}Cidden? Bana mı!?{#232B}{#1F46}{#1FA6}{#1F4D}{#2136}T-Tamam.{BR}Hadi sakin bir yere gidip{BR}konuşalım.,
 216,0x9480,122,4,118,0.934,167C1743,"Oh, a Blue Feather?{BR}Who're gonna give it to?{#232B}Your lips are sealed, right?{BR}Whoever you give it to,{BR}they sure are lucky.","Aa, Mavi Tüy?{BR}Kime vereceksin?{#232B}Sır vermiyorsun, ha?{BR}Kime verirsen ver,{BR}çok şanslı biri.",
 217,0x9576,35,4,31,0.857,557BECDB,For me?{BR}I don't really want it.,Bana mı?{BR}Pek istemiyorum.,
@@ -255,16 +255,16 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 253,0xA86C,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 254,0xA884,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 255,0xA89C,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
-256,0xA8B4,88,4,84,0.875,D42D12DF,"Huh? A present?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Oh yeah, it's Harmony Day.{BR}How cool to still get a{BR}gift. Thanks.","Ha? Hediye mi?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Aa, bugün Uyum Günü. Hala{BR}hediye almak güzel. Sağ ol.",
+256,0xA8B4,88,4,84,0.875,D42D12DF,"Huh? A present?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Oh yeah, it's Harmony Day.{BR}How cool to still get a{BR}gift. Thanks.","Ha? Hediye mi?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Aa, bugün Uyum Günü.{BR}Yine de hediye almak güzel.{BR}Sağ ol.",
 257,0xA966,94,4,90,0.926,2A883C6F,"Whoa, is this...for me?{BR}For my birthday?{#232B}Thanks! It's just what I{BR}wanted! You're the best!","Vay, bu... bana mı?{BR}Doğum günüm için mi?{#232B}Sağ ol! Tam istediğim şey!{BR}Sen bir tanesin!",
 258,0xAA24,66,4,62,0.848,F9A112C8,Wow! For me?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}You know just what I like!{BR}Thank you so much!,Vay! Bana mı?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Neyi sevdiğimi iyi{BR}biliyorsun!{BR}Çok sağ ol!,
-259,0xAAAA,82,4,78,0.927,52A09C06,"We can still go on dates{BR}even though we're married.{BR}So how about a date, then?","Evli olsak da hala{BR}buluşmaya çıkabiliriz.{BR}Ne dersin, çıkalım mı?",
+259,0xAAAA,82,4,78,0.927,52A09C06,"We can still go on dates{BR}even though we're married.{BR}So how about a date, then?","Evli olsak da randevuya{BR}çıkabiliriz. Ne dersin,{BR}randevuya çıkalım mı?",
 260,0xAB50,42,1,41,0.952,780140CE," Okay, let's go!!{BR} Let's go another time."," Tamam, gidelim!!{BR} Başka zaman gidelim.",
 261,0xABA6,55,4,51,0.891,E12AA0AA,"I see...{BR}We'll go another time, then.{BR}I can't wait!",Anladım...{BR}Başka zaman gideriz.{BR}O günü bekliyorum!,
 262,0xAC16,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 263,0xAC2E,106,4,102,0.887,9AA88996,"Uh, so that's...{BR}that's for me?{#232B}{#1F46}{#1FA6}{#1F4B}{#2136}What a terrible birthday{BR}present. But I guess I have{BR}to take it...","Şey, yani bu...{BR}bana mı?{#232B}{#1F46}{#1FA6}{#1F4B}{#2136}Ne berbat doğum günü{BR}hediyesi. Ama sanırım{BR}almak zorundayım...",
 264,0xAD04,97,4,93,0.918,5AC29DC8,"Uh, so that's...{BR}that's for me?{#232B}Why would you give me{BR}that? Well, I'll take{BR}it if you insist.","Şey, yani bu...{BR}bana mı?{#232B}Bunu bana niye{BR}veresin? Madem ısrar{BR}ediyorsun, alırım.",
-265,0xADC8,86,4,82,0.919,A0188BB8,So we're going{BR}to have a baby...{#232B}It still doesn't feel real.{BR}But what a miracle...,Demek bir bebeğimiz{BR}olacak...{#232B}Hala gerçek gibi gelmiyor.{BR}Ne büyük mucize...,
+265,0xADC8,86,4,82,0.919,A0188BB8,So we're going{BR}to have a baby...{#232B}It still doesn't feel real.{BR}But what a miracle...,Demek bir bebeğimiz{BR}olacak...{#232B}Bir türlü gerçek gibi gelmiyor.{BR}Ne büyük mucize...,
 266,0xAE76,51,4,47,0.902,9E3130B3,You have to take care of{BR}yourself and the baby.,Kendine ve bebeğe{BR}iyi bakmalısın.,
 267,0xAEDE,117,4,113,0.932,8FF33FCB,"Hey, have you thought of{BR}any names for the baby?{#232B}I have some ideas myself,{BR}but I think you should{BR}name our first.","Hey, bebek için hiç{BR}isim düşündün mü?{#232B}Benim de birkaç fikrim var{BR}ama ilk ismi senin{BR}koymanı isterim.",
 268,0xAFCA,48,4,44,0.896,C24635BA,Waking up to your face makes{BR}my day perfect.,Sabah yüzünü görmek{BR}günümü güzelleştiriyor.,
@@ -283,7 +283,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 281,0xB63E,46,4,42,0.891,E8EF1513,"Oh, didn't you need that{BR}for the festival?","Aa, festival için{BR}ona ihtiyacın yok muydu?",
 282,0xB69C,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 283,0xB6B4,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
-284,0xB6CC,57,4,53,0.912,7E0E6359,Is that your pet? Make sure{#232B}you take good care of it.,Bu senin evcilin mi?{#232B}Ona iyi baktığından emin ol.,
+284,0xB6CC,57,4,53,0.912,7E0E6359,Is that your pet? Make sure{#232B}you take good care of it.,Bu senin evcil hayvanın mı?{#232B}Ona iyi bak.,
 285,0xB740,44,4,40,0.886,8CAEF1DC,Heh heh. It's so cute.{BR}I really like it.,He he. Çok tatlı.{BR}Hoşuma gitti.,
 286,0xB79A,52,4,48,0.904,7666F9F3,Don't bring that in here.{BR}You should let it go. ,Onu buraya getirme.{BR}Bence serbest bırak.,
 287,0xB804,63,4,59,0.905,C6646CB4,You can't keep wild animals{BR}in the house.{BR}Better let it go.,Vahşi hayvanları evde{BR}besleyemezsin.{BR}En iyisi bırak gitsin.,
@@ -301,11 +301,11 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 299,0xBC34,43,4,39,0.860,391DACCC,"Okay, got it.{BR}No, nothing.{BR}Never mind. ","Tamam. Yok, bir{BR}şey değil. Boş ver.",
 300,0xBC8C,82,4,78,0.878,9812A7E5,"Huh? That flower is for me?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Oh, today's Flower Day!{BR}Thanks! This is great!","Ha? O çiçek bana mı?{#232B}{#1F46}{#1FA6}{#1F49}{#2136}Aa, bugün Çiçek Günü!{BR}Sağ ol! Harika!",
 301,0xBD32,59,4,55,0.898,F40BB153,A present for Flower Day?{#232B}What a pretty flower!{BR}Thanks.,Çiçek Günü hediyesi mi?{#232B}Ne güzel bir{BR}çiçek! Sağ ol.,
-302,0xBDAA,64,4,60,0.906,2516B039,Will you come with me to{BR}the Starry Night Festival{BR}tomorrow?,Yarın Yıldızlı Gece{BR}Festivaline benimle{BR}gelir misin?,
+302,0xBDAA,64,4,60,0.906,2516B039,Will you come with me to{BR}the Starry Night Festival{BR}tomorrow?,Yarın benimle Yıldızlı Gece Festivali'ne gelir misin?,
 303,0xBE2C,28,1,27,0.929,D8FF662F," Sure, I'd love to.{BR} Sorry."," Olur, gelirim.{BR} Üzgünüm.",
-304,0xBE66,87,4,83,0.908,FC806185,Wow! You really will!?{BR}Great!{#232B}Thanks. I'll be waiting{BR}for you at 8 pm{BR}by Town Hall.,Vay! Cidden!?{BR}Harika!{#232B}Sağ ol. Saat 8'de{BR}Belediyenin yanında{BR}seni bekleyeceğim.,
+304,0xBE66,87,4,83,0.908,FC806185,Wow! You really will!?{BR}Great!{#232B}Thanks. I'll be waiting{BR}for you at 8 pm{BR}by Town Hall.,Vay! Cidden!?{BR}Harika!{#232B}Sağ ol. Saat 8'de{BR}Belediye Binası'nda{BR}seni bekleyeceğim.,
 305,0xBF16,29,4,25,0.828,E4A74D39,"Oh, I see.{BR}No, it's okay.","Aa, anladım.{BR}Sorun değil.",
-306,0xBF52,48,4,44,0.896,F247C2C6,I can't wait for the {BR}Starry Night Festival.,Yıldızlı Gece'yi{BR}iple çekiyorum.,
+306,0xBF52,48,4,44,0.896,F247C2C6,I can't wait for the {BR}Starry Night Festival.,Yıldızlı Gece Festivali'ni{BR}iple çekiyorum.,
 307,0xBFB4,102,4,98,0.922,D63C54DC,"Ooh, it's so pretty.{BR}Presents really need to{BR}be wrapped, I think.{#232B}It's so much fun{BR}to unwrap them.","Oo, çok güzel.{BR}Bence hediyeler mutlaka{BR}paketlenmeli.{#232B}Paketi açması da{BR}çok eğlenceli.",
 308,0xC082,88,4,84,0.898,4BFFF6C4,"Hey, {#232A}.{BR}Do you like spending{BR}time with me?{#232B}I have a lot of fun hanging{BR}out with you.","Hey, {#232A}. Benimle olmak{BR}hoşuna gidiyor mu?{#232B}Ben seninle takılırken{BR}çok eğleniyorum.",
 309,0xC134,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
@@ -338,17 +338,17 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 336,0xC9E4,55,4,51,0.873,2454538A,It's too bad about{BR}the {#1000}.{#232B}There's always next time.,{#1000} için{BR}üzüldüm.{#232B}Bir dahaki sefere artık.,
 337,0xCA54,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 338,0xCA6C,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
-339,0xCA84,86,4,82,0.826,C7E0F9E5,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}I cooked this for you{BR}since it's your birthday,{BR}{#2391}.{#232B}Come here!","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Doğum günün diye bunu{BR}senin için pişirdim, {#2391}.{#232B}Gel buraya!",
-340,0xCB32,112,4,108,0.875,F5D4EDCB,"So? Looks good, right?{BR}I worked really hard on it.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}C'mon, eat up{BR}before it gets cold.{#232B}Happy birthday,{BR}{#2391}!","Nasıl? Güzel görünüyor, ha?{BR}Çok uğraştım.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Hadi,{BR}soğumadan ye.{#232B}Doğum günün{BR}kutlu olsun, {#2391}!",
+339,0xCA84,86,4,82,0.826,C7E0F9E5,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}I cooked this for you{BR}since it's your birthday,{BR}{#2391}.{#232B}Come here!","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Doğum günün için bunu{BR}senin için pişirdim, {#2391}.{#232B}Gel buraya!",
+340,0xCB32,112,4,108,0.875,F5D4EDCB,"So? Looks good, right?{BR}I worked really hard on it.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}C'mon, eat up{BR}before it gets cold.{#232B}Happy birthday,{BR}{#2391}!","Nasıl? Güzel, değil mi?{BR}Çok uğraştım.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Hadi,{BR}soğumadan ye.{#232B}Doğum günün{BR}kutlu olsun, {#2391}!",
 341,0xCC14,82,4,78,0.854,E0F5825D,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}It's our birthday today,{BR}so I cooked us a meal.{#232B}Come here!","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}Bugün ikimizin doğum günü;{BR}yemek yaptım.{#232B}Gel buraya!",
-342,0xCCBA,122,4,118,0.902,B75609C5,"So? Looks good, right?{BR}I worked hard on it.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}I made it so we could{BR}eat it together. C'mon,{BR}let's eat while its hot.","Nasıl? Güzel görünüyor, ha?{BR}Çok uğraştım.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Birlikte yiyelim{BR}diye yaptım. Hadi,{BR}sıcakken yiyelim.",
+342,0xCCBA,122,4,118,0.902,B75609C5,"So? Looks good, right?{BR}I worked hard on it.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}I made it so we could{BR}eat it together. C'mon,{BR}let's eat while its hot.","Nasıl? Güzel, değil mi?{BR}Çok uğraştım.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Birlikte yiyelim{BR}diye yaptım. Hadi,{BR}sıcakken yiyelim.",
 343,0xCDB0,164,4,160,0.890,73B7BBA6,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Today's my birthday!{BR}Did you remember it?{#232B}I was worried{BR}you might forget.{BR}{#232B}I made a meal so we{BR}could celebrate together.{BR}Come here and see!","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Bugün benim doğum günüm!{BR}Hatırladın mı?{#232B}Unutursun diye biraz{BR}endişelenmiştim.{#232B}Birlikte kutlayalım diye{BR}yemek yaptım. Gel bak!",
 344,0xCEFA,165,4,161,0.885,7984E3C7,"My cooking is nowhere near{BR}as good as your cooking.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}I worked really hard on it{BR}so we could celebrate{BR}together, {#2391}.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Come on, let's eat{BR}before it gets cold.","Benim yemeklerim seninkiler{BR}kadar iyi değil.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}Ama birlikte kutlayalım diye{BR}çok uğraştım, {#2391}.{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Hadi, soğumadan{BR}yiyelim.",
-345,0xD046,170,4,166,0.894,C827E30A,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Today is{BR}{#2337}'s birthday!{BR}You didn't forget, right?{#232B}Heh heh, I know you didn't.{BR}Sorry, it was just a joke.{#232B}Hey, come here.{BR}Let's celebrate together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Bugün {#2337} doğum günü!{BR}Unutmadın, değil mi?{#232B}He he, biliyorum unutmadın.{BR}Şaka yaptım.{#232B}Hadi gel.{BR}Birlikte kutlayalım.",
+345,0xD046,170,4,166,0.894,C827E30A,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Today is{BR}{#2337}'s birthday!{BR}You didn't forget, right?{#232B}Heh heh, I know you didn't.{BR}Sorry, it was just a joke.{#232B}Hey, come here.{BR}Let's celebrate together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}{#2337}'nin doğum günü!{BR}Unutmadın, değil mi?{#232B}He he, biliyorum unutmadın.{BR}Şaka yaptım.{#232B}Hadi gel.{BR}Birlikte kutlayalım.",
 346,0xD19C,89,5,84,0.865,C1E3EF1A, is really{BR}growing up well.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}We're doing a good job as{BR}parents. Let's keep it up., gerçekten{BR}çok güzel büyüyor.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}Anne baba olarak iyi iş{BR}çıkarıyoruz. Böyle devam!,
-347,0xD250,91,4,87,0.835,D120F2F4,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Today's {#2337}'s{BR}birthday!{#232B}Come over here.{BR}Let's celebrate it together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Bugün {#2337}{BR}doğum günü!{#232B}Gel buraya.{BR}Birlikte kutlayalım.",
-348,0xD308,120,4,116,0.908,C538930C,"It's {#2337}'s{BR}birthday, so I went a little{BR}overboard on the cooking.{#232B}Let's eat while it's still  {BR}hot. Happy birthday,{BR}{#2337}.","Bugün {#2337} doğum günü{BR}diye yemekte biraz{BR}abarttım.{#232B}Hadi sıcakken yiyelim.{BR}İyi ki doğdun, {#2337}.",
-349,0xD3FA,115,4,111,0.878,BA7D07FB,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Do you know what today is?{BR}It's our anniversary.{#232B}Hey, come here.{BR}Let's celebrate together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Bugünün ne olduğunu{BR}biliyor musun? Yıl{BR}dönümümüz.{#232B}Hadi gel.{BR}Birlikte kutlayalım.",
+347,0xD250,91,4,87,0.835,D120F2F4,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Today's {#2337}'s{BR}birthday!{#232B}Come over here.{BR}Let's celebrate it together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}{#2337}'nin{BR}doğum günü!{#232B}Gel buraya.{BR}Birlikte kutlayalım.",
+348,0xD308,120,4,116,0.908,C538930C,"It's {#2337}'s{BR}birthday, so I went a little{BR}overboard on the cooking.{#232B}Let's eat while it's still  {BR}hot. Happy birthday,{BR}{#2337}.","{#2337}'nin doğum günü{BR}diye yemekte biraz{BR}abarttım.{#232B}Hadi sıcakken yiyelim.{BR}İyi ki doğdun, {#2337}.",
+349,0xD3FA,115,4,111,0.878,BA7D07FB,"Welcome home,{BR}{#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Do you know what today is?{BR}It's our anniversary.{#232B}Hey, come here.{BR}Let's celebrate together.","Hoş{BR}geldin, {#2391}.{#232B}{#1F40}{#1FA6}{#1F49}{#2135}Bugün ne, biliyor musun?{BR}Yıl dönümümüz.{#232B}Hadi gel.{BR}Birlikte kutlayalım.",
 350,0xD4E2,212,4,208,0.882,6BCDCCF2,"I feel like we've known {BR}each other forever.{BR}I remember the day we met...{#232B}{#1F41}{#1FA6}{#1F49}{#2136}It's still as clear as if it{BR}happened yesterday.{#232B}{#1F41}{#1FA6}{#1F48}{#2136}Well, here's to many more{BR}wonderful years together.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}Happy anniversary,{BR}{#2391}.","Sanki seni hep tanıyormuşum{BR}gibi geliyor. Tanıştığımız{BR}günü hatırlıyorum...{#232B}{#1F41}{#1FA6}{#1F49}{#2136}Daha dün olmuş gibi{BR}aklımda.{#232B}{#1F41}{#1FA6}{#1F48}{#2136}Birlikte daha nice güzel{BR}yıllara.{#232B}{#1F41}{#1FA6}{#1F4D}{#2136}Yıl dönümümüz{BR}kutlu olsun, {#2391}.",
 351,0xD68C,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
 352,0xD6A4,11,4,7,0.545,242451EC,"Hey, {#232A}.","Hey, {#232A}.",
@@ -377,36 +377,36 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 375,0xD938,10,4,6,0.500,28B4086E,"Hey, {#232A}","Hey, {#232A}",
 376,0xD94E,10,4,6,0.500,28B4086E,"Hey, {#232A}","Hey, {#232A}",
 377,0xD964,10,4,6,0.500,28B4086E,"Hey, {#232A}","Hey, {#232A}",
-378,0xD97A,45,4,41,0.889,F4933F0D,"Hey, good morning.{BR}Let's work hard today!","Hey, günaydın.{BR}Bugün de sıkı çalışalım!",
-379,0xD9D6,43,4,39,0.884,F1D154F1,"Hey, good morning.{BR}You're looking well!","Hey, günaydın.{BR}İyi görünüyorsun!",
+378,0xD97A,45,4,41,0.889,F4933F0D,"Hey, good morning.{BR}Let's work hard today!",Günaydın!{BR}Bugün de sıkı çalışalım!,
+379,0xD9D6,43,4,39,0.884,F1D154F1,"Hey, good morning.{BR}You're looking well!",Günaydın!{BR}İyi görünüyorsun!,
 380,0xDA2E,39,4,35,0.846,6716F97B,"Good morning, {#232A}.{BR}How are you today?","Günaydın, {#232A}.{BR}Bugün nasılsın?",
 381,0xDA7E,33,4,29,0.848,A20F755A,Hello. How's your{BR}farm doing?,Selam. Çiftlik{BR}nasıl gidiyor?,
-382,0xDAC2,29,4,25,0.793,8D727664,"Hey, {#232A}.{BR}How's work going?","Hey, {#232A}.{BR}İşler nasıl?",
-383,0xDAFE,85,4,81,0.918,A75B932C,"Hello, {#232A}. Hey, you sure{BR}you have time to chat? Don't{BR}you have lots of work to do?","Selam, {#232A}. Hey, sohbet{BR}edecek vaktin var mı?{BR}Yapacak çok işin yok mu?",
+382,0xDAC2,29,4,25,0.793,8D727664,"Hey, {#232A}.{BR}How's work going?","Selam, {#232A}.{BR}İşler nasıl?",
+383,0xDAFE,85,4,81,0.918,A75B932C,"Hello, {#232A}. Hey, you sure{BR}you have time to chat? Don't{BR}you have lots of work to do?","Selam, {#232A}. Sohbet{BR}edecek vaktin var mı?{BR}Yapacak çok işin yok mu?",
 384,0xDBAA,29,4,25,0.828,9CF18DF0,Evening.{BR}Good work today.,Akşamlar.{BR}Eline sağlık.,
 385,0xDBE6,59,4,55,0.881,5C0CFC09,"Evening, {#232A}.{BR}Wow, it's already so late.{BR}Time sure flies.","İyi akşamlar, {#232A}.{BR}Vay, saat bayağı olmuş.{BR}Zaman uçuyor.",
-386,0xDC5E,42,4,38,0.881,34C39E1C,"Hey, good evening.{BR}All done with work?","Hey, iyi akşamlar.{BR}İşin bitti mi?",
+386,0xDC5E,42,4,38,0.881,34C39E1C,"Hey, good evening.{BR}All done with work?",İyi akşamlar.{BR}İşin bitti mi?,
 387,0xDCB4,75,4,71,0.907,E3DBE306,We'll be married soon.{BR}Are you all ready?{#232B}I'm so excited! I can't{BR}wait!,Yakında evleniyoruz.{BR}Hazır mısın?{#232B}Çok heyecanlıyım!{BR}Sabırsızlanıyorum!,
 388,0xDD4C,121,4,117,0.901,CDDE3BC2,Weddings seem like so {BR}much work. My mom is so busy{BR}with preparations.{#232B}{#1F46}{#1FA6}{#1F4C}{#2136}I feel like I can never do{BR}enough to help.,Düğün işi bayağı{BR}zormuş. Annem{BR}hazırlıklarla çok meşgul.{#232B}{#1F46}{#1FA6}{#1F4C}{#2136}Ne kadar yardım etsem{BR}yetmiyor gibi geliyor.,
 389,0xDE40,53,4,49,0.868,CA7A4CA8,"I can't wait to see you{BR}in your wedding dress,{BR}{#232A}.","Seni gelinlikle görmek{BR}için sabırsızlanıyorum, {#232A}.",
-390,0xDEAC,125,4,121,0.936,14CDDE88,"If you need animals,{BR}just ask my mom, Jessica.{#232B}Cheryl is in charge of{BR}feed and equipment, so{BR}you can order them from her.",Hayvana ihtiyacın olursa{BR}annem Jessica'ya söyle.{#232B}Yem ve ekipmanla Cheryl{BR}ilgileniyor; ondan{BR}sipariş verebilirsin.,
+390,0xDEAC,125,4,121,0.936,14CDDE88,"If you need animals,{BR}just ask my mom, Jessica.{#232B}Cheryl is in charge of{BR}feed and equipment, so{BR}you can order them from her.",Hayvanlara ihtiyacın olursa{BR}annem Jessica'ya sor.{#232B}Yem ve ekipmanla Cheryl{BR}ilgileniyor; ondan{BR}sipariş verebilirsin.,
 391,0xDFA8,84,4,80,0.929,A4CA8258,"My mom and sister take care{BR}of the orders, so talk to{BR}them if you need anything.",Siparişlerle annem ve kız{BR}kardeşim ilgileniyor. Bir{BR}şey gerekirse onlara söyle.,
 392,0xE052,89,4,85,0.910,24C026A3,All our animals are{BR}healthy and strong.{#232B}You know why?{BR}Because I treat them{BR}with love.,Hayvanlarımız sağlıklı{BR}ve güçlü.{#232B}Neden mi?{BR}Onlara sevgiyle{BR}bakıyorum.,
 393,0xE106,66,4,62,0.909,01946882,It's nice to take a break{BR}and relax with my friends{BR}sometimes.,Bazen arkadaşlarla mola{BR}verip rahatlamak güzel.,
 394,0xE18C,61,4,57,0.902,DE446536,The cake here is so good.{BR}Laney is such an amazing{BR}baker.,Buradaki pasta çok güzel.{BR}Laney harika bir pastacı.,
 395,0xE208,45,4,41,0.889,867FFF96,Have a seat and relax for{BR}a little while.,Otur da{BR}biraz dinlen.,
 396,0xE264,51,4,47,0.902,8561D566,"Farm work is tough,{BR}but it's a job worth doing.",Çiftlik işi zor ama{BR}yapmaya değer bir iş.,
-397,0xE2CC,65,4,61,0.908,6DD4BBDD,"Cheryl's still a kid,{BR}but she's very responsible{BR}for her age.",Cheryl hala çocuk ama{BR}yaşına göre çok sorumlu.,
+397,0xE2CC,65,4,61,0.908,6DD4BBDD,"Cheryl's still a kid,{BR}but she's very responsible{BR}for her age.",Cheryl henüz çocuk ama{BR}yaşına göre çok sorumlu.,
 398,0xE350,89,4,85,0.876,D5A33258,Animals need{BR}love and tenderness.{#232B}{#1F46}{#1FA6}{#1F4C}{#2136}Hmm? That sounded like{BR}something Cam would say.,Hayvanlara sevgi ve{BR}şefkat gerekir.{#232B}{#1F46}{#1FA6}{#1F4C}{#2136}Hmm? Bu da Cam'in{BR}lafı gibi oldu.,
-399,0xE404,52,4,48,0.885,CBE15898,Good morning.{BR}Let's work hard{BR}and stay positive!,Günaydın.{BR}Çok çalışıp{BR}morali yüksek tutalım!,
-400,0xE46E,37,4,33,0.838,E9C2025B,"Hey, {#2391}!{BR}How are you this morning?","Hey, {#2391}! Bu{BR}sabah nasılsın?",
-401,0xE4BA,41,4,37,0.878,34A94942,"Hey, good morning.{#232B}How did you sleep?","Hey, günaydın.{#232B}İyi uyudun mu?",
+399,0xE404,52,4,48,0.885,CBE15898,Good morning.{BR}Let's work hard{BR}and stay positive!,Günaydın.{BR}Çok çalışıp{BR}moralimizi yüksek tutalım!,
+400,0xE46E,37,4,33,0.838,E9C2025B,"Hey, {#2391}!{BR}How are you this morning?","Günaydın, {#2391}!{BR}Nasılsın?",
+401,0xE4BA,41,4,37,0.878,34A94942,"Hey, good morning.{#232B}How did you sleep?",Günaydın!{#232B}İyi uyudun mu?,
 402,0xE50E,27,4,23,0.778,F7B7094D,"Hey, {#2391}.{BR}It's past noon.","Hey, {#2391}.{BR}Öğlen geçti.",
-403,0xE546,31,4,27,0.871,883BB6AC,Are you taking the day off?,Bugün izin mi yaptın?,
+403,0xE546,31,4,27,0.871,883BB6AC,Are you taking the day off?,Bugün izinli misin?,
 404,0xE586,29,4,25,0.793,DC9E41A0,"Oh, {#2391}.{#232B}Did you oversleep?","Aa, {#2391}.{#232B}Uyuyakaldın mı?",
-405,0xE5C2,30,4,26,0.767,98EF3B1C,"Hey, {#2391}.{BR}Look at the time!{BR}","Hey, {#2391}.{BR}Saate bak!",
+405,0xE5C2,30,4,26,0.767,98EF3B1C,"Hey, {#2391}.{BR}Look at the time!{BR}","Saate bak, {#2391}!{BR}Geç oldu!{BR}",
 406,0xE600,76,4,72,0.921,0A5E758D,It's already night time.{BR}I can't believe this is{BR}our first conversation.,Gece olmuş bile.{BR}Bugün ilk kez konuşmamıza{BR}inanamıyorum.,
-407,0xE69A,52,4,48,0.865,65114AF4,"Oh, {#2391}.{BR}Did you finish work?{BR}I just finished too.","Aa, {#2391}. İşin bitti mi?{BR}Benimki de yeni bitti.",
+407,0xE69A,52,4,48,0.865,65114AF4,"Oh, {#2391}.{BR}Did you finish work?{BR}I just finished too.","Aa, {#2391}.{BR}İşin bitti mi?{BR}Benimki de yeni bitti.",
 408,0xE704,54,5,49,0.852,4A7A7847," won the Cooking{BR}Festival today thanks to{BR}you, {#232A}."," bugün Yemek{BR}Festivalini sayende{BR}kazandı, {#232A}.",
 409,0xE772,83,4,79,0.916,CF096C55,I heard your cooking{BR}was the best today.{#232B}My mom said that we{BR}won thanks to you.,"Bugün en iyi yemeğin{BR}seninkiymiş.{#232B}Annem, senin sayende{BR}kazandığımızı söyledi.",
 410,0xE81A,84,4,80,0.905,866D8004,"Where did you learn to cook,{BR}{#232A}?{#232B}It took some serious skills{BR}to win that contest!","Yemek yapmayı nerede{BR}öğrendin, {#232A}?{#232B}O yarışmayı kazanmak{BR}ciddi ustalık ister!",
@@ -415,11 +415,11 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 413,0xE99A,69,4,65,0.913,0ACDF8A7,I had so much fun today.{BR}But it's kind of sad{BR}when it's all over.,Bugün çok eğlendim.{BR}Ama bitince insan biraz{BR}üzülüyor.,
 414,0xEA26,58,4,54,0.862,CEA95584,Congratulations{BR}on your win today.{#232B}Your {#1004}{BR}was awesome.,Bugünkü zaferin için{BR}tebrikler.{#232B}{#1004}{BR}harikaydı.,
 415,0xEA9C,124,4,120,0.935,51FAE9DF,"Everyone makes really good{BR}food here in the village.{#232B}So if your food's the best{BR}here, it might be the best{BR}in the world.",Bu köyde herkes çok iyi{BR}yemek yapıyor.{#232B}Seninki burada en iyiyse{BR}belki dünyadaki en iyi{BR}yemektir.,
-416,0xEB96,70,4,66,0.914,01585103,You won today because of{BR}all the hard work{BR}you've been putting in.,"Bugün kazanman, verdiğin{BR}tüm emeğin karşılığı.",
+416,0xEB96,70,4,66,0.914,01585103,You won today because of{BR}all the hard work{BR}you've been putting in.,Bugünkü zaferini{BR}verdiğin emeğe borçlusun.,
 417,0xEC24,49,4,45,0.857,2ABFE8EE,"I had so much fun today.{BR}Did you have{BR}fun, {#232A}?","Bugün çok eğlendim.{BR}Sen de eğlendin mi, {#232A}?",
 418,0xEC88,62,4,58,0.903,078748A1,It's so much fun getting{BR}together with everyone{BR}like this.,Herkesle böyle bir araya{BR}gelmek çok eğlenceli.,
 419,0xED06,55,4,51,0.909,3FBE5573,I always feel kind of sad{BR}after a festival is over.,Festival bitince hep{BR}biraz hüzünlenirim.,
-420,0xED76,38,4,34,0.816,3726890D,"You won{BR}today, {#232A}.{BR}Congratulations!","Bugün kazandın,{BR}{#232A}. Tebrikler!",
+420,0xED76,38,4,34,0.816,3726890D,"You won{BR}today, {#232A}.{BR}Congratulations!","Bugün kazandın.{BR}{#232A}, tebrikler!{BR}",
 421,0xEDC4,60,4,56,0.900,153A6EEF,"Everyone tried hard,{BR}but none of them{BR}came close to you.",Herkes çok uğraştı ama{BR}kimse sana yaklaşamadı.,
 422,0xEE3E,80,4,76,0.912,5ED650EA,You need to show me how{BR}to fish sometime.{#232B}All I ever seem to catch is{BR}boots.,Bir ara bana balık tutmayı{BR}öğretmelisin.{#232B}Benim oltaya hep{BR}çizme geliyor.,
 423,0xEEE0,46,4,42,0.891,E8083BFC,Congratulations!{BR}Now you're a real farmer!,Tebrikler!{BR}Artık gerçek bir çiftçisin!,
@@ -429,7 +429,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 427,0xF5DA,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 428,0xF5FE,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 429,0xF622,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
-430,0xF646,91,4,87,0.912,3D3D381C,"Oh, how adorable!{BR}Is this your pet, {#232A}?{#232B}Animals are wonderful.{BR}Such a soothing presence.","Aa, çok sevimli!{BR}Bu senin evcilin mi, {#232A}?{#232B}Hayvanlar harika.{BR}İnsanı huzurlandırırlar.",
+430,0xF646,91,4,87,0.912,3D3D381C,"Oh, how adorable!{BR}Is this your pet, {#232A}?{#232B}Animals are wonderful.{BR}Such a soothing presence.","Aa, çok tatlı!{BR}Bu senin evcil hayvanın mı, {#232A}?{#232B}Hayvanlar harika.{BR}Ne huzur veriyorlar!",
 431,0xF6FE,105,4,101,0.924,F6969BB9,My word!{BR}P-Please come no closer with{BR}that creature!{#232B}You must pardon me.{BR}I'm not fond of the species.,Aman! L-Lütfen o hayvanla{BR}daha fazla yaklaşma!{#232B}Kusura bakma.{BR}Bu türden pek hoşlanmam.,
 432,0xF7D2,127,4,123,0.937,C2AAE5A8,"Do you truly mean...{BR}to... to give that to me?{#232B}For a matter like this, we{BR}must retire to some private{BR}locale to discuss it.",Gerçekten... bunu...{BR} bana mı veriyorsun?{#232B}Böyle bir konuyu konuşmak{BR}için daha sakin bir yere{BR}geçmemiz gerek.,
 433,0xF8D2,80,4,76,0.850,7974CC93,"Is that a blue feather?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Whoever you give that to{BR}is fortunate indeed,{BR}{#232A}!","Bu bir Mavi Tüy mü?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Onu kime verirsen{BR}çok şanslı olacak, {#232A}!",
@@ -451,16 +451,16 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 449,0x1028A,132,4,128,0.939,B3B279BE,"You cannot possibly mean...{BR}to give me THAT as a gift?{#232B}I see... I had a feeling{BR}that today would go badly.{BR}Here, I will take it.","Bunu gerçekten...{BR}bana hediye mi ediyorsun?{#232B}Anlıyorum... Bugünün kötü{BR}geçeceğini hissetmiştim.{BR}Peki, alacağım.",
 450,0x10394,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 451,0x103B8,190,4,186,0.911,DF3BD010,"And how is life with Kana?{BR}Enjoying married bliss?{#232B}All that fellow can think{BR}about is horses, but when{BR}it comes to you, {#232A}...{#232B}{#1F46}{#1FA7}{#1F49}{#2136}You are even more important{BR}to him. So treat him well,{BR}{#232A}.","Kana ile hayat nasıl?{BR}Evlilik güzel gidiyor mu?{#232B}Onun aklı hep atlardadır ama{BR}sen söz konusu olunca, {#232A}...{#232B}{#1F46}{#1FA7}{#1F49}{#2136}sen onun için daha{BR}önemlisin.{BR}Ona iyi davran, {#232A}.",
-452,0x10536,122,5,117,0.926,0296E50C,", how are you{BR}finding married life?{#232B}I am eager to establish my{BR}career and find the right{BR}girl to start a family with.",", evlilik hayatını{BR}nasıl buluyorsun?{#232B}Ben de mesleğimi oturtup{BR}doğru kişiyle bir aile{BR}kurmak için sabırsızım.",
+452,0x10536,122,5,117,0.926,0296E50C,", how are you{BR}finding married life?{#232B}I am eager to establish my{BR}career and find the right{BR}girl to start a family with.",", evliliğin{BR}nasıl gidiyor?{#232B}Ben de mesleğimi oturtup{BR}doğru kişiyle bir aile{BR}kurmak için sabırsızım.",
 453,0x1062C,50,4,46,0.900,A1619D86,You mustn't go out on a{BR}stormy day like today!,Böyle fırtınada{BR}dışarı çıkmamalısın!,
 454,0x10692,83,4,79,0.928,0C274CE1,"I usually enjoy snow, but{BR}this is just too much. You{BR}could be buried out there!",Normalde karı severim ama{BR}bu kadarı fazla. Dışarıda{BR}kar altında kalabilirsin!,
 455,0x1073A,167,5,162,0.934,228590F0,", what is your{BR}opinion of Dr. Ayame?{#232B}I have the utmost respect{BR}for her, personally.{#232B}But I do wonder why she{BR}remains unmarried. Too many{BR}responsibilities, perhaps.",", Dr. Ayame hakkında{BR}ne düşünüyorsun?{#232B}Ben ona büyük saygı{BR}duyuyorum.{#232B}Ama neden evlenmediğini de{BR}merak ediyorum. Belki fazla{BR}sorumluluğu vardır.",
-456,0x1088A,126,4,122,0.897,CA551817,"As I am still an apprentice,{BR}I encounter many trials.{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Yet to converse with you{BR}like this, {#232A}, is a{BR}source of joy to me.","Hala bir çırak olduğum için{BR}pek çok zorluk yaşıyorum.{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Ama seninle böyle konuşmak,{BR}{#232A}, beni mutlu ediyor.",
+456,0x1088A,126,4,122,0.897,CA551817,"As I am still an apprentice,{BR}I encounter many trials.{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Yet to converse with you{BR}like this, {#232A}, is a{BR}source of joy to me.","Henüz çırak olduğum için{BR}pek çok zorluk yaşıyorum.{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Ama seninle böyle konuşmak{BR}{#232A}, beni mutlu ediyor.",
 457,0x10988,101,4,97,0.871,FD75E317,"Tell me, {#232A}, do you{BR}like this village?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}I adore it.{BR}I hope that you will stay{BR}here permanently.","Söyle, {#232A}, bu köyü{BR}seviyor musun?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Ben çok seviyorum.{BR}Umarım burada kalıcı{BR}olursun.",
 458,0x10A54,126,4,122,0.921,C7A5964B,"Oh, {#232A}, don't you agree{BR}that Kana is quite a{BR}remarkable fellow?{#232B}A genuine man's man. He{BR}manages that stable all by{BR}himself.","Aa, {#232A}, Kana sence de{BR}etkileyici biri değil mi?{#232B}Tam bir delikanlı.{BR}O ahırı tek başına{BR}işletiyor.",
 459,0x10B52,68,5,63,0.882,61DB81CC,", you always{BR}look so healthy!{#232B}Farm life really agrees{BR}with you.",", çok sağlıklı{BR}görünüyorsun!{#232B}Çiftlik hayatı sana{BR}yarıyor.",
 460,0x10BDC,80,4,76,0.925,8940ED52,Is your farm prospering?{BR}Do not neglect to take care{BR}of your health as well.,Çiftliğin gelişiyor mu?{BR}Ama kendi sağlığını da{BR}ihmal etme.,
-461,0x10C7E,162,4,158,0.944,62383717,"Everyone in Konohana is{BR}generally in good health, so{BR}I have a lot of free time.{#232B}I like to use that time to{BR}study my medical books.{BR}Medicine is so interesting!",Konohana halkı genelde{BR}sağlıklı olduğu için bolca{BR}boş vaktim oluyor.{#232B}O zamanı tıp kitaplarımı{BR}çalışarak geçiriyorum.{BR}Tıp çok ilginç!,
+461,0x10C7E,162,4,158,0.944,62383717,"Everyone in Konohana is{BR}generally in good health, so{BR}I have a lot of free time.{#232B}I like to use that time to{BR}study my medical books.{BR}Medicine is so interesting!",Konohana halkı genelde{BR}sağlıklı olduğu için bolca{BR}boş vaktim oluyor.{#232B}O zamanı tıp kitaplarıma{BR}çalışarak geçiriyorum.{BR}Tıp çok ilginç!,
 462,0x10DC4,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 463,0x10DE8,86,4,82,0.907,5FD8E246,"...You must pardon me,{BR}{#232A}, but I do not wish{BR}to speak with you today.{#232B}You know why.","...Kusura bakma,{BR}{#232A}, ama bugün seninle{BR}konuşmak istemiyorum.{#232B}Nedenini biliyorsun.",
 464,0x10E96,40,1,39,0.950,83BD0F2C, I'm sorry! Forgive me!{BR} Suit yourself., Özür dilerim! Affet!{BR} Sen bilirsin.,
@@ -473,7 +473,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 471,0x110DA,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 472,0x110FE,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 473,0x11122,110,4,106,0.891,2C344089,"Oh, a present?{BR}For Harmony Day?!{#232B}{#1F46}{#1FA7}{#1F49}{#2136}How delightful to receive a{BR}Harmony Day present from my{BR}beloved wife!","Aa, hediye mi?{BR}Uyum Günü için mi?!{#232B}{#1F46}{#1FA7}{#1F49}{#2136}Sevgili eşimden Uyum Günü{BR}hediyesi almak ne güzel!",
-474,0x11200,89,4,85,0.910,4B3DFE7D,"Is this for me?{BR}...A birthday present?!{BR}Why, thank you!{#232B}How sweet of you to{BR}remember.",Bu bana mı?{BR}...Doğum günü hediyesi?!{BR}Teşekkür ederim!{#232B}Hatırlaman{BR}çok ince.,
+474,0x11200,89,4,85,0.910,4B3DFE7D,"Is this for me?{BR}...A birthday present?!{BR}Why, thank you!{#232B}How sweet of you to{BR}remember.",Bu bana mı?{BR}...Doğum günü hediyesi?!{BR}Teşekkür ederim!{#232B}Bunu hatırlaman{BR}ne incelik!,
 475,0x112B4,67,4,63,0.851,226A1050,"Is this for me?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}You remembered my favorite!{BR}Why, thank you!",Bu bana mı?{#232B}{#1F46}{#1FA7}{#1F49}{#2136}En sevdiğimi hatırlamışsın!{BR}Teşekkürler!,
 476,0x1133C,81,4,77,0.926,1683F640,"It would be splendid to go{BR}out on a date, as we used{BR}to do before we married.",Evlenmeden önceki gibi{BR}bir buluşmaya çıkmak{BR}çok güzel olurdu.,
 477,0x113E0,28,1,27,0.929,BDB5C486, Absolutely!!{BR} Not today..., Elbette!!{BR} Bugün olmaz...,
@@ -487,10 +487,10 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 485,0x118E4,92,4,88,0.870,F3B50978,"To wake up beside you in the{BR}morning each day, {#2391},{BR}is simply...{#232B}{#1F46}{#1FA7}{#1F49}{#2136}...a joy. A true joy!","Her sabah yanında uyanmak,{BR}{#2391}, gerçekten...{#232B}{#1F46}{#1FA7}{#1F49}{#2136}...bir mutluluk. Gerçek bir{BR}mutluluk!",
 486,0x1199E,121,4,117,0.934,9770ADB0,You are always laboring so{BR}hard on my behalf!{#232B}I am truly grateful.{BR}I will become a splendid{BR}doctor and bring you joy!,Benim için hep çok{BR}çalışıyorsun!{#232B}Sana gerçekten minnettarım.{BR}İyi bir doktor olup{BR}seni mutlu edeceğim!,
 487,0x11A92,121,4,117,0.926,D0CCAA3D,"Is married life not{BR}a wonderful thing...?{#232B}Simply being with you every{BR}day, {#2391}, makes me the{BR}happiest man in the world.","Evlilik harika bir şey{BR}değil mi...?{#232B}Her gün seninle olmak,{BR}{#2391}, beni dünyanın{BR}en mutlu erkeği yapıyor.",
-488,0x11B86,73,4,69,0.890,0BCA0C3C,"With you, {#2391}, every{BR}day is a delight!{#232B}I am so glad that I married{BR}you!","Seninle, {#2391}, her gün{BR}çok güzel!{#232B}Seninle evlendiğim için{BR}çok mutluyum!",
+488,0x11B86,73,4,69,0.890,0BCA0C3C,"With you, {#2391}, every{BR}day is a delight!{#232B}I am so glad that I married{BR}you!","Seninle, {#2391}, her gün{BR}mutluyum!{#232B}Seninle evlendiğim için{BR}çok mutluyum!",
 489,0x11C1A,89,4,85,0.899,629D0523,"You are a marvelous woman,{BR}{#2391}!{#232B}I must strive on my part{BR}to be all a husband should{BR}be.","Harika bir{BR}kadınsın, {#2391}!{#232B}Ben de iyi bir eş olmak{BR}için elimden geleni{BR}yapmalıyım.",
-490,0x11CCE,66,4,62,0.894,2A0D053C,"It is a joy just to be with{BR}you, {#2391}. I hope{BR}you feel as I do...","Yanında olmak mutluluk,{BR}{#2391}. Umarım sen de{BR}öyle hissediyorsun...",
-491,0x11D54,82,4,78,0.927,C0013590,"In marriage, it is natural{BR}to spend time together. To{BR}be there for each other.",Evlilikte birlikte vakit{BR}geçirmek ve birbirinin{BR}yanında olmak doğaldır.,
+490,0x11CCE,66,4,62,0.894,2A0D053C,"It is a joy just to be with{BR}you, {#2391}. I hope{BR}you feel as I do...","Seninle olmak güzel,{BR}{#2391}. Umarım sen de{BR}öyle hissediyorsundur...",
+491,0x11D54,82,4,78,0.927,C0013590,"In marriage, it is natural{BR}to spend time together. To{BR}be there for each other.","Evlilikte birlikte vakit{BR}geçirmek, birbirine{BR}destek olmak doğaldır.",
 492,0x11DFA,73,4,69,0.918,CF57EAB4,Married life has both its{BR}highs and its lows.{BR}Let us both aim higher!,Evliliğin iyi ve kötü{BR}günleri olur. İkimiz de{BR}daha iyisini yapalım!,
 493,0x11E8E,55,4,51,0.909,5D49620F,Married life has not turned{BR}out as I imagined it...,Evlilik hayatı hayal{BR}ettiğim gibi çıkmadı...,
 494,0x11EFE,21,4,17,0.810,C6AFD4A3,What do you want?,Ne istiyorsun?,
@@ -500,12 +500,12 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 498,0x12086,69,4,65,0.899,961168FC,"Oh, is that for today's{BR}festival?{#232B}Don't let it out of your{BR}sight!","Aa, bu bugünkü festival{BR}için mi?{#232B}Gözünün{BR}önünden ayırma!",
 499,0x12112,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 500,0x12136,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
-501,0x1215A,112,4,108,0.929,9A16D53E,"Hmm, there seems to be{BR}nothing the matter with{BR}this pet.{#232B}I am an apprentice doctor,{BR}but I study animals too.","Hmm, bu evcilde bir{BR}sorun görünmüyor.{#232B}Doktor çırağıyım ama{BR}hayvanları da inceliyorum.",
+501,0x1215A,112,4,108,0.929,9A16D53E,"Hmm, there seems to be{BR}nothing the matter with{BR}this pet.{#232B}I am an apprentice doctor,{BR}but I study animals too.","Hmm, bu evcil hayvanda bir{BR}sorun görünmüyor.{#232B}Doktor çırağıyım ama{BR}hayvanları da inceliyorum.",
 502,0x1223C,71,4,67,0.915,C47A7ACA,"Oh, how adorable!!{#232B}But it is a wild animal.{BR}You should set it free.","Aa, çok sevimli!!{#232B}Ama vahşi bir hayvan.{BR}Onu serbest bırakmalısın.",
 503,0x122CC,115,4,111,0.930,295CA3DB,My goodness! You mustn't{BR}capture such wild animals!{#232B}Please let it go without{BR}delay!{BR}Not that I am afraid of it!,Aman! Böyle vahşi{BR}hayvanları yakalamamalısın!{#232B}Lütfen hemen serbest bırak!{BR}Korktuğumdan değil elbette!,
 504,0x123B4,72,4,68,0.917,1D48343D,There are many wild animals{BR}around here. You must not{BR}mistreat them.,Buralarda çok vahşi hayvan{BR}var. Onlara kötü{BR}davranmamalısın.,
 505,0x12446,61,4,57,0.885,CC6A0820,"Oh, your outfit!{BR}What splendid fashion sense{BR}you have, {#232A}!","Aa, kıyafetin! Ne{BR}zarif bir tarzın var, {#232A}!",
-506,0x124C2,48,5,43,0.875,834BBBCC,", w-would you care{BR}to go on a date with me?",", b-benimle{BR}buluşmaya çıkar mısın?",
+506,0x124C2,48,5,43,0.875,834BBBCC,", w-would you care{BR}to go on a date with me?",", b-benimle{BR}randevuya çıkar mısın?",
 507,0x12524,68,4,64,0.912,5717CCF5,"I don't suppose...that we{BR}could have a chat, just the{BR}two of us?",Acaba... ikimiz baş başa{BR}biraz konuşabilir miyiz?,
 508,0x125AE,55,4,51,0.909,AF1D7557,"Might we go somewhere and{BR}chat, just the two of us?",Bir yere gidip ikimiz{BR}baş başa konuşalım mı?,
 509,0x1261E,46,1,45,0.957,51566888," Yes, I'd love to.{BR} You know, I have to pass."," Evet, seve seve.{BR} Üzgünüm, olmaz.",
@@ -513,11 +513,11 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 511,0x126CA,49,1,48,0.959,A5FC5A60," A chat? Sounds good.{BR} Uh, it's not a good time."," Konuşalım mı? Olur.{BR} Şey, şimdi olmaz.",
 512,0x1272E,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 513,0x12752,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
-514,0x12776,62,4,58,0.903,7D6D3E1D,"You have to pass, you say?{#232B}I see. Perhaps some{BR}other time.",Olmaz mı diyorsun?{#232B}Anlıyorum. Belki{BR}başka zaman.,
+514,0x12776,62,4,58,0.903,7D6D3E1D,"You have to pass, you say?{#232B}I see. Perhaps some{BR}other time.",Reddetmek zorunda mısın?{#232B}Anlıyorum. Belki{BR}başka zaman.,
 515,0x127F4,48,4,44,0.896,99B88C32,"Well then, I will look{BR}forward to that time.",O halde o zamanı{BR}sabırsızlıkla bekleyeceğim.,
-516,0x12856,50,4,46,0.900,EFD61A62,No? Then please don't{BR}give it another thought.,Olmaz mı? Lütfen{BR}üstünde durma.,
+516,0x12856,50,4,46,0.900,EFD61A62,No? Then please don't{BR}give it another thought.,Hayır mı? O zaman{BR}kafana takma.,
 517,0x128BC,86,4,82,0.919,724121C9,"What a lovely flower!{BR}...Oh, for me?{#232B}A Flower Day present?{BR}Thank you ever so much.","Ne güzel bir çiçek!{BR}...Aa, bana mı?{#232B}Çiçek Günü hediyesi mi?{BR}Çok teşekkür ederim.",
-518,0x1296A,64,4,60,0.906,F2C6C0E7,A flower from my wife on{BR}Flower Day!{BR}Thank you ever so much.,Çiçek Günü eşimden{BR}bir çiçek!{BR}Çok teşekkür ederim.,
+518,0x1296A,64,4,60,0.906,F2C6C0E7,A flower from my wife on{BR}Flower Day!{BR}Thank you ever so much.,Çiçek Günü'nde eşimden{BR}bir çiçek!{BR}Çok teşekkür ederim.,
 519,0x129EC,82,4,78,0.927,D8A04FA0,Tomorrow is the Starry Night{BR}Festival. Would you care{BR}to attend in my company?,Yarın Yıldızlı Gece{BR}Festivali var. Benimle{BR}katılmak ister misin?,
 520,0x12A92,42,1,41,0.952,E226DCF9," I'd be delighted!{BR} Oh, I'm sorry, but..."," Memnuniyetle!{BR} Aa, üzgünüm ama...",
 521,0x12AE8,89,4,85,0.910,961B4CE1,You would!?{BR}Splendid!!{BR}Thank you ever so much.{#232B}I will be looking forward{BR}to tomorrow!,Gerçekten mi!?{BR}Harika!!{BR}Çok teşekkür ederim.{#232B}Yarını sabırsızlıkla{BR}bekleyeceğim!,
@@ -527,7 +527,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 525,0x12D14,121,4,117,0.884,A9381AB9,"You know, {#232A}...{BR}Whenever we converse like{BR}this...{#232B}{#1F46}{#1FA7}{#1F4D}{#2136}...I think how wonderful it{BR}would be if we were always{BR}together.","Biliyor musun, {#232A}...{BR}Seninle böyle konuşurken...{#232B}{#1F46}{#1FA7}{#1F4D}{#2136}...hep birlikte olsak{BR}ne kadar güzel olur diye{BR}düşünüyorum.",
 526,0x12E08,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 527,0x12E2C,72,4,68,0.917,C4E0E004,You look quite ill!{BR}Shouldn't you have Dr. Ayame{BR}take a look at you?,Hiç iyi görünmüyorsun!{BR}Dr. Ayame'ye görünsen{BR}iyi olmaz mı?,
-528,0x12EBE,52,4,48,0.885,84107B81,"You look a bit ill, {#232A}.{BR}You should get some rest.","Biraz kötü görünüyorsun,{BR}{#232A}. Dinlenmelisin.",
+528,0x12EBE,52,4,48,0.885,84107B81,"You look a bit ill, {#232A}.{BR}You should get some rest.","Biraz kötü görünüyorsun, {#232A}.{BR}Dinlenmelisin.",
 529,0x12F28,49,4,45,0.857,DB76D53D,"Oh, {#232A}.{BR}Today I would like to be{BR}left alone...","Aa, {#232A}. Bugün yalnız{BR}kalmak istiyorum...",
 530,0x12F8C,68,4,64,0.912,BF0B8DDD,You always seem in such a{BR}rush. You should take it a{BR}bit easier.,Hep çok acele ediyor{BR}gibisin. Biraz daha{BR}sakin olmalısın.,
 531,0x13016,74,4,70,0.905,D00B0A86,"I am off to to the clinic.{BR}I hope that you have a{BR}good day at work, {#2391}.","Kliniğe gidiyorum.{BR}Umarım işte güzel bir{BR}gün geçirirsin, {#2391}.",
@@ -543,7 +543,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 541,0x13438,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 542,0x1345C,42,4,38,0.881,9E3C1B41,I would like to be left{BR}alone today...,Bugün yalnız kalmak{BR}istiyorum...,
 543,0x134B2,56,4,52,0.875,03C1252F,"Next time, you must compete{BR}for Konohana, {#232A}.{BR}Please!","Bir dahaki kez Konohana{BR}için yarış, {#232A}. Lütfen!",
-544,0x13524,63,5,58,0.889,3B69746E,", you really ought{BR}to take part in the Cooking{BR}Festival...",", Yemek Festivaline{BR}gerçekten katılmalısın...",
+544,0x13524,63,5,58,0.889,3B69746E,", you really ought{BR}to take part in the Cooking{BR}Festival...",", Yemek Festivali'ne{BR}gerçekten katılmalısın...",
 545,0x135A4,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 546,0x135C8,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 547,0x135EC,69,4,65,0.913,DC76D326,What a pity that we lost.{BR}I felt that your cooking{BR}was excellent.,Kaybetmemiz ne yazık.{BR}Bence yemeğin gerçekten{BR}çok iyiydi.,
@@ -560,12 +560,12 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 558,0x13BCC,153,4,149,0.902,9778B55A,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is the birthday that{BR}you and I share!{#232B}I wanted to celebrate with{BR}you, so I made a lot!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Well, let's sit down.","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün ikimizin de{BR}doğum günü!{#232B}Seninle kutlamak için{BR}bir sürü yemek yaptım!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Hadi, oturalım.",
 559,0x13D00,170,4,166,0.888,50333302,"I wanted to see your face{BR}light up in delight, so I{BR}did my very best!{#232B}{#1F41}{#1FA7}{#1F48}{#2136}If I do say so myself,{BR}the food has come out very{BR}well!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Come now, let's eat it{BR}together.","Yüzünün mutlulukla{BR}aydınlanmasını istedim;{BR}bu yüzden çok uğraştım!{#232B}{#1F41}{#1FA7}{#1F48}{#2136}Kendim söylemiş olmayayım{BR}ama yemek çok güzel oldu!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Hadi, birlikte{BR}yiyelim.",
 560,0x13E56,172,4,168,0.907,09B643C1,"Welcome home, {#2391}.{BR}How was work?{#232B}It's my birthday, and I{BR}wanted to celebrate with{BR}you, so I've been waiting.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}I've made a great deal of{BR}food. Please come over and{BR}see.","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün benim doğum günüm.{BR}Seninle kutlamak için{BR}seni bekliyordum.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Bir sürü yemek yaptım.{BR}Gel, bir bak.",
-561,0x13FB0,140,4,136,0.907,A7E980CB,"I wanted you to celebrate{BR}with me, so I did my very{BR}best cooking.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}I look forward to spending{BR}many more birthdays with{BR}you like this.",Benimle kutlamanı istedim;{BR}bu yüzden yemek için{BR}elimden geleni yaptım.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Seninle böyle daha nice{BR}doğum günleri geçirmek{BR}istiyorum.,
-562,0x140CA,113,4,109,0.867,1222B4B7,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is {#2337}'s{BR}birthday.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Let's celebrate together!{BR}Would you come over here?","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün {#2337}{BR}doğum günü.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Birlikte kutlayalım!{BR}Buraya gelir misin?",
-563,0x141AE,90,4,86,0.856,064164CF,Children grow up so{BR}quickly!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}We must do the utmost to{BR}raise our little {#2337}{BR}properly.,Çocuklar çabucak{BR}büyüyor!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Küçük {#2337} iyi{BR}yetiştirmek için{BR}uğraşmalıyız.,
+561,0x13FB0,140,4,136,0.907,A7E980CB,"I wanted you to celebrate{BR}with me, so I did my very{BR}best cooking.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}I look forward to spending{BR}many more birthdays with{BR}you like this.",Benimle kutlamanı istedim;{BR}bu yüzden yemek yaparken{BR}elimden geleni yaptım.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Seninle böyle daha nice{BR}doğum günleri geçirmek{BR}istiyorum.,
+562,0x140CA,113,4,109,0.867,1222B4B7,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is {#2337}'s{BR}birthday.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Let's celebrate together!{BR}Would you come over here?","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün {#2337} doğum gününü{BR}kutluyor.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Birlikte kutlayalım!{BR}Buraya gelir misin?",
+563,0x141AE,90,4,86,0.856,064164CF,Children grow up so{BR}quickly!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}We must do the utmost to{BR}raise our little {#2337}{BR}properly.,Çocuklar çabucak{BR}büyüyor!{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Küçük {#2337} iyi{BR}büyüsün diye{BR}elimizden geleni yapmalıyız.,
 564,0x14264,111,4,107,0.865,2534035F,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is {#2337}'s{BR}birthday.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Let's sit down right away{BR}and celebrate together.","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün {#2337}{BR}doğum günü.{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Hemen oturup{BR}birlikte kutlayalım.",
-565,0x14344,87,4,83,0.874,EAE4D680,"I cooked something that{BR}{#2337} should like{BR}today.{#232B}Let's eat together!{BR}Happy birthday,{BR}{#2337}.","Bugün {#2337} seveceği{BR}bir şey pişirdim.{#232B}Hadi birlikte yiyelim!{BR}İyi ki doğdun, {#2337}.",
-566,0x143F4,149,4,145,0.893,1C943F38,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is our anniversary,{BR}{#2391}, so I cooked{BR}for us. I've been waiting!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Please sit down.{BR}Let's celebrate together.","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün yıl dönümümüz,{BR}{#2391}; ikimiz için{BR}yemek yaptım. Seni bekledim!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Lütfen otur.{BR}Birlikte kutlayalım.",
+565,0x14344,87,4,83,0.874,EAE4D680,"I cooked something that{BR}{#2337} should like{BR}today.{#232B}Let's eat together!{BR}Happy birthday,{BR}{#2337}.","Bugün {#2337} beğensin diye{BR}bir şey pişirdim.{#232B}Hadi birlikte yiyelim!{BR}İyi ki doğdun, {#2337}.",
+566,0x143F4,149,4,145,0.893,1C943F38,"Welcome home, {#2391}.{BR}How was work?{#232B}Today is our anniversary,{BR}{#2391}, so I cooked{BR}for us. I've been waiting!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Please sit down.{BR}Let's celebrate together.","Hoş geldin, {#2391}.{BR}İş nasıl geçti?{#232B}Bugün yıl dönümümüz,{BR}{#2391}, ikimiz için{BR}yemek yaptım. Seni bekledim!{#232B}{#1F40}{#1FA7}{#1F49}{#2135}Lütfen otur.{BR}Birlikte kutlayalım.",
 567,0x14520,252,4,248,0.893,D0A19AEC,"On our anniversary, I always{BR}think about what it was like{BR}before we married...{#232B}{#1F41}{#1FA7}{#1F49}{#2136}I am so happy that I met{BR}you. You changed my life.{#232B}{#1F41}{#1FA7}{#1F48}{#2136}And I know you feel the same{BR}way about me, {#2391}.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}I look forward to many more{BR}happy anniversaries with{BR}you, {#2391}.","Yıl dönümümüzde hep{BR}evlenmeden önceki{BR}günleri düşünüyorum...{#232B}{#1F41}{#1FA7}{#1F49}{#2136}Seninle tanıştığım için{BR}çok mutluyum. Hayatımı{BR}değiştirdin.{#232B}{#1F41}{#1FA7}{#1F48}{#2136}Senin de benim için aynı{BR}şeyi hissettiğini{BR}biliyorum, {#2391}.{#232B}{#1F41}{#1FA7}{#1F4D}{#2136}Seninle daha nice yıl{BR}dönümü geçirmek{BR}istiyorum, {#2391}.",
 568,0x1471A,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 569,0x1473E,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
@@ -594,16 +594,16 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 592,0x14B00,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 593,0x14B24,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 594,0x14B48,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
-595,0x14B6C,66,4,62,0.894,0931A9A6,"Good morning, {#232A}.{BR}Did you have a hearty{BR}breakfast this morning?","Günaydın, {#232A}.{BR}Bu sabah güzel bir{BR}kahvaltı yaptın mı?",
+595,0x14B6C,66,4,62,0.894,0931A9A6,"Good morning, {#232A}.{BR}Did you have a hearty{BR}breakfast this morning?","Günaydın, {#232A}.{BR}Bu sabah doyurucu{BR}kahvaltı yaptın mı?",
 596,0x14BF2,40,4,36,0.850,323F2946,"Good morning, {#232A}.{BR}Did you sleep well?","Günaydın, {#232A}.{BR}İyi uyudun mu?",
 597,0x14C44,92,4,88,0.913,34C0CBD9,"Good morning, {#232A}.{#232B}Are you exercising daily?{BR}...Oh, there I go acting{BR}like a doctor again!","Günaydın, {#232A}. Her gün{BR}egzersiz yapıyor musun?{BR}...Aa, yine doktor gibi{#232B}konuşmaya{BR}başladım!",
 598,0x14CFE,58,4,54,0.879,2ACE1F3D,"Good day to you, {#232A}.{BR}How is your work going{BR}these days?","İyi günler, {#232A}.{BR}Son zamanlarda işler{BR}nasıl gidiyor?",
-599,0x14D74,72,4,68,0.903,7302618B,"Good day to you, {#232A}.{BR}Are you eating a hearty{BR}breakfast every morning?","İyi günler, {#232A}.{BR}Her sabah güzel bir{BR}kahvaltı yapıyor musun?",
+599,0x14D74,72,4,68,0.903,7302618B,"Good day to you, {#232A}.{BR}Are you eating a hearty{BR}breakfast every morning?","İyi günler, {#232A}.{BR}Her sabah doyurucu{BR}kahvaltı yapıyor musun?",
 600,0x14E06,55,4,51,0.873,29C936F4,"Oh, hello, {#232A}.{BR}Good day to you.{BR}How are you feeling?","Aa, merhaba, {#232A}.{BR}İyi günler.{BR}Nasıl hissediyorsun?",
 601,0x14E76,50,4,46,0.860,FAF01829,"Good evening, {#232A}.{BR}Another hard day's work{BR}done?","İyi akşamlar, {#232A}.{BR}Bugünkü iş de bitti mi?",
 602,0x14EDC,62,4,58,0.887,AF9E17CD,"Good evening, {#232A}.{BR}What are you doing out at{BR}this late hour?","İyi akşamlar, {#232A}.{BR}Bu saatte dışarıda{BR}ne yapıyorsun?",
 603,0x14F5A,66,4,62,0.879,67B0C812,"Oh, {#232A},{BR}good day to you.{#232B}My, the hour is late!{BR}The day flew by!","Aa, {#232A}, iyi{BR}günler.{#232B}Aman, saat ne kadar olmuş!{BR}Gün uçup gitmiş!",
-604,0x14FE0,70,4,66,0.886,16271E41,"I cannot help feeling{BR}anxious about our wedding.{#232B}How about you,{BR}{#232A}?","Düğünümüz yaklaştıkça{BR}ister istemez geriliyorum.{#232B}Ya{BR}sen, {#232A}?",
+604,0x14FE0,70,4,66,0.886,16271E41,"I cannot help feeling{BR}anxious about our wedding.{#232B}How about you,{BR}{#232A}?","Düğünümüz yaklaştıkça{BR}ister istemez geriliyorum.{#232B}Peki ya sen,{BR}{#232A}?",
 605,0x1506E,107,4,103,0.897,837B7ABE,"Once we are married, I will{BR}look after your health.{#232B}{#1F46}{#1FA7}{#1F48}{#2136}You must not overtax{BR}yourself! Health is vital!",Evlenince sağlığınla{BR}ben ilgileneceğim.{#232B}{#1F46}{#1FA7}{#1F48}{#2136}Kendini fazla yormamalısın!{BR}Sağlık her şeyden önemli!,
 606,0x15146,133,4,129,0.910,2B288E2D,"The other day, as I was{BR}thinking about our wedding,{BR}Dr. Ayame scolded me.{#232B}{#1F46}{#1FA7}{#1F4D}{#2136}I must have had a truly{BR}distracted look on my face!",Geçen gün düğünümüzü{BR}düşünürken Dr. Ayame{BR}beni azarladı.{#232B}{#1F46}{#1FA7}{#1F4D}{#2136}Herhalde yüzümde fazlasıyla{BR}dalgın bir ifade vardı!,
 607,0x15252,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
@@ -613,17 +613,17 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 611,0x152E2,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 612,0x15306,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 613,0x1532A,46,4,42,0.891,4AB1B31D,"I know you work hard, but{BR}don't overdo it.",Çok çalışıyorsun ama{BR}kendini yorma.,
-614,0x15388,71,4,67,0.915,4F92B6F7,It is important to eat{BR}nutritious foods to{BR}replenish your strength!,Gücünü yenilemek için{BR}besleyici şeyler yemek{BR}çok önemlidir!,
-615,0x15418,67,4,63,0.910,9458A87F,"One day, I will be a{BR}full-fledged doctor...{BR}But when, I wonder?",Bir gün tam yetkin bir{BR}doktor olacağım...{BR}Ama ne zaman acaba?,
+614,0x15388,71,4,67,0.915,4F92B6F7,It is important to eat{BR}nutritious foods to{BR}replenish your strength!,Gücünü toplamak için{BR}besleyici yiyecekler{BR}yemen çok önemli!,
+615,0x15418,67,4,63,0.910,9458A87F,"One day, I will be a{BR}full-fledged doctor...{BR}But when, I wonder?",Bir gün tam anlamıyla{BR}doktor olacağım...{BR}Ama ne zaman acaba?,
 616,0x154A0,57,4,53,0.895,78592FF9,Good morning.{BR}Time to put in another{BR}good day's work.,Günaydın.{BR}Bugün de elimizden{BR}geleni yapalım.,
 617,0x15514,57,4,53,0.895,8408B296,Good morning.{#232B}Did you sleep soundly?{BR}I certainly did.,Günaydın.{#232B}Rahat uyudun mu?{BR}Ben çok iyi uyudum.,
 618,0x15588,70,4,66,0.914,4541601C,Good morning.{#232B}...Today I feel as though I{BR}didn't get enough sleep.,Günaydın.{#232B}...Bugün sanki yeterince{BR}uyumamışım gibi.,
-619,0x15616,31,4,27,0.839,0CD39DE3,Did you eat a hearty{BR}lunch?,Öğle yemeğini{BR}iyi yedin mi?,
+619,0x15616,31,4,27,0.839,0CD39DE3,Did you eat a hearty{BR}lunch?,Öğlen iyi{BR}doyabildin mi?,
 620,0x15656,48,4,44,0.896,A4223CC1,"Oh, midday already... How's{BR}your work going?","Aa, öğlen olmuş bile...{BR}İşler nasıl gidiyor?",
 621,0x156B8,60,4,56,0.883,8CEB82EF,"Oh, {#2391}...{BR}*Yawn* I get so sleepy{BR}around this time of day.","Aa, {#2391}... *Esner* Günün bu{BR}saatinde çok uykum gelir.",
 622,0x15732,127,4,123,0.898,54D3EADA,"Good evening, {#2391}...{BR}Night has already fallen.{#232B}{#1F46}{#1FA7}{#1F4B}{#2136}And this is the first time{BR}we've had a conversation{BR}today! It's a bit sad.","İyi akşamlar, {#2391}...{BR}Gece olmuş bile.{#232B}{#1F46}{#1FA7}{#1F4B}{#2136}Üstelik bugün ilk kez{BR}konuşuyoruz! Biraz üzücü.",
 623,0x15832,42,4,38,0.881,B5337E8A,Another day of good work{BR}accomplished.,Bugünkü işler de{BR}başarıyla bitti.,
-624,0x15888,70,4,66,0.886,EB272B22,"For some reason, today left{BR}me greatly fatigued.{#232B}How about you,{BR}{#2391}?","Nedense bugün beni{BR}çok yordu.{#232B}Ya seni,{BR}{#2391}?",
+624,0x15888,70,4,66,0.886,EB272B22,"For some reason, today left{BR}me greatly fatigued.{#232B}How about you,{BR}{#2391}?","Ya sen,{BR}{#2391}?",
 625,0x15916,94,4,90,0.904,8333E09D,"Congratulations, {#232A}!!{BR}{#232B}Just what I'd expect of you.{BR}The food you prepared{BR}looked delicious.","Tebrikler, {#232A}!!{BR}{#232B}Senden beklenirdi.{BR}Hazırladığın yemek{BR}çok lezzetli görünüyordu.",
 626,0x159D4,83,4,79,0.916,2A8A3954,Congratulations.{#232B}Where did you master{BR}such skill in cooking?{BR}You must teach me!,Tebrikler.{#232B}Bu yemek ustalığını{BR}nerede öğrendin?{BR}Bana da öğret!,
 627,0x15A7C,64,4,60,0.875,4B5D9043,"Today's {#1000}{BR}was enjoyable, wasn't it?{#232B}Your cooking was{BR}superb!","Bugünkü {#1000} çok{BR}keyifliydi, değil mi?{#232B}Yemeğin de{BR}mükemmeldi!",
@@ -643,31 +643,31 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 641,0x16224,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 642,0x16248,17,4,13,0.706,785E985A,"Oh, hello, {#232A}.","Merhaba, {#232A}.",
 643,0x1666A,49,4,45,0.898,EF2CB4F1,Yesterday was pretty windy.{BR}You all right...?,Dün hava epey rüzgarlıydı.{BR}İyi misin...?,
-644,0x166CE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-645,0x166E4,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-646,0x166FA,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+644,0x166CE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+645,0x166E4,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+646,0x166FA,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 647,0x16710,72,4,68,0.917,1FCEA4AD,"It's pretty cute... I like{BR}flowers the best, but{BR}cats are nice, too.",Sevimli... En çok{BR}çiçekleri severim{BR}ama kediler de güzel.,
-648,0x167A2,99,4,95,0.929,093387E8,Is this your pet?{#232B}Um... Could you make sure{BR}it doesn't get loose? I'm{BR}not a big fan of these...,Bu senin evcilin mi?{#232B}Şey... Kaçmamasına dikkat{BR}eder misin? Bunlarla pek{BR}aram yok da...,
+648,0x167A2,99,4,95,0.929,093387E8,Is this your pet?{#232B}Um... Could you make sure{BR}it doesn't get loose? I'm{BR}not a big fan of these...,Bu senin evcil hayvanın mı?{#232B}Şey... Kaçmamasına dikkat{BR}eder misin? Bunlarla pek{BR}aram yok da...,
 649,0x1686A,142,4,138,0.908,201513E4,"A... A Blue Feather? Wait,{BR}are you really giving{BR}this to me?{#232B}{#1F46}{#1FA8}{#1F48}{#2136}Well, um, maybe we should{BR}go somewhere more private{BR}to talk about this...","B-Bir Mavi Tüy mü? Dur,{BR}bunu gerçekten bana mı{BR}veriyorsun?{#232B}{#1F46}{#1FA8}{#1F48}{#2136}Şey... Bence bunu konuşmak{BR}için daha sakin bir yere{BR}gidelim...",
 650,0x16988,86,4,82,0.884,463AF00A,"Is that a Blue Feather?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}So you found your soul mate,{BR}did you? Congratulations!",Bu bir Mavi Tüy mü?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Demek ruh eşini buldun.{BR}Tebrik ederim!,
 651,0x16A36,46,4,42,0.891,CF22BE8C,"Hmm? Sorry, I don't want{BR}that right now...","Hmm? Üzgünüm, bunu şu an{BR}istemiyorum...",
 652,0x16A94,53,4,49,0.906,6B292585,"Thanks, but can you give{BR}this to me another time?",Sağ ol ama bunu bana başka{BR}bir zaman verir misin?,
-653,0x16B00,77,4,73,0.883,3FECE1F5,"Is this for me? Oh yeah,{BR}it's Harmony Day today,{BR}isn't it?{#232B}Thank you, {#232A}.{BR}","Bu bana mı? Aa, bugün{BR}Uyum Günü'ydü, değil mi?{#232B}Teşekkür ederim, {#232A}.{BR}",
+653,0x16B00,77,4,73,0.883,3FECE1F5,"Is this for me? Oh yeah,{BR}it's Harmony Day today,{BR}isn't it?{#232B}Thank you, {#232A}.{BR}","Bu bana mı? Aa, bugün{BR}Uyum Günü, değil mi?{#232B}Teşekkür ederim, {#232A}.{BR}",
 654,0x16B9C,96,4,92,0.885,199113C3,"For me? For Harmony Day...?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Um... Are you sure this{BR}is for me...? Well,{BR}if you insist...",Bana mı? Uyum Günü için...?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Şey... Gerçekten bana mı?{BR}Peki... Israr ediyorsan...,
 655,0x16C5E,23,4,19,0.826,66D5DC60,What's that for...?,O ne için...?,
 656,0x16C8E,114,4,110,0.877,DFE11F5C,Huh? A birthday present...?{BR}For me...?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}This soup... It's {#206D}tom yum{BR}goong!{#206C} I love this stuff!{BR}Thanks a lot!,Ha? Doğum günü hediyesi...?{BR}Bana mı...?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Bu çorba... {#206D}Tom yum{BR}goong!{#206C} Bayılırım buna!{BR}Çok teşekkürler!,
 657,0x16D74,104,4,100,0.875,B3DC86E6,"Hey, isn't this {#206D}tom yum{BR}goong?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}What? It's for me? Thanks!{BR}I love this! That's so{BR}nice of you...","Hey, bu {#206D}tom yum{BR}goong değil mi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Ne? Bana mı? Sağ ol!{BR}Buna bayılırım. Çok{BR}ince düşünmüşsün...",
-658,0x16E46,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-659,0x16E5C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-660,0x16E72,104,4,100,0.885,1A392F20,"Hey, that's really nice.{BR}What? It's my birthday{BR}present?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Wow, can I really have{BR}this...? Thanks!","Hey, çok güzelmiş.{BR}Ne? Doğum günü{BR}hediyem mi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Gerçekten alabilir miyim...?{BR}Teşekkür ederim!",
-661,0x16F44,59,4,55,0.814,B4B62D85,"That's for me?{BR}Really?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Wow, that's so nice.{BR}Thanks.",Bu bana mı?{BR}Gerçekten?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Çok güzel.{BR}Teşekkürler.,
+658,0x16E46,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+659,0x16E5C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+660,0x16E72,104,4,100,0.885,1A392F20,"Hey, that's really nice.{BR}What? It's my birthday{BR}present?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Wow, can I really have{BR}this...? Thanks!","Aa, çok güzelmiş.{BR}Ne? Doğum günü{BR}hediyem mi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Gerçekten alabilir miyim...?{BR}Teşekkür ederim!",
+661,0x16F44,59,4,55,0.814,B4B62D85,"That's for me?{BR}Really?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Wow, that's so nice.{BR}Thanks.","Bu bana mı?{BR}Gerçekten?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Vay, çok güzel!{BR}Teşekkürler.",
 662,0x16FBC,35,4,31,0.829,C8FCEFB5,"Oh, for my birthday?{#232B}Thanks...{BR}",Doğum günüm için mi?{#232B}Sağ ol...{BR},
 663,0x17004,22,4,18,0.773,FBC7F4EA,For me? Thanks...{BR},Bana mı? Sağ ol.{BR},
 664,0x17032,84,4,80,0.857,E76A6BC1,"Is that for me? It's a{BR}birthday present, you{BR}say...?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Well, if you insist...{BR}","Bana mı? Doğum günü{BR}hediyesi mi bu...?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Peki, ısrar ediyorsan...{BR}",
 665,0x170DC,37,4,33,0.730,9212BF20,That's for me?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Um... Thanks?{BR},Bana mı?{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Şey... Sağ ol?{BR},
 666,0x17128,87,4,83,0.908,5C7696B1,"Um, I really don't want{BR}this, but I guess it'd be{BR}rude not to accept it...{#232B}Thanks.{BR}","Şey, bunu pek istemiyorum{BR}ama almamak da kabalık{BR}olur sanırım...{#232B}Teşekkürler.{BR}",
-667,0x171D8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-668,0x171EE,97,4,93,0.918,50E1689A,"How are you and Laney{BR}getting along?{#232B}I bet she makes you{BR}delicious desserts{BR}every night, huh?","Laney'le{BR}aranız nasıl?{#232B}Bahse girerim her gece sana{BR}nefis tatlılar yapıyordur,{BR}değil mi?",
+667,0x171D8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+668,0x171EE,97,4,93,0.918,50E1689A,"How are you and Laney{BR}getting along?{#232B}I bet she makes you{BR}delicious desserts{BR}every night, huh?","Laney'le{BR}aran nasıl?{#232B}Bahse girerim her gece sana{BR}nefis tatlılar yapıyordur,{BR}değil mi?",
 669,0x172B2,90,4,86,0.911,8207BB83,"How's married life treating{BR}you, {#232A}?{#232B}Maybe I should settle down{BR}and get married, too...","Evlilik nasıl{BR}gidiyor, {#232A}?{#232B}Belki ben de artık{BR}evlenmeyi düşünmeliyim...",
 670,0x17368,109,4,105,0.917,82306F1D,"Boy, we're having a pretty{BR}bad storm today!{#232B}I hope my flowers don't blow{BR}away... You be careful too,{BR}{#232A}...","Bugün fırtına bayağı{BR}şiddetli!{#232B}Umarım çiçeklerim uçmaz...{BR}Sen de dikkat et, {#232A}...",
 671,0x17444,98,4,94,0.918,8CD6F5C3,You shouldn't be out when{BR}there's a blizzard like{BR}this.{#232B}You could be swallowed up{BR}by the snow!,Böyle bir tipide dışarıda{BR}olmamalısın.{#232B}Karda{BR}kaybolabilirsin!,
@@ -678,26 +678,26 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 676,0x17A2C,79,4,75,0.911,26E6943C,Have you ever tried one{BR}of Laney's desserts?{#232B}I think they're really{BR}good...,Laney'nin tatlılarından{BR}hiç denedin mi?{#232B}Bence gerçekten çok{BR}lezzetliler...,
 677,0x17ACC,103,4,99,0.922,F44C76E2,"When you want to thank{BR}someone, give them a{BR}bouquet.{#232B}Make it one of my bouquets,{BR}though, of course.",Birine teşekkür etmek{BR}istiyorsan ona bir{BR}buket ver.{#232B}Tabii benim buketlerimden{BR}biri olsun.,
 678,0x17B9C,95,4,91,0.916,2C88C2D0,"Do you have any flowers in{BR}your house, {#232A}?{#232B}Flowers are a great way to{BR}brighten up a place...","Evinde çiçek{BR}var mı, {#232A}?{#232B}Çiçekler bir yeri hemen{BR}canlandırır...",
-679,0x17C5C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+679,0x17C5C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 680,0x17C72,39,4,35,0.872,49B1D6D6,I'm not in the mood to talk.{BR}Sorry.,Konuşacak havada değilim.{BR}Üzgünüm.,
 681,0x17CC2,21,1,20,0.905,B462618D, I'm sorry...{BR} OK...,Özür...{BR}Peki...,
 682,0x17CEE,58,4,54,0.897,656188E4,It's OK... Maybe I was{BR}reading too much into{BR}things...,Sorun değil... Belki ben{BR}fazla anlam yükledim...,
-683,0x17D74,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+683,0x17D74,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 684,0x17D8A,64,4,60,0.906,A45F07EC,It was really bad out{BR}yesterday... I'm glad{BR}everyone's okay.,Dün hava çok kötüydü...{BR}Herkesin iyi olmasına{BR}sevindim.,
-685,0x17E0C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-686,0x17E22,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-687,0x17E38,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-688,0x17E4E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+685,0x17E0C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+686,0x17E22,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+687,0x17E38,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+688,0x17E4E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 689,0x17E64,102,4,98,0.892,E17686FD,A Harmony Day present?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}I didn't expect to get one{BR}of these after I got{BR}married... Thank you...,Uyum Günü hediyesi mi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Evlendikten sonra da{BR}hediye beklemiyordum...{BR}Sağ ol...,
 690,0x17F32,76,4,72,0.868,C33349AF,Huh? A birthday present?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}And you remembered what{BR}I like... Thanks...,Ha? Doğum günü hediyesi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Sevdiğim şeyi de{BR}hatırlamışsın... Sağ ol...,
 691,0x17FCC,72,4,68,0.861,F22688B1,Huh? A present for me?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}You know exactly what{BR}I like... Thanks...,Ha? Bana hediye mi?{#232B}{#1F46}{#1FA8}{#1F49}{#2136}Neyi sevdiğimi tam{BR}biliyorsun... Sağ ol...,
 692,0x1805E,46,4,42,0.891,F0C1E2FC,"Hey, do you want to go{BR}somewhere together?","Hey, birlikte bir yere{BR}gitmek ister misin?",
 693,0x180BC,47,1,46,0.957,494A06B0," Yeah, that'd be fun!{BR} I don't feel like it..."," Evet, güzel olur!{BR} Pek içimden gelmiyor...",
 694,0x1811C,73,4,69,0.918,B7A7CD73,"I see... Well, that's OK.{BR}Just let me know when{BR}you're in the mood...",Anladım... Sorun değil.{BR}Canın istediğinde bana{BR}söylersin...,
-695,0x181B0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+695,0x181B0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 696,0x181C6,177,4,173,0.915,8BD3266F,"What's that? It's a birthday{BR}present? For me?{#232B}{#1F46}{#1FA8}{#1F4B}{#2136}Um, it's nice that you{BR}remembered my birthday{BR}and all, but...{#232B}No, never mind... I should{BR}be thankful that you{BR}remembered...","Ne? Doğum günü hediyesi mi?{BR}Bana mı?{#232B}{#1F46}{#1FA8}{#1F4B}{#2136}Şey, doğum günümü{BR}hatırlaman güzel ama...{#232B}Boş ver... Hatırladığına{BR}şükretmem gerek sanırım...",
 697,0x1832A,132,4,128,0.924,D665CD41,"What's that? A present?{BR}For me?{#232B}Um, well, I appreciate the{BR}thought, but...{#232B}Well, I guess I have to{BR}take it... Thanks,{BR}I guess...","Ne? Hediye mi?{BR}Bana mı?{#232B}Şey, düşünmen{BR}güzel ama...{#232B}Sanırım almak zorundayım...{BR}Teşekkürler... galiba.",
-698,0x18434,97,4,93,0.918,CD5040AA,"Wow, you're pregnant...{BR}It doesn't quite seem{BR}real yet...{#232B}It's still pretty exciting,{BR}though.","Vay, hamilesin...{BR}Hala pek gerçekmiş gibi{BR}gelmiyor...{#232B}Ama çok{BR}heyecan verici.",
+698,0x18434,97,4,93,0.918,CD5040AA,"Wow, you're pregnant...{BR}It doesn't quite seem{BR}real yet...{#232B}It's still pretty exciting,{BR}though.","Vay, hamilesin...{BR}Henüz gerçek gibi{BR}gelmiyor...{#232B}Yine de{BR}çok heyecan verici.",
 699,0x184F8,69,4,65,0.913,108B34FD,You've got the baby to think{BR}of now. You shouldn't push{BR}yourself.,Artık bebeği de düşün.{BR}Kendini fazla yorma.,
 700,0x18584,94,4,90,0.926,5D797E20,I can't believe I'm going{BR}to be a father soon...{#232B}We have to think of a name{BR}for our child!,Yakında baba olacağıma{BR}inanamıyorum...{#232B}Çocuğumuza bir isim{BR}bulmamız gerekecek!,
 701,0x18642,116,4,112,0.931,0F89974A,"Seeing your face in the{BR}morning makes me feel great,{BR}even when I'm tired.{#232B}It makes me want to work{BR}hard for you.","Sabah yüzünü görmek,{BR}yorgun olsam bile bana{BR}çok iyi geliyor.{#232B}Senin için daha çok{BR}çalışasım geliyor.",
@@ -714,9 +714,9 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 712,0x18D20,67,4,63,0.896,61493061,"I'm not angry... It's{BR}just that...{#232B}No, it's OK...{BR}Never mind...","Kızgın değilim...{BR}Sadece...{#232B}Yok, sorun değil...{BR}Boş ver...",
 713,0x18DA8,72,4,68,0.917,A620CD28,"Never mind? If you have{BR}something to say to me,{BR}you should say it...",Boş ver mi? Bana söylemek{BR}istediğin bir şey varsa{BR}söylemelisin...,
 714,0x18E3A,51,4,47,0.902,4E0A879F,Aren't you bringing that to{BR}the festival today?,Onu bugün festivale{BR}götürmeyecek misin?,
-715,0x18EA2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-716,0x18EB8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-717,0x18ECE,33,4,29,0.848,E5C58351,Is this your pet?{BR}How cute...,Evcilin mi?{BR}Çok tatlı...,
+715,0x18EA2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+716,0x18EB8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+717,0x18ECE,33,4,29,0.848,E5C58351,Is this your pet?{BR}How cute...,Evcil hayvanın mı?{BR}Ne tatlı!,
 718,0x18F12,34,4,30,0.853,2D166D77,"You're a cute one,{BR}aren't you?","Ne tatlısın sen,{BR}değil mi?",
 719,0x18F58,70,4,66,0.914,19EC1E5D,Where'd you get that{BR}thing...? Can you please{BR}get it away from me?,O şeyi nereden buldun...?{BR}Lütfen benden uzak{BR}tutar mısın?,
 720,0x18FE6,47,4,43,0.894,B403A3AF,You should really let that{BR}poor thing go...,O zavallıyı doğaya{BR}bırakmalısın...,
@@ -727,8 +727,8 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 725,0x191C2,22,1,21,0.909,44EBE722, Sure!{BR} Not really...,Olur! Pek{BR}değil...,
 726,0x191F0,38,1,37,0.947,00BCCD09, Sounds good!{BR} Maybe some other time?, Güzel olur!{BR} Başka bir zaman?,
 727,0x1923E,35,1,34,0.943,06B5E638, Sure! Let's go!{BR} Not right now..., Olur! Gidelim!{BR} Şimdi değil...,
-728,0x19286,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-729,0x1929C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+728,0x19286,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+729,0x1929C,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 730,0x192B2,42,4,38,0.857,AE15E7AC,"Oh, OK...{#232B}No, don't worry about it...{BR}","Aa, peki...{#232B}Yok, dert etme...{BR}",
 731,0x19308,42,4,38,0.881,B286E64B,"OK, we'll do it some{BR}other time, then.","Peki, o zaman başka{BR}bir zaman yaparız.",
 732,0x1935E,55,4,51,0.909,42337DA1,"Oh, I see... Maybe sometime{BR}later when you're free?",Anladım... Belki boş{BR}olduğun başka bir zaman?,
@@ -741,7 +741,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 739,0x1971C,32,4,28,0.875,110CE2D0,"I'll see you tomorrow, then.",O zaman yarın görüşürüz.,
 740,0x1975E,67,4,63,0.910,F2D0C1C9,This wrapping paper is{BR}really nice... I wonder{BR}what's inside...,Paket kağıdı çok güzel...{BR}İçinde ne var acaba...,
 741,0x197E6,127,4,123,0.898,E8420D74,"I always feel at peace when{BR}I'm with you...{#232B}{#1F46}{#1FA8}{#1F4D}{#2136}I guess what I mean is that{BR}you're a really important{BR}person in my life, {#232A}.","Seninleyken hep huzurlu{BR}hissediyorum...{#232B}{#1F46}{#1FA8}{#1F4D}{#2136}Sanırım demek istediğim...{BR}Hayatımda çok önemli bir{BR}yerin var, {#232A}.",
-742,0x198E6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+742,0x198E6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 743,0x198FC,49,4,45,0.898,B87D7C61,"Sorry, but could you leave{BR}me alone today...?",Bugün yalnız bırakır{BR}mısın...?,
 744,0x19960,124,4,120,0.935,35D8CA6F,"Since it's Flower Day today,{BR}I sold a lot of flowers.{#232B}I think it's great that we{BR}have a day when we give{BR}people flowers.",Bugün Çiçek Günü olduğu{BR}için çok çiçek sattım.{#232B}İnsanların birbirine çiçek{BR}verdiği bir gün olması{BR}bence harika.,
 745,0x19A5A,26,4,22,0.846,FBC5EA18,Make yourself at home.,Kendini evinde hisset.,
@@ -750,27 +750,27 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 748,0x19B64,37,4,33,0.865,0B16E719,"Oh, you came to get me?{BR}Thanks...",Beni almaya mı geldin?{BR}Sağ ol...,
 749,0x19BB0,65,4,61,0.908,87D4626A,"On my days off, I like{BR}to take a walk here.{BR}It's so peaceful.",İzin günlerimde burada{BR}yürümeyi seviyorum.{BR}Çok huzurlu.,
 750,0x19C34,134,4,130,0.903,8438D86C,"Now that the tunnel is open,{BR}I'd like to sell flowers{BR}in Konohana, too.{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}But I don't know where{BR}to set up shop there,{BR}though...",Tünel açıldığına göre{BR}Konohana'da da çiçek{BR}satmak isterim.{#232B}{#1F46}{#1FA8}{#1F4C}{#2136}Ama orada dükkanı nereye{BR}kuracağımı bilmiyorum...,
-751,0x19D42,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-752,0x19D58,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-753,0x19D6E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-754,0x19D84,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-755,0x19D9A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-756,0x19DB0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-757,0x19DC6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+751,0x19D42,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+752,0x19D58,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+753,0x19D6E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+754,0x19D84,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+755,0x19D9A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+756,0x19DB0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+757,0x19DC6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 758,0x19DDC,40,4,36,0.875,EFD17C02,I'd like to be alone today.{BR}Sorry...,Bugün yalnız kalayım.{BR}Üzgünüm...,
 759,0x19E2E,84,4,80,0.917,EC347BBD,"What do you think of{BR}Konohana's food?{#232B}Personally, I like the{BR}food here better...",Konohana yemekleri{BR}sence nasıl?{#232B}Ben buradakileri{BR}daha çok seviyorum...,
 760,0x19ED8,51,4,47,0.902,3A58AD70,So I heard you cheered us{BR}on today... Thanks...,Bugün bizi desteklemişsin...{BR}Teşekkürler...,
-761,0x19F40,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-762,0x19F56,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+761,0x19F40,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+762,0x19F56,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 763,0x19F6C,80,4,76,0.925,D048779E,"Konohana's food looks pretty{BR}good, but I still like our{BR}village's food best.",Konohana yemekleri{BR}güzel ama ben yine{BR}bizim köyünkileri seçerim.,
-764,0x1A00E,9,4,5,0.444,B7924AB7,"Hi,{#232A}.","Ey,{#232A}.",
+764,0x1A00E,9,4,5,0.444,B7924AB7,"Hi,{#232A}.",Hey {#232A},
 765,0x1A022,61,4,57,0.902,AAD1B548,"Sorry you didn't win today.{BR}Don't worry about it,{BR}though.",Bugün kazanamadığına{BR}üzüldüm. Ama kafana takma.,
 766,0x1A09E,61,4,57,0.885,DEEBF355,The {#1000}{BR}is today. Are you going? It{BR}should be a lot of fun!,Bugün {#1000} var. Gidecek misin?{BR}Eğlenceli olacaktır!,
 767,0x1A11A,59,4,55,0.881,31EA003A,So you didn't come to the{BR}{#1000}{BR}today? It was a lot of fun.,Bugünkü {#1000} etkinliğine{BR}gelmedin mi? Çok{BR}eğlenceliydi.,
-768,0x1A192,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+768,0x1A192,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 769,0x1A1A8,69,4,65,0.913,C33059A9,"Too bad you didn't win{BR}today. There's always{BR}next time, though...",Bugün kazanamaman kötü oldu.{BR}Ama bir dahaki sefere{BR}şansın var...,
-770,0x1A234,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-771,0x1A24A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+770,0x1A234,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+771,0x1A24A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 772,0x1A260,81,4,77,0.901,015FFE59,"Welcome home, {#2391}...{#232B}It's your birthday today...{#232B}Let's celebrate it{BR}together...","Hoş geldin, {#2391}...{#232B}Bugün doğum günün...{#232B}Hadi birlikte{BR}kutlayalım...",
 773,0x1A304,115,4,111,0.878,EDBC90BE,"I know I can't cook the way{BR}you can, but I tried my{BR}best...{#232B}I really hope you like it.{#232B}{#1F41}{#1FA8}{#1F4D}{#2136}Happy birthday,{BR}{#2391}...","Senin kadar iyi yemek{BR}yapamasam da çok uğraştım...{#232B}Umarım beğenirsin.{#232B}{#1F41}{#1FA8}{#1F4D}{#2136}Doğum günün{BR}kutlu olsun, {#2391}...",
 774,0x1A3EC,140,4,136,0.929,A5578539,"Welcome home, {#2391}...{#232B}It's our birthday today...{BR}You remembered, right...?{#232B}Anyway, I've been waiting{BR}here so we could celebrate{BR}together...","Hoş geldin, {#2391}...{#232B}Bugün ikimizin{BR}de doğum günü...{BR}Hatırladın, değil mi?{#232B}Birlikte kutlarız diye{BR}seni bekliyordum...",
@@ -783,33 +783,33 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 781,0x1AC4C,158,4,154,0.892,FAEAFFBD,"I worked really hard to cook{BR}something nice, since it's{BR}{#2337}'s birthday.{#232B}{#1F41}{#1FA8}{#1F49}{#2136}I hope it tastes good...{BR}Well, let's eat before{BR}it gets cold.{#232B}Happy birthday,{BR}{#2337}.","Bugün {#2337}'in doğum{BR}günü diye güzel bir yemek{BR}yapmaya çok uğraştım.{#232B}{#1F41}{#1FA8}{#1F49}{#2136}Umarım lezzetli olmuştur...{BR}Soğumadan yiyelim.{#232B}Doğum günün{BR}kutlu olsun, {#2337}.",
 782,0x1AD8A,137,4,133,0.869,5BBA71C3,"Welcome home, {#2391}...{#232B}{#1F40}{#1FA8}{#1F4D}{#2135}So, today's our wedding{BR}anniversary...{#232B}{#1F40}{#1FA8}{#1F49}{#2135}I made us something to{BR}celebrate. I hope it turned{BR}out all right...","Hoş geldin, {#2391}...{#232B}{#1F40}{#1FA8}{#1F4D}{#2135}Bugün evlilik yıl{BR}dönümümüz...{#232B}{#1F40}{#1FA8}{#1F49}{#2135}Kutlamak için bir şey{BR}hazırladım. Umarım güzel{BR}olmuştur...",
 783,0x1AE9E,145,4,141,0.869,C0A2F101,"I spent all day today{BR}thinking about our{BR}wedding day...{#232B}{#1F41}{#1FA8}{#1F48}{#2136}It feels like we met just{BR}yesterday, doesn't it?{#232B}{#1F41}{#1FA8}{#1F4D}{#2136}Here's to another year,{BR}{#2391}...","Bütün gün düğün günümüzü{BR}düşündüm...{#232B}{#1F41}{#1FA8}{#1F48}{#2136}Sanki daha dün tanışmışız{BR}gibi geliyor, değil mi?{#232B}{#1F41}{#1FA8}{#1F4D}{#2136}Birlikte nice{BR}yıllara, {#2391}...",
-784,0x1AFC2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-785,0x1AFD8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-786,0x1AFEE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-787,0x1B004,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-788,0x1B01A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-789,0x1B030,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-790,0x1B046,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+784,0x1AFC2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+785,0x1AFD8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+786,0x1AFEE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+787,0x1B004,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+788,0x1B01A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+789,0x1B030,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+790,0x1B046,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 791,0x1B05C,46,4,42,0.848,C034A18D,The {#1000}{BR}is today. It should be a{BR}lot of fun.,Bugün {#1000} var.{BR}Eğlenceli olacak.,
-792,0x1B0BA,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-793,0x1B0D0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-794,0x1B0E6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-795,0x1B0FC,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-796,0x1B112,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-797,0x1B128,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-798,0x1B13E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-799,0x1B154,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-800,0x1B16A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-801,0x1B180,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-802,0x1B196,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-803,0x1B1AC,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-804,0x1B1C2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-805,0x1B1D8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-806,0x1B1EE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-807,0x1B204,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-808,0x1B21A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-809,0x1B230,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-810,0x1B246,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+792,0x1B0BA,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+793,0x1B0D0,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+794,0x1B0E6,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+795,0x1B0FC,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+796,0x1B112,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+797,0x1B128,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+798,0x1B13E,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+799,0x1B154,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+800,0x1B16A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+801,0x1B180,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+802,0x1B196,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+803,0x1B1AC,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+804,0x1B1C2,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+805,0x1B1D8,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+806,0x1B1EE,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+807,0x1B204,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+808,0x1B21A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+809,0x1B230,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+810,0x1B246,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 811,0x1B25C,33,4,29,0.848,558F39B5,Good morning.{BR}How's it going?,Günaydın.{BR}Nasıl gidiyor?,
 812,0x1B2A0,40,4,36,0.875,AFFF4B75,"Oh, good morning.{BR}How are you today?","Aa, günaydın.{BR}Bugün nasılsın?",
 813,0x1B2F2,42,4,38,0.833,33F7664E,"Oh, good morning,{BR}{#232A}. How's{BR}work going?","Aa, günaydın, {#232A}.{BR}İşler nasıl gidiyor?",
@@ -825,9 +825,9 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 823,0x1B72E,106,4,102,0.925,FFE910A8,"Like us, flowers have many{BR}different moods...{#232B}Their petals change{BR}depending on how they{BR}are feeling...",Çiçekler de bizim gibi{BR}farklı ruh halleri var...{#232B}Nasıl hissettiklerine göre{BR}taç yaprakları değişir...,
 824,0x1B804,126,4,122,0.937,8227A97F,"I've got lots of beautiful{BR}flowers for sale here.{#232B}You can buy some seeds and{BR}raise your own flowers if{BR}you'd like, though.",Burada satılık birçok{BR}güzel çiçeğim var.{#232B}İstersen tohum alıp{BR}kendi çiçeklerini de{BR}yetiştirebilirsin.,
 825,0x1B902,131,4,127,0.939,657BFFEF,"I personally grow and select{BR}each flower I sell here.{#232B}That's why every flower here{BR}is not only beautiful, but{BR}also freshly cut.",Sattığım her çiçeği kendim{BR}yetiştirip seçiyorum.{#232B}Bu yüzden hepsi hem güzel{BR}hem de taptaze.,
-826,0x1BA0A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-827,0x1BA20,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
-828,0x1BA36,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey,{#232A}.", common
+826,0x1BA0A,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+827,0x1BA20,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
+828,0x1BA36,10,4,6,0.500,E762390D,"Hi, {#232A}.","Ey, {#232A}.", common
 829,0x1BA4C,28,4,24,0.821,3F6C4EA9,I feel so relaxed here.{BR},Burada çok huzurluyum.{BR},
 830,0x1BA86,28,4,24,0.821,778C2C2E,Do you come here often?{BR},Buraya sık gelir misin?{BR},
 831,0x1BAC0,54,4,50,0.907,E731DDFD,"To grow flowers, you need{BR}love and a gentle touch.",Çiçek yetiştirmek için{BR}sevgi ve özen gerekir.,
@@ -923,7 +923,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 921,0x1EFC6,85,4,81,0.929,4768D149,"We're both busy with work,{BR}but it's important to spend{BR}time with each other, too.",İkimiz de işte yoğunuz{BR}ama birlikte vakit{BR}geçirmek de önemli.,
 922,0x1F072,68,4,64,0.912,63017E36,Hayate's in a good mood{BR}these days. She likes having{BR}you around.,Hayate'nin keyfi bu ara iyi.{BR}Senin burada olmanı seviyor.,
 923,0x1F0FC,56,4,52,0.893,C7178952,It's hard to get that{BR}work-life balance thing{BR}right.,İşle özel hayatın dengesini{BR}kurmak zor iş.,
-924,0x1F16E,85,4,81,0.906,5F981FC1,"So, {#2391}, whatcha think{BR}of our life these days?{#232B}Do you think we're still{BR}having fun?","Ee, {#2391}, son zamanlarda{BR}hayatımız sence nasıl?{#232B}Hala eğleniyor{BR}muyuz?",
+924,0x1F16E,85,4,81,0.906,5F981FC1,"So, {#2391}, whatcha think{BR}of our life these days?{#232B}Do you think we're still{BR}having fun?","Ee, {#2391}, son zamanlarda{BR}hayatımız sence nasıl?{#232B}Sence eğlenmeye{BR}devam ediyor muyuz?",
 925,0x1F21A,124,4,120,0.935,BAC2B114,"It's like we never have any{BR}time to hang out anymore.{#232B}I seriously want us to spend{BR}more time together as a{BR}couple, okay?","Artık sanki hiç birlikte{BR}takılacak vaktimiz yok.{#232B}Cidden çift olarak daha çok{BR}vakit geçirelim, tamam mı?",
 926,0x1F314,71,4,67,0.901,612447C4,"Y'know, {#2391},{BR}since we got married, you've{BR}lost that loving feeling...","Biliyor musun, {#2391},{BR}evlendiğimizden beri o eski{BR}sevgin azaldı gibi...",
 927,0x1F3A4,43,4,39,0.884,024D7AF3,I don't wanna talk today.{BR}You know why.,Bugün konuşasım yok.{BR}Nedenini bilirsin.,
@@ -933,7 +933,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 931,0x1F4EC,29,4,25,0.862,FD8F4DEF,Didn't you take it today?,Bugün onu götürmedin mi?,
 932,0x1F528,17,4,13,0.706,08EC142E,"What's up, {#232A}?","Ne haber, {#232A}?", common
 933,0x1F54C,17,4,13,0.706,08EC142E,"What's up, {#232A}?","Ne haber, {#232A}?", common
-934,0x1F570,80,4,76,0.925,F0036C68,"This thing is your pet?{BR}I'm all about horses, but{BR}this critter's kinda cool.",Bu şey senin evcilin mi?{BR}Ben atçıyım ama bu da{BR}fena değilmiş.,
+934,0x1F570,80,4,76,0.925,F0036C68,"This thing is your pet?{BR}I'm all about horses, but{BR}this critter's kinda cool.",Bu şey senin evcil hayvanın mı?{BR}Ben atçıyım ama bu da{BR}fena değilmiş.,
 935,0x1F612,43,4,39,0.884,A92F4F26,"Whoa! Hey, little guy!{BR}What a cool pet!","Vay! Hey, ufaklık!{BR}Ne havalı evcilmiş!",
 936,0x1F66A,57,4,53,0.912,D79D3B00,"Yeah, uh, I'm not into any{BR}animals other than horses.","Evet, şey... Atlardan başka{BR}hayvanlara pek ilgim yok.",
 937,0x1F6DE,47,4,43,0.894,01E5FD16,"You can't keep those as{BR}pets, so let it go.",Bunları evcil tutamazsın.{BR}Doğaya bırak.,
@@ -1150,7 +1150,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 1148,0x2617A,38,4,34,0.868,67215623,Don't you need to hold on{BR}to that?,Onu saklaman{BR}gerekmiyor mu?,
 1149,0x261C8,11,4,7,0.545,F7126C07,"Hey, {#232A}.","Hey, {#232A}.",
 1150,0x261E0,11,4,7,0.545,F7126C07,"Hey, {#232A}.","Hey, {#232A}.",
-1151,0x261F8,31,4,27,0.839,7291A804,Is this your pet?{BR}How cute!,Evcilin mi?{BR}Ne şirin!,
+1151,0x261F8,31,4,27,0.839,7291A804,Is this your pet?{BR}How cute!,Hayvanın mı?{BR}Ne şirin!,
 1152,0x26238,56,4,52,0.893,6A0949B4,Nice little guy...{BR}Animals make me feel{BR}so peaceful.,Ne tatlı şey...{BR}Hayvanlar bana huzur{BR}veriyor.,
 1153,0x262AA,53,4,49,0.906,E22D10B6,"I like most animals, but{BR}this kind...not so much.",Çoğu hayvanı severim ama{BR}bu türü... pek değil.,
 1154,0x26316,49,4,45,0.898,C7325CAC,Haven't I seen one of these?{BR}It's a cute one.,Bunu daha önce görmedim mi?{BR}Şirinmiş.,
@@ -1348,7 +1348,7 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 1346,0x2BB8E,11,4,7,0.545,3CFCDE35,"Why, {#232A}.","Aa, {#232A}.", common
 1347,0x2BBA6,109,4,105,0.899,4B25E0CA,"Ooh, a birthday present?{#232B}{#1F46}{#1FAB}{#1F4C}{#2136}Thank you. But don't you{BR}think you should remember{BR}what I don't like by now?","Aa, doğum günü hediyesi mi?{#232B}{#1F46}{#1FAB}{#1F4C}{#2136}Teşekkürler. Ama artık{BR}sevmediklerimi hatırlaman{BR}gerekmez mi?",
 1348,0x2BC82,97,4,93,0.887,14517A92,"Is that for me?{#232B}{#1F46}{#1FAB}{#1F4C}{#2136}Thanks, but don't you think{BR}you should remember what I{BR}don't like by now?",Bu bana mı?{#232B}{#1F46}{#1FAB}{#1F4C}{#2136}Sağ ol ama artık neleri{BR}sevmediğimi hatırlasan?,
-1349,0x2BD46,71,4,67,0.915,088E40C8,I'm going to be a mother...{BR}Somehow it hasn't really{BR}sunk in yet...,Anne olacağım...{BR}Hala tam olarak{BR}idrak edemedim...,
+1349,0x2BD46,71,4,67,0.915,088E40C8,I'm going to be a mother...{BR}Somehow it hasn't really{BR}sunk in yet...,Anne olacağım...{BR}Henüz tam olarak{BR}idrak edemedim...,
 1350,0x2BDD6,63,4,59,0.889,C74C04F8,"You're going to be a{BR}father, {#2391}.{BR}I know you'll be wonderful.","Baba olacaksın, {#2391}. Harika{BR}olacağını biliyorum.",
 1351,0x2BE56,99,4,95,0.929,D8BFDA37,I've started to feel the{BR}baby kicking! It's very{BR}strong and healthy!{#232B}Not too much longer now...,Bebeğin tekmelerini artık{BR}hissediyorum! Çok güçlü{BR}ve sağlıklı!{#232B}Çok az kaldı...,
 1352,0x2BF1E,114,4,110,0.930,AA097BA4,It's so wonderful to have{BR}something to look forward to{BR}every day.{#232B}I always look forward to{BR}a new day with you.,Her gün bekleyecek güzel{BR}bir şey olması harika.{#232B}Seninle her yeni günü{BR}iple çekiyorum.,
@@ -1362,11 +1362,11 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 1360,0x2C5FC,74,4,70,0.865,98B4B4DC,You're different now that{BR}we're married.{#232B}{#1F46}{#1FAB}{#1F4B}{#2136}It makes me a little sad.,Evlendikten sonra biraz{BR}değiştin.{#232B}{#1F46}{#1FAB}{#1F4B}{#2136}Bu beni biraz üzüyor.,
 1361,0x2C692,35,4,31,0.829,E8A4CA72,"I don't want to talk to you,{BR}{#2391}.","Bugün konuşmak{BR}istemiyorum, {#2391}.",
 1362,0x2C6DA,42,1,41,0.952,4A1D522B, I'm sorry. Don't be mad.{BR} Suit yourself.," Özür dilerim, kızma.{BR} Sen bilirsin.",
-1363,0x2C730,83,4,79,0.928,06140EF1,I guess I'll forgive you.{BR}It still bugs me a little...{BR}But I suppose it's fine.,Sanırım seni affedeceğim.{BR}Hala biraz canımı sıkıyor...{BR}Ama geçti sayılır.,
+1363,0x2C730,83,4,79,0.928,06140EF1,I guess I'll forgive you.{BR}It still bugs me a little...{BR}But I suppose it's fine.,Sanırım seni affedeceğim.{BR}Biraz canımı sıkıyor...{BR}Ama sorun değil sanırım.,
 1364,0x2C7E8,76,4,72,0.882,C458BB01,Don't you beed that for the{BR}{#1000} today?{BR}{#232B}Make sure you hold it{BR}carefully...,"Bugünkü {#1000} için{BR}ona ihtiyacın yok mu?{#232B}Dikkatli{BR}taşı, olur mu?",
 1365,0x2C882,11,4,7,0.545,3CFCDE35,"Why, {#232A}.","Aa, {#232A}.", common
 1366,0x2C89A,11,4,7,0.545,3CFCDE35,"Why, {#232A}.","Aa, {#232A}.", common
-1367,0x2C8B2,31,4,27,0.839,B842268B,Is this your pet?{BR}How cute!,Evcilin mi?{BR}Ne tatlı!,
+1367,0x2C8B2,31,4,27,0.839,B842268B,Is this your pet?{BR}How cute!,Hayvanın mı?{BR}Ne tatlı!,
 1368,0x2C8F2,42,4,38,0.833,59551707,Oooh.{BR}Very cute!{#0051}{BR}Where'd you find it?,Aaa! Çok şirin!{#0051}{BR}Nerede buldun?,
 1369,0x2C948,28,4,24,0.821,9878A965,Eek!{BR}Don't get so close!,Ayy!{BR}Yaklaştırma!,
 1370,0x2C982,49,4,45,0.898,266E8458,Where'd you find that?{BR}It's so funny looking.,Bunu nerede buldun?{BR}Ne komik görünüyor.,
@@ -3828,25 +3828,25 @@ id,offset_hex,body_words,prefix_words,editable_words,text_ratio,crc32,source,tra
 3826,0x676DA,13,4,9,0.615,9482ED8B,"Hullo, {#232A}.","Selam, {#232A}.", common
 3827,0x676F6,13,4,9,0.615,9482ED8B,"Hullo, {#232A}.","Selam, {#232A}.", common
 3828,0x67712,56,4,52,0.911,CA93327B,This festival is really{BR}something. Take a good look.,,
-3829,0x67784,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3830,0x6779A,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3831,0x677B0,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3832,0x677C6,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3833,0x677DC,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3834,0x677F2,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3835,0x67808,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3836,0x6781E,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3837,0x67834,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3838,0x6784A,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3839,0x67860,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3840,0x67876,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3841,0x6788C,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3842,0x678A2,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3843,0x678B8,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3844,0x678CE,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3845,0x678E4,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3846,0x678FA,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
-3847,0x67910,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey,{#232A}.", common
+3829,0x67784,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3830,0x6779A,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3831,0x677B0,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3832,0x677C6,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3833,0x677DC,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3834,0x677F2,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3835,0x67808,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3836,0x6781E,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3837,0x67834,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3838,0x6784A,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3839,0x67860,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3840,0x67876,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3841,0x6788C,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3842,0x678A2,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3843,0x678B8,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3844,0x678CE,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3845,0x678E4,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3846,0x678FA,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
+3847,0x67910,10,4,6,0.500,D0EC779C,"Hi, {#232A}.","Ey, {#232A}.", common
 3848,0x67926,107,4,103,0.879,52122689,"Morning there, {#232A}.{BR}You look half asleep.{#232B}{#1F46}{#1FB6}{#1F49}{#2136}If you aren't a little more{BR}alert, you might trip and{BR}fall.",,
 3849,0x679FE,53,4,49,0.868,E0E67A1D,"Morning, {#232A}.{BR}I like a good stretch in{BR}the morning.",,
 3850,0x67A6A,86,4,82,0.907,8F112223,"Morning, {#232A}!{#232B}Did you eat a good{BR}breakfast? Don't start the{BR}day on an empty stomach!",,

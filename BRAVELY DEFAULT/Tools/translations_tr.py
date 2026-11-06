@@ -19,7 +19,7 @@ UI_TRANSLATIONS = {
 'HP':'HP','MP':'BP','BP':'CP','JP':'MP','AGI':'ÇEV','STR':'GÜÇ','INT':'ZEK','DEX':'BEC','VIT':'DAY','MND':'İRA',
 'Arms Aptitude':'Silah Yetkinliği','Swords':'Kılıçlar','Axes':'Baltalar','Spears':'Mızraklar','Rods':'Değnekler','Staves':'Asalar','Daggers':'Hançerler','Bows':'Yaylar','Katana':'Katana','Knuckles':'Muştalar',
 'Armor Aptitude':'Zırh Yetkinliği','Shields':'Kalkanlar','Helms':'Miğferler','Armor':'Zırh',
-'Tutorial Quests':'Eğitim Görevleri','Reward':'Ödül','Auto-playing':'Otomatik oynatma','Auto':'Otomatik','Skip':'Atla','Skip this event?':'Bu olayı atla mı?','Yes':'Evet','No':'Hayır',
+'Tutorial Quests':'Eğitim Görevleri','Reward':'Ödül','Auto-playing':'Otomatik oynatma','Auto':'Otomatik','Skip':'Atla','Skip this event?':'Bu olayı atlayalım mı?','Yes':'Evet','No':'Hayır',
 'Tactics':'Taktikler','Friends':'Arkadaşlar','Abilink':'Yetenek Bağı','Status':'Durum','Sort':'Sırala','Config':'Ayarlar',
 'Item List':'Eşya Listesi','Party Info':'Grup Bilgisi','Stats':'Statlar','P.ATK':'F.SAL','P.DEF':'F.SAV','M.ATK':'B.SAL','M.DEF':'B.SAV','Aim':'İsabet','Evade':'Kaçınma','Critical':'Kritik','Element':'Element','Immunities':'Bağışıklıklar','Resistances':'Dirençler',
 'Job':'Meslek','Command':'Komut','Data List':'Veri Listesi','Update Stopped':'Güncelleme Durdu','Updated':'Güncellendi','Affinity':'Yakınlık','Play Time':'Oyun Süresi','Max Power':'Azami Güç','Job Count':'Meslek Sayısı','Ability Count':'Yetenek Sayısı','Norende Population':'Norende Nüfusu','Close':'Kapat','Next':'Sonraki',

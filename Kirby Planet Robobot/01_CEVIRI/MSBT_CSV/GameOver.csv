@@ -1,6 +1,6 @@
 ﻿index,label,EU_English,EU_French,EU_German,EU_Italian,EU_Spanish,JP_Japanese,US_English,US_French,US_Spanish,TR_Turkish,QA_Note
-0,ContinueButton,Continue,Continuer,Fortsetzen,Continua,Continuar,コンティニュー,Continue,Continuer,Continuar,Devam,
-1,ExitButton,Quit,Quitter,Beenden,Esci,Salir,ゲームをやめる,Quit,Quitter,Salir,Çık,
+0,ContinueButton,Continue,Continuer,Fortsetzen,Continua,Continuar,コンティニュー,Continue,Continuer,Continuar,Devam,Devam etme seçeneği doğru.
+1,ExitButton,Quit,Quitter,Beenden,Esci,Salir,ゲームをやめる,Quit,Quitter,Salir,Oyundan Çık,"Oyundan çıkış düğmesi, Quit eylemini açıkça belirtiyor."
 2,ExitConfirmText,"⟦MSBT:0E00000003000400FF4B32FF⟧End the game ⟦MSBT:0E00000003000400000000FF⟧and return to
 the mode selection screen?","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MSBT:0E00000003000400000000FF⟧ et retourner
 au menu principal ?","⟦MSBT:0E00000003000400FF4B32FF⟧Spiel beenden ⟦MSBT:0E00000003000400000000FF⟧und zur
@@ -11,7 +11,7 @@ al menú principal?","⟦MSBT:0E00000003000400FF4B32FF⟧ゲームをやめて�
 return to the menu?","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MSBT:0E00000003000400000000FF⟧ et retourner
 au menu principal ?","¿⟦MSBT:0E00000003000400FF4B32FF⟧Quieres salir ⟦MSBT:0E00000003000400000000FF⟧y volver
 al menú principal?","⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧ mod seçimine
-dönmek istiyor musun?",
+dönmek istiyor musun?",Oyunu bitirip mod seçimine dönme onay sorusu anlamı ve biçim etiketiyle doğru.
 3,ExitConfirmTextMetaGo,"⟦MSBT:0E00000003000400FF4B32FF⟧End the game ⟦MSBT:0E00000003000400000000FF⟧and return
 to the title screen?","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MSBT:0E00000003000400000000FF⟧ et retourner
 à l'écran titre ?","⟦MSBT:0E00000003000400FF4B32FF⟧Spiel beenden ⟦MSBT:0E00000003000400000000FF⟧und zum
@@ -24,4 +24,4 @@ to the title screen?","⟦MSBT:0E00000003000400FF4B32FF⟧Quitter la partie⟦MS
 à l'écran titre?","¿⟦MSBT:0E00000003000400FF4B32FF⟧Quieres salir ⟦MSBT:0E00000003000400000000FF⟧y volver
 a la pantalla del título?","⟦MSBT:0E00000003000400FF4B32FF⟧Oyunu bitirip⟦MSBT:0E00000003000400000000FF⟧
 başlık ekranına dönmek
-istiyor musun?",
+istiyor musun?",Oyunu kapatıp başlık ekranına dönme onay sorusu doğru; satır kırımları korunuyor.

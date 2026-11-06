@@ -206,6 +206,7 @@ def raw_to_csv_text(raw: bytes, endian: str, encoding: int) -> str:
 
 
 def csv_text_to_raw(text: str, endian: str, encoding: int) -> bytes:
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
     if encoding == 0:
         return text.encode('utf-8') + b'\x00'
     out = bytearray()
@@ -234,6 +235,7 @@ def control_signature(text: str) -> List[Tuple[str,str,str,str]]:
 
 
 def visible_text(text: str) -> str:
+    text = text.replace('\r\n', '\n').replace('\r', '\n')
     return TAG_RE.sub('', text)
 
 
@@ -497,7 +499,7 @@ def inject_csv(template_path: Path, csv_path: Path, out_msbt: Path, strict: bool
         row=by_label.get(label)
         if row is None:
             problems.append(f'{label}: missing CSV row'); new.append(source[i]); continue
-        tr=row.get('Turkish','')
+        tr=row.get('Turkish','').replace('\r\n', '\n').replace('\r', '\n')
         # Empty source strings should remain empty. Empty Turkish on non-empty source falls back to English unless strict.
         if not visible_text(source[i]):
             tr = source[i]

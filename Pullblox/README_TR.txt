@@ -27,21 +27,19 @@ PAKET İÇERİĞİ
 --------------
 luma/         Kurulabilir LayeredFS yaması
 translation/  Beş resmî dil + Türkçe sütunlu CSV
-previews/     Türkçeleştirilmiş bitmap yazıların önizlemeleri
-reports/      Otomatik doğrulama ve yeniden üretilebilirlik raporları
-tools/        MSBT/BCLIM/DARC/LZ11 çıkarma, enjekte etme ve doğrulama araçları
-CHECKSUMS.txt Paket içindeki önemli dosyaların SHA-256 değerleri
+tools/        MSBT ve arşiv araçları
+README_TR.txt Kurulum ve doğrulama bilgileri
+CHECKSUMS.txt Önemli dosyaların SHA-256 değerleri
 
 ÇEVİRİ DURUMU
 -------------
-- 1227 MSBT etiketi kontrol edildi.
+- 1227 MSBT etiketi denetlendi.
 - Kaynakta metin bulunan 1092/1092 girdinin Türkçesi dolu ve REVIEWED olarak işaretli.
-- 135 kaynak-boş/sistem girdisi bilinçli olarak boş bırakıldı.
-- MSBT özel kontrol kodu uyuşmazlığı: 0
+- 135 kaynakta boş olan sistem girdisi bilinçli olarak boş bırakıldı.
+- MSBT kontrol etiketi uyuşmazlığı: 0
 - UTF-16 kodlama hatası: 0
-- Oyunun fontunda eksik Türkçe glif: 0
-- İngilizce, Almanca, İspanyolca, Fransızca ve İtalyanca metinler karşılaştırmalı kaynak olarak kullanıldı.
-- Özel adlar, Nintendo karakter/adları ve kredi isimleri çevrilmeden korunmuştur.
+- İngilizce, Almanca, İspanyolca, Fransızca ve İtalyanca sütunları karşılaştırmalı kaynak olarak kullanıldı.
+- Özel adlar, Nintendo karakter/adları ve jenerik isimleri korunmuştur.
 
 TERİM TUTARLILIĞI
 -----------------
@@ -65,28 +63,21 @@ varlıklar byte-for-byte aynıdır. LZ11 paketleri açma testiyle doğrulanmış
 
 SIĞMA KONTROLÜ HAKKINDA
 -----------------------
-Oyun fontunun gerçek glif genişlikleriyle bütün Türkçe metinler yeniden ölçüldü.
-Cihaz testinde bazı iki satırlık metinlerin otomatik sarılarak üçüncü satıra taştığı
-görüldüğü için doğrulama daha sıkı hale getirildi.
-
-- Resmî dil düzeni 2 satır olan metinlerde Türkçe 3. satıra çıkamaz.
-- Bu 2-satır grubunda Türkçe en geniş satır, aynı mesajın resmî dillerindeki en
-  geniş satırdan daha geniş olamaz.
-- İngilizcesi 1-2 satır olan hiçbir metin Türkçede 3+ satıra çıkamaz.
-- Son kontrolde two_line_overflow = 0 ve source_2line_to_3plus = 0.
-
-Uzun tutorial/help metinlerinde satır kırımları piksel genişliğine göre yeniden
-dengelendi; sığmayan cümleler anlamı ve kontrol/vurgu kodlarını koruyarak manuel
-kısaltıldı. Kalan 8 REVIEW ve 4 RISK yalnız tek satırlık kredi/menü sözcükleridir
-(Yönetmen, Kopyala, Yardım, Evet, Hayır, Açık, Kapalı vb.); bunlar 2->3 satır
-taşması değildir ve doğal Türkçeyi bozacak yapay kısaltmalar yapılmamıştır.
-Ayrıntı: reports/text_qc.json ve reports/translation_audit.json
+CSV'deki piksel ölçümü alanları önceki bir denetimden kalmadır; 8 kayıt REVIEW,
+4 kayıt RISK olarak işaretlidir. Bu klasörde font dosyası ve diğer Avrupa dili
+MSBT'leri bulunmadığı için son metin değişikliklerinin piksel genişliği yeniden
+hesaplanamamıştır. Bu satırlar gerçek fontla veya cihaz/emülatör görünümüyle
+ayrıca kontrol edilmelidir.
 
 DOĞRULAMA
 ---------
-Final patch, boş bir klasörde aynı kaynak + aynı araçlar + aynı CSV ile yeniden
-üretilmiştir. Üç patch dosyasının SHA-256 değerleri birebir eşleşmiştir.
-Ayrıntı: reports/reproducibility.json ve reports/asset_qc.json
+MSBT, dahil edilen şablon ile CSV'den yeniden üretildi. Luma kurulum kopyası ve
+CSV, 1227/1227 etikette birebir eşleşiyor. Araç denetiminde boş hedef, kontrol
+etiketi veya UTF-16 kodlama hatası yok. Kurulum klasöründeki iki LZ arşivi mevcut
+kaynak dosyalardan kopyalanmış ve checksum listesiyle eşleşiyor.
+
+Tam arşiv karşılaştırması için verify_patch.py özgün oyun ROM arşivini ister;
+bu klasörde özgün ROM arşivi bulunmadığından o karşılaştırma yeniden çalıştırılamadı.
 
 ÖNEMLİ SINIR
 ------------

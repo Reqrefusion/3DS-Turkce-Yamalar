@@ -3,13 +3,13 @@
 302|[0x18]Moda Türü|
 303|[0x17]Önerilen Seviye: [0x11]|
 305|[0x17]Buraya henüz gelmedin.[0x5]|
-310|Çekil|
-311|[0x17]Labirent girişine dönülsün mü?<br>[0x17]<span class="color-1">İçeride elde ettiğin tüm eşyalar<br>kaybolacak</span>.[0x5]|
-312|[0x17]Yetişenler|
+310|Vazgeç|
+311|[0x17]Labirent girişine dönmek istiyor musun?<br>[0x17]<span class="color-1">İçeride elde ettiğin tüm eşyalar kaybolacak</span>.[0x5]|
+312|[0x17]Yetiştirilenler|
 313|[0x17]Verilen Tohumlar|
 314|[0x17]Yetiştirilebilir|
 315|[0x17]Kaldır[0x5]|
-316|[0x17]Kaşif seçimi iptal edilsin mi?[0x5]|
+316|[0x17]Kaşif seçimini iptal etmek istiyor musun?[0x5]|
 320|[0x17][0x8, 0x14]Keşif|
 321|[0x17][0x8, 0x14]Bahçecilik|
 322|[0x17]1 Saldırı|
@@ -22,7 +22,7 @@
 335|[0x17]Yeni oyuna başlansın mı?[0x5]|
 336|[0x17]Oyunu Başlat|
 337|[0x17]Kayıt Verisini Sil|
-338|[0x17]Bu işlem veriyi silecek. Onaylıyor<br>musun?<br>[0x17]<span class="color-1">Silinen veriler geri getirilemez</span>.[0x5]|
+338|[0x17]Bu kayıt verileri silinecek. Emin misin?<br>[0x17]<span class="color-1">Silinen veriler geri getirilemez</span>.[0x5]|
 339|Kayıt verisi silindi.<waitbutton>|
 340|Maliyet|
 341|[0x18][0x8, 0x3] Filtre [0x8, 0x1] Onayla|
@@ -36,12 +36,12 @@
 365|[0x17]Ziyaretçiler: Gezginler ([0x11])|
 370|[0x17]Verme|
 371|[0x17]Alma|
-372|[0x17][0x10] ile<br>[0x17][0x10, 0x1] takas edilsin mi?[0x5]|
+372|[0x17][0x10] karşılığında<br>[0x17][0x10, 0x1] alınsın mı?[0x5]|
 373|[0x11, 0x1] adet [0x10] aldın.<waitbutton>|
 374|[0x17]Lütfen [0x8, 0x1] tuşuna bas.|
 375|[0x17]HOME Menüsüne dönmek için [0x8, 0x11] tuşuna bas.|
 400|[0x17]Canavar Sv.: [0x11] Malzeme: [0x11, 0x1]|
-401|[0x17]Belirli bir hedefi olan bir isteği kabul<br>edersen<br>[0x17]son Su Kapısı dönüş noktan kaybolur.<br>Onaylıyor musun?[0x5]|
+401|[0x17]Belirli bir hedefi olan isteği kabul<br>[0x17]edersen, Su Kapısı'ndaki son ışınlanma<br>[0x17]noktan silinir. Onaylıyor musun?[0x5]|
 420|[0x12]|
 421|Ana Yol[0x5]|
 422|Büyük Ağaç Pınarı[0x5]|
@@ -108,7 +108,7 @@
 513|<span class="color-4">[0xe]</span> ekibe katıldı!<br><br><waitbutton>|
 514|Vaha seviyesi maksimuma ulaştı!|
 515|...<br><waitbutton>|
-516|Artık şu kayıt noktasını<br>kullanabilirsin:<br>[0x13].<br><waitbutton>|
+516|Artık şu ışınlanma noktasını<br>kullanabilirsin: [0x13].<br><waitbutton>|
 520|[0x18][0x8, 0x10]: Atla|
 530|[0x17]Gurme Festivali başladı![0x5]|
 531|[0x17]El İşi Festivali başladı![0x5]|
@@ -134,8 +134,8 @@
 804|Artık <span class="color-2">bahçıvan atayabilirsin</span>!<waitbutton>|
 805|Artık <span class="color-2">toplu stok yenileme</span><br>yapabilirsin!<br><br><waitbutton>|
 806|<span class="color-2">Saldırı kombo sınırın</span> arttı!<br><br><waitbutton>|
-807|<span class="color-2">MP Göstergesi </span>artık 2!<br><br><waitbutton>|
-808|<span class="color-2">MP Göstergesi </span>artık 3!<br><br><waitbutton>|
+807|<span class="color-2">SP Göstergesi </span>artık 2!<br><br><waitbutton>|
+808|<span class="color-2">SP Göstergesi </span>artık 3!<br><br><waitbutton>|
 809|Artık <span class="color-2">Gökkuşağı Koruması</span> alabilirsin!<br><br><waitbutton>|
 810|Artık <span class="color-2">Yol Geliştirme</span>yi<br>deneyebilirsin!<br><br><waitbutton>|
 811|Artık <span class="color-2">Hızlı Seyahat</span> kullanabilirsin!<waitbutton>|
@@ -217,7 +217,7 @@
 952|Ortası delik kırmızı bir bitki.<br>Sanki içine bir şey takılacak...<br><waitbutton>|
 953|Ortası delik mavi bir bitki.<br>Sanki içine bir şey takılacak...<br><waitbutton>|
 954|Ortası delik yeşil bir bitki.<br>Sanki içine bir şey takılacak...<br><waitbutton>|
-955|Buradaki deliğe bir şey<br>oturacak<br>gibi görünüyor...<br><waitbutton>|
+955|Buradaki deliğe bir şey sığacak<br>gibi görünüyor...<br><waitbutton>|
 956|[0x17]Vahaya dönmek istiyor musun?[0x5]|
 957|[0x17]Dikilecek tohumu değiştirmek<br>[0x17]istiyor musun?[0x5]|
 959|Ah, Şef... Yeni meyveler verecek<br>bazı ağaçlar yetiştirdim...<br><waitbutton><hr>İstersen bahçeye dikebilirsin.<br>Söylemen yeter...<br><waitbutton>|
@@ -439,7 +439,7 @@
 1641|Ağaçkakan Bitkisi|
 1642|Sistrum Bitkisi|
 1643|Kiraz Bitkisi|
-1644|Sanatçı Bitkisi|
+1644|Gösterişli Bitki|
 1645|Kuyruk Bitkisi|
 1646|Alevli Bitki|
 1647|Yastık Bitkisi|
@@ -606,7 +606,7 @@
 2167|Beyaz Yol|
 2168|Ağaç Kabuğu Yolu|
 2169|Dal Yürüyüş Yolu|
-2170|İyice sıkışmış kumdan<br>[0x17]yapılmış bir yol.|
+2170|Üzerinde çok yürünüp sertleşmiş<br>[0x17]kumdan yapılmış bir yol.|
 2171|Mavi taşlardan yapılmış<br>bir yol.|
 2172|Yedi renkten oluşan<br>bir yol.|
 2173|Kavrulmuş fasulyelerle<br>yapılmış bir yol.|
@@ -704,8 +704,8 @@
 4050|[0x17]Mahsuller toplansın mı?[0x5]|
 4051|[0x17]Tohumlar|
 4053|[0x17][0x8, 0x14]Mahsuller Dolu|
-4054|[0x17][0xe] ekibine katılsın mı?[0x5]|
-4055|[0x10] [0x12] arttı,<br>toplam [0x12, 0x1] oldu.<waitbutton>|
+4054|[0x17][0xe] ekibe katılmasına<br>[0x17]izin verilsin mi?[0x5]|
+4055|[0x10] stoğu [0x12] arttı.<br>Toplam stok: [0x12, 0x1].<waitbutton>|
 4056|[0x17]Kaos bitkilerinin etkisi geçti.|
 4057|[0x17]Bahçe normale döndü.|
 4058|Şu an daha acil işler var!<waitbutton>|
@@ -770,7 +770,7 @@
 4135|[0x18][0x8, 0x2] Geri [0x8, 0xa][0x8, 0xb] Karakter Seç|
 4137|[0x18][0x8, 0x4] Detaylar [0x8, 0x3] Düzenle|
 4138|[0x18][0x8, 0x4] Detaylar [0x8, 0x1] Seç|
-4140|[0x17]Son kayıt noktası[0x5]|
+4140|[0x17]Son ışınlanma noktası[0x5]|
 4141|[0x17][0x8, 0x2] Geri|
 4143|[0x17]Konum|
 4144|[0x17]Düşmanlar|
@@ -837,8 +837,8 @@
 4246|[0x17]Yetiştirmeyi Bırak[0x5]|
 4247|Bahçıvan görevden alındı.<waitbutton>|
 4248|[0x17][0x8, 0x1] Al|
-4249|[0x17][0xe]'nin isteği iptal edilsin mi?[0x5]|
-4250|[0x17][0xe]'nin isteği askıya alınsın mı?<br>[0x17]<span class="color-1">Daha sonra yardım etmek için<br>[0x17][0xe] ile tekrar konuşabilirsin</span>.[0x5]|
+4249|[0x17]İsteği iptal edelim mi?<br>[0x17][0xe]’den gelen[0x5]|
+4250|[0x17][0xe]’nin isteği askıya alınsın mı?<br>[0x17]<span class="color-1">Daha sonra yardım almak için [0xe] ile<br>[0x17]yeniden konuşabilirsin</span>.|
 4251|[0x17]Yerleştirme|
 4253|[0x17]Evet|
 4254|[0x17]Hayır|
@@ -883,7 +883,7 @@
 4303|[0x17]Çektiği kişiler|
 4304|Hiç levhan yok.<br><waitbutton>|
 4305|[0x17]Sentezlenecek: [0x10].<br>[0x17]Kaç tane sentezleyeceksin?[0x5]|
-4306|[0x17][0x10] x [0x11] sentezlensin mi?[0x5]|
+4306|[0x17]Sentezlenecek eşya: [0x10] x [0x11]<br>[0x17]Onaylıyor musun?[0x5]|
 4307|Maliyet|
 4308|[0x17]Cinsiyet seç|
 4309|[0x17]Renk seç|
@@ -895,7 +895,7 @@
 4317|Boş|
 4318|[0x17][0x8, 0x2] Geri [0x8, 0x3] Manuel [0x8, 0x1] Seç|
 4319|[0x17]Hikâyeye başlamak istiyor musun?[0x5]|
-4320|[0x17]Hikâyeyi yeniden başlatmak<br>[0x17]istiyor musun?[0x5]|
+4320|[0x17]Hikâyeyi yeniden başlatmak<br>istiyor musun?[0x5]|
 4321|Seviye|
 4322|Vaha Seviyesi|
 4323|Tamamlandı|
@@ -955,7 +955,7 @@
 4403|[0x17]Takım dolu.<br>[0x17]Birini çıkarmak ister misin?[0x5]|
 4404|[0x17][0xe] takımdan<br>[0x17]çıkarılsın mı?[0x5]|
 4405|[0xe] takımdan çıkarıldı.<br><waitbutton>|
-4406|[0x17]Takım üyesini çıkarma iptal edilsin<br>mi?<br>[0x5]|
+4406|[0x17]Takım üyesini çıkarmaktan<br>vazgeçilsin mi?[0x5]|
 4407|Yeterli damgan yok.<waitbutton>|
 4408|Festivalden keyif alan bir<br>müşteri<br>sana bir şey bıraktı!<waitbutton>|
 4409|[0x17]İptal|
@@ -970,7 +970,7 @@
 4419|[0x17]Yeni Oyun|
 4420|[0x17]Devam Et|
 4422|[0xe]'nin yeteneği öğrenildi.<waitbutton>|
-4424|Şu anda meşgul olduğu için<br>seninle gelemez.<waitbutton>|
+4424|Şu anda çok meşgul.<waitbutton>|
 4425|Vaha dışındayken istek etkinleştirilemez.<waitbutton>|
 4426|Kaos bitkileri yüzünden istek etkinleştirilemez.<waitbutton>|
 4427|[0x17]İptal[0x5]|
@@ -1048,7 +1048,7 @@
 4639|[0x17]Ekip|
 4640|[0x17][0x8, 0x3] Otomatik Seç|
 4641|[0x17][0x8, 0x10] Yola Çık|
-4642|[0x17]Önerilen üyeler seçilsin mi?[0x5]|
+4642|[0x17]Önerilen üyeler atansın mı?[0x5]|
 4643|Konum Seç|
 4645|Üye Seç|
 4648|[0x17]Kazanılan Eşyalar|
@@ -1076,18 +1076,18 @@
 4678|Takas|
 4690|Bahçıvan Ata|
 4694|Mutluluk|
-4695|Rütbe Atla|
+4695|Rütbe Yükselt|
 4700|[0x17]Amaç|
 4701|[0x17]Ödül|
 4702|[0x17]Ürünler|
 4703|[0x17]Kaç tane takas etmek istiyorsun?[0x5]|
-4704|[0x17][0x10] için<br>[0x17][0x11] adet takas edilsin mi?[0x5]|
+4704|[0x17][0x11] adet<br>[0x17][0x10] ile takas edilsin mi?[0x5]|
 4705|Konum seç.<waitbutton>|
 4706|Amaç seç.<waitbutton>|
 4710|Üç üye seç.<waitbutton>|
-4711|[0x17]Söylentiler: [0x11]|
+4711|[0x17][0x11] [0x14]Söylentiler[0x0][0x0]Söylenti[0x0]Söylentiler[0x0][0x0]|
 4716|[0x17]Misafirler|
-4720|[0x17]Sakinler: [0x11]|
+4720|[0x17][0x11] [0x14]Sakinler[0x0]Sakin[0x0][0x0]Sakinler[0x0]|
 4721|[0x17]Toplam|
 4725|[0x17]Yola Çıktı|
 4726|Seviye|
@@ -1104,7 +1104,7 @@
 4755|[0x17]Tomurcuk Tezgâhı kurulsun mu?[0x5]|
 4756|Okyanus Nekropolü[0x5]|
 4757|[0x17]Dekor bitkisi dikilsin mi?[0x5]|
-4758|[0x17]Dewadem kullanıp Şakacı Bitki<br>[0x17]dikilsin mi?[0x5]|
+4758|[0x17]Şakacı Bitki dikilsin mi?[0x5]|
 4759|Kaldırılacak olanı seç.|
 4760|Tomurcuk Tezgâhı|
 4761|Taşınacak olanı seç.|
@@ -1115,7 +1115,7 @@
 4767|[0x17]Tomurcuk Tezgâhı nereye kurulsun?[0x5]|
 4769|Mevcut Sakinler: [0x11]!<waitbutton>|
 4771|[0x17]Başlık ekranına dönülsün mü?[0x5]|
-4776|• Sonraki Seviye İçin Gereken Sakin: [0x11]|
+4776|• Sonraki seviye için gereken sakin sayısı: [0x11]|
 4777|[0x8, 0x14]Vaha seviye atlamaya hazır|
 4778|[0x17]Kaydet[0x5]|
 4779|[0x17]İncele[0x5]|
@@ -1167,7 +1167,7 @@
 4828|[0x17]Tohumlar|
 4836|Bahçecilik|
 4840|[0x17][0xe], bu tarlayla<br>[0x17]ilgilensin mi?[0x5]|
-4841|[0x17]Bahçıvan görevden alınsın mı?<br>[0x17]Hasat ve kullanılmayan tohumlar<br>[0x17]geri verilecek.[0x5]|
+4841|[0x17]Bahçıvan görevden alınsın mı?<br>[0x17]Hasat ve kullanılmayan tohumlar<br>geri verilecek.[0x5]|
 4842|Fidan Seç|
 4843|Tür Seç|
 4844|[0x17]Kaç tane [0x10]<br>[0x17]vereceksin?[0x5]|
@@ -1399,7 +1399,7 @@
 5142|Kızıl Kıyafet|
 5143|Ay Işığı Kıyafeti|
 5144|Alacakaranlık Giysisi|
-5145|Bıçak Giysisi|
+5145|Kılıç Savaşçısı Kıyafeti|
 5146|Filiz Kıyafeti|
 5147|Tehlikeli Cübbe|
 5148|Arayıcı Kıyafeti|
@@ -1474,7 +1474,7 @@
 5240|Işıltılı Kıyafet|
 5244|Sarmaşık Kıyafet|
 5245|Hilekâr Pantolon|
-5250|Değiştirici Kıyafet|
+5250|Dönüşüm Kıyafeti|
 5253|Gül Kıyafeti|
 5255|Eğitim Üniforması|
 5258|Dansçı Kıyafeti|
@@ -1502,7 +1502,7 @@
 5297|Renkli Bileklik|
 5298|Çiçek Bilekliği|
 5299|İlahi Ağaç Bileziği|
-5300|Tohum Yüzüğü|
+5300|Kuruyemiş Yüzüğü|
 5301|Karanlık Yüzük|
 5302|Çatlak Yüzük|
 5303|Şeker Yüzüğü|
@@ -1519,7 +1519,7 @@
 5314|Prizmatik Halhal|
 5315|Dilek Halhalı|
 5316|Arındırma Tılsımı|
-5317|Yıldırımsavar Tılsım|
+5317|Yıldırımsavar Tılsımı|
 5318|Rüya Tılsımı|
 5319|Taş Kafa Tılsımı|
 5320|Kabuk Atma Tılsımı|
@@ -1749,7 +1749,7 @@
 5555|Parlak Yaprak Kılıç|
 5556|Fidan Kılıcı|
 5557|Kızıl Reçel Kılıcı|
-5558|Şafak Mavisi Kılıcı|
+5558|Gök Mavisi Kılıcı|
 5559|Taşlaşmış Kılıç|
 5560|Herdemyeşil|
 5561|Kaktüs Kaya Kılıcı|
@@ -1766,7 +1766,7 @@
 5572|Altın Damar Kılıcı|
 5573|Devedikeni Doğrayıcı|
 5574|Adanmışlık Kılıcı|
-5575|Boş Bıçak|
+5575|Hiçlik Kılıcı|
 5576|Bükük Kris|
 5577|Gül Öfkesi Kris|
 5578|Aldatıcı Kılıç|
@@ -2040,7 +2040,7 @@
 5857|Ağaçkakan Bitkisi Tohumu|
 5858|Sistrum Bitkisi Tohumu|
 5859|Kiraz Bitkisi Tohumu|
-5860|Sanatçı Bitki Tohumu|
+5860|Gösterişli Bitki Tohumu|
 5861|Kuyruk Bitkisi Tohumu|
 5862|Alevli Tohum|
 5863|Yastık Tohumu|
@@ -2049,7 +2049,7 @@
 5866|Melodi Tohumu|
 5867|Trambolin Tohumu|
 5868|Çekiç Tohumu|
-5869|Çark Tohumu|
+5869|Slot Makinesi Tohumu|
 5870|Diken Tohumu|
 5871|Çiçek Şapkası Tohumu|
 5872|Top Otomatı Tohumu|
@@ -2092,7 +2092,7 @@
 5916|Şifa Şişesi (Orta)|
 5917|Şifa Şişesi (Büyük)|
 5918|İyileştirici Tonik|
-5919|Tam Panzehir|
+5919|Her Derde Deva|
 5920|Şifa Meyvesi|
 5921|Tam Şifa Şişesi|
 5922|Felç İlacı|
@@ -2181,7 +2181,7 @@
 6185|Bunu giyince insanın aklına<br>bulutsuz, berrak<br>günler gelir.|
 6186|Bir tutam ot sıkılıp<br>kurutularak<br>bu sarığa renk<br>verilmiş.|
 6187|Bu abanoz sarık,<br>gecenin en derin<br>karanlığını taklit eder.|
-6188|Aşırı inatçı, saçma sapan<br>saçları<br>gizlemek için bunu<br>geçir kafana!|
+6188|Dağınık, başına buyruk saçları<br>gizlemek için geçir kafana!|
 6189|Bu sarıktaki<br>havalandırmalar,<br>sıcak günlerde maksimum<br>serinlik sağlar.|
 6190|En gözü kara dövüşçülere<br>ekstra gaz veren<br>bir sarık!|
 6191|Kadim bir ağacın<br>soyulmuş kabuğundan<br>yapılmış.|
@@ -2766,7 +2766,7 @@
 9069|X Tuşu Saldırısı++[0x5]|
 9070|Özel Saldırı+[0x5]|
 9071|MP Otomatik Dolum+[0x5]|
-9072|Eşya İyileştirmesi+[0x5]|
+9072|Eşya İyileştirme Gücü+[0x5]|
 9073|Tam Can Saldırısı+[0x5]|
 9074|Yaralı Saldırısı+[0x5]|
 9075|Durum Etkisindeyken Güç+[0x5]|
@@ -2778,7 +2778,7 @@
 9081|Tek Başına Özellikler+[0x5]|
 9082|Tek Başına Eşya Düşürme+[0x5]|
 9083|Büyü Hızı+[0x5]|
-9084|Durum İyileşmesi+[0x5]|
+9084|Durum Bozukluğundan Kurtulma+[0x5]|
 9085|Büyü Direnci[0x5]|
 9086|Büyü Saldırısı+[0x5]|
 9087|Gizli Saldırı+[0x5]|
@@ -2796,11 +2796,11 @@
 9101|Riskli XP Kazancı+[0x5]|
 9102|Riskli XP Kazancı++[0x5]|
 9103|Riskli XP Kazancı+++[0x5]|
-9104|Yabanıl Düşürme Oranı+[0x5]|
-9106|Böcek Düşürme Oranı+[0x5]|
-9107|Zırhlı Düşürme Oranı+[0x5]|
-9109|Kanatlı Düşürme Oranı+[0x5]|
-9110|Okült Düşürme Oranı+[0x5]|
+9104|Yabanıl Eşya Düşürme Oranı+[0x5]|
+9106|Böcek Eşya Düşürme Oranı+[0x5]|
+9107|Zırhlı Eşya Düşürme Oranı+[0x5]|
+9109|Kanatlı Eşya Düşürme Oranı+[0x5]|
+9110|Okült Eşya Düşürme Oranı+[0x5]|
 9111|Öldürünce İyileşme[0x5]|
 9112|Eşya Alınca İyileşme[0x5]|
 9113|Gündüz Saldırısı+[0x5]|
@@ -2886,8 +2886,8 @@
 9231|Düşmanların seni<br>daha sık<br>hedef almasına neden olur.[0x5]|
 9232|Düşmanların seni<br>daha az<br>hedef almasına neden olur.[0x5]|
 9234|Bir düşmandan<br>çok daha az hasar<br>alma ihtimali verir.[0x5]|
-9270|Silah türüne zayıf<br>düşmanlara verilen ek<br>hasarı %25 artırır.[0x5]|
-9272|Eşyalardan kazanılan CP<br>miktarını %20 artırır.[0x5]|
+9270|Silah türüne karşı zayıf<br>düşmanlara verilen hasarı<br>%25 artırır.[0x5]|
+9272|Eşyalarla yenilenen CP<br>miktarını %20 artırır.[0x5]|
 9311|Bir düşmanı yendiğinde<br>bir miktar CP yeniler.[0x5]|
 9312|Bir eşya aldığında<br>bir miktar CP yeniler.[0x5]|
 9313|Gündüz verilen hasarı<br>%10 artırır.[0x5]|
@@ -2901,7 +2901,7 @@
 9321|Böcek türü düşmanlardan<br>alınan hasarı<br>%30 azaltır.[0x5]|
 9322|Zırhlı düşmanlardan<br>alınan hasarı<br>%30 azaltır.[0x5]|
 9325|Okült türü düşmanlardan<br>alınan hasarı<br>%30 azaltır.[0x5]|
-9326|CP'n %51 veya üzerindeyken<br>ağır bir darbe seni<br>KO edemez.[0x5]|
+9326|Daha fazla hasar verir;<br>CP'n %51 veya üzerindeyken<br>KO olmazsın.[0x5]|
 9327|Şanslı kürk topu bulma<br>ihtimalini<br>%50 artırır.[0x5]|
 9328|Mutlu yün bulma<br>ihtimalini<br>%50 artırır.[0x5]|
 9329|Büyülü kemik bulma<br>ihtimalini<br>%50 artırır.[0x5]|
@@ -2936,7 +2936,7 @@
 9359|Zamanla İyileşme|
 9360|Büyü Yeteneği Artışı|
 9361|Eşya Bulma Artışı|
-40045|[0x9, 0x840, 0x100]Aa, sensin! İşte buradasın. Kidung<br>Mağaraları'nda bana gerçekten<br>çok yardım etmiştin.<br>Tekrar teşekkürler, dostum.<waitbutton><hr>Vaha daha küçük olsa da burada<br>çok güzel bir hava var. Eminim kısa<br>sürede civıl cıvıl olur.<waitbutton><hr>Hmmm, düşününce de yatırım yapmak<br>için tam zamanıymış.<waitbutton>|
+40045|[0x9, 0x840, 0x100]Aa, sensin! İşte buradasın. Kidung<br>Mağaraları'nda bana gerçekten<br>çok yardım etmiştin.<br>Tekrar teşekkürler, dostum.<waitbutton><hr>Vaha daha küçük olsa da burada<br>çok güzel bir hava var. Eminim kısa<br>sürede cıvıl cıvıl olur.<waitbutton><hr>Hmmm, düşününce de yatırım yapmak<br>için tam zamanıymış.<waitbutton>|
 40046|Sebze tohumları ve süs bitkisi<br>filizleri satmayı düşünüyorum.<waitbutton><hr>Lütfen bol bol alışveriş yap.<br>Teşekkürler. Bay bay.<waitbutton>|
 40047|Hey, <playername>, biraz kalıp<br>sohbet etmez misin? Burası<br>bazen çok yalnız oluyor...<waitbutton>[0x5, 0x1]|
 40048|Vahayı birlikte kurduğumuzdan<br>beri<br>çok yoğunsun... Seni özledim!<br><waitbutton>[0x5, 0x1]|
@@ -2961,7 +2961,7 @@
 40067|Seninle, <playername>,<br>büyük hayalimin<br>gerçekleşeceğine<br>inanıyorum!<waitbutton>[0x5, 0x1]|
 40068|Vahamız küçük ama güçlü. Zamanla,<br>özenle ve sevgiyle, inanılmaz bir<br>sığınak hâline gelecek!<waitbutton>|
 40069|Vay canına, bayağı gevezelik ettim.<br>Yatsan iyi olur—yarın<br>erken kalkacaksın!<waitbutton>[0x5, 0x1]|
-40070|<playername>, teşekkür ederim.<br>Beni dinlediğin için. İyi bir insan<br>olduğun için.<waitbutton><hr>Böyle sohbetleri daha sık<br>yapalım, olur mu?<waitbutton>|
+40070|<playername>, teşekkür ederim.<br>Beni dinlediğin ve iyi biri olduğun için.<br>Böyle daha çok sohbet edelim, olur mu?<waitbutton>|
 40071|Hey, <playername>, biraz daha<br>sohbet etmeye vaktin var mı?<br><waitbutton>|
 40072|Vahanın ne kadar büyüdüğünü görmek<br>inanılmaz!<br>Bir de yeni<br>yerleşimcilerimiz var!<waitbutton>[0x5, 0x1]|
 40073|Lili, gelen bütün<br>ziyaretçileri<br>öyle bir coşkuyla karşılıyor<br>ki.<br><waitbutton>[0x5, 0x1]|
@@ -2994,7 +2994,7 @@
 44063|Fidan olmayan yerleşimciler, ha?<br><br><waitbutton><hr>Çöl halkının yerleşimci olması çok güven<br>verici olurdu, değil mi?!<br><waitbutton><hr><playername>, <span class="color-2">Kidung Mağaraları</span>'na<br>gitmelisin!<br><waitbutton>|
 44064|Drauk Miura'ya işlerinde<br>yardım edecekmişsin, ha.<waitbutton><hr><playername>, dikkatli ol ve bol şans!<waitbutton>|
 44065|Demek Miura'yla birlikte<br>Pantersıçan'ın inine gidiyorsun!<waitbutton><hr>Korkutucu görünüyor ama Miura<br>yanında olunca içim rahat!<waitbutton>|
-44066|Yerleşimciler arttıkça vaha iyice<br>civıl cıvıl oldu, değil mi?!<waitbutton><hr>Tomurcuk Tezgâhları kurmakla ve<br>gezginlerin istekleriyle uğraşmak<br>yorucu ama devam edelim!<waitbutton>|
+44066|Yerleşimciler arttıkça vaha iyice<br>cıvıl cıvıl oldu, değil mi?!<waitbutton><hr>Tomurcuk Tezgâhları kurmakla ve<br>gezginlerin istekleriyle uğraşmak<br>yorucu ama devam edelim!<waitbutton>|
 44067|Shakuro'nun ekip kurmamıza<br>yardım edebilmesi harika!<waitbutton><hr>Tüm yerleşimcilerin kendine özgü<br>silahları ve yetenekleri var.<waitbutton><hr>Ne kadar çok yerleşimcimiz olursa,<br>gidebileceğin yerler ve yapabileceğin<br>şeyler o kadar artar!<waitbutton>|
 44068|Kaos bitkileri neden vahada<br>kök saldı, acaba...<waitbutton><hr>Bunun Kaos'la bir ilgisi var mı?<br>Keşke buradaki biri bize<br>bir cevap verebilse.<waitbutton>|
 44069|Roto, <span class="color-2">Ostraka Harabeleri</span>'ndeki<br>Baastu'nun bir şeyler bildiğini söyledi.<waitbutton><hr><playername>, Baastu'ya git ve<br>neler öğrenebileceğine bak!<waitbutton>|
@@ -3020,9 +3020,9 @@
 45092|Vuhuu, tohumları ektin!<br>Büyümelerini sabırsızlıkla<br>bekliyorum.<waitbutton>|
 45093|Aa, evet, şimdi hatırladım. Buraya gelmeden önce gezgin bir tüccarla karşılaşmıştım.<waitbutton><hr>Bana <span class="color-2">Kidung Mağaraları</span>'nda bir şey aradığını söylemişti. Acaba... hâlâ orada mıdır?<waitbutton>|
 45094|Hım... Ne kadar da endişe<br>verici...<br><waitbutton>|
-45095|İlerideki<span class="color-2"> küplerden </span>birinin içinde,<br>çok uzun zaman önce birinin bıraktığı<br>bir dekor bitkisi filizi varmış. Öyle<br>duydum.<br>Onu aramak için geldim...<br><waitbutton><hr>Ama beklediğimden çok daha fazlasıyla<br>karşılaştım.<waitbutton>|
-45096|Buradaki deneyimlerim beni fena sarstı,<br>ama merakım hâlâ içimi kemiriyor. O küpte<br>ne var...<waitbutton>|
-45097|<playername>, küpün içinde kesinlikle<br>bir şey var. Küçük bir torba?<waitbutton>|
+45095|İlerideki<span class="color-2"> saksılardan </span>birinin içinde,<br>çok uzun zaman önce birinin bıraktığı<br>bir dekor bitkisi filizi varmış. Öyle<br>duydum.<br>Onu aramak için geldim...<br><waitbutton><hr>Ama beklediğimden çok daha fazlasıyla<br>karşılaştım.<waitbutton>|
+45096|Buradaki deneyimlerim beni fena sarstı,<br>ama merakım hâlâ içimi kemiriyor. O saksıda<br>ne var...<waitbutton>|
+45097|<playername>, saksının içinde kesinlikle<br>bir şey var. Küçük bir torba?<waitbutton>|
 45098|Hmmm, belki de tüccarın bahsettiği<br>filiz budur.<br>Hadi gidip ona gösterelim!<waitbutton>|
 45099|Aha! Evet, aynen öyle! Bu dekor bitkisi filizi! Onu bana geri getirdiğin için çok teşekkür ederim.<waitbutton><hr>Bunu karşılıksız bırakmam; sana işe yarar bir şey vermem gerek.<waitbutton>|
 45100|Aa, demek capcanlı yeni bir vahanın şefisin.<br>O zaman dükkânımı orada açarım!<waitbutton>|
@@ -3059,7 +3059,7 @@
 45202|Buraya gelmeden önce başka bir vahada yaşıyordum... Orası da Kaos bitkileriyle dolmuştu.<waitbutton><hr>Ne olduklarını bilmediğimiz için onlardan uzak durduk... Ama sayıları durmadan arttı.<waitbutton><hr>Sanki vahanın enerjisini emdiler; sonunda geriye, hayatı kalmamış kupkuru bir toprak kaldı.<waitbutton>|
 45203|Bir zamanlar yemyeşil olan vahamızın<br>tamamen yok olmasının sebebi o gölgemsi<br>bitkilerdi...<br><waitbutton><hr>Keşke daha fazlasını<br>bilseydim.<waitbutton>|
 45204|Hey, Şef. Ne var ne yok?<br><waitbutton>|
-45205|[0x9, 0x84c, 0x100]Ahhhh! Yüzüğümü buldun mu?! Ne rahatlama! Sana ne kadar teşekkür etsem az...<waitbutton><hr>Küçük kız kardeşim bunu bana çok uzun zaman önce vermişti. Bir nevi uğur tılsımım.<waitbutton><hr>Pek özel bir şey değil ama taşıdığı anlam onu benim için çok değerli kılıyor, anlıyor musun?<waitbutton><hr>Bulduğun için tekrar sağ ol, Şef. Benim için çok önemli.<waitbutton>|
+45205|[0x9, 0x84c, 0x100]Ahhhh! Yüzüğümü buldun mu?! Oh, içim rahatladı! Sana ne kadar teşekkür etsem az...<waitbutton><hr>Küçük kız kardeşim bunu bana çok uzun zaman önce vermişti. Bir nevi uğur tılsımım.<waitbutton><hr>Pek özel bir şey değil ama taşıdığı anlam onu benim için çok değerli kılıyor, anlıyor musun?<waitbutton><hr>Bulduğun için tekrar sağ ol, Şef. Benim için çok önemli.<waitbutton>|
 45206|Şimdi sıra bende, sana borcumu ödeyeceğim.<waitbutton><hr>Vahanda bir Tomurcuk Tezgâhı kurmayı çok isterdim ama... tohumum çöldeki canavarlar yüzünden mahvoldu...<waitbutton>|
 45207|Vuhuu, çok teşekkürler!<waitbutton>|
 45208|Ah, çok tatlısın. Tomurcuk Tezgâhı kuramasam da burada, vahanda takılsam olur mu?<waitbutton>|
@@ -3072,11 +3072,11 @@
 45220|<playername>, burası daha uygun olamazdı.<waitbutton><hr>Shakuro'dan aldığın <span class="color-2">Sentez<br>Ağacı Fidanı</span>'nı buraya ekmeyi dene!<waitbutton>|
 45221|O adam hakkında garip bir hissim var.<br>Vahaya iyi bir katkı olur mu emin değilim...<waitbutton><hr>Bir de ‘daha ileri gitmeyin’ derken ne demek<br>istedi?<br><waitbutton><hr><playername>, çok daha<br>dikkatli olsan iyi olur...<br><waitbutton>|
 45222|Burada yardım edebileceğim başka bir şey olmalı...<waitbutton><hr>Ama henüz aklıma bir şey gelmedi, doğrusu.<waitbutton>|
-45223|Viiiy! Başardın, <playername>!<br>Onu vahaya dönmüş hâlde<br>görmeyi sabırsızlıkla<br>bekliyorum.<br><waitbutton>|
+45223|Viiiy! Başardın, <playername>!<br>Onu vahada yeniden görmeyi<br>sabırsızlıkla bekliyorum.<br><waitbutton>|
 45226|Vay! Orası fena karışmış<br>görünüyor ama<br><playername>, gidip yardım etsen iyi olur!<waitbutton>|
 45227|Başardın, <playername>!<br>O Kaos canavarını göz açtırmadan<br>indirdin!<waitbutton><hr>Off, yaralandın mı?<br>İyileştirme eşyalarını sık<br>kullanmayı unutma.<waitbutton>|
 45240|Senin gibi biri bu topraklarda ne arıyor?<br>Kendini açıkla.<waitbutton>|
-45241|Vahanı Kaos mu bastı? Bu gerçekten talihsiz.<waitbutton><hr>Her hâlükârda, daha ileri gitmemeni şiddetle tavsiye ederim.<waitbutton>|
+45241|Vahanı Kaos mu bastı? Ne talihsiz bir durum.<waitbutton><hr>Her hâlükârda, daha ileri gitmemeni şiddetle tavsiye ederim.<waitbutton>|
 45244|Hah. Yine de ilerlemek istiyorsun. Elimden geldiğince uyardım.<waitbutton>|
 45245|Şimdilik bana Sheut diyebilirsin.<waitbutton>|
 45246|Hoşça kal. Son derece<br>dikkatli ilerle...<waitbutton>|
@@ -3108,18 +3108,18 @@
 50131|[0x9, 0x84e, 0x100]Hey, Şef!<waitbutton><hr>Nasıl geçti? Roto'nun bahsettiği muhafızla görüştün mü?<waitbutton>|
 50132|Heh, sen şefsin ya—bu Kaos'un kalanını da şıp diye halledersin.<waitbutton><hr>Ama önce Esna'yla konuşman gerekecek, şüphesiz. Bol şans!<waitbutton>|
 50139|Sanırım... sonunda nasıl yardım edebileceğimi buldum!<waitbutton><hr>Maceraya kimi götüreceğini belirlemene ve ekipman değiştirmene yardım edeceğim.<waitbutton><hr>Tomurcuk Tezgâhı kurmak da savaşmak da bana göre değil ama vallahi elimden geleni yaparım.<waitbutton>|
-50189|[0x17]Buna bir son verdiğin için... teşekkür ederim.<waitbutton><hr>[0x17]Bir zamanlar bu toprakların muhafızıydım... [0x17]Çok uzun zaman önce.<waitbutton><hr>[0x17]Bu diyarın gelişmesine yardım edip refah getirdim. [0x17]Layık gördüklerime kadim bilgeliği [0x17]ve öğretileri aktardım.<waitbutton><hr>[0x17]Ama ihanete uğradım.<waitbutton><hr>[0x17]Seçilmiş o az kişi kadim bilgiyi yalnızca [0x17]kendi çıkarları için kullandı. [0x17]Tek istedikleri servet ve maddi bolluktu.<waitbutton><hr>[0x17]Yozlaşma tüm diyara yayıldı. [0x17]Savaşlar patlak verdi...<waitbutton><hr>[0x17]Ve sayısız kişi kumlarda yok olup gitti.<waitbutton>|
+50189|[0x17]Buna bir son verdiğin için... teşekkür ederim.<waitbutton><hr>[0x17]Bir zamanlar bu toprakların muhafızıydım... [0x17]Çok uzun zaman önce.<waitbutton><hr>[0x17]Bu diyarın gelişmesine yardım edip refah getirdim. [0x17]Layık gördüklerime kadim bilgeliği [0x17]ve öğretileri aktardım.<waitbutton><hr>[0x17]Ama ihanete uğradım.<waitbutton><hr>[0x17]O seçilmiş birkaç kişi kadim bilgiyi yalnızca [0x17]kendi çıkarları için kullandı. [0x17]Tek istedikleri servet ve maddi bolluktu.<waitbutton><hr>[0x17]Yozlaşma tüm diyara yayıldı. [0x17]Savaşlar patlak verdi...<waitbutton><hr>[0x17]Ve sayısız kişi kumlarda yok olup gitti.<waitbutton>|
 50190|[0x17]Çağlar geçti. [0x17]Şimdi anlıyorum ki çok acının sorumlusu benim...<waitbutton><hr>[0x17]Görünüşe göre savaşın ardından [0x17]geride kalan umutsuzluk ve keder [0x17]bu topraklarda Kaos'a dönüşüp beni ele geçirmiş.<waitbutton>|
 50191|[0x17]Cesaretin ve kararlılığın beni<br>kurtardı.<br>[0x17]Sana en derin minnettarlığımı sunarım.<br><waitbutton>|
-50192|[0x17]Vahan Kaos tarafından ele geçirilmiş, öyle mi?<waitbutton>|
+50192|[0x17]Vahan Kaos tarafından ele geçirilmiş,<br>[0x17]öyle mi?<waitbutton>|
 50193|[0x17]Belki de bu salgının sebebi, [0x17]tüm diyara sinmiş [0x17]yoğun Kaos'tur.<waitbutton>|
 50194|[0x17]Genç Büyük Ağaç Çocuğu, [0x17]bu odanın ötesine geç.<waitbutton>|
-50195|[0x17]Orada bu diyarı koruyan kutsal ışığı<br>bulacaksın.<br>[0x17]O, vahanı Kaos'tan arındırmanda sana yardımcı<br>olabilir.<waitbutton>|
+50195|[0x17]Orada bu diyarı koruyan kutsal ışığı<br>[0x17]bulacaksın.<br>[0x17]Vahanı Kaos’tan arındırmanda sana<br>yardımcı olabilir.<waitbutton>|
 50196|[0x17]Şimdi sonsuz dinlenişe çekileceğim. Hoşça kal. [0x17]Tanrılar sonsuza dek üzerine sıcaklık ve [0x17]bereket saçsın.<waitbutton>|
 50201|<playername>! İyi misin? İşler çok zorlaşırsa kaçmakta hiçbir sakınca olmadığını unutma.<waitbutton>|
 50210|[0x9, 0x84e, 0x100]Ayy! Şef, ne yapacağız? Böyle giderse bu<br>Kaos bitkileri<br>—<waitbutton>|
 50211|Haydi <span class="color-2">Ostraka Harabeleri</span>'ne gidelim de<br>orada yaşayan muhafıza soralım!<waitbutton>|
-50230|Bana eşlik ettiğin için teşekkür olarak bunu kabul et.<waitbutton><hr>Bunu mevcut silahınla sentezlersen kılıcın eskisinden daha keskin olur!<waitbutton>|
+50230|Bana eşlik ettiğin için teşekkür olarak bunu sana vermek istiyorum.<waitbutton><hr>Bunu mevcut silahınla sentezlersen kılıcın eskisinden daha keskin olur!<waitbutton>|
 50231|Miura'nın görevi kız kardeşini bulmak.<br>Umarım onun için her şey yolunda gider...<br><waitbutton>|
 50232|Vay canına. Epey uzaklara geldin, <playername>.<waitbutton><hr>Vahaya bir anda dönmek istersen <span class="color-2">Su Kapısı</span>'nı kullan.<waitbutton>|
 50233|Aa, söylemeyi unuttum.<br><br><waitbutton><hr>Su Kapısı'nı kullanırsan anında vahaya<br>geri dönebilirsin.<waitbutton><br><hr>Şimdi denemek için iyi bir zaman. Hadi,<br>deneyelim mi?<waitbutton>|
@@ -3157,7 +3157,7 @@
 55097|[0x17]Ah, benim kıymetli Roto'm.<br>[0x17]Ne kadar büyümüşsün.<waitbutton>|
 55098|[0x17]Roto ve sen, Genç Büyük Ağaç Çocuğu. [0x17]Bu odanın ötesine geçin. Orada [0x17]aradığınızı bulacaksınız.<waitbutton>|
 55099|Anlaşıldı, Usta Baastu.<waitbutton>|
-55100|[0x17]Çok uzun zaman önce birlikte geçirdiğimiz günleri [0x17]sonsuzca hatırlayacağım.<waitbutton><hr>[0x17]Roto, Büyük Ağaç Çocuğu ve [0x17]yeni dostlarınla [0x17]birlikte uzun ve bereketli bir ömür sür, olur mu?<waitbutton>|
+55100|[0x17]Çok uzun zaman önce birlikte geçirdiğimiz günleri [0x17]hep sevgiyle anacağım.<waitbutton><hr>[0x17]Roto, Büyük Ağaç Çocuğu ve [0x17]yeni dostlarınla [0x17]birlikte uzun ve bereketli bir ömür sür, olur mu?<waitbutton>|
 55101|Teşekkür ederim, Usta Baastu.<waitbutton><hr>Her şey için.<waitbutton>|
 60121|Henüz geçemezsin.<waitbutton>|
 60200|Geri verilecek tohum yok.<br><waitbutton>|
@@ -3207,7 +3207,7 @@
 61043|Kabus Yosunu yenildi|
 61044|Kızıl Dehşet yenildi|
 61049|[0x17]Gereksinimler|
-61152|Tanıştığımızı sanmıyorum. Bu vahanın şefi sen misin?<waitbutton><hr>Zaten harika olan vahanı daha da renklendirecek bir şeyim var—<span class="color-2">Ruh Kartı</span>. İster misin?<waitbutton><hr>Damgalarla doldurursan su ruhunun onuruna bir <span class="color-2">Ruh Festivali</span> düzenleyebilirsin.<waitbutton><hr>Kesinlikle tavsiye ederim. Bir tane alıp Ruh Festivali düzenlemene çok sevinirim.<waitbutton>|
+61152|Tanıştığımızı sanmıyorum. Bu vahanın şefi sen misin?<waitbutton><hr>Zaten harika olan vahanı daha da renklendirecek bir şeyim var—<span class="color-2">Element Kartı</span>. İster misin?<waitbutton><hr>Damgalarla doldurursan su ruhunun onuruna bir <span class="color-2">Ruh Festivali</span> düzenleyebilirsin.<waitbutton><hr>Kesinlikle tavsiye ederim. Bir tane alıp Ruh Festivali düzenlemene çok sevinirim.<waitbutton>|
 61199|Selam, Şef. Hiyeroglif labirentlerinden herhangi birine meydan okudun mu?<waitbutton><hr>Söylentiye göre içlerinde çok güçlü, iri Kaos canavarları varmış.<waitbutton><hr>Çöl halkının yaşlıları daha fazla bilgiye sahip olabilir. Neden onlara sormuyorsun?<waitbutton>|
 65003|[0x17]Bitti mi?[0x5]<br>|
 65004|[0x17]Hikâyeyi bu noktaya kadar kaydetmek ister misin?[0x5]|
@@ -3231,12 +3231,12 @@
 65114|[0x17][0x13] kaynağı|
 65117|Neyi yerleştirmek istiyorsun?[0x5]|
 65118|[0x18][0x8, 0x1] Seç|
-65119|[0x18][0x8, 0x3] Öner [0x8, 0x1] Seç|
-65120|[0x18][0x8, 0x4] Bilgi [0x8, 0x3] Öner [0x8, 0x1] Seç|
+65119|[0x18][0x8, 0x3] Optimize Et [0x8, 0x1] Seç|
+65120|[0x18][0x8, 0x4] Bilgi [0x8, 0x3] Optimize Et [0x8, 0x1] Seç|
 65121|[0x17]Önerilen ekipman<br>[0x17][0xe] üstüne takılsın mı?[0x5]|
 65122|Stok yenilemek için malzemen yok.<waitbutton>|
 65123|[0x18][0x8, 0x3] Otomatik Stok|
-65126|[0x17]Özel bir isteğe girişmek ister misin?<span class="color-1"><br><span class="color-1">[0x17]</span>İptal edersen bu istek<br><span class="color-1">[0x17]</span>Yapılacaklar Listenden silinir</span>.[0x5]|
+65126|[0x17]Özel bir isteği üstlenmek ister misin?<span class="color-1"><br><span class="color-1">[0x17]</span>Etkin olmayan istekler<br><span class="color-1">[0x17]</span>Yapılacaklar Listenden silinir</span>.[0x5]|
 65130|Satış Sıralaması[0x5]|
 65132|Ziyaretçi Bilgisi[0x5]|
 65133|[0x18][0x8, 0x4] Bilgi [0x8, 0x3] Otomatik Stok|
@@ -3244,7 +3244,7 @@
 65143|[0x17][0xe]'nin Yeni Yeteneği<waitbutton>|
 65144|[0x18][0x8, 0x4] Liste [0x8, 0x1] Seç|
 65145|[0x18][0x8, 0x1] Yerleştir|
-65146|Artan İstatistikler|
+65146|İstatistik Artışı|
 65147|[0xe]'nin Yeni Ürünü|
 65150|???|
 70000|Hey, kayboldun mu?<br>Ne tesadüf! Ben de!<br><waitbutton>|
@@ -3255,20 +3255,20 @@
 70006|Harika! Şimdi sana dünya çapındaki dondurmamdan tattırabilirim!<waitbutton>|
 70011|Bu boğucu günde dondurmamı yemek<br>istemene sevindim ama<br>maalesef <span class="color-2">malzeme</span>m kalmadı.<waitbutton>|
 70016|Vahada yerleşimci olmak istiyorum ve şef sen olduğuna göre işim cepte! Şimdiden teşekkürler!<waitbutton>|
-70017|Su ruhunun suyunun <span class="color-2">cilde</span> çok iyi<br>geldiğini duydum.<br>Acaba benim cildimde nasıl bir etki yapar!<waitbutton>|
+70017|Su ruhunun suyunun <span class="color-2">vücut şekline</span><br>çok iyi geldiğini duydum.<br>Acaba bende nasıl bir etki yapar!<waitbutton>|
 70018|Tomurcuk Tezgâhım bir dondurmacı. Dondurma,<br>çöl tatlılarının en büyük lüksüdür!<waitbutton>|
 70019|Nedense en çok dondurmayı sabah satıyorum.<br>Kahvaltı için garip bir seçim gibi ama şikâyet<br>etmiyorum!<waitbutton>|
 70020|Uf. Yine kavurucu bir gün. Yakında<br>serinlemezse,<br>kendim yiyip dükkânı batıracağım!<waitbutton>|
 70021|Dondurma için en doğru zaman gece!<br>Yarın nasılsa yakarsın!<br><waitbutton>|
 70022|Dünkü yardımın için sağ ol!<br>Resmen beni kurtardın!<br><waitbutton>|
-70023|Ne zaman sevimli bir şey görsem mutlaka<br>ALMALIYIM! Tüketim çılgınlığının en sadık<br>müşterisiyim, biliyorum; ama elimde değil!<waitbutton>|
+70023|Ne zaman sevimli bir şey görsem mutlaka<br>ALMALIYIM! Tüketim çılgınlığının kötü yanlarını<br>biliyorum ama elimde değil!<waitbutton>|
 70024|Şu an cüzdanım biraz hafif, o yüzden<br>bugün alışveriş yapmayacağım.<br><waitbutton>|
 70025|Şu Drauklar ne kadar uzun ve<br>ince.<br>Keşke ben de o kadar uzun olsam.<br><waitbutton>|
 70026|Yeteneğim, <span class="color-2">Paraçiçek<span class="color-0">, </span></span><span class="color-0">uzak<br>yerlere ulaşmamı sağlar.<br></span><waitbutton>|
 70027|Günaydın! Sen de erken bir<br>yürüyüşe mi çıktın?<br><waitbutton>|
 70028|Hey! Güneş cayır cayır ama vahanın<br>içi yine de gayet ferah.<waitbutton>|
 70029|Ahhh... Gece gökyüzü bu kadar muhteşemken insanın akşam yürüyüşüne çıkası geliyor.<waitbutton>|
-70030|Büyük Wakuto Kanyonu yakınındaki<br><span class="color-2">Fırtına Yolu<br></span>'nda bir Serkah'ın Kaos canavarları<br>tarafından gagalandığını gördüm.<br><waitbutton><hr>Başının belada olduğunu sandım ama...<br>adam gülüyordu.<br><waitbutton><hr>Bir daha düşününce... belki de<br>belanın kendisi oydu.<br><waitbutton>|
+70030|Büyük Wakuto Kanyonu yakınındaki<br><span class="color-2">Fırtına Yolu<br></span>’nda bir Serkah’ın Kaos canavarı<br>tarafından gagalandığını gördüm.<br><waitbutton><hr>Başının belada olduğunu sandım ama...<br>adam gülüyordu. Bir düşününce, belki de<br>başının belada olmasının sebebi buydu.<waitbutton>|
 70031|Al, bir damga! Festival başlayınca<br>dondurmam kapış kapış gidecek!<waitbutton>|
 70033|Hemen tutacak yeni bir dondurma aroması yapmak istiyorum.<waitbutton><hr>Belki o zaman, bilirsin işte, biri yeteneklerimin farkına varır.<waitbutton>|
 70034|Sakina gelip dondurmalarımı<br>deniyor.<br><waitbutton><hr>Kalbine giden yol dondurmadan geçiyorsa,<br>memleketteki her külahı doldururum!<br><waitbutton>|
@@ -3281,7 +3281,7 @@
 70047|Hoş geldin! Dondurmam o kadar<br>popüler ki<br>bazı aromalar tükendi.<br><waitbutton>|
 70048|Dondurmam yine tükendi.<br>Yoksa fazla mı lezzetli oldu?!<br><waitbutton>|
 70049|[0x9, 0x73e, 0x100]Aslında, özel bir tür dondurma yapmak için<br>yardımına ihtiyacım var.<waitbutton><hr>Bu özel dondurma için bir <span class="color-2">Zehirli Çiçek</span>'e<br>ihtiyacım var. Adından da anlaşılacağı gibi,<br>doğal hâliyle yenirse zehirlidir.<waitbutton><hr>Ama zehrini çıkarırsan, harika bir lezzet<br>patlaması sağlar!<waitbutton><hr>O yüzden bana bir zehirli çiçek getirir misin?<br>Kalari Orman Denizi'ndeki<br><span class="color-2">Unutulmuş Orman</span>'da bulabilirsin.<waitbutton>|
-70050|[0x9, 0x73e, 0x100]Ah, ne yapacağımı bilmiyorum!<br>En sevgili Sakina hastalandı!<waitbutton><hr>Ona servis ettiğim dondurmada hâlâ<br>biraz zehir mi kaldı?!<waitbutton><hr>Her neyse, hemen ilaca ihtiyacımız var!<br>Ama hangi ilacın işe yarayacağını bilmiyoruz...<waitbutton><hr>O zaman senden üç <span class="color-2">Tam Panzehir</span><br>getirmeni isteyeceğim. O şey her şeyi geçirir.<waitbutton>|
+70050|[0x9, 0x73e, 0x100]Ah, ne yapacağımı bilmiyorum!<br>En sevgili Sakina hastalandı!<waitbutton><hr>Ona servis ettiğim dondurmada hâlâ<br>biraz zehir mi kaldı?!<waitbutton><hr>Her neyse, hemen ilaca ihtiyacımız var!<br>Ama hangi ilacın işe yarayacağını bilmiyoruz...<waitbutton><hr>O zaman senden bir <span class="color-2">Her Derde Deva</span><br>getirmeni isteyeceğim. O her şeyi iyileştirir.<waitbutton>|
 70051|Sakina'nın midesini yatıştıracak dondurma<br>yapmak istiyorum ama<br>standart malzemelerim bile ona ağır<br>gelebilir.<br>Bana bir <span class="color-2">Yumuşak Bitki</span> bulur musun?<br><waitbutton><hr><span class="color-2">Büyük Wakuto Kanyonu</span>'ndaki <span class="color-2">Sapa<br>Patika</span><br><span class="color-2"></span>'da yetiştiğini kesin biliyorum.<waitbutton>|
 70052|Oh, tam zamanında. Dışarı çıkıp<br>konuşmaya<br>bir dakikan var mı?<br><waitbutton>|
 70053|Yetiştirme işini bana bırak!<br>Onlara iyi bakarım!<br><waitbutton>|
@@ -3303,13 +3303,13 @@
 70087|Sakina! Geçen gün gösterinde pek iyi<br>görünmüyordun,<br>o yüzden bunu getirdim...<waitbutton>|
 70088|[0x9, 0x6fc, 0x100]Bunu... benim için mi yaptın? Teşekkür<br>ederim!<br><br><waitbutton><hr>[0x9, 0x6fa, 0x100]Ah... sanki yeniden doğdum!<br>Üzerimden koca bir yük kalkmış gibi!<br>Midem çok hassastır...<waitbutton>|
 70089|[0x9, 0x73d, 0x100]Yaşasın! Yardım edebildiysem ne<br>mutlu...<br><br><waitbutton>|
-70090|[0x9, 0x73e, 0x100]Ben...<br>Doğrusunu söylemek gerekirse, yalnızca<br>kendi istediğimi düşünmüşüm. Sakina'nın<br>neye ihtiyacı olduğunu hiç hesaba katmamışım.<waitbutton>|
+70090|[0x9, 0x73e, 0x100]Ben...<br>Şunu bil ki, sadece Sakina'yı<br>düşünmüyordum.<waitbutton>|
 70091|[0x9, 0x73c, 0x100]Hey hey! Malzemeleri bulduk!<br>Bunu sensiz yapamazdım!<waitbutton><hr>Şimdi tek yapmamız gereken onları Sakina'ya vermek!<br>Ona verdikten sonra dükkânıma uğra.<br>Sana verecek bir şeyim var.<waitbutton>|
 70092|Sakina! Uğradığın için<br>teşekkürler!<br><br><waitbutton>|
 70093|Öyle mi? O zaman hemen bir<br>ısırık alayım...<br><waitbutton><hr>...<br><br><waitbutton><hr>[0x9, 0x6fc, 0x100]Mmm! Bu şimdiye kadar yaptığın<br>en iyi dondurma! Hem hafif hem ferahlatıcı!<br><waitbutton>|
 70094|[0x9, 0x73d, 0x100]Ne... Yani yaptığım diğer tüm tatları da<br>hatırlıyor musun?<br><waitbutton>|
 70095|[0x9, 0x6fa, 0x100]Şaka mı yapıyorsun? Tabii ki hatırlıyorum.<br>Gösterilerime getirdiğin her tadı mutlaka<br>denerim.<br>Artık neredeyse aile gibiyiz!<waitbutton>|
-70096|[0x9, 0x73b, 0x100]Ah, Sakina. Ne kadar tatlısın.<br>Ama dürüst olayım... Ailenden biri<br>olmaktansa sevgilin olup bana da<br>“tatlım” demeni isterdim...<waitbutton><hr>Şey... Gösterinde bol şans!<br><br><waitbutton>|
+70096|[0x9, 0x73b, 0x100]Ah, Sakina. Ne kadar tatlısın.<br>Ama dürüst olayım... Ailenden biri<br>olmaktansa sevgilin olmayı tercih ederdim...<waitbutton><hr>Şey... Gösterinde bol şans!<br><br><waitbutton>|
 70097|Umarım bu Sakina'yı<br>iyileştirir...<br>Ah! Sakina!<br><waitbutton>|
 70098|Kasvetkara bir şey düşürdü.<br><br><waitbutton><hr>Zehirli renkte bir çiçek yaprağı.<br>Sanırım aradığım şey bu.<waitbutton>|
 70103|Oh be... Neyse ki burada bir vaha<br>var. Dışarıda daha ne kadar<br>dayanırdım bilmiyorum.<waitbutton>|
@@ -3326,7 +3326,7 @@
 70123|Bugün bir sürü şey ald— AAAAA!<br><br><waitbutton><hr>Öjür dilerim... Dilimi yine feci<br>ısırdım da...<br><waitbutton>|
 70124|Şu aralar fazla harcayacak param yok.<br>Artık biraz kısmam lazım.<waitbutton>|
 70125|Nefis bir içecek yapmak istiyorum!<br>Hem de bir sürü nefis içecek!<br><waitbutton>|
-70126|Hey, biliyor muydun? <span class="color-2">Kazı</span> benim<br>gizli yeteneğim!<br><waitbutton><hr>Bir şey gömülmüş gibi görünen<br>bir yer bulursan bu yeteneğim<br>işine yarayabilir!<waitbutton>|
+70126|Hey, biliyor muydun? <span class="color-2">Çukur kazmak</span> benim<br>gizli yeteneğim!<br><waitbutton><hr>Bir şey gömülmüş gibi görünen<br>bir yer bulursan bu yeteneğim<br>işine yarayabilir!<waitbutton>|
 70127|Oh! Günaydın!<br><playername>!<waitbutton>|
 70128|Oh! <playername>!<br>Merhaba!<waitbutton>|
 70129|Oh! <playername>!<br>İyi akşamlar!<waitbutton>|
@@ -3430,7 +3430,7 @@
 70272|Seni böyle ansızın çağırmam kabalıktı.<br>Boş ver, hiç söylememişim gibi düşün.<br><waitbutton>|
 70281|[0x9, 0x6e3, 0x100]Ahh... <span class="color-2">Kanyon Tüneli</span>'nde ayağım kuma<br>takıldı ve <span class="color-2">Pantersıçan İğneliği</span>'mi düşürdüm...<br><waitbutton><hr>Yetmezmiş gibi, onu şu baş belası <span class="color-1">Uçan<br>Sincabaykuş</span>ların yuvalarından birinin<br>yakınına düşürdüm.<waitbutton><hr>Şimdi geri dönüp aramak için çok geç.<br>Ne yapacağım ben?<br><waitbutton>|
 70282|[0x9, 0x6e3, 0x100]Büyük Wakuto Kanyonu'ndaki <span class="color-2">Kanyon Tüneli</span>'ne<br>geri dönüp <span class="color-2">Pantersıçan İğneliği</span>'mi aramalı<br>mıyım?<br><waitbutton><hr>Ama oranın yakınında bir <span class="color-1">Uçan<br>Sincabaykuş</span> yuvası var!<br><waitbutton><hr>Keşke şu lanet olası sakarlığım olmasa!<br><waitbutton>|
-70283|Benim... benim <span class="color-2">Kedicik<br>İğnelik'im</span>!<br>Bunu nasıl buldun?!<br><waitbutton><hr>Gerçekten bunu bulmak için dışarı çıkıp<br>bana geri mi getirdin?<waitbutton><hr>Teşekkür ederim.<br>Bu olmadan kendim gibi hissetmiyorum.<waitbutton><hr>[0x9, 0x6e0, 0x100]Seni ödüllendirmem gerek. Al bunu.<br>İşine yarar eminim.<br><waitbutton>|
+70283|Benim... benim <span class="color-2">Pantersıçan<br>İğneliği’m</span>!<br>Bunu nasıl buldun?!<br><waitbutton><hr>Gerçekten bunu bulmak için dışarı çıkıp<br>bana geri mi getirdin?<waitbutton>Teşekkür ederim.<br>Bu olmadan kendim gibi hissetmiyorum.<waitbutton><hr>[0x9, 0x6e0, 0x100]Seni ödüllendirmem gerek. Al bunu.<br>İşine yarayacağına eminim.<br><waitbutton>|
 70287|Uçan Sincabaykuş bir şey düşürdü.<br><br><waitbutton><hr>Bu, Pantersıçan şeklinde bir iğnelik!<br>Belki de Cyrus'un düşürdüğü şey budur?<br><waitbutton>|
 70289|Anladım. Cyrus'un yerine kıyafetleri<br>sen getirdin, öyle mi?<waitbutton><hr>Teşekkürler. İsyan boyunca giydiklerim<br>iyice lime lime olmuştu; çok işime<br>yarayacak.<waitbutton>|
 70290|Seni burada ölüme terk etmeyeceğiz!<br>Bunu kendimize nasıl yakıştırırız?<br><waitbutton><hr>Hayır, başka bir yol olmalı...<br><br><waitbutton>|
@@ -3438,13 +3438,13 @@
 70292|Lutz... İyi misin?<br><br><waitbutton>|
 70293|Ah, Cyrus... Beni böyle ansızın<br>çağırmana şaşırdım.<br><waitbutton><hr>Ben iyiyim. Ama... savaşın gidişatı<br>değişti. Gönüllü birliğin kalesine<br>saldırdılar.<waitbutton>|
 70294|Anlıyorum... Demek üs saldırıya uğradı.<br>Görünüşe göre yine başka bir yere<br>taşınmanız gerekecek...<waitbutton>|
-70295|Eve dönmelisin, Cyrus. Oradaki yerleşimin<br>sana ihtiyacı var.<br><waitbutton><hr>Eskiden yaptığın gibi insanların<br>yüreklerini yeniden birleştir. Hadi...<br>Lütfen...<waitbutton>|
+70295|Eve dönmelisin, Cyrus. Oradaki yerleşimin<br>sana ihtiyacı var.<br><waitbutton><hr>Eskiden yaptığın gibi insanların<br>kalbine dokun. Hadi...<br>Lütfen...<waitbutton>|
 70296|...Üzgünüm ama bunu yapamam. Kuyruğunu<br>kıstırıp kaçmış birini kimse dinlemez.<br><waitbutton><hr>Hem burada daha fazla kalmamalıyız.<br>Şef, vahaya dönünce dükkânıma uğra.<br><waitbutton>|
 70298|O Lutz nerede kaldı?<br><br><waitbutton><hr>Hı? Şurada biri var...<br><br><waitbutton>|
 70299|Hey! Ne oldu?!<br><br><waitbutton>|
 70303|SÜPER! İnanamıyorum!<br>Dedikodular doğruymuş!<br>Vaha gerçekten varmış!<br><waitbutton>|
 70304|Yeni hayatımın tadını şimdiden alabiliyorum!<br><br><waitbutton>|
-70305|Ah, kusura bakma! Bu arada Murtaza ben!<br>Şekerleme ustası olma yolundayım;<br>şeker başıma vurunca biraz... fazla<br>hareketli olabiliyorum.<waitbutton>|
+70305|Ah, kusura bakma! Bu arada Murtaza ben!<br>Şekerleme ustası olmaya çalışıyorum;<br>bazen biraz... fazla hareketli<br>olabiliyorum.<waitbutton>|
 70306|Buralarda <span class="color-2">güneş şemsiyesi</span> satan<br>bir yer arıyorum...<br>Bu sıcak beni eritmeden bir tane almalıyım!<waitbutton>|
 70307|Senden aldığım<br><span class="color-2">Aşırı Tatlı Bitki</span> ile yapılan şekerler<br>acayip popüler olacak!<waitbutton>|
 70311|Bünyem sağlamdır ama bu sıcağa<br>hiç dayanamıyorum. Bir <span class="color-2">Güneş Şemsiyesi</span><br>resmen ilaç gibi gelirdi.<waitbutton>|
@@ -3490,8 +3490,8 @@
 70369|Adamlarımın çıkardığı o yapış yapış işe<br>seni de bulaştırdığım için kusura bakma.<br><waitbutton><hr>Umarım bundan sonra biraz uslanırlar.<br>Benim gibi tutkularını gün yüzüne<br>çıkarmaları yeter!<waitbutton><hr>Teşekkürümün bir göstergesi olarak<br>lütfen bunu al.<br><br><waitbutton>|
 70371|Şeflik zor iş ha?<br>Her şey yolunda mı?<br><waitbutton>|
 70372|Anladım... Sen bilirsin.<br>Benim yapacak bir şeyim yok.<br><waitbutton>|
-70381|[0x9, 0x70a, 0x100]Ah... <span class="color-2">Büyük Wakuto Kanyonu</span>'nda<br>kurumaya bıraktığım <span class="color-2">Aşırı Tatlı Bitki</span>yi<br>almayı tamamen unutmuşum!<waitbutton><hr>Onsuz şekerleme yapamam... Onu bir<br>küpün içinde bırakmıştım. Hafızam<br>gerçekten berbat.<waitbutton>|
-70382|[0x9, 0x70a, 0x100]<span class="color-2">Büyük Wakuto Kanyonu</span>'nda bıraktığım<br>küpü bulup içindeki <span class="color-2">Aşırı Tatlı Bitki</span>yi<br>bana getirmen mümkün mü?<waitbutton><hr>Gerçi sıradan bir Fidanın öyle tehlikeli<br>bir yerde işi olmaz...<waitbutton>|
+70381|[0x9, 0x70a, 0x100]Ah... <span class="color-2">Büyük Wakuto Kanyonu</span>'ndaki<br><span class="color-2">Aşırı Tatlı Bitki</span>yle harika şekerlemeler<br>yapabilirim.<waitbutton><hr>Tüh! Vahaya döndükten sonra bunu<br>hatırlamanın anlamı yok. Hafızam<br>gerçekten berbat.<waitbutton>|
+70382|[0x9, 0x70a, 0x100]Yanında <span class="color-2">Büyük Wakuto Kanyonu</span>'ndan<br>bir <span class="color-2">Aşırı Tatlı Bitki</span> yoktur herhalde?<waitbutton><hr>Zaten sıradan bir Fidanın öyle bir yerde<br>ne işi olsun...<waitbutton>|
 70383|[0x9, 0x707, 0x100]Gerçekten bana bir <span class="color-2">Aşırı Tatlı Bitki</span><br>mi vereceksin? Onu bulmak için epey<br>uğraşmış olmalısın!<waitbutton><hr>Al, bu da küçük bir teşekkür hediyesi.<br><br><waitbutton>|
 70387|Kavanozun içinde bir şey var.<br><br><waitbutton><hr>Tatlı kokulu bir bitki...<br>Murtaza'nın aradığı şey bu olmalı!<br><waitbutton>|
 70389|Hey! Orada öylece yatıp ne yapıyorsun?<br><br><waitbutton><hr>Eski tayfamın ortalığı kasıp kavurduğunu<br>duyup geldim ama siz bayağı darmadağın<br>görünüyorsunuz.<waitbutton>|
@@ -3503,7 +3503,7 @@
 70395|Ağabey?! S-sen...<br><br><waitbutton>|
 70396|Şef <playername>'in vahasında usta bir<br>şekerlemeci olmak için canımı dişime<br>taktım...<br><waitbutton><hr>Ne yapmak istiyorsan onu bul ve tüm<br>kalbinle yap. Nokta.<waitbutton>|
 70397|Ne yapmak istediğini bul...<waitbutton>|
-70398|Bu basit bir görev değil. Ama eski<br>tayfamdan biri olarak bunu kolayca<br>halledebilmen gerekir.<waitbutton><hr>Ama başkalarına sakın bulaşma.<br>İzin vermeyeceğim tek şey bu.<br><waitbutton><hr>Ben gidiyorum, <playername>.<br>Vahaya dönünce dükkânıma uğra. Gecikme.<br><waitbutton><hr>Sen de evine dön. Söylediklerimi<br>diğerlerine aynen ilet.<br><waitbutton>|
+70398|Bu basit bir görev değil. Ama eski<br>tayfamdan biri olarak bunu kolayca<br>halledebilmen gerekir.<waitbutton><hr>Ama başkalarına sakın bulaşma.<br>İzin vermeyeceğim tek şey bu.<br><waitbutton><hr>Ben gidiyorum, <playername>.<br>Vahaya dönünce dükkânıma uğra.<br>Gecikme.<waitbutton>|
 70399|Pantersıçan bir şey düşürdü.<br><br><waitbutton><hr>Tatlı kokulu bir meyve özü...<br>Yutk... Bu, Evia'nın aradığı<br>şey olabilir...<br><waitbutton>|
 70403|Artık her şey gerçek...<br>Hayalimdeki toprakları<br>görüyorum...<br>Şef <playername>'in<br>vahasını... Harika.<waitbutton>|
 70404|Şef <playername>... Teşekkür ederim.<br>Pişman olmayacaksın!<br><waitbutton>|
@@ -3520,7 +3520,7 @@
 70420|Şef <playername>...<br>Özür dilerim, sadece adını<br>söylemek istedim.<br><waitbutton>|
 70421|Vahanın gökkuşağı, umutsuzluk çölünü<br>aydınlatan bir umut meşalesi...<br><waitbutton>|
 70422|Dün senden daha fazla malzeme almak beni çok<br>mutlu etti.<br>Teşekkür ederim. Gerçekten benim<br>kahramanımsın...<br><waitbutton>|
-70423|Artık kıyafet alışverişlerime daha çok<br>dikkat ediyorum...<br>... Hepsi senin yüzünden ama,<br>Şef <playername>.<waitbutton>|
+70423|Artık kıyafet alışverişlerime daha çok<br>dikkat ediyorum. Ama bunun tek sebebi<br>sen değilsin, Şef <playername>.<waitbutton>|
 70424|Tasarruf etmeyi gerçekten öğrenmeye<br>çalışıyorum.<br>Nedenini merak ediyorsan...<br>şey, bu benim küçük sırrım...<waitbutton>|
 70425|Şef <playername>, bir dahaki sefere dışarı<br>çıktığında<br>ben de gelmek istiyorum.<waitbutton>|
 70426|<span class="color-2">Paraçiçek </span> becerisini<br>kullanıp<br>ulaşılması zor yüksek yerlere<br>süzülebilirim...<br><waitbutton>|
@@ -3594,11 +3594,11 @@
 70533|Sebzelerini sevgiyle yetiştir.<br>Onlar bu ilgiyi hemen hisseder.<br><waitbutton>|
 70534|Verdiğin tohumlar pek iyi gitmiyor...<br><waitbutton><hr>Neden acaba? Her gün yaklaşık<br>bir saat suluyorum...<br><waitbutton>|
 70535|İlk seferde çok fazla suladığım için<br>başaramadım ama bu kez... Hımm.<waitbutton><hr>Ne olursa olsun bu tohumların meyve<br>vermesini sağlayacağım!<waitbutton>|
-70536|Senin sayende inanılmaz güzel bir sebze<br>yetiştirebildim! Çok teşekkür ederim!<br><waitbutton><hr>Şimdiye kadar yetiştirdiğim sebzelerin<br>açık ara en tatlısı o!<br><waitbutton>|
+70536|Senin sayende inanılmaz güzel bir sebze<br>yetiştirebildim! Çok teşekkür ederim!<br><waitbutton><hr>Şimdiye kadar yetiştirdiğim sebzelerin<br>açık ara en sevimlisi o!<br><waitbutton>|
 70537|Bir süre önce buralara uğramıştım.<br>Sen vahanı burada kurmadan önceydi.<br><waitbutton><hr>O zamanlar Çömlek Mağarası'nı ve<br>Ostraka Harabeleri'ni keşfetmiştim.<br><waitbutton>|
 70538|Koruyucunun böyle bir geçmişi olduğunu hiç<br>bilmiyordum.<br><waitbutton><hr>O zamanlar bana bunca şeyi öğretirken<br>nasıl hissediyordu acaba...<br><waitbutton>|
 70539|Acaba o Karideskorpiyon, Okyanus<br>Nekropolü'nde yapayalnız mıydı...<br><waitbutton><hr>Gerçekten yalnızsa çok yalnızlık çekmiş<br>olmalı. Herhâlde bu yüzden bu kadar<br>saldırganlaşmıştır.<waitbutton>|
-70540|Taşkaparlardan hiç hoşlanmam.<br>... Unutulmuş Orman'dayken<br>bu yüzden tir tir titriyorum.<waitbutton>|
+70540|Taşkaparlara hiç tahammül edemem.<br>... Unutulmuş Orman'dayken<br>bu yüzden tir tir titriyorum.<waitbutton>|
 70541|Denemeler Tapınağı'nda dev bir dişli var,<br>değil mi? Ne işe yaradığına dair türlü<br>teoriler var.<waitbutton><hr>Hiçbirinin doğru olup olmadığını bilmiyorum<br>ama böyle şeyler hakkında hayal gücünü<br>serbest bırakmak eğlenceli, değil mi?<waitbutton>|
 70545|Bu garip mor bitkiler varken<br>astımım azıyor...<br><waitbutton>|
 70546|Hoş geldin! Ne tür sebze<br>arıyorsun?<br><waitbutton>|
@@ -3691,8 +3691,8 @@
 70686|Senin sayende artık dışarı<br>çıkabilecek gibiyim.<br>Teşekkürler.<br><waitbutton>|
 70687|Teşekkürler Şef! Bu gerçekten çok işime<br>yarayacak!<br><waitbutton>|
 70688|Vay! Den, bayağı ciddiye almış gibisin.<waitbutton>|
-70690|[0x9, 0x6ef, 0x100]Vay canına! Azizah!<br><br>Ha ha, şey... Yetenekli bir<br>adamım,<br>biliyorsun?! Mekânım<br>seninkinden daha<br><waitbutton><hr>popüler olana kadar durmam!<waitbutton>|
-70691|İnsan ilişkilerin gerçekten iyi, Den.<br>Dükkânının popülerliğini düşünürken<br>belki biraz buna odaklanmalısın.<br>Sadece diyorum.<br><br><waitbutton>|
+70690|[0x9, 0x6ef, 0x100]Vay canına! Azizah!<br><br><waitbutton><hr>Ha ha, şey... Yetenekli bir<br>adamım, biliyorsun?! Mekânım<br>seninkinden daha popüler olana kadar<br>durmam!<waitbutton>|
+70691|İnsan ilişkilerin gerçekten iyi, Den.<br>Dükkânının ne kadar popüler olduğunu<br>düşünürken bunu da hesaba katmalısın.<waitbutton><hr>Sadece söylüyorum.<br><br><waitbutton>|
 70692|*iç çekiş* Azizah... Ne kadar uğraşsam da<br>hiçbir şey yolunda gitmiyor. Haklısın.<br>Özür dilerim.<waitbutton>|
 70693|Anlaşılan her zamanki gibi yalnız<br>kendini düşünüyorsun...<waitbutton>|
 70694|[0x9, 0x6ef, 0x100]Of... Buna itiraz edemem. Aklım fikrim<br>buradaki hanımların gözüne girmekte!<br><waitbutton><hr>Krepleri de gönülsüzce, sırf yapmış olmak<br>için yapıyorum. O yüzden doğru düzgün<br>satılmıyorlar.<waitbutton><hr>Şef, sonra dükkânıma uğrar mısın?<br>Sana teşekkür etmek için bir şey vermek<br>istiyorum.<br><waitbutton>|
@@ -3723,7 +3723,7 @@
 70730|Sana söylemek istedim—son zamanlarda<br>ilginç bir dedikodu duydum.<br><waitbutton><hr><span class="color-2">Çiftboynuz Mağarası</span> içinde, hayatı buna<br>bağlıymış gibi kayaları kazan bir kadın<br>varmış.<waitbutton><hr>Tuhaf, değil mi? Çölde yürümek bile<br>zorken bir de orada çalışıyor!<waitbutton>|
 70731|Festival mi? Fırıldaklarım ne kadar<br>satar acaba...<br>Çok satsın istiyorum!<br><waitbutton>|
 70733|*iç çekiş* İnsanlar sürekli bana üzgün<br>göründüğümü söylüyor...<br><waitbutton><hr>Ama yüzüm böyle. Böyle doğdum!<br>Ben ne yapayım yani?!<waitbutton>|
-70734|Acaba... gülmek tam olarak nedir?<br>Hmm... Bu konu düşündüğümden daha<br>felsefiymiş.<waitbutton>|
+70734|Acaba... Gülmek tam olarak ne demek?<br>Peki... Garip bir sohbet nasıl olur?<waitbutton>|
 70735|Gülmantar'ı yediğimden beri<br>karın kaslarım iyice güçlendi sanki!<waitbutton>|
 70736|Değişim bazen sandığından daha yakınmış,<br>ha? Hep istediğim o gülümsemeye artık<br>daha yakınım gibi!<waitbutton>|
 70737|Bu vahayı bulurken bütün<br>şansımı tüketmedim<br>umarım...<br><waitbutton>|
@@ -3746,7 +3746,7 @@
 70757|Yine gel. Sana özel ayrıcalık yapamam<br>tabii.<br>Sadece normal, harika muameleyi<br>görürsün.<waitbutton>|
 70758|Stoğum azalmaya başladı. Ne<br>yapmalıyım?<br><waitbutton>|
 70759|Satacak hiçbir şeyi olmayan bir<br>dükkân... *iç çekiş*<br>Belki bir şeyler yaparsın diye<br>düşünmüştüm ama...<waitbutton>|
-70765|[0x9, 0x72f, 0x100]<span class="color-2">Fırıldak Boncuklarını</span> alabilir<br>miyim? Emin misin?<br>Ah, çok teşekkür ederim!<br><waitbutton><hr>Herkes somurtkan bir yüzüm olduğunu söylüyor.<br>Ama gerçekten çok mutluyum ve minnettarım!<br><waitbutton><hr>Fırıldak satan birinin böyle somurtması<br>garipmiş... Bunu söylediklerinde daha da<br>somurtuyorum.<br><waitbutton><hr>Lütfen bunu al. Umarım hoşuna gider.<br><waitbutton>|
+70765|[0x9, 0x72f, 0x100]<span class="color-2">Fırıldak Boncuklarını</span> alabilir<br>miyim? Emin misin?<br>Ah, çok teşekkür ederim!<br><waitbutton><hr>Herkes somurtkan bir yüzüm olduğunu söylüyor.<br>Ama gerçekten çok mutluyum ve minnettarım!<br><waitbutton><hr>Lütfen bunu al. Umarım hoşuna gider.<br><waitbutton>|
 70767|[0x9, 0x731, 0x100]Benimle geldiğin için teşekkür ederim!<br><br><waitbutton><hr>O kadar çok güldüm ki karnım hâlâ ağrıyor.<br>Sanırım Kalari Orman Denizi’ne kolay kolay<br>geri dönmem.<waitbutton><hr>Ama bu, istediğim türden bir gülümseme<br>değildi. Daha doğal olmasını istemiştim.<br><waitbutton><hr>Yine de teşekkür olarak bu Gülmantarların<br>kalanını sana vermek istiyorum. Şaka! Haha!<br>Onun yerine bunu al.<waitbutton>|
 70769|[0x9, 0x72e, 0x100]Bu kadar gülmekten yüzüm ağrıdı<br>ama çok eğlenceliydi.<waitbutton><hr>O Serkah haklıymış. Bir şeyi başarmak için<br>tüm kalbinle uğraşınca gülümsememek<br>elde değil!<waitbutton><hr>İnsanlar sürekli zorla gülümsediğim için<br>acı çekiyor gibi göründüğümü söylemişti.<br>Herhâlde gülümsemeden çok sırıtıyordum.<waitbutton><hr>Teşekkürler Şef. Senin yardımın olmadan<br>başaramazdım. Artık minnettarlığımı<br>gerçekten gösterebiliyorum...<waitbutton>|
 70771|Rahatsız ediyorum ama isteğim ne<br>durumda<br>diye merak ettim...<waitbutton>|
@@ -3888,10 +3888,10 @@
 70987|İşte! Şuradaki Fidan!<br><br><waitbutton><hr>Aradığım kişi çok yetenekli bir savaşçı,<br>dikkatli ol.<waitbutton>|
 70988|Ah, canım... Aslında aradığım bu değildi.<br><br><waitbutton><hr>Üzgünüm. Seni boş yere koşturmuş oldum.<br><waitbutton>|
 70989|Evet... Seni buralara sürüklediysem<br>bir açıklamayı hak ediyorsun.<br><waitbutton>|
-70990|Dışarıdan öyle görünmesem de uzak<br>memleketlerde yeteneklerimle epey<br>tanınırdım.<waitbutton><hr>Orada hem rakibim hem de çok yakın<br>dostum olan biri vardı.<waitbutton><hr>Ama herkesten daha güçlü olmayı kafasına<br>taktı ve sonunda Kaos tarafından yutuldu.<waitbutton>|
+70990|Dışarıdan öyle görünmesem de uzak<br>memleketlerde yeteneklerimle epey<br>tanınırdım.<waitbutton><hr>Her sözümü can kulağıyla dinleyen<br>bir çırağım vardı. Çok yakındık.<waitbutton><hr>Ama herkesten daha güçlü olmayı kafasına<br>taktı ve sonunda Kaos tarafından yutuldu.<waitbutton>|
 70991|Şimdi büyük ihtimalle az önce<br>dövüştüğümüz Kaos Fidanı gibi olmuş,<br>bir yerlerde dolaşıyordur.<waitbutton><hr>Onun kendini mahvetmesini seyredemem.<br>Bu yüzden bir şey yapmak zorundaydım.<br>Ama kusura bakma, konu biraz iç karartıcı oldu.<waitbutton><hr>Hadi vahaya dönelim. Dükkânıma uğrarsan<br>zahmetinin karşılığını veririm.<waitbutton>|
 70993|Eskiden çok daha güçlüydü.<br>Niye bu kadar ileri gittiğini<br>anlayamıyorum...<waitbutton>|
-70994|Tek düşündüğü daha da güçlenmekti; başka<br>hiçbir şeyi gözü görmüyordu.<waitbutton><hr>Keşke bir an durup etrafına... hatta benim<br>nasıl yaşadığıma da bakabilseydi. *iç çeker*<br><waitbutton>|
+70994|Pek derin düşünen biri değildi. Aklında<br>sadece güçlenmek vardı.<waitbutton><hr>Keşke bir an durup olaylara daha geniş<br>açıdan bakabilseydi... *iç çeker*<br><waitbutton>|
 70995|Ama artık bunların önemi yok.<br>Gerçek gözümün önünde duruyor.<br><waitbutton><hr>Hadi vahaya dönelim.<br><br><waitbutton><hr>Sana teşekkür etmek istiyorum.<br>Sonra dükkânıma uğrar mısın?<br><waitbutton>|
 71003|Hım... Bu vahada heyecan verici bir şeyler<br>olacak gibi hissediyorum.<waitbutton>|
 71004|Böyle harika bir kitapçı varken herkes kitap kurduna dönüşür!<waitbutton>|
@@ -3915,7 +3915,7 @@
 71031|Festival mi düzenleyeceksin?! O zaman<br>bu dükkânda satışlar şahlanır!<br><waitbutton>|
 71033|Bu vahadaki insanlar hakkında ilginç bir<br>kitap yazılabilir bence...<br><waitbutton><hr>Öyle kendine has kişiler var ki, kitabın<br>kesin çok satanlara girer!<waitbutton>|
 71034|Kitaplar inanılmazdır. İnsan ne kadar<br>bilgisiz olursa olsun ona yol gösterebilirler.<br><waitbutton><hr>Ben de bir gün başkalarına ilham verecek<br>bir kitap yazmayı çok isterim...<br><waitbutton>|
-71035|Çoğu derdin çaresi kitaplarda bulunur.<br>Sonuçta tarih tekerrür eder; bizden öncekiler<br>de benzer dertleri yaşamıştır.<waitbutton>|
+71035|Kitap okumak çoğu endişeyi yatıştırabilir.<br>İnsanlar benzer dertleri tarih boyunca<br>tekrar tekrar yaşamış.<waitbutton>|
 71036|Burada yaşanan her şeyle harika bir öykü<br>derlemesi yapabiliriz...<waitbutton><hr>Adı da “Isaac'ın Tuhaf Dostları” olur.<br>Haha!<br><waitbutton>|
 71039|Okyanus Nekropolü mü? Hımm. Romanım için<br>iyi bir hikâye çıkabilir... Bir ara zaman<br>bulup kendi başıma gidip bakmalıyım.<waitbutton>|
 71040|Unutulmuş Orman hakkında pek bilgi yok...<br>Ama orada yaşamış eski Lagoraların bilgisi<br>beni epey meraklandırıyor.<waitbutton>|
@@ -3924,7 +3924,7 @@
 71046|Selam! Bugün en çok satanlar<br>burada!<br>Buyur, bir göz at!<waitbutton>|
 71047|Hım. Bazı kitaplar şimdiden tükendi.<br>Klasikler hâlâ çok popüler.<br><waitbutton>|
 71048|"Kitapsız bir kitapçı" kulağa şiir gibi<br>geliyor<br>ama pratikte pek yürümüyor.<br><waitbutton>|
-71049|[0x9, 0x6e3, 0x100]Bu vahaya geleli ne kadar zaman oldu<br>acaba?<br><waitbutton><hr>Burada geçirdiğim zaman hakkında bir kitap<br>yazmayı düşünüyorum. Ama iyi bir kalem<br>lazım!<waitbutton><hr>Kalem yapmak için bana biraz <span class="color-2">Gül Ağacı</span><br><span class="color-2">Tahtası</span> getirir misin?<br><waitbutton><hr>Kalari Orman Denizi'ndeki <span class="color-2">İkaz Kapısı</span>'nda<br><span class="color-2">Kazı</span> yaparak bulabilirsin.<waitbutton>|
+71049|[0x9, 0x6e3, 0x100]Bu vahaya geleli ne kadar zaman oldu<br>acaba?<br><waitbutton><hr>Burada geçirdiğim zaman hakkında bir kitap<br>yazmayı düşünüyorum. Ama iyi bir kalem<br>lazım!<waitbutton><hr>Kalem yapmak için bana biraz <span class="color-2">Gül Ağacı</span><br><span class="color-2">Tahtası</span> getirir misin? Kalari Orman<br>Denizi'ndeki <span class="color-2">İkaz Kapısı</span>'na bak.<waitbutton>|
 71050|[0x9, 0x6e0, 0x100]Hımmm... Sanırım zor durumda olan birini<br>görmezden gelemeyen tiplerdenim.<waitbutton><hr>Birinin <span class="color-2">Sinsi Çiçek</span>'e ihtiyacı var.<br>Bir tane bulabilir misin?<waitbutton><hr>Bitki ansiklopedime göre Bahar Tepesi'ndeki<br><span class="color-2">Okyanus Nekropolü</span>'nde yetişiyormuş.<waitbutton>|
 71051|[0x9, 0x6e0, 0x100]Tam zamanında geldin!<br><br><waitbutton><hr>Tahmin et ne oldu? Yine yardıma muhtaç<br>birine yardım ediyorum. Bu sefer biri,<br>Büyük Wakuto Kanyonu'nda parıldayan<br>bir tılsımını kaybetmiş.<waitbutton><hr>Ben de gidip o tılsımı <span class="color-2">Büyük Wakuto</span><br><span class="color-2">Kanyonu</span>'nda arayayım diyorum.<br>Benimle gelir misin?<waitbutton>|
 71052|Sana söylemem gereken önemli bir şey var.<br>Hadi dükkânın dışına çıkıp konuşalım.<waitbutton>|
@@ -3935,9 +3935,9 @@
 71057|Sattığım kitapların hepsi<br>inanılmaz popüler olacak.<br>Bekle de gör!<br><waitbutton>|
 71058|İçimde bir his var; bir dahaki sefere<br>bana bir teslimat getireceksin.<waitbutton>|
 71059|Kitapsız bir kitapçı göze hiç hoş<br>görünmüyor.<br>Yardım edebilirsen çok memnun olurum.<br><waitbutton>|
-71065|[0x9, 0x6e0, 0x100]Teşekkürler. Artık sonunda kitabımı<br>yazmaya hazırım. Macerandan mutlaka<br>söz edeceğim.<waitbutton><hr>Kitaplar ne harika şeyler... Bir insanın<br>bildiklerini, kendisinden çok sonra yaşayacaklara<br>bile ulaştırabiliyor.<br><waitbutton><hr>Ben de bildiklerimi geleceğe bırakmak için<br>yazıyorum. Ama bugünün insanını da unutmayalım!<br>Al, bu da teşekkür hediyen.<br><waitbutton>|
+71065|[0x9, 0x6e0, 0x100]Teşekkürler. Artık sonunda kitabımı<br>yazmaya hazırım. Macerandan mutlaka<br>söz edeceğim.<waitbutton><hr>Gelecekte yaşayacaklar için yazıyorum!<br>Ama şimdiki insanlara teşekkür hediyesi<br>olarak bunu kabul et. Çekinme.<waitbutton>|
 71067|[0x9, 0x6e0, 0x100]Aldım. Teşekkürler. Ona mutlaka<br>vereceğim.<br><waitbutton><hr>Bilgimi başka birine yardım etmek için<br>kullanmak beni mutlu ediyor.<br><waitbutton><hr>Ve elbette bunların hepsi senin sayende<br>oldu. Lütfen küçük teşekkür hediyemi<br>kabul et.<waitbutton>|
-71069|[0x9, 0x6e0, 0x100]Ha! Bu dünyayla ilgili her şeyin kitaplarda<br>yazılı olduğunu sanıyordum ama yanılmışım.<waitbutton><hr>Bazı şeyleri öğrenmek için bizzat o yere gidip<br>görmek gerekiyor! Bu benim için gerçekten<br>çok değerli bir ders oldu.<waitbutton><hr>Kahramanlıklarını mutlaka kitabıma<br>ekleyeceğim.<waitbutton><hr>Ama şimdilik lütfen hediyemi kabul et.<br><waitbutton>|
+71069|[0x9, 0x6e0, 0x100]Ha! Bu dünyayla ilgili her şeyin kitaplarda<br>yazılı olduğunu sanıyordum ama yanılmışım.<waitbutton><hr>Bazı şeyleri öğrenmek için bizzat o yere gidip<br>görmek gerekiyor! Bu benim için gerçekten<br>çok değerli bir ders oldu.<waitbutton><hr>Kahramanlıklarını mutlaka kitabıma<br>ekleyeceğim. Ama şimdilik lütfen hediyemi<br>kabul et.<waitbutton>|
 71071|Bu arada, senden ilgilenmeni<br>istediğim şey...<br>Nasıl gidiyor?<br><waitbutton>|
 71072|Oh, tamam. Anladım. O zaman bu<br>konuşmayı<br>başka bir zamana bırakalım.<br><waitbutton>|
 71087|Görünen o ki o Kaos canavarı bir<br>şeyler topluyor.<br>Hadi peşine düşelim!<br><waitbutton>|
@@ -4000,13 +4000,13 @@
 71159|Hayranlarımı daha fazla hayal<br>kırıklığına uğratamam!<br>Lütfen! Yakında bir teslimata<br>ihtiyacım var!<br><waitbutton>|
 71165|[0x9, 0x6fa, 0x100]Sağ ol, Şef! Bir sonraki gösterimiz<br>kesin büyük ses getirecek!<waitbutton><hr>İçim kıpır kıpır! Ah, doğru, sana teşekkür<br>etmeyi unutmamalıyım. Al, bunu<br>teşekkürümün bir işareti olarak kabul et!<waitbutton>|
 71167|[0x9, 0x6fa, 0x100]Şef, benimle vakit geçirdiğin için<br>teşekkürler!<waitbutton><hr>Son zamanlarda yanlış yolda olduğumu fark<br>ettim... Hayranlarımın ne düşüneceğine öyle<br>takılmışım ki kendi müziğimi kaybetmişim!<waitbutton><hr>En önemli şeyi unutursan iyi müzik de<br>çıkmıyor!<waitbutton><hr>Kendi gerçek sesimi yeniden bulmalıyım!<br>Şef, bunu al. Teşekkürümün küçük bir<br>hatırası!<waitbutton>|
-71169|[0x9, 0x6fa, 0x100]VAY! Müziğimin başka birine böyle yardım<br>edebileceğini hiç bilmiyordum! Bu<br>İNANILMAZ!<waitbutton><hr>İşte aradığım gerçek müzik bu!<waitbutton><hr>İnsanlar kendini iyi hissetsin diye davul<br>çalmaya devam edeceğim!<waitbutton><hr>Tekrar teşekkürler, Şef! Bunu da<br>teşekkürümün bir işareti olarak al!<waitbutton>|
+71169|[0x9, 0x6fa, 0x100]VAY! Müziğimin başka birine böyle yardım<br>edebileceğini hiç bilmiyordum! Bu<br>İNANILMAZ!<waitbutton><hr>İnsanlar kendini iyi hissetsin diye davul<br>çalmaya devam edeceğim!<waitbutton><hr>Tekrar teşekkürler, Şef! Bunu da<br>teşekkürümün bir işareti olarak al!<waitbutton>|
 71171|Bu arada, senden istediğim şey ne oldu?<br>Hâlâ yapabileceğini düşünüyor musun?<waitbutton>|
 71172|Öyle mi? Tüh. Ama seni de suçlayamam,<br>Şef. Belli ki işin başından aşkın.<waitbutton>|
 71186|Buraya nasıl geldiğimi bile unuttum!<br><br><waitbutton><hr>Neyse. Çölde birkaç gün daha dolaşırsam<br>senin vahanı bulurum herhâlde... değil mi?!<waitbutton>|
 71187|...Şuna bak. Bizi hiç umursamıyor.<br>Öyle rahat çalıyor ki...<br>...Kalbime dokunuyor!<waitbutton><hr>Sanki etrafımdaki bütün kara bulutları<br>yıkayıp götürüyor. Unuttuğum şeyleri...<br>Kalbimin en derinindekileri...<waitbutton><hr>...Sanırım şimdi anladım!<br>Hey, Şef! Hadi Tomurcuk Tezgâhıma dönelim!<br><waitbutton>|
 71188|Hey! Ne oldu? Çok keyifsiz<br>görünüyorsun.<br><br><waitbutton>|
-71189|İkinize de yardım ettiğiniz için teşekkürler.<br><br><waitbutton><hr>Ne zaman dışarı çıksam Kaos canavarları<br>bana saldırıyor. Çok garip... Ne yapacağımı<br>artık bilmiyorum.<waitbutton>|
+71189|İkinizin de bana yardım ettiği için teşekkürler.<br><br><waitbutton><hr>Ne zaman dışarı çıksam Kaos canavarları<br>bana saldırıyor. Çok garip... Ne yapacağımı<br>artık bilmiyorum.<waitbutton>|
 71190|Ben de inanılmaz bir şey hissediyorum!<br>Ve kara bulutlar dağıldı!<br><waitbutton><hr>Ruhum yeni ritimlerle dolup taşıyor!<br>Geri dönüp hepsini yazmam gerek!<br>Şef, Tomurcuk Tezgâhımda görüşürüz!<waitbutton>|
 71191|Bu iş ciddi. Çaldığım şeylerin<br>bir işe yaramasını umuyorum!<br><waitbutton>|
 71192|VAY! Enerjiyle dolup taşıyorum!<br>Sakina! Davulların... inanılmaz!<br>Teşekkür ederim!<br><waitbutton><hr>Şimdi sanki her şeyi yapabilirim!<br><waitbutton>|
@@ -4017,7 +4017,7 @@
 71197|Senin için biraz meyve suyu hazırladım.<br>Umarım beğenirsin.<br><waitbutton><hr>Ben tadını çok seviyorum ama<br>beğenmezsen dökebilirsin.<br><waitbutton>|
 71198|Kötüyse bile içerim. Sonuçta benim için<br>uğraştın.<waitbutton><hr>...<br><br><waitbutton><hr>...Benim gibi biri için endişelendiğin için<br>teşekkürler.<waitbutton>|
 71199|...Lafı bile olmaz.<br><br><waitbutton>|
-71200|Hey! Ben de yukarıda korkudan tir tir<br>titrerken seni izliyordum!<waitbutton><hr>Şu yılanların hakkından geldin.<br>Teşekkür ederim!<waitbutton><hr>Onlardan kaçarken buraya tırmandım da...<br>sonra aşağı inmeye cesaret edemedim.<waitbutton>|
+71200|Hey! Ben de korkudan tir tir titrerken seni<br>izliyordum!<waitbutton><hr>Şu yılanların hakkından geldin.<br>Teşekkür ederim!<waitbutton>|
 71201|Yakınlarda bir vaha mı var? Ben de varım!<br><br><waitbutton><hr>Ama şimdi değil... kusura bakma. Şu an<br>korkudan resmen kıpırdayamıyorum...<waitbutton><hr>Biraz sakinleşince vahaya gelirim.<waitbutton>|
 71202|Yılanlar... duvarların içinde, kumun<br>içinde—<br>her yerdeler! Birisi yardım etsin...<br><waitbutton>|
 71203|Ah, sonunda geldim! Tüm yol<br>boyunca<br>ödüm patladı!<br><waitbutton>|
@@ -4026,12 +4026,12 @@
 71207|<span class="color-2"><span class="color-0">Bu </span>ipliği</span> benim için bulmasaydın<br>ne yapacağımı bilemezdim!<waitbutton><hr>Çok, çok teşekkür ederim! Gerçekten,<br>kalbimin en derininden.<waitbutton>|
 71208|Vay... Bu çölde böyle sulu <span class="color-2">sebzeler</span><br>bulabileceğimi hiç düşünmezdim.<waitbutton><hr>Bu vaha harika, değil mi?!<br><br><waitbutton>|
 71213|Hım... Şöyle taze sebzelerden yesem<br>fena olmazdı.<br>Ama... Bu vahada <span class="color-2">manav</span> yok.<waitbutton>|
-71216|Şey... <playername>? Sana bir şey danışmak<br>istiyorum... Lütfen burada yaşamama izin ver!<waitbutton><hr>Dostluğumuz tek bir iplikle başladı... Biraz<br>büyük laf gibi geliyor, biliyorum.<waitbutton><hr>Atkı ustası olmaya karar verdim! Bunu<br>senin vahanda yapmak istiyorum,<br><playername>!<waitbutton>|
-71217|Hiç su ruhu görmedim ama<br>utangaç olurlar, değil mi?<br><waitbutton><hr>Bu kadar gizemli bir varlığın utangaç olması<br>nedense bana çok sevimli geliyor.<br><waitbutton>|
+71216|Şey... <playername>? Sana bir şey danışmak<br>istiyorum...<waitbutton><hr>Lütfen burada yaşamama izin ver!<waitbutton><br><hr>Atkı ustası olmaya karar verdim! Bunu<br>senin vahanda yapmak istiyorum,<br><playername>!<waitbutton>|
+71217|Daha önce hiç su ruhu görmedim.<br>Ama utangaç olurlar, değil mi?<br><waitbutton>|
 71218|Benim ailem nesillerdir atkı ustasıdır.<br>Atkı yapma konusunda benden daha<br>tutkulu kimse yoktur!<waitbutton>|
 71219|Hâlâ biraz uykulu görünüyorsun. Kafan<br>hâlâ uyanmadıysa en iyisi geri yat.<waitbutton>|
 71220|Güneş üstüne vurunca, sanki bedeninin<br>içinde bir şey bir anda vızıldamaya başlar<br>ya, bilir misin?<waitbutton><hr>En azından ben öyle hissediyorum.<br>Acaba herkesin bedeni güneş ışığına<br>aynı şekilde mi tepki veriyor?<waitbutton>|
-71221|Yıldızlara bakmak nedense bana memleketimi hatırlatıyor...<br><waitbutton>|
+71221|Yıldızlar gece ne kadar net görünüyor,<br>değil mi? Vay... Çocukluğuma götürdü beni.<br><waitbutton>|
 71222|Dünkü malzeme teslimatı için<br>teşekkürler.<br>Bunu alışkanlık hâline getirsen bile<br>olur!<waitbutton>|
 71223|Arada sırada sonuçlarını düşünmeden dewadem harcamak eğlenceli olabiliyor...<br><waitbutton>|
 71224|Çok istediğim bir şey için dewadem<br>biriktirdim ama...<br>öyle kafama göre harcamak<br>aslında israf gibi geliyor.<waitbutton>|
@@ -4066,11 +4066,11 @@
 71257|Atkılarımın böyle<br>satıldığını görmek beni çok<br>mutlu ediyor!<br>Yuppii!<br><waitbutton>|
 71258|Bir şeylerin hızla satılması harika ama sonra stokları yetiştirmek ayrı bir yarışa dönüşüyor!<br><waitbutton>|
 71259|Üzgünüm! Stoklarım tamamen tükendi! Ne getirebilirsen hemen alırım!<br><waitbutton>|
-71265|[0x9, 0x721, 0x100]Köpekbalıkobra derisini getirdin!<br><br><waitbutton><hr>Az önce bahsettiğim arkadaşım, çölde<br>bayıldığımda beni kurtarmıştı.<br><waitbutton><hr>Bir süre birlikte yol aldık ama çok geçmeden<br>yollarımız ayrıldı. O zamandan beri de<br>ondan haber alamadım.<br><waitbutton><hr>Bir gün yeniden karşılaşırsak ona bu deriden<br>yaptığım atkıyı vermek istiyorum...<br><waitbutton><hr>Ama önce sana teşekkür etmeliyim. Al, bu senin.<br><waitbutton>|
+71265|[0x9, 0x721, 0x100]Köpekbalıkobra derisini getirdin!<br><br><waitbutton><hr>Az önce bahsettiğim arkadaşım, çölde<br>bayıldığımda beni kurtarmıştı.<br><waitbutton><hr>Bir süre birlikte yol aldık ama çok geçmeden<br>yollarımız ayrıldı. O zamandan beri de<br>ondan haber alamadım.<br><waitbutton><hr>Ona kendi yaptığım atkıyı vermek<br>istiyorum... Ama önce sana teşekkür<br>etmeliyim. Al, bu senin.<waitbutton>|
 71267|[0x9, 0x721, 0x100]Yıldız Parçası'nı bulduğumuza sevindim.<br>Ama henüz bize hiçbir şey söylemedi.<br><waitbutton><hr>Yine de iyi bir ipucu. Bir süre bizde<br>kalsın; daha ayrıntılı incelemeliyiz.<br><waitbutton><hr>Bugünkü yardımın için teşekkürler.<br>Ödül olarak lütfen bunu al.<br><waitbutton>|
 71269|Onunla yeniden karşılaşabildiğime sevindim, <playername>.<waitbutton><hr>Aynı yıldızlı gökyüzünün altında bir yerlerde olduğunu bilmek beni biraz daha az üzgün hissettiriyor...<waitbutton><hr>Ben de burada elimden gelenin en iyisini yapacağım; o dostumdan geri kalmak istemem. Hehe...<waitbutton><hr>Her şey için teşekkürler. Lütfen bunu ödül olarak kabul et.<waitbutton>|
 71271|Evet? Bir sorun mu var?<br><br><waitbutton>|
-71272|O zaman bunu başka zamana bırakalım.<br><waitbutton>|
+71272|Peki... Bu konuyu kapatalım.<br><waitbutton>|
 71281|[0x9, 0x723, 0x100]Yeniden karşılaştığımıza sevindim, <playername>!<br>Atkın biraz sökülmüş gibi!<waitbutton><hr>Onu onarmak isterim ama buraya gelirken<br>ipliğimi kaybettim...<waitbutton><hr>Sanırım çölün iç kesimlerindeki tepenin<br>dibindeki mağarayı keşfederken bir küpün<br>içine düşürdüm.<waitbutton>|
 71282|[0x9, 0x724, 0x100]Atkının sökülmesi seni rahatsız ediyor,<br>değil mi?<waitbutton><hr>Onarmayı çok isterim ama değerli ipliğimi<br>harabelerde bir yerde kaybettim.<waitbutton><hr>Çölün iç kesimlerindeki tepenin dibindeki<br>mağarayı keşfederken bir küpün içine<br>düşürmüş olabilirim.<waitbutton>|
 71283|[0x9, 0x723, 0x100]Hmm... şu <span class="color-2">Kullanılmış İplik</span>! Evet!<br>Hiç şüphe yok, bu benimki!<waitbutton><hr>Atkındaki şu söküğe bir bakayım...<br>Çocuk oyuncağı... İşte! Bitti!<waitbutton><hr>Benim için bulduğun için teşekkürler.<br>Ödül olarak lütfen bunu al.<waitbutton>|
@@ -4112,7 +4112,7 @@
 71333|Bence bir peçe hem iyi hem de güzel<br>görünmüyorsa<br>paçavradan farkı yok.<waitbutton>|
 71334|Peçelerim üzerinde çok çalışmalıyım ki ağabeyim yan gelip yattığımı sanmasın!<br><waitbutton>|
 71335|Ağabeyim hep fazla endişelenirdi. Ben artık çocuk değilim, biliyorsun!<waitbutton><hr>Hey, <playername>! Lütfen onun söylediklerini unut, olur mu?<waitbutton>|
-71336|Ağabeyim yanımda olmasa da tek başıma gayet iyi idare ederim!<waitbutton><hr>Ama sen ayrısın, <playername>. Sana her zaman güvenebilirim, değil mi?<waitbutton>|
+71336|Ağabeyim yanımda olmasa da tek başıma gayet iyi idare ederim!<waitbutton><hr>Yine de sana güvenebilirim, değil mi, <playername>?<waitbutton>|
 71340|Unutulmuş Orman'daki bitkiler sağlam<br>malzeme olur... Ama doğru işlenmezse<br>tamamen kuruyup giderler!<waitbutton>|
 71341|Büyük Wakuto Kanyonu'ndaki Denemeler<br>Tapınağı<br>biraz romantik değil mi sence?<br><waitbutton>|
 71345|Şu ürkütücü bitkilere bakınca<br>tüylerim diken diken oluyor!<br><waitbutton>|
@@ -4140,10 +4140,10 @@
 71383|[0x9, 0x74a, 0x100]Yok artık! Bu bir Ters Tüy mü?! Gerçekten onu alabilir miyim?<waitbutton><hr>Teşekkür ederim, <playername>! Bununla gerçekten harika bir peçe yapacağım!<waitbutton><hr>Derler ki bu tüy romantik ilişkilerde işe yarar! Benim pek işime yaramaz belki ama başkasının yarar!<waitbutton><hr>Al, bunu da teşekkür hatırası olarak kabul et!<waitbutton>|
 71387|Tavusbazili bir tüy düşürdü.<waitbutton><hr>Diğer tüylerden farklı olarak bunun deseni baş aşağı. Naama'nın bahsettiği tüy bu mu acaba?<waitbutton>|
 71389|Abi!<br><br><waitbutton>|
-71390|Oh! Demek sen <playername>'sin, ha? Naama mektuplarında senden epey bahsetmiş. Sana çok değer verdiği belli.<waitbutton><hr>Kız kardeşime göz kulak olduğun için sağ ol. Umarım sana fazla yük olmamıştır.<waitbutton>|
+71390|Oh! Demek sen <playername>'sin, ha? Naama mektuplarında senden epey bahsetmiş. Sana çok değer verdiği belli.<waitbutton>|
 71391|Abi, yapma! Utandırıyorsun beni!<br>Artık çocuk değilim!<br><waitbutton>|
-71392|Ha! Naama'yı ben tanırım; biraz şımarıktır.<br><playername> vaha şefi, işini fazla<br>aksatma, tamam mı?<br><waitbutton><hr>Neyse, ben artık memlekete dönmeliyim.<br>Naama, kendine iyi bak!<br><waitbutton>|
-71393|Of, beni merak etme! Kendi başımın çaresine bakarım. Ama seni görmek güzeldi!<waitbutton>|
+71392|Pekâlâ, artık yola koyulmalıyım.<br>Memleketime dönmem gerek.<br>Naama, kendine iyi bak!<waitbutton>|
+71393|Merak etme! Seni görmek güzeldi!<waitbutton>|
 71395|Hey, Naama. Nasıl gidiyor?<br><br><waitbutton>|
 71396|Harika gidiyor! Değil mi, <playername>?<br><waitbutton>|
 71398|Vay canına, <playername>! Gerçekten<br>çok güçlüsün!<br><waitbutton><hr>Artık elimde çok güzel malzeme var;<br>bir duvak yapıp ağabeyime gönderebilirim!<br><waitbutton><hr>Bu şimdiye kadarki en iyi işim olacak!<br>Eminim çok şaşıracak!<br><waitbutton>|
@@ -4172,7 +4172,7 @@
 71434|Bilirsin, eskiden geceleri uyumayı dört gözle<br>beklerdim. Ama artık uykularım kabuslarla dolu.<waitbutton><hr>*iç çeker* Umarım bu gece hiç rüya görmem...<waitbutton>|
 71435|Acaba anılarım bir gün geri gelir mi...<br>Gelse bile, mutlu anılar mı olurdu?<waitbutton>|
 71436|Anılarımı kovalamak yerine yeni anılar biriktirmeye odaklanmaya karar verdim.<waitbutton><hr>Bu vaha bunun için mükemmel.<waitbutton>|
-71441|Büyük Wakuto Kanyonu'ndaki Denemeler Tapınağı var ya...<waitbutton><hr>Belki o sınavı geçersem anılarım geri gelir.<waitbutton>|
+71441|Büyük Wakuto Kanyonu’ndaki Denemeler<br>Tapınağı var ya... Belki o sınavı geçersem<br>anılarım geri gelir.<waitbutton>|
 71445|Şu bitkiler... Ne bunlar?<br>Korkunçlar, evet... ama bir yandan da<br>çok hüzünlü duruyorlar.<waitbutton>|
 71446|Hoş geldin! Bu leziz kokunun peşinden mi geldin?<waitbutton>|
 71447|Bazıları bitti ama hâlâ<br>lezzetli şeylerim var.<waitbutton>|
@@ -4181,7 +4181,7 @@
 71450|[0x9, 0x6d6, 0x100]Şef, ben... Bir rüya gördüm.<waitbutton><hr>Rüyamda, <span class="color-2">Cesaret Mağarası</span>'nın derinlerinde siyah bir taş gördüm. Bunun anılarımla bir ilgisi varmış gibi hissediyorum.<waitbutton><hr>Bunu öğrenmek için mağaraya girmekten başka çarem yok. Benimle gelir misin?<waitbutton>|
 71451|[0x9, 0x6d6, 0x100]Şef, bana saldıran <span class="color-1">Kaos Fidanı</span><br>hakkında rüyalar görmeye başladım.<br><waitbutton><hr>Belki onu yenmek beynimde bir şeyleri<br>tetikler ve kayıp anılarımın kilidini açar.<waitbutton><hr>Rüyalarıma bakılırsa canavarın Kalari Orman<br>Denizi'ndeki <span class="color-2">Yarasa Yuvası</span>'nda olduğunu<br>düşünüyorum.<waitbutton><hr>Lütfen, Şef! Bana bir kez daha yardım<br>eder misin?<waitbutton>|
 71452|Hey Şef. Seninle konuşmam gereken bir şey<br>var.<br>Bir saniyeliğine dışarı çıkar mısın?<waitbutton>|
-71453|Oh Şef... Beni kontrol etmeye mi<br>geldin?<br>Merak etme. İyiyim.<waitbutton>|
+71453|Oh, Şef... Hâlimi sormaya mı geldin?<br>Merak etme. İyiyim.<waitbutton>|
 71454|Teslimat için teşekkürler.<br>Çok düşüncelisin.<waitbutton>|
 71455|Tam da malzemeler bitmek<br>üzereydi.<br>İyi oldu. Sağ ol.<waitbutton>|
 71456|Bugün teslimat getireceğini hissetmiştim. Teşekkürler. Şimdi mangalı yakma zamanı.<waitbutton>|
@@ -4191,7 +4191,7 @@
 71465|[0x9, 0x6d3, 0x100]Benimle geldiğin için teşekkürler, Şef.<waitbutton><hr>Bunu daha önce de söylemiştim ama hafızamı kaybettim. Biraz klişe geliyor, biliyorum; ama hayat bazen böyle acımasız.<waitbutton><hr>Her neyse, rüyalarımda sürekli bir Kaos canavarı beliriyor ama uyanıkken onunla hiç karşılaştığımı hatırlamıyorum.<waitbutton><hr>Bu yüzden rüyamdaki Suçlu Yumurta ile dövüşürsem kayıp anılarımdan bazıları geri gelir diye düşündüm. Hiç işe yaramadı.<waitbutton><hr>Seni de buna bulaştırdığım için özür dilerim. Bunun senin görevin olmadığını biliyorum. Belki bu telafi eder.<waitbutton>|
 71467|[0x9, 0x6d6, 0x100]Birden eve dönmek istediğim için özür<br>dilerim.<br><br><waitbutton><hr>Sadece... bir şey hatırladım. Anılarımı<br>kaybettiğim zamana dair bir şey.<br><waitbutton><hr>Bu siyah taş... Siyah kristal... Bana saldıran<br>şey onu elinde tutuyordu.<br><waitbutton><hr>Özür dilerim, Şef. Şu an söylediklerim sana<br>saçma geliyor olabilir... Biraz düşünmem<br>gerek. Al bunu.<waitbutton>|
 71471|Hey, Şef. Nasıl gidiyor?<br>Çok çalışıyor gibisin...<br><waitbutton>|
-71472|Oh, sorun değil. Sonra<br>konuşuruz.<br><br><waitbutton>|
+71472|Sorun değil. Bekleyebilir.<br><waitbutton>|
 71481|[0x9, 0x6d6, 0x100]*iç çeker* Çölde tek başıma mangal yapıyordum ve ızgaranın altına sermek için tüm <span class="color-2">Gümüş Kum</span>umu harcadım.<waitbutton><hr>Daha fazla kum almak için ta <span class="color-2">Fırtına Yolu</span>'na kadar gitmem gerekecek.<waitbutton>|
 71482|[0x9, 0x6d6, 0x100]Bu kötü oldu. Tekrar barbekü yapabilmek<br>için daha fazla <span class="color-2">Gümüş Kum</span> bulmam<br>gerekecek.<waitbutton><hr>Üff... Bir de almak için <span class="color-2">Fırtına Yolu</span>'na<br>gitmem lazım. Keşke biri çıkıp bana biraz<br>verse de uğraşmasam.<waitbutton>|
 71483|[0x9, 0x6d5, 0x100]Bu... bu <span class="color-2">Gümüş Kum</span> mu?!<br>Yoksa benim için mi getirdin?<br><waitbutton><hr>Teşekkürler! Birinin yardım etmesi ne güzel.<br>Hiç alışık değilim de.<br><waitbutton><hr>Dur bir dakika... Sana bir şey vermek<br>istiyorum. Al, bunu kabul et.<br><waitbutton>|
@@ -4234,7 +4234,7 @@
 71530|Şey... <span class="color-2">Kidung Geçidi</span>'nde cadı gibi gülen bir Drauk vardı.<waitbutton><hr>Onu duyunca çığlık atıp kaçtım ama bu tarafa doğru gidiyordu sanki. Umarım ortaya çıkmaz.<waitbutton>|
 71531|B... bir festival mi? Tamam... Yapabilirim. Sadece en iyi müşteri gülümsememi takınmam gerek.<waitbutton>|
 71533|Biz bebek ustaları sadece bebek<br>yapmayız.<br>Hasarlı bebekleri de tamir<br>ederiz.<waitbutton>|
-71534|Bazen bebekler çizik içinde geliyor... Onların da bizim gibi acı çektiğini düşünüyorum.<waitbutton><hr>Ama bebekler “ah” diyemiyor. İşte bu yüzden devreye girip onlara yardım etmem gerektiğini hissediyorum.<waitbutton>|
+71534|Bebekler çizilince, tıpkı bizim gibi acı çektiklerinden eminim...<waitbutton><hr>Ama bebekler “ah” diyemiyor. İşte bu yüzden devreye girip onlara yardım etmem gerektiğini hissediyorum.<waitbutton>|
 71535|Şef, o bebek şimdi çok iyi durumda. Günlük ihtiyaçlarının karşılandığından emin oluyorum.<waitbutton><hr>Onu bir daha asla ihmalkâr ellere düşürmeyeceğime söz verdim.<waitbutton>|
 71536|İnsanlar zayıf... hayat da zor. Bazen tek başlarına yeniden ayağa kalkamazlar.<waitbutton><hr>Ama onların yeniden ayağa kalkmasına yardım etmek için elimden geleni yapıyorum. İşte bu yüzden bebek yapıyorum.<waitbutton>|
 71540|Bazen bebek yaparken öyle bir kaptırıyorum ki bir bakıyorum sabah olmuş.<waitbutton><hr>Sevdiğin şeyi yapınca zaman gerçekten çok hızlı geçiyor, değil mi?<waitbutton>|
@@ -4249,7 +4249,7 @@
 71552|Şey... Şef? Ben... şey... seninle konuşmak istediğim bir şey var. Dışarı çıkabilir miyiz?<waitbutton>|
 71553|Puf... Ben de bebek yapmayı zor sanırdım!<br><waitbutton>|
 71554|Aaaah! Teslimat için teşekkürler!<br>Mümkün olduğunca çok çalışacağım!<waitbutton>|
-71555|Te-teşekkürler! Sevimli bebek modellerimden birinin stoğu tamamen tükenmişti!<waitbutton>|
+71555|Te-teşekkürler! En sevdiğim bebeklerden birinin stoğu tamamen tükenmişti!<waitbutton>|
 71556|Aaah... Teşekkürler!<br>Beni unuttun diye<br>endişelenmiştim...<waitbutton>|
 71557|Ben... elimden geldiğince çok bebeğe<br>iyi bir yuva bulmaya çalışacağım!<waitbutton>|
 71558|Bir dahaki sefere Tomurcuk Tezgâhımın yakınından geçersen biraz malzeme bırakabilirsen harika olur.<waitbutton>|
@@ -4260,15 +4260,15 @@
 71571|Affedersin, Şef.<br>İsteğim hakkında...<waitbutton>|
 71572|Peki... Mantıksız bir şey<br>istediğim için özür<br>dilerim...<br><waitbutton>|
 71586|...Vaha... Bir vaha... İçeride ne kadar çok<br>insan vardır kim bilir...<br><waitbutton><hr>Ah... Çok gerildim... Ama kararımı verdim.<br>Bunu yapabilirim!<br><waitbutton>|
-71587|Üf, resmen delilikti! Buraya gelebilmek<br>için bir sürü Kaos canavarından kaçtım!<waitbutton><hr>Demek sonunda bebeği tamir ettin?<br>Tam zamanında. Biraz stres atmam lazım!<waitbutton>|
-71588|S-stres atmak mı?!<br>Bu bebeğe ne yapmayı düşünüyorsun?!<waitbutton>|
-71589|Ne yapacağım belli değil mi?<br>Oyuncak bebekler bunun için var!<waitbutton><hr>Niye öyle dehşete düşmüş gibi bakıyorsun?<br>Hadi, bebeğimi geri ver.<waitbutton>|
+71587|Üf, resmen delilikti! Buraya gelebilmek<br>için bir sürü Kaos canavarından kaçtım!<waitbutton><hr>Demek sonunda bebeği tamir ettin?<br>Tam zamanında. Diğer oyuncaklarımdan sıkılmaya başlamıştım.<waitbutton>|
+71588|D-diğer oyuncaklar mı?!<br>Bu bebek senin için sadece bir oyuncak mı?<waitbutton>|
+71589|Şey... evet. O bir bebek.<br><br><waitbutton><hr>Her neyse... Teşekkürler.<br>Artık bebeğimi alayım.<waitbutton>|
 71590|H-hayır! Bu küçüğü sana geri vermiyorum!<waitbutton>|
 71591|Ne?! O benim bebeğim!<br>Geri ver!<waitbutton>|
 71592|Onu hak etmiyorsun!<br>Hadi gidelim, Şef.<waitbutton>|
 71594|Ah... Benim tatlı küçük bebeğim...<waitbutton>|
 71595|Dinle. Gerçekten özür dilerim—<waitbutton>|
-71596|Hayır... Haklısın. *hıçkırık* Ben... çok özür dilerim.<waitbutton><hr>Kızınca hep bebeklerimden çıkarıyorum... Ama onların bunu hak etmediğini biliyorum.<waitbutton><hr>Söz veriyorum, değişeceğim... Ben sadece... bebeğimi çok özledim...<waitbutton>|
+71596|Hayır... Haklısın. *hıçkırık*<waitbutton><hr>Ben... çok özür dilerim. Kızınca hep bunu<br>bebeklerimden çıkarıyorum. Ama onların<br>bunu hak etmediğini biliyorum.<waitbutton><hr>Söz veriyorum, değişeceğim... Sadece...<br>bebeğimi çok özledim...<waitbutton>|
 71597|Ben de özür dilerim. İyi misin diye sana ulaşmalıydım.<waitbutton><hr>Onu sana geri vereceğim. Lütfen ona iyi bak.<waitbutton><hr>Ve bir daha ona kötü davranırsan onu sana tekrar geri vermem. Tamam mı?<waitbutton>|
 71598|Teşekkür ederim.<br><br><waitbutton><hr>Bundan sonra bu bebeğe bir<br>hazine gibi davranacağım.<waitbutton>|
 71599|Teşekkürler, Şef. Ben sensiz ne yapardım bilmiyorum.<waitbutton><hr>Kaybettiğim dünlerin peşinden koşmak yerine, vaha ailemle birlikte bana verilen yarınlara sarılacağım.<waitbutton>|
@@ -4290,7 +4290,7 @@
 71627|Hihi... Nasılsın?<br>Bugün her zamanki gibi çok<br>güzelim!<waitbutton>|
 71628|Nasılsın?<br>Bugün neredeyse benim kadar<br>sıcak!<waitbutton>|
 71629|İyi akşamlar.<br>Akşam yürüyüşüne çıktım.<waitbutton>|
-71630|Ah evet. Yakınlarda gördüğüm bir Fidandan bahsedeyim.<waitbutton><hr><span class="color-2">Sultan Festivali</span>'ni bekliyormuş; bu festival yalnızca <span class="color-2">efsanevi büyüklükte bir vahada</span> yapılabiliyormuş.<waitbutton>|
+71630|Ah evet. Yakınlarda gördüğüm bir Fidandan bahsedeyim.<waitbutton><hr><span class="color-2">Sultan Festivali</span>'ni bekliyormuş; bu festival yalnızca <span class="color-2">efsanevi büyüklükte bir vahada</span> yapılabiliyormuş. O yüzden dönüp gitmiş.<waitbutton>|
 71631|Festival mi var? Festivallere bayılırım. Umarım vaha iyice süslenir!<waitbutton>|
 71633|Acaba bugün tüm halılarımı satabilir miyim...<waitbutton>|
 71634|Farah'la aynı halıyı satıyorum<br>diye bana “taklitçi” dedi.<br><br><waitbutton><hr>Ne kaba! Ama o halıyı satmamın sebebi,<br>zevkine saygı duymam!<waitbutton>|
@@ -4434,18 +4434,18 @@
 71858|Görüşürüz! Hiç acelesi yok ama bir<br>teslimat gerçekten çok işime yarar.<br><waitbutton>|
 71859|Malımın kalmaması heyecandan çok<br>baş belası. Bana biraz malzeme<br>getirebilir misin?<waitbutton>|
 71865|[0x9, 0x714, 0x100]Benim için Büyülü Papirüs getirdin!<br>Çok sağ ol!<br><waitbutton><hr>Bir süre önce bir Kaos canavarı bana<br>lanet koydu.<br><waitbutton><hr>Laneti bozmak için onu yenmem gerekiyor.<br>Ama şimdilik bu Büyülü Papirüsle<br>koruyucu bir muska yapabilirim.<waitbutton><hr>Sayende bir süre daha güvende olacağım.<br>Çok teşekkürler.<br><waitbutton>|
-71867|[0x9, 0x716, 0x100]Vay... Kendimi hafiflemiş hissediyorum.<br>Üzerimdeki büyü bozulmuş gibi.<br>Hepsi senin sayende.<waitbutton><hr>Artık kelimenin tam anlamıyla özgür biriyim.<br>Sana ne kadar teşekkür etsem az; ama<br>şununla başlayayım. Lütfen bunu kabul et.<waitbutton>|
+71867|[0x9, 0x716, 0x100]Vay... Kendimi hafiflemiş hissediyorum.<br>Üzerimdeki büyü bozulmuş gibi.<br>Hepsi senin sayende.<waitbutton><hr>Artık kelimenin tam anlamıyla özgür biriyim.<br>Sana ne kadar teşekkür etsem az.<br>Minnettarlığımın bir göstergesi olarak şunu kabul et.<waitbutton>|
 71869|[0x9, 0x714, 0x100]Pekâlâ! Vahadakilere yardım etmek için<br>muska yapmaya hazırım.<br><waitbutton><hr>Komik... Eskiden heyecan peşinde koşan<br>bir gezgindim; şimdi başkalarının iyiliğini<br>daha çok düşünüyorum...<waitbutton><hr>Sanki vahan bana başka türden bir<br>lanet koydu. Ama bu hiç de lanet sayılmaz...<waitbutton><hr>Teşekkürler, <playername>.<br>Bunu almanı istiyorum.<br><waitbutton>|
 71871|Selam, Şef. Yine heyecan peşinde misin?<br><br><waitbutton>|
 71872|Meşgulsün, ha? Yapacak bir şey yok. Tamam, sonra yine sorarım.<waitbutton>|
 71881|[0x9, 0x717, 0x100]Vahaya gelebildiğime sevindim ama gereken <span class="color-2">Gözoid Gözyaşı</span> bende yok.<waitbutton><hr>Şimdi <span class="color-2">Büyük Wakuto Kanyonu</span>'na kadar gidip <span class="color-1">Gözoid</span> avlamaya da pek hevesli değilim...<waitbutton>|
-71882|[0x9, 0x716, 0x100]Of... Ruh heykellerim için <span class="color-2">Gözoid Gözyaşı</span>'na gerçekten ihtiyacım var.<waitbutton><hr>Ama <span class="color-2">Büyük Wakuto Kanyonu</span>'na kadar gidip <span class="color-1">Gözoid</span> bulmak bile başlı başına dert... Bir de onları yenmek var!<waitbutton>|
-71883|[0x9, 0x714, 0x100]Vay! Gerçekten bana <span class="color-2">Gözoid Gözyaşı</span> getirdin mi?<waitbutton><hr>Ne kadar tatlısın! Ama bunu karşılıksız bırakamam. Buyur.<waitbutton>|
+71882|[0x9, 0x716, 0x100]Of... Aksesuar dükkânım için <span class="color-2">Gözoid Gözyaşı</span>'na gerçekten ihtiyacım var.<waitbutton><hr>Ama <span class="color-2">Büyük Wakuto Kanyonu</span>'na kadar gidip <span class="color-1">Gözoid</span> bulmak bile başlı başına dert... Bir de onları yenmek var!<waitbutton>|
+71883|[0x9, 0x714, 0x100]Vay! Gerçekten bana <span class="color-2">Gözoid Gözyaşı</span> getirdin mi?<waitbutton><hr>Ne ince düşünmüşsün! Bunun karşılığını vermeden olmaz. Al bakalım.<waitbutton>|
 71887|<span class="color-1">Kıyamet Yıldızı</span>... İşte o!<br>Bana laneti koyan o!<br><waitbutton>|
 71888|Başardık! Nihayet o gün geldi...<waitbutton>|
 71889|N-ne oluyor?<br>Bedenim...!<br><br><waitbutton>|
 71890|Çok kötü görünüyorsun...<br>Neden burada tek başınasın?<br><waitbutton>|
-71891|Suyla işlenmiş pelerini...<br>kendi başıma yapmak istedim...<br>Başka çarem yoktu...<br><waitbutton>|
+71891|Büyülü su pelerinini...<br>kendi başıma yapmak istedim...<br>Başka çarem yoktu...<br><waitbutton>|
 71892|Bu düpedüz delilik.<br><br><waitbutton><hr>Bu hâlinle böyle bir şeye kalkışacak<br>durumda değilsin. Üstelik daha önce<br>hiç pelerin yapmadın!<waitbutton><hr>Aklından ne geçiyordu?!<br><br><waitbutton>|
 71893|Haklısın. Güçsüzüm ve hiç pelerin yapmadım.<br>Ama seninkilerden birini alacak kadar<br>dewademim de yok.<waitbutton><hr>Başka çarem yoktu...<br>Benim için ölüm kalım meselesi...<br><waitbutton>|
 71894|Ölüm kalım mı?<br>Ama ölürsen her şeyini kaybedersin!<br><waitbutton>|
@@ -4481,41 +4481,41 @@
 71945|Şu iğrenç, karanlık yabani otları görmek<br>nedense moralimi bozuyor. Alışveriş yapmak<br>aklımın ucundan bile geçmiyor.<waitbutton>|
 71946|Hoş geldin! Kurdelelerimin hepsi<br>%100 organik, adil ticaret sertifikalı<br>sevgiyle yapıldı!<waitbutton>|
 71947|Hoş geldin! Bazı ürünler tükendi ama lütfen acele etmeden bak!<waitbutton>|
-71948|Kusura bakma. Şu an tüm<br>kurdelelerim<br>tükendi...<br><waitbutton>|
-71949|[0x9, 0x765, 0x100]Ah, hayır Şef... Ne yapacağım ben?<waitbutton><hr>Kurdelelerim için malzemem bitti!<waitbutton><hr>Özellikle biraz <span class="color-2">Demir İplik</span>'e ihtiyacım var. Geceleyin <span class="color-2">Çöl Labirenti</span>'nde <span class="color-1">Bebileth</span>'lerden düştüğünü söylüyorlar...!<waitbutton><hr>Şef, o iplikten bulursan lütfen bana getirir misin?<waitbutton>|
-71950|[0x9, 0x765, 0x100]Şef, seni sürekli rahatsız ediyorum, kusura<br>bakma ama biri benden bir kurdeleyi tamir<br>etmemi istedi ve gereken malzeme yok.<waitbutton><hr>Tamirde kullandığım <span class="color-2">Günahkâr Taç Yaprağı</span><br>bitti.<waitbutton><hr>Lütfen Şef! <span class="color-2">Çöl Labirenti</span>'ndeki<br><span class="color-1">Kanlı Madam</span>'dan düşen <span class="color-2">Günahkâr Taç<br>Yaprağı</span>'ndan bana biraz getir.<waitbutton><hr>Labirente girmek için <span class="color-2">Kaos Levhası</span><br>kullanırsan onları bulmak daha kolay olur.<br>Bol şans.<waitbutton>|
-71951|[0x9, 0x765, 0x100]Şef, sana bahsettiğim müşteriyi hatırlıyor musun? Hani şu imkânsız siparişi veren?<waitbutton><hr>Aynı kişi geri geldi ve bu kez <span class="color-2">Büyük Wakuto Kanyonu</span>'ndaki bir Moagriff'in tüylerinden yapılmış kurdele istedi.<waitbutton><hr>Biliyorum, çok özel ve çok zor bir istek ama ben müşteri geri çevirecek biri değilim.<waitbutton><hr>Şef, benimle Büyük Wakuto Kanyonu'na gelip bir <span class="color-1">Moagriff</span> yenmemize yardım eder misin?<waitbutton>|
-71952|Şef, seninle konuşmam lazım.<br>Burada değil. Dışarı çıkabilir<br>miyiz?<br><waitbutton>|
-71953|Ekinleri yakından takip ediyorum ki<br>sağlıklı büyüsünler!<br><waitbutton>|
+71948|Kusura bakma. Şu an tüm kurdelelerim<br>tükendi...<waitbutton>|
+71949|[0x9, 0x765, 0x100]Ah, hayır Şef... Ne yapacağım?<waitbutton><hr>Kurdelelerim için malzemem bitti!<waitbutton><hr>Özellikle <span class="color-2">Demir İplik</span>'e ihtiyacım var. Gece<br><span class="color-2">Çöl Labirenti</span>'ndeki <span class="color-1">Bebileth</span>'lerden<br>düştüğünü söylüyorlar...<waitbutton><hr>Şef, bulursan bana biraz getirir misin?<waitbutton>|
+71950|[0x9, 0x765, 0x100]Şef, seni yine rahatsız ediyorum, kusura<br>bakma. Biri kurdelesini onarmamı istedi ama<br>gereken malzemem yok.<waitbutton><hr>Onarımda kullandığım <span class="color-2">Günahkâr Taç Yaprakları</span><br>tükendi.<waitbutton><hr>Lütfen <span class="color-2">Çöl Labirenti</span>'ndeki <span class="color-1">Kanlı Madam</span>'dan<br>düşenlerden biraz getir.<waitbutton><hr>Labirente <span class="color-2">Kaos Levhası</span> kullanarak girersen<br>bulman daha kolay olur. Bol şans!<waitbutton>|
+71951|[0x9, 0x765, 0x100]Şef, sana sözünü ettiğim müşteriyi<br>hatırlıyor musun? Hani şu imkânsız siparişi<br>veren?<waitbutton><hr>Aynı kişi geri geldi ve bu kez Büyük Wakuto<br>Kanyonu 'ndaki bir <span class="color-1">Moagriff</span>'in tüylerinden<br>yapılmış bir kurdele istedi.<waitbutton><hr>Biliyorum, çok özel ve zor bir istek ama<br>müşteriyi geri çeviremem.<waitbutton><hr>Benimle <span class="color-2">Büyük Wakuto Kanyonu</span>'na gelip bir<br>Moagriff'i yenmeme yardım eder misin?<waitbutton>|
+71952|Şef, seninle konuşmam lazım. Burada değil.<br>Dışarı çıkıp konuşabilir miyiz?<waitbutton>|
+71953|Ekinleri, sağlıklı büyüdüklerinden emin<br>olmak için yakından takip ediyorum!<waitbutton>|
 71954|Teşekkürler! Bu malzemelerle<br>bir sürü kurdele yapacağım!<br><waitbutton>|
-71955|Beni kurtardın! Az kalsın<br>her şeyim bitecekti!<br><waitbutton>|
-71956|Artık müşterilerimi mutlu<br>tutabilirim!<br>Bunun için sana gerçekten teşekkür<br>etmeliyim!<br><waitbutton>|
+71955|Beni kurtardın! Az kalsın elimdeki her şey<br>tükeniyordu!<waitbutton>|
+71956|Artık müşterilerimi mutlu edebilirim! Bunun<br>için sana mutlaka teşekkür etmeliyim!<waitbutton>|
 71957|Demek ki beni epey iş bekliyor!<br>Şef, bekle de gör kaç tane<br>kurdele satacağım!<waitbutton>|
-71958|Daha çok kurdele yapmak istiyorum<br>ama malzemelerin bitmesinden<br>korkmaya başladım...<waitbutton>|
-71959|Kurdelelerim tükendi. Artık kimsenin<br>yüzünü güldüremeyeceğim...<waitbutton>|
-71965|[0x9, 0x762, 0x100]Teşekkür ederim, Şef!<br>Sanırım bir süre idare ederiz.<br><br>Doğrusunu söylemek<br>gerekirse, daha önce de<br><waitbutton><hr>dükkânımdan ürün kaybolduğu<br>olmuştu...<br><br>Son zamanlarda yaşanmıyordu ama<br><waitbutton><hr>bu kadar harika bir vahada bunun olması<br>beni üzdü.<br><waitbutton><hr>Aklımda bir fikir var aslında...<br><br>Boş ver. Bunu başka bir zaman<br>konuşuruz.<br><br><waitbutton><hr>Neyse. Teşekkür ederim, Şef.<br>Umarım bunu beğenirsin...<br><waitbutton>|
-71967|[0x9, 0x762, 0x100]Teşekkürler, Şef...<br><br>Aslında kurdeleyi tamir<br>ettirmemi isteyen kişi,<br>inanır mısın, benim gibi bir<br>kurdele ustası.<br><waitbutton><hr>Kasabadaki tek kurdele dükkânı o olsun<br>istiyor,<br>bu yüzden sürekli beni işten etmeye<br>çalışıyor.<br><waitbutton><hr>Yine de bir gün onunla arkadaş<br>olabileceğimizi<br>umut ediyorum. Kurdelelere bu kadar<br>tutkulu<br><waitbutton><hr>başka kimse tanımıyorum.<br>Neyse, kafanı şişirdim. Kusura bakma.<br>Sana küçük bir şeyim var.<br><waitbutton>|
-71969|[0x9, 0x765, 0x100]Oh... Neyse, bittiğine<br>sevindim.<br>Çok yoruldum!<waitbutton><hr>Ama galiba bundan sonra<br>ciddi bir rekabetim olacak!<br><br><waitbutton><hr>Bu da demek oluyor ki dükkânımı ayakta<br>tutmak için<br>daha da çok çalışıp kendimi<br>geliştirmeliyim!<br><br><waitbutton><hr>Her şey için teşekkürler, Şef. Umarım<br>bunu<br>güzelce kullanırsın.<br><waitbutton>|
-71971|Meşgul görünüyorsun, Şef.<br>Yine de isteğim konusunda bana<br>yardım edebilir misin?<br><waitbutton>|
-71972|Anlıyorum. O zaman öyle olsun.<br>Vaktin olunca yeniden<br>konuşalım.<waitbutton>|
-71981|[0x9, 0x765, 0x100]*iç çeker* Bütün heyecanımla vahaya geldim,<br>yeteneklerimi gösterecektim ama bak başıma<br>ne geldi...<br><span class="color-2">Kırmızı Balsam</span>ı kaybettiğime inanamıyorum.<br><waitbutton><hr>Kurdelemi boyamak için ona çok ihtiyacım<br>vardı.<br><br><waitbutton><hr><span class="color-2">Kırmızı Balsam</span> yetiştiren bir<br><span class="color-2">bahçe</span><br>bulmak<br>çok zor. Ne yapacağım ben?<br><waitbutton>|
-71982|[0x9, 0x765, 0x100]*iç çeker* Şu <span class="color-2">Kırmızı Balsam</span>ı<br>kaybetmeseydim,<br>yapmak istediğim o özel kurdeleyi<br>yapabilirdim...<br>Vahada <span class="color-2">bahçe</span> olsa bile<br><waitbutton><hr>muhtemelen kırmızı balsam<br>yetişmiyordur...<waitbutton>|
-71983|[0x9, 0x762, 0x100]Ah! Bu bir <span class="color-2">Kırmızı Balsam</span>!<br>Gerçekten benim için mi<br>buldun?<waitbutton><hr>Ne kadar tatlısın! Hiç gerek<br>yoktu!<br><br><waitbutton><hr>Ama lütfen bunun karşılığında<br>bir şey al.<br>Şuna ne dersin?<br><waitbutton>|
-71988|Moagriff'in vücut tüyü...<br>Böyle bir şeyin olmadığını<br>biliyordum zaten.<waitbutton><hr>Lütfen ortaya çık. Saklanmana<br>gerek yok.<br>Burada olduğunu biliyorum.<br><waitbutton>|
+71958|Daha çok kurdele yapmak istiyorum ama<br>malzemelerimin tükenmesinden endişelenmeye<br>başladım...<waitbutton>|
+71959|Kurdelelerimin hepsi tükendi. Artık kimsenin<br>yüzünü güldüremeyeceğim...<waitbutton>|
+71965|[0x9, 0x762, 0x100]Teşekkür ederim, Şef! Sanırım bir süre idare<br>ederiz.<waitbutton><hr>Doğrusunu söylemek gerekirse, daha önce<br>dükkânımdan ürünler kaybolmuştu...<waitbutton><hr>Son zamanlarda olmuyordu ama bu harika<br>vahada yeniden yaşanması canımı sıktı.<waitbutton><hr>Aklımda bir fikir var aslında...<waitbutton><hr>Neyse, bunu başka bir zaman konuşuruz.<waitbutton><hr>Tekrar teşekkür ederim, Şef. Umarım bunu<br>beğenirsin...<waitbutton>|
+71967|[0x9, 0x762, 0x100]Teşekkürler, Şef...<waitbutton><hr>Aslında kurdeleyi onarmamı isteyen kişi,<br>inanır mısın, benim gibi bir kurdele ustası.<waitbutton><hr>Kasabadaki tek kurdele dükkânı kendisinin<br>olsun istiyor; bu yüzden sürekli beni<br>işimden etmeye çalışıyor.<waitbutton><hr>Yine de bir gün arkadaş olabileceğimizi<br>umuyorum. Kurdelelere benim kadar tutkuyla<br>bağlı başka kimse tanımıyorum.<waitbutton><hr>Neyse, çok konuştum. Sana küçük bir şeyim<br>var.<waitbutton>|
+71969|[0x9, 0x765, 0x100]Oh... Neyse, bunun bitmesine sevindim.<waitbutton><hr>Çok yoruldum! Ama bundan sonra ciddi bir<br>rekabetle karşılaşacağım galiba.<waitbutton><hr>Demek ki dükkânımı ayakta tutmak için daha<br>da çok çalışmam gerekecek!<waitbutton><hr>Her şey için teşekkürler, Şef. Umarım bunu<br>güzelce kullanırsın.<waitbutton>|
+71971|Meşgul görünüyorsun, Şef. Yine de isteğim<br>konusunda bana yardım edebilir misin?<waitbutton>|
+71972|Anlıyorum. O zaman öyle olsun. Vaktin<br>olduğunda bunu yeniden konuşalım.<waitbutton>|
+71981|[0x9, 0x765, 0x100]*iç çeker* Yeteneklerimi göstermek için<br>büyük bir heyecanla vahaya geldim ama şimdi<br>hâlime bak...<waitbutton><hr><span class="color-2">Kırmızı Balsam</span> 'ı kaybettiğime inanamıyorum.<br>Kurdelemi boyamak için ona gerçekten<br>ihtiyacım vardı.<waitbutton><hr>Kırmızı Balsam yetiştiren bir bahçe bulmak<br>zor. Ne yapacağım?<waitbutton>|
+71982|[0x9, 0x765, 0x100]*iç çeker* Şu <span class="color-2">Kırmızı Balsam</span> 'ı<br>kaybetmeseydim yapmak istediğim özel<br>kurdeleyi yapabilecektim...<waitbutton><hr>Vahada bir bahçe olsa bile orada Kırmızı<br>Balsam yetişmiyor olabilir...<waitbutton>|
+71983|[0x9, 0x762, 0x100]Ah! Bu bir <span class="color-2">Kırmızı Balsam</span>!<br>Gerçekten benim için mi buldun?<br><waitbutton><hr>Ne ince düşünmüşsün!<br>Hiç zahmet etmeseydin!<br><waitbutton><hr>Ama karşılığında sana bir şey vermeme<br>izin ver. Şunu al bakalım.<br><waitbutton>|
+71988|Moagriff'in vücut tüyleri... Böyle bir şey<br>olmadığını biliyordum.<waitbutton><hr>Lütfen ortaya çık. Saklanmana gerek yok.<br>Burada olduğunu biliyorum.<waitbutton>|
 71989|Ah... Demek biliyordun...<br><br><waitbutton>|
 71990|Evet, biliyorum.<br>En başından beri<br>biliyordum...<br><waitbutton>|
-71991|Ne?! Beni kandırmaya çalıştığımı<br>biliyordun<br>ve yine de bunca yolu geldin mi?<br><br>Hadi ama! Kendini ne sanıyorsun?<br>Hep “en olgun kişi” olmaya<br>çalışıyorsun.<br><waitbutton><hr>Bu acımasız bir iş, Magdalene!<br>Ya en iyi kurdeleler için savaşırsın,<br><waitbutton><hr>ya da unutulup gidersin!<br>Benim öyle yok olup gitmeye niyetim yok!<br><waitbutton><hr>Gerekirse tepeye çıkmak için<br>seni çiğnerim!<br>Benim kurdelelerim seninkilere karşı!<br>Bu savaş demek!<br><waitbutton>|
-71992|O zaman...<br><br><waitbutton><hr>Gerçekten inanılmaz kurdeleler yapıyor...<br><br><waitbutton><hr>Belki biraz rekabet iş için iyi olur.<br>Beni yeni fikirler üretmeye zorlar.<br><waitbutton><hr>Her şey için teşekkürler,<br><playername>. Vahaya dönünce<br>dükkânıma uğramayı unutma.<waitbutton>|
-71994|Tamam, bu duygusal saçmalık yeter.<br><br><br>Hadi, <playername>. Vahaya<br>dönelim. Sonra standıma uğra ki sana<br><waitbutton><hr>düzgünce teşekkür edeyim.<waitbutton>|
+71991|Ne?! Beni kandırmaya çalıştığını biliyordum,<br>yine de bunca yolu geldin mi?<waitbutton><hr>Hadi ama! Kendini ne sanıyorsun? Hep alttan<br>alan taraf olmaya çalışıyorsun.<waitbutton><hr>Bu acımasız bir iş, Magdalene! Ya en iyi<br>kurdeleler için savaşırsın ya da unutulup<br>gidersin!<waitbutton><hr>Ben öyle kolayca silinip gitmeyeceğim!<br>Gerekirse zirveye çıkmak için seni çiğnerim.<br>Benim kurdelelerim seninkilere karşı!<waitbutton><hr>Bu savaş demek!<waitbutton>|
+71992|O hâlde...<waitbutton><hr>Gerçekten harika kurdeleler yapıyor...<waitbutton><hr>Belki biraz rekabet işimize yarar ve beni<br>yeni şeyler üretmeye iter.<waitbutton><hr>Her şey için teşekkürler, <playername> .<br>Vahaya dönünce dükkânıma uğramayı unutma.<waitbutton>|
+71994|Tamam, bu duygusal saçmalık yeter.<waitbutton><hr>Hadi, <playername> . Vahaya dönelim.<br>Sonra sana düzgünce teşekkür edebilmem için<br>dükkânıma uğra.<waitbutton>|
 71995|Ama... O pelerine gerçekten<br>ihtiyacım var...<br>*hıçkırık*<waitbutton>|
 71996|...Aman Tanrım. Az önce daha önce hiç<br>yapmadığım bir şey yaptım.<br><waitbutton><hr>Ama... bu his de ne? İlk pelerinimi<br>sattığımdan beri kendimi bu kadar iyi<br>hissetmemiştim!<br><waitbutton><hr>Bu güzel hisle vahaya dönelim.<br>Sonra da lütfen dükkânıma uğra.<waitbutton>|
-72003|Burada bir vaha olduğunu bilmiyordum.<br>...Acaba gördüğüm ışığın kaynağı bu vaha mı?<waitbutton>|
-72004|Gel bak! Ne kadar harika<br>görünüyor!<br>Benim Tomurcuk Tezgâhım!<br><waitbutton>|
-72005|Selam. Ben Jasper, kuşaklar<br>hakkında<br>iki üç şey bilirim.<br><br>Yakın zamana kadar güneydeki<br>Bahar Tepesi'ndeydim<br><waitbutton><hr>ama kuzey gökyüzünde parlak bir ışık gördüm ve<br>bu tarafa geldim.<br>Işığa doğru yürürken<br><waitbutton><hr><span class="color-2">Enkaz Tüneli</span>'nin açıldığını<br>gördüm...<br><br><waitbutton><hr>İşte böylece buraya geldim!<waitbutton>|
+72003|Burada bir vaha olduğunu bilmiyordum...Acaba<br>gördüğüm ışığın kaynağı bu vaha mı?<waitbutton>|
+72004|Gel bak! Tomurcuk Tezgâhım ne kadar harika<br>görünüyor!<waitbutton>|
+72005|Selam. Ben Jasper; kuşak yapımından biraz<br>anlarım.<waitbutton><hr>Yakın zamana kadar güneydeki Bahar<br>Tepesi'ndeydim ama kuzey gökyüzünde parlak<br>bir ışık gördüm ve bu tarafa geldim.<waitbutton><hr>Işığa doğru yürürken Enkaz Tüneli'nin<br>açıldığını gördüm...<waitbutton><hr>İşte böylece buraya geldim!<waitbutton>|
 72006|Bu çanta hayatımın en önemli çantası.<br>Ne kadar teşekkür etsem az.<br><waitbutton>|
-72016|Bence seninle harika arkadaş olacağız!<br>Ben de bu vahada yaşamak istiyorum!<waitbutton>|
-72017|Vahanın kapısı çok gizemli bir şey.<br>Biri gelince kendi kendine açılıyor.<waitbutton><hr>Bu vaha canlı bir şey mi ve bizi izliyor mu<br>demek oluyor? Vaaaaay.<br><waitbutton>|
-72018|Bir kuşak güneşi kesemez, soğuktan da<br>korumaz. Tamamen işlevsiz bir kıyafet<br>parçası.<waitbutton><hr>Yani bir ihtiyaçtan çok kültürel bir<br>öğe gibi düşünebilirsin.<br><waitbutton>|
+72016|Bence seninle harika arkadaş olacağız!<waitbutton>|
+72017|Vahanın kapısı çok gizemli. Biri geldiğinde<br>kendi kendine açılıyor.<waitbutton><hr>Yani bu vaha canlı ve bizi mi izliyor?<br>Vaaaaay.<waitbutton>|
+72018|Kuşak güneşi kesemez, soğuktan da korumaz.<br>Tamamen işlevsiz bir giysi parçası.<waitbutton><hr>Bir ihtiyaçtan çok kültürel bir öğe sayılır.<waitbutton>|
 72019|Neden bu kadar erken ayaktayım<br>mı?<br>Bugün hoş bir hanımefendiyle<br>tanışmayı umuyorum da ondan.<waitbutton>|
 72020|Rahat takılmak kötü değil ama<br>o kuşaklar kendi kendine<br>yapılmayacak...<waitbutton>|
 72021|<playername>, geçmişte yaptığın<br>hatalar yüzünden hiç kendine<br>yükleniyor musun?<br>Ben yükleniyorum ama bunu<br>aşmaya çalışıyorum.<br>Geçmişe pişman olmaktansa<br>gelecekte<br><waitbutton><hr>kendini geliştirmeye odaklanmak daha iyi.<waitbutton>|
@@ -4525,32 +4525,32 @@
 72025|Shakuro'nun sen gelince hep ne kadar<br>şık göründüğünü fark ettin mi?<waitbutton><hr>Sanırım senden gerçekten hoşlanıyor, <playername>.<br>Seni etkilemeye çalışmasını izlemek çok eğlenceli.<waitbutton>|
 72026|<span class="color-2">Kazı</span> hobilerimden biri. Bütün gün<br>çukur kazabilirim. Hayatımı resmen<br>zenginleştiriyor.<waitbutton>|
 72027|Sabah... Ah, sabah olmuş.<br>Kusura bakma, kafam hâlâ sisli.<br><waitbutton>|
-72028|Öğle yemeğinden sonraki rehavet günün<br>en zor kısmı benim için. Uyumak istiyorum<br>ama uyumak için fazla sıcak.<waitbutton>|
+72028|Öğle yemeğinden sonraki rehavet gününen zor<br>kısmı benim için. Uyumak istiyorumama hava<br>uyumaya fazla sıcak.<waitbutton>|
 72029|*esner* İyi akşamlar.<br>Yakında yatmam lazım.<br><waitbutton>|
 72030|Bu arada, <span class="color-2">Enkaz Tüneli</span> yolunda<br>dişi bir Fidan gördüm.<waitbutton><hr>Bir tür araştırma yapıyordu sanki.<br>Bilmem. Pek benim işim değil.<waitbutton>|
 72031|Festival yaklaşıyor.<br>Umarım birkaç tatlı kız gelir.<br><waitbutton>|
-72033|Dürüst olmak gerekirse ürünlerime pek<br>güvenmiyorum.<br>Bu da gururlu bir işletmeci olmayı<br>zorlaştırıyor.<waitbutton>|
+72033|Dürüst olmak gerekirse ürünlerime<br>pekgüvenmiyorum. Bu yüzden işimin<br>sahibiolmaktan gurur duymakta zorlanıyorum.<waitbutton>|
 72034|Uzun zaman önce kuşak yapmayı severdim<br>ama artık o büyü kayboldu...<br><waitbutton>|
 72035|Olan oldu... Evet, kendime bunu diyorum ama<br>kabul etmek bambaşka bir mesele.<waitbutton>|
-72036|Güven eksikliğim diye burada sızlanmam ne<br>kadar acınası.<br>Kuşaklarım bana ihtiyaç duyuyor.<br>Onlar benim çocuklarım gibi!<waitbutton>|
-72038|Ostraka Harabeleri mi? Tatlı kız yoksa<br>orayı ne bilirim ne de umursarım.<waitbutton>|
+72036|Özgüven eksikliğim yüzünden buradasızlanıp<br>durmam ne acınası.Kuşaklarımın bana ihtiyacı<br>var.Onlar benim çocuklarım gibi!<waitbutton>|
+72038|Ostraka Harabeleri mi? Orada tatlı kızlar<br>yoksa ne bilirim ne de umursarım.<waitbutton>|
 72039|Bazılarına Serkah kızları çok çekici<br>gelir.<br>Benim tarzım değil ama.<br><waitbutton>|
 72040|Unutulmuş Orman böcek kaynıyor.<br>Düşününce bile tüylerim diken diken<br>oluyor...<waitbutton>|
 72041|Büyük Wakuto Kanyonu'ndaki dev dişliler<br>neyin nesi?<br>Antik çağda o kocaman şeyleri ne için<br>kullanmışlar?<waitbutton>|
-72045|Vay! Şu kasvetli otlara bak.<br>Emin ol o şeylerin yakınında<br>tatlı kız falan bulamazsın.<waitbutton>|
-72046|Hoş geldin! Acelen yoksa biraz daha<br>kalıp etrafa bakınsana.<br><waitbutton>|
-72047|Kuşaklara bu kadar talep olacağını<br>sanmıyordum.<br>Bazı ürünler tükendi.<br><waitbutton>|
-72048|Ürünlerimin tükeneceğini beklemiyordum!<br>Yoksa kuşaklar sonunda moda mı oldu?<br><waitbutton>|
-72049|[0x9, 0x715, 0x100]Yeni kuşaklar yapabilmem için biraz<br><span class="color-2">Yarasa Yünü</span> edinmem lazım.<waitbutton><hr>Yarasa yünü, geceleri Kalari Orman Denizi'nde<br>uçuşan <span class="color-1">Uçan Sincayarasa</span>lardan geliyor...<waitbutton><hr>Eğer bulursan bana verir misin?<br>Tabii ki karşılığında sana bir şey veririm.<waitbutton>|
-72050|[0x9, 0x717, 0x100]Sanırım yeni bir kuşak türü üzerinde<br>çalışmaya başlama vakti geldi.<waitbutton><hr>Ama önce Kalari Orman Denizi'nde bir<br><span class="color-1">Kaplanşan</span> yenip kürkünü incelemem lazım.<waitbutton><hr>Benimle gelir misin? Eğlenceli olur!<waitbutton>|
-72051|[0x9, 0x714, 0x100]Son zamanlarda kuşaklarım iyi satıyor.<br>Bu da bir işletme sahibi olarak özgüvenimi<br>gerçekten artırdı.<waitbutton><hr>Bu gidişle geçmişi geride bırakabilirim!<waitbutton><hr>Ama bunun için ürünlerimi daha da<br>geliştirmem gerekiyor.<waitbutton><hr>Tamam, sıradaki kuşak için malzeme lazım.<br>Benimle <span class="color-2">Büyük Kanyon Labirenti</span>'ne gelip<br>bir <span class="color-1">Geceısıran</span> bulur musun?<waitbutton><hr>Geceısıranları bulmak, labirente<br><span class="color-2">Kanat Levhası</span> ile girersen daha kolay<br>oluyormuş. Sana güveniyorum.<waitbutton>|
+72045|Vay! Şu kasvetli yabani otlara bak. Eminim<br>yakınlarında tatlı kız falan bulamazsın.<waitbutton>|
+72046|Hoş geldin! Acelen yoksa biraz<br>dahakalabilirsin.<waitbutton>|
+72047|Kuşaklara bu kadar talep olacağını<br>sanmıyordum. Bazı ürünlerim tükendi.<waitbutton>|
+72048|Ürünlerimin tükeneceğini beklemiyordum!<br>Yoksa kuşaklar sonunda moda mı oldu?<waitbutton>|
+72049|[0x9, 0x715, 0x100]Yeni kuşaklar yapabilmem için biraz Yarasa<br>Yünü bulmam lazım.<waitbutton><hr>Bu yün, geceleri <span class="color-2">Kalari Orman Denizi</span>'nde<br>uçuşan <span class="color-1">Uçan Sincayarasalar</span> dan düşüyor...<waitbutton><hr>Bulursan bana getirir misin? Elbette<br>karşılığında sana bir şey vereceğim.<waitbutton>|
+72050|[0x9, 0x717, 0x100]Sanırım yeni bir kuşak türü üzerinde<br>çalışmaya başlama vakti geldi.<waitbutton><hr>Ama önce <span class="color-2">Kalari Orman Denizi</span>'nde bir<br><span class="color-1">Kaplanşan</span>'ı yenip kürkünü incelemem lazım.<waitbutton><hr>Benimle gelir misin? Eğlenceli olur!<waitbutton>|
+72051|[0x9, 0x714, 0x100]Son zamanlarda kuşaklarım iyi satıyor. Bu da<br>bir işletme sahibi olarak özgüvenimi<br>gerçekten artırdı.<waitbutton><hr>Bu gidişle geçmişi geride bırakabileceğim!<waitbutton><hr>Ama bunun için ürünlerimi daha da<br>geliştirmem gerekiyor.<waitbutton><hr>Sıradaki kuşak için malzeme lazım. Benimle<br><span class="color-2">Büyük Kanyon Labirenti</span>'ne gelip bir<br><span class="color-1">Geceısıran</span> bulur musun?<waitbutton><hr>Labirente <span class="color-2">Kanat Levhası</span> kullanarak girersen<br>Geceısıranları bulmak daha kolay oluyormuş.<br>Sana güveniyorum!<waitbutton>|
 72052|Hey, <playername>. Seninle konuşmam lazım.<br>Dışarı çıkabilir miyiz?<waitbutton>|
-72053|Bahçeyi devriye gezmek mi? Çok<br>çalışkansın.<br>Ben mi? Ben rahatı severim;<br>iş bana gelsin isterim.<waitbutton>|
+72053|Bahçeyi kontrol mü ediyorsun?<br>Çokçalışkansın. Ben mi? Rahatıma bakıpişin<br>bana gelmesini beklemeyi severim.<waitbutton>|
 72054|Oo! Teslimat mı? Teşekkürler!<br>Ne düşüncelisin.<br><waitbutton>|
 72055|Oo! Teslimat için tam<br>zamanında geldin!<br>Ne kadar teşekkür etsem az!<br><waitbutton>|
-72056|Off, zordu. Bütün kuşaklarımı satıp<br>bitirdiğime inanamıyorum!<br><waitbutton>|
-72057|Dükkânım gayet iyi durumda.<br>Rahatına bak, <playername>!<waitbutton>|
-72058|Stoklar azalıyor. Vaktin olunca<br>bir teslimat iyi olur.<br><waitbutton>|
+72056|Off, çok yorucuydu. Bütün kuşaklarımın<br>satılıp tükenmesine inanamıyorum!<waitbutton>|
+72057|Dükkânımın durumu gayet iyi. Sen rahatına<br>bak, <playername> !<waitbutton>|
+72058|Stoklarım azalıyor. Fırsatın olduğunda bir<br>teslimat yapabilir misin?<waitbutton>|
 72059|Malzeme olmadan hiçbir şey<br>yapamam.<br>Lütfen! Kuşaklarımı yapmalıyım!<br><waitbutton>|
 72065|[0x9, 0x714, 0x100]Bana <span class="color-2">Yarasa Yünü</span> mü getirdin?!<br>İnanılmaz!<waitbutton><hr>Şimdi zor kısım başlıyor. İyi malzeme,<br>ustalık olmadan hiçbir şey ifade etmez.<waitbutton><hr>Tamam, odaklanmalıyım. Ama gitmeden önce<br>lütfen şunu al.<waitbutton>|
 72067|[0x9, 0x714, 0x100]Teşekkürler. Beni kurtardın.<waitbutton><hr>Kuşak neden atılmış acaba?<br>Sadece zevk meselesi miydi, yoksa kalite<br>gerçekten o kadar mı kötüydü?<waitbutton><hr>Artık bilmenin yolu yok. Hem geçmişte<br>takılı kalırsam ilerleyemem.<waitbutton><hr>Gözümü ufka dikmem gerek.<waitbutton><hr>Teşekkürler, <playername>.<br>Umarım bunu işe yarar bulursun.<waitbutton>|
@@ -4570,56 +4570,56 @@
 72094|Ah! Kusura bakma, kendimi kaybettim.<br>Kuşaklar beni çok<br>heyecanlandırıyor!<br><waitbutton>|
 72095|Sorun değil. Seni bu kadar<br>mutlu etmesi<br>beni onurlandırıyor.<br><waitbutton>|
 72096|Neyse, sadece uğrayıp selam vermek<br>istedim.<br>Görüşürüz, kuşak adam!<br><waitbutton>|
-72103|Burası... Yoksa...?<br>Evet öyle! Artık burada bir vaha<br>var!<br><waitbutton>|
+72103|Burası... Yoksa...? Evet! Artık burada bir<br>vaha var!<waitbutton>|
 72104|Yaşasın! Tomurcuk Tezgâhım tamamlandı!<br>Şimdi bol bol meyve satmak için çok<br>çalışmalıyım!<br><waitbutton>|
-72105|Senin adın <playername> mi?<waitbutton><hr>Ben Lili. Tanıştığımıza memnun oldum.<br>Bütün vahalar yok oldu sanıyordum ama belli ki<br>yanılmışım!<waitbutton><hr>Ama... burada Tomurcuk Tezgâhı yok...<br>ve sakin de yok gibi...<waitbutton>|
-72106|Hi hi!<br><playername>, çok naziksin.<br><waitbutton>|
+72105|Adın <playername> , öyle mi?<waitbutton><hr>Ben Lili. Tanıştığımıza memnun oldum. Bütün<br>vahaların yok olduğunu sanıyordum ama<br>yanılmışım!<waitbutton><hr>Yine de burada Tomurcuk Tezgâhı yok... Sakin<br>de görünmüyor...<waitbutton>|
+72106|Hi hi, <playername> ! Çok naziksin.<waitbutton>|
 72116|Senin gibi harika birinin şef olması,<br>bu vahanın parlak bir geleceği olacağına dair<br>bana güven veriyor.<waitbutton><hr>O yüzden ben de bu vahanın sakinlerinden biri<br>olmak istiyorum! Tabii kabul edersen...<waitbutton>|
-72117|<span class="color-2">Baykuenler</span> minik, sessiz ziyaretçilerdir.<br>Tomurcuk Tezgâhlarını ve dükkânlardaki<br>güzellikleri çok severler.<waitbutton><hr>Onları etrafta dolaşıp alışveriş yaparken<br>görürsen, bu vahanın iyi gittiğinin işaretidir!<waitbutton>|
-72118|Meyveye bayılırım! O yüzden<br>Tomurcuk Tezgâhım<br>tabii ki bir meyve dükkânı!<br><waitbutton>|
+72117|Baykuenler minik, sessiz ziyaretçilerdir.<br><span class="color-2">Tomurcuk Tezgâhlarını</span> ve dükkânlardaki<br>güzellikleri çok severler.<waitbutton><hr>Onları etrafta dolaşıp alışveriş yaparken<br>görmek, vahanın iyi durumda olduğunun<br>işaretidir!<waitbutton>|
+72118|Meyveye bayılırım! O yüzden Tomurcuk<br>Tezgâhım tabii ki bir meyve dükkânı!<waitbutton>|
 72119|Çölde su ve besin olmadan yaşayamazsın.<br>Sadece bir meyve bile olsa her gün<br>kahvaltı yapmayı unutma.<waitbutton>|
-72120|Sert çöl güneşi bize biraz zor<br>gelebilir<br>ama meyveler için çok önemli.<waitbutton>|
-72121|Yarını nasıl yaşarsak o olur. Böyle<br>düşününce<br>günler daha eğlenceli geçiyor.<waitbutton>|
+72120|Sert çöl güneşi bizim için biraz zorlayıcı<br>ama meyveler için çok önemli.<waitbutton>|
+72121|Yarın, onu nasıl şekillendirdiğimize bağlı.<br>Böyle düşününce günler daha eğlenceli<br>geçiyor.<waitbutton>|
 72122|Şef, dün yardımın için teşekkürler!<br>Teslimatlar her zaman hoş bir sürprizdir.<br><waitbutton>|
-72123|Dükkânlara bakmak bir şeyler istememe sebep<br>oluyor.<br>Fazla harcamamaya dikkat etmeliyim.<br><waitbutton>|
+72123|Dükkânlara göz atınca bir şeyler alasım<br>geliyor. Fazla harcamamaya dikkat etmeliyim.<waitbutton>|
 72124|Bugün alışveriş yapasım yok.<br>Uzun bir yürüyüşe çıkacağım.<br><waitbutton>|
-72125|Çöl hayatı normalde çok<br>zorludur ama bu<br>vaha hayatı harika kılıyor!<br><waitbutton>|
-72126|Ben yanındaysam <span class="color-2"><br>canavar türü Kaos yaratıklarından<br>daha az<br>hasar alırsın</span>. Güzel, değil mi?<waitbutton>|
+72125|Çöl hayatı normalde çok zorludur ama bu vaha<br>hayatı güzelleştiriyor!<waitbutton>|
+72126|Ben yanındaysam canavar türü Kaos<br>yaratıklarından daha az hasar alırsın.<br>Güzel, değil mi?<waitbutton>|
 72127|Günaydın, <playername>.<br>Harika bir gün olsun!<br><waitbutton>|
 72128|Merhaba, <playername>.<br>Devriyede misin?<br><waitbutton>|
 72129|İyi akşamlar, <span class="color-4"><playername>.</span><br>Günün güzel geçti mi?<br><waitbutton>|
 72131|Ah, <playername>! Bir festival mi<br>düzenleyeceksin? Umarım çok<br>müşteri getirir!<waitbutton>|
 72133|Meyve yemek serin kalmana ve<br>sağlıklı olmana yardım eder!<br><waitbutton>|
 72134|<playername>! Bir ara yine beraber<br>meyve avına çıkalım, olur mu?<br><waitbutton>|
-72135|Keşke başkalarına bu kadar<br>bağımlı olmasam.<br>Rahatsız ediyorsam özür<br>dilerim,<br><playername>.<waitbutton>|
-72136|Önce kendim deneyeceğim.<br>Olmazsa<br>o zaman yardım isterim.<br><waitbutton>|
-72137|Hadi! Vahayı eğlenceli ve canlı yapalım!<br>Tomurcuk Tezgâhı kurarsan gezginler onları<br>görmeye gelir!<waitbutton>|
+72135|Keşke başkalarına bu kadar bağımlı olmasam.<br>Sana yük oluyorsam özür dilerim,<br><playername> .<waitbutton>|
+72136|Önce kendim deneyeceğim. Olmazsa yardım<br>isterim.<waitbutton>|
+72137|Hadi! Vahayı eğlenceli ve canlı yapalım!<br>Tomurcuk Tezgâhları kurarsan gezginler<br>onları görmeye gelir!<waitbutton>|
 72138|Eskiden Ostraka Harabeleri'nde insanlar<br>yaşamış, değil mi?<br>Vaha olmadan nasıl yaşadılar acaba...<br><waitbutton>|
-72139|Çok eskiden Okyanus Nekropolü'nde<br>bir sürü yaratık yaşarmış.<waitbutton><hr>Acaba ne yerlerdi?<br>Kesin meyve değildir.<waitbutton>|
-72140|Acaba o zamanlar Unutulmuş Orman'da meyve<br>yetişiyor muydu?<br>Kaos olmasa orası cennet olabilirdi.<waitbutton>|
-72141|Büyük Wakuto Kanyonu'nun eskiden su ve ağaç<br>bakımından çok zengin olduğunu duydum.<waitbutton><hr>Bol bol meyve de yetişiyordur.<br>Keşke görebilseydim...<waitbutton>|
+72139|Çok eskiden Okyanus Nekropolü'nde bir sürü<br>yaratık yaşarmış.<waitbutton><hr>Acaba ne yerlerdi? Meyve yemiyorlardı<br>herhâlde.<waitbutton>|
+72140|Acaba o zamanlar Unutulmuş Orman'da meyve<br>yetişiyor muydu? Kaos olmasaydı orası cennet<br>olabilirdi.<waitbutton>|
+72141|Büyük Wakuto Kanyonu'nun eskiden su ve ağaç<br>bakımından çok zengin olduğunu duydum.<waitbutton><hr>Bol bol meyve yetişmiş olmalı. Keşke<br>görebilseydim...<waitbutton>|
 72145|Garip bitkiler görüyorum. Ne olduklarını<br>bilmiyorum ama içime hiç sinmiyorlar...<waitbutton>|
 72146|Merhaba! Lili'nin Meyve Dükkânı'na hoş geldin!<waitbutton>|
-72147|Hoş geldin! Şu an her şey stokta değil ama<br>acele etmeden bakabilirsin.<br><waitbutton>|
-72148|Şu an her şey tükendi. Kusura<br>bakma!<br><waitbutton>|
-72149|[0x9, 0x73c, 0x100]<playername>, Tomurcuk Tezgâhı için<br>yeni meyveler almayı düşünüyorum.<br>Aklımda çıtır çıtır, tatlı<br><span class="color-2">Kamelya Elması</span> var. Şu aralar çok popüler!<br><waitbutton><hr>Sadece <span class="color-2">Kidung Mağaraları</span>'nın öteki<br>tarafında, <span class="color-2">Qarr Kumulları</span>'nda yetişiyormuş.<br><waitbutton><hr>Her neyse, bir Kamelya Elması görürsen<br>benim için toplar mısın? Teşekkürler.<br><waitbutton>|
-72150|[0x9, 0x73c, 0x100]Senin sayende, <playername>,<br>dükkânım harika gidiyor!<waitbutton><hr>Ama satışları daha da artıracak bir fikrim var!<br>Dükkânımda <span class="color-2">Örgülü Kavun</span> satmak istiyorum!<waitbutton><hr>Örgülü kavun yetiştirmek için <span class="color-2">iki ya da daha<br>fazla meyve ağacı</span> gerekiyormuş. Bir de onları<br>yetiştirmeye yatkın bir bahçıvan lazımmış.<waitbutton><hr>Eğer <span class="color-2">bahçe</span>de örgülü kavun yetiştirirsen<br>benimle paylaşır mısın?<waitbutton>|
+72147|Hoş geldin! Bazı ürünler şu an stokta yok<br>ama acele etmeden bakabilirsin.<waitbutton>|
+72148|Şu an bütün ürünlerimiz tükendi. Kusura<br>bakma!<waitbutton>|
+72149|[0x9, 0x73c, 0x100]<playername> , <span class="color-2">Tomurcuk Tezgâhıma</span> yeni<br>meyveler eklemeyi düşünüyorum.<waitbutton><hr>Aklımda çıtır çıtır, tatlı <span class="color-2">Kamelya Elmaları</span><br>var.<waitbutton><hr>Şu aralar çok popülerler! Yalnızca Kidung<br>Mağaraları 'nın öte tarafında, Qarr<br>Kumulları 'nda yetiştiklerini duydum.<waitbutton><hr>Bir tane bulursan benim için toplar mısın?<br>Teşekkürler!<waitbutton>|
+72150|[0x9, 0x73c, 0x100]Senin sayende, <playername> , dükkânım<br>harika gidiyor!<waitbutton><hr>Satışları daha da artıracak bir fikrim var:<br>dükkânımda <span class="color-2">Örgülü Kavun</span> satmak istiyorum!<waitbutton><hr>Örgülü Kavun yetiştirmek için en az iki<br>meyve ağacı ve bu konuda yetenekli bir<br>bahçıvan gerekiyormuş.<waitbutton><hr>Bahçende yetiştirirsen benimle paylaşır<br>mısın?<waitbutton>|
 72151|[0x9, 0x73e, 0x100]<playername>, son zamanlarda sana fazlasıyla<br>yükleniyorum, farkındayım. Özür dilerim.<waitbutton><hr>Bundan sonra kendi başımın çaresine bakmayı<br>deneyeceğim.<waitbutton><hr>...Ama...<waitbutton><hr>Tamam, meyve yetiştirmek için gübre olarak<br>kullanacağım <span class="color-2">Sincabaykuş dışkısı</span>na gerçekten ama<br>GERÇEKTEN ihtiyacım var.<waitbutton><hr>Ama onu almak için <span class="color-2">Büyük Wakuto Kanyonu</span>'nda<br>bir <span class="color-1">Uçan Sincabaykuş</span> yenmem gerekiyor.<br>Bunu tek başıma yapamam...<waitbutton><hr>Elimden geldiğince yardımcı olacağım,<br><playername>, ama lütfen benimle gelir misin?<waitbutton>|
 72152|<playername>, seninle konuşmam lazım.<br>Dışarıda beni bekler misin?<br><waitbutton>|
 72153|Bahçe konusunda bana güvenebilirsin!<br>Ona sevgiyle çok iyi bakacağım!<waitbutton>|
-72154|Vay! Şu meyvelere bak!<br>Çok satacağım!<br><waitbutton>|
+72154|Vay! Şu meyvelere bak! Bir sürü satacağım!<waitbutton>|
 72155|Yaşasın! Teşekkürler!<br>Ürünsüz dükkân, dükkân sayılmaz!<waitbutton>|
-72156|İyi ki geldin! Satacak şeyim bitmişti ve<br>ne yapacağımı bilmiyordum. Oh be!<waitbutton>|
-72157|<playername>, lütfen herkese tatlı küçük<br>meyve dükkânımdan ve onun sevimli<br>sahibinden bahset!<waitbutton>|
-72158|Stoklarımız yeterli mi emin değilim.<br>Bir teslimat yapabilir misin?<br><waitbutton>|
-72159|Lütfen! Meyve teslimatına ihtiyacım var!<br>Meyve yoksa açık kalmanın anlamı yok!<waitbutton>|
-72165|[0x9, 0x73b, 0x100]Yaşasın! Teşekkürler! Kamelya elmaları<br>capcanlı kırmızı ve çok güzeller!<waitbutton><hr>Artık bunları sattığıma göre dükkânım<br>herkesin dilinde olacak!<waitbutton><hr>Bu da ödemen. Bunlara bayılıyorum!<waitbutton>|
-72167|Yardımın için teşekkürler.<br>İstediğim meyveyi aldım ama...<waitbutton><hr>Drauk gezginin dediği gibi.<br>Her şey için sana bel bağlıyorum.<waitbutton><hr>Ne zaman istesem yardım ettin.<br>Ben de bunu cepte sandım. Özür dilerim...<waitbutton><hr>Beni affeder misin? Bunu da gönlünü almak için<br>küçük bir hediye olarak kabul et.<waitbutton>|
-72169|[0x9, 0x73e, 0x100]Teşekkür ederim, <playername>.<br>Seninle geldiğime sevindim.<waitbutton><hr>Kendi işimi kendim yapmak çok bariz bir şeymiş<br>ama ben hep kolay yolu seçmişim.<waitbutton><hr>Teslimatlar için yine sana ihtiyacım olacak ama<br>geri kalan her şeyi artık kendi başıma yapacağım.<waitbutton><hr>Bu da teşekkürümün küçük bir işareti.<br>Her şey için çok teşekkür ederim!<waitbutton>|
+72156|İyi ki geldin! Satacak hiçbir şeyim<br>kalmamıştı; ne yapacağımı bilemiyordum. Oh<br>be!<waitbutton>|
+72157|<playername> , lütfen herkese şirin<br>meyve dükkânımdan ve sevimli sahibinden<br>bahset!<waitbutton>|
+72158|Yeterli stoğumuz kaldı mı emin değilim. Bir<br>teslimat yapabilir misin?<waitbutton>|
+72159|Lütfen! Meyve teslimatına ihtiyacım var!<br>Meyvem yoksa dükkânı açık tutmanın anlamı<br>yok!<waitbutton>|
+72165|[0x9, 0x73b, 0x100]Yaşasın! Teşekkürler! <span class="color-2">Kamelya Elmaları</span><br>capcanlı kırmızı ve çok güzel!<waitbutton><hr>Artık bunları sattığıma göre dükkânım<br>herkesin dilinde olacak!<waitbutton><hr>Ödülün burada. Bu elmaları çok seviyorum!<waitbutton>|
+72167|Yardımın için teşekkürler. İstediğim meyveyi<br>aldım ama...<waitbutton><hr>Drauk gezginin dediği gibi, her konuda sana<br>bel bağlıyordum.<waitbutton><hr>Ne zaman istesem yardım ettin; ben de bunu<br>doğal karşıladım. Özür dilerim...<waitbutton><hr>Beni affeder misin? Gönlünü almak için şunu<br>kabul et.<waitbutton>|
+72169|[0x9, 0x73e, 0x100]Teşekkür ederim, <playername> . Seninle<br>geldiğime sevindim.<waitbutton><hr>Kendi işimin sorumluluğunu almak çok doğal<br>ama ben hep kolaya kaçmışım.<waitbutton><hr>Teslimatlar için yine sana ihtiyacım olacak;<br>geri kalan her şeyi artık kendim yapacağım.<br>Bu da teşekkürümün küçük bir göstergesi.<waitbutton><hr>Her şey için çok teşekkür ederim!<waitbutton>|
 72171|Ne oldu, <playername>?<br>Ben burada takılıyorum işte.<br><waitbutton>|
 72172|Anladım... Tamam. Belki sonra<br>vaktin olunca.<br><waitbutton>|
-72181|Anladım! Burası daha yeni. O<br>yüzden henüz hiç sakin yok.<br>Vahada birlikte yaşayanlara <span class="color-2">sakinler</span> denir.<waitbutton><hr>Fidan sakinlerinin açtığı dükkânlara da<br><span class="color-2">Tomurcuk Tezgâhı</span> denir.<br><br><waitbutton><hr>Birçok gezgin sırf Tomurcuk Tezgâhları için<br>bile vahaya uğrar.<br><br><waitbutton><hr>Ben de burada yardım etmek isterdim ama<br>Tomurcuk Tezgâhında satış yapabilmek için<br>gereken <span class="color-2">malzemeler</span> bende yok.<br><waitbutton><hr>Keşke biraz <span class="color-2">Gülüzümü</span>m olsaydı...<br><br><waitbutton>|
-72182|Sence de meyve satan bir Tomurcuk Tezgâhı olsa<br>çok güzel olmaz mı?<waitbutton><hr>Lezzetli <span class="color-2">meyve</span> bulmam lazım...<waitbutton>|
+72181|Anladım! Burası daha yeni, o yüzden henüz<br>sakini yok.<waitbutton><hr>Vahada birlikte yaşayanlara sakin denir.<waitbutton><hr>Fidan sakinlerinin açtığı dükkânlara<br><span class="color-2">Tomurcuk Tezgâhı</span> denir.<waitbutton><hr>Birçok gezgin sırf Tomurcuk Tezgâhlarını<br>görmek için vahaya uğrar.<waitbutton><hr>Ben de burada yardım etmek isterdim ama<br>tezgâhta satış yapabilmek için gereken<br>malzemelerim yok.<waitbutton><hr>Keşke biraz <span class="color-2">Gülüzümüm</span> olsaydı...<waitbutton>|
+72182|Sence <span class="color-2">meyve</span> satan bir <span class="color-2">Tomurcuk Tezgâhı</span> olsa<br>güzel olmaz mı?<waitbutton><hr>Lezzetli meyve bulmam lazım...<waitbutton>|
 72183|[0x9, 0x73b, 0x100]Ne? <span class="color-2">Gülüzümleri</span>?<br>Bunları benim için mi getirdin?<waitbutton><hr>Bu harika! Teşekkür ederim!<waitbutton>|
 72187|Dikentatu bir şey düşürdü.<waitbutton><hr>İçinde bir sürü alet olan bir <span class="color-2">Kumaş<br>Çanta</span>.<br>Bu kesin Jasper'ın çantası olmalı.<waitbutton>|
 72189|[0x9, 0x73b, 0x100]Yaşasın! <span class="color-2">Örgülü Kavunlar</span>!<br>Artık dewademe<br>boğulacağım!<br><waitbutton>|
@@ -4648,7 +4648,7 @@
 72225|Oh! Sakina bu vahada yaşıyor, ha?<br>Davul çalması harika!<waitbutton><hr>Onu dinlerken yenilen donutlar<br>özellikle çok lezzetli oluyor.<waitbutton>|
 72226|Ben şifacı tiplerdenim.<br>İnsanların <span class="color-2">iyileşmesine yardım etmeyi</span> severim.<waitbutton>|
 72227|Günaydın! Sil şu uykulu ifadeyi yüzünden,<br>uykucu!<waitbutton>|
-72228|Merhaba! Böyle bir günde<br>güneşe bile taş çıkarmak lazım!<br><waitbutton>|
+72228|Merhaba! Güneş senden önce davranmasın!<br><waitbutton>|
 72229|İyi akşamlar! Gece, tatlı bir şeyle<br>rahatlamak için harika bir zaman.<br><waitbutton>|
 72230|Geçen gün sürekli sıcak hissettiği için<br><span class="color-2">dondurma</span>yı seven bir Lagora çocukla tanıştım.<waitbutton><hr>Bir de nedense <span class="color-2">kemerler</span>e acayip meraklı.<waitbutton><hr>O iki şeyi satan Tomurcuk Tezgâhları olsa<br>acaba buraya gelir miydi?<waitbutton>|
 72231|Vay—festival düzenlemek harika bir fikir!<br>Sadece düşününce bile heyecanlanıyorum!<br><waitbutton>|
@@ -4656,9 +4656,9 @@
 72234|O adam...<br>Nour şimdi nerededir acaba.<br><waitbutton>|
 72235|Bu sefer donutlarımla<br>Nour'un kalbini fethedeceğim!<br><waitbutton>|
 72236|Nour'la öteki dünyada buluşacağıma<br>inanıyorum...<br>o zamana kadar ona sadık kalacağım!<waitbutton>|
-72239|Okyanus Nekropolü'ndeki kemiklerin parıltısı<br>müthiş.<waitbutton><hr>Acaba onları Tomurcuk Tezgâhı tabelasında<br>kullanabilir miyim?<waitbutton>|
+72239|Okyanus Nekropolü'ndeki kemiklerin parıltısı<br>müthiş. Acaba bunu Tomurcuk Tezgâhı tabelasında<br>kullanabilir miyim?<waitbutton>|
 72240|Unutulmuş Orman, Lagoraların vaha kurmaya<br>çalıştığı yer değil miydi?<waitbutton><hr>Umarım insanlar bir gün orada yaşayabilir.<waitbutton>|
-72241|Denemeler Tapınağı, vahanın dışından görünen<br>o siyah sütunla bağlantılıydı, değil mi?<waitbutton><hr>Nasıl bir mekanizma acaba?<br>Gerçekten gizemli.<waitbutton>|
+72241|Denemeler Tapınağı, vahanın dışından görünen<br>o siyah sütunla bağlantılı, değil mi?<waitbutton><hr>Nasıl bir mekanizma acaba?<br>Gerçekten gizemli.<br><waitbutton>|
 72245|Ah, hayır! O ne?! Şu siyah ot.<br>Böyle bir şeyin filizlendiğini<br>görmek<br>beni çok geriyor.<waitbutton>|
 72246|Merhaba! Donut dükkânıma hoş geldin!<br>Ağzının sulanmasına hazır ol!<br><waitbutton>|
 72247|Ah! Kusura bakma! Bazı donut<br>çeşitleri<br>tükendi!<br><waitbutton>|
@@ -4667,7 +4667,7 @@
 72250|[0x9, 0x789, 0x100]Senden bir isteğim daha var!<br>Tabii ki sıradaki donutumla ilgili!<waitbutton><hr>Bu vahanın içinde yetişen buğdaya ihtiyacım var!<waitbutton><hr>Vaha <span class="color-2">bahçe</span>sinde yetişen <span class="color-2">buğday</span>dan<br>biraz getirir misin?<waitbutton>|
 72251|[0x9, 0x78c, 0x100]Hmm... Ona ne oldu acaba?<br>Sevgilim hakkında hiçbir bilgi bulamıyorum.<waitbutton><hr>En azından bir ipucu bulmak için özel dedektif<br>falan tutmak zorundayım!<waitbutton><hr>Hayallerimdeki prensin izini dedektifle sürmek<br>pek zarif olmayabilir ama umurumda değil.<waitbutton><hr><span class="color-2">Büyük Wakuto Kanyonu</span>'nda bir dedektif<br>olduğunu duydum. Benimle oraya gelir misin?<waitbutton>|
 72252|Hadi dışarı çıkıp konuşalım.<br>Sana söylemek istediğim bir şey var.<br><waitbutton>|
-72253|Bahçeyle uğraşmak düşündüğümden<br>daha heyecanlıymış, değil mi?<br><waitbutton>|
+72253|Bahçe işi gerçekten heyecanlı, değil mi?<br><br><waitbutton>|
 72254|Teşekkürler! Sen stokların dolu<br>olmasını seven birisin, değil mi?<br>...Ha? Neye gülüyorsun?<waitbutton>|
 72255|Çok teşekkür ederim!<br>Donut dükkânında donut olmalı!<waitbutton>|
 72256|Aaaah... Sen benim<br>kurtarıcımsın.<br>Artık yeniden donut<br>yapabilirim!<br><waitbutton>|
@@ -4686,20 +4686,20 @@
 72289|Yo. Buradaysan, belli ki bir kişi, yer ya da şey<br>hakkında bilgi lazım, değil mi?<waitbutton><hr>Hadi sor bana. Büyük ihtimalle zaten her şeyi<br>biliyorumdur; bilmiyorsam da öğrenirim.<waitbutton>|
 72290|Tamam, başlıyorum...<waitbutton><hr>Nour adında bir Fidan şefinin nerede olduğunu<br>biliyor musun?<waitbutton><hr>Eğer bilmiyorsan bile, en azından vahasına<br>giden yolu gösterebilir misin?<waitbutton>|
 72291|...<br>Kusura bakma, prenses.<br><br>Vaha şefi Nour kayboldu.<br>Kimse nerede olduğunu<br>bilmiyor...<br><br>Diğer soruna gelince...<br><waitbutton><hr>Nour'un vahası Kaos tarafından<br>yutuldu.<br>Artık hiçbir yerde yok.<br><waitbutton><hr>Vahası Kaos'a yenildiyse, Nour da<br>muhtemelen...<br><waitbutton><hr>şey...<waitbutton>|
-72292|...Anlıyorum.<br><br>Teşekkürler Bay Dedektif. Onu<br>anılarımda yaşatacağım ve<br>hayal gücümün kontrolü ele<br>almasına izin vermeyeceğim.<br><waitbutton><hr>Hadi eve dönelim, <playername>.<br><waitbutton><hr>Dönünce lütfen dükkânıma<br>uğra.<waitbutton>|
-72293|Dedektiflik kolay iş değil. Ama ben zaten<br>neredeyse her şeyi biliyorum,<br>bu da işimi kolaylaştırıyor.<br>İşin en zor kısmı, insanların duymaya hazır<br>olmadığı<br><waitbutton><hr>gerçekleri söylemek.<br><waitbutton>|
+72292|...Anlıyorum.<br><br><waitbutton><hr>Teşekkürler Bay Dedektif. Onu anılarımda<br>yaşatacağım ve hayal gücümün kontrolden<br>çıkmasını engellemeye çalışacağım.<waitbutton><hr>Hadi eve dönelim, <playername>.<br>Dönünce lütfen dükkânıma uğra.<waitbutton>|
+72293|Dedektiflik kolay iş değil. Ama zaten<br>neredeyse her şeyi biliyorum; bu da işimi<br>kolaylaştırıyor.<waitbutton><hr>İşin en zor kısmı, insanların duymaya<br>hazır olmadığı gerçekleri söylemek.<br><waitbutton>|
 72303|Burada bir vaha olduğunu<br>bilmiyordum...<br>Umarım Hanoch buradadır...<waitbutton>|
 72304|Vahanda bir Tomurcuk Tezgâhı işletmek üzere<br>seçilmek benim için onur.<br>Çok teşekkür ederim.<waitbutton>|
 72305|Demek bu vahada yaşıyorsun.<br>Ben Jorah.<br><br>Geçimimi şal yaparak<br>sağlıyorum.<br>Tanıştığımıza memnun oldum.<br><br>Burada bir sürü Tomurcuk Tezgâhı<br>var.<br><waitbutton><hr>Belki içlerinden biri, işime<br>yarayacak<br><waitbutton><hr>kitaplar satıyordur.<waitbutton>|
 72306|Ah, demek bir kitapçı var...<br>Belki her gün buraya gelirim.<waitbutton>|
 72307|Hanoch'un <span class="color-2">Tılsımlı Bilekliği</span>ni bulduğum için çok<br>mutluyum. Çok teşekkür ederim.<br><waitbutton>|
 72311|Keşke bu vahada bir <span class="color-2">kitapçı</span> olsaydı...<br>Kusura bakma, bencillik ediyorum.<br><waitbutton>|
-72316|Belki burada takılırsam<br>Hanoch da gelir.<br><br>Rahatsız olmazsan burada<br>kalmam uygun olur mu?<br><waitbutton><hr>Vahanın bir sakini olarak elimden geleni<br>yapacağım.<waitbutton>|
-72317|Muhtemelen memleketime<br>dönmeliyim...<br><br>Ama burası o kadar rahat ki<br>başka bir yerde<br><waitbutton><hr>yaşadığımı hayal edemiyorum.<waitbutton>|
-72318|Yeteneklerime çok güvenmesem de şallarıma<br>çok emek veriyorum.<br><br>Şallarımın hem kadınlar hem erkekler<br>tarafından<br><waitbutton><hr>giyilebilir olmasına<br>çalışıyorum.<waitbutton>|
+72316|Belki burada biraz kalırsam Hanoch da gelir.<waitbutton><hr>Rahatsız olmazsan burada kalabilir miyim? Vahanın sakini olarak elimden geleni yapacağım.<waitbutton>|
+72317|Muhtemelen memleketime dönmeliyim...<waitbutton><hr>Ama burası o kadar rahat ki başka bir yerde yaşayabileceğimi hayal bile edemiyorum.<waitbutton>|
+72318|Yeteneklerime çok güvenmesem de şal yapmaya büyük emek veriyorum.<waitbutton><hr>Şallarımı hem kadınlar hem erkekler giyebilsin diye yapmaya çalışıyorum.<waitbutton>|
 72319|Sabah çok çalışırsan akşam pestilin çıkar.<br>Lütfen dinlenmeyi unutma.<waitbutton>|
 72320|Vahada birçok farklı Tomurcuk Tezgâhı var,<br>bu yüzden havada hep çeşitli kokular oluyor.<waitbutton>|
-72321|Gerçekleşmemiş hayaller bizi daha dolu dolu yaşatır.<br><br>Derin, değil mi? Evet, gece olunca hep böyle derin<br><waitbutton><hr>şeyler söyleyesim geliyor.<waitbutton>|
+72321|Gerçekleşmemiş hayaller, hayatı dolu dolu yaşamamızı sağlar.<waitbutton><hr>Derin, değil mi? Evet, gece olunca hep böyle derin şeyler söyleyesim geliyor.<waitbutton>|
 72322|Dün malzeme teslim ettiğin için<br>yeniden teşekkür ederim. Sağ ol.<br><waitbutton>|
 72323|Bugün aldığım her şey ihtiyaçtı ama<br>ne kadar harcadığımı düşününce başım<br>ağrıyor.<waitbutton>|
 72324|Eğer kullanmaya ihtiyacın yoksa dewadem biriktirmek en iyisidir.<waitbutton>|
@@ -4720,7 +4720,7 @@
 72346|Ah, <playername>. Geldin!<br>Çok sevindim.<br><waitbutton>|
 72347|Şallarım gayet iyi satıyor.<br>Bazıları şimdiden tükendi bile.<br><waitbutton>|
 72348|Üzgünüm, bütün şallarım tükendi...<br>Şu an elimde hiçbir şey yok.<br><waitbutton>|
-72349|[0x9, 0x6e1, 0x100]Bunu birdenbire söylediğim için kusura<br>bakma ama senden bir iyilik isteyecektim.<br><waitbutton><hr>Benimle aynı yerden olan Hanoch için<br>bir şal yapmak istiyorum ama elimde<br>malzeme yok...<br><waitbutton><hr><span class="color-2">Bahar Tepesi</span>'nde <span class="color-2">kaktüs yaprakları</span><br>bulursan bana getirir misin?<waitbutton>|
+72349|[0x9, 0x6e1, 0x100]Bunu birdenbire söylediğim için kusura<br>bakma ama senden bir iyilik isteyecektim.<br><waitbutton><hr>Benimle aynı yöreden gelen Hanoch için<br>bir şal yapmak istiyorum ama elimde<br>malzeme yok...<br><waitbutton><hr><span class="color-2">Bahar Tepesi</span>'nde <span class="color-2">kaktüs yaprakları</span><br>bulursan bana getirir misin?<waitbutton>|
 72350|[0x9, 0x6e0, 0x100]Bu kez Hanoch için olmayan başka bir<br>şal yapmaya karar verdim.<br><waitbutton><hr>Ama istenen şalı yapmak için<br>Tavusbazili tüylerine ihtiyacım var.<br><waitbutton><hr><span class="color-2">Büyük Wakuto Kanyonu</span>'nda bir<br><span class="color-1">Tavusbazili</span> bulmaya benimle gelir misin?<waitbutton>|
 72351|Bu sefer başka bir müşteriden sipariş aldım.<br><waitbutton><hr>Hatalarımdan ders aldım. Bu şalı yalnızca<br>müşterimin isteğini düşünerek yapacağım.<br><waitbutton><hr>Şal hazır olduğuna göre, <span class="color-2">Bahar Tepesi</span>'ndeki<br><span class="color-2">Kaya Patikası</span>'nda bekleyen müşterime<br>teslim etmek istiyorum.<br><waitbutton><hr>Ama tek başıma gitmek biraz gözümü<br>korkutuyor. Benimle gelir misin, <playername>?<br><waitbutton>|
 72352|Bir dakikanı alabilir miyim,<br><playername>? Dışarıda konuşmamız gereken<br>bir şey var.<waitbutton>|
@@ -4731,7 +4731,7 @@
 72357|Lütfen yine gel.<br>Ziyaretlerini her zaman<br>dört gözle bekliyorum.<br><waitbutton>|
 72358|Biliyorum, yalvarmamalıyım ama...<br>lütfen stoklarımı yenilememe yardım<br>eder misin?<br><waitbutton>|
 72359|Daha fazla malzeme gelmeden<br>hiçbir şey yapamam...<br><waitbutton>|
-72365|[0x9, 0x6e0, 0x100]Çok teşekkür ederim. Artık<br>Hanoch için<br>bir şal yapabilirim.<br>Aslında şal yapmaya Hanoch<br>sayesinde başladım.<waitbutton><hr>O adam şallarını hep<br>mahvederdi, ben de<br>sürekli ona yenisini<br>yapardım.<br><br><waitbutton><hr>Onun dikkatsizliği sayesinde şimdi<br>az çok düzgün yapabiliyorum.<br><br><waitbutton><hr>Neyse. Yapacak işlerim var.<br>Yardımın için tekrar<br>teşekkürler.<br><waitbutton>|
+72365|[0x9, 0x6e0, 0x100]Çok teşekkür ederim. Artık<br>Hanoch için<br>bir şal yapabilirim.<waitbutton><hr>Aslında şal yapmaya Hanoch<br>sayesinde başladım.<waitbutton><hr>O adam şallarını hep<br>mahvederdi, ben de<br>sürekli ona yenisini<br>yapardım.<br><br><waitbutton><hr>Onun dikkatsizliği sayesinde şimdi<br>az çok düzgün yapabiliyorum.<br><br><waitbutton><hr>Neyse. Yapacak işlerim var.<br>Yardımın için tekrar<br>teşekkürler.<br><waitbutton>|
 72367|[0x9, 0x6e1, 0x100]Üzgünüm... Sana teşekkür etmek<br>için<br>bir şey vereyim. Lütfen bunu al.<br><waitbutton>|
 72369|[0x9, 0x6e0, 0x100]Bana yardım ettiğin için<br>teşekkürler.<br>Gerçekten minnettarım.<br><waitbutton><hr>Aslında tek istediğim, birini o kişinin olduğu<br>kadar<br>mutlu edecek bir şal yapabilmek.<br><waitbutton><hr>Şallarımın insanların yüzünü güldürmesini<br>istiyorum.<waitbutton><br><br><hr>Biraz zaman aldı ama sanırım artık<br>şal işine ciddiyetle odaklanma zamanı.<br><waitbutton><hr>Tüm yardımın için çok<br>minnettarım. Lütfen bunu<br>teşekkür olarak kabul et.<br><waitbutton>|
 72371|Nasıl gidiyor, <playername>?<br>Seni buraya getiren ne?<br><waitbutton>|
@@ -4773,7 +4773,7 @@
 72438|Çöldeki o kocaman kazanı biliyor musun?<br>O da ne öyle?! Şakaysa da ölçüyü bayağı<br>kaçırmışlar!<br><waitbutton>|
 72439|Okyanus Nekropolü'ndeki diğer<br>Serkahların aksine Levi oldukça anlayışlı.<br><waitbutton><hr>O yüzden onu kanatlarımın altına aldım.<br>Levi'nin başına talih kuşu kondu!<br>Gerçi benim de.<waitbutton>|
 72440|Lagoralar oyuncakları çok seviyor, değil<br>mi?<br>Yani aslında en iyi müşterilerim onlar!<waitbutton><hr>Belki uzun kulaklarını kullanan yeni bir<br>oyuncak düşünebilirim...<br><waitbutton>|
-72441|Denemeler Tapınağı'nın bulunduğu Büyük<br>Wakuto<br>Kanyonu'nun eskiden çok güzel bir yer<br>olduğunu duydum!<br>Çiçek açmış yemyeşil bir vadi... Masal gibi<br><waitbutton><hr>gelmiyor mu kulağa?<waitbutton>|
+72441|Denemeler Tapınağı'nın bulunduğu Büyük Wakuto Kanyonu'nun eskiden çok güzel bir yer olduğunu duydum!<waitbutton><hr>Çiçeklerle dolu yemyeşil bir vadi... Masal gibi gelmiyor mu kulağa?<waitbutton>|
 72445|Şu bitkilerin olayı ne?! Herkesin<br>gülümsemesini<br>gölgeliyorlar!<br><waitbutton>|
 72446|Geleceğini biliyordum! Sonuçta kimse<br>oyuncaklarımdan uzun süre uzak kalamaz!<br><waitbutton>|
 72447|Hoş geldin! Boş raflar,<br>oyuncaklarımın<br>ne kadar popüler olduğunun kanıtı!<br><waitbutton>|
@@ -4789,15 +4789,15 @@
 72457|Stoklarımı dolu tut! Harika oyuncaklar<br>üreteyim, satışlar da artsın!<br><waitbutton>|
 72458|Yakında yine gel! İleride stok yenilemeye<br>yardım etmek istersen çekinme!<waitbutton>|
 72459|Ahh! Yakında daha fazla malzeme<br>getirmezsen ben...<br>ben... ağlayacağım!<br>Yani aslında ağlamam da... yine de.<waitbutton>|
-72467|Oyuncak yapma sebebim mi? Hımm. Doğrusu,<br>bana bunu bu kadar açık soran olmamıştı...<br><waitbutton><hr><playername>, al, teşekkür olarak bunu kabul et.<br><waitbutton><hr>Ve lütfen beni bir süre yalnız bırak.<br><waitbutton>|
+72467|Oyuncak yapma sebebim mi? Hımm. Doğrusu, bana bunu bu kadar açık soran olmamıştı...<waitbutton><hr><playername>, al, teşekkür olarak bunu kabul et. Ve lütfen beni bir süre yalnız bırak.<waitbutton>|
 72469|...<playername>, sana teşekkür etmek<br>istiyorum. Lütfen bunu minnettarlığımın<br>bir göstergesi olarak kabul et!<waitbutton>|
 72471|Levi'ye bizim küçük sırrımızı<br>söyleme!<br>Anlaştık mı?!<br><waitbutton>|
 72472|Hayır mı? O zaman öyle olsun.<br>Sonra yine sorarım!<br><waitbutton>|
-72487|Bunu izle, Levi!<br><br><waitbutton><hr>Şunu şöyle yap, bunu böyle yap... Burayı<br>tut ve şunu yap... Gördün mü!<br><waitbutton><hr>Ee?! Muhteşem bir oyuncak değil mi?!<br><waitbutton><hr>Gerçekten deha olduğumu düşünüyorsundur, ha?!<br><waitbutton>|
+72487|Bunu izle, Levi!<br><br><waitbutton><hr>Şunu şöyle yap, bunu böyle yap... Burayı tut ve şunu yap... Gördün mü!<waitbutton><hr>Ee?! Muhteşem bir oyuncak değil mi?! Beni dahi sanıyorsundur, ha?!<waitbutton>|
 72488|Vay... gerçekten<br>etkileyici... Ama ben buna<br>ihtiyaç duymuyorum.<br><waitbutton>|
 72489|[0x9, 0x757, 0x100]Neden olmasın?! Az önce sen söyledin,<br>muhteşem diye!<br>Hem ben yaptım! Al şunu!<br><waitbutton>|
 72490|Özür dilerim, Şef <playername>.<br>Mariah'nın bu bencil işinde ona eşlik<br>ettiğin için teşekkür ederim.<waitbutton>|
-72491|Hey! Beni mi görmezden geliyorsun?!<br>Hem kime bencil diyorsun sen, bayım?!<br><waitbutton><hr>Boş ver! Zaten bu oyuncağı sana<br>vermeyeceğim, Levi!<br><waitbutton><hr>Seni ta buraya kadar sürüklediğim için<br>kusura bakma, <playername>.<br><waitbutton><hr>Umarım bu telafi eder.<waitbutton>|
+72491|Hey! Beni mi görmezden geliyorsun?! Hem kime bencil diyorsun sen, bayım?!<waitbutton><hr>Boş ver! Zaten bu oyuncağı sana vermeyeceğim, Levi!<waitbutton><hr>Seni ta buraya kadar sürüklediğim için kusura bakma, <playername>. Umarım bu telafi eder.<waitbutton>|
 72492|Tamam! Epey Geyikçekirge yendik,<br>değil mi?<br><waitbutton><hr>Ve böylece epey malzeme topladık!<br>Şimdi hadi vahaya geri dönelim!<waitbutton>|
 72493|Mariah Hanım, Şef<br><playername>'i yine mi peşinize taktınız?<br><waitbutton>|
 72494|Yok yok, boş ver onu. Neyse, sana şunu<br>söylemek istedim: Tomurcuk Tezgâhı<br>satışlarında zirveyi gözüme kestirdim!<waitbutton>|
@@ -4805,7 +4805,7 @@
 72496|Ne demek istiyorsun?! Oyuncak yapma sebebim...<br><br><waitbutton><hr>Şey... yani sebebi... sebebi...<br><br><waitbutton>|
 72497|Neden oyuncak yaptığını bile bilmiyorsan,<br>belki de yapmayı bırakman en iyisidir.<br><waitbutton><hr>Şef <playername>, özür dilerim.<br>Müsaadenle.<br><waitbutton>|
 72500|Hoppala! Demek benden başka biri de sonunda<br>buranın güzelliğini fark etti!<br><waitbutton>|
-72501|Neyse. O zaman en yüce güzelliği bulmak<br>için başka yerlerde aramaya devam edeceğim.<br><waitbutton><hr>Oooh, Qarr Kumulları'ndaki şu vaha ne olacak?<br><waitbutton><hr>Orada yeni bir güzellik bulacağıma dair<br>içimde bir his var!<waitbutton>|
+72501|Neyse. O zaman en yüce güzelliği başka yerlerde aramaya devam edeceğim.<waitbutton><hr>Oooh, Qarr Kumulları'ndaki şu vaha ne olacak? Orada yeni bir güzellik bulacağıma dair içimde bir his var!<waitbutton>|
 72503|Çölde açan o yuvarlak gökkuşağı çiçeği...<br>Mükemmel. Bu vaha çok güzel!<waitbutton>|
 72504|Hâlâ küçük ama şimdilik yeter! Bir gün onu<br>kocaman bir çiçek gibi büyütmene yardım<br>edeceğim!<waitbutton>|
 72505|Vay, yine sen!<br><br><waitbutton><hr>Demek buranın şefi sensin, ha?<br>Bilmeliydim. Ne kadar da güzel bir kader!<br><waitbutton><hr>Benim adım Nyter. Ya da daha kolaysa<br>bana dünyanın en yakışıklı kemer ustası<br>diyebilirsin.<waitbutton>|
@@ -4850,9 +4850,9 @@
 72557|Herkes şık kemerlerimden bir tane alırsa,<br>bu vaha güzellikle taşar!<waitbutton>|
 72558|Kemer stoklarım azalıyor... hımm.<br>Yakında bir malzeme teslimatı olursa<br>çok minnettar olurum.<waitbutton>|
 72559|Tertemiz ama boş raflarda<br>güzellik yoktur. O yüzden teslimatını<br>sabırsızlıkla bekliyorum!<waitbutton>|
-72565|[0x9, 0x709, 0x100]Bu malzemeyle bir kemer yapabilirsem,<br>hayatımın en iyi işi olur, eminim!<br>Satamayacak kadar iyi bile olabilir. Belki de<br><waitbutton><hr>dükkânın duvarına sergileyip asarım!<br><br><playername>, sana ne kadar teşekkür etsem az!<br><waitbutton><hr>Al, bu da teşekkür nişanem!<br><waitbutton>|
-72567|O kemeri geri alabildiğimize sevindim.<br>Ne yaramaz biriydi öyle!<br><waitbutton><hr>Bundan sonra şaheserlerimi dükkânda<br>sergilemeyeceğim. Kilit altında tutup<br>gizlice kendim hayran olurum artık!<br><waitbutton><hr><playername>, yardımın için teşekkürler.<br>Bu da küçük bir teşekkür hediyesi.<br><waitbutton>|
-72569|Teşekkür ederim, <playername>. Çok<br>şey öğrendim.<br><br>Güzel şeylerin, başkalarıyla<br>paylaşıldığında<br>daha değerli olduğunu fark<br>ettim.<br><br><waitbutton><hr>Dürüst olmak gerekirse, o kemerden<br>ayrılmak<br>bana zor geldi... ama bu da ticaretin ve<br>ders<br><waitbutton><hr>almanın bedeli!<br>Şimdi bu beni daha da güzel bir kemer yapmaya<br>zorlayacak!<br><br><waitbutton><hr><playername>, bunca zahmetin için teşekkürler.<br>Bunu da almanı istiyorum.<br><waitbutton>|
+72565|[0x9, 0x709, 0x100]Bu malzemeyle bir kemer yapabilirsem, hayatımın en iyi işi olur, eminim!<waitbutton><hr>Hatta satmaya kıyamayacak kadar güzel olabilir. Belki de dükkânın duvarında sergilerim!<waitbutton><hr><playername>, sana ne kadar teşekkür etsem az! Al, bu da teşekkür nişanem!<waitbutton>|
+72567|O kemeri geri alabildiğimize sevindim. Ne yaramazlık etti ama!<waitbutton><hr><playername>, yardımın için teşekkür ederim. Bu da küçük bir teşekkür hediyesi.<waitbutton>|
+72569|Teşekkür ederim, <playername>. Çok şey öğrendim.<waitbutton><hr>Güzel şeylerin, başkalarıyla paylaşıldığında daha değerli olduğunu fark ettim.<waitbutton><hr>Dürüst olmak gerekirse, o kemerden ayrılmak bana zor geldi... Ama ticaret yapmanın ve ders çıkarmanın bedeli bu!<waitbutton><hr>Şimdi bu, daha da güzel bir kemer yapmam için beni teşvik edecek!<waitbutton><hr><playername>, bunca zahmetin için teşekkürler. Bunu almanı istiyorum.<waitbutton>|
 72571|Nasıl gidiyor? Konuştuğumuz<br>şu işte bir ilerleme var mı?<br><waitbutton>|
 72572|Bu kötü oldu işte.<br>Sonra yine sorarım.<br><waitbutton>|
 72581|[0x9, 0x707, 0x100]Güzel bir kemer ister misin?<br><waitbutton><hr>Elbette istersin! Sana bir tane yapacağım!<waitbutton><hr>Ama önce benim için biraz malzeme<br>bulman gerek.<waitbutton><hr><span class="color-2">Kalari Orman Denizi</span>'ne gidip bir<br><span class="color-2">Timsah Pençesi</span> getirirsen işe koyulabiliriz!<waitbutton><hr>Bu arada Timsahiguana yalnızca gündüz<br>ortaya çıkar. Bunu unutma.<br><waitbutton>|
@@ -4867,8 +4867,8 @@
 72593|Mükemmel! Bu diş çok benzersiz!<br>Bununla<br>harika bir kemer yapabilirim!<br><waitbutton>|
 72594|Bak! İşte orada! Dükkânımda o kemere<br>bakan kişi bu!<br><waitbutton><hr>Hey! Kemerimi geri ver!<br><br><waitbutton>|
 72595|Ben... ben çok özür dilerim!<br>Çok güzeldi!<br>Kendimi tutamadım.<br><waitbutton>|
-72596|“Çok güzel olduğu için dayanamadın,” öyle mi?<br>Ah, teşekkür ederim!<waitbutton><hr>...Bir dakika, ben ne diyorum?<br>Baştan alalım!<waitbutton><hr>Güzel olması onu çalabileceğin<br>anlamına gelmez!<waitbutton><hr>Sizin gibiler yüzünden artık kemerleri<br>dükkânımda sergileyemiyorum!<waitbutton>|
-72597|Ne? O güzel kemerleri artık dükkânda bile<br>göremeyecek miyim?...<br><br><waitbutton><hr>Ç-çok özür dilerim! Bir daha asla<br>çalmayacağım, söz!<br><br><waitbutton>|
+72596|Ah... Teşekkür ederim.<waitbutton><hr>Bir dakika! Bu, onu çalmanın uygun olduğu anlamına gelmez!<waitbutton><hr>Sizin gibiler yüzünden artık kemerlerimi dükkânımın duvarında sergileyemiyorum!<waitbutton>|
+72597|Çok özür dilerim! Bir daha asla çalmayacağım!<waitbutton>|
 72598|Özür için artık çok geç, <playername>!<br>Hadi vahaya dönelim!<br><waitbutton>|
 72599|Merhaba. Şey, sen... kemer ustası mısın?<br><br><waitbutton><hr>Benden bir şey mi istiyorsun?<br><br><waitbutton>|
 72603|Acaba burası benim gibi<br>huzursuz bir<br>gezgini kabul eder mi...<br><waitbutton>|
@@ -4919,14 +4919,14 @@
 72671|Söyle bakalım, <playername>. Rica ettiğim iş<br>sorunsuz ilerliyor mu?<waitbutton>|
 72672|Anladım. O hâlde başka bir<br>zaman sorarım.<br><waitbutton>|
 72681|[0x9, 0x772, 0x100]Çok açım!<br><br><waitbutton><hr>Kabalığım için affet ama yanında<br>biraz <span class="color-2">kurutulmuş kaktüs</span> var mı?<br><waitbutton><hr><span class="color-2">Yuvarlandiken Yolu</span>'ndaki bir çömlekten<br>biraz bulmuştum ama hepsini yedim bile.<waitbutton><hr>Eğer sende varsa çok minnettar olurum!<br><br><waitbutton>|
-72682|[0x9, 0x772, 0x100]Tekrar sormaktan utanıyorum ama bana<br>biraz <span class="color-2">kurutulmuş kaktüs</span> getirir misin?<br><waitbutton><hr>Kurutulmuş kaktüsü, <span class="color-2">Kalari Orman Denizi</span>'ni<br>geçtikten sonraki <span class="color-2">Yuvarlandiken Yolu</span>'ndaki<br>çömleklerde bulabilirsin.<br><waitbutton><hr>Getirirsen çok sevinirim!<waitbutton>|
-72683|[0x9, 0x76f, 0x100]Aaa... teşekkür ederim!<br>Kurutulmuş kaktüs harika bir atıştırmalık olur.<br><waitbutton><hr>O kadar güzel ki bazen kendimi tutamayıp<br>bir oturuşta hepsini bitiriyorum...<br><waitbutton><hr>Neyse, bu sefer önce sana teşekkür edeyim.<br>Lütfen bunu al.<br><waitbutton>|
+72682|[0x9, 0x772, 0x100]Tekrar sormaktan utanıyorum ama bana biraz <span class="color-2">kurutulmuş kaktüs</span> getirir misin?<waitbutton><hr>Kurutulmuş kaktüsü, <span class="color-2">Kalari Orman Denizi</span>'ni geçtikten sonraki <span class="color-2">Yuvarlandiken Yolu</span>'ndaki çömleklerde bulabilirsin. Getirirsen çok sevinirim!<waitbutton>|
+72683|[0x9, 0x76f, 0x100]Aaa... teşekkür ederim! Kurutulmuş kaktüs harika bir atıştırmalık.<waitbutton><hr>Sana teşekkür etmeliyim. Lütfen bunu kabul et.<waitbutton>|
 72687|Hmmm? İki Fidan, ha?<br>Benden bir şey mi istiyorsun?<br><waitbutton>|
 72688|Ben Nubit. Amacım, yiyerek vücudumu<br>geliştirmek.<waitbutton><hr>Ama bu özel hazırlanmış atıştırmalıkları<br>yiyorum da hiçbir şey olmuyor...<br><waitbutton><hr>Sen çok güçlü bir savaşçısın! Güç<br>kazanmak için bir tavsiyen var mı?<br><waitbutton>|
 72689|Ne saçma sapan sözler.<waitbutton><hr>Güç, sadece disiplinli,<br>odaklı ve sürekli<br>antrenmanla kazanılır.<br><br><waitbutton><hr>Atıştırmalık yiyerek kolay yoldan<br>güçlenmeye çalışman<br><waitbutton><hr>hakarettir! Utan! Bu saçmalık beni<br>öfkelendiriyor!<br>Hemen gitmeliyim.<br><br><waitbutton>|
 72690|Sana verecek bir şeyim var. Al.<br>Bunu kabul etmeni istiyorum.<br><waitbutton>|
 72691|Kemer... çaldığım kemer mi?<br>Ama neden? Anlamıyorum...<br><waitbutton>|
-72692|Ona ne kadar bakarsam, o kadar<br>az keyif almaya başladım.<br>Güzellik bakanın gözündedir.<br>Senin sayende bunun bende<br>kalmaması gerektiğini<br>anladım.<waitbutton><hr>Sen onu daha çok seviyorsun.<br><waitbutton><hr>O yüzden kemer sende kalsın, teşekkür<br>nişanesi olarak.<br><br>Ama! Bir daha ASLA çalmayacaksın.<br>Anlaşıldı mı?!<br><waitbutton>|
+72692|Ona ne kadar uzun bakarsam, ondan aldığım keyif o kadar azaldı.<waitbutton><hr>Güzellik bakanın gözündedir. Senin sayende onu kendime saklamamam gerektiğini anladım. Sen onu benden daha çok seviyorsun.<waitbutton><hr>O yüzden teşekkür nişanesi olarak kemer sende kalsın.<waitbutton><hr>Ama bir daha ASLA çalmayacaksın. Anlaşıldı mı?!<waitbutton>|
 72693|Evet! Söz veriyorum! Bir daha asla<br>çalmayacağım!<br><br><waitbutton><hr>Her şey için çok özür dilerim! Kemer için de<br>çok teşekkürler. Ona çok iyi bakacağım—söz!<waitbutton>|
 72694|Bu doğru değil. Mariah Hanım, sen çoğu<br>zaman başkalarını düşünüyorsun.<br><waitbutton><hr>O oyuncağı benim için yaptın, değil mi?<br><br><waitbutton><hr>Teşekkürler. Çok sevimli. Bu... bu bir<br>balon mu? Balon, değil mi?<br><waitbutton>|
 72695|[0x9, 0x756, 0x100]Bu, sana benzesin diye yaptığım bir bebek!<br><br><waitbutton><hr>Ne diyorsun? Bu benim şaheserim!<br>Tıpkı sana benziyor; özellikle de o yuvarlak<br>kısımları, değil mi?<waitbutton>|
@@ -4953,7 +4953,7 @@
 72722|<playername>! Dün malzemelerimi<br>yenilediğin için<br>teşekkürler! Bana çok<br>yardımcı oldun!<waitbutton>|
 72723|Bak şöyle... Dewadem harcayınca bu<br>vahanın ekonomisi de canlanıyor!<br><waitbutton><hr>O yüzden alışveriş çılgınlığına çıkmamın<br>hiç utanılacak yanı yok!<waitbutton>|
 72724|Bugün alışveriş dürtümü dizginledim!<br><br><waitbutton>|
-72725|Sana hayran olan biri var mı?<br>Onların yanında ezik yanını göstermek zor<br>oluyor,<br>değil mi?<waitbutton>|
+72725|Sana hayran olan biri var mı?<br>Onların yanında beceriksiz yanını göstermek zor<br>oluyor,<br>değil mi?<waitbutton>|
 72726|Beni vahadan dışarı çıkarır mısın?<br><span class="color-2">Ekipteki herkesi aynı anda iyileştiririm</span>!<br><waitbutton>|
 72727|Yo, <playername>! Sabah oldu!<br>Sabah geldi! Sabah sabah,<br>sabah kokusuna bayılıyorum!<waitbutton>|
 72728|Öğlen oldu, <playername>!<br>Öğle yemeğini yedin mi?<br><waitbutton>|
@@ -4987,27 +4987,27 @@
 72772|Anladım... Hazır hissedince<br>tekrar sorarım.<br><waitbutton>|
 72781|[0x9, 0x6fd, 0x100]Hey, birdenbire rahatsız ettiğim için kusura<br>bakma ama yanında Prizma İpliği var mı?<br><waitbutton><hr><span class="color-1">Tavusbazililerin</span> onu Büyük Wakuto<br>Kanyonu'nda, Sarmal Çukur'un ötesinde<br>düşürdüğü söyleniyor.<waitbutton><hr>Biraz Prizma İpliğim olursa Tomurcuk<br>Tezgâhıma yaraşır bir omuz şalı yapabilirim!<br><waitbutton>|
 72782|[0x9, 0x6fd, 0x100]Sarmal Çukur'un ötesinde, Büyük Wakuto<br>Kanyonu'nda efsanevi <span class="color-1">Tavusbazili</span> yaşar.<waitbutton><hr>Ondan biraz <span class="color-2">Prizma İpliği</span> alabilirsem<br>müthiş bir omuz şalı yapabilirim!<br><waitbutton>|
-72783|[0x9, 0x6fc, 0x100]Oh! O prizma ipliği mi?!<br><br>Onu sadece benim için mi aldın?<br>Çok naziksin!<br><br><waitbutton><hr>Çok teşekkür ederim! Çok mutluyum! Al,<br>bunu da teşekkür olarak kabul et!<br><waitbutton>|
+72783|[0x9, 0x6fc, 0x100]Oh! Bu Prizma İpliği mi?!<waitbutton><hr>Gerçekten benim için mi aldın? Çok naziksin!<waitbutton><hr>Çok teşekkür ederim! Çok mutluyum! Al, bunu da teşekkür olarak kabul et!<waitbutton>|
 72787|Hrm. Yendik ama kemiklerinden gerçekten<br>omuz şalı yapabilir miyim emin değilim...<br><waitbutton><hr>Ha? Jorah? Burada ne yapıyorsun?<br><waitbutton>|
 72788|Ee... şey... Belki <playername>'e<br>baş belası oluyorsundur diye endişelendim.<br>Çok endişelendim işte...<waitbutton>|
 72789|<playername>, Hanoch ve ben<br>aynı bölgede büyüdük.<br><waitbutton> <hr>Hanoch benden büyük olduğu<br>için hep<br>bana göz kulak olmaya çalışır.<br><waitbutton><hr>Hanoch biraz sakardır ve bazen düşünmeden<br>iş yapar ama çok nazik ve<br>cömerttir.<waitbutton><hr>Onu izlemek bile moralimi<br>yükseltir. O<br>hep bir nevi idolüm olmuştur.<br><waitbutton>|
-72790|Jorah! Ne kadar tatlısın! Bu<br>beni<br>çok mutlu etti! Oh... SEN!<br><br>Küçük tiradının ilk yarısı<br>biraz “eh”ti ama<br>genel olarak oldukça<br>dokunaklıydı!<br><waitbutton><hr>Malzeme için hiç fikir bulamıyordum ama<br>Jorah, senin sayende moralim yükseldi!<br><br><waitbutton><hr><playername> ve Jorah, hadi<br>geri dönelim! Sonra dükkânıma uğra!<br><waitbutton>|
-72791|Tamamdır! Biraz Kadim Kabuk olursa<br>gelmiş geçmiş en iyi omuz şalını yaparım!<waitbutton><hr>Bununla bütün çölün en büyük şal ustası<br>olmamın önünde hiçbir şey duramaz!<waitbutton>|
+72790|Jorah! Ne kadar tatlısın! Bu beni çok mutlu etti! Oh... SEN!<waitbutton><hr>Küçük tiradının ilk yarısı biraz “eh”ti ama genel olarak oldukça dokunaklıydı!<waitbutton><hr>Malzeme için hiç fikir bulamıyordum ama Jorah, senin sayende moralim yükseldi!<waitbutton><hr><playername> ve Jorah, hadi geri dönelim! Sonra dükkânıma uğra!<waitbutton>|
+72791|Tamamdır! Biraz Kadim Kabuk bulursam gelmiş geçmiş en iyi omuz şalını yapabilirim!<waitbutton>|
 72792|Hanoch, yine mi <playername>'den<br>yardım istiyorsun, o gözü kara<br>işlerinden<br>biri için?<waitbutton>|
 72793|Ne?! Ben asla gözü kara değilim!<br><playername> ve benim birlikte yapamayacağımız<br>hiçbir şey yok! Tek bir şey bile!<waitbutton>|
 72794|Biliyorum, her şeye balıklama atlamayı<br>seviyorsun ama...<waitbutton><hr>Lütfen kendini belaya sokmamaya dikkat et.<br>Sana bir şey olursa... buna dayanamam.<waitbutton><hr>Unutma, omuz şalların eşsiz çünkü onları<br>sen yapıyorsun; başkası sana “en iyisin”<br>dediği için değil.<waitbutton><hr>Lütfen kendin ol. Benim tanıdığım ve sevdiğim<br>Hanoch gibi, omuz şallarını özgürce yap!<br><waitbutton>|
-72795|Ah, Jorah...<br><br>Belki de fazla hava atmaya<br>çalışıyordum...<br>Özellikle senin yanında...<br><br><waitbutton><hr>Çok utanıyorum. Tabii ki kendim olmalıyım.<br><br>Bunu duymak içimi rahatlattı!<br><waitbutton><hr>Çok teşekkür ederim, Jorah!<br><waitbutton>|
+72795|Ah, Jorah...<waitbutton><hr>Belki de fazla hava atmaya çalışıyordum... Özellikle senin yanında...<waitbutton><hr>Çok utanıyorum. Tabii ki kendim olmalıyım.<waitbutton><hr>Bunu duymak içimi rahatlattı! Çok teşekkür ederim, Jorah!<waitbutton>|
 72796|Ben çok... çok özür dilerim...<br><br><waitbutton>|
 72797|Ne güzel bir kemer! Çok mutluyum!<br>Yerleşimde herkese göstermek için<br>sabırsızlanıyorum!<br><waitbutton>|
-72798|[0x9, 0x6e3, 0x100]*iç çeker* O müşterinin dediği her şey<br>doğru. Bir şal ustası olarak başarısız<br>oldum... O şalı yaparken aklım hep<br>Hanoch'taydı.<waitbutton><hr><br>Bir şal yaparken müşteriden başka<br>kimseye odaklanmamalıyım.<br><br><waitbutton><hr>Dükkâna geri dönüyorum.<br>Bütün bunlar için özür dilerim.<br><waitbutton>|
+72798|[0x9, 0x6e3, 0x100]*iç çeker* Müşterinin söylediği her şey doğru. Bir şal ustası olarak başarısız oldum...<waitbutton><hr>O şalı yaparken aklım hep Hanoch'taydı.<waitbutton><hr>Şal yaparken müşteriden başka kimseye odaklanmamalıyım.<waitbutton><hr>Dükkâna geri dönüyorum. Bütün bunlar için özür dilerim.<waitbutton>|
 72799|Mariah Hanım? Lütfen bana<br>açıkça söyle—<br>benim hakkımda ne<br>düşünüyorsun?<br><waitbutton>|
 72800|Beni kurtarmaya geldin!<waitbutton><hr>Madenciliğe o kadar dalmıştım<br>ki tavanın<br>birden çökmeye başladığını<br>fark etmedim...<br><waitbutton><hr>Kum o kadar ağırdı ki kıpırdayamadım.<br>Burada fosil olacağım sandım!<br><waitbutton><hr>Sen kimsin, nereden geldin bilmiyorum ama<br>çok teşekkür ederim!<br><waitbutton>|
 72801|Demek bir vahanın şefisin, ha?!<br><br><waitbutton><hr>İnanılmaz! Bu çölde yeniden bir vaha<br>canlandığını duymak şaşırtıcı.<waitbutton><hr>Ben de bir gün bir vaha bulursam kendi<br>Tomurcuk Tezgâhımı açmayı hep istemiştim.<waitbutton><hr>Artık senin vahana gelebileceğimi biliyorum.<br>Yakında orada görüşürüz!<waitbutton>|
-72802|Birisi...<br><br>Lütfen... birisi yardım<br>etsin...<br><br><waitbutton>|
+72802|Birisi...<waitbutton><hr>Lütfen... birisi yardım etsin...<waitbutton>|
 72803|Aman... burası olmalı! Şef <playername>'in<br>vahası olmalı...<br><waitbutton>|
 72804|Tamamdır! Şimdi tüm hünerimi<br>battaniyelere yansıtma zamanı.<waitbutton>|
 72805|Merhaba, Şef <playername>. Ben Sasha.<br>O mağarada bana yardım<br>etmiştin!<br>Hatırladın mı?<waitbutton>|
-72806|Çiftboynuz Mağarası'ndaki<br>yardımın için<br>tekrar teşekkür etmek<br>istiyorum.<br><br>Sağ salim yaşıyor olmam<br>tamamen<br>senin sayende, Şef <playername>.<br><waitbutton>|
+72806|Çiftboynuz Mağarası'ndaki yardımın için sana tekrar teşekkür etmek istiyorum.<waitbutton><hr>Sağ salim olmam tamamen senin sayende, Şef <playername>.<waitbutton>|
 72816|Sanırım tanışmamız bu kadardı!<br><br><waitbutton><hr>Şef <playername>, sanırım bu vahada<br>yaşamak istiyorum.<waitbutton><hr>Sonuçta senin gibi iyi bir şef varken,<br>günlerim çok rahat geçer!<waitbutton>|
 72817|Her vahada bir pınar olması çok güzel.<br>Bizim için gerekli bir<br>nem kaynağı bu.<waitbutton>|
 72818|Battaniye dikmekte uzmanım.<br>İnanılmaz yumuşak ve lüks olurlar.<br>Övünmek gibi olmasın.<waitbutton>|
@@ -5036,9 +5036,9 @@
 72846|Hoş geldin! Sana nasıl yardımcı olabilirim?<br><br><waitbutton>|
 72847|Oh, tam zamanında. Zaten senden<br>biraz daha malzeme<br>isteyecektim!<br><waitbutton>|
 72848|Oh, sonunda geldin. Dükkânım<br>kupkuru,<br>bom boş. Yardım et!<br><waitbutton>|
-72849|[0x9, 0x77c, 0x100]Şef <playername>, senden<br>büyük bir iyilik isteyeceğim.<br><br>Genç ve havalı hissetmeme<br>yardım etsin diye<br><waitbutton><hr>fazlasıyla gösterişli battaniyeler<br>yapmayı düşünüyorum.<br>Bana biraz <span class="color-2">Örümcek İpliği</span> getirir misin?<br><waitbutton><hr>Bunu senden isteyebilir<br>miyim?<br><waitbutton>|
-72850|[0x9, 0x77f, 0x100]Ah canım, bu iş biraz karıştı.<br>Şef <playername>, bir dakika<br>içimi dökebilir miyim?<br>Diyelim ki... belli bir<br>gezginin isteğiyle<br><waitbutton><hr>gösterişli süslemeli bir battaniye<br>diktim...<br>O gezginin şu an <span class="color-2">Kidung Mağaraları</span>'nda<br><waitbutton><hr> olduğunu duydum, yani teslim<br>etmem gerek.<br><br>Ama yani... dışarısı tehlikeli,<br>değil mi?<br><waitbutton><hr>O yüzden bana eşlik eder misin diye<br>sormak istedim.<waitbutton>|
-72851|Şef <playername>, geçen günkü gezgini<br>hatırlıyor musun?<br><br>O gezgine, malzemeyi en iyi<br>şekilde kullanan<br>basit bir battaniye vermek<br>istiyorum.<br><waitbutton><hr>Ama kafamdaki malzemeler <span class="color-2">Qarr<br>Kumulları</span>'ndaki<br><waitbutton><hr><span class="color-1">Kaplankedi</span>'lerden çıkıyor...<br><br>Onları tek başıma yenmem mümkün değil.<br>Bana yardım eder misin,<br><waitbutton><hr>Şef <playername>?<waitbutton>|
+72849|[0x9, 0x77c, 0x100]Şef <playername>, senden büyük bir iyilik isteyeceğim.<waitbutton><hr>Genç ve havalı hissetmeme yardımcı olacak gösterişli battaniyeler dikmeyi düşünüyorum.<waitbutton><hr>Bana biraz <span class="color-2">Örümcek İpliği</span> getirebilir misin? Bunu senden isteyebilir miyim?<waitbutton>|
+72850|[0x9, 0x77f, 0x100]Ah canım, bu iş biraz karıştı. Şef <playername>, bir dakika içimi dökebilir miyim?<waitbutton><hr>Diyelim ki... belli bir gezginin isteğiyle gösterişli süslemeleri olan bir battaniye diktim...<waitbutton><hr>Gezgin şu an <span class="color-2">Kidung Mağaraları</span>'ndaymış; battaniyeyi teslim etmem gerek.<waitbutton><hr>Ama dışarısı tehlikeli, değil mi? Bana eşlik eder misin?<waitbutton>|
+72851|Şef <playername>, geçen günkü gezgini hatırlıyor musun?<waitbutton><hr>O gezgine, elimdeki malzemeleri en iyi şekilde değerlendiren sade bir battaniye vermek istiyorum.<waitbutton><hr>Ama kafamdaki malzemeler <span class="color-2">Qarr Kumulları</span>'ndaki <span class="color-1">Kaplankediler</span>'den çıkıyor...<waitbutton><hr>Onları tek başıma yenemem. Bana yardım eder misin, Şef <playername>?<waitbutton>|
 72852|Şef <playername>, seninle bir şey<br>konuşmak istiyorum. Dışarıda<br>beni<br>bekleyebilir misin?<waitbutton>|
 72853|Bahçede güneş özellikle güçlü.<br>Merak etme, ürünlerine çok iyi bakıyorum!<waitbutton>|
 72854|Oh, ne güzel. Stoklarım da yeniden canlandı.<br><waitbutton>|
@@ -5048,24 +5048,24 @@
 72858|Stoğum azalıyor. Vaktin olunca bana<br>daha fazla malzeme getirmeni<br>isteyebilir miyim?<waitbutton>|
 72859|Raflarıma koyacak hiçbir şey kalmadı.<br>Bu büyük bir sorun. Bana biraz daha<br>malzeme getirir misin?<waitbutton>|
 72865|[0x9, 0x77d, 0x100]Vay! Teşekkürler! Bununla gerçekten<br>gösterişli bir battaniye yapabilirim!<waitbutton><hr>Ben bol şatafatlı battaniyeleri severim.<br>Ama kızım bunu hiç anlayamazdı...<waitbutton><hr>Ah, sana bir kızım olduğundan bahsetmiş miydim?<waitbutton><hr>O gösterişli şeylerden nefret eder.<br>Bu yüzden sürekli tartışırdık; zevki çok daha sadedir.<waitbutton><hr>Sonunda yuvadan ayrıldı ve bir daha dönmedi. *iç çeker*<waitbutton><hr>Kusura bakma, sohbet bir anda ağırlaştı.<br>Malzemeleri getirdiğin için ödülünü vereyim.<waitbutton>|
-72867|[0x9, 0x77f, 0x100]Gösteriş yerine sade bir şey istermiş...<br>Tıpkı kızım gibi...<br>Ben hep parlak renklerin daha genç ve güzel<br>durduğunu düşünürdüm. Çok güzeller!<br><waitbutton><hr>En azından benim hissettiğim buydu...<br>Acaba yanlış olan ben miyim?<br><waitbutton><hr>*iç çeker*<br>Özür dilerim—sana ödül vermeyi<br>neredeyse unuttum.<br>Lütfen, bunu al.<br><waitbutton>|
+72867|[0x9, 0x77f, 0x100]Gösteriş yerine sade bir şey istermiş... Tıpkı kızım gibi...<waitbutton><hr>Ben hep parlak renklerin daha genç ve güzel durduğunu düşünürdüm. Çok güzeller!<waitbutton><hr>En azından ben böyle hissediyordum... Yanlış olan ben miyim? *iç çeker*<waitbutton><hr>Özür dilerim, sana ödül vermeyi neredeyse unutuyordum. Lütfen bunu al.<waitbutton>|
 72871|<playername>, senden istediğim iş<br>nasıl gidiyor?<br><waitbutton>|
 72872|Anladım. Eminim sebeplerin vardır...<br><br><waitbutton>|
 72886|İşlerimi bitirince vahana<br>uğrayacağım.<br>Orada görüşürüz.<br><waitbutton>|
-72887|[0x9, 0x70a, 0x100]Acaba ona fazla mı yumuşak<br>davrandım?<br>Ne düşünüyorsun? Bilmiyorum...<br><br>Hadi, <playername>. Vahaya dönelim.<br><waitbutton><hr>Sonra Tomurcuk Tezgâhıma uğra,<br>tamam mı?<waitbutton>|
+72887|[0x9, 0x70a, 0x100]Acaba ona fazla mı yumuşak davrandım? Ne düşünüyorsun? Bilmiyorum...<waitbutton><hr>Hadi, <playername>. Vahaya dönelim. Sonra Tomurcuk Tezgâhıma uğra, tamam mı?<waitbutton>|
 72891|Seni beklettiğim için kusura bakma,<br>gezgin.<br>Sipariş ettiğin battaniyeyi getirdim.<br><br>Mektubunda sade bir şey istediğini<br>yazmışsın ama<br><waitbutton><hr>ben onu hem güzel hem de gösterişli<br>yaptım.<waitbutton>|
-72892|Ne? Şey... bu... yani, ben aslında<br>çok daha sade bir şeyle<br>gerçekten idare edebilirdim...<br>Üzgünüm ama bu kadar abartılı bir şeyi<br>kullanabileceğimi sanmıyorum.<br><waitbutton><hr><br>Lütfen affet ama bu<br>battaniyeyi kabul edemem.<br>Başka birine yaptırırım<br>artık.<br><waitbutton>|
+72892|Ne? Şey... bu... yani, bundan çok daha sade bir şey benim için gerçekten yeterli olurdu...<waitbutton><hr>Üzgünüm ama bu kadar gösterişli bir şeyi kullanabileceğimi sanmıyorum.<waitbutton><hr>Lütfen affet ama bu battaniyeyi kabul edemem. Başka birine yaptıracağım.<waitbutton>|
 72893|İ-inanamıyorum! Olabilecek en havalı<br>battaniyeyi yapmak için her şeyimi verdim...<br>Herkes bilir ki şatafat moda, sadelik demode!<br><waitbutton><hr>Benim yaptığım battaniyenin nesi var?!<waitbutton>|
 72894|Bunu başarabileceğini biliyordum,<br>Şef <playername>.<waitbutton><hr>Şimdi Kaplankedi kürkü elimizde.<br>Hadi vahaya dönelim, olur mu?<waitbutton><hr>Geçen günkü gezgin de yakında<br>vahaya gelecekmiş.<waitbutton><hr>Bu fırsatla bu kürkten sade bir battaniye<br>yapıp o gitmeden önce ona vereceğim!<waitbutton>|
 72895|Vuhuu! Başardım! Birinin sevdiği bir şal yaptım!<waitbutton><hr>Tek yapmam gereken, şalı yaparken<br>müşteriyi düşünmekmiş.<waitbutton><hr>Hadi eve dönelim. Tomurcuk Tezgâhıma<br>uğrarsan sana bir teşekkür hediyem var.<waitbutton>|
-72896|Ah, hayır...<br>Ne yaptım ben?!<waitbutton><hr>Aslında bunu biliyordum. Sadece yiyerek<br>güçlenmenin kolay bir yolu olamaz...<waitbutton><hr>Hadi geri dönelim, <playername>.<br>Sonra Tomurcuk Tezgâhımda konuşuruz.<waitbutton>|
-72897|Ben, Nubit, Kabuk Canavarı'nı yendim!<br><br><waitbutton><hr>Hem de atıştırmalıkların gücüyle değil—<br>kendi kollarımın gücüyle!<br><waitbutton><hr>Ha ha! Demek gerçek güç böyle bir hismiş.<br>İnsanın içi gururla doluyor!<br><waitbutton><hr>Hadi, <playername>. Vahaya dönelim!<br>Sonra dükkânıma uğra; konuşacaklarımız var.<br><waitbutton>|
+72896|Ah, hayır...<waitbutton><hr>Ne yaptım ben?!<waitbutton><hr>Hadi geri dönelim, <playername>. Sonra Tomurcuk Tezgâhımda konuşuruz.<waitbutton>|
+72897|Ben, Nubit, Kabuk Canavarı'nı yendim!<waitbutton><hr>Hem de atıştırmalıkların gücü sayesinde değil!<waitbutton><hr>Hadi, <playername>. Vahaya dönelim! Sonra dükkânıma uğra.<waitbutton>|
 72900|Aaa, burada bir <span class="color-2">Paraçiçek Tomurcuğu </span>var!<br><br><waitbutton><hr>Bunlardan biriyle öteki tarafa<br>geçebileceğim.<br><waitbutton>|
 72903|Vay be! Sonunda buraya geldim!<br>Geçen gün vahanın yerini<br>sormalıydım.<waitbutton>|
 72904|Balon yapmak derin bir iştir.<br>Bu Tomurcuk Tezgâhı ile<br>bu kutsal sanatı<br>mükemmelleştireceğim!<waitbutton>|
-72905|Oh, sensin... Geçen gün için teşekkürler.<br><br><br>Bir kez daha söyleyeyim, ben Carlotta. Balon<br>yapımcısıyım ama asıl mesleğim<br><waitbutton><hr>arkeologluk.<waitbutton>|
+72905|Oh, sensin... Geçen gün için teşekkürler.<waitbutton><hr>Yeniden tanışalım: Ben Carlotta. Balon yapımcısıyım ama asıl mesleğim arkeologluk.<waitbutton>|
 72906|O taş tabletteki yazıyı çözemedim.<br>Eh, en azından okuyamadığımı öğrenmiş oldum.<br>Bu da değerli bir bilgi!<waitbutton>|
-72916|Sana teşekkür etmeyi az kalsın<br>unutuyordum!<br><br>Alabileceğin en iyi hediye, sana<br>“Vahanda yaşamaya başlayacağım”<br><waitbutton><hr>demem olurdu... değil mi?<waitbutton>|
+72916|Sana teşekkür etmeyi az kalsın unutuyordum!<waitbutton><hr>Alabileceğin en güzel hediye, vahanda yaşamaya başlayacağımı söylemem olurdu... değil mi?<waitbutton>|
 72917|Çevirebildiğim bazı kadim kitaplara göre<br>bu çöl eskiden gür bitkilerle doluymuş.<waitbutton><hr>Şimdi bakınca hayal etmek zor ama<br>belki... azıcık görebiliyorum.<br><waitbutton>|
 72918|Ben bir arkeoloğum ama aynı zamanda<br>balon<br>yapımcısıyım. Ve bu iki işi de<br>asla hafife almam.<waitbutton>|
 72919|Arkeologlar genelde gece çalışır.<br>Sabahlar pek bana göre değil...<br><waitbutton>|
@@ -5085,17 +5085,17 @@
 72934|Kaya tuzunu getirdiğin için teşekkürler.<br>Artık güzel, tuzlu<br>balonlar yapabileceğim.<waitbutton>|
 72935|Araya girmeseydim o Uçan Sincabaykuşlar<br>belki de böyle zarar görmezdi...<br>Keşke doğaya karışmasaydım.<waitbutton>|
 72936|Bir hayvanı gerçekten korumak istiyorsan,<br>onu doğal ortamında bırakmalısın.<br>Bu sefer bu söz içime işledi.<waitbutton>|
-72938|Görünüşe göre Ostraka Harabeleri'nde uzun<br>zaman önce<br>vahadan ayrı bir yerleşim kurulmuş.<br>Baastu'nun kim olduğunu merak ediyorum.<br>O yerleşimin halkı Baastu'ya<br><waitbutton><hr>taparmış.<waitbutton>|
+72938|Görünüşe göre Ostraka Harabeleri'nde uzun zaman önce vahadan ayrı bir yerleşim kurulmuş.<waitbutton><hr>Baastu'nun kim olduğunu merak ediyorum. Yerleşimin halkı ona tapıyormuş.<waitbutton>|
 72939|Serkahlar Okyanus Nekropolü'nü<br>yalnızca bir doğal kaynak olarak görüyor. Ama o<br>kadim arazi değerli malzemelerle dolu.<br>Gelişigüzel kazı onun değerini düşürür.<br><waitbutton><hr>Bunu düşünmek bile içimi ürpertiyor...<br><waitbutton>|
-72940|Unutulmuş Orman, modern Lagora<br>yaşamının<br>hikâyesini anlatan paha biçilmez<br>tarihî malzemeler barındırıyor.<br>Orman, daha keşfedilmemiş harika<br><waitbutton><hr>araştırma malzemeleriyle dopdolu!<br><waitbutton>|
-72941|Bir bilgin olarak Denemeler Tapınağı'yla<br>çok<br>ilgileniyorum ama oradaki Kaos<br>canavarları çok güçlü...<br>Arazide araştırma yapmak istesem bile<br><waitbutton><hr>iyi hazırlandığımdan emin olmalıyım...<waitbutton>|
+72940|Unutulmuş Orman'da, modern Lagora yaşamının tarihini anlatan paha biçilmez kaynaklar var.<waitbutton><hr>Orman, henüz keşfedilmemiş harika araştırma malzemeleriyle dolu!<waitbutton>|
+72941|Bir bilgin olarak Denemeler Tapınağı'yla çok ilgileniyorum ama oradaki Kaos canavarları çok güçlü...<waitbutton><hr>Arazide araştırma yapmak istesem bile iyi hazırlandığımdan emin olmalıyım...<waitbutton>|
 72945|Herkes Kaos bitkilerini ürkütücü buluyor<br>ama ben onları ilginç buluyorum.<waitbutton><hr>Yine de dokunmak istemem.<br>Bana nasıl bir etkisi olur, bilemiyorum...<waitbutton>|
 72946|Sakin ol. Her şey yoluna girer,<br>acele etmene gerek yok.<br><waitbutton>|
 72947|Senin sayende satışlar tavan yaptı!<br>Hatta bir ürünü şimdiden tükettim bile!<br><waitbutton>|
 72948|Ah, hayır! Balonlarım bitti. Bu dükkân artık<br>balon gibi, sadece havayla dolu...<br>ama balon yok.<waitbutton>|
 72949|<playername>, seni çağırdıysam kusura<br>bakma.<br>Sanırım bu dükkânın yeni bir<br>ürün<br>sunmasının zamanı geldi.<br>Sıradaki ürünüm için<br>kaktüs kullanan bir balon<br>yapmayı düşünüyorum.<br><waitbutton><hr>Ama şu an çölde yeterince kaliteli<br>kaktüs yok...<br>Yüksek kaliteli olanlar lazım.<br><waitbutton><hr>O yüzden fikrim şu: <span class="color-2">kaya tuzu<br></span>kullanıp<br>kaktüsün kalitesini kökünden<br>arttırmak.<br><waitbutton><hr>Kaya tuzunun <span class="color-2">Enkaz Tüneli</span>'nde<br>çıkarılabildiğini duydum.<br><waitbutton><hr>Beş tane istiyorum, bunu senden isteyebilir<br>miyim?<waitbutton>|
 72950|<playername>, seni çağırdım çünkü bu dükkân için<br>yeni bir ürün hakkında konuşmak istiyorum.<waitbutton><hr><span class="color-2">Kalari Orman Denizi</span>'ndeki, kaya tuzu verdiğim<br>kaktüsleri kullanmayı düşünüyorum...<waitbutton><hr>Ama oradaki <span class="color-1">Uçan Sincabaykuşların</span><br>son zamanlarda her zamankinden de fazla<br>ortalığı dağıttığını duydum.<waitbutton><hr>Ne olduğunu bilmiyorum ama kaktüslere<br>zarar veriyorlar; bu benim için büyük sorun!<waitbutton><hr>Hadi Uçan Sincabaykuşları uzaklaştıralım.<br>Kalari Orman Denizi'ne gidelim!<waitbutton>|
-72951|<playername>, yine rahatsız ediyorsam<br>kusura bakma.<br><br>Ama olaydan sonra <span class="color-2">Kalari Orman<br>Denizi </span>nasıl görünüyor<br><waitbutton><hr>gerçekten çok merak ediyorum.<br>Gidip bakmak istiyorum ama<br>tehlikeliyse<br><waitbutton><hr>tek başıma gitmek istemem.<br><br>Benimle gelir misin?<br><br><waitbutton>|
+72951|<playername>, yine rahatsız ediyorsam kusura bakma.<waitbutton><hr>Olaydan sonra <span class="color-2">Kalari Orman Denizi</span>'nin nasıl göründüğünü gerçekten çok merak ediyorum.<waitbutton><hr>Gidip bakmak istiyorum ama tehlikeliyse tek başıma gitmek istemem.<waitbutton><hr>Benimle gelir misin?<waitbutton>|
 72952|Seninle bir şey konuşmak istiyorum.<br>Kusura bakma, bir dakikalığına dışarı<br>çıkar mısın?<waitbutton>|
 72953|Hmm... bahçede böyle çalışmak<br>bitkileri daha iyi anlamamı<br>sağlıyor.<waitbutton>|
 72954|Teşekkürler. Artık daha çok<br>kişiye<br>balon sağlayabilirim!<br><waitbutton>|
@@ -5119,20 +5119,20 @@
 72995|O battaniye hakkında ne<br>düşünüyorsun?<br>Basit görünmesini sağlamaya<br>çalıştım.<br><waitbutton>|
 72996|İşte bu! Tam da istediğim buydu!<waitbutton><hr>Hrm... ama arada bir gösterişli bir<br>battaniye<br>de fena olmazdı aslında.<br><waitbutton>|
 72997|[0x9, 0x77d, 0x100]Ne?!<br><br><waitbutton>|
-72998|Geçen gün battaniyeni öyle keyfi<br>bir şekilde<br>reddettiğim için özür dilerim.<br><br>Sadece tarzım olmadığı için güzel<br>değilmiş gibi<br>ima ettiğim için çok kötü<br>hissediyorum.<br><waitbutton>|
+72998|Geçen gün battaniyeni öyle keyfi reddettiğim için özür dilerim.<waitbutton><hr>Sadece tarzım olmadığı için güzel değilmiş gibi ima ettiğim için kendimi çok kötü hissediyorum.<waitbutton>|
 72999|Bunun için teşekkürler. Bu güzel<br>battaniyeye<br>sarılarak uyumak için<br>sabırsızlanıyorum!<br><waitbutton>|
 73000|Gökyüzü mavisi, dağ yeşili, çöl<br>kahverengisi,<br>okyanus mavisi... Hepsini tam olarak<br>tarif etmek zor.<waitbutton>|
-73001|Burada takılmak çorbam için bana<br>yeni bir ilham vermiyor.<br><br>Gerekeni aldım, o yüzden galiba<br>buradan çıkıp dinlenecek bir yer<br><waitbutton><hr>bulacağım.<waitbutton>|
+73001|Burada takılmak çorbam için yeni bir ilham vermiyor.<waitbutton><hr>Gereken malzemeyi aldım, o yüzden buradan çıkıp dinlenecek bir yer bulayım.<waitbutton>|
 73003|Vahada hava serin ve esintili.<br>Acaba bir su ruhundan mı...<br>Öyledir!<waitbutton>|
 73004|Kendi Tomurcuk Tezgâhımı ilk kez<br>görüyorum... Ne güzel bir his!<br><waitbutton>|
-73005|Oh! Bahar Tepesi'nde benimle konuşan<br>sendin.<br>Orada daha resmi tanışamadım, kusura<br>bakma.<br>Ben çorba renklerine kafayı taktım.<br>Sürekli<br><waitbutton><hr>onu düşünüyorum. Biraz garip biliyorum ama<br>herkesin bir tutkusu var.<br>Ben Hosni. Amacım, dünyanın tüm renklerini<br><waitbutton><hr>çorbada yeniden üretmek!<br><waitbutton>|
+73005|Oh! Bahar Tepesi'nde benimle konuşan sendin. Orada daha resmi tanışamadık, kusura bakma.<waitbutton><hr>Ben çorba renklerine kafayı taktım. Sürekli onları düşünüyorum. Biraz garip biliyorum ama herkesin bir tutkusu var.<waitbutton><hr>Ben Hosni. Amacım dünyanın tüm renklerini çorbada yeniden yaratmak!<waitbutton>|
 73007|Vay, burada böyle güzel bir<br><span class="color-2">kuşak </span><span class="color-0">bulacağımı<br>beklemiyordum... Etkilendim.<br></span><waitbutton>|
 73008|Eğer bir <span class="color-2">balık kılçığın</span> varsa, her türlü<br>çorbayı yapabilirsin...<br><waitbutton>|
 73012|Böylesine hareketli bir vahada <span class="color-2">kuşak </span>dükkânı<br>vardır sanmıştım ama yokmuş...<br><waitbutton>|
 73016|Çorba malzemelerimi artık topladım.<br>Acaba ben de burada<br>yaşamaya başlayabilir miyim...<waitbutton>|
 73017|Bu vaha tam bir renk cümbüşü, değil mi?<br>Tomurcuk Tezgâhları, insanlar... Hatta<br>havanın bile kendine özgü bir rengi var!<waitbutton>|
 73018|Yaptığım çorbalar resim gibidir.<br>Bir bardağın içinde bir dünya çizerim,<br>çorbanın yüzeyine nazikçe oturan bir dünya.<waitbutton>|
-73019|Derler ki, görerek elde edilen bilginin<br>%90'ına<br>güvenilmezmiş.<br><br>Ama bana sorarsan sözlerden ve zihinlerden<br>daha güvenilirdir. O yüzden renklere<br>güvenirim.<br><waitbutton><hr>Ve çorbaya.<waitbutton>|
+73019|Derler ki görerek elde edilen bilgilerin %90'ına güvenilmezmiş.<waitbutton><hr>Ama bana sorarsan, sözlerden ve düşüncelerden daha güvenilirler. O yüzden renklere ve çorbaya güvenirim.<waitbutton>|
 73020|Acıktıysan çorbamdan denesene.<br><waitbutton><hr>Rengine takılırsan gözlerini kapat.<br>Nasıl olsa mideye inince hepsi aynı!<waitbutton>|
 73021|Ne zaman bir gülümseme görsem içim erir.<br>Şiirsel bir şey söylemeye çalıştım...<br>nasıl oldu?<waitbutton>|
 73022|Dünkü teslimat çok yardımcı oldu.<br>Teşekkürler.<br>Sen başkalarını düşünen birisin, değil mi?<waitbutton>|
@@ -5143,7 +5143,7 @@
 73027|Vahada sabahlar erken başlıyor, ha?<br><br><waitbutton>|
 73028|Gündüz dünya ne kadar renkli!<br><br><waitbutton>|
 73029|Akşamın derin tonları<br>muhteşem, değil mi?<br><waitbutton>|
-73030|Oh, evet, mağaraları<br>keşfederken bir Fidan kızla<br>tanıştım.<br><br>Ona biraz çorba verince aşırı<br>mutlu oldu.<br><br><waitbutton><hr>Her türlü davul çalabilen<br>birini aradığını söylüyor.<br><waitbutton><hr>Ne rahat bir hayat, değil mi?<waitbutton>|
+73030|Mağaraları keşfederken bir Fidan kızla tanıştım.<waitbutton><hr>Ona biraz çorba verince çok mutlu oldu.<waitbutton><hr>Her türlü davul çalabilen birini aradığını söylüyor. Ne rahat bir hayat...<waitbutton>|
 73031|Hehe, festival hazırlıklarına koyulma<br>zamanı, ha?<br>Ben de en canlı renkli çorbamı<br>hazırlayacağım.<waitbutton>|
 73033|Gece gündüz aklımda çorba var.<br>Hobinle işin aynı olunca<br>fena olmuyor.<waitbutton>|
 73034|Mektuptaki sözler biraz klişeydi ama<br>yine de içim kıpır kıpır oldu...<br><waitbutton>|
@@ -5151,15 +5151,15 @@
 73036|Hassan'a çorba yapacağıma söz verdim.<br>Romantizmin çorbası sabırla<br>karıştırılmalıdır.<waitbutton>|
 73038|Ostraka Harabeleri'ndeki büyük kazanı<br>çorbayla dolu düşünmek bile tüylerimi<br>ürpertiyor.<br><waitbutton>|
 73039|Okyanus Nekropolü'nden kemikleri çorbaya<br>katsak<br>et suyu lezzetli olur, değil mi?<waitbutton>|
-73040|Unutulmuş Orman'daki, Kaos'a<br>kapılmamış bitkiler<br>çorbama mükemmel giderdi.<br>Ama çorbanın renkleri ve tadı fazla<br>tahmin edilebilir olurdu,<br><waitbutton><hr>bu yüzden biraz sıkıcı kaçabilir.<waitbutton>|
+73040|Unutulmuş Orman'da Kaos'un ele geçirmediği bitkiler çorbam için mükemmel olurdu.<waitbutton><hr>Ama çorbanın renkleri ve tatları fazla tahmin edilebilir, belki de biraz sıkıcı olurdu.<waitbutton>|
 73041|Denemeler Tapınağı'nda dönen o düzenek... hrm.<br>Acaba onu çorbamı karıştırmak için<br>kullanabilir miyim...<waitbutton>|
 73045|O bitkiler bela. Ne rengi ne de tadı<br>çorbaya uygun görünüyor.<br><waitbutton>|
 73046|Rengârenk görünüyor ama tadına ancak<br>müşteriler karar verebilir. Bir ara çorbamı<br>sen de denemelisin.<waitbutton>|
 73047|Çorbalarımdan biri tükendi. Üzgünüm,<br>eğer gözüne onu kestirdiysen.<br><waitbutton>|
 73048|Üzgünüm. Sana çorba<br>sunamıyorum.<br>Kazanım tamamen boş.<br><waitbutton>|
 73049|Çorbamın hayranları için çok özel ve<br>lezzetli bir şey yapmak istiyorum.<waitbutton><hr>Biraz <span class="color-2">arpa</span>, çorbaya dolgun bir kıvam ve<br>yumuşaklık katar. Biraz elime geçirmek isterim.<waitbutton><hr>Ama <span class="color-2">Serkah Yerleşimi</span>'ndeki tüccardan<br>tohum almaya gitmek bana biraz zahmetli geliyor.<waitbutton>|
-73050|[0x9, 0x765, 0x100]*iç çeker* ...Çorbamın destekçisi olmasına<br>seviniyorum<br>ama her gün dükkânıma mektuplar yağınca<br>köşeye sıkışmış hissediyorum.<br><waitbutton><hr>Bu hayrandan gelen bitmeyen söz seliyle<br>ne yapacağımı bilmiyorum.<br>O yüzden Sarmal Çukur'un hemen ötesinde<br><waitbutton><hr>onunla buluşup konuşmaya karar verdim.<br>Ama açıkçası çok tedirginim.<br><waitbutton><hr>Benimle gelir misin?<br><waitbutton>|
-73051|[0x9, 0x765, 0x100]Geçen seferden beri ondan gelen<br>mektuplar<br>dükkânıma akmaya devam etti.<br>Her seferinde tepem attı, o yüzden<br>bir gün doğrudan ona ulaştım.<waitbutton><hr>“Eğer beni seviyorsan, Bahar<br>Tepesi'ndeki <span class="color-2">Kazı Mağarası</span>'na git<br><waitbutton><hr><span class="color-2"></span>ve bir Dikentatu'dan diken getir,” dedim.<br><waitbutton><hr>Ondan sonra mektuplar bir anda kesildi.<br>Başına ne gelmiş olabileceğini düşününce<br>ürperiyorum.<br><waitbutton><hr>Onu aramaya benimle gelir misin?<br><br><waitbutton>|
+73050|[0x9, 0x765, 0x100]*iç çeker* ...Çorbamın destekçileri olmasına seviniyorum ama her gün dükkânıma mektuplar yağınca köşeye sıkışmış hissediyorum.<waitbutton><hr>Bu hayranın bitmek bilmeyen mektuplarıyla ne yapacağımı bilmiyorum.<waitbutton><hr>Onunla konuşmak için Sarmal Çukur'un hemen ötesinde buluşmaya karar verdim.<waitbutton><hr>Ama açıkçası tedirginim. Benimle gelir misin?<waitbutton>|
+73051|[0x9, 0x765, 0x100]Geçen seferden beri ondan gelen mektuplar dükkânıma akmaya devam ediyor.<waitbutton><hr>Her seferinde tepem atıyordu; sonunda bir gün doğrudan ona ulaştım.<waitbutton><hr>“Beni seviyorsan Bahar Tepesi'ndeki <span class="color-2">Kazı Mağarası</span>'na git ve bir Dikentatu'dan diken getir,” dedim.<waitbutton><hr>Ondan sonra mektuplar bir anda kesildi. Başına ne gelmiş olabileceğini düşününce ürperiyorum.<waitbutton><hr>Onu aramaya benimle gelir misin?<waitbutton>|
 73052|Şef... seninle bir şey konuşmak istiyorum.<br>Bir saniyeliğine dışarı çıkar mısın?<waitbutton>|
 73053|Bitki yaprakları tek renk değildir.<br>Doğanın renkleri çok gizemli.<br><waitbutton>|
 73054|Sadece bana hediye değil, bir<br>de mal teslimatı mı?<br>Vay be... teşekkür ederim.<br><waitbutton>|
@@ -5169,20 +5169,20 @@
 73058|Tükenen çorbadan daha çok yapmak<br>istiyorum.<br>Bana biraz malzeme<br>getirebilir misin?<waitbutton>|
 73059|Hey, bana bir iyilik yapıp malzeme getirir<br>misin?<br>Böyle giderse hem ben hem dükkân...<br>kupkuru kalacağız...<waitbutton>|
 73065|Bana arpa getirdin! Teşekkürler!<br>Artık çorbamı hazırlamaya başlayabilirim.<br><waitbutton><hr>[0x9, 0x763, 0x100]Heh heh, dükkâna garip bir mektup geldi.<br><br><waitbutton><hr>“Çorbana resmen âşığım!” yazıyor!<br>Heh heh, biraz tatlı aslında.<br><waitbutton><hr>Biraz abartılı ama insanlar çorbamı<br>sevince gerçekten çok mutlu oluyorum!<br><waitbutton><hr>Al, bunu kabul et. Mutluluğumdan birazını<br>seninle paylaşmak istedim.<br><waitbutton>|
-73067|Az önce birdenbire öyle<br>parladığım için<br>özür dilerim.<br><br>Ama anlıyorsun, değil mi? O hiç<br>çorbayı umursamıyordu.<br><br><waitbutton><hr>Şimdi hayal kırıklığına<br>uğradım. Seni de<br>kötü hissettirdi, değil mi?<br><br><waitbutton><hr>Al—seni buna bulaştırdığım<br>için özür hediyesi.<br>Gerçekten çok üzgünüm.<br><waitbutton>|
-73069|Demek yaptıkları bana yönelikmiş... ama<br>çorbayı da sevdiğini söyledi ya!<br><br>Ben sadece çorbayı düşünüyordum ama<br>artık bana karşı hislerini öğrendiğime<br>göre<br><waitbutton><hr>ona cevap vermek istiyorum.<br>Tee hee. Bana ne oluyor böyle?!<br><waitbutton><hr>Niye sana durmadan aşk hayatımı<br>anlatıyorum?!<br>Bana göz kulak olduğun için teşekkürler. Bu<br>da<br><waitbutton><hr>minnettarlığımın bir<br>göstergesi.<br><waitbutton>|
+73067|Az önce birdenbire öyle parladığım için özür dilerim.<waitbutton><hr>Ama anlıyorsun, değil mi? O çorbayı hiç umursamıyordu.<waitbutton><hr>Şimdi hayal kırıklığına uğradım. Seni de kötü hissettirdi, değil mi?<waitbutton><hr>Al, seni buna bulaştırdığım için özür hediyesi. Gerçekten çok üzgünüm.<waitbutton>|
+73069|Demek davranışları bana yönelikmiş... ama çorbayı da sevdiğini söyledi!<waitbutton><hr>Ben yalnızca çorbayı düşünüyordum ama artık bana karşı hislerini bildiğime göre ona karşılık vermek istiyorum.<waitbutton><hr>Tee hee. Bana ne oluyor böyle?! Niye sana durmadan aşk hayatımı anlatıyorum?!<waitbutton><hr>Bana göz kulak olduğun için teşekkürler. Bu da minnettarlığımın küçük bir göstergesi.<waitbutton>|
 73071|Nasılsın? İsteğim seni<br>fazla mı yoruyor?<br><waitbutton>|
 73072|Tamam, anladım. Bir dahaki<br>sefere<br>sana güvenebilsem harika<br>olur.<br><waitbutton>|
-73081|[0x9, 0x763, 0x100]Hey, biliyor muydun? Balık<br>kılçıkları<br>lezzetli çorba suyu için harikadır.<br><br>Ama epey çok lazım olur,<br>o yüzden zor biraz.<br><br><waitbutton><hr>Enkaz Tüneli'ni geçtikten<br>sonra Bahar Tepesi'nde<br>sonunda bir <span class="color-1">İskelet Balığı</span><br><waitbutton><hr><span class="color-1"></span>olduğunu biliyor muydun?<br>Onu yenersen balık kılçığı alabilirsin<br>ama...<br><waitbutton><hr>acaba bunu benim için kim yapar ki?<br><waitbutton>|
+73081|[0x9, 0x763, 0x100]Balık kılçıkları lezzetli çorba suyu yapmak için harikadır.<waitbutton><hr>Ama epey çok lazım olur, o yüzden toplaması zor.<waitbutton><hr>Enkaz Tüneli'ni geçtikten sonra Bahar Tepesi'nde bir <span class="color-1">İskelet Balığı</span> olduğunu biliyor muydun?<waitbutton><hr>Onu yenersen balık kılçığı alabilirsin ama... acaba bunu benim için kim yapar ki?<waitbutton>|
 73082|İyi çorbanın olmazsa olmazı <span class="color-2">Balık Kılçığı</span>,<br>değil mi?<br><waitbutton><hr>[0x9, 0x765, 0x100]Ama koca bir kazan yapacaksan<br>bol bol lazım!<br><waitbutton><hr>Üstelik onu veren İskelet Balığı yalnızca<br>uzaktaki Bahar Tepesi’nde bulunuyor.<waitbutton><hr>Acaba biri bana birkaç Balık Kılçığı<br>verecek kadar nazik olur mu...<br><waitbutton>|
-73083|[0x9, 0x762, 0x100]<span class="color-2">Balık kılçıklarını</span> bana mı<br>vereceksin? Teşekkürler!<br>Artık nefis çorba yapabilirim!<br><br><waitbutton><hr>Ben... hep bir sanatçı olmak istemiştim ama<br>bir gün<br>resim çizerken bunun bana göre olmadığını<br>anladım.<br><waitbutton><hr>Bakış açımı değiştirip çorba yapmaya<br>başlayınca<br>her şey bir anda akıp gitti!<br>Lafı uzattım, kusura bakma. Şimdi<br><waitbutton><hr>borcumu ödemeliyim.<br><waitbutton>|
+73083|[0x9, 0x762, 0x100]<span class="color-2">Balık kılçıklarını</span> bana mı vereceksin? Teşekkürler! Artık nefis çorba yapabilirim.<waitbutton><hr>Ben... hep sanatçı olmak istemiştim ama bir gün resim çizerken bunun bana göre olmadığını anladım.<waitbutton><hr>Bakış açımı değiştirip çorba yapmaya başlayınca her şey bulanıklaştı!<waitbutton><hr>Lafı uzattım, kusura bakma. Sana borcumu ödemeliyim.<waitbutton>|
 73086|Hehe... Bu arada Qarr<br>Kumulları'nın yakınında<br>yeni bir vaha varmış diye duydum.<br><waitbutton>|
 73087|Seni bekliyordum. Hosni! Sevgilim!<br><br><waitbutton>|
 73088|Sevgilim mi? Her neyse. O<br>mektupların hepsi<br>senden mi geliyordu?<waitbutton><hr>Çorbamı sevdiğine sevindim<br>ama diğer<br>şeyler... ağzımda kötü bir tat<br>bırakıyor.<br><waitbutton>|
-73089|Hayır, hayır, hayır, kızma! Seni<br>düşününce<br>mektup yazmayı durduramıyorum! Özür<br>dilerim!<br>Aslında mektupları çorban hakkında<br>yazmıyorum...<br>mektuplarım sana yönelik.<br><waitbutton><hr>Hosni, çok güzelsin! Gözlerinde<br>muhteşem bir parıltı<br>ve yumuşak bir karanlık var!<br><waitbutton><hr>Tamam, söyleyeceğim! Senden hoşlanıyorum!<br><waitbutton><hr>Gerçek hislerimi başka türlü ifade edemem!<waitbutton>|
+73089|Hayır, hayır, kızma! Seni düşününce mektup yazmayı durduramıyorum! Özür dilerim!<waitbutton><hr>Aslında mektuplarım çorban hakkında değil... Sana yazıyorum.<waitbutton><hr>Hosni, çok güzelsin! Gözlerinde muhteşem bir parıltı ve yumuşak bir karanlık var!<waitbutton><hr>Tamam, söyleyeceğim! Senden hoşlanıyorum! Gerçek hislerimi başka türlü ifade edemem!<waitbutton>|
 73090|Çorbam değil mi? Yani bunca zamandır<br>sevdiğin<br>benim çorbam değildi öyle mi?<br><br>AAARGH! Buna kandığıma inanamıyorum!<br><br><waitbutton><hr>Senin gibiler... düşüncelerini ve<br>sözlerini böyle<br>rahatça savuranlar, en kötüsü!<br><waitbutton><hr>Hoşça kal! Bana mektup göndermeyi kes!<waitbutton>|
 73091|Ugh...<br><br><waitbutton>|
-73092|S-sen pestil gibi olmuşsun...<br><br>Özür dilerim... özür<br>dilerim... Sana bu kadar<br><waitbutton><hr>tehlikeli bir şey istememeliydim...<waitbutton>|
+73092|S-sen pestil gibi olmuşsun...<waitbutton><hr>Özür dilerim... Çok özür dilerim... Sana bu kadar tehlikeli bir şey istememeliydim...<waitbutton>|
 73093|Ağlama... Gözyaşları o güzel gözlerine<br>hiç yakışmıyor.<br><waitbutton>|
 73094|Bu korkunç şeyin başına<br>gelmesi benim suçum...<br><waitbutton><hr>Ama çorbamı öyle küçümsemen...<br>çok üzmüştü.<waitbutton>|
 73095|Özür dilerim. Seni inciten bendim.<br><br><waitbutton><hr>Elbette yaptığın çorbayı seviyorum! Ama<br>seni daha da çok seviyorum! Özür dilerim...<br>sadece... çorbayla el ele tutuşamazsın.<waitbutton><hr>Benden hoşlanmanı isterdim ama... anlıyorum.<br><br><waitbutton><hr>Şimdi biraz burada dinleneceğim, o yüzden<br>sen geri dönsen iyi olur.<br><waitbutton>|
@@ -5191,7 +5191,7 @@
 73099|Evet, tamam.<br><br><waitbutton><hr>Şimdi geri döneceğiz. Cevap vermem için bana biraz zaman ver.<br><waitbutton><hr>Hadi gidelim, <playername>. Dönünce dükkânımda biraz konuşalım.<br><waitbutton>|
 73103|Buraya bir Tomurcuk Tezgâhı<br>kuracağım<br>ve tonla dewadem kazanacağım!<br><waitbutton>|
 73104|Hehe... Sonunda Tomurcuk Tezgâhıma<br>kavuştum.<br>Şimdi tonla dewadem kazanabilirim...<br><waitbutton>|
-73105|Hehe... Merhaba. Ben Sevity...<br>Tomurcuk Tezgâhı kurup biraz dewadem kazanmak<br>için uygun bir yer arıyorum.<waitbutton>|
+73105|Hehe... Merhaba. Ben Sevity...<waitbutton><hr>Tomurcuk Tezgâhı kurup dewadem kazanabileceğim bir yer arıyorum.<waitbutton>|
 73106|Şu <span class="color-2">Robusta Kahve Çekirdeği</span><br>müşterileri çekmeli...<waitbutton>|
 73116|Burası hareketli ve şefi de nazik.<br>Bu vaha mükemmel bir yer...<waitbutton><hr>Hehe... Burada yaşayacağım.<br>Şimdi sadece Tomurcuk Tezgâhımı kurmama izin<br>ver...<br><waitbutton>|
 73117|Hehe... Vahada bu kadar insan olunca kimsenin gözü üstünde olmuyor...<br><waitbutton><hr>Daha küçük yerlerde herkes birbirini sürekli görür; bu da bazen biraz boğucu olabiliyor...<waitbutton>|
@@ -5230,8 +5230,8 @@
 73158|Gidiyor musun? O zaman stoklarımı unutma... tamam mı?<br><waitbutton>|
 73159|Teslimat yapamaz mısın? Öyleyse...<br>sanırım ben de beklemeye devam edeceğim...<br><waitbutton>|
 73165|[0x9, 0x748, 0x100]Şu Cesur Mısırlara bak! Ne kadar da büyükler... Çok lezzetli görünüyorlar.<br><waitbutton><hr>Memleketimde pek bir şey yetişmezdi. Böyle güzel sebzelerimiz hiç olmazdı...<br><waitbutton><hr>Bu yüzden olabildiğince çok kişiyi doyurabilmek için cupcake tarifim üzerinde çok çalışmak zorunda kaldım!<br><waitbutton><hr>Burası, geldiğim yere kıyasla cennet gibi...<br><waitbutton><hr>Teşekkür ederim. Sana bir şey vermek istiyorum...<br><waitbutton>|
-73167|[0x9, 0x748, 0x100]Teşekkür ederim. Bu trüf, memleketim<br>olan<br>Büyük Wakuto Kanyonu'nun meşhur olduğu<br>nadir bir üründür...<br>Oradaki toprak ölüydü ve Büyük Ağaç'ın<br><waitbutton><hr>Çocukları yoktu. Ama elimizde ne varsa<br>onunla yaşardık...<br>Yine de o mütevazı hayatımız sonsuza dek<br><waitbutton><hr>sürmedi. Zamanla işler çok kötüleşti...<br>Böyle hüzünlü şeylerden bahsettiğim için<br>üzgünüm.<br><waitbutton><hr>Al. Bu da teşekkürümün bir nişanesi.<br><waitbutton>|
-73169|Memlekette yeterince yemek bulamayan<br>o çocukları düşündükçe içim hep<br>burkulurdu...<br>O zalim koşullarda hayatlarını<br>kaybettiler.<br><waitbutton><hr>Ben ise bolluk içindeki bu vahada<br>yaşıyorum...<br>Sonra kendi kendime derim ki:<br>ilerlemeliyim.<br><waitbutton><hr>Yaşadığım sürece elimden geleni yapmalıyım.<br><br>Cupcake yapmaya devam edeceğim.<br><br><waitbutton><hr>Bu, memleketimin gerçek tadı.<br>Onu geleceğe taşıyacağım.<br><br><waitbutton><hr><playername>, benimle geldiğin için teşekkürler.<br>Bu da teşekkürümün bir nişanesi.<br><waitbutton>|
+73167|[0x9, 0x748, 0x100]Teşekkür ederim. Bu trüf, memleketim Büyük Wakuto Kanyonu'yla ünlü nadir bir üründür...<waitbutton><hr>Oradaki toprak ölüydü ve Büyük Ağaç'ın Çocukları yoktu. Ama elimizde ne varsa onunla yaşardık...<waitbutton><hr>Ama mütevazı hayatımız sonsuza dek sürmedi. Zamanla işler çok kötüleşti...<waitbutton><hr>Böyle hüzünlü şeylere daldığım için kusura bakma. Al, bu da teşekkürümün nişanesi.<waitbutton>|
+73169|Memlekette yeterince yemek bulamayan çocukları düşündükçe içim burkulurdu...<waitbutton><hr>O zalim koşullarda hayatlarını kaybettiler. Ben ise bolluk içindeki bu vahada yaşıyorum...<waitbutton><hr>Sonra kendi kendime ilerlemeliyim derim. Yaşadığım sürece elimden geleni yapmalıyım.<waitbutton><hr>Cupcake yapmaya devam edeceğim.<waitbutton><hr>Bu memleketimin gerçek tadı. Onu geleceğe taşıyacağım.<waitbutton><hr><playername>, benimle geldiğin için teşekkürler. Bu da teşekkürümün nişanesi.<waitbutton>|
 73171|Hee hee... Nasılsın? Senden yardım<br>istediğim iş nasıl gidiyor?<br><waitbutton>|
 73172|Kötü zamanlama, ha?<br>Tee hee... Sorun değil!<br><waitbutton>|
 73181|[0x9, 0x74b, 0x100]Burada o kadar çok dükkân var ama<br>hiçbiri <span class="color-2">Robusta Kahve Çekirdeği</span><br>satmıyor.<waitbutton><hr>Cupcake'ime aroma katmak için biraz<br>Robusta Kahve Çekirdeği istiyordum...<waitbutton><hr>Robusta Kahve Çekirdeği'nin<br><span class="color-2">bahçelerde</span> yetiştirilebildiğini duydum.<br>Acaba vahada da yetiştirilebilir mi?<waitbutton>|
@@ -5242,7 +5242,7 @@
 73190|Hadi gidelim, <playername>!<br><br><waitbutton>|
 73203|Bu armoniyi dikkatle dinle. Aradığım<br>ses<br>tam olarak bu...<br><waitbutton>|
 73204|♪ Her şey hazır!<br>Müzik kutularım dünyayı<br>renklendirsin. ♪<br><waitbutton>|
-73205|Tanıştığımıza memnun oldum. Ben Küpipan.<br>Güzel müzikleri toplamayı seven bir<br>müzik kutusu ustasıyım.<br>Yakın zamanda Sultan Festivali olduğunu<br><waitbutton><hr>duydum, ben de görmeye geldim.<span class="color-2"><br></span><br>Burada bir dükkân açsam, müzik<br>kutularımın<br><waitbutton><hr>çok iyi satacağını düşünüyorum.<br><waitbutton>|
+73205|Tanıştığımıza memnun oldum. Ben Küpipan. Güzel müzikleri toplamayı seven bir müzik kutusu ustasıyım.<waitbutton><hr>Yakın zamanda Sultan Festivali olduğunu duydum, ben de görmeye geldim.<waitbutton><hr>Burada bir dükkân açsam, müzik kutularım iyi satabilir diye düşünüyorum.<waitbutton>|
 73206|Müzik kutumu tamir edebildim!<br>Şimdi yine<br>güzel ezgiler çalabiliyor!<br><waitbutton>|
 73216|Vahanın bütün seslerini toplayıp<br>yepyeni, benzersiz bir müzik kutusu<br>yapacağıma karar verdim.<waitbutton>|
 73217|Kumun, rüzgârın ve ruhun sesleri... Bunlar, dünyayı oluşturan ses çeşitliliğinin sadece küçük bir kısmı.<br><waitbutton><hr>Bu vahanın içinde yankılanan seslerin çok güzel olduğunu düşünüyorum.<waitbutton>|
@@ -5271,7 +5271,7 @@
 73248|Senin sayende bütün ürünlerim satıldı!<br>Bunu herkese zil çalıp duyursam mı?<br><waitbutton>|
 73249|[0x9, 0x6f0, 0x100]*iç çeker...* Kız kardeşimden yine mektup! Bu artık fazla olmaya başladı.<br><waitbutton><hr>Üzgünüm ama <span class="color-2">Drauk Yerleşimi</span>'ndeki <span class="color-2">kız kardeşime</span> artık eve dönmesini söyler misin?<br><waitbutton><hr>Karşılığını mutlaka veririm.<br><waitbutton>|
 73250|Kız kardeşimin yaptığı müzik kutusunu taklit<br>edip onun beceri seviyesine yetişmek istiyorum.<br><waitbutton><hr>[0x9, 0x6f0, 0x100]Ama elimde yeterince malzeme yok...<br><br><waitbutton><hr><span class="color-2">Orman Denizi Labirenti</span>’nden bir<br><span class="color-2">Obsidyen Parçası</span> getirir misin? Lütfen?<br><waitbutton><hr><span class="color-2">Bir sürü Altın Levha</span> kullansan bile bulması<br>zor olabilir; çekinirsen seni anlarım.<waitbutton>|
-73251|Şey, <playername>...<br>Kız kardeşime onu görmeye gideceğime<br>söz verdim.<waitbutton><hr>[0x9, 0x6f0, 0x100]<span class="color-2">Kidung Geçidi</span>’nde buluşacağız...<br>Ama oraya tek başıma gitmeye çok korkuyorum...<br><waitbutton><hr>Sana yük olduğum için üzgünüm ama<br>benimle gelir misin?<br><waitbutton>|
+73251|<span class="color-2">Büyük Wakuto Kanyonu</span>'na gitmeyi düşünüyorum.<waitbutton><hr>[0x9, 0x6f0, 0x100]Son zamanlarda <span class="color-1">Zırhlı Yengeç</span>'in vefat edenlerin mezarlarını talan ettiğini duydum...<waitbutton><hr>Sana yük olduğum için üzgünüm ama benimle gelir misin?<waitbutton>|
 73252|<playername>, senden bir şey isteyeceğim. Dükkânın dışında konuşabilir miyiz?<br><waitbutton>|
 73253|Kendi ellerinle yetiştirdiğin bitkiler,<br>kendi çocuğun gibidir. Onlara daha da<br>özenle bakmak gerekir.<waitbutton>|
 73254|Vay canına, çok teşekkür<br>ederim! Şimdi dükkânım<br>daha da hareketli olacak.<br><waitbutton>|
@@ -5281,7 +5281,7 @@
 73258|Bazı ezgiler tükendi ama<br>dükkânımın sesi hâlâ kesilmedi.<br><waitbutton>|
 73259|Ses olmayınca insan yalnız hissediyor...<br>Yapabilirsen lütfen dükkânıma<br>biraz malzeme getir. Teşekkürler!<waitbutton>|
 73265|O bakış... Demek kız kardeşim sana her şeyi anlattı.<br><waitbutton><hr>Onu görmekten korkmamın nedeni, yeteneğini aramıza sokan kişinin ben olmam.<waitbutton><hr>O kusursuz şarkılar yazarken, benim gibi bir abi onun yanında nasıl durabilir ki?<waitbutton><hr>Bunu konuşmayalım. Konuştukça içim kararıyor.<waitbutton><hr>Yardımın için teşekkürler. Bunu da teşekkür olarak kabul et.<br><waitbutton>|
-73267|[0x9, 0x6ed, 0x100]Bununla müzik kutumu tamamlayabilirim...<br>Hadi bir dinleyelim. Dur, ne?<br><waitbutton><hr>Neden kız kardeşimin yaptığı gibi çalmıyor?<br>Bu... BENİM sesim mi?<br><waitbutton><hr>Tabii ya... Onun tekniğini kopyalamakla<br>onun sesini kopyalayamam. Bu melodi bana ait.<br><waitbutton><hr>Yine de dükkânımda satacak kadar güzel!<br>Belki de kendi sesim o kadar kötü değildir.<br><waitbutton><hr>Malzemeleri getirdiğin için teşekkür ederim.<br>Bunu da teşekkür olarak al.<br><waitbutton>|
+73267|[0x9, 0x6ed, 0x100]Bununla müzik kutumu tamamlayabilirim... Dur, ne?<waitbutton><hr>Neden kız kardeşimin şarkısı gibi çalmıyor? Bu... benim şarkım mı?<waitbutton><hr>İnanamıyorum! Bu şarkıyı kimin yazdığını ayırt etmek zor ama dükkânımda satacağım.<waitbutton><hr>Malzemeleri getirdiğin için teşekkür ederim. Bu da teşekkür hediyen.<waitbutton>|
 73269|Kız kardeşimle gerçekten konuşmayalı yıllar oldu...<br><waitbutton><hr>Sen olmasaydın, <playername>, muhtemelen hâlâ bu kara bulutların gölgesinde yaşıyor olurdum...<waitbutton><hr>Aramızdaki engeli sonunda aşabildim. Şimdi önüm çok daha açık.<waitbutton><hr><playername>, sana ne kadar teşekkür etsem az. Lütfen bunu al!<br><waitbutton>|
 73271|Hayat nasıl gidiyor, <playername>?<br><br><waitbutton>|
 73272|Anlıyorum... isteğim kalbinde<br>yankı bulmadı demek.<br>Yazık olmuş.<br><waitbutton>|
@@ -5290,13 +5290,13 @@
 73283|[0x9, 0x6ef, 0x100]Bu da ne... <span class="color-2">Altın Toprak</span> mı?!<br><br><waitbutton><hr>Gerçekten? Alabilir miyim? Çok teşekkür ederim! Kırılan müzik kutusunu tamir edebilirim!<waitbutton><hr>Çok naziksin! Çok mutluyum!<br><br><waitbutton><hr>Bu da teşekkür hediyesi. Umarım beğenirsin...<br><br><waitbutton>|
 73287|Ah...<br><br><waitbutton>|
 73288|Küpipan seni yolladı...<waitbutton><hr>Onun kız kardeşi olduğum için<br>şaşırmazsın ama<br>ben de tıpkı onun gibi bir müzik<br>kutusu ustasıyım.<br><waitbutton>|
-73289|Küpipan memleketimizden kaçtı<br>ve o zamandan beri beni görmek<br>istemiyor.<br><br>Endişeleniyorum, bu yüzden mektup<br>gönderiyorum ama<br><waitbutton><hr>ya hiç cevap vermiyor ya da hep ortalarda<br>olmuyor...<br><br>Biliyorum. Bu hâle gelmesinin nedeni<br>benim yüzümden.<br><waitbutton><hr><br>Bunu bir yabancıya söylememem<br>gerekirdi ama<br>nedense sana anlatmak<br>istedim.<br><waitbutton><hr><br>Başka bir zaman yine denerim. Lütfen<br>Küpipan'a göz kulak olur musun?<br><waitbutton>|
+73289|Küpipan memleketimizden kaçtı ve o zamandan beri beni görmek istemiyor.<waitbutton><hr>Endişeleniyorum, bu yüzden ona mektuplar gönderiyorum ama ya hiç cevap vermiyor ya da ortalarda olmuyor...<waitbutton><hr>Biliyorum, bu hâle gelmesinin nedeni benim...<waitbutton><hr>Bunu bir yabancıya söylememem gerekirdi ama nedense sana anlatmak istedim.<waitbutton><hr>Başka bir zaman yine denerim. Lütfen Küpipan'a göz kulak olur musun?<waitbutton>|
 73290|İyi misin? Yaralandın mı?<waitbutton><hr>Parmakların incinirse ne<br>yaparım bilmiyorum...<br><waitbutton>|
 73291|İyiyim. Teşekkür ederim. Daha önemlisi...<br><br><waitbutton><hr>Küpipan, sonunda birbirimizi görebildik. Bunca zamandır çok endişelendim.<br><waitbutton>|
 73292|Üzgünüm. Ben... müzik kutularını hep sevdim ama senin gibi bir yeteneğim hiç olmadı.<br><waitbutton><hr>Müzik kutusu yapmayı bir türlü bırakamadım. Sürekli yaptım ve seninkilerle karşılaştırdım...<waitbutton><hr>Hayranlığım, kıskançlığım ve pişmanlığım içimde büyüyüp durdu.<waitbutton><hr>Bu yüzden seni görmeye cesaret edemedim. Özür dilerim...<br><waitbutton>|
 73293|Ben de böyle olduğunu düşünmüştüm. Küpipan, beni dinle...<br><waitbutton><hr>Sen benim sesimi taklit edemezsin, ben de seninkini.<waitbutton><hr>Senin kendine özgü bir sesin var. Benimkini taklit etmeye çalışma; kendi sesini bul.<waitbutton><hr>Sanatçı olacaksan eserlerinde kendi sesini duyurmalısın.<waitbutton><hr>Kendini başkalarının yeteneğiyle kıyaslama. Kendin ol ve kendi müziğini çal.<waitbutton>|
 73294|Kendi sesimi mi bulayım...?<br><br><waitbutton>|
-73295|Bunu sonunda sana söyleyebildiğime sevindim.<br>Peşinden epey yol teptim ama değdi!<br><waitbutton><hr>Artık dönmem gerek. İkimiz de elimizden<br>geleni yapalım, Küpipan!<br><waitbutton><hr>Bu arada, dükkânında sattığın müzik kutusunun<br>sesi gerçekten çok güzel. Görüşürüz!<br><waitbutton>|
+73295|Bunu sana söylemek istiyordum. Ne yazık ki şimdi gitmem gerek.<waitbutton><hr>Pekâlâ, ikimiz de elimizden geleni yapalım, Küpipan!<waitbutton><hr>Bu arada, dükkânında sattığın müzik kutusu çok güzel sesler çıkarıyordu. Sonra görüşürüz.<waitbutton>|
 73296|Bu haksızlık... Böyle bir laf edip gitmek!<br><waitbutton><hr><playername>, çok teşekkür ederim. Kafam şimdi çok daha net.<br><waitbutton><hr>Hadi eve dönelim. Vahaya dönünce lütfen dükkânıma uğra.<br><waitbutton>|
 73297|Bu iş için seni rahatsız ettiğim için özür<br>dilerim...<br>Aslında bu, benimle abim arasında<br>olmalıydı.<br><waitbutton>|
 73303|Sözümü tutmalıyım. Kalabalık<br>olabilir ama<br>içeri girmeliyim...<br><waitbutton>|
@@ -5322,37 +5322,37 @@
 73333|Garip ama seninle rahatça konuşabiliyorum; başkalarının yanında aynı rahatlığı bulamıyorum...<br><waitbutton>|
 73334|...Dürüst olmak gerekirse, biriyle karşı karşıya gelince hâlâ donup kalıyorum. Acaba bir gün insanlarla rahatça konuşabilir miyim...<waitbutton>|
 73335|Ah, hayır! Ya o tüccar herkese benden bahsederse? Çölün alay konusu olurum...<br><waitbutton><hr>Hayır... Bittim...<br><br><waitbutton>|
-73336|İletişim kurmak için çabalarsam,<br>karşımdaki kişi dinler... *iç çeker*<br>Şimdi<br>daha iyi hissediyorum.<waitbutton>|
+73336|İletişim kurmak için çabalarsam,<br>karşımdaki kişi dinler... *iç çeker*<br>Şimdi daha iyi hissediyorum.<waitbutton>|
 73339|Serkahlar, Okyanus Nekropolü'nü kendi topraklarıymış gibi sahipleniyorlar.<br><waitbutton><hr>Bu kadarı da haddini aşmak... ama bunu yüzlerine söyleyecek cesaretim yok...<waitbutton>|
 73340|Unutulmuş Orman'daki bitkiler ekmek malzemesi olmaya uygun görünüyor. Tabii Kaos zehri taşımamaları şartıyla...<waitbutton>|
 73341|Denemeler Tapınağı kulağa korkutucu geliyor...<br><br><waitbutton><hr>Mümkünse oraya gitmemeyi tercih ederim...<br><br><waitbutton>|
-73345|O bitkiler büyümeye başladığından<br>beri<br>buralar epey karanlık oldu...<br><waitbutton>|
-73346|Dükkânıma hoş geldin... Hangi<br>ekmek<br>istersin?<br><waitbutton>|
+73345|O bitkiler büyümeye başladığından beri<br>buralar epey karanlık oldu...<br><waitbutton>|
+73346|Dükkânıma hoş geldin... Hangi ekmeği<br>istersin?<br><waitbutton>|
 73347|Özür dilerim. Şimdiden söyleyeyim...<br>...Bazı ekmeklerim tükendi...<br><waitbutton>|
 73348|İçeri girmenin anlamı yok... Hiçbir şey<br>kalmadı... Dükkânı kapatmam gerek...<br><waitbutton>|
 73349|[0x9, 0x772, 0x100]Yani... eğer sende varsa tabii ama... Ee... sende <span class="color-2">Çavdar</span> var mı?<br><waitbutton><hr><span class="color-2">Serkah Yerleşimi</span>'ndeki tüccarda çavdar tohumları olmalı... eğer zahmet olmazsa...<waitbutton><hr>Biliyorsun, başkalarıyla konuşmayı hiç sevmem, o yüzden... lütfen bana biraz çavdar getir. Yeni ekmek serim için lazım...<waitbutton>|
-73350|[0x9, 0x772, 0x100]Aslında, ee... Meğer işim gereği müşterimle yüz yüze görüşmem gerekiyormuş.<br><waitbutton><hr>Ama... biliyorsun, sadece selam vermek bile beni geriyor; toplantı yapmak bir yana...<waitbutton><hr>Üstelik müşteri, <span class="color-2">Kum Şelalesi Kanalı</span>'nın en uzak ucunda, <span class="color-2">büyük kum tümseği</span>'nin yakınında buluşmak istiyor...<waitbutton><hr>Yalvarırım! Lütfen benimle Bahar Tepesi'ndeki <span class="color-2">Kum Şelalesi Kanalı</span>'na gelir misin?<waitbutton>|
+73350|[0x9, 0x772, 0x100]Aslında, ee... İşim gereği müşterimle yüz yüze görüşmem gerekiyormuş.<br><waitbutton><hr>Ama... biliyorsun, sadece selam vermek bile beni geriyor; toplantı yapmak bir yana...<waitbutton><hr>Üstelik müşteri, <span class="color-2">Kum Şelalesi Kanalı</span>'nın en uzak ucunda, <span class="color-2">büyük kum tümseği</span>'nin yakınında buluşmak istiyor...<waitbutton><hr>Yalvarırım! Lütfen benimle Bahar Tepesi'ndeki <span class="color-2">Kum Şelalesi Kanalı</span>'na gelir misin?<waitbutton>|
 73351|[0x9, 0x772, 0x100]Doğrusunu söylemek gerekirse... sanırım en sevdiğim mendilimi kaybettim...<br><waitbutton><hr>Ne yapacağım? Yeni insanlarla buluşurken sinirlerimi yatıştırmak için onu elimde tutmam gerekiyor!<waitbutton><hr>Geçen gün o tüccarla buluştuğumda <span class="color-2">Kum Şelalesi Kanalı</span>'nda düşürmüş olabilirim...<waitbutton><hr>Lütfen, <playername>! Benimle yine Kum Şelalesi Kanalı'na gelir misin?<waitbutton>|
-73352|Üzgünüm ama... seninle konuşmam gerek.<br>Hızlıca<br>olacak, lütfen dışarıda beni bekle!<br><waitbutton>|
-73353|Bitkilerle uğraşmak bana daha kolay<br>geliyor. Keşke<br>ömrüm boyunca bahçeyle uğraşabilsem...<waitbutton>|
+73352|Üzgünüm ama... seninle konuşmam gerek.<br>Hemen halledeceğim, lütfen dışarıda bekle!<br><waitbutton>|
+73353|Bitkilerle uğraşmak bana daha kolay<br>geliyor. Keşke ömrüm boyunca bahçeyle<br>uğraşabilsem...<waitbutton>|
 73354|Teslimat için teşekkürler.<br>İleride<br>yeniden isteyebilir miyim?<br><waitbutton>|
-73355|Stoklarımın azaldığını fark<br>etmişsin. Teşekkürler.<br>Gerçekten beni kurtardın.<br><waitbutton>|
+73355|Stoklarımın azaldığını fark etmişsin.<br>Teşekkürler. Gerçekten beni kurtardın.<br><waitbutton>|
 73356|Dükkânı kapatsam mı diye düşünmüştüm ama<br>vazgeçtim. Teslimat için teşekkürler...<waitbutton>|
 73357|Yine uğrar mısın? Senin etrafta<br>olman<br>gerçekten beni sakinleştiriyor.<br><waitbutton>|
 73358|Tükenen o ekmeği yeniden yapmak istiyorum.<br>Malzeme getirebilirsen çok yardımcı olur.<waitbutton>|
-73359|Teslimat yoksa, dükkânda tek başıma<br>otururum. Aslında pek de umurumda değil...<waitbutton>|
+73359|Teslimat gelmezse dükkânda tek başıma<br>otururum. Gerçi benim için fark etmez...<waitbutton>|
 73365|[0x9, 0x772, 0x100]Ah, bana çavdar getirmişsin...<br>Teşekkür ederim. Gerçekten minnettarım.<waitbutton><hr>Şimdi söylemem komik gelebilir ama<br>yeni insanların yanında aşırı utangacım...<br>ama bunun üzerinde çalışıyorum.<waitbutton><hr>Her neyse... Sana bir şey vermem lazım.<br><br><waitbutton>|
 73367|[0x9, 0x772, 0x100]*iç çeker...* Utangaç olmak bir<br>yana, işimi gerçekten batırdım...<br><waitbutton><hr>O tüccarla doğru düzgün iş konuşamadık bile.<br>Vaktini tamamen boşa harcadım gibi hissediyorum.<waitbutton><hr>Ben tam bir fiyaskoyum...<br><br><waitbutton><hr>...Özür dilerim. Sanırım panikledim...<br>Yine de sana bir teşekkür hediyesi<br>vermem gerek.<br><waitbutton>|
-73369|[0x9, 0x772, 0x100]<playername>, o tüccarın sözleri beni<br>kurtardı...<br><br>Düşününce fark ettim ki, belki<br>de<br>fazla aceleci davranmışım...<br><br><waitbutton><hr>Sabırlı olur ve neyi iletmem<br>gerektiğine odaklanırsam,<br>insanlar beni dinler...<br><br><waitbutton><hr>Hemen iyi olamayabilirim ama zamanla<br>gelişeceğime güvenmeliyim.<br><br><waitbutton><hr>Benimle geldiğin için teşekkür ederim.<br>Bu da teşekkürümün bir nişanesi.<br><waitbutton>|
+73369|[0x9, 0x772, 0x100]<playername>, o tüccarın sözleri beni<br>kurtardı...<waitbutton><hr>Düşününce fark ettim ki, belki fazla<br>aceleci davranmışım...<br><br><waitbutton><hr>Sabırlı olur ve neyi iletmem<br>gerektiğine odaklanırsam,<br>insanlar beni dinler...<br><br><waitbutton><hr>Hemen iyi olamayabilirim ama zamanla<br>gelişeceğime güvenmeliyim.<br><br><waitbutton><hr>Benimle geldiğin için teşekkür ederim.<br>Bu da teşekkürümün bir nişanesi.<br><waitbutton>|
 73371|İsteğim ne durumda?<br>Seni rahatsız mı ediyor acaba?<br><waitbutton>|
 73372|A-anladım. Yapacak bir şey yok.<br>Müsait olunca yine sorarım.<br><waitbutton>|
 73386|Kalabalık bir vahaya gitmeyi düşünmek bile beni o kadar geriyor ki bacaklarımı oynatamıyorum...<waitbutton><hr>Hayır... korkmamalıyım... Sakinleşince yola çıkacağım...<br><waitbutton>|
-73387|Sen Isa olmalısın. Lütfen<br>sadece neye ihtiyacın<br>olduğunu söyle.<br><waitbutton>|
-73388|Ş-ş-şey... ben, ee, ben...<br><br>Yulaf... tohumu? Yulaf...<br>tohumu. L-l-lütfen?<br><br><waitbutton>|
-73389|Ha? Ne tohumu dedin?<br><br><waitbutton><hr>Üzgünüm ama biraz daha açık konuşmalısın.<br>Ne dediğini anlayamıyorum.<br><waitbutton>|
-73390|Ş-şey... ben... Yani...<br><br><waitbutton><hr>Ee... şey...<br><br><waitbutton><hr>...<br><br><waitbutton>|
+73387|Sen Isa olmalısın. Neye ihtiyacın<br>olduğunu söylemen yeterli.<br><waitbutton>|
+73388|Ş-ş-şey... Ben, ee...<br><br><waitbutton><hr>Yulaf... tohumu? Yulaf tohumu.<br>L-l-lütfen?<br><br><waitbutton>|
+73389|Üzgünüm ama biraz daha yüksek sesle<br>konuşmalısın. Ne dediğini anlayamıyorum.<br><waitbutton>|
+73390|Ee...<br><br><waitbutton>|
 73391|Hmm... Belki başka bir zaman<br>gelmelisin, ha?<br><waitbutton>|
-73392|Ah, işte burada! Mendilim!<br><br><waitbutton><hr>Kuma bulanmış ama sorun değil.<br>Bulduğuma çok sevindim...<waitbutton>|
+73392|Ah, işte burada! Mendilim!<br><br><waitbutton><hr>Kum içinde kalmış ama sorun değil.<br>Bulduğuma çok sevindim...<waitbutton>|
 73393|Hey, seni hatırlıyorum. Sen...<br>Isa, değil mi?<br>Burada karşılaşmak ne güzel!<br><waitbutton>|
 73394|Ah, ee... geçen gün... evet...<br><br><waitbutton>|
 73395|Geçen gün için özür dilerim. Ne kadar gerildiğini fark etmeliydim.<br><waitbutton>|
@@ -5360,26 +5360,26 @@
 73397|Anlıyorum. Ama kendini acele etmek zorunda hissetmene gerek yok.<br><waitbutton><hr>Önce ne söylemek istediğini ve nasıl söyleyeceğini düşün; sonra yavaşça konuş.<waitbutton><hr>Kelimelerin kusursuz olmasa bile, gerçekten anlatmaya çalışırsan karşındaki seni anlayacaktır.<waitbutton><hr>Kusura bakma, artık gitmeliyim. Bir dahaki karşılaşmamızda acele etmeden işimizi hallederiz!<waitbutton>|
 73398|...<br><br><waitbutton><hr><playername>, sanırım buradan sadece mendilimi değil, çok daha önemli bir şeyi de götüreceğim.<waitbutton><hr>Hadi, vahaya dönelim. Daha sonra dükkânıma uğramanı istiyorum.<br><waitbutton>|
 73399|...Özür dilerim. Vahaya dönelim...<br><br><waitbutton>|
-73403|İnsanların konuştuğunu duyuyorum! Normal tabii ama insan içine çıkmayalı o kadar uzun zaman oldu ki!<waitbutton>|
+73403|İnsanların konuştuğunu duyuyorum!<br>Öyle olması normal ama uzun zamandır<br>insanların arasında bulunmamıştım!<waitbutton>|
 73404|Evet! Vahadaki hayatım artık<br>resmen başladı!<br>Tamamdır!<br><waitbutton>|
-73405|Merhaba, ben Moza. Kendi<br>flütlerimi yaparak<br>geçimimi sağlıyorum!<br><br>Harika bir flüt ustasının<br>çırağıydım, yani flüt<br><waitbutton><hr>yapma becerilerime güvenebilirsin!<waitbutton>|
+73405|Merhaba, ben Moza. Kendi flütlerimi<br>yaparak geçimimi sağlıyorum!<waitbutton><hr>Harika bir flüt ustasının çırağıydım;<br>flüt yapma becerilerime güvenebilirsin!<waitbutton>|
 73407|Ha ha ha... Biri bana nazik davranınca,<br>ben de başkalarına nazik olmak<br>istiyorum!<br><waitbutton>|
-73416|Senin gibi iyi bir şefin olduğu bu vaha çok<br>canlı!<br>Sanırım burada yaşamak istiyorum!<br><waitbutton>|
+73416|Senin gibi iyi bir şefin olduğu bu vaha<br>çok canlı! Sanırım burada yaşamak istiyorum!<br><waitbutton>|
 73417|Böyle sohbet etmek eğlenceli ama doğru kelimeleri her zaman bulamıyorum.<br><waitbutton><hr>Sanırım çok uzun süre yalnız kaldığımdan...<waitbutton>|
 73418|Bitkiler, kemikler ve taşlar... Kullanılan malzeme bir flütün sesini gerçekten değiştirebilir.<br><waitbutton><hr>Üstelik aynı malzemeden yapılmış iki flüt bile çok farklı sesler çıkarabilir. İlginç, değil mi?<waitbutton>|
 73419|Sabahları hep sersem gibi oluyorum ama<br>belki flüt çalarsam kafam açılır!<waitbutton>|
-73420|Bu vaha bizi korumak için var ama<br>bunu hafife almamalıyız.<br><br>Burada kendimizi toparlayıp enerji<br>depolamalı,<br><waitbutton><hr>sonra da o enerjiyi ilerlemek için<br>kullanmalıyız.<waitbutton>|
+73420|Bu vaha bizi korumak için var ama bunu<br>hafife almamalıyız.<waitbutton><hr>Burada kendimizi toparlayıp enerji<br>depolamalı, sonra da ilerlemek için<br>kullanmalıyız.<waitbutton>|
 73421|Keşke gece daha uzun olsa da<br>daha çok uyusam...<br><waitbutton>|
 73422|Dün söyledim, bugün de söyleyeceğim:<br>Teslimat için teşekkürler, Şef!<br><waitbutton>|
 73423|Bugün o kadar çok şey aldım ki. Bazen hiçbir şeyi kafaya takmadan rahatlamak güzel!<waitbutton>|
 73424|Bugünden itibaren dewademleri akıllıca<br>biriktireceğim!<br>Koca bir servet olmasa bile ilk adımı attım!<waitbutton>|
 73425|Flütte malzeme önemlidir ama en önemlisi, flütün onu çalan kişinin ruhuyla uyum içinde titreşmesidir.<waitbutton><hr>Çalanın ruhu sese karışır, nota da oradan doğar. Ben de bunu mümkün kılacak flütler yapmak için bütün ruhumu işe katıyorum.<waitbutton>|
 73426|Arbalet ustası mı lazım? Başka yere bakma.<br><span class="color-2">Nişanım o kadar iyi ki, oklarımla düşmanları sersemletebilirim</span>!<waitbutton>|
-73427|Günaydın, Şef! Sabahları selam<br>verecek<br>birinin olması güzel.<br><waitbutton>|
+73427|Günaydın, Şef! Sabahları selam verecek<br>birinin olması güzel.<br><waitbutton>|
 73428|Merhaba, Şef! Günün nasıl gidiyor?<br><br><waitbutton>|
 73429|İyi akşamlar, Şef. Vahada olunca<br>geceleri yalnız hissetmiyorum.<waitbutton>|
 73430|Birisiyle tanıştım! Büyük Wakuto Kanyonu'nun derinlerindeki <span class="color-2">Sapa Patika</span>'daydım.<waitbutton><hr>Bariz şekilde kaybolmuş bir Fidan gördüm... ama bunu kabul etmek istemiyordu.<waitbutton><hr>Tatil beldelerine takıntılı gibiydi. Bilmiyorum—garipti, ben de çekip gittim.<waitbutton>|
-73431|Festival mi? Çok canlı olacak<br>gibi!<br>Bol bol flüt hazırlamalıyım!<br><waitbutton>|
+73431|Festival mi? Çok eğlenceli olacak!<br>Bol bol flüt hazırlamalıyım!<br><waitbutton>|
 73433|Eski yöntemleri sürdürmek bir zanaatkâr için her zaman en iyi yol değildir...<waitbutton><hr>Zamana uygun işler yaratmak için yeni bilgi ve teknikleri etkin biçimde kullanmalıyız!<waitbutton>|
 73434|Çölde sık sık Kaos Fidanları<br>görüyorum.<br>Biraz ürkütücü...<br><waitbutton>|
 73435|Bir dahaki sefere Kaos Fidanlarını kovmak<br>için<br>flütün sesini kullanacağım. Şef, o zaman<br>bana yardım eder misin?<waitbutton>|
@@ -5394,7 +5394,7 @@
 73450|[0x9, 0x72e, 0x100]<span class="color-1">Emugrif</span>'in gagasından yapılan flütün çok<br>güzel ses çıkaracağını duydum.<waitbutton><hr>Ama Emugrifler, Büyük Wakuto Kanyonu'nun<br>merkezindeki <span class="color-2">Fırtına Yolu</span> yakınlarında<br>bulunan çok güçlü Kaos canavarları.<waitbutton><hr>Bu iş benim boyumu biraz aşıyor... O yüzden<br>bana yardım eder misin diye düşündüm.<waitbutton>|
 73451|[0x9, 0x731, 0x100]<span class="color-2">Kidung Mağaraları</span> yakınlarında <span class="color-1">tuhaf bir Fidanın</span> gezginlere saldırdığını duydum...<waitbutton><hr>Eğer bu aynı Fidansa... hmm.<waitbutton><hr>Bir şey yapmak istiyorum. Benimle Kidung Mağaraları'na gelir misin?<waitbutton>|
 73452|Seninle konuşmak istediğim bir şey var.<br>Dışarıda bir dakika konuşabilir miyiz?<br><waitbutton>|
-73453|Belki de bu mahsuller bizim uzaktan akrabalarımızdır...<waitbutton>|
+73453|Belki bu mahsullerin bizimle bir akrabalık bağı vardır...<waitbutton>|
 73454|Teslimat için teşekkürler. Artık<br>müşterilerimi<br>hayal kırıklığına uğratmam!<br><waitbutton>|
 73455|Stoklarımın azaldığını biliyordun!<br>Teşekkürler, Şef. Gerçekten çok naziksin.<br><waitbutton>|
 73456|Teşekkür ederim. Az kalsın dükkâna<br>son düdüğü çalıp kepenk<br>indirecektim.<br><waitbutton>|
@@ -5402,7 +5402,7 @@
 73458|Raflar epey boş görünüyor.<br>Yakında teslimat yapabilir misin?<br><waitbutton>|
 73459|Ah, hayır, satacak flütüm<br>kalmadı! Şef,<br>lütfen bana yardım et!<br><waitbutton>|
 73465|Kadim kemikler! Seni böyle bir<br>şeye koşturduğum için<br>üzgünüm ama teşekkürler!<waitbutton><hr>Dışarı çıktığımda hep o tuhaf<br>Fidan beni<br>takip ediyor...<br><br><waitbutton><hr>Nedenini bilmiyorum ama<br>ürkütücü...<br>İnsanın vahadan çıkası gelmiyor.<br><br><waitbutton><hr>Bu yüzden bunu gerçekten takdir ediyorum!<br>Al! Bu da teşekkürümün bir nişanesi!<br><waitbutton>|
-73467|Hey, Şef, az önce bir kitapta okudum. Meğer o adam ruhunu kaybetmiş ve “Kaos Fidanı” denen bir şeye dönüşmüş.<waitbutton><hr>Ruhlarını kaybetseler de benliklerinden bir parça hâlâ bedenlerinin içinde kalıyormuş...<waitbutton><hr>Emugrif gagasının sesi de içeride kalan o parçaya ulaşıyor olmalı!<waitbutton><hr>O Fidanın ruhuna şifa verebilecek bir flüt yapmak için elimden geleni yapacağım.<waitbutton><hr>Sana da teşekkür etmek istiyorum. Böyle bir şey hoşuna gider mi?<waitbutton>|
+73467|Hey, Şef, az önce bir kitapta okudum. Meğer o adam ruhunu kaybetmiş ve “Kaos Fidanı” denen bir şeye dönüşmüş.<waitbutton><hr>Ruhlarını kaybetseler de, özleri bedenlerinin içinde bir yerde hâlâ varlığını sürdürüyormuş...<waitbutton><hr>Emugrif gagasının sesi de içeride kalan o parçaya ulaşıyor olmalı!<waitbutton><hr>O Fidanın ruhuna şifa verebilecek bir flüt yapmak için elimden geleni yapacağım.<waitbutton><hr>Sana da teşekkür etmek istiyorum. Böyle bir şey hoşuna gider mi?<waitbutton>|
 73469|O Fidan en sonunda gülümsüyordu! Acaba flütün sesi ruhuna şifa verdi mi?<waitbutton><hr>Umarım öyledir.<waitbutton><hr>Yaşayanlar hayatın tadını çıkarsın; biz de Kaos'un yuttuğu ruhlara şifa olalım.<waitbutton><hr>Bazı flütlerin sesi herkesin ruhuna dokunabilir. Ben de öyle flütler yapmaya devam edeceğim.<waitbutton><hr>Teşekkürler, Şef. Lütfen bunu teşekkürümün bir nişanesi olarak kabul et.<waitbutton>|
 73471|Merhaba, Şef. Sorun ne?<br>İsteğim çok mu zordu?<br><waitbutton>|
 73472|Anlıyorum. Mantıksız davrandım,<br>özür dilerim.<br>Daha sonra tekrar isteyebilir miyim?<br><waitbutton>|
@@ -5418,7 +5418,7 @@
 73495|Acı çekiyor olmalı. Kaos tarafından yutulduğu için ruhu çok kötü durumda olmalı.<waitbutton><hr>Eğer flütün sesi ruhuna ulaşırsa, flütüm onu kurtarabilir!<waitbutton>|
 73496|...Wwwaa... wwha...<br><br><waitbutton>|
 73497|Çok acı çekmiş olmalısın. İyi dayandın. Şimdi dinlenme zamanı...<waitbutton><hr>Biz de geri dönelim, Şef. Sonra mutlaka dükkânıma uğra.<waitbutton>|
-73498|Kemik beyazı görünen bir<br>mercan buldun.<waitbutton><hr>Bu, Moza'nın bahsettiği kemik<br>mercan olmalı!<br><waitbutton>|
+73498|Kemik gibi bembeyaz bir mercan<br>buldun.<waitbutton><hr>Bu, Moza'nın bahsettiği kemik<br>mercan olmalı!<br><waitbutton>|
 73500|Bu mağaranın içi ne kadar<br>serin. Güneş şemsiyesi<br>kullanmamak ne güzel.<waitbutton>|
 73501|Burada kalıp dinlenmek isterdim ama yapamam. Yiyecek ve suyum azalıyor.<waitbutton><hr>Çölde yeni bir vaha olduğunu duydum. Sanırım gidip bir bakacağım...<waitbutton>|
 73503|Aman... Bu vaha beklediğimden çok daha<br>serin...<br>Acaba su ruhunun etkisi mi?<waitbutton>|
@@ -5429,13 +5429,13 @@
 73517|Vahanın içindeki esinti ne kadar güzel. Büyük Ağaç'ın Çocuğu olarak bu senin sayende mi?<waitbutton>|
 73518|Sıcağa pek dayanamıyorum, o<br>yüzden<br>kendim için güneş şemsiyeleri<br>yapmaya başladım.<waitbutton>|
 73519|Çölde güneş o kadar güçlü ki... Bütün gün<br>vahanın içinde kalmak istiyorum.<waitbutton>|
-73520|Hava sıcakken yanağına dewadem değdirmek insanı güzelce serinletiyor.<waitbutton>|
+73520|Hava sıcakken yanağına bir dewadem koymak insanı güzelce serinletiyor.<waitbutton>|
 73521|Yay ve okun olmasa bile, güçlü bir iradeyle<br>ruhunun gücüyle bir ok fırlatabilirsin.<waitbutton>|
 73522|Ah, evet. Dünkü teslimat için teşekkür ederim. Her zamanki inceliğini gerçekten takdir ediyorum.<waitbutton>|
 73523|*iç çeker* Bugün yine gereğinden fazla alışveriş yaptım. Buradaki satıcılar işlerini fazla iyi biliyor!<waitbutton>|
 73524|Güneş bugün çok güçlü... Başım dönüyor.<br>Hiç alışveriş yapasım yok...<br><waitbutton>|
 73525|Pınarın yanındaki ev senin mi? Serin ve havadar görünüyor. Kıskandım...<waitbutton>|
-73526|Silah etkinliğini çok ciddiye alırım; bu yüzden <span class="color-2">belirli saldırılara karşı zayıf düşmanlara çok büyük hasar</span> verebilirim.<waitbutton>|
+73526|Silahları etkili kullanmaya önem veririm; böylece <span class="color-2">belirli saldırılara karşı zayıf olan düşmanlara çok büyük hasar</span> verebilirim.<waitbutton>|
 73527|Günaydın, <playername>. Serin bir sabah, değil mi...?<waitbutton>|
 73528|Merhaba, <playername>. Güneş iyice yakmaya başladı...<waitbutton>|
 73529|İyi akşamlar, <playername>. Gece serin<br>oluyor,<br>bu hoşuma gidiyor.<br><waitbutton>|
@@ -5444,7 +5444,7 @@
 73533|Acaba nerede... Bu çölün bir<br>yerlerindedir mutlaka...<br><waitbutton>|
 73534|Malzemeleri bana getirdiğin için,<br>sağlam bir güneş şemsiyesi yapabildim.<br>Teşekkür ederim...<waitbutton>|
 73535|<span class="color-2">Sevda Çiçeği</span> son umudum.<br>O bile onu bulmama yardım etmezse<br>ne yaparım bilmiyorum...<waitbutton>|
-73536|Hihi... Belki de kendimi avutuyorum ama sanki bir yerlerden beni kolluyormuş gibi hissediyorum.<waitbutton>|
+73536|Hihi... Belki de bu sadece benim temennim ama sanki bir yerlerden beni kolluyormuş gibi hissediyorum.<waitbutton>|
 73540|Kalari Orman Denizi güneşten kaçınmak için<br>harika ama<br>o Kaos canavarları varken zor oluyor...<waitbutton>|
 73541|Büyük Wakuto Kanyonu'nun dibinde nasıl bir<br>yer var acaba?<br>Ya serin ve esintili bir cennet gibiyse?<waitbutton>|
 73545|Şu kara otlar ürkütücü... Serin esintili<br>vahayı<br>mahvediyorlar...<br><waitbutton>|
@@ -5462,21 +5462,21 @@
 73557|Anlıyorum. Şimdiden<br>gidiyorsun. İstediğin zaman<br>geri gelebilirsin.<br><waitbutton>|
 73558|Dükkân boşalmaya başladı. Bana biraz malzeme getirsen çok sevinirim. Ne dersin?<waitbutton>|
 73559|Satacak bir şey yok, yapacak bir şey yok...<br>Bana biraz malzeme getirme şansın var mı?<br><waitbutton>|
-73565|[0x9, 0x77c, 0x100]Bana Kumlu İbik mi getirdin? Artık sağlam güneş şemsiyeleri yapabilirim. Çok teşekkürler!<waitbutton><hr>Doğrusu, kaybolan sevgilimi aramak için yollardaydım...<waitbutton><hr>Güneş şemsiyem kırılınca yolculuğuma ara vermek zorunda kaldım.<waitbutton><hr>Ama artık yenisini yapabilirim; yani istersem hemen yola çıkabilirim...<waitbutton><hr>Şaka şaka! Onu bulana kadar burada kalacağım. Hem sana da yardım ederim.<waitbutton><hr>Nezaketin için teşekkür ederim. Bu da küçük bir teşekkür hediyesi.<waitbutton>|
+73565|[0x9, 0x77c, 0x100]Bana Kumlu İbik mi getirdin? Artık sağlam güneş şemsiyeleri yapabilirim. Çok teşekkürler.<waitbutton><hr>Doğrusunu söylemek gerekirse, kaybolan sevgilimi arıyordum...<waitbutton><hr>Ama güneş şemsiyem kırılınca, bir gün geri döner umuduyla burada kalmaya karar verdim.<waitbutton><hr>Teşekkür ederim. Nezaketinin karşılığı olarak bunu kabul et.<waitbutton>|
 73567|[0x9, 0x77f, 0x100]Sanırım sonunda ona iyice yaklaştım. Artık gerisi bana kalıyor...<waitbutton><hr>Eğer onunla ilgili bir rüya görürsem yine gelip seninle konuşurum.<waitbutton><hr>Bugün bana eşlik ettiğin için bunu al. Teşekkür ederim...<waitbutton>|
 73569|[0x9, 0x77f, 0x100]Teşekkür ederim. İyiyim.<waitbutton><hr>Eğer şimdi vazgeçersem, biliyorum ki o tarafta üzülür.<waitbutton><hr>Rüyamda bana, yüzümde bir gülümsemeyle yaşamaya devam etmem gerektiğini söyledi...<waitbutton><hr>Zaman alacak ama bir gün öteki dünyada yeniden karşılaşacağımıza inanarak yaşamaya devam edeceğim.<waitbutton><hr>Sana o kadar minnettarım ki bunu kelimelerle anlatamıyorum. Lütfen bunu kabul et...<waitbutton>|
 73571|Nasıl gidiyor? Sana<br>güveniyorum,<br>biliyorsun.<br><waitbutton>|
 73572|B-ben... anlıyorum. Meşgulsün. Ama<br>bir gün<br>müsait olursan bana haber ver.<br><waitbutton>|
 73581|[0x9, 0x77f, 0x100]Burada güneş şemsiyesi dükkânı yok. Belki de bir Tomurcuk Tezgâhı açmalıyım...<waitbutton><hr>Açacaksam dükkânıma uğur getirecek bir şey de lazım...<waitbutton><hr>Büyük Wakuto Kanyonu'nun merkezindeki <span class="color-2">Fırtına Yolu</span>'nu biliyor musun?<waitbutton><hr>Oranın yükseklerinde <span class="color-2">Işıktaşı</span> bulunuyor... Tam aradığım şey olur.<waitbutton>|
 73582|[0x9, 0x77f, 0x100]Burada bir Tomurcuk Tezgâhı açacaksam, dükkânım için uğur getirecek bir şeye ihtiyacım var...<waitbutton><hr>Büyük Wakuto Kanyonu'nun merkezindeki <span class="color-2">Fırtına Yolu</span> var ya; oranın yükseklerinde <span class="color-2">Işıktaşı</span> bulabilirsin.<waitbutton>|
-73583|[0x9, 0x77c, 0x100]Aa... Bu <span class="color-2">Işıktaşı</span> mı?<br>Ne kadar da güzel parlıyor...<br><waitbutton><hr>Ne?! Bunu benim için mi aldın?<br>Neden bana bu kadar nazik davranıyorsun?<br><waitbutton><hr>Garip... Böyle yakından bakınca<br>sen bu taştan bile daha çok parlıyorsun.<br><waitbutton><hr>Teşekkür ederim. Işıktaşını memnuniyetle<br>alırım! Bu da senin için; elimden gelen en azı.<br><waitbutton>|
+73583|[0x9, 0x77c, 0x100]Aa... Bu <span class="color-2">Işıktaşı</span> mı? Ne kadar da güzel parlıyor...<waitbutton><hr>Ne?! Bunu benim için mi aldın? Neden bana bu kadar nazik davranıyorsun?<waitbutton><hr>Teşekkür ederim. Işıktaşını memnuniyetle alırım! Bu da senin için; elimden gelen en azı.<waitbutton>|
 73586|Acaba vahada hoş karşılanır mıyım?<br>Umarım öyledir, çünkü oraya<br>gidiyorum!<waitbutton>|
 73587|O parıltılı taş... Gözünü biraz acıtacak kadar parlak.<waitbutton><hr>Bu kesin Işıktaşı. Hadi, vahada bekleyen Menwei'ye götürelim.<waitbutton>|
 73589|Hmm... Hanımefendi, bu üzgün surat da ne?<waitbutton><hr>Anlıyorum. Sanırım biliyorum. Sen şu Sevda Çiçeği'ni arıyorsun, değil mi?<waitbutton>|
 73590|Evet, doğru. O çiçeği istiyorum. Kaybolan<br>sevgilimi aramam gerekiyor...<br><waitbutton>|
 73591|Anlıyorum, anlıyorum. Bu seni derinden üzüyor olmalı.<waitbutton><hr>Pekâlâ, bu çiçeği sana vereceğim. Ama duyduğuma göre rüya hemen görülmüyormuş.<waitbutton><hr>Her gece sevdiğin kişiyi düşünerek bu çiçeğin acı nektarından bir yudum almalısın... Öyle derler.<waitbutton>|
 73592|Onu her gece düşünmek benim için hiç sorun değil.<waitbutton><hr>Bu nektar ne kadar acı olursa olsun, içimdeki kayıp acısının yanında hiçbir şey kalır.<waitbutton>|
-73593|Ah... Bu...<waitbutton><hr>Bu atkı... Ona verdiğim atkı bu...<waitbutton><hr>Rüyamda taktığı atkı... Üstelik paramparça olmuş...<waitbutton><hr>Sevda Çiçeği'nin bana gösterdiği rüya... Demek burada gerçekten yaşandı...<waitbutton><hr>O... gitmiş, değil mi? Ulaşamayacağım kadar uzak bir yere gitmiş...<waitbutton><hr>Hadi geri dönelim. Kendimi biraz toparlayınca Tomurcuk Tezgâhımda seninle konuşmak istiyorum.<waitbutton>|
+73593|Ah... Bu...<waitbutton><hr>Bu atkı... Ona verdiğim atkı...<waitbutton><hr>...Rüyamda taktığı atkı... Sevda Çiçeği'nin bana gösterdiği rüyadaki atkı... Burası, olanların yaşandığı yer...<waitbutton><hr>O... artık yok, değil mi? Ulaşamayacağım kadar uzaklara gitti...<waitbutton><hr>Hadi geri dönelim. Kendimi daha iyi hissedince Tomurcuk Tezgâhımda seninle konuşmak istiyorum.<waitbutton>|
 73594|Anlıyorum, anlıyorum. O zaman bu çiçek dileğine mutlaka karşılık verecektir.<waitbutton>|
 73595|Evet. Onu bulacağım. Teşekkür ederim, efendim.<waitbutton><hr>Hadi gidelim. Vahaya dönünce dükkânıma uğra lütfen.<waitbutton>|
 73596|Duyguların yeterince güçlüyse, bu çiçek aradığın kişiyi sana mutlaka rüyanda gösterir.<waitbutton>|
@@ -5520,13 +5520,13 @@
 75033|Bayan Mariah iyi midir acaba...<br>Onun için çok endişeleniyorum.<waitbutton>|
 75034|Biliyorsun, Bayan Mariah ne kadar fevri. Burada ne tür garip işlere kalkışacağını düşünmek bile beni geriyor.<waitbutton>|
 75035|Bayan Mariah'ı günün her saati<br>düşünüyorum.<br>Bu biraz sağlıksız olabilir.<waitbutton>|
-75036|Bayan Mariah bir gün kendine bir sevgili bulursa, herhalde babasıymışım gibi duygulanıp ağlarım...<waitbutton>|
+75036|Bayan Mariah bir gün kendine bir sevgili bulursa, herhalde ebeveyniymişim gibi duygulanıp ağlarım...<waitbutton>|
 75038|Ostraka Harabeleri'ndeki o dev<br>kazanı biliyor musun?<br>Onu oraya kim koydu acaba...<br><waitbutton>|
 75039|Okyanus Nekropolü'ndeki arkadaşlarım, Serkahlara göre bile biraz ters insanlardır.<waitbutton><hr>Hepsi iyi niyetli ama dışarıdan bakınca biraz huysuz görünüyorlar, değil mi?<waitbutton>|
 75040|Unutulmuş Orman'la ilgili pek iyi anılarım yok.<waitbutton><hr>Bayan Mariah orada tuhaf bir bitki yiyip fena hâlde midesini bozmuştu... Tam bir çileydi.<waitbutton>|
 75041|Duyduğuma göre Denemeler Tapınağı'nda kurbağalar varmış, değil mi?<waitbutton><hr>Kurbağalardan nefret ederim. Şu kaygan, siğilli derilerini görmek bile... ÖĞKK!<waitbutton>|
 75045|Bayan Mariah'ın şu kara bitkileri görüp yine gidip tadına bakmasından korkuyorum.<waitbutton>|
-75100|Selam! Geldiğin için sağ ol!<br>Serkah<br>Yerleşimi'ne hoş geldin!<waitbutton>|
+75100|Selam! Geldiğin için sağ ol!<br>Serkah Yerleşimi'ne hoş geldin!<waitbutton>|
 75101|Off... karnım gurulduyor... Acaba bir<br>yerde<br>Gurme Festivali mi var...<waitbutton>|
 75103|Gurme Festivali çok eğlenceliydi...<br>Burada kalırsam her gün öyle lezzetli şeyler<br>yiyebilirmişim gibi hissediyorum!<waitbutton>|
 75105|Yo! Geçen günkü Gurme Festivali'nde çok eğlendim!<waitbutton><hr>Ben Reuben. Lezzetli bir şey yemek için çölün öbür ucuna bile koşarım!<waitbutton>|
@@ -5540,13 +5540,13 @@
 75121|Zorluk severim! Karşı rüzgâr insanı daha da yükseğe uçmaya zorlar sonuçta!<waitbutton>|
 75123|İstediğim zaman daha çok dewadem<br>kazanırım!<br>O yüzden cimri olmaya gerek yok!<waitbutton>|
 75124|Canım istemediği gün<br>alışveriş yapmam!<br>Kuralım budur.<waitbutton>|
-75125|Taşlara zaafım var ama güzel yemeklere de hayır diyemem. Heheheh...<waitbutton>|
+75125|Taşlara zaafım var, ama gurme taşlara daha da düşkünüm. Heheheh...<waitbutton>|
 75126|Her türlü <span class="color-2">maden çıkarma</span> işini bana bırak. Ne varsa çıkarırım, hiç merak etme.<waitbutton>|
 75127|Oh! Günaydın! Biz Serkahlar erken kalkarız, bilirsin!<waitbutton>|
 75128|Selam. Karnımın<br>guruldamasına az kaldı!<br><waitbutton>|
 75129|Yo, <playername>. Bugün de iyi iş çıkardın.<waitbutton>|
 75133|İçgüdülerime sadık olmanın nesi kötü? Bunun için laf etseler de ben buyum.<waitbutton>|
-75134|Dışarıdan öyle görünmesem de kulaklarım keskindir. Uzakta biri köşeyi dönmenin yolundan bahsetsin, hemen duyarım!<waitbutton>|
+75134|Dışarıdan öyle görünmesem de kulaklarım keskindir. Uzakta biri kolay yoldan zengin olma planından söz etsin, hemen duyarım!<waitbutton>|
 75135|Kârı her şeyden önde tutarım ama kolay yolu sevmem. Sıkı çalışıp başarmanın verdiği o hissi isterim!<waitbutton>|
 75136|Biz Serkahlar deri değiştirmek için gizli bir yere çekiliriz. Heheheh.<waitbutton>|
 75138|Heheh! Bahse girerim Ostraka Harabeleri'ndeki Baastu, efsanevi hazinenin nereye gömüldüğünü bilir!<waitbutton>|
@@ -5577,10 +5577,10 @@
 75627|Yo! Günaydın! Gördüğün gibi<br>keyfim<br>yerinde!<br><waitbutton>|
 75628|Merhaba! Şey... Aslında başka bir şey<br>diyecektim ama... neydi ya?<br>Unuttum.<waitbutton>|
 75629|Yo! İyi akşamlar! Gördüğün gibi geceleri de gözüm faltaşı gibi açık!<waitbutton>|
-75633|Ahh! “Gözün midenden büyük,” derler ya... Benim midem arayı kapatıyor galiba!<waitbutton><hr>Daha yeni giydiğim yepyeni gömleğin düğmesi patlayıp odanın öbür ucuna fırladı!<waitbutton>|
+75633|Ahh! Gözüm midemden büyük, ama yakında midem de ona yetişecek!<waitbutton><hr>Daha yeni giydiğim yepyeni gömleğin düğmesi patlayıp odanın öbür ucuna fırladı!<waitbutton>|
 75634|Şu unutkanlığımı düzeltebilsem keşke... ama<br>unuttuğum<br>şeyleri unuttuğumu bile unutuyorum.<waitbutton>|
 75635|Bu vahaya gelmeden önce yanlış yola sapıp tehlikeli bir yere daldım.<waitbutton><hr>Bir de söyleyeyim—Orakkanatlar gözünü oymaya bayılır. Beni gagalayıp resmen kuma gömdüler! Berbattı.<waitbutton>|
-75636|Hehehe! Balık yemenin hafızayı<br>güçlendirdiğini<br>duydum!<br>Ama buna İskelet Balığı de dahil mi?<br>Kemiklerini mi yemek gerekiyor?<br><waitbutton><hr>Pek besleyici durmuyor.<waitbutton>|
+75636|Hehehe! Balık yemenin hafızayı güçlendirdiğini duydum!<waitbutton><hr>Ama buna İskelet Balığı da dahil mi? Kemiklerini mi yemek gerekiyor? Pek besleyici durmuyor.<waitbutton>|
 75639|Aklıma gelmişken, Serkah Yaşlısı, Fidan şefinin muhteşem biri olduğunu söylüyordu!<waitbutton>|
 75640|Kalari Orman Denizi'ne gideceksen sana eşlik edebilirim!<waitbutton><hr>Ne?! Ormandaki bütün kaktüsleri yiyip bitirmeye niyetim yok tabii! Heh heh.<waitbutton>|
 75641|Drauk Yerleşimi'ne giderken dikkatli ol. Orada uçurumlarla çevrili bir yer var.<waitbutton><hr>İlk gittiğimde uçurumdan yuvarlandım ve oradaki bütün Drauklar bana güldü.<waitbutton>|
@@ -5604,35 +5604,35 @@
 75727|Günaydın. İnsanlara selam<br>vermeye çalışırım ki bunadığımı<br>sanmasınlar.<waitbutton>|
 75728|Ho ho hoh... Güneş sen farkına<br>varmadan batacak!<br><waitbutton>|
 75729|Ho ho hoh... Gece oldu... Ay da<br>çıktı...<br><waitbutton>|
-75730|“<span class="color-2">Ekmek</span> yemek istiyorum!” Yok, ben değil. Az önce bir Fidan kızın bağırdığını duydum sadece.<waitbutton><hr>Bu vahada bir fırın yetiştirirsen belki o da buraya gelir. Heh...<waitbutton>|
+75730|“<span class="color-2">Ekmek</span> yemek istiyorum!” Yok, ben değil. Az önce bir Fidan kızın böyle bağırdığını duydum.<waitbutton><hr>Bu vahada bir fırın açarsan belki o da uğrar. Heh...<waitbutton>|
 75733|Yapabiliyorken yapman gerekeni yap. Benim<br>gibi<br>yaşlanana kadar beklersen iş işten geçer.<waitbutton>|
 75734|Son zamanlarda zaman çok hızlı geçiyor<br>gibi.<br>Sanki bitiş çizgisine koşuyorum.<waitbutton>|
 75735|Yaşlıyken bile iyi yaşamanın sırrı, diğer insanlarla ilişkilerine değer vermektir.<waitbutton><hr>Vahandaki sakinlere özenle davranırsan bir gün onlar da mutlaka sana yardım eder.<waitbutton>|
 75736|Seni böyle çok çalışırken görünce bazen ödüm kopuyor.<waitbutton><hr>Lütfen biz yaşlıları endişelendirecek kadar tehlikeli şeyler yapma, tamam mı?<waitbutton>|
 75739|Yaşamak yemektir. Yani, ne yersen osun. Daha da açık söyleyeyim: iyi yemek hayatı da güzelleştirir.<waitbutton><hr>Ne demek istediğimi anladın mı? Daha çok gurme yiyecek Tomurcuk Tezgâhı yetiştir diyorum, işte!<waitbutton>|
-75740|Kalari Orman Denizi'ndeki ağaçları yemeye kalkma sakın... O kadar kumlular ki yenilecek gibi değiller.<waitbutton>|
+75740|Kalari Orman Denizi'ndeki ağaçları yemeye kalkma sakın... Ağızda kum gibi dağılıyorlar, hiç lezzetli değiller.<waitbutton>|
 75741|Büyük Wakuto Kanyonu'nun çevresi eskiden<br>yemyeşil<br>bir çayırmış...<waitbutton>|
 75745|Şu kara bitkiler iğrenç. En sevdiğim trüf tuzuyla<br>bile<br>ızgara yapsan yemem.<waitbutton>|
 75764|Şimdiki gençler...<br>*homurdanır*<br><waitbutton>|
 75771|Şey... Ben gerçekten <span class="color-2">Pofuduk<br>Kaplanşan Kürkü</span> istiyorum,<br>biliyor musun?<waitbutton>|
 75781|Şu tatlı yüzüme bir bak! Bir kase jöle<br>gibi yumuşacık, değil mi?<waitbutton><hr>Hey, göbeğimi demedim! Yüzümü diyorum!<br>Yüzüme bak!<waitbutton><hr>Her neyse. Eğer biraz <span class="color-2">Pofuduk Kaplanşan Kürkü</span> olsaydı, yüz maskelerim için pamuk yapabilirdim.<waitbutton><hr>Senden <span class="color-2">Kalari Orman Denizi</span>'ndeki <span class="color-1">Kaplanşan</span>ları avlamanı isteyebilir miyim?<waitbutton>|
-75782|Lütfen. Bu ömürde senden istediğim tek şey bu! Hiç değilse güzel yüzüm için yap şunu!<waitbutton><hr><span class="color-2">Kalari Orman Denizi</span>'ndeki bir <span class="color-1">Kaplanşan</span>'dan bana biraz <span class="color-2">pofuduk kürk</span> getir...<waitbutton><hr>Bilmiyorsan söyleyeyim, Kalari Orman Denizi'ne <span class="color-2">Kum Şelalesi Kanalı</span>'ndan geçerek gidebilirsin.<waitbutton>|
-75783|Ho ho hoh! Pofuduk bir kürk topu! Bunu hemen yüz maskem için pamuk toplarına çevireceğim...<waitbutton><hr>Diğer Serkahlar durmadan yemek konuşur ama ben yakışıklı yüzüm hakkında konuşmayı tercih ederim!<waitbutton><hr>Ne bakıyorsun öyle? Yoksa yeni bir kırışıklık mı gördün?!<waitbutton><hr>Al, bu özel ödülü hak ettin. Şimdi müsaade et de maskemi yapayım!<waitbutton>|
+75782|Lütfen. Bu, hayatta senden isteyeceğim en önemli şey! Hiç değilse güzel yüzüm için yap şunu!<waitbutton><hr><span class="color-2">Kalari Orman Denizi</span>'ndeki bir <span class="color-1">Kaplanşan</span>'dan bana biraz <span class="color-2">pofuduk kürk</span> getir...<waitbutton><hr>Bilmiyorsan söyleyeyim, Kalari Orman Denizi'ne <span class="color-2">Kum Şelalesi Kanalı</span>'ndan geçerek gidebilirsin.<waitbutton>|
+75783|Ho ho hoh! Ne yumuşak bir kürk topu! Bunu hemen yüz maskem için pamuk toplarına çevireceğim...<waitbutton><hr>Diğer Serkahlar durmadan gurme yemeklerden söz eder; ben ise yüzümden söz etmeye doyamam!<waitbutton><hr>Bu kadar özel bir ödülü hak ettin. Al bakalım, sonra işime döneyim.<waitbutton>|
 75787|Kaplanşan bir şey düşürdü.<waitbutton><hr>Pofuduk, yumuşak bir kürk topu. Belki de Miclessa'nın bahsettiği pofuduk kürk budur...<waitbutton>|
-75800|Hey! Sen! Buralarda dolaşmak tehlikeli.<waitbutton><hr>Ben burada Kaos canavarlarını seyirci yapıp numaralarımı geliştiriyorum. Ama mizah anlayışları pek yok galiba.<waitbutton><hr>Bu çalışmayı amatörlere hiç tavsiye etmem...<waitbutton>|
+75800|Hey! Sen! Buralarda dolaşmak tehlikeli.<waitbutton><hr>Kaos canavarları üzerinde komedi numaralarımı deniyorum. Ama şakalarımı pek anlamıyorlar galiba.<waitbutton><hr>Bu yöntemi amatörlere hiç tavsiye etmem...<waitbutton>|
 75801|Dur. Kulaklarıma inanamıyorum. Sen bir vahanın şefi misin?!<waitbutton><hr>Harika! Vahana gelip halkını eğlendirmek isterim. Herkesi güldürebilirim!<waitbutton>|
 75803|Şimdi herkesi kahkahaya boğma zamanı! Bu benim yeni hayat amacım!<waitbutton>|
-75805|Ah! Geçen gün için teşekkürler!<br>Düşündüğümden uzun sürdü ama sonunda vahana<br>geldim! Burada sonunda içimdeki palyaçoyu<br>özgür bırakabilirim!<br><waitbutton><hr>İnsanları güldürmek artık hayat amacım!<br><waitbutton><hr>Zak adını hafızana kazı! BU SİMAAAYI<br>UNUTMAAA!<waitbutton>|
+75805|Ah! Geçen gün için teşekkürler! Düşündüğümden uzun sürdü ama sonunda vahana gelebildim!<waitbutton><hr>Burada doğuştan olduğum palyaçoya dönüşebilirim! İnsanları güldürmek artık hayat amacım!<waitbutton><hr>Zak adını hafızana kazı! BU SİMAAAYI UNUTMAAA!<waitbutton>|
 75806|Bu kadar insan bir aradayken şaka başına düşen kahkaha sayım tavan yapacak!<waitbutton>|
 75816|O hâlde bu vahayı kahkahaya boğacağım!<br>Hadi, beni sakinler listene ekle!<waitbutton>|
-75817|Serkah Yerleşimi'nde herkes aynı saatte<br>uyanıp yemek yer. Kural böyle.<br>Ama Fidan vahalarında öyle değil, değil mi?<br><waitbutton><hr>Sabahları özgür olmak güzel ama insan<br>bir yandan da o beraberliği özlüyor.<waitbutton>|
+75817|Serkah Yerleşimi'nde herkesin aynı saatte uyanıp yemek yeme kuralı var.<waitbutton><hr>Ama Fidan vahalarında öyle değil, değil mi? Sabahları özgür olmak güzel ama bir yandan da o beraberliği özlüyorum.<waitbutton>|
 75818|Ben gururlu bir palyaçoyum. İnsanları güldürmek hayat amacım. BUNUN UTANILACAK HİÇBİR YANI YOK!<waitbutton>|
 75819|Sabaha negatif bir ruh hâliyle uyanırsan bütün gün sürünürsün!<waitbutton><hr>O yüzden güne gülümsemeyle başla! YOKSA KOLTUK ALTINI GIDIKLARIM!<waitbutton>|
 75820|Mutluysan belli et!<br>GÖREYİM ŞU GÜLÜŞÜ!<br><waitbutton>|
 75821|Umut, bizi<br>imkânsız görünen durumlardan<br>bile çıkarır!<br><waitbutton>|
 75823|Ah, hayır! Ne yaptım ben?! Çok fazla şey<br>aldım,<br>cüzdanım bomboş kaldı!<waitbutton>|
 75824|Bugün hiçbir şey almayacağım<br>demeyeceğim ama<br>sabah cüzdanımı zımbalayıp kapattım.<waitbutton>|
-75825|*hığ* *hığ* *nefes ver*<br>*hığ* *puf* *puf*<br><waitbutton><hr>Karnımı kasıp her yere basa basa yürürsem kısa sürede vücutçu gibi olurum!<waitbutton>|
+75825|*hığ* *hığ* *nefes ver*<br>*hığ* *puf* *puf*<br><waitbutton><hr>Karnımı kasıp her yerde basa basa yürürsem kısa sürede vücut geliştirmeci gibi olurum!<waitbutton>|
 75826|Beni ekibe alırsan, <span class="color-2">herkesin<br>dayanıklılığını artırırım</span>!<br>HAYDİ!<waitbutton>|
 75827|Günaydın, Şef <playername>!<br><br><waitbutton>|
 75828|Tünaydın, Şef <playername>.<br><br><waitbutton>|
@@ -5647,11 +5647,11 @@
 75886|En beklemediğin anda vahanda<br>belirebilirim.<br>UMARIM HAZIRSINDIR!<br><waitbutton>|
 76103|...Hıh. Demek burası bir Fidan vahası, ha?<br><br><waitbutton>|
 76105|Ben Mosher...<waitbutton><hr>Şimdilik söyleyeceğim bu kadar.<waitbutton>|
-76106|Fidanların nazik insanlar olduğunu duymuştum. Öyle görünüyor ki doğruymuş. Hahaha!<waitbutton>|
+76106|Fidanların nazik insanlar olduğunu duymuştum. Öyle görünüyor ki doğruymuş.<waitbutton>|
 76111|Ahhh... Sanırım çekiç sallamayı abarttım.<br>Sağ kolum fena şişti...<waitbutton>|
 76116|Pekâlâ, buraya yerleşmeye karar verdim. Neyi korumam gerekiyorsa söyle, ben de güvende tutayım.<waitbutton>|
 76117|Fidanlar başkalarıyla birlikte olmayı seviyor, ha? Ben pek anlamıyorum. Ben yalnız olmayı tercih ederim.<waitbutton><hr>O yüzden muhtemelen berbat bir vaha şefi olurdum.<waitbutton>|
-76118|Hedeflerime ulaşmak için ne gerekiyorsa yaparım. Bunun yanlış nesi var?<waitbutton><hr>Diğer kabilelerin biz Serkahlar hakkında neden kötü konuştuğunu anlamıyorum.<waitbutton>|
+76118|Hedeflerime ulaşmak için ne gerekiyorsa yaparım; bunu zaten anlamışsındır.<waitbutton><hr>Diğer kabilelerin biz Serkahlar hakkında neden kötü konuştuğunu anlamıyorum.<waitbutton>|
 76119|Memleketimde insanlar hep kısa ve sert<br>selam verirdi.<br>Sanırım ben de o alışkanlığı kapmışım.<waitbutton>|
 76120|Bazıları yemek saatinden önce<br>dikkatsizleşip disiplinini<br>kaybeder. Onlar gibi olmamaya dikkat<br>etmeliyim.<waitbutton>|
 76121|Bazıları gecenin huzurlu olduğunu söyler ama<br>en tehlikeli<br>an, kendini en güvende hissettiğin andır.<waitbutton>|
@@ -5689,7 +5689,7 @@
 76221|Gür horlamalarımın sesini duyunca, Kaos<br>canavarları bile<br>korkudan kaçar!<waitbutton>|
 76223|Ha ha! Ekonomiye katkı olsun diye dewadem<br>harcıyorum!<br>Bu da kahramanlık görev tanımımın bir<br>parçası!<waitbutton>|
 76224|Bugün para biriktiriyorum! Kahraman, kendi arzularına da galip gelmelidir!<waitbutton>|
-76225|Bu kadar farklı kabileden bu kadar insan<br>birlikte yaşarken<br>bir vaha nasıl bu kadar huzurlu olabilir?<br>Aha! Herkesi sakinleştirmek için karanlık<br>bir zihin kontrolü<br>kullanıyorsun, seni hain!<br><waitbutton><hr>Yok, o pek olası değil...<waitbutton>|
+76225|Bu kadar farklı kabileden bu kadar insan bir arada yaşarken bir vaha nasıl bu kadar huzurlu olabilir?<waitbutton><hr>Aha! Herkesi sakinleştirmek için karanlık bir zihin kontrolü kullanıyorsun, seni hain! Yok, bu pek olası değil...<waitbutton>|
 76226|Yeraltı hazineleri süper görüşümden kaçamaz! Sana <span class="color-2">kazı</span> nasıl yapılır göstereyim—ADALET UĞRUNA!<waitbutton>|
 76227|Günaydın, <playername>!<br>Güzel bir sabah, değil mi?<br><waitbutton>|
 76228|Hey! <playername>!<br><br><waitbutton>|
@@ -5719,7 +5719,7 @@
 76427|Ah... G-günaydın...<waitbutton>|
 76428|İ-iyi günler...<waitbutton>|
 76429|İ-iyi a-akşamlar...<waitbutton>|
-76430|Ş-şey... Sosyal becerileri pek olmayan bir Lagora hakkında söylenti duydum.<waitbutton><hr>Görünüşe göre <span class="color-2">büyük bir vaha</span> arıyormuş... Hani <span class="color-2">efsanevi derecede büyük bir vaha</span>.<waitbutton>|
+76430|Ş-şey... Görgü kuralları pek olmayan bir Lagora hakkında söylenti duydum.<waitbutton><hr>Görünüşe göre <span class="color-2">büyük bir vaha</span> arıyormuş... Hani <span class="color-2">efsanevi derecede büyük bir vaha</span>.<waitbutton>|
 76435|Ş-şu Serkah Yaşlısı bir zamanlar ünlü bir kaşifmiş. Ama bel fıtığı olunca emekli olmuş.<waitbutton>|
 76436|Ş-şef... küçüksün ama çok<br>güçlüsün...<br>Umarım sana ayak uydurabilirim...<br><waitbutton>|
 76441|Ş-şu Büyük Wakuto Kanyonu korkunç.<br>O kadar derin bir yarığa düşersen tamamen<br>çaresiz kalırsın, biliyorsun.<waitbutton>|
@@ -5746,7 +5746,7 @@
 76525|Toplar ve atkılar çok havalı. Onlara doyamıyorum.<waitbutton>|
 76526|Seninle olursam... <span class="color-2">ekibimiz böcek<br>türü<br>canavarlardan daha az hasar alır</span>...<br>İşe yarar,<br>değil mi?<waitbutton>|
 76527|Günaydın. Yüzünü görmek bile<br>günümü güzelleştirdi.<br><waitbutton>|
-76528|İyi günler...<br>Az kalsın seni selamlamayı<br>unutuyordum.<br><waitbutton>|
+76528|İyi günler...<br>Seni bugün görebildiğime sevindim.<br><waitbutton>|
 76529|Gece olmuş bile... Bugün gün<br>su gibi geçti.<br><waitbutton>|
 76530|Bahar Tepesi bölgesindeki <span class="color-2">Enkaz Tüneli'nin hemen ötesinde</span> bir Fidan kız var.<waitbutton><hr>Muhtemelen yalnızdır. Gidip onu vahaya davet etsen iyi olur.<waitbutton>|
 76533|Baykuenler çok tatlı. Ama<br>kafalarını okşarsan<br>kızıyorlar.<br><waitbutton>|
@@ -5766,14 +5766,14 @@
 76608|<span class="color-2">Balonlar</span> rüzgârda sallanınca ne kadar da<br>güzel<br>görünüyor. Tıpkı bir teknenin suda<br>süzülmesi gibi<br>havada süzülüyorlar.<waitbutton>|
 76613|Sizde <span class="color-2">balon</span> satılmıyor mu?<br>Ne sıkıcı.<br><waitbutton>|
 76616|Siz Fidanlar rahat bir ortam yaratmayı iyi biliyorsunuz.<waitbutton><hr>Evet, karar verdim. Burada yaşayacağım!<waitbutton><hr>Burası yeni evim, o zaman bu vahayı daha da muhteşem yapalım!<waitbutton>|
-76617|Benim için önemli olanı korurum, gerekirse hayatımı riske atarak bile. Drauk yasası budur.<waitbutton><hr>Ne diyorsun? Havalı, değil mi?<br><br><waitbutton>|
+76617|Benim için önemli olanı, gerekirse hayatımı riske atarak bile korurum. Drauk töresi budur.<waitbutton><hr>Ne diyorsun? Havalı, değil mi?<br><br><waitbutton>|
 76618|Bir Fidan olsaydım, güzellik ürünleri satan<br>bir Tomurcuk Tezgâhım olsun isterdim.<br><waitbutton>|
 76619|Hey! Seni büyüledim mi? Tabii<br>ki büyüledim.<br>Kimse güzelliğime karşı<br>koyamaz!<br><waitbutton>|
 76620|Hey! Güneş kıpkırmızı parlıyor!<br>Sanırım benim güzelliğimi görünce o bile<br>kızarıyor!<br><waitbutton>|
 76621|Hepimiz güneşe doğru dönüp dik<br>bir dağ patikasını<br>tırmanıyoruz!<br><waitbutton>|
 76623|Ne zaman bir dükkâna girsem dewademlerim<br>yok oluyor. Acaba cüzdanımda delik falan mı<br>var...<waitbutton>|
 76624|Bugün hiç dewadem harcamayacağım. Tabii başka seçeneğim de yok—cüzdanım şu an çöl gibi kupkuru.<waitbutton>|
-76625|Balonlar insana sonsuz olasılık hissi<br>verir.<br>Hiç tereddüt etmeden göğe<br>yükselirler.<br>Yani hayalim sırtıma dev bir balon<br>bağlayıp<br><waitbutton><hr>gökyüzünde yolculuk etmek değil ama... o da<br>havalı olurdu.<waitbutton>|
+76625|Balonlar insana sonsuz olasılık hissi verir. Hiç tereddüt etmeden göğe yükselirler.<waitbutton><hr>Hayalim sırtıma dev bir balon bağlayıp gökyüzünde yolculuk etmek değil ama... o da havalı olurdu.<waitbutton>|
 76626|Hey! Ekibine katılmama izin verirsen,<br><span class="color-2">düşmanların dikkatini senden üzerime<br>çekebilirim</span>!<waitbutton>|
 76627|Selam, <playername>!<br><br><waitbutton>|
 76628|Hey. HEY!<br>Nasılsın, <playername>?!<br><waitbutton>|
@@ -5790,7 +5790,7 @@
 76645|Ot yolmak şefin işi değil mi? Çabuk ol da şu<br>garip<br>bitkilere bir çare bul!<waitbutton>|
 76686|Hey! Çamura bulandım! Vahada<br>üstümü<br>başımı temizleyebilirim!<br><waitbutton>|
 76800|Ben özgür ruhluyum. Tıpkı bir kelebek gibi. Sınır tanımadan yaşarım.<waitbutton>|
-76801|Burada kimse bana bakmıyor bile. Kendimi çok yalnız hissediyorum.<waitbutton><hr>Herkesin konuştuğu o vahaya mı gitsem acaba...<waitbutton>|
+76801|Burada kimse benimle ilgilenmiyor bile. Kendimi çok yalnız hissediyorum.<waitbutton><hr>Herkesin konuştuğu o vahaya mı gitsem acaba...<waitbutton>|
 76803|Demek burası bir Fidan vahası.<br>Şuna bak,<br>hepsi ne kadar çok çalışıyor.<br><waitbutton>|
 76805|Aa, selam. Beni karşılamaya mı geldin? Ne kadar tatlısın!<waitbutton><hr>Ben Alana. Umarım arkadaş oluruz. Hihihi!<waitbutton>|
 76808|Bakalım. Bu <span class="color-2">yeşim böceği</span>yle<br>hangi aksesuarı yapsam?<br><waitbutton>|
@@ -5927,7 +5927,7 @@
 77729|Yo, <playername>. Bugün verimli bir gün mü<br>geçirdin?<br><waitbutton>|
 77730|Şey... Belki biliyorsundur ama çölde oyalana oyalana yürüyen bir Serkah vardı.<waitbutton><hr><span class="color-2">Efsanevi derecede büyük bir vahada</span> yapılacak bir <span class="color-2">Ruh Festivali</span>’ne katılmak istediğini söylüyordu. Sence senin vahan onu çeker mi?<waitbutton>|
 77735|Sevdiklerimin incinmesini görmek, benim<br>incinmemden<br>çok daha zor...<br><waitbutton><hr>O yüzden önemsediklerimi korumak<br>için hayatımı bile ortaya koyarım.<waitbutton>|
-77736|Gözlerimiz bu dünyayı oluşturan şeylerin yalnızca küçük bir kısmını görebiliyor.<waitbutton><hr>Mesela vahanın su ruhu... Onu yalnızca sen görebiliyorsun.<waitbutton>|
+77736|Gözlerimizin bu dünyaya biçim vermesi gerekir, ama gözlerimiz aslında görünmeyeni görür.<waitbutton><hr>Mesela vahanın su ruhu... Onu yalnızca sen görebiliyorsun.<waitbutton>|
 77741|Büyük Wakuto Kanyonu Draukların antrenman alanıdır.<waitbutton><hr>Orayı tek başına baştan sona geçebilecek seviyeye gelirsen artık yetişkin sayılırsın.<waitbutton>|
 77745|Tsk. Şu bitkiler... Mızrağım<br>bile onlara karşı bir şey<br>yapamıyor...<br><waitbutton>|
 77771|Bu, Drauk Yaşlısı'nın sana verdiği bir sınav.<br>Sürdürmek mi vazgeçmek mi, karar<br>vermelisin.<waitbutton>|
@@ -5939,7 +5939,7 @@
 77807|İyisin. Sadece dövüş becerinden söz etmiyorum.<br>Bütün bunları bir araya getirmiş olmandan bahsediyorum.<waitbutton>|
 77816|Şey, evet. Hey, <playername>. Bu vahada yaşamam uygun olur mu?<waitbutton><hr>Arkadaş olduk sayılır... Birbirimize yardım etsek iyi olmaz mı?<waitbutton><hr>Seni daha iyi tanımayı dört gözle bekliyorum, <playername>!<waitbutton>|
 77817|Derler ki yalnızca Büyük Ağaç’ın Çocukları denen nadir Fidanlar vaha yaratabilirmiş.<waitbutton><hr><playername>... Demek sen gerçekten çok özelsin.<waitbutton>|
-77818|Hayattaki en büyük hedefim, yaptıklarımdan pişmanlık duymayacağım biri olmak.<waitbutton><hr>Sonuna kadar kendimle gurur duyup başımı dik tutabilirsem bana yeter.<waitbutton>|
+77818|Hayattaki tek hedefim, ölüm döşeğimde bile nasıl biri olduğumdan pişmanlık duymamak.<waitbutton><hr>Sonunda acı hatıraların içinde boğuluyor bulursam kendimi, isteyebileceğim en iyi şey bu.<waitbutton>|
 77819|Erken kalkan yol alır. Erken uyanırsan<br>daha çok<br>şeye daha çok vaktin olur.<waitbutton>|
 77820|Öğleden sonra güneş iyice yakıcı olur ama çamaşır kurutmak için mükemmeldir.<waitbutton>|
 77821|Gece gökyüzüne bakar mısın?<br>Bazen yıldızlara dalıp gidiyorum.<waitbutton>|
@@ -5970,7 +5970,7 @@
 77907|Yaşlıyla nektar hakkında konuşuyordum, sonra su çalmaya kalktığımı ağzımdan kaçırdım...<waitbutton><hr>Of... Fena yakalandım.<br><br><waitbutton><hr>Yaptığım hatanın kefareti olarak buraya gelip sana yardım etmemi söyledi.<waitbutton>|
 77916|İşte benim hikâyem bu. Neyse, seni yeniden<br>görmek güzel. Sanırım artık burada<br>yaşayacağım!<br>Uyar mı? Uyar.<waitbutton>|
 77917|Buradaki vahayı sevdim. Çok... rahatlatıcı. Yerleşimdeki yaşlımız ise fazlasıyla katıdır.<waitbutton>|
-77918|Karmaşık bir şey istemiyorum. Hayat en<br>güzel<br>her şey sorunsuz gidince.<br><waitbutton>|
+77918|Karmaşık bir şey istemiyorum. Hayat,<br>her şey yolunda giderken güzel.<br><waitbutton>|
 77919|Off... Hâlâ çok yorgunum.<br>Belki geri dönüp uyurum...<br><waitbutton>|
 77920|Öğle yemeğini yedim ve uykum bastı.<br>Ben... ben devam edemem... Uyumam...<br>lazım...<br><waitbutton>|
 77921|Akşam yemeğini yedim ve şimdi uykum var.<br>Şef, gözlerimi zor açık tutuyorum.<br><waitbutton>|
@@ -6036,7 +6036,7 @@
 78128|Selam, <playername>! Öğleden sonra da<br>böyle devam edelim!<br><waitbutton>|
 78129|İyi akşamlar, <playername>.<br>Günün iyi geçti mi?<br><waitbutton>|
 78130|Sarmal Çukur'da Kısa Üst giymiş bir<br>Fidan kızın çalılıkta saklandığını gördüm.<waitbutton><hr>Ama şimdi düşününce, belki de o çalılığa<br>takılıp kalmıştı. Çalılık çok dikenliydi.<waitbutton>|
-78134|Lagora kürkünün kavurucu güneş sıcağına<br>da dondurucu gece soğuğuna da<br>dayanabildiğini<br>biliyor muydun? Havalı, değil mi?<br>Ama sakın aklına bir şeyler gelmesin...<br><br><waitbutton>|
+78134|Lagora kürkünün kavurucu güneşe de dondurucu gece soğuğuna da dayanabildiğini biliyor muydun? Havalı, değil mi?<waitbutton><hr>Ama aklına başka şeyler gelmesin...<br><br><waitbutton>|
 78135|Hem aşırı tatlıyım hem de yanımda olmak eğlenceli. Aaa! Bir de çok güçlüyüm tabii.<waitbutton><hr>Yani bu da beni sıradan bir Lagora yapıyor sanırım!<waitbutton>|
 78136|Nasıl gidiyor, <playername>? Hep çok çalışıyorsun.<waitbutton><hr>Baskı fazla gelirse, yardım etmek için burada olduğumu unutma!<waitbutton>|
 78139|Okyanus<br>Nekropolü'ndeki kemikleri kullanırsan<br>bence havalı,<br>pırıl pırıl bir ikiz kılıç yapabilirsin.<waitbutton>|
@@ -6064,7 +6064,7 @@
 78230|Yolculuk ederken <span class="color-2">pelerin dükkânı</span> arayan bir Fidan kızla karşılaştım.<waitbutton><hr>Burada pelerin dükkânı olduğunu duyarsa bu vahaya uğrayabilir.<waitbutton>|
 78234|Bazen çölde rüzgâr esince kum gözlerine girer.<waitbutton><hr>Ama kumdan kaçınmak için gözlerini kapatırsan görmen gereken şeyleri de kaçırabilirsin. Zor mesele.<waitbutton>|
 78235|Çölde yön bulmanın püf noktasını biliyor musun? Yürürken gökyüzüne bak.<waitbutton><hr>Gündüz güneş, gece de yıldızlar hangi yöne gittiğini söyler.<waitbutton>|
-78236|Gece boyunca mı çalışıyorsun? Çalışkan delikanlıları severim ama biraz da dinlen, tamam mı?<waitbutton><hr>Bir kulağa ya da yardım edecek bir ele ihtiyaç duyarsan haber ver yeter.<waitbutton>|
+78236|Gece boyunca mı çalışıyorsun? Çalışkan delikanlıları severim ama biraz da dinlen, tamam mı?<waitbutton><hr>Dinleyecek ya da yardım edecek birine ihtiyaç duyarsan haber ver.<waitbutton>|
 78240|Unutulmuş Orman'a ne olacağını<br>merak ediyorum... En azından senin<br>sayende<br>daha iyi durumda olacak.<waitbutton>|
 78241|Denemeler Tapınağı'nın<br>Büyük Bilge tarafından yapıldığı<br>söylenir. Zeki insanlar<br>inanılmaz şeyler başarabiliyor.<waitbutton>|
 78245|Şu kara otlara dikkat et.<br>Hiçbir iyi yanları yok...<br><waitbutton>|
@@ -6101,7 +6101,7 @@
 78841|Denemeler Tapınağı'ndaki o dişlileri<br>tasarlamak nasıl bir zekâ ister,<br>merak ediyorum.<waitbutton>|
 78845|Şu kara otlar... Onları kendi hâline<br>bırakırsan<br>korkunç bir şey olur.<br><waitbutton>|
 79003|Neden böyle? Bu vaha, Nour'un<br>vahasına<br>benzer bir his veriyor...<br><waitbutton>|
-79005|Ben Yosef. Pek güzel konuşan biri<br>sayılmam ama sohbet etmeyi severim.<br><waitbutton><hr>Sadece... konuşmaya nereden başlayacağımı<br>pek bilemem.<br><waitbutton>|
+79005|Ben Yosef. Pek güzel konuşamam ama sohbet etmeyi severim.<waitbutton>|
 79006|Nour'a verdiğim sözü kendi başıma<br>yerine getiremedim... Ama eminim Nour<br>yine de buna sevinirdi.<waitbutton>|
 79016|Sana borçluyum. Bu vahada<br>elimden geldiğince yardım<br>edeceğim.<br><waitbutton>|
 79017|Bu daha önce bulunduğum vaha değil ama<br>nedense çok tanıdık geliyor.<waitbutton><hr>Neden acaba... Belki de senin sayende<br>böyle hissediyorumdur?<br><waitbutton>|
@@ -6207,7 +6207,7 @@
 80035|Gölge Sakini|
 80050|Mariah'ın Emrindeki|
 80056|Tuhaf Serkah|
-80058|Kahkahalı Kuşatma|
+80058|Kuşatılmış Serkah|
 80061|İçe Kapanık Serkah|
 80062|Eğitimdeki Serkah|
 80064|Mırıldanan Serkah|
@@ -6227,7 +6227,7 @@
 80093|Geveze|
 80100|Söylentiye göre<br><span class="color-2">Sarmal Çukur</span>'un<br>derinlerinde<br>kaybolmuş bir Fidan var.|
 80103|Söylentiye göre güneşin<br>sıcağından<br>başı dönen bir<br>Fidan var.|
-80104|<span class="color-2">Çorba</span> seven bir Fidan,<br>usta bir <span class="color-2">davulcu</span><br>arıyor.|
+80104|<span class="color-2">Çorba</span> seven bir Fidan, <span class="color-2">davul</span><br>çalmayı öğrenmek istiyor.|
 80105|<span class="color-2">Çömlek Mağarası</span>'nda<br>mahsur kalan Fidanı<br>kontrol et.|
 80106|<span class="color-2">Sapa Patika</span>'nda<br>kaybolmuş, kederli<br>Fidanı bul.|
 80108|<span class="color-2">Enkaz Tüneli</span>'ne<br>koşarak giden Fidanı<br>bul.|
@@ -6243,7 +6243,7 @@
 80119|Görünüşe göre kurdele yapan<br>bir Fidan, <span class="color-2">efsanevi derecede<br>büyük bir vaha</span><br>arıyor.|
 80122|Bir kız <span class="color-2">ekmek</span> istiyor da<br>istiyor,<br>hatta çığlık atmakla<br>tehdit ediyor. Off...|
 80124|Bir Fidan, birini<br><span class="color-2"><br>Kaya Patikası</span>'nda bekliyor.|
-80125|Fidanı gündüz <span class="color-2">Işıltılı<br>Oyuk</span>'ta, gece <span class="color-2">İkaz<br>Kapısı</span>'nda bul.|
+80125|Fidanı gece <span class="color-2">İkaz Kapısı</span>'nda<br>bul.|
 80127|Tatlı Fidan için<br><span class="color-2">oyuncak bebek</span>, <span class="color-2">davul</span><br>ve <span class="color-2">flüt</span> bul!|
 80128|<span class="color-2">Çiftboynuz Mağarası</span>'nda<br>yalnız bir madenci<br>var.|
 80129|Bir Fidan,<br><span class="color-2">Enkaz Tüneli</span>'nde<br>inceleme yapıyor.|
@@ -6254,7 +6254,7 @@
 80135|Güneş ışığından nefret eden<br>biri<br><span class="color-2">Mekanik Kapı</span>'nda<br>bekliyor.|
 80150|Mariah'ın emir eri saydığı<br>Levi,<br>vahaya doğru geliyor.|
 80156|Modayı yakından takip eden<br>bir Serkah, bir<br><span class="color-2">şal</span> arıyor.|
-80158|Bir Serkah, <span class="color-2">Fırtına Yolu</span>'nda<br>Kaos canavarları tarafından<br>kuşatılmış.|
+80158|Fırtına Yolu'nda Kaos canavarlarıyla dostluk kuran gizemli bir Serkah var.|
 80161|Çölün bir yerlerinde<br>sessizce dolaşan<br>bir gezgin var.|
 80162|<span class="color-2">Cesaret Mağarası</span>'nda<br>antrenman yapan bir<br>Serkah var.|
 80164|Söylentiye göre bir Serkah,<br><span class="color-2">efsanevi derecede büyük bir<br>vaha</span>da<br><span class="color-2">Ruh Festivali</span> istiyor.|
@@ -6269,7 +6269,7 @@
 80181|Şık <span class="color-2">kemer</span>leri ve <span class="color-2">dondurmayı</span><br>seven<br>bir Lagora olduğunu duydun.|
 80182|Görünüşe göre bir Lagora<br><span class="color-2">Kanyon Göbeği</span>'ne<br>dalıp girmiş.|
 80188|Seçici bir Lagora'nın<br><span class="color-2">peçe</span> ve <span class="color-2">yorgan</span><br>istediğini duydun.|
-80190|Söylentiye göre kısa ve<br>keskin konuşan bir Lagora,<br><span class="color-2">efsanevi derecede büyük bir<br>vaha</span> arıyor.|
+80190|Söylentiye göre kısa ve sert<br>konuşan bir Lagora,<br><span class="color-2">efsanevi derecede büyük bir<br>vaha</span> arıyor.|
 80191|Bir Lagora,<br><span class="color-2">efsanevi derecede büyük bir<br>vaha</span>da<br><span class="color-2">Ruh Festivali</span>'ne katılmak<br>istiyor.|
 80193|<span class="color-2">Yarasa Yuvası</span>'nda<br>Fidanlara bayılan bir<br>Lagora olduğuna dair<br>bir söylenti duydun.|
 80200|Sarmal Çukur'da kaybolmuş<br>ama moralini bozmamış<br>bir kız.|
@@ -6300,7 +6300,7 @@
 80225|Kalari Orman Denizi'nden bir<br>kemer ustası. Sürekli<br>güzelliğin peşinde.|
 80226|Antrenman yapmayı...<br>ve atıştırmayı seven<br>gezgin bir Fidan.|
 80227|Bir Orakkanat tarafından<br>kaçırılmış bir Fidan. Oyuncak bebek,<br>davul ve flüt istiyor.|
-80228|Çiftboynuz Mağarası'nda kurtardığın<br>bir kız. Vahayı ziyarete gelebilir.|
+80228|Çiftboynuz Mağarası'nda mahsur kalmış<br>bir kız.|
 80229|Enkaz Tüneli'ndeki<br>harabeleri araştıran<br>bir arkeolog.|
 80230|Sanatçı ruhlu bir kız.<br>Renkli çorbalar yapmayı<br>sever.<br>Bir kuşak istiyor.|
 80231|Cupcake yapmaya ve dewadem<br>biriktirmeye tutkun<br>bir kız.|
@@ -6455,7 +6455,7 @@
 80519|Lagora kabilesinden <span class="color-2">[0xe]</span><br>vahanın sakini oldu!<waitbutton>|
 80520|Artık <span class="color-2">[0xf]</span> satan bir<br>Tomurcuk Tezgâhı kurabilirsin!<waitbutton>|
 81002|Evlat! Halkıma büyük bir iyilik yaptın.<br>Hepsi seni yere göğe sığdıramıyor!<waitbutton><hr>Serkahların temsilcisi olarak sana teşekkür etmek benim görevim.<br><br>Şey... Teşekkürler... Fidan Şef.<waitbutton>|
-81003|Gökyüzü yine karardı!<br><br><waitbutton><hr>Okyanus Nekropolü'nü hallettin evlat,<br>ama rehavete kapılamayız.<waitbutton>|
+81003|Gökyüzü yine karardı!<br><br><waitbutton><hr>Okyanus Nekropolü'ndeki sorunu çözdün evlat, ama rehavete kapılamayız.<waitbutton>|
 81004|Hey, evlat! Gökyüzü artık<br>karanlık değil!<br>Bunu sen mi yaptın?<waitbutton>|
 81005|Normal düzene döndük sanmıştım<br>ama bak... gökyüzü yine karardı.<br><br><waitbutton><hr>Kaos Döngüsü işte, evlat. Diyorum<br>ya...<waitbutton>|
 81006|Ha! Suratındaki ifadeye bak evlat.<br>Sanki büyük bir karar verecek gibisin.<waitbutton><hr>Öyle kendini yıpratma. Sana güveniyorum.<br>Yeteneklerine inan; gerisi kendiliğinden yoluna girer.<waitbutton>|
@@ -6482,9 +6482,9 @@
 81027|İlk tanıştığımız zamana göre çok daha<br>olgun ve güçlü görünüyorsun.<br><waitbutton><hr>Bana cesaret veriyorsun! Seni görünce<br>ben de her zaman elimden gelenin en iyisini<br>yapmalıyım diye düşünüyorum.<br><waitbutton>|
 81028|Levi'yi tanıyor musun?<br>Hep şu Mariah denen kızla beraber, değil mi?<br><waitbutton><hr>Mariah da Levi'ye sanki emrindeki biriymiş<br>gibi davranıyor.<br><waitbutton>|
 81029|Hmm... Bana mı öyle geldi, yoksa yer<br>az önce FENA hâlde mi sallandı?<br><waitbutton><hr>Lütfen yalnız ben hissetmedim de!<br>NİYE 'YALNIZ SEN DEĞİLSİN' DEMİYORSUN?!<br><waitbutton>|
-81030|Son zamanlarda pek deprem olmadı, değil mi?<waitbutton><hr>Acaba ben daha az hareket ettiğim için mi?<br>Ben kıpırdayınca yer sallanıyor olmasın?!<br>Yoksa önceki depremlerin sebebi ben miydim?!<waitbutton>|
+81030|Son zamanlarda pek deprem olmadı, değil mi?<waitbutton><hr>Acaba son zamanlarda daha az hareket ettiğimiz için mi? Hepimiz aynı anda kıpırdasak yer sallanır, değil mi?<waitbutton>|
 81031|Aaah... Kaos moralimi bozdu;<br>bugün dertlerimi atıştırarak unutacağım galiba.<br><waitbutton>|
-81032|Çölde bir yerde, içeri her girdiğinde<br>şekil değiştiren bir labirent varmış.<br><br><waitbutton><hr>İçinde yaşayan canavarın çok güçlü olduğu<br>söyleniyor... Çok korkutucu!<waitbutton>|
+81032|Çölde bir yerde, içeri her girdiğinde şekil değiştiren bir labirent varmış.<waitbutton><hr>İçinde buralardaki canavarlardan çok daha güçlü bir canavar olduğu söyleniyor.<waitbutton>|
 81033|Hımm... Ortalık böyle karanlıkken sanki<br>bir çadırın içindeymişiz gibi, değil mi?<br><waitbutton><hr>Çadırları pek sevmem... Bana hep çok dar<br>gelirler...<br><waitbutton>|
 81034|Son zamanlarda seni böyle canla başla çalışırken görünce ben de bazı şeyleri değiştirebilirim diye düşünüyorum.<waitbutton><hr>O yüzden... yarından itibaren atıştırmalarımı yarı yarıya azaltacağım.<br>Şey... dörtte bir... Yok, sekizde bir.<br>Hatta... onda bir nasıl?<waitbutton>|
 81036|Senden aldığım bu nektarı... gerçekten<br>ihtiyacım olduğunda<br>içeceğim. Sorumlu davranmak benim<br>teşekkür etme şeklim.<waitbutton>|
@@ -6495,15 +6495,15 @@
 81041|Off... Boğazım kupkuru.<br>Yakında su bulamazsam yemin ederim<br>mumyaya dönüşeceğim.<waitbutton>|
 81042|Ah! Nektar için teşekkürler. *öksürür*<br>Ahh... Kusura bakma.<br><waitbutton><hr>Unutulmuş Orman'dan Kaos fışkırmasa...<br>Bir kere, çok daha iyi durumda olurdum.<waitbutton>|
 81043|*öksür öksür* Kaos vücut için gerçekten<br>çok zararlı... Bu yüzden şu öksürük bir<br>türlü geçmiyor... *öksür öksür*<waitbutton>|
-81044|Bir ihtiyardan duydum... Unutulmuş<br>Orman'daki Kaos'u kovmuşsun. Teşekkürler.<br><waitbutton><hr>Ben... biraz daha iyi hissediyorum ama...<br>Acaba orman da eski hâline dönecek mi?<br><waitbutton>|
+81044|Bir yaşlıdan duydum... Unutulmuş Orman'daki Kaos'u kovmuşsun. Teşekkürler.<waitbutton><hr>Ben... biraz daha iyi hissediyorum ama... Acaba orman da eski hâline dönecek mi?<waitbutton>|
 81045|Dışarı çıkabilirim diye düşünmüştüm ama<br>Kaos yeniden ortaya çıktı... *öksür öksür*<waitbutton><hr>Eğer daha güçlü olsaydım sana yardım edebilirdim...<waitbutton>|
 81046|Heh heh... Kendimi milyon dewademlik<br>hissediyorum! Kaos zayıfladığı için mi acaba?<waitbutton>|
 81047|Arkadaşım Sol su kıtlığı yüzünden<br>endişelendiğini söyledi.<br><br><waitbutton><hr>Bu onun suçu değil ama yine de bunu tek<br>başına çözmesi gerektiğini düşündü<br>galiba...<waitbutton>|
-81048|Nektarı ulaştırdığın için sağ ol.<br>Karşılığında sana ilginç bir şey söyleyeyim.<waitbutton><hr>Bu kum denizinin öte yanında birçok yerleşim var.<br>Her birinde yöreye özgü ürünler bulup takas edebilirsin.<waitbutton>|
+81048|Nektar teslimatın için çok teşekkürler!<waitbutton><hr>Sana özel bir şey söylemek istiyorum.<br><br><waitbutton><hr>Bu kum denizinin öte yanında birçok yerleşim var. Her biri kendi yöresinin ürünlerini takas ediyor.<waitbutton>|
 81049|Sol'u gördüm ama kimseyle konuşmak<br>istemedi.<br><br><waitbutton><hr>Hâlâ Unutulmuş Orman ve babası<br>meselesine takılı mı acaba?<waitbutton>|
 81050|Merhaba! Tam zamanında geldin!<br>Sana çok ilginç bir haberim var.<br><waitbutton><hr>Çölün bir yerinde inanılmaz bir hazine<br>saklayan bir labirent varmış!<waitbutton>|
 81051|Vahadaki Kaos'u kovabiliyorsun, değil<br>mi?<br>Daha önce yaptığın gibi bu sefer de<br>halledebilir misin? Sana güveniyorum.<waitbutton>|
-81052|Bir zamanlar burada Aronbesh adında çok güçlü biri vardı.<waitbutton><hr>Unutulmuş Orman konusunda ihtiyarla tartışıp yerleşimi terk etti.<waitbutton><hr>Şimdi ne yapıyordur acaba...<waitbutton>|
+81052|Bir zamanlar bu yerleşimde Aronbesh adında güçlü biri vardı.<waitbutton><hr>Unutulmuş Orman konusunda Yaşlı ile tartışıp yerleşimi terk etti. Şimdi ne yapıyordur acaba...<waitbutton>|
 81053|Bir kılıç ustası için bile<br>susuzluk zor bir sınav...<br><waitbutton>|
 81054|Bu nektarı getirdiğin için teşekkür<br>ederim.<br>Sana borçluyum. Kılıç eğitimime devam<br>edebilirim artık.<waitbutton>|
 81055|Kaos aramızda yayılırken canım oyuncak<br>istiyor... Evet, oyuncak!<br><waitbutton><hr>Zor zamanlarda oyuncaklar bir Lagora'nın<br>ruhuna iyi gelir. Bu bana birini hatırlattı...<br><waitbutton><hr>Oyuncaklarla oynayan ama inanılmaz güçlü<br>biri vardı.<br><waitbutton><hr>Bu kadar sıkı antrenman yapmamın sebebi o.<br>Ben de onun kadar iyi olmak istiyorum!<br><waitbutton><hr>Ah, Aronbesh... Nerelerdesin?<br><waitbutton>|
@@ -6512,12 +6512,12 @@
 81058|Kaos kayboldu. Karanlık gökyüzü açıldı.<waitbutton><hr>Bunu sen yaptın! Keşke senin kadar güçlü olabilseydim...<waitbutton>|
 81059|Dinle, ben... Unutulmuş Orman'a gidip<br>kurumuş su yolunu yeniden canlandırmayı<br>düşünüyordum.<waitbutton><hr>Ama kimse söylediklerimi dinlemek istemedi...<br>Hepsi bana kızdı.<waitbutton>|
 81060|Getirdiğin nektar için teşekkürler!<br>Fidanların içecekleri gerçekten çok lezzetli.<br><waitbutton><hr>Aronbesh yerleşimde kalsaydı o da bu<br>nektardan içebilirdi...<br><waitbutton><hr>Aronbesh burada yaşayan çok güçlü bir<br>kılıç ustasıydı. Bir gün 'sıkıldım' dedi ve<br>çekip gitti!<waitbutton><hr>Dışarıda daha ilginç ve heyecanlı bir şeyler<br>bulabildi mi acaba...<waitbutton>|
-81061|Ne? Unutulmuş Orman'a mı gidiyorsun?<br>Keşke ben de seninle gelebilsem...<br><waitbutton><hr>Ama ihtiyar, henüz tam yetişkin sayılmadığım<br>için gitmeme izin vermiyor... Çok sinir bozucu.<waitbutton>|
-81062|Kadim zamanlarda Lagora halkı Unutulmuş<br>Orman'ı bir kez terk etmiş.<br>Acaba bu yüzden mi bu konu o kadar can sıkıcı?<waitbutton>|
+81061|Ne? Unutulmuş Orman'a mı gidiyorsun? Keşke ben de seninle gelebilsem...<waitbutton><hr>Yaşlı, henüz tam yetişkin olmadığım için gitmememi söyledi... Çok sinir bozucu.<waitbutton>|
+81062|Demek eskiler bir zamanlar Unutulmuş Orman'ı terk etmiş. Ormanla ilgili sorunun seni üzmesinin nedeni bu muydu?<waitbutton>|
 81063|Unutulmuş Orman'ı kurtardın!<br>Senin üstesinden gelemeyeceğin şey yok!<br>Buna eminim!<waitbutton>|
 81064|Merhaba, vaha reisi! Artık en<br>büyük hayranınım!<br><br><waitbutton><hr>Bir gün sana yardım edebilmek için ikiz<br>kılıç antrenmanımda elimden geleni<br>yapacağım!<waitbutton>|
 81067|Gökyüzü yine Kaos'la kaplandı!<br>Çabuk, ne yapman gerekiyorsa yap!<br><waitbutton>|
-81068|Önünde devasa bir sınav var. Ama bil ki<br>Drauk Yaşlısı olarak sana güvenim tam.<br><waitbutton><hr>Senin aşamayacağın engel yok!<waitbutton>|
+81068|Önünde devasa bir sınav var. Ama Drauk Yaşlısı'nın sana kayıtsız şartsız destek verdiğini bil.<waitbutton><hr>Senin aşamayacağın engel yok!<waitbutton>|
 81069|Biz Drauklar kendimizi<br>sertleştirip eğitmek için<br>çetin topraklarda yaşarız.<br><waitbutton>|
 81070|Acaba Miura kız kardeşini bulabildi mi?<waitbutton><hr>Miura'nın kız kardeşi Seipha güçlenmek için yerleşimi terk etti... ve bir daha dönmedi.<waitbutton>|
 81071|Görünüşe göre Kaos, tıpkı yıldızlar gibi belli bir döngüyü takip ediyor.<waitbutton><hr>Kum teknesinin kaptanı, kum denizi fırtınalıyken yerin altındaki Kaos'un kudurduğunu söylüyor.<waitbutton>|
@@ -6532,13 +6532,13 @@
 81080|Görünüşe göre Kaos şimdilik yok...<br>Ama savaş daha bitmedi, değil mi?<waitbutton><hr>Savaşçı olmaya devam edip etmeyeceğine kendin karar vermelisin.<waitbutton>|
 81081|Hmph. Bir Fidan, ha? Buraya kadar geldiğine göre az çok yeteneklisin demektir.<waitbutton><hr>Ah, evet. Kaba davrandıysam kusura bakma ama Seipha adlı bir Drauk hakkında bir şey duydun mu?<waitbutton><hr>Güçlenmek için yerleşimi terk etti ama o günden beri kendisinden haber alamadık.<waitbutton><hr>Onu bir gün görürsen lütfen yerleşimdeki herkesin onun için endişelendiğini söyle.<waitbutton>|
 81082|Hah, demek Hakikat Kılıcı'nı aldın.<br>Peki onu kullanacak gücün var mı?<waitbutton>|
-81083|Hmph. Seipha'nın Kaos'a bu kadar kolay yenik düşmesine inanamıyorum...<waitbutton><hr>Bu arada ağlamıyorum...<waitbutton>|
+81083|Hmph. Kaos'un Seipha'yı bu kadar kolay ele geçirdiğine inanamıyorum...<waitbutton><hr>Bu arada ağlamıyorum...<waitbutton>|
 81084|Görünüşe göre seni zayıf bir Fidan sanmakla yanılmışım.<waitbutton><hr>Kimse senin yeteneklerinle boy ölçüşemez. Sen gerçek bir savaşçısın.<waitbutton>|
 81095|Labirentin derinlerinde saklanan devasa<br>Kaos canavarını duydun mu?<waitbutton><hr>Büyük bir <span class="color-1">beyaz akrep</span> olduğu söyleniyor.<br>Ama labirente düşüncesizce girersen ona<br>öylece rastlayamazsın.<waitbutton><hr>Onunla savaşmak istiyorsan iki ya da üç<br><span class="color-2">aynı desenli altın levha</span> kullanıp<br><span class="color-2">Çöl Labirenti</span>'ne girmelisin.<waitbutton><hr>Onu bulmak şansa, yenmekse senin<br>becerine bağlı. Bol şans.<waitbutton>|
 81096|Labirentlerde saklanan devler hakkındaki<br>söylentiyi duydun mu?<waitbutton><hr>Gece kâbusu gibi bir <span class="color-1">dev yosun</span>la<br>karşılaşanların oyuncak gibi paramparça<br>edildiği söyleniyor...<waitbutton><hr>Onu bulma şansı için <span class="color-2">aynı desenli çok<br>sayıda altın levha</span> kullanarak<br><span class="color-2">Orman Denizi Labirenti</span>'ne gir.<waitbutton><hr>Ama bu rakip inanılmaz güçlü.<br>Tamamen ciddi değilsen sakın meydan okuma.<waitbutton>|
 81097|Hah! Labirentte pusuya yatan devlerin<br>hikâyelerini artık duymuşsundur.<waitbutton><hr>Mesela o korkunç <span class="color-1">kırmızı kanatlı canavar</span>?<br>Onunla yüz yüze gelip hayatta kalan<br>olmadığını söylerler...<waitbutton><hr>Onu bulma şansı için yalnızca<br><span class="color-2">aynı desenli altın levhalar</span> kullanarak<br><span class="color-2">Büyük Kanyon Labirenti</span>'ne girmelisin.<waitbutton><hr>Güçlü bir düşmanı devirmek seni gerçek bir<br>savaşçı yapar! Girişiminde bol şans. Hah!<waitbutton>|
 82004|<playername>, iyi misin?<br><br><waitbutton><hr>Bay Khepri ve ben... suyun gücüyle sana yardım edeceğiz!<br>Lütfen biraz daha dayan! Tutun!<waitbutton>|
-82005|Ah, hayır! [0xe] bayıldı!<br><br><waitbutton><hr>Bay Khepri ve ben... suyun gücüyle yardım edeceğiz!<br>Lütfen biraz daha dayan!<waitbutton>|
+82005|Ah, hayır! [0xe] bayıldı!<br><br><waitbutton><hr>Bay Khepri ve ben... suyun gücüyle yardım edeceğiz!<br>Lütfen biraz daha dayan! Teşekkürler!<waitbutton>|
 82006|<playername>...<br><br><waitbutton>|
 82007|Devam edelim, <playername>!<br><br><waitbutton>|
 82008|[0x9, 0x85a, 0x100]Günaydın, <playername>!<br><br><waitbutton>|
@@ -6561,7 +6561,7 @@
 82031|[0x9, 0x85c, 0x100]<playername>, Kaos o kadar güçlü ki gökkuşağının kutsaması festival kartına ulaşamıyor...<waitbutton><hr>Festival düzenlemek istiyorsak önce bu Kaos'tan kurtulmalıyız!<waitbutton>|
 82032|[0x9, 0x85c, 0x100]<playername>, böyle giderse vaha sakinleri endişelenir...<waitbutton><hr>Bir şey yapmalıyız! Neler olduğunu öğrenip vahayı tekrar normale döndürmeliyiz!<waitbutton>|
 82033|[0x9, 0x85c, 0x100]<playername>, Kaos yine vahaya ulaştı...<waitbutton><hr>Ama Lumite'yi alırsak her şey yoluna girer, değil mi?<waitbutton>|
-82034|[0x9, 0x85c, 0x100]Lumite gökkuşağının gücünü artırdı ama yine de Kaos'un saldırısına uğruyoruz...<waitbutton><hr>Acaba son Lumite ile gerçekten Kaos'u yok edebilir miyiz...<waitbutton><hr>Üzgünüm, <playername>. Moralimi bozmamalıyım!<br>Vahamızı geri almak için elimizden geleni yapmalıyız!<waitbutton>|
+82034|[0x9, 0x85c, 0x100]Lumite gökkuşağının gücünü artırdı ama yine de Kaos'un saldırısına uğruyoruz...<waitbutton><hr>Acaba son Lumite ile gerçekten Kaos'u yok edebilir miyiz...<waitbutton><hr>Kusura bakma, <playername>. İyimser kalmak istiyorum! Vahamızı geri almak için elimizden geleni yapmalıyız!<waitbutton>|
 82100|<playername>, vahada Kaos bitkileri büyüyor gibi...<waitbutton><hr>Kimse endişelenmesin diye gördüğün Kaos bitkilerini sökmen iyi olur.<waitbutton>|
 82101|<playername>, festival düzenlemek için vahaya üç ruhçuğun gelmesi gerekiyor.<waitbutton><hr>Şimdilik daha çok vaha sakini toplamaya odaklanalım!<waitbutton>|
 82104|<playername>, ana yol artık daha geniş!<br>Bu da demek oluyor ki... bir<br>sürü Tomurcuk Tezgâhı<br>büyütülebilir!<waitbutton>|
@@ -6576,7 +6576,7 @@
 82113|Harika iş! Sanki sen de<br>güçlenmişsin,<br><playername>!<br><waitbutton>|
 82114|<playername>! Arka yol daha da büyüdü! Artık çok daha fazla Tomurcuk Tezgâhı kurabilirsin!<waitbutton><hr>Bahçeye yeniden ağaç dikebiliyoruz gibi. Sonra Jamileh'e uğrayalım!<waitbutton>|
 82115|Müthiş, <playername>! Görünüşe göre<br>vaha daha da büyüyecek!<br><waitbutton>|
-82116|<playername>, Büyük Ağaç'ın Pınarı genişledi!<br>Büyük Ağaç'ın kendisi de daha görkemli oldu!<waitbutton>|
+82116|<playername>, Büyük Ağaç'ın Pınarı genişledi!<br>Büyük Ağaç'ın kendisi de daha görkemli hâle geldi, <playername>.<waitbutton>|
 82117|<playername>, görünüşe göre vaha<br>artık daha da büyüyecek!<br><waitbutton>|
 82118|<playername>, arka yol büyüyor! Vahanın bu kadar büyümesine inanamıyorum!<waitbutton><hr>Bunca yolu birlikte gelmiş olmamıza çok sevindim, <playername>!<waitbutton>|
 82119|Harika iş! Sanki tüm sakinler<br>her geçen gün daha mutlu oluyor!<br><waitbutton>|
@@ -6591,7 +6591,7 @@
 82128|Harika iş, <playername>! Vaha<br>gülümseyen yüzlerle dolup<br>taşıyor!<br><waitbutton>|
 82129|<playername>, başardın! Vaha<br>potansiyelini<br>gerçekleştirmek ve zirve<br>gücüne ulaşmak üzere!<waitbutton>|
 82130|Aferin, <playername>! Vaha<br>maksimum gücüne ulaştı!<waitbutton> Umarım bu<br>harika yer sonsuza dek burada kalır...<waitbutton><hr>Teşekkür ederim, <playername>.<br><br><waitbutton>|
-82200|Shakuro'nun burada sakin olmaya karar<br>vermesine çok sevindim!<br><br><waitbutton><hr>Kaos canavarları tohumuna zarar vermiş...<br>Çok acı çekmiş olmalı.<br><br><waitbutton><hr>Umarım bu vahada yapmak istediği,<br>onu mutlu edecek bir şey bulabilir.<br><waitbutton>|
+82200|Shakuro'nun burada vaha sakini olmaya karar vermesine çok sevindim!<waitbutton><hr>Çok acı çekmiş olmalı... Umarım bu vahada yapmak istediği, onu mutlu edecek bir şey bulabilir.<waitbutton>|
 82201|Uzak diyarların insanları mı dedin?<br>Anlatacak ne ilginç hikâyeleri vardır kim bilir!<br>Çok heyecanlandım.<waitbutton><hr><playername>, doğru Kidung Mağaraları'na koşsan iyi olur!<waitbutton>|
 82202|Miura çok tatlı ve çok güçlü! Böyle uzun bir mızrağı ne güzel kullanıyor!<waitbutton><hr>Miura'nın bu vahaya ziyarete gelmesi ne güzel olurdu, değil mi?<waitbutton>|
 82203|<span class="color-2">Kidung Geçidi</span>'ndeki Pantersıçan ini kulağa korkunç geliyor ama Miura yanındaysa sorun olmaz bence!<waitbutton><hr>Bol şans, <playername>!<br><br><waitbutton>|
@@ -6600,7 +6600,7 @@
 82207|Lili'nin sakin olmasına çok sevindim!<br><br><waitbutton><hr>Emeklerin için teşekkürler, <playername>!<br>Dışarıdaki <span class="color-2">ağaç evde</span> biraz dinlensen iyi olur.<waitbutton>|
 82208|Bir gezgin çoktan gelmiş gibi. Lili ona meyve satmış mıdır sence?<waitbutton><hr><playername>, Ana Yol'a git ve Lili'ye işlerin nasıl gittiğini sor!<waitbutton>|
 82209|Lili'nin Tomurcuk Tezgâhı inanılmaz popüler! Her şeyi şimdiden satıp bitirmesine şaşmamalı.<waitbutton><hr>Ama böyle giderse müşterileri hayal kırıklığına uğrayabilir... Daha çok Gülüzümü lazım! Ona yardım edebilir misin?<waitbutton>|
-82210|Diğer iki Lumite kristalini toplarsak Kaos'u tamamen yok edebiliriz!<waitbutton><hr>Lumite hakkında bir şey biliyor olabilecek herkesle konuşalım!<waitbutton>|
+82210|Diğer iki Lumite kristalini toplarsak Kaos'u tamamen yok edebiliriz belki!<waitbutton><hr>Lumite hakkında bir şey biliyor olabilecek herkesle konuşalım!<waitbutton>|
 82211|Shakuro, Serkahların Lumite'ye<br>sahip olabileceğini söylüyor.<waitbutton><br><hr><playername>, güneye,<br><span class="color-2">Serkah Yerleşimi</span>'ne git!<waitbutton>|
 82212|Yolu kocaman bir kaya kapatıyor... Sanırım o büyük obur Levi'yi bulmalıyız.<waitbutton><hr>Kuruyemiş yemeye gittiyse <span class="color-2">kuruyemiş veren ağaçların yetiştiği yerleri</span> aramalıyız.<waitbutton>|
 82213|Bahar Tepesi'ni aradık ama Levi'yi hiçbir yerde bulamadık...<waitbutton><hr>Sence doymuş da Mariah'nın yanına geri mi dönmüştür?<waitbutton>|
@@ -6613,17 +6613,17 @@
 82220|Vahanın suyunu dağıtamayız ama ihtiyacı olana yardım edebilsek harika olurdu.<waitbutton><hr>Satıcı <span class="color-2">Evia</span> ile konuş; belki onun nektarından birazını Lagora Yerleşimi'ne götürebiliriz!<waitbutton>|
 82221|Evia'nın nektarı yapmayı kabul etmesine sevindim! Malzemeler şöyle:<waitbutton><hr><span class="color-2">Kaktüs Yaprağı</span> x10<br><span class="color-2">Taze Kabuk</span> x3<br><span class="color-2">Kalari Kaktüsü</span> x1<waitbutton><hr>Zor olacak ama bütün malzemeleri toplamak için elimizden geleni yapalım!<waitbutton>|
 82222|Acaba Evia bizim için nasıl bir nektar yapacak...<waitbutton><hr>Kesin çok ama çok lezzetli olacak! Umarım Lagoralar sever!<waitbutton>|
-82223|Evia'nın nektarı hazır! Hemen Lagora Yerleşimi'ne götürelim!<waitbutton><hr>Lagora Yerleşimi, Kalari Orman Denizi'ndeki <span class="color-2">Yuvarlandiken Yolu</span>'nun hemen ilerisindeydi, değil mi?<waitbutton><hr>Hadi gidelim, <playername>!<waitbutton>|
+82223|Evia'nın nektarı hazır! Hemen Lagora Yerleşimi'ne götürelim!<waitbutton><hr>Lagora Yerleşimi, Kalari Orman Denizi'ndeki <span class="color-2">Yuvarlandiken Yolu</span>'nun hemen ilerisindeydi, değil mi?<waitbutton> Hadi gidelim, <playername>!<waitbutton>|
 82224|Lagora Yerleşimi'ne geldik ama sanki bir şey unuttuk...<waitbutton><hr>Ah, doğru! O nektarı teslim etmemiz gerekiyor!<br><span class="color-2">Lagora Yaşlısı</span> ile konuşalım!<waitbutton>|
 82225|Lumite Unutulmuş Orman'da ama oraya gitmek için bir <span class="color-2">mühür taşı</span>na ihtiyacımız var...<waitbutton><hr>Mühür taşını takas eden tüccar neredeydi acaba...<waitbutton><hr>Buradaki tüccarlara soralım; belki birinde mühür taşı vardır!<waitbutton>|
 82226|Demek Serkah Yerleşimi'ndeki bir tüccarda mühür taşı varmış.<waitbutton><hr>Serkah Yerleşimi'ne gidip mühür taşını bize verip veremeyeceğini soralım.<waitbutton>|
 82227|Serkah Yerleşimi'ndeki tüccar mühür taşını Beş Ruhçuk Buğdayı ile takas edecekmiş.<waitbutton><hr><playername>, <span class="color-2">Lagora Yerleşimi'ndeki tüccardan</span> Beş Ruhçuk Tohumu satın alalım!<waitbutton>|
-82228|Beş Ruhçuk Tohumu çalınmış!<br>Zavallı tüccar...<br><br><waitbutton><hr><playername>, Yarasa Yuvası'na gidip<br>Uçan Sincayarasa'ya gününü gösterelim!<br><waitbutton>|
+82228|Beş Ruhçuk Tohumu çalınmış!<br><playername>, Yarasa Yuvası'na gidip Uçan Sincayarasa'yı yenelim!<waitbutton>|
 82229|Acaba Isa Beş Ruhçuk Tohumu'nu tüccara çoktan ulaştırdı mı?<waitbutton><hr><playername>, Lagora Yerleşimi'ne gidip biraz <span class="color-2">Beş Ruhçuk Tohumu</span> satın alalım!<waitbutton>|
 82230|Beş Ruhçuk Tohumu'nu alabildiğimize sevindim! Hadi bahçeye dikip büyütelim!<waitbutton><hr>Mühür taşına az kaldı. Hadi yapalım, <playername>!<waitbutton>|
-82231|Kaos neden geri geliyor? Sanırım vahayı<br>tek başıma koruyamıyorum...<br>Üzgünüm.<waitbutton><hr>Ama moralimizi bozmamalıyız.<br>Elimizden geleni yapalım.<waitbutton><hr><playername>, beş ruhçuk buğdayını<br><span class="color-2">Serkah Yerleşimi'ndeki tüccara</span><br>verelim.<waitbutton>|
+82231|Kaos neden geri geliyor? Sanırım vahayı tek başıma koruyamıyorum... Üzgünüm.<waitbutton><hr>Ama... <playername>, beş ruhçuk buğdayını <span class="color-2">Serkah Yerleşimi'ndeki tüccara</span> verelim.<waitbutton>|
 82232|Unutulmuş Orman'daki Lumite'yi alırsak<br>bu kez Kaos'u kesin temizleyebiliriz,<br>değil mi?<waitbutton><hr><playername>, Unutulmuş Orman'ın<br>derinliklerine cesurca ilerleyelim!<waitbutton>|
-82234|Kaos'u vahadan kendi başımıza<br>temizleyemedik, üstüne bir de<br>Kara Lumite çıktı...<waitbutton><hr>Çok üzgünüm, <playername>...<br><br><waitbutton><hr>Şimdilik Büyük Bilge'ye güvenip<br><span class="color-2">Hakikat Gözü</span>'nü aramaktan başka<br>çaremiz yok...<waitbutton><hr>Ama Hakikat Gözü gerçekten nedir ki?<br>Acaba bunu bilen biri var mıdır...<waitbutton>|
+82234|Kaos'u vahadan kendi başımıza temizleyemedik, üstüne bir de Kara Lumite çıktı...<waitbutton><hr>Üzgünüm, <playername>... Şimdilik Büyük Bilge'ye güvenip <span class="color-2">Hakikat Gözü</span>'nü aramaktan başka çaremiz yok...<waitbutton><hr>Ama Hakikat Gözü gerçekten nedir ki? Acaba bunu bilen biri var mıdır...<waitbutton>|
 82235|Miura'ya göre Drauk Yaşlısı<br>Hakikat Gözü'nü biliyormuş.<waitbutton><br><hr>Drauk yerleşimi Kidung Geçidi'nin hemen<br>ötesinde. Hadi gidelim, <playername>.<br><waitbutton>|
 82236|Drauk yerleşimini bulduğumuza sevindim<br>ama Hakikat Gözü'nü sormayı nasıl<br>unuttuk?!<waitbutton><hr><playername>, Drauk yerleşimine geri<br>dönelim ve Drauk Yaşlısı'yla konuşalım.<waitbutton>|
 82237|Hakikat Gözü'nü almak için<br>Hakikat Kılıcı'na ihtiyacımız var.<waitbutton><hr>Malzemelerden birini aldık:<br><span class="color-2">Göksel Çelik</span>.<waitbutton><hr>Diğer ikisi de <span class="color-1">Mücevher Yengeci</span>'nden<br><span class="color-2">Yedi Renkli Cam</span> ve <span class="color-1">Gözoid</span>'dan<br><span class="color-2">Yıldız Kumu</span>, değil mi?<waitbutton><hr>Bunlar Büyük Wakuto Kanyonu'nun en<br>zorlu düşmanlarından olabilir. Dikkatli<br>ol, <playername>!<waitbutton>|
@@ -6631,13 +6631,13 @@
 82239|Hakikat Kılıcı'nı dövdük!<br><br><waitbutton><hr>Bunu <span class="color-2">kuşanıp</span> Büyük Wakuto<br>Kanyonu'nun uzak uçlarına gidersek<br>Hakikat Gözü'nü alabiliriz...<waitbutton><hr>Büyük Wakuto Kanyonu'nun en uzak<br>uçlarında bizi ne bekliyor?<waitbutton>|
 82240|Işık Tapınağı'na girebilmek için<br>birkaç şart var...<br><waitbutton><hr>Hakikat Gözü'yle her bölgedeki<br><span class="color-2">heykeli</span> inceleyip Turkuaz, Sarı ve<br>Macenta <span class="color-2">Litografileri</span> elde etmelisin...<waitbutton><hr>Sonra da <span class="color-2">yedi gökkuşağı ruhçuğunun</span><br>buraya gelmesi için vaha sakinlerinin<br>sayısını artırmalısın.<waitbutton><hr>İkisi de epey zor görünüyor... ama bunu<br>başaracağına inanıyorum, <playername>!<br>Buraya kadar geldin!<waitbutton>|
 82241|Eğer <span class="color-2">Işık Tapınağı</span>'na gidersen<br>Lumite kristalleri arındırılabilir...<waitbutton><hr><playername>, neyi bekliyorsun?<br>Işık Tapınağı'na doğru yola!<br>Ama dikkatli ol!<waitbutton>|
-82242|Lumite kristalleri arındırıldı!<br>Saluru ve Aronbesh'le karşılaşmamıza<br>şaşırdım ama...<waitbutton><hr>Kaos'a yakalananlar neden bize<br>karşı savaşıyor?<waitbutton><hr>Saluru ve Aronbesh aslında ne istiyor?<br><br><waitbutton>|
+82242|Lumite kristalleri arındırıldı! Saluru ve Aronbesh'le karşılaşmamıza şaşırdım ama...<waitbutton><hr>Kaos'a yakalananlar neden bize karşı savaşıyor?<waitbutton><hr>Saluru aslında ne istiyor?<br><br><waitbutton>|
 82243|Vaha yeniden Kaos tarafından sarıldı.<br>Yani Büyük Ağaç'ın Çocuklarının gücü<br>zayıfladı...<waitbutton><hr>Şimdiye kadar bizi korudukları için onlara<br>çok minnettarım.<waitbutton><hr><playername>, artık savaşma sırası bizde!<br><br><waitbutton><hr>Tamam, Büyük Wakuto Kanyonu'ndaki<br><span class="color-2">Denemeler Tapınağı</span>'na gidelim!<waitbutton>|
 82244|Denemeler Tapınağı'nın ötesinde<br>Büyük Bilge var...<waitbutton><hr>Ama tapınağın içinde tuzaklar ve<br>korkunç Kaos canavarları var.<waitbutton><hr><playername>, sakinlerden alabileceğimiz<br>tüm yardımı alalım!<waitbutton>|
 82245|Vahadan görünen siyah sütun<br>Denemeler Tapınağı'ndan yükselmiş...<waitbutton><hr>Acaba Büyük Bilge bunca zamandır bizi<br>oradan mı koruyordu?<waitbutton><hr>Büyük Bilge'yle konuşmak istiyorum.<br>Siyah sütuna gidelim, <playername>!<waitbutton>|
 82246|Çeşme Meydanı'ndaki deliğin etrafındaki<br>Kaos dağıldı; artık içeri girebiliyoruz,<br>değil mi?<waitbutton><hr>Sheut o deliğin içinde, değil mi?<br><br><waitbutton><hr>Bu, şimdiye kadar karşılaştığımız en<br>büyük savaş olacak...<waitbutton><hr>O yüzden, <playername>... o deliğe girmeden<br>önce bir an durup düşünmek istiyorum...<waitbutton><hr>Vahayı... sakinlerini... ve Kaos'u...<br><br><waitbutton><hr>Senin de bir an durup düşünmene<br>sevinirim, <playername>.<waitbutton>|
 82247|Gurme Festivali büyük bir başarıydı!<br>Serkah halkının da geldiğini duydum!<waitbutton><hr>Acaba Serkah Yaşlısı şimdi bizi<br>Okyanus Nekropolü'ne alır mı?<waitbutton><hr><playername>, Serkah Yaşlısı'nın<br>yanına gidelim!<waitbutton>|
-82262|Gezginlerle Tomurcuk Tezgâhlarını<br>ziyaret ettiklerinde karşılaşabileceğin gibi,<br>vahanın dışında da karşılaşabilirsin.<waitbutton><hr><playername>, mümkün olduğunca<br>vaha sakinlerinin sayısını artırmaya çalış!<waitbutton>|
+82262|Gezginlerle Tomurcuk Tezgâhlarını ziyaret ettiklerinde karşılaşabilirsin; vaha dışında da onlarla tanışabilirsin.<waitbutton><hr><playername>, vaha sakinlerinin sayısını olabildiğince artırmaya çalış!<waitbutton>|
 82263|Vaha büyüdü ve artık gökkuşağının<br>koruması altında, değil mi?!<waitbutton><hr>Yeni bir gezgin gelmiş gibi görünüyor!<br>Hemen gidip selam verelim!<waitbutton>|
 82264|Shakuro buraya gelene kadar<br>epey zorluk çekti, değil mi?<waitbutton><hr>Kaybettiği yüzük kesin çok değerliydi.<br><playername>, onu aramaya yardım eder<br>misin?<waitbutton>|
 82265|Pantersıçan'ın düşürdüğü yüzük<br>kesinlikle Shakuro'nunki.<waitbutton><hr><playername>, hadi onu Shakuro'ya<br>götürelim!<waitbutton>|
@@ -6655,12 +6655,12 @@
 82407|Çok eskiden, Ostraka Harabeleri'nde<br>yaşayanların ruhları edindikleri bilgi<br>yüzünden kararmış.<br><waitbutton><hr>Ama böylesine eski bir karanlık neden<br>Kaos'u şimdi kendine çekiyor acaba...<br><waitbutton>|
 82408|Ostraka Harabeleri'ndeki Mavi Lumite<br>dışında iki Lumite kristali daha var,<br>değil mi?<waitbutton><hr>Üçünü de alırsak tüm Kaos'u<br>yok edebiliriz belki!<waitbutton>|
 82409|Kumdan oluşan Kaos canavarları normal<br>silahlardan neredeyse hiç hasar almıyor.<br><waitbutton><hr>Ama büyülü silahların böyle düşmanlara<br>karşı çok etkili olduğunu duydum.<br><waitbutton>|
-82410|Bahar Tepesi batak kumlarla dolu,<br>o yüzden adımlarına dikkat et!<waitbutton><hr>Oradaki Kaos canavarları buradakilerden<br>daha güçlü görünüyor...<br>İyi hazırlan, <playername>!<waitbutton>|
+82410|Bahar Tepesi batak kumlarla dolu, o yüzden adımlarına dikkat et!<waitbutton><hr>Oradaki Kaos canavarları buradakilerden daha güçlü görünüyor...<br>İyi hazırlan!<waitbutton>|
 82411|Gökkuşağı Koruması, vahanda ne kadar çok<br>sakin gülümsemesi varsa o kadar<br>güçleniyor gibi.<waitbutton><hr>Bol sakin gerçekten büyük bir nimet!<br><br><waitbutton>|
 82412|Okyanus Nekropolü çok eskiden insanların<br>ve yaratıkların birlikte yaşadığı bir<br>yermiş.<waitbutton><hr>Sonra insanlar bencilce yaratıkların<br>yaşam alanlarını ellerinden almış...<br>Ne kadar hüzünlü.<waitbutton>|
 82413|Diğer kabileler kendi üyeleriyle bir araya<br>gelip yerleşimler kuruyor ama dükkân<br>işletmek geleneklerinde yok gibi.<waitbutton><hr>Herhâlde bu yüzden Tomurcuk Tezgâhları<br>ve festivaller onlara çok ilginç geliyor.<br><waitbutton>|
 82414|Farklı festival türleri her seferinde<br>farklı müşteri kalabalıkları getirir.<waitbutton><hr>Ana yoldaki Tomurcuk Tezgâhları<br>müşterilerin zevkine uyarsa satışlar coşar!<waitbutton>|
-82415|Vaha büyüdü ve her türlü beceriye sahip<br>daha çok sakin var!<waitbutton><hr>Bu arada, daha önce ulaşamadığın yerler<br>var mı?<waitbutton><hr>Belki artık yeni sakinlerin becerileriyle<br>oralara ulaşabilirsin.<waitbutton>|
+82415|Vaha büyüdü ve her türlü beceriye sahip daha çok sakin var!<waitbutton><hr>Bu arada, daha önce gidemediğin yerler var mı? Belki artık yeni sakinlerin becerileriyle oralara ulaşabilirsin.<waitbutton>|
 82416|Sıradan bir günde unutmak kolay ama<br>suya sahip olmak gerçekten büyük bir<br>nimet.<waitbutton><hr>Buradaki tüm sakinler güvenli ve mutlu<br>yaşayabilsin diye suyu korumalıyız.<waitbutton>|
 82417|Festival damgalarını topladığın kartı<br>tüccarın sattığını duydum.<br><waitbutton><hr>Yeterince dewadem biriktirince kartı alıp<br>yeniden bir festival düzenleyelim!<br><waitbutton>|
 82418|Bazı Kaos canavarlarının gözlerinin içine<br>bakınca<br>kaçtığını duydum.<br><waitbutton><hr>O canavarlar yenilince nadir<br>eşyalar düşürürmüş.<waitbutton>|
@@ -6721,7 +6721,7 @@
 82561|Mosher formda kalmak için hâlâ<br>günde yüz kez çekiç savuruyor.<br><waitbutton><hr>Yaşının, sakinleri korumasına engel<br>olmasına hiç izin vermiyor, ha?<waitbutton>|
 82562|Zebulon, herkese yardım eden vahanın<br>kahramanı.<waitbutton><hr>Herkese asıl moral veren şey gücünden<br>çok olumlu tavrı. Neşesi insana<br>bulaşıyor!<waitbutton>|
 82564|Yahya, Serkah Yaşlısı'nın emriyle sana<br>yardım etmek için burada, <playername>.<br><waitbutton><hr>Böyle farklı kabilelerden insanlarla<br>birlikte çalışmak hoşuna gidiyor olmalı,<br>değil mi?<waitbutton>|
-82565|Edina kendi temposunda yaşar.<br>Dün bütün günü toplarla uğraşarak<br>geçirmiş.<waitbutton><hr>Dövüş sanatlarını ve gücü önemseyen<br>Drauklar arasında bile kişilik ve düşünce<br>farklılıkları var.<waitbutton>|
+82565|Edina kendi temposunda yaşar.<br>Dün bütün günü topları sıkıp oynayarak<br>geçirmiş.<waitbutton><hr>Dövüş sanatlarını ve gücü önemseyen<br>Drauklar arasında bile kişilik ve düşünce<br>farklılıkları var.<waitbutton>|
 82566|Ida fiziğiyle oldukça gurur duyuyor gibi.<br><br><waitbutton><hr>Tüm Drauklar uzun ve zarif yapılarıyla<br>çok havalı görünüyor!<waitbutton>|
 82568|Alana çok güzel, değil mi?<br><br><waitbutton><hr>Moda anlayışı da gerçekten çok iyi!<waitbutton>|
 82569|Kaela'nın Moda Festivali'nden keyif<br>almış olmasına sevindim.<waitbutton><hr>Fidanlar işlerini öyle özenle yapıyor ki<br>Drauklar onların el emeğine çok değer<br>veriyor.<waitbutton>|
@@ -6798,7 +6798,7 @@
 83063|Evindeki hamağın yanında [0x8, 0x1]'e<br>basarak <span class="color-2">uyuyabilirsin</span>. Zaman<br>sabaha kadar ilerler ve ilerlemen<br><span class="color-2">kaydedilir</span>.[0x5]|
 83064|[0x17]Ziyaretçiler[0x5]|
 83065|Ziyarete gelen <span class="color-2">gezginler </span>ve<br><span class="color-2">Baykuenler<br></span>sabahları sık sık vahada<br>belirir.[0x5]|
-83066|Gezginler vahayı severse<br>sakin olabilir.[0x5]|
+83066|Gezginler vahayı severse burada yaşamaya başlayabilir.[0x5]|
 83067|Baykuenler Tomurcuk Tezgâhlarından<br>pek çok şey satın alır ama<br>vaha sakini olmazlar.<waitbutton>|
 83068|[0x17]Kâr Toplama[0x5]|
 83069|Tomurcuk Tezgâhı satışları birikmeye<br>başlayınca dükkânın çatısında<br>dewadem simgesi görünür.[0x5]|
@@ -6817,7 +6817,7 @@
 83082|Bir kartı damgalarla<br>doldurduğunda,<br>Ruh Tapınağı'nda Esna'ya<br>kutsatabilirsin.<br>Sonra festival başlasın![0x5]|
 83083|[0x17]Festival Nimeti[0x5]|
 83084|Festival günlerinde birçok gezgin<br>vahayı ziyaret eder ve Tomurcuk Tezgâhı<br>satışları artar.<waitbutton>|
-83085|Festivaller sakinleri mutlu eder!<br>Gülümseme Ölçeri ve Gökkuşağı<br>Koruması maksimuma çıkar;<br>böylece CP bonusu da en yüksek<br>değere ulaşır.[0x5]|
+83085|Festivaller sakinleri mutlu eder!<br>Gülümseme Ölçeri, Gökkuşağı<br>Koruması ve CP değeri en yüksek<br>seviyeye çıkar.[0x5]|
 83086|[0x17]Asa[0x5]|
 83087|Asası olan Fidanlar, bir odayı<br>aydınlatmak ya da karartmak için<br>asalarını <span class="color-2">Büyü Taşları</span> üzerinde<br>kullanabilir.<br>Bir Büyü Taşı'nın önünde dur ve [0x8, 0x1]'e bas.[0x5]|
 83088|[0x17]Paraçiçek[0x5]|
@@ -6898,7 +6898,7 @@
 83164|Dokunmatik Ekran'ın sağ üstündeki<br>simgeye<br>dokunarak iyileştirme eşyası seçim<br>ekranına girebilirsin.<br>Tehlikedeyken iyileştirme<br>eşyalarını kullanmayı unutma![0x5]|
 83165|[0x17]Baygınlık[0x5]|
 83166|Maceradayken bir karakterin CP'si<br>sıfıra düşerse <span class="color-2">bayılır</span>.<br>Ekibindeki tüm üyeler bayılırsa<br>oyun biter.[0x5]|
-83167|Baygın karakterler bir süre sonra az miktarda CP ile tekrar ayağa kalkar.<br>Ayrıca yanlarına gidip <span class="color-2">[0x8, 0x1] </span>tuşuna art arda basarak daha hızlı toparlanmalarını sağlayabilirsin.[0x5]|
+83167|Baygın karakterler bir süre sonra az miktarda CP ile tekrar ayağa kalkar. Yanlarına gidip <span class="color-2">[0x8, 0x1] </span>tuşuna art arda basarak daha hızlı ayağa kalkmalarını sağlayabilirsin.[0x5]|
 83169|Yaprak Duvarı kullanan bir<br>karakter,<br>onu kullanırken hareket edemez.<br>Karakter<br>değiştirmek için [0x8, 0x8] ya da [0x8, 0x9] bas.[0x5]|
 83170|[0x17]Görev Göstergesi[0x5]|
 83171|Bir Tomurcuk Tezgâhında ürün<br>satıldığında ya da stok yenilendiğinde,<br><span class="color-2">Görev Göstergesi</span> artar.<br>Gösterge dolunca tezgâh sahibi,<br>Tomurcuk Tezgâhını seviye atlatmak<br>için sana <span class="color-2">özel bir istek</span> verir![0x5]|
@@ -6907,7 +6907,7 @@
 83174|[0x17]Kader Anahtarı[0x5]|
 83175|İki anahtardan birini<br>etkinleştirmek için<br>[0x8, 0x1] bas. Böylece<br>Kader Kapısı'nın ötesinde seni<br>neyin<br>beklediği değişir.[0x5]|
 83176|[0x17]Güçlendirici[0x5]|
-83177|Güçlendirici bulunan odalarda düşmanlar daha güçlü olur.<br>Güçlendiriciye saldırarak düşmanların güçlendirme etkisini geçici olarak kaldırabilir ve bu gücü grubuna kazandırabilirsin![0x5]|
+83177|Güçlendirici bulunan odalarda düşmanlar daha güçlü olur.<br>Güçlendiriciye saldırarak bu etkiyi ortadan kaldırabilir ve müttefiklerine yardım edebilirsin![0x5]|
 83178|[0x17]Güçlü Düşmanlardan Kaç[0x5]|
 83179|Geceleri daha güçlü Kaos canavarları<br>ortaya çıkar. Bir düşman çok güçlüyse,<br>silahını kaldırmak için [0x8, 0x4] bas;<br>böylece daha hızlı kaçabilirsin.<br>Bugün kaç, yarın yine savaşırsın![0x5]|
 83180|[0x17]Gökkuşağı Koruması Etkisi[0x5]|
@@ -6917,24 +6917,24 @@
 83184|[0x17]Gözlem Kamerası[0x5]|
 83185|Dokunmatik Ekran'ın sol altındaki<br>kamera düğmesine dokunarak<br>karakterin bakış açısından<br>etrafına<br>göz at.[0x5]|
 83186|[0x8, 0xf] ile etrafa bak. Kamera<br>düğmesine tekrar<br>dokun ya da bu görünümden<br>çıkmak için [0x8, 0x2]<br>bas.[0x5]|
-83187|Silahları serbestçe<br>değiştirebilir ve<br>sakin Fidanların silahlarını aynı<br>tür içinde değiştirebilirsin.<br><span class="color-2">Önerilen<br>ekipman</span>ı seçersen, sahip olduğun<br>eşyalar arasından uygun bir eşya<br>seçilir.<waitbutton>|
+83187|Silahını istediğin zaman değiştirebilir, sakin Fidanların silahlarını da aynı tür içinde değiştirebilirsin.<br><span class="color-2">Önerilen ekipmanı</span> seçersen sahip olduğun eşyalar arasından uygun bir eşya seçilir.<waitbutton>|
 83188|Sakin Fidanlar ekibe katıldığında<br>otomatik olarak önerilen ekipmanı kullanır.<br>Çöl halkının ekipmanı değiştirilemez ama<br>seviye atladıkça daha güçlü silahlara geçerler.<waitbutton>|
 83189|[0x17]Tomurcuk Tezgâhı Tüccarları[0x5]|
-83190|Bir gezgin vahayı severse, buraya yerleşip<br><span class="color-2">sakin</span> olabilir.[0x5]|
+83190|Bir gezgin vahayı severse buraya yerleşip <span class="color-2">vaha sakini</span> olabilir.[0x5]|
 83191|Vahada yaşayan Fidanlar<br><span class="color-2">Tomurcuk Tezgâhları</span> kurabilir.<br>Tomurcuk Tezgâhlarında çeşitli ürünlerin<br>bulunması daha fazla gezgini vahaya çeker.[0x5]|
 83192|Bu simgeye sahip bir<br>Tomurcuk Tezgâhına Yeşil Kasırga<br>uygulayarak orada birikmiş<br>dewademleri topla.<waitbutton>|
 83193|[0x17]Karakter Değiştirme[0x5]|
 83194|Kontrolündeki karakterler<br>arasında<br>gezinmek için [0x8, 0x8] ya da [0x8, 0x9] bas.<waitbutton>|
 83195|[0x17]Yolları Değiştir[0x5]|
-83196|Geliştirdiğin yol türlerini<br><span class="color-2">Tomurcuk Tezgâhı ekranından</span><br>seçip vaha yollarının görünümünü<br>değiştirebilirsin.[0x5]|
+83196|Geliştirdiğin bir yol türünü seçerek vahanın yollarını değiştirebilirsin. Bunun için <span class="color-2">Tomurcuk Tezgâhı</span> seçeneğini kullan.[0x5]|
 83197|Her sınıfın, macera ve savaşta işe<br>yarayan bir <span class="color-2">sınıf becerisi</span> vardır.<br>Sınıf becerilerinin sağladığı özellik<br>artışları ekibin tüm üyelerini etkiler.[0x5]|
-83198|[0x8, 0x5]'i basılı tutarak <span class="color-2">Keskin Nişancı<br>moduna</span> geç. [0x8, 0xf] ile normalde<br>görünmeyen noktaları hedefle ve<br>[0x8, 0x1] ile ateş et.[0x5]|
+83198|<span class="color-2">Keskin Nişancı modunu</span> etkinleştirmek ve hedefleri daha iyi nişan almak için [0x8, 0x5] bas.[0x5]|
 83199|[0x17]Kazı[0x5]|
 83200|Yerde parıldayan bir yer bulursan,<br><span class="color-2">Kazı</span><br>becerisi olan bir sakine geç ve [0x8, 0x1]<br>basarak<br>oraya gömülü malzemeleri al.[0x5]|
 83201|[0x17]Kaoslaşmış Bahçe[0x5]|
 83202|Bahçede bir Kaos bitkisi büyürse,<br>diğer ürünler büyümez<br>ve dewadem kullanarak ürünleri<br>daha hızlı<br>büyütemezsin.<waitbutton>|
 83203|[0x17]Çıkış Noktası[0x5]|
-83204|<span class="color-2">Çıkış Noktası</span>'nı kullanarak, topladığın eşyaları kaybetmeden bulunduğun yerden labirentten çıkabilirsin.<br>Ama çıktıktan sonra aynı Çıkış Noktası'na geri ışınlanamazsın; dikkat et.|
+83204|<span class="color-2">Çıkış Noktası</span>nı kullanarak bulunduğun yerden labirentten çıkabilirsin. Ancak ışınlandıktan sonra aynı Çıkış Noktası'na geri dönemezsin; dikkat et.|
 83205|[0x17]İyileştirme Noktası[0x5]|
 83206|<span class="color-2">İyileştirme Noktası</span>'nı kullanarak<br>CP'ni tamamen doldurabilir ve tüm durum<br>bozukluklarını iyileştirebilirsin.<br>Bir İyileştirme Noktası'nı kullandıktan sonra<br>labirentten çıkana kadar tekrar kullanamazsın.|
 83207|Farklı Fidanlar farklı şeyler<br>yetiştirmeyi sever.<br>Çiçek ve ot yetiştirenler<br>favori şeylerinden bol bol<br>yetiştirir.<br>Meyve ağaçlarını seven Fidanlar<br>senin için nadir meyveler bulur.[0x5]|
@@ -6954,7 +6954,7 @@
 83221|[0x8, 0x10] menüsünde Vaha'yı kontrol<br>ederek<br>Gökkuşağı Koruması nedeniyle<br>artacak CP<br>miktarını gör. CP, vahadan<br>ayrılınca<br>eklenecek.[0x5]|
 83222|CP'in bittiğinde<br><span class="color-2">iyileşip macerana</span><br><span class="color-2">devam edebilirsin</span>. Kaç kez<br>iyileşebileceğinin<br>bir sınırı vardır ama bu sayı<br>vahaya döndüğünde sıfırlanır.[0x5]|
 83223|[0x17]Festivallerden Sonra Gülümsemeler[0x5]|
-83224|Bir festivalden sonra, bir süre boyunca gülümsemelerin ve Gökkuşağı Koruması'nın sağladığı CP artışı azalmaz.<br>Ancak vaha Kaos tarafından sarılırsa Gökkuşağı Koruması'nın etkisi yine sınırlanır.|
+83224|Festivallerden sonra gülümsemelerin ya da Gökkuşağı Koruması'nın sağladığı CP artışı azalmaz. Ancak vaha Kaos tarafından sarıldığında Gökkuşağı Koruması'nın etkisi sınırlanır.|
 83225|Hızlı Seyahat hedefleri arttı.<br>Seyahat işlevine erişip vahanın<br>diğer bölgelerine gitmek için<br><span class="color-2">Hızlı Seyahat</span>'e dokun.[0x5]|
 83226|[0x17]Hazine Odaları[0x5]|
 83227|Hazine odalarında hazine<br>sandıkları bulunur. Ama<br>dikkat...<br>İçlerinden biri sahtedir. Yanlış<br>olanla<br>uğraşırsan bütün sandıklar<br>kaybolur ve<br>dışarı çıkmak için dövüşmek<br>zorunda kalırsın!|
@@ -6969,7 +6969,7 @@
 83236|[0x17]Hızlı Seyahat Hedefleri[0x5]|
 83237|[0x17]Dewademlerle eşya satın almanın<br>[0x17]yanı sıra, yanında<br>[0x17]belirli eşyalar varsa<br>[0x17]başka eşyalarla <span class="color-2">takas</span> edebilirsin.<waitbutton>|
 84000|[0x17]Çöle Doğru![0x5]|
-84001|Pami bir gezgin hakkında bir söylenti<br>paylaştı.<br>Gezgini vahaya davet edebilir misin?<br>Çöle çık ve ara![0x5]|
+84001|Pami bir gezginle ilgili bir söylentiden<br>bahsetti.<br>Gezgini vahaya davet edebilir misin?<br>Çöle çıkıp onu ara![0x5]|
 84002|Çeşme Meydanı'ndan geçerek vahadan çık.[0x5]|
 84003|[0x17]Gezgin Arayışı[0x5]|
 84004|Çölde gezginleri bul ve<br>vahaya davet et. <span class="color-2">Söylentilere</span> göz at,<br>sonra keşfe çık![0x5]|
@@ -6984,7 +6984,7 @@
 84013|Vahaya yakın bir Pantersıçan bir<br>yüzük düşürdü!<br>Bu Shakuro'nun yüzüğü olmalı.[0x5]|
 84014|Yüzüğü Shakuro'ya teslim et.[0x5]|
 84015|[0x17]Sentez Ağacı Fidanı[0x5]|
-84016|Shakuro sana bir Sentez Ağacı<br>Fidanı verdi. Onu suyun yanında,<br>içeride<br>bir yere dikmek gerekiyormuş. Evde üst<br>katta<br><span class="color-2">su var</span>, değil mi?[0x5]|
+84016|Shakuro sana bir Sentez Ağacı<br>Fidanı verdi. İçeride, suyun yakınına<br>dikmek gerekiyormuş. Evde üst katta<br><span class="color-2">su var</span>, değil mi?[0x5]|
 84017|Evin üst katını kontrol et.[0x5]|
 84018|[0x17]Ağaç Büyüyor![0x5]|
 84019|Sentez Ağacı evde büyüyor!<br>Onunla farklı eşyalar yapabilirsin.<br>Shakuro'ya teşekkür et.[0x5]|
@@ -7182,11 +7182,11 @@
 84238|Işık Tapınağı'ndaki sunakta<br>Yeşil Lumite'yi arındırdın. Tüm<br>Lumite kristallerini<br>kutsatmayı unutma![0x5]|
 84239|Işık Tapınağı'nda Lumite'yi kutsat.[0x5]|
 84240|[0x17]Arındırılmış Kırmızı Lumite![0x5]|
-84241|Işık Tapınağı'ndaki sunakta Kırmızı Lumite'yi arındırdın. Böylece üç Lumite kristalinin de arındırılması tamamlandı![0x5]|
+84241|Işık Tapınağı'ndaki sunakta Kırmızı<br>Lumite'yi arındırdın. Tüm Lumite<br>kristallerini kutsamayı unutma![0x5]|
 84242|Işık Tapınağı'ndan kaç.[0x5]|
 84243|[0x17]Sınavlara Doğru[0x5]|
 84244|Lumite kristallerini arındırdın! Yol gösteren sesi takip et ve Büyük Wakuto Kanyonu'ndaki <span class="color-2">Denemeler Tapınağı</span>'nda Büyük Bilge'yi bul.[0x5]|
-84245|Büyük Wakuto Kanyonu'ndaki Mekanik Kapı'ya git.[0x5]|
+84245|Büyük Wakuto Kanyonu'ndaki Denemeler Tapınağı'na git.[0x5]|
 84246|[0x17]Denemeler Tapınağı'nı Geç[0x5]|
 84247|Üç Lumite kristalinin parlaklığı<br>bir kapı mekanizmasını tetikledi.<br>Tüm sınavları tamamla, diğer<br>mekanizmaları çalıştır ve düşmanları<br>yen![0x5]|
 84248|Denemeler Tapınağı boyunca ilerle.[0x5]|
@@ -7203,7 +7203,7 @@
 84265|Görünüşe göre <span class="color-2">Kidung Mağaraları</span>'nda<br>bir çöl tüccarı var. Belki tüccar<br>vahayı ziyaret edip dükkân kurar.[0x5]|
 84266|Kidung Mağaraları'nda tüccarı bul.[0x5]|
 84267|[0x17]Tüccar İçin Tohumlar[0x5]|
-84268|Kidung Mağaraları'ndaki tüccar<br>biraz dekor bitkisi tohumu istiyor.<br>Onlar<br>mağaralarda bir <span class="color-2">küpün</span> içinde<br>olmalı.[0x5]|
+84268|Kidung Mağaraları'ndaki tüccar<br>biraz dekor bitkisi tohumu istiyor.<br>Tohumlar mağaralardaki bir<br><span class="color-2">saksıda</span> olmalı.[0x5]|
 84269|Dekor bitkisi tohumlarını bul.[0x5]|
 84270|[0x17]Daha Fazla Sakin![0x5]|
 84271|Çöl halkı sakinleri taşındığı için<br>vaha artık daha canlı. Sakinleri<br>vahaya çekmeye devam et![0x5]|
@@ -7212,20 +7212,20 @@
 84274|Baastu, Ostraka Harabeleri'nin<br>arka odasında Kaos'u yenen kutsal<br>ışıktan bahsetti.[0x5]|
 84275|[0x17]Kutsal ışığı elde et.[0x5]|
 84279|[0x17]Kaos Büyümesi[0x5]|
-84280|Vahayı gizemli bir oluşum kapladı.<br>Nour'un vahasında olanların<br>aynısı gibi, değil mi? Ne yapılabilir?[0x5]|
+84280|Vahayı gizemli bir bitki örtüsü kapladı.<br>Nour'un vahasında olanların aynısı gibi,<br>değil mi? Ne yapabiliriz?[0x5]|
 84281|Vaha sakinleriyle konuş.[0x5]|
 84282|[0x17]Kara Lumite[0x5]|
 84283|[0x17]Kaos'un vücut bulmuş hâli Sheut,<br>[0x17]Kara Lumite'yi yarattı. Ne<br>yapmalı...[0x5]|
 84284|[0x17]Ruh Tapınağı'ndan çık.[0x5]|
 84291|[0x17]Yedi Ruhçuk[0x5]|
-84292|[0x17]Yedi ruhçuğu vahaya çekmek için<br>[0x17]<span class="color-2">33 sakin</span> topla ve vahanın seviyesini yükselt.[0x5]|
+84292|[0x17]Yedi ruhçuğu vahaya çekmek için<br>[0x17]<span class="color-2">33 sakin</span> topla ve vahanın<br>[0x17]seviyesini yükselt.[0x5]|
 84293|[0x17]Vahaya daha fazla sakin getir.[0x5]|
 85000|[0x17]Ferahlatıcı Bir Lezzet[0x5]|
 85001|[0x17]Sakina'nın hayranı Shalara,<br>[0x17]canlı performans sırasında<br>[0x17]ferahlatsın diye nefis bir<br>[0x17]dondurma yapmaya çalışıyor.[0x5]|
 85002|[0x17]Durumu Çok Kötü[0x5]|
 85003|[0x17]Sakina'nın midesi ağrıdı,<br>[0x17]Shalara da ona ilaç yaptı.<br>[0x17]Ama pek işe yaramamış<br>[0x17]gibi görünüyor.[0x5]|
 85004|[0x17]Mide Dostu Dondurma[0x5]|
-85005|[0x17]Shalara, mideyi yormayan bir<br>[0x17]dondurma yapıp Sakina'ya<br>[0x17]verdi. Artık ona eskisinden<br>[0x17]de büyük bir hayran![0x5]|
+85005|[0x17]Shalara mideyi yormayan bir<br>[0x17]dondurma yapıp Sakina'ya verdi.<br>[0x17]Sakina artık Shalara'ya eskisinden<br>[0x17]de büyük bir hayranlık duyuyor.[0x5]|
 85006|[0x17]Mesafeli Bir Drauk[0x5]|
 85007|[0x17]Evia'nın endişelendiği Drauk,<br>[0x17]ona çok soğuk davrandı.<br>[0x17]Görünüşe göre hâlâ<br>[0x17]başkalarını kendinden uzak tutuyor.[0x5]|
 85008|[0x17]Yumuşak Kalpli Kız[0x5]|
@@ -7235,31 +7235,31 @@
 85012|[0x17]Bir Arkadaşa Veda Hediyesi[0x5]|
 85013|[0x17]Cyrus'un istediği gibi paketi<br>[0x17]arkadaşına teslim ettin ve<br>[0x17]sınır bölgelerinde yaşanan<br>savaşı<br>[0x17]öğrendin.[0x5]|
 85014|[0x17]Vicdan Azabı[0x5]|
-85015|[0x17]Savaşı bitirmeye kararlı bir<br>kadın<br>[0x17]Cyrus'tan yardım istedi ama<br>[0x17]Cyrus onu reddetti.[0x5]|
+85015|[0x17]Savaşı bitirmeye kararlı<br>[0x17]bir kadın Cyrus'tan yardım istedi.<br>[0x17]Ancak Cyrus ona yardım etmeyi<br>[0x17]reddetti.[0x5]|
 85016|[0x17]Bir Dosta Son Veda[0x5]|
 85017|[0x17]Cyrus'un arkadaşı, savaşı kazanıp<br>[0x17]yurdunu korumaktan memnuniyetle<br>[0x17]bahsetti. Cyrus onun<br>[0x17]son anlarında yanında oldu.[0x5]|
 85018|[0x17]Tatlı Rüyalar[0x5]|
 85019|[0x17]Murtaza'ya şekerleme araştırması<br>için<br>[0x17]malzeme verdin. Küçüklüğünden<br>beri<br>[0x17]bir şeker ustası olmak<br>[0x17]istiyormuş.[0x5]|
 85020|[0x17]Pek de Tatlı Olmayan Bir Geçmiş[0x5]|
-85021|[0x17]Duyduğuma göre Murtaza eskiden<br>[0x17]her türlü belaya bulaşan bir<br>[0x17]serseri grubunun lideriymiş.[0x5]|
+85021|[0x17]Duyduğuma göre Murtaza<br>[0x17]eskiden başı sürekli belaya giren<br>[0x17]bir serseri grubunun<br>[0x17]lideriymiş.[0x5]|
 85022|[0x17]Geçmişe Sözler[0x5]|
-85023|[0x17]Murtaza eski adamlarını<br>azarladı ve<br>[0x17]hayatta iyi bir amaç<br>bulmalarını<br>[0x17]söyledi.[0x5]|
+85023|[0x17]Murtaza eski tayfasını azarlayıp<br>[0x17]hayatta kendilerine iyi bir amaç<br>[0x17]bulmalarını söyledi.[0x5]|
 85024|[0x17]Hayalindeki Kahraman[0x5]|
-85025|[0x17]Amshel, hayran olduğu<br>kahraman için<br>[0x17]özel bir kumaş yapmaya<br>[0x17]çalıştı.[0x5]|
+85025|[0x17]Kahraman olma hayali kuran<br>[0x17]Amshel, hayran olduğu kahraman<br>[0x17]için kumaş yapmaya<br>[0x17]çalıştı.[0x5]|
 85026|[0x17]Kahraman İçin Süsler[0x5]|
-85027|[0x17]Amshel, kumaşı için gerekli<br>malzemeleri<br>[0x17]toplamaya başkalarını<br>gönderdiği için<br>[0x17]pişmanlık duyuyor.[0x5]|
+85027|[0x17]Amshel, kumaşı için gerekli<br>[0x17]malzemeleri toplamaya başkalarını<br>[0x17]gönderdiği için<br>[0x17]pişmanlık duyuyor.[0x5]|
 85028|[0x17]Senin İçin[0x5]|
-85029|[0x17]Sen ve Amshel, yaptığı kumaşı<br>[0x17]Kaos canavarlarından geri<br>almak için<br>[0x17]birlikte çalıştınız.[0x5]|
+85029|[0x17]Sen ve Amshel, yaptığı kumaşı<br>[0x17]Kaos canavarlarından geri almak<br>[0x17]için birlikte<br>[0x17]çalıştınız.[0x5]|
 85030|[0x17]Sebzelere Bayılır[0x5]|
-85031|[0x17]Roto, merak ettiği sebze tohumlarını aldı. Acaba bunlardan ne yetişecek?[0x5]|
+85031|[0x17]Roto merak ettiği sebze<br>[0x17]tohumlarını aldı. Acaba<br>[0x17]bunlardan ne<br>[0x17]yetişecek?[0x5]|
 85032|[0x17]Sevginin Fazlası Zarar[0x5]|
-85033|[0x17]Roto'nun sebzeleri soldu. Tohumları satan tüccar, Roto'nun onlarla gereğinden fazla ilgilendiğini söyledi.[0x5]|
+85033|[0x17]Roto'nun sebzeleri soldu.<br>[0x17]Tohumları satan tüccar, Roto'nun<br>[0x17]sebzelere gereğinden fazla<br>[0x17]dokunduğunu söyledi.[0x5]|
 85034|[0x17]Sebzelerimi İstiyorum[0x5]|
 85035|[0x17]Sebzeleri için endişelenen<br>Roto,<br>[0x17]tüccarın peşini bırakmadı.<br>[0x17]Ama sonra sebzeler<br>[0x17]büyümeye başladı![0x5]|
 85036|[0x17]Popülerlik Planı[0x5]|
-85037|[0x17]Den, kadınlar arasında popüler olmak için krep yapmak istiyor. Bu da çocukluk arkadaşı Azizah'ı fazlasıyla sinirlendiriyor.[0x5]|
+85037|[0x17]Den kadınlar arasında popüler<br>[0x17]olmak için krep yapmak istiyor.<br>[0x17]Bu, çocukluk arkadaşı Azizah'ı<br>[0x17]fazlasıyla sinirlendiriyor.[0x5]|
 85038|[0x17]Krepin Püf Noktası[0x5]|
-85039|[0x17]Den, Azizah'la büyük bir kavga etti. Onun peşinden koşarken kreplerle ilgili önemli bir şey fark etti.[0x5]|
+85039|[0x17]Den, Azizah'la büyük bir kavga<br>[0x17]etti. Onun peşinden koşarken<br>[0x17]kreplerle ilgili önemli bir şey<br>[0x17]fark etti.[0x5]|
 85040|[0x17]Aşk Krepleri[0x5]|
 85041|[0x17]Huysuz Azizah bile Den'in<br>tatlı<br>[0x17]kreplerini denedi ve<br>[0x17]onun krep yapma yeteneğini<br>[0x17]kabul etti.[0x5]|
 85042|[0x17]Donuk Bir Gülümseme[0x5]|
@@ -7275,11 +7275,11 @@
 85052|[0x17]Canım Babam[0x5]|
 85053|[0x17]Şüpheli kişinin Saeed'in babası<br>olduğu<br>[0x17]ortaya çıktı. Oğlunun hayaline olan<br>[0x17]bağlılığını görünce ona<br>[0x17]güzel sözler söyledi.[0x5]|
 85054|[0x17]Gecenin Işığı[0x5]|
-85055|[0x17]Gözoid Gözyaşı'nı lamba yağı olarak kullanması için Salome'ye verdin. Görünüşe göre geceleri sık sık dışarı çıkıyor.[0x5]|
+85055|[0x17]Beholio Gözyaşı'nı lamba yağı<br>[0x17]olarak kullanması için Salome'ye<br>[0x17]verdin. Görünüşe göre geceleri<br>[0x17]sık sık dışarı çıkıyor.[0x5]|
 85056|[0x17]Gizli Takip[0x5]|
 85057|[0x17]Salome’nin yardımıyla Kaos<br>[0x17]Fidanı’nı yendin.<br>[0x17]Ama kaderinde başka bir<br>[0x17]düşmanla daha savaşmak var gibi...[0x5]|
 85058|[0x17]Elveda, Dostum[0x5]|
-85059|[0x17]Salome'nin tamamen değişmiş<br>[0x17]eski arkadaşını yendin.<br>[0x17]Salome de sonunda geçmişiyle<br>[0x17]hesabını kapattı.[0x5]|
+85059|[0x17]Salome'nin tamamen değişmiş<br>[0x17]eski arkadaşını yendin.<br>[0x17]Salome'nin kaderindeki savaş<br>[0x17]sona erdi.[0x5]|
 85060|[0x17]Yazma Ateşi[0x5]|
 85061|[0x17]Isaac okumayı çok seviyor ama<br>[0x17]yazmak da istiyor.<br>[0x17]Vaha hakkında bir kitap<br>[0x17]yazmaya niyetli.[0x5]|
 85062|[0x17]Bilgi Güçtür[0x5]|
@@ -7287,7 +7287,7 @@
 85064|[0x17]Muska[0x5]|
 85065|[0x17]Isaac bir muska buldu.<br>[0x17]Kitapların ona yettiğini<br>sanıyordu.<br>[0x17]Artık deneyimin<br>[0x17]değerini biliyor.[0x5]|
 85066|[0x17]Çat! Baget Kırıldı[0x5]|
-85067|[0x17]Sakina yaklaşan davul<br>[0x17]gösterisi için çalışıyor.<br>[0x17]Müziğe olan tutkusu<br>[0x17]her hâlinden belli![0x5]|
+85067|[0x17]Sakina yaklaşan bir davul<br>[0x17]gösterisine hazırlanıyor.<br>[0x17]Tutkusu her hâlinden belli![0x5]|
 85068|[0x17]Sakina'nın Yaratıcılık Krizi[0x5]|
 85069|[0x17]Sakina yaratıcı bir tıkanıklık<br>yaşadı.<br>[0x17]Belli bir müzisyenin<br>eserlerini<br>[0x17]dinleyip müziğini<br>[0x17]yeniden gözden geçirdi.<waitbutton>|
 85070|[0x17]Kendi Müziğim[0x5]|
@@ -7301,9 +7301,9 @@
 85078|[0x17]Abi[0x5]|
 85079|[0x17]Naama, abisi onu övsün diye<br>[0x17]peçe yapmak için çok çalışıyor.<br>[0x17]Abisi onun için<br>[0x17]her şey.[0x5]|
 85080|[0x17]Endişeli Abi[0x5]|
-85081|[0x17]Naama, fazlasıyla endişeli abisine yeniden kavuştu. Bu karşılaşma, bağımsızlığını kanıtlama isteğini daha da güçlendirdi.[0x5]|
+85081|[0x17]Naama, fazlasıyla endişeli<br>[0x17]abisiyle yeniden kavuştu.<br>[0x17]Abisinin bu tavrı, Naama'nın<br>[0x17]bağımsızlığını kanıtlama isteğini artırıyor.[0x5]|
 85082|[0x17]Ben İyiyim[0x5]|
-85083|[0x17]Abisine bağımsız<br>olabildiğini göstermek için<br>[0x17]Naama ona el yapımı bir<br>[0x17]peçe gönderdi.[0x5]|
+85083|[0x17]Naama, abisine bağımsız<br>[0x17]olabildiğini göstermek için<br>[0x17]el yapımı bir peçe<br>[0x17]gönderdi.[0x5]|
 85084|[0x17]Hafızanın Peşinde[0x5]|
 85085|[0x17]Belzoni hafızasını kaybetti<br>ve<br>[0x17]tanımadığı bir Kaos canavarı<br>[0x17]rüyalarında sürekli<br>[0x17]karşısına çıkıyor.[0x5]|
 85086|[0x17]Rüyadaki Kara Taş[0x5]|
@@ -7311,11 +7311,11 @@
 85088|[0x17]Karanlıktaki Hakikat[0x5]|
 85089|[0x17]Belzoni kayıp hafızasını geri<br>kazanmadı,<br>[0x17]ama yine de ilerlemeye ve<br>[0x17]yarına umutla bakmaya<br>[0x17]devam edecek.[0x5]|
 85090|[0x17]Kırık Oyuncak Bebek[0x5]|
-85091|[0x17]Maat'tan bir bebeği tamir etmesi istendi. Bebeğin ne kadar yıpranmış olduğunu görünce çok endişelendi.[0x5]|
+85091|[0x17]Maat'tan bir bebeği tamir etmesi<br>[0x17]istendi. Bebeğin ne kadar<br>[0x17]yıpranmış olduğunu görünce<br>[0x17]çok endişelendi.[0x5]|
 85092|[0x17]Haklı Öfke[0x5]|
-85093|[0x17]Maat tamir ettiği bebeği sahibine götürdü ama neden bu kadar yıprandığını öğrenince onu geri vermeyi reddedip öfkeyle ayrıldı.[0x5]|
+85093|[0x17]Maat tamir ettiği bebeği<br>[0x17]sahibine verdi. Bebeğin neden<br>[0x17]bu kadar yıprandığını öğrenince<br>[0x17]öfkeyle oradan ayrıldı.[0x5]|
 85094|[0x17]Maat'ın Kararı[0x5]|
-85095|[0x17]Sahibi, bebeğe davranış<br>biçimi için özür diledi.<br>[0x17]Artık ona daha iyi<br>[0x17]bakacağına söz verdi.[0x5]|
+85095|[0x17]Sahibi, bebeğe davranış biçimi<br>[0x17]için özür diledi. Ona daha iyi<br>[0x17]bakacağına söz<br>[0x17]verdi.[0x5]|
 85096|[0x17]Taklitçi[0x5]|
 85097|[0x17]Wafaa, kârını artırmak istiyor;<br>[0x17]bu yüzden popüler dükkânları<br>[0x17]taklit edip göz alıcı bir halı<br>[0x17]yapmayı planlıyor.[0x5]|
 85098|[0x17]Farah'a Odaklan[0x5]|
@@ -7323,7 +7323,7 @@
 85100|[0x17]Kendine Gelen Wafaa[0x5]|
 85101|[0x17]Wafaa artık başkalarını<br>kopyalamak yerine<br>[0x17]en iyi yaptığı şeyi<br>[0x17]yapması gerektiğini<br>[0x17]anladı.[0x5]|
 85102|[0x17]Kâr Her Şeyden Önce[0x5]|
-85103|[0x17]Görünüşe göre Gadon dewadem<br>kazanmak için<br>[0x17]yeni bir pelerin yapmaya<br>[0x17]canını dişine takmış.[0x5]|
+85103|[0x17]Gadon, dewadem kazanmak için<br>[0x17]yeni bir pelerin yapmaya<br>[0x17]canını dişine takmış, böylece<br>[0x17]dewadem kazanabilecek.[0x5]|
 85104|[0x17]Gadon'un Satış Gezisi[0x5]|
 85105|[0x17]Gadon, pelerin isteyen bir<br>müşteriden<br>[0x17]fazla para istedi. Müşteri<br>[0x17]sinirlendi ve<br>[0x17]gitti.[0x5]|
 85106|[0x17]Asıl Önemli Olan[0x5]|
@@ -7338,43 +7338,43 @@
 85115|[0x17]Görünmez Kötülük[0x5]|
 85116|[0x17]Rakip kurdele dükkânı<br>[0x17]Magdalene'nin işlerini sürekli<br>[0x17]baltalıyor. Yine de bir gün<br>[0x17]anlaşabileceklerini umuyor.[0x5]|
 85117|[0x17]Ustanın Ruhu[0x5]|
-85118|[0x17]Magdalene yapılan sataşmaların<br>[0x17]onu yıldırmasına izin vermedi.<br>[0x17]Kötü niyetli rakibi de sonunda<br>[0x17]pes etmiş gibi.[0x5]|
+85118|[0x17]Magdalene, sataşmaların onu<br>[0x17]yıldırmasına izin vermedi.<br>[0x17]Kötü niyetli müşteri de<br>[0x17]sonunda pes etmiş gibi.[0x5]|
 85119|[0x17]Sahte Neşe[0x5]|
-85120|[0x17]Jasper, istediği kuşak<br>malzemelerini alsa da<br>[0x17]mutlu görünmüyor.[0x5]|
+85120|[0x17]Jasper istediği kuşak<br>[0x17]malzemelerini alsa da<br>[0x17]mutlu görünmüyor.[0x5]|
 85121|[0x17]Kurumuş Ruh[0x5]|
-85122|[0x17]Jasper, yaptığı kuşağın çöpe<br>atılmasıyla<br>[0x17]travma yaşadı. Özgüvenini<br>[0x17]kaybetti.[0x5]|
+85122|[0x17]Jasper, yaptığı kuşağın çöpe<br>[0x17]atılması yüzünden travma yaşadı.<br>[0x17]Özgüvenini<br>[0x17]kaybetti.[0x5]|
 85123|[0x17]Geri Gelen Özgüven[0x5]|
-85124|[0x17]Jasper, kuşaklarını öven bir<br>Fidan ile tanıştı.<br>[0x17]Özgüveninin bir kısmı<br>[0x17]geri geldi. [0x5]|
+85124|[0x17]Jasper, kuşaklarını öven bir<br>[0x17]Fidanla tanıştı.<br>[0x17]Özgüveninin bir kısmı<br>[0x17]geri geldi.[0x5]|
 85125|[0x17]Yavru Köpek Bakışları[0x5]|
-85126|[0x17]Tomurcuk Tezgâhı için yeni bir ürün<br>getirmen istendi.<br>[0x17]Lili'ye Kamelya Elması<br>getirdin.<br>[0x17]Çok sevindi.[0x5]|
+85126|[0x17]Tomurcuk Tezgâhı için yeni bir<br>[0x17]ürün getirmen istendi.<br>[0x17]Lili'ye Kamelya Elması getirdin.<br>[0x17]Çok sevindi.[0x5]|
 85127|[0x17]Fazla Bel Bağlamak[0x5]|
 85128|[0x17]Bir Drauk, Lili'ye kendi<br>ürünlerini<br>[0x17]temin edemiyorsa dükkân<br>[0x17]işletmemesi gerektiğini<br>[0x17]söyledi.[0x5]|
 85129|[0x17]Lili'nin Kararlılığı[0x5]|
-85130|[0x17]Lili, başkalarından yardım<br>[0x17]istemeden önce kendi başına<br>[0x17]çözmeyi denemesi gerektiğini<br>[0x17]anladı.[0x5]|
+85130|[0x17]Lili, başkalarından yardım<br>[0x17]istemeden önce kendi başına<br>[0x17]çözmeyi denemesi gerektiğini anladı.[0x5]|
 85131|[0x17]Aşkla Pişen Donut[0x5]|
-85132|[0x17]Raraku özel bir donut yapmak<br>için çok çalışıyor.<br>[0x17]Onu özel birinin yemesini<br>[0x17]istiyor gibi görünüyor.[0x5]|
+85132|[0x17]Raraku özel bir donut yapmak<br>[0x17]için çok çalışıyor.<br>[0x17]Onu özel birinin yemesini<br>[0x17]istiyor gibi görünüyor.[0x5]|
 85133|[0x17]Bitmeyen Aşk[0x5]|
-85134|[0x17]Raraku'nun ilk aşkı bir vaha<br>[0x17]şefiydi. Görünüşe göre ona<br>[0x17]hâlâ karşı duyguları var.[0x5]|
+85134|[0x17]Raraku'nun ilk aşkı bir vaha<br>[0x17]şefiydi. Görünüşe göre ona<br>[0x17]hâlâ karşı duyguları<br>[0x17]var.[0x5]|
 85135|[0x17]Hikâyenin Sonu[0x5]|
 85136|[0x17]Raraku, ilk aşkı Nour'un yaşayıp<br>yaşamadığının<br>[0x17]bilinmediğini öğrendi. Ama<br>[0x17]yeniden buluşacaklarına<br>[0x17]inanıyor.[0x5]|
 85137|[0x17]Keskinleşen Ustalık[0x5]|
-85138|[0x17]Jorah, Hanoch'un şalını<br>defalarca onararak<br>[0x17]iyi bir şal<br>[0x17]ustası oldu.[0x5]|
+85138|[0x17]Jorah, Hanoch'un şalını<br>[0x17]defalarca onararak iyi bir<br>[0x17]şal ustası<br>[0x17]oldu.[0x5]|
 85139|[0x17]Tekrarın Bedeli[0x5]|
 85140|[0x17]Jorah bir şal yaptı ama<br>[0x17]alışkanlıktan, Hanoch'u<br>düşünerek<br>[0x17]yaptı.|
 85141|[0x17]Kendi Yolunu Çizmek[0x5]|
 85142|[0x17]Jorah, Hanoch'u düşünmeden<br>[0x17]bir şal yapabildi. Bir<br>[0x17]zanaatkâr olarak geliştiğini<br>[0x17]hissediyor.[0x5]|
-85143|[0x17]Asi Emir Eri[0x5]|
-85144|[0x17]Mariah, Levi'nin tavrından<br>bıktı.<br>[0x17]Oyuncak yapmadaki ustalığını<br>[0x17]göstermeye çalıştı ama<br>[0x17]başaramadı.[0x5]|
+85143|[0x17]Yanlış Yoldaki Yardımcı[0x5]|
+85144|[0x17]Mariah, Levi'nin tavrından<br>[0x17]bıktı. Oyuncak yapmadaki<br>[0x17]ustalığını göstermeye çalıştı<br>[0x17]ama başaramadı.[0x5]|
 85145|[0x17]Odak Kaybı[0x5]|
 85146|[0x17]Mariah yalnızca oyuncak<br>[0x17]yapma ustalığını göstermeye<br>[0x17]odaklanınca Levi ondan<br>[0x17]hayal kırıklığına uğradı.[0x5]|
 85147|[0x17]Temellere Dönüş[0x5]|
-85148|[0x17]Mariah, oyuncak yapmasının<br>sebebinin<br>[0x17]insanları gülümsetmek<br>olduğunu<br>[0x17]hatırladı.[0x5]|
+85148|[0x17]Mariah, oyuncak yapma<br>[0x17]nedeninin insanları<br>[0x17]gülümsetmek olduğunu<br>[0x17]hatırladı.[0x5]|
 85149|[0x17]Güzel Kemer[0x5]|
-85150|[0x17]En iyi kemerleri yapmak için<br>Nyter'in<br>[0x17]nadir malzemelere ihtiyacı<br>var.<br>[0x17]Kendi güzelliğine de<br>[0x17]fazlasıyla düşkün gibi.[0x5]|
+85150|[0x17]En iyi kemerleri yapmak için<br>[0x17]Nyter'in nadir malzemelere<br>[0x17]ihtiyacı var. Kendi güzelliğinin<br>[0x17]de fazlasıyla farkında.[0x5]|
 85151|[0x17]Bencillik[0x5]|
 85152|[0x17]Nyter, dükkânından kemer çalan<br>[0x17]bir Lagora'ya öfkeyle ağır<br>[0x17]sözler söyledi.[0x5]|
 85153|[0x17]İşin Doğrusu[0x5]|
-85154|[0x17]Nyter, güzel şeylerin<br>uyandırdığı hayranlığı<br>[0x17]başkalarıyla paylaşmanın<br>[0x17]önemli olduğunu öğrendi.[0x5]|
+85154|[0x17]Nyter, güzel şeylere duyulan<br>[0x17]hayranlığı başkalarıyla<br>[0x17]paylaşmanın önemli olduğunu<br>[0x17]öğrendi.[0x5]|
 85155|[0x17]Şeytani Atıştırmalıklar[0x5]|
 85156|[0x17]Nubit, canavar<br>atıştırmalıkları yiyerek<br>[0x17]güçlenebileceğini<br>[0x17]düşünüyor.[0x5]|
 85157|[0x17]Savaşçı Olmak İçin[0x5]|
@@ -7386,13 +7386,13 @@
 85163|[0x17]Alevlenen Hırs[0x5]|
 85164|[0x17]Jorah, Hanoch'u övdü ve bu da<br>Hanoch'un<br>[0x17]en iyi olma takıntısını<br>[0x17]daha da<br>[0x17]artırdı.[0x5]|
 85165|[0x17]Kendin Ol[0x5]|
-85166|[0x17]Jorah, Hanoch'a olduğu hâliyle<br>[0x17]yeterli olduğunu fark ettirdi.<br>[0x17]Artık işini kendini tüketmeden<br>[0x17]sürdürebiliyor.[0x5]|
+85166|[0x17]Jorah, Hanoch'un kendisi gibi<br>[0x17]olabileceğini fark etmesini<br>[0x17]sağladı. Artık işlerini makul<br>[0x17]bir tempoda yapabiliyor.[0x5]|
 85167|[0x17]Gerçek Güzellik[0x5]|
 85168|[0x17]Sasha, gösterişin güzellik<br>demek olduğuna inanıyor.<br>[0x17]Bu düşünce, kızıyla<br>[0x17]kavga etmesine<br>[0x17]neden oldu.[0x5]|
 85169|[0x17]İstenen Görünüş Değil[0x5]|
-85170|[0x17]Bir müşteri, siparişi<br>aklındaki gibi olmadığı için<br>[0x17]iptal edince Sasha<br>[0x17]şok oldu.[0x5]|
+85170|[0x17]Bir müşteri siparişi<br>[0x17]aklındaki gibi olmadığı için<br>[0x17]iptal etti. Sasha bu duruma<br>[0x17]çok şaşırdı.[0x5]|
 85171|[0x17]Güzellik Görecelidir[0x5]|
-85172|[0x17]Sasha sonunda, kendi güzellik<br>anlayışını<br>[0x17]başkalarına dayatmanın<br>[0x17]bencillik olduğunu<br>[0x17]anladı.[0x5]|
+85172|[0x17]Sasha sonunda kendi güzellik<br>[0x17]anlayışını başkalarına<br>[0x17]dayatmanın bencillik olduğunu<br>[0x5]|
 85173|[0x17]Yeni Bir Fikir[0x5]|
 85174|[0x17]Carlotta araştırmayı çok<br>seviyor.<br>[0x17]Balon yapmak için kullandığı<br>kaktüse<br>[0x17]kaya tuzu koymaya<br>[0x17]karar verdi.[0x5]|
 85175|[0x17]Beklenmedik Sonuçlar[0x5]|
@@ -7420,7 +7420,7 @@
 85197|[0x17]Utangaç Kız[0x5]|
 85198|[0x17]Isa insanlarla konuşmakta iyi<br>değil.<br>[0x17]Utangaç ve bazen<br>[0x17]kelimelerine<br>[0x17]takılıyor. [0x5]|
 85199|[0x17]Kelimeler Zor[0x5]|
-85200|[0x17]Isa bir tüccarla pazarlık<br>etmek istedi ama<br>[0x17]kelimelerine dolandı<br>[0x17]ve başaramadı.[0x5]|
+85200|[0x17]Isa bir tüccarla pazarlık<br>[0x17]etmek istedi ama kelimelerine<br>[0x17]dolandı ve<br>[0x17]başaramadı.[0x5]|
 85201|[0x17]Sakin Ol, Acele Etme[0x5]|
 85202|[0x17]Isa tüccarla yeniden<br>karşılaştı ve tüccar<br>[0x17]ona kelimelerine odaklanıp<br>[0x17]yavaş konuşmasını<br>[0x17]söyledi.[0x5]|
 85203|[0x17]Ruh Sarsan Tını[0x5]|
@@ -7428,11 +7428,11 @@
 85205|[0x17]Flütün Cazibesi[0x5]|
 85206|[0x17]Kaos Fidanı, Moza’nın ruhu<br>[0x17]iyileştiren flütünün peşindeydi.<br>[0x17]Moza Fidana yardım etmeye<br>[0x17]çalıştı.[0x5]|
 85207|[0x17]Huzur İçinde Uyu[0x5]|
-85208|[0x17]Moza, Kaos Fidanı'nın<br>[0x17]son anlarında yanında oldu.<br>[0x17]Artık herkese huzur verecek<br>[0x17]flütler yapmaya kararlı.[0x5]|
+85208|[0x17]Moza, Kaos Fidanı'nın<br>[0x17]son anlarında yanında oldu.<br>[0x17]Artık herkese yardımcı olacak<br>[0x17]bir flüt yapacak.[0x5]|
 85209|[0x17]Kayıp Aşk[0x5]|
 85210|[0x17]Menwei kayıp aşkını arıyor.<br>[0x17]Henüz vazgeçmeye<br>[0x17]hazır değil.[0x5]|
 85211|[0x17]Aşk Rüyası[0x5]|
-85212|[0x17]Menwei, düşündüğün kişi<br>hakkında rüya görmeni sağlayan<br>[0x17]Sevda Çiçeği'ni elde etti.[0x5]|
+85212|[0x17]Menwei, düşündüğün kişi<br>[0x17]hakkında rüya görmeni sağlayan<br>[0x17]Sevda Çiçeği'ni elde etti.<br>[0x17]Aklından geçirdiğin kişiyi rüyanda görebilirsin.[0x5]|
 85213|[0x17]Yeniden Kavuşmak[0x5]|
 85214|[0x17]Menwei'nin aşkı artık<br>yaşamıyor.<br>[0x17]Ama bir sonraki hayatta<br>buluşacaklarına inanarak<br>[0x17]yoluna devam etmeye<br>[0x17]karar verdi.[0x5]|
 85215|[0x17]Lili'nin İsteği[0x5]|
@@ -7440,31 +7440,31 @@
 85217|[0x17]Tatlııı Donut[0x5]|
 85218|[0x17]Raraku, Değerli Nektar bulursa<br>[0x17]bir donut dükkânı açabilecek.<br>[0x17]Orada özel birini beklemeyi<br>[0x17]planlıyor.[0x5]|
 85219|[0x17]Posa Peşinde[0x5]|
-85220|[0x17]Evia, kaktüs posasından leziz<br>içecekler yapıyor.<br>[0x17]Artık dinlendiğine göre,<br>[0x17]enerji dolu![0x5]|
+85220|[0x17]Evia, kaktüs posasından leziz<br>[0x17]içecekler yapıyor.<br>[0x17]Biraz dinlenince yeniden<br>[0x17]enerji doldu![0x5]|
 85221|[0x17]Güzel Kız[0x5]|
-85222|[0x17]Naama, ona ters tüy verdiğin<br>için artık<br>[0x17]sevimli bir peçe<br>yapabildiğine<br>[0x17]çok sevindi.[0x5]|
+85222|[0x17]Naama, ona ters tüy<br>[0x17]verdiğin için sevimli bir peçe<br>[0x17]yapabildiğine çok<br>[0x17]sevindi.[0x5]|
 85223|[0x17]Kumaş İçin Malzemeler[0x5]|
 85224|[0x17]Amshel'e istediği<br>malzemeleri verdin.<br>[0x17]Malzemeleri ürkütücü bir<br>[0x17]gülümsemeyle<br>[0x17]aldı.[0x5]|
 85225|[0x17]Sebze Yetiştir[0x5]|
-85226|[0x17]İstenen dolmalık biberi<br>[0x17]bahçede yetiştirip Roto'ya<br>[0x17]verdin. Sonuca bayıldı.[0x5]|
+85226|[0x17]İstenen dolmalık biberi<br>[0x17]bahçede yetiştirip Roto'ya<br>[0x17]verdin. Roto çok<br>[0x17]etkilendi.[0x5]|
 85227|[0x17]Önemli Aletler[0x5]|
 85228|[0x17]Kaos canavarından aldığın<br>çantayı<br>[0x17]Jasper'a verdin. İçinde<br>[0x17]önemli aletler<br>[0x17]vardı.[0x5]|
 85229|[0x17]Favori İp[0x5]|
-85230|[0x17]Sabayt sarkan iplerden nefret<br>[0x17]ediyor. En sevdiği ip olmadan<br>[0x17]işe koyulmaya bir türlü<br>[0x17]heves edemiyor.[0x5]|
+85230|[0x17]Sabayt sarkan iplerden nefret<br>[0x17]ediyor. En sevdiği ip olmadan<br>[0x17]heveslenemiyor.[0x5]|
 85231|[0x17]Sert Görünüş, Tatlı Öz[0x5]|
 85232|[0x17]Sert görünümlü Murtaza, tatlı<br>şekerleme yapmak için<br>[0x17]ot istedi. Öğrenmeye<br>[0x17]hevesli<br>[0x17]görünüyor.[0x5]|
 85233|[0x17]Şans ve Dostluk[0x5]|
-85234|[0x17]Orakkanat'ın düşürdüğü<br>Tılsımlı Bilekliği<br>[0x17]Jorah'a verdin. Jorah, Hanoch için<br>[0x17]endişeli görünüyor.[0x5]|
+85234|[0x17]Orakkanat'ın düşürdüğü<br>[0x17]Tılsımlı Bilekliği Jorah'a<br>[0x17]verdin. Jorah, Hanoch için<br>[0x17]endişeli görünüyor.[0x5]|
 85235|[0x17]Şemsiyeci Kız[0x5]|
-85236|[0x17]Menwei, narin bir güneş şemsiyesi<br>ustası.<br>[0x17]Tomurcuk Tezgâhında<br>Işıktaşından yapılmış<br>[0x17]bir muskayı sergilemek istiyor.[0x5]|
+85236|[0x17]Menwei narin bir güneş şemsiyesi<br>[0x17]ustası. Tomurcuk Tezgâhında<br>[0x17]Işıktaşından yapılmış bir muskayı<br>[0x17]sergilemek istiyor.|
 85237|[0x17]Ustanın Flütü[0x5]|
-85238|[0x17]Moza, zanaatkârlığıyla gurur<br>duyuyor.<br>[0x17]Kanyon Tüneli'nden alınan<br>kemik mercanla<br>[0x17]bir flüt yapmayı planlıyor.[0x5]|
+85238|[0x17]Moza zanaatkârlığıyla gurur<br>[0x17]duyuyor. Kanyon Tüneli'nden<br>[0x17]alınan kemik mercanla bir flüt<br>[0x17]yapmayı planlıyor.|
 85239|[0x17]Kendini Beğenmiş[0x5]|
 85240|[0x17]Nyter, güzelliğin vücut bulmuş<br>[0x17]hâli olduğunu düşünüyor;<br>[0x17]sana kemer yerine güzel bir<br>[0x17]sarık verdi.[0x5]|
 85241|[0x17]Yeni Top[0x5]|
 85242|[0x17]Saeed, yılan derisinden bir<br>top<br>[0x17]yapmak istiyor. Ona<br>[0x17]dökülmüş deri verince<br>[0x17]çok sevindi. [0x5]|
-85243|[0x17]Dikenli İştah[0x5]|
-85244|[0x17]Nubit acıkmıştı, sen de ona<br>[0x17]biraz kurutulmuş<br>[0x17]kaktüs verdin. Meğerse<br>[0x17]leziz bir atıştırmalık<br>olabiliyormuş.[0x5]|
+85243|[0x17]Bir Kızın Derdi[0x5]|
+85244|[0x17]Nubit acıkmıştı, sen de ona<br>[0x17]biraz kurutulmuş kaktüs<br>[0x17]verdin. Meğerse leziz bir<br>[0x17]atıştırmalık olabiliyormuş.[0x5]|
 85245|[0x17]İnatçı Adam[0x5]|
 85246|[0x17]Gadon, bir Cızırgaga tarafından<br>[0x17]gagalana gagalana Kumlu Tüy<br>[0x17]almaya çalıştı. Çok dayanıklı![0x5]|
 85247|[0x17]İskelet Balığı Et Suyu[0x5]|
@@ -7474,19 +7474,19 @@
 85251|[0x17]Miura'yı İyileştirmek[0x5]|
 85252|[0x17]Drauk kabilesinden Miura,<br>[0x17]vahaya gelirken yaralanmış.<br>[0x17]Ona birkaç iksir verince<br>[0x17]çok sevindi.[0x5]|
 85253|[0x17]Bir Böcek Gerek[0x5]|
-85254|[0x17]Alana biraz huysuz olabilir ama ona Yeşim Böceği getirince sonunda becerini kabul etti.[0x5]|
+85254|[0x17]Alana bazen kaba davranabilir ama<br>[0x17]ona Yeşim Böceği getirince<br>[0x17]becerini kabul etti.[0x17]Yetenekli olduğunu gördü.[0x5]|
 85255|[0x17]Nam Salmış Gurme[0x5]|
 85256|[0x17]Reuben bir Serkah gurmesi.<br>[0x17]Takasla aldığın<br>[0x17]acı posayı yemekten<br>[0x17]keyif aldı.[0x5]|
 85257|[0x17]Övünmeye Değer Bir Yüz[0x5]|
-85258|[0x17]Miclessa için nemli ve bakımlı<br>[0x17]yüzü, yemekten bile daha<br>[0x17]önemli. Serkahların ne kadar<br>[0x17]farklı olabildiğini gösteriyor.[0x5]|
+85258|[0x17]Miclessa'nın tek derdi yüzünün<br>[0x17]nemli kalması. Serkahların ne<br>[0x17]kadar farklı olabildiğini<br>[0x17]gösteriyor.[0x5]|
 85259|[0x17]Bir Savaşçının Kanıtı[0x5]|
 85260|[0x17]Aslar'a bir Cesaret Tüyü<br>[0x17]teslim ettin. Lagora<br>[0x17]kabilesinde bu, savaşçı<br>[0x17]olduğunun kanıtı sayılıyormuş.[0x5]|
 85261|[0x17]Tanıdık Aletler[0x5]|
-85262|[0x17]Cyrus'a Pantersıçan İğneliği'ni<br>teslim ettin. Bu onun için<br>[0x17]önemli bir alet olmalı.[0x5]|
+85262|[0x17]Cyrus'a Pantersıçan İğneliği'ni<br>[0x17]teslim ettin.<br>[0x17]Bu onun için önemli bir<br>[0x17]alet olmalı.[0x5]|
 85263|[0x17]Başka Türlüsü Olmaz[0x5]|
 85264|[0x17]Hanoch, Prizma İpliği olmadan<br>[0x17]omuz şalı yapamayacağını söylüyor.<br>[0x17]Bu malzemeye kafayı epey<br>[0x17]takmış gibi.[0x5]|
 85265|[0x17]Daha Parlak Bir Işık[0x5]|
-85266|[0x17]Salome lamba yaparak geçiniyor.<br>[0x17]Renktaşıyla yanan lambaların<br>[0x17]çok daha parlak ışık verdiği<br>[0x17]söyleniyor.[0x5]|
+85266|[0x17]Salome lamba yaparak geçiniyor.<br>[0x17]Renktaşıyla yanan lambaların<br>[0x17]parlak ışık verdiği<br>[0x17]söyleniyor.[0x5]|
 85267|[0x17]Yalnız Değilim[0x5]|
 85268|[0x17]Belzoni'ye biraz gümüş<br>[0x17]kum teslim ettin. Son kumunu<br>[0x17]tek başına mangal yaparken<br>[0x17]bitirmiş.[0x5]|
 85269|[0x17]Yedi... Bir Şey[0x5]|
@@ -7495,23 +7495,23 @@
 85272|[0x17]Küpipan, müzik kutusunu<br>[0x17]Altın Toprakla tamir etti.<br>[0x17]Müzik kutularına epey<br>[0x17]eli yatkın görünüyor.[0x5]|
 85273|[0x17]Lezzete Lezzet Katmak[0x5]|
 85274|[0x17]Sevity'ye Robusta Kahve<br>[0x17]Çekirdeği teslim ettin.<br>[0x17]Farklı aromalı cupcake'ler<br>[0x17]yapmayı planlıyor.[0x5]|
-85275|[0x17]Ruh Heykellerinin Olmazsa Olmazı[0x5]|
-85276|[0x17]Shama bir ruh heykeli dükkânı<br>[0x17]açmak istiyor. Bunun için<br>[0x17]Gözoid Gözyaşı'na<br>[0x17]ihtiyacı var.[0x5]|
+85275|[0x17]Süs Eşyası Dükkânı İçin[0x5]|
+85276|[0x17]Shama bir süs eşyası dükkânı<br>[0x17]açmak istiyor. Dükkânı<br>[0x17]tamamlamak için Gözoid<br>[0x17]Gözyaşı'na ihtiyacı var.[0x5]|
 85277|[0x17]Kırmızı Çiçek[0x5]|
-85278|[0x17]Magdalene biraz utangaç.<br>[0x17]Ona Kırmızı Balsam verince<br>[0x17]yüzü mutluluktan<br>[0x17]aydınlandı.[0x5]|
+85278|[0x17]Magdalene biraz utangaç.<br>[0x17]Ona Kırmızı Balsam<br>[0x17]verince çok sevindi.[0x5]|
 85279|[0x17]Yarın Dene[0x5]|
-85280|[0x17]Um bir Suçlu Yumurta'yı yeneceğini söyleyip duruyordu ama işi sürekli erteliyordu. Onun yerine sen yenince çok sevindi.[0x5]|
+85280|[0x17]Um bir Suçlu Yumurta'yı<br>[0x17]yeneceğini söyleyip duruyordu.<br>[0x17]Sen onun yerine birini<br>[0x17]yenince çok sevindi.[0x5]|
 85281|[0x17]Çekiç Kullanan Kurtarıcı[0x5]|
 85282|[0x17]Mosher'ın arkadaşını<br>labirentte<br>[0x17]onun yerine sen kurtardın.<br>[0x17]Mosher şimdi kendini çok daha<br>[0x17]iyi hissediyor.[0x5]|
 85283|[0x17]Kayıp Öğrenci[0x5]|
-85284|[0x17]Yehani, labirentten geri<br>dönmeyen<br>[0x17]bir öğrencisi için<br>endişeliydi.<br>[0x17]En kötüye hazırlanmıştı.[0x5]|
+85284|[0x17]Yehani labirentten dönmeyen<br>[0x17]bir öğrencisi için endişeliydi.<br>[0x17]En kötü ihtimale<br>[0x17]hazırlanmıştı.[0x5]|
 85285|[0x17]Beceri Meselesi[0x5]|
-85286|[0x17]Selene, hainlerle ilgilenmeni<br>istedi.<br>[0x17]Meğer bu, becerilerini test<br>etmek içinmiş.[0x5]|
+85286|[0x17]Selene hainlerle<br>[0x17]ilgilenmeni istedi. Meğer bu,<br>[0x17]becerilerini sınamak içinmiş.[0x5]|
 85287|[0x17]İhtiyarın Emri[0x5]|
 85288|[0x17]Yahya'nın istediği gibi Mumya<br>[0x17]Ağacı'nı yendin ama emir<br>[0x17]aslında Serkah Yaşlısı'ndan<br>[0x17]gelmiş.[0x5]|
 85289|[0x17]O Sözü Ben Vermiştim![0x5]|
 85290|[0x17]Yosef, Nour'a Kanlı Madam'ı<br>[0x17]yeneceğine söz vermişti.<br>[0x17]Onun yerine sen yenince<br>[0x17]çok sinirlendi.[0x5]|
-85291|[0x17]Kurdeleler için gereken malzemeler kayboldu. Magdalene'nin suçlunun kim olduğuna dair bir fikri var gibi.[0x5]|
+85291|[0x17]Kurdele yapımında kullanılan<br>[0x17]malzemeler kayboldu.<br>[0x17]Magdalene suçlunun kim<br>[0x17]olduğunu biliyor gibi.[0x5]|
 90006|Günaydın, <playername>.<br>Gayet iyi görünüyorsun.<waitbutton>[0x5, 0x1]|
 90008|Büyük Ağaç'ın bir çocuğu olarak,<br><playername>, bir gün dışarı çıkıp<br>kendi vahanı kurman gerekecek. <waitbutton>[0x5, 0x1]|
 90009|O güne hazırlanman için seni iyi bir şef<br>olacak şekilde eğitmemiz gerekiyor.<waitbutton>|
@@ -7533,7 +7533,7 @@
 90025|Bir gün şef olduğunda,<br><playername>, senin Yeşil Kasırgan da<br>daha güçlü olacak.<waitbutton>[0x5, 0x1]|
 90027|Bölgeyi temizleme işini<br>harika yaptın,<br><playername>. Tebrikler. <waitbutton>[0x5, 0x1]|
 90028|[0x9, 0x867, 0x100]<playername>, şimdi ana yoldaki herkesle<br>biraz konuşmaya ne dersin? Eminim<br>sohbet etmeyi çok isterler.<waitbutton>[0x5, 0x1]|
-90029|Ana yolda takılan insanlarla ve<br>Tomurcuk Tezgâhı sahiplerinin hepsiyle<br>konuştuğunda<br>geri gel.<waitbutton>[0x5, 0x1]|
+90029|Ana yoldaki herkesle ve tüm<br>Tomurcuk Tezgâhı sahipleriyle<br>konuştuktan sonra bana dön.<waitbutton>[0x5, 0x1]|
 90030|Al sana küçük bir şey. Bunu yarınki festivalde<br>kullanırsın, olur mu?<waitbutton>|
 90031|<span class="color-2">[0x11]</span> dewadem aldın!<waitbutton>|
 90034|Pekâlâ. Git de herkesle selamlaş lütfen!<br><waitbutton>|
@@ -7591,13 +7591,13 @@
 90120|[0x17][0xb]Sen de tek başına mısın?[0xc][0x4, 0xbb8]|
 90121|[0x17][0x6, 0x4]Çok uzun zaman önce, bu topraklar<br>[0x17]yalnızca ıssız kum ve yakıcı güneşten<br>ibaretti.<br>[0x4, 0x1770]|
 90122|[0x17][0x6, 0x4]Fidan adı verilen canlılar<br>[0x17]bu uçsuz bucaksız çölü yuva<br>bellemişti.<br>[0x4, 0x1770]|
-90123|[0x17][0x6, 0x4]Suyun bereketiyle tohumları<br>[0x17]filizlendi ve zamanla<br>[0x17]çölü yeşerttiler.[0x4, 0x1770]|
+90123|[0x17][0x6, 0x4]Suyun bereketiyle tohumlarını<br>[0x17]topladılar ve zamanla çölü<br>[0x17]yeşerttiler.[0x4, 0x1770]|
 90124|[0x17][0x6, 0x4]Çölün başka yerlerinde ise,<br>[0x17]Kaos denen bir varlık<br>[0x17]toprakları yakıp yıkıyordu.[0x4, 0x1770]|
 90125|[0x17][0x6, 0x4]Bu Kaos, canlıların ruhlarını<br>[0x17]yutuyor ve onları<br>[0x17]vahşi canavarlara<br>dönüştürüyordu.[0x4, 0x1770]|
 90126|[0x17][0x6, 0x4]Fidanlar, şekilsiz ve<br>[0x17]öngörülemez Kaos'un<br>[0x17]korkusuyla yaşıyordu.[0x4, 0x1770]|
 90127|[0x17][0x6, 0x4]Bir gün cesur bir Fidan ayağa kalktı<br>ve<br>[0x17]Büyük Ağaç'ın tohumu ile<br>[0x17]herkesi Kaos'tan korudu.[0x4, 0x1770]|
 90128|[0x17][0x6, 0x4]Büyük Ağaç'ın bu Fidanı,<br>[0x17]bir su ruhuyla ittifak kurarak<br>[0x17]gökkuşağıyla taçlanmış,<br>[0x17]benzersiz güzellikte bir vaha<br>yarattı.[0x4, 0x1770]<br><hr>[0x17][0x4, 0x5dc][0x6, 0x4]Sedefli gökkuşağının ışığı<br>[0x17]vahayı sarıp sarmaladı ve<br>[0x17]Kaos'u kıyılara itti. [0x4, 0x1770]|
-90129|[0x17][0x6, 0x4]O günden beri Büyük Ağaç'ın<br>[0x17]armağanıyla doğan Fidanlar<br>[0x17]ayağa kalkıp çölün dört bir yanında<br>[0x17]gür vahalar büyüttü.[0x4, 0x1770]<br><hr>[0x17][0x4, 0x5dc][0x6, 0x4]Fidanlar Büyük Ağaç'a saygıyla,<br>[0x17]yorgun yolculara güven ve<br>[0x17]yaşam kaynağı sunarak<br>[0x17]hayatta kalmayı başardı.[0x4, 0x1770]|
+90129|[0x17][0x6, 0x4]O günden beri Büyük Ağaç'ın<br>[0x17]armağanıyla doğan Fidanlar<br>[0x17]ayağa kalkıp çölün dört bir yanında<br>[0x17]gür vahalar büyüttü.[0x4, 0x1770]<br><hr>[0x17][0x4, 0x5dc][0x6, 0x4]Büyük Ağaç'a duydukları saygıyla<br>[0x17]Fidanlar gelişip serpilebildi;<br>[0x17]yorgun yolculara güvenlik ve<br>[0x17]besin sağladı.[0x4, 0x1770]|
 90130|[0x17][0x6, 0x4]Bu nazik varlıklar,<br>[0x17]kalplerinin derinliklerinde<br>saklı<br>[0x17]küçücük bir tohumla doğar.[0x4, 0x1770]|
 90131|[0x17][0xb]Bu da ne?![0xc][0x4, 0x7d0]|
 90132|[0x17][0xb]Geri çekil![0xc][0x4, 0x7d0]|
@@ -7625,7 +7625,7 @@
 91011|Yaşasın! Pami burada sakin olacak!<br><br><waitbutton><hr>Bu arada, pınardan tatlı tatlı parıltılar<br>geliyor. Nedenini sorma da...<br><playername>, buraya gelir misin?<waitbutton>|
 91012|Belki vaha dışından gelen gezginler bile<br>buraya yerleşmek isteyebilir...<waitbutton>|
 91013|<playername>, vahanın dışına çıkmayı dene.<br>Söylentideki gezgini selamlayalım!<br><waitbutton><hr><span class="color-2">Ana yolu takip edersen</span>, sonunda<br>vahadan çıkıp çöle ulaşırsın.<br>Hadi gidelim!<waitbutton>|
-91014|[0x17]O Mavi Lumite ile ışık<br>[0x17]vahana yeniden dolup taşacak.<br><waitbutton><hr>[0x17]Ama özellikleri konusunda seni<br>[0x17]uyarmalıyım... Lumite, kişinin kalbini<br>[0x17]yansıtır.<waitbutton><hr>[0x17]Kristali ışıkla dolu tutmak için,<br>[0x17]senin de kalbinde ışık taşıman gerekir.<waitbutton>|
+91014|[0x17]O Mavi Lumite ile ışık<br>[0x17]vahana yeniden dolup taşacak.<br><waitbutton><hr>[0x17]Ama özellikleri konusunda seni<br>[0x17]uyarmalıyım... Lumite kişinin kalbini<br>yansıtır.<waitbutton><hr>[0x17]Kristali ışıkla dolu tutmak için,<br>[0x17]senin de kalbinde ışık taşıman gerekir.<waitbutton>|
 91017|Artık çalışmak için biraz<br>karanlık oldu.<br>Şimdi dinlenmek daha iyi.<waitbutton>|
 91018|[0x17]Peki bu Kaos da ne? Canlıların ruhunu<br>[0x17]yuttuğu düşüncesi bile dehşet verici.[0x4, 0x1388]|
 91019|[0x17]Vaha yaratabilen nadir kişilerden birisin.<br>[0x17]Bir gün tıpkı ağabeyin gibi olacaksın.[0x4, 0x1388]|
@@ -7641,8 +7641,8 @@
 91030|Görünüşe göre Pami seninle<br>konuşmak istiyor.<br>Haydi git o zaman.<waitbutton>|
 91031|Pami'nin ne istediğini merak<br>etmiyor musun?<br>Git de konuş onunla.<waitbutton>|
 91032|Lili'nin Tomurcuk Tezgâhını<br>büyütelim.<br><waitbutton>|
-91033|[0x17]<playername>, maceralarında sana güvenip<br>[0x17]destek olabilecek sakinleri<br>bulmalısın.[0x4, 0x1388]|
-91034|[0x17]Eminim ki çok yakında, benden bile<br>[0x17]daha görkemli bir vaha şefi olacaksın.[0x4, 0x1388]|
+91033|[0x17]<playername>, maceralarında sana<br>[0x17]güvenip destek olabilecek<br>[0x17]sakinleri bulmalısın.[0x4, 0x1388]|
+91034|[0x17]Eminim ki çok yakında,<br>[0x17]benden bile daha görkemli bir<br>[0x17]vaha şefi olacaksın.[0x4, 0x1388]|
 91035|Bak, <playername>.<br>Su ışıldıyor...<br><waitbutton>|
 91036|<playername>, vahanın dışında<br><span class="color-2">Kaos canavarlarına</span> karşı<br>tetikte ol...<waitbutton>|
 91037|Bir savaş boyunu aşıyorsa kaçmak ayıp değil.<br>Savaşlarını akıllıca seç!<waitbutton>|
@@ -7651,7 +7651,7 @@
 91041|[0x17]Ben Lumite’nin koruyucusuyum.<br><br><waitbutton><hr>[0x17]Büyük Ağaç Çocuğu, üçünden birini—<br>[0x17]<span class="color-2">Mavi Lumite</span>’yi sana emanet ediyorum.<br><waitbutton><hr>[0x17]Şimdi benimle rüzgârın gücünü paylaş.<br>[0x17]Böylece bu odadaki Lumite’nin<br>[0x17]mührünü kıracaksın.<waitbutton>|
 91042|Bu çiçeklerle kullanabildiğim çok havalı bir<br><span class="color-2">özel yeteneğim</span> var. Bak şimdi.<br><waitbutton><hr>Adı da... <span class="color-2">Tohum Topu</span>! Kısacası top olup<br>yuvarlanıyorum. Aşağı yukarı böyle.<waitbutton>|
 91043|[0x17][0xb]<playername>!<br>[0x17]Şu bitkiden uzaklaş![0xc]<waitbutton>|
-91044|[0x17][0xb]Şef olduğunda, <playername>,<br>[0x17]rüzgâr gücünün<br>[0x17]daha da artacağından eminim.[0xc]<waitbutton>|
+91044|[0x17][0xb]Şef olduğunda,<br>[0x17]<playername>, rüzgârının gücü<br>[0x17]daha da artacak.[0xc]<waitbutton>|
 91047|Seninle gelmek isterdim ama su<br>ruhları<br>pınarlarına bağlıdır...<waitbutton>|
 91048|Bir fikrim var.<br><br><waitbutton><hr>Hey, Khepri! Adın buydu, değil mi?<br>Benim yerime <playername>’e eşlik<br>eder misin?<waitbutton>|
 91049|[0x9, 0x85a, 0x100]Khepri’nin taşıdığı su küresi benim<br>gücümle dolu. Onun sayesinde yaptıklarını<br>görebiliyor ve duyabiliyorum.<waitbutton><hr>Keşke seninle gelebilseydim ama böylece<br>maceralara uzaktan ortak olur, yine de sana<br>yardım edebilirim, <playername>!<waitbutton>|
@@ -7660,7 +7660,7 @@
 91052|<playername>! Benim!<br><br><waitbutton><hr>Küçük dostumuz Khepri aramızda köprü<br>oluyor; böylece nerede olursan ol<br>konuşabiliyoruz.<waitbutton>|
 91053|Ne güzel bir ağaç! Bunu kendi<br>odan yapmaya ne dersin,<br><playername>?<waitbutton>|
 91054|İhtiyacın olduğunda burada dinlenebilirsin.<waitbutton>|
-91055|Daha şimdiden bir ziyaretçimiz olmasına<br>çok sevindim.<waitbutton><hr>Daha çok gezgin çekmek için bir sürü<br>Tomurcuk Tezgâhı kurmalıyız.<waitbutton>|
+91055|Daha şimdiden bir ziyaretçimiz<br>olmasına çok sevindim. Daha fazla<br>gezgin çekmek için bir sürü Tomurcuk<br>Tezgâhı kurmalıyız.<waitbutton>|
 91056|Lili’yi sakin yapmalı ve Tomurcuk<br>Tezgâhı’nı kurmasına yardım etmeliyiz.<br><waitbutton><hr><span class="color-2">Gülüzümü</span> lazım demişti, değil mi?<br>Belki vahanın etrafında yetişiyordur.<br>Hadi arayalım!<waitbutton>|
 91057|Hey, az önce bulduğun <span class="color-2">Gülüzümlerini</span><br>Lili'ye vermeliyiz. Çok sevinecek!<waitbutton>|
 91058|Hey, <playername>. Lili'nin isteğini yerine getirelim.<br>Buralara kadar geldi; onun mutlu olmasını<br>istiyorum!<waitbutton>|
@@ -7673,7 +7673,7 @@
 92004|Hey sen! Bir hanıma yardım eder misin?<br>Şu an bu yaratıkla dövüşecek hâlde değilim.<waitbutton>|
 92005|Oh be. İyi ki geldin. O yaratık beni kesin<br>paramparça ederdi. Yardımın için<br>teşekkürler.<waitbutton>|
 92006|Lanet olası Levi! Bütün bunlar onun suçu.<br><waitbutton>|
-92007|Beni buranın hemen ilerisindeki<br><span class="color-2">Serkah Yerleşimi</span>’ne götürmem için bana<br>çok ısrar etmişti.<waitbutton><hr>Ama şu saçma kaya yolu kapatırken oraya<br>varmamız mümkün değil.<waitbutton><hr>Yolu açmak yerine gidip yemek aradı!<br>Beni de burada çürümeye bıraktı.<br>Ugh. Sabrım tükeniyor.<waitbutton>|
+92007|Beni buranın hemen ilerisindeki<br><span class="color-2">Serkah Yerleşimi</span>’ne götürmen için<br>çok ısrar etmişti.<waitbutton><hr>Ama şu saçma kaya yolu kapatırken oraya<br>varmamız mümkün değil.<waitbutton><hr>Yolu açmak yerine gidip yemek aradı!<br>Beni de burada çürümeye bıraktı.<br>Ugh. Sabrım tükeniyor.<waitbutton>|
 92008|Ben önemli işleri olan önemli bir insanım.<br>Burada sonsuza kadar bekleyemem.<br>En az ON dakika oldu.<waitbutton><hr>Şey... Levi’yi benim için bulmaya ne dersin,<br>hm? Evet. İyi fikir. Git yap şunu.<br>Şimdi. Lütfen.<waitbutton>|
 92009|Levi, şuradaki gibi ağaçların kirazlarını<br>çok sever;<br>o yüzden Bahar Tepesi'ndeki <span class="color-2">o ağaçlardan<br>birinin</span><br>yakınlarında olmalı.<br><waitbutton><hr>Beni burada bırakacak kadar<br>cüretkardı. Ne terbiyesiz.<br>Neyse, bol şans.<br><waitbutton>|
 92010|Levi kesin Bahar Tepesi'ndeki<br><span class="color-2">o ağaçlardan birinin</span> yakınındadır.<br><waitbutton><hr>Off. Beni bir dakika daha bekletme!<br>Git de bul onu, şimdi! Lütfen.<br><waitbutton>|
@@ -7687,7 +7687,7 @@
 92018|Şey... Affedersiniz, Bayan Mariah...<br><br><waitbutton>|
 92019|Ee, geçebilmek için yolu açmamı<br>istiyorsunuz, ha?<br><waitbutton><hr>Bi’ bakayım... Takip edin beni. Şu kayayı<br>paramparça ederim, sonra da yolumuza<br>bakarız.<waitbutton>|
 92021|Pekâlâ. Hadi başlayalım.<br><br><waitbutton>|
-92022|Oh. Hah. Tamam öyleyse.<br><br>Biraz takılırım, fikrini<br>değiştirirsen gelirsin.<br><waitbutton>|
+92022|Oh. Hah. Tamam öyleyse.<br><br><waitbutton><hr>Bir süre burada takılırım. Fikrini<br>değiştirirsen geri gel.<br><waitbutton>|
 92023|Geri dönmüşsün. Şu kayaya<br>gücünü göstermeye hazır<br>mısın?<br><waitbutton>|
 92024|Heh! Bırak bu işi Levi halletsin!<br><br><waitbutton><hr><span class="color-2">Çekicim</span> sayesinde bu cılız kayaların<br>hiç şansı yok.<waitbutton>|
 92025|Hey, oraya gitmeden önce burada işimi bitirmem<br>sorun olur mu?<waitbutton><br><hr>Doğrusunu istersen, şuradaki kirazları zaten<br>yedim,<br>oraya gitmek beni sadece suçlu, aç ve üzgün<br>yapar...<waitbutton>|
@@ -7701,7 +7701,7 @@
 92035|Bu noktadan sonrası Serkah toprağıdır.<br><br><waitbutton><hr><span class="color-2">Okyanus Nekropolü</span> kaynak bakımından<br>zengindir ve o kaynaklar Serkahlara aittir.<br>Kısacası buradan geçemezsin.<waitbutton><hr>Üstelik bir Serkah’ın yardımı olmadan<br>o kayayı aşman da imkânsız. Yaniii... evet.<waitbutton>|
 92036|Shakuro'nun böyle harika bir festival düzenlemesi çok iyi!<waitbutton>|
 92037|<playername>, daha çok teslimat yapıp<br>Festival Kartı’nı doldurmalısın.<br><waitbutton><hr>Sonra birlikte gökkuşağının altında<br>meditasyon yapabiliriz.<waitbutton>|
-92038|Evet, eski vahamın şefiyle festivaller<br>hakkında konuştum.<br><br>Öncelikle, Tomurcuk Tezgâhlarına bir sürü<br>teslimat yapmalısın.<br><br><waitbutton><hr>Her teslimat için dükkân<br>sahipleri Festival Kartı'na<br>bir damga basar.<br><br><waitbutton><hr>Kart dolunca, sen ve Esna<br>gökkuşağının altında<br>meditasyon yapmalısınız.<br><br><waitbutton><hr>Sonrasında minnettarlığın coşkusu<br>gökkuşağının gücünü artırır<br>ve festivalin başlamasına zemin<br>hazırlar!<br><waitbutton><hr>Festivaller topluluklar için harikadır.<br>Kim iyi bir festivali sevmez ki?<br><waitbutton>|
+92038|Evet, eski vahamın şefiyle festivaller<br>hakkında konuştum.<waitbutton><hr>Öncelikle, Tomurcuk Tezgâhlarına bir sürü<br>teslimat yapmalısın.<waitbutton><hr>Her teslimat için dükkân sahipleri<br>Festival Kartı'na bir damga basar.<waitbutton><hr>Kart dolunca, sen ve Esna gökkuşağının<br>altında meditasyon yapmalısınız.<waitbutton><hr>Sonrasında minnettarlığın coşkusu<br>gökkuşağının gücünü artırır ve festivalin<br>başlamasına zemin hazırlar!<waitbutton><hr>Festivaller topluluklar için harikadır.<br>Kim iyi bir festivali sevmez ki?<waitbutton>|
 92039|Vuuu! İlk festivalimiz!<br><waitbutton><br><hr><playername>, bunun gelmiş geçmiş en iyi<br>festival olduğundan emin olmalıyız. Tabii<br>Lumite'yi alabilmek için!<waitbutton>|
 92040|Festivalin başlamasına az kaldı.<br>Sence katılım iyi olur mu?<br><waitbutton>|
 92041|Ah, demek Okyanus<br>Nekropolü'nü bu yüzden<br>keşfetmek istiyordun.<br><waitbutton>|
@@ -7714,7 +7714,7 @@
 92048|Off... Böyle bir şeyin<br>olacağını hiç<br>düşünmemiştim.<br><waitbutton>|
 92049|Levi, buraya kahraman gibi<br>dalıp gelmene gerek yoktu.<br>Ben çivi gibi sağlamım. Bilirsin.<waitbutton>|
 92050|Hâlâ her zamanki gibi çevik ve huysuz<br>olmana sevindim, eski dostum. Peki ya<br>diğerleri?<br>İyiler mi?<waitbutton>|
-92051|Onların durumunu ya da nerede<br>olduklarını<br>söyleyemem. Ben yerimden ayrılmam,<br>bilirsin.<waitbutton>|
+92051|Onların iyi olup olmadıklarını ya da<br>nerede olduklarını bilmiyorum. Ben<br>yerimden ayrılmam, bilirsin.<waitbutton>|
 92052|Al. Bu <span class="color-2">anahtar</span> seni diğerlerinin yanına<br>götürecek. <waitbutton><br><hr>Hemen şurada. Kesinlikle<br>onlara rastlarsın.<br><waitbutton>|
 92054|Yüzümü kara çıkarma!<waitbutton>|
 92055|Bizi kurtaracak mısın?<br><waitbutton><br><hr>Güzel. Kurtarıcıları<br>severim.<br><waitbutton>|
@@ -7740,9 +7740,9 @@
 92077|Hrk!<br><waitbutton>|
 92078|Mehehe, yine başardım, evettt...<br><br><waitbutton><hr>Ee, ne? Bir şey yok. Bir şey yok dedim ya!<br><waitbutton>|
 92079|Ne istiyorsun? İşime burnunu sokup<br>duruyorsun.<waitbutton><hr>Gördüğün gibi ben sadece şirin mi şirin<br>küçük bir Serkah’ım; Serkahların yaptığı<br>her neyse onu yapıyorum. Evet.<waitbutton><hr>Şimdi izninle gidiyorum.<br><br><waitbutton>|
-92080|[0x17]İmdadıma geldiğin ve<br>[0x17]bu yeri Kaos’tan arındırdığın için<br>[0x17]teşekkür ederim.<waitbutton><hr>[0x17]Bu toprakların kıymetli mücevherinin<br>[0x17]koruyucusuyum: <span class="color-2">Yeşil Lumite</span>.<waitbutton>|
-92081|[0x17]Bir zamanlar, çok eskiden, hayvanlar ve<br>[0x17]insanlar burada uyum içinde yaşardı.<br><waitbutton><hr>[0x17]Fakat insanlar zamanla toprağı kendilerine<br>[0x17]ait saydı ve hayvanları buradan sürdü.<br><waitbutton><hr>[0x17]Dev, öfkeli Karideskorpiyon da muhtemelen<br>[0x17]kovulan hayvanların öfkesinden doğdu.<br><waitbutton><hr>[0x17]Şimdi ise, senin sayende öfkesi dindi.<br>[0x17]Gerçekten teşekkür ederim.<waitbutton><hr>[0x17]Sen, huzursuz uyuyanların tek umudusun.<br>[0x17]Bu yüzden Yeşil Lumite’yi yolculuğunda<br>[0x17]sana emanet ediyorum.<waitbutton><hr>[0x17]Şimdi bana <span class="color-2">Yeşil Kasırga</span>’yı göster.<br><br><waitbutton>|
-92082|[0x17]Yeşil Lumite’nin enerjisiyle<br>[0x17]kıymetli vahana yeniden ışık<br>[0x17]getirebileceksin.<waitbutton><hr>[0x17]Ancak şunu unutma: Lumite, kalbindeki<br>[0x17]ışığı da gölgeleri de yansıtır...<br><waitbutton><hr>[0x17]Büyük Ağaç Çocuğu, kalbindeki ışığa<br>[0x17]sımsıkı tutunman hayati önem taşır.<waitbutton>|
+92080|[0x17]Yardımıma koşup bu yeri<br>[0x17]Kaos’tan arındırdığın için teşekkür ederim.<waitbutton><hr>[0x17]Bu toprakların kıymetli mücevherinin<br>[0x17]koruyucusuyum: <span class="color-2">Yeşil Lumite</span>.<waitbutton>|
+92081|[0x17]Bir zamanlar, çok eskiden, hayvanlar ve<br>[0x17]insanlar burada uyum içinde yaşardı.<br><waitbutton><hr>[0x17]Fakat insanlar zamanla toprağı kendilerine<br>[0x17]ait saydı ve hayvanları<br>[0x17]buradan sürdü.<waitbutton><hr>[0x17]Dev, öfkeli Karideskorpiyon muhtemelen<br>[0x17]kovulan hayvanların öfkesinden<br>[0x17]doğdu.<waitbutton><hr>[0x17]Şimdi ise, senin sayende öfkesi dindi.<br>[0x17]Gerçekten teşekkür ederim.<waitbutton><hr>[0x17]Sen, huzursuz uyuyanların tek umudusun.<br>[0x17]Bu yüzden Yeşil Lumite’yi yolculuğunda<br>[0x17]sana emanet ediyorum.<waitbutton><hr>[0x17]Şimdi bana <span class="color-2">Yeşil Kasırga</span>’yı göster.<br><br><waitbutton>||
+92082|[0x17]Yeşil Lumite’nin enerjisiyle<br>[0x17]kıymetli vahana yeniden ışık<br>[0x17]getirebileceksin.<waitbutton><hr>[0x17]Ancak şunu unutma: Lumite, kalbindeki<br>[0x17]ışığı ve gölgeleri<br>[0x17]yansıtır...<waitbutton><hr>[0x17]Büyük Ağaç Çocuğu, kalbindeki ışığa<br>[0x17]sımsıkı tutunman hayati<br>[0x17]önem taşır.<waitbutton>|
 92084|<playername>, hoş geldin! Şimdi<br>Yeşil Lumite'yi<br>etkinleştirmeyi<br>deneyeceğim.<waitbutton>|
 92085|Vay... Lumite'den büyük bir<br>güç<br>taştığını<br>hissedebiliyorum...<br><waitbutton>|
 92086|Ha! İşte bu. Şimdi bu enerjiyi kullanıp<br>Kaos'u buradan SÜPÜRÜP atalım!<waitbutton>|
@@ -7772,8 +7772,8 @@
 92128|O da burada kalıp yardım etmek istediğini<br>söyledi. Böylece tekrar birlikte oluruz.<br><waitbutton><hr>Özellikle ayrıntılara çok dikkat eder.<br>Stok yenilemesi gereken Tomurcuk<br>Tezgâhlarına malzeme dağıtsa nasıl olur?<waitbutton>|
 92129|O zaman karar verildi! Kız kardeşimle<br>muhteşem vahanın vazgeçilmez bir parçası<br>olmayı dört gözle bekliyoruz.<br>Kendimizi övmek gibi olmasın ama...<waitbutton>|
 92130|Selam Şef, seni bekliyordum. Sana<br>bir teklifim var.<br><waitbutton>|
-92131|Vahada bu görevde olduğum için çöl halkı<br>bana iyice açıldı.<waitbutton><hr>Birçoğu hem antrenman yapıp hem de sana<br>malzeme toplamak için keşfe çıkmak<br>istediklerini söyledi.<waitbutton><hr>Hepsi çok yetenekli dövüşçüler; sen olmadan<br>da grup hâlinde maceraya çıkabilirler.<waitbutton><hr>Onları, tezgâhların stokları ve sentez için<br>malzeme toplamaya göndermeye ne dersin?<br><waitbutton><hr>Tabii yol hazırlıkları için dewadem gerekir;<br>ama iki taraf için de kârlı bir anlaşma.<waitbutton>|
-92132|Vay be... Kaos canavarları uyanmış<br>ve dövüşmeye hazır.<waitbutton><hr>Belli ki Bayan Mariah koşarak geçip<br>gittiği için. Artık tek çare dövüşmek.<br><waitbutton><hr><span class="color-2">Sersemletme Çekici</span> adlı bir yeteneğim var.<br>Çok hızlı bir saldırı değildir ama savaşta<br>fazlasıyla işe yarar. Göreceksin.<waitbutton>|
+92131|Vahada bu görevde olduğum için çöl halkı<br>bana iyice açıldı.<waitbutton><hr>Birçoğu sana malzeme toplarken biraz da<br>antrenman yapmak istediklerini söyledi.<waitbutton><hr>Hepsi çok yetenekli dövüşçüler; maceralarda<br>onları yanına alman işine yarar.<waitbutton><hr>Tezgâh stoklarını yenilemek ve sentezde<br>kullanmak için onlardan malzeme<br>toplamalarını istemeye ne dersin?<waitbutton><hr>Tabii zamanları ve yol masrafları için<br>dewadem gerekir ama bu iki tarafın da<br>yararına olur.<waitbutton>|
+92132|Vay be... Kaos canavarları uyanmış<br>ve dövüşmeye hazır.<waitbutton><hr>Belli ki Bayan Mariah hızla içeri daldı.<br>Artık dövüşmekten başka çaremiz yok.<waitbutton><hr><span class="color-2">Sersemletme Çekici</span> adlı bir yeteneğim var.<br>Çok hızlı bir saldırı değildir ama savaşta<br>fazlasıyla işe yarar. Göreceksin.<waitbutton>|
 92133|Şef, yine sorun var.<br>Kaos bitkileri yeniden<br>kök salıyor.<waitbutton>|
 92134|Neyse ki geçmişte olduğu kadar felaket<br>değil, ama yine de beni fena geriyorlar...<br><waitbutton><hr>Bir de onları bırakırsak ziyaretçiler azalır;<br>bu da daha az satış demek. Hiç iyi değil.<waitbutton>|
 92135|Şef, halledersin değil mi? Tabii ki<br>halledersin. Haydi aslanım, kaplanım!<waitbutton>|
@@ -7810,7 +7810,7 @@
 92171|Hrm. O Serkah bayağı garip<br>davranıyordu.<br>İçime kötü bir his doğdu...<waitbutton>|
 92172|Şeyyy... bu kadar yüksekten düşmesine<br>rağmen tek parça duruyor gibi...<br>Yani... bu iyi, değil mi?<waitbutton>|
 92173|Başardın, <playername>!<br>İkinci Lumite kristalini<br>aldın!<br><waitbutton>|
-92174|Bununla Kaos’u yeniden temizleyebiliriz.<br><waitbutton><hr>Ben her zamanki gibi vahada seni<br>bekleyeceğim. Dönüş yolunda dikkatli ol.<br><waitbutton>|
+92174|Bununla Kaos’u bir kez daha<br>ortadan kaldırabiliriz.<waitbutton><hr>Ben her zamanki gibi vahada seni<br>bekleyeceğim. Dönüş yolunda dikkatli ol.<br><waitbutton>|
 92177|Hm, demek güneyden geldi... Bu da güneye<br>bağlanan yolun açılmış olabileceği anlamına<br>gelir.<waitbutton><hr>Hey, <playername>, Enkaz Tüneli’nde<br>mağaracılığa gidelim! Yani... şey... sadece<br>bir bakalım. Mağaracılık şart değil...<waitbutton>|
 92178|Tek sorun şu ki, festival düzenlemek için<br>vahanın bayağı büyük olması gerekiyor.<waitbutton><br><hr>Benim bulunduğum vahada <span class="color-2">üç ruhçuk</span> vardı,<br>bu da festival için güzel bir boyuttu.<waitbutton>|
 92179|Ama Shakuro’nun dediği gibi önce vahayı<br>büyütmeliyiz.<waitbutton><br><hr><playername>, üç ruhçuğu hedefleyelim.<br>Bence festival için tam doğru boyut olur!<waitbutton>|
@@ -7843,7 +7843,7 @@
 92207|Neredeyse Tomurcuk Tezgâhlarını bile<br>kemirmeye kalkarlar diye korktum. Her şeyin<br>tadını merak ediyorlar!<waitbutton>|
 92208|Görünüşe göre tüm sakinler çok eğleniyor.<br>Festival düzenlediğimize çok sevindim!<waitbutton>|
 92210|...<playername>?<br><br><waitbutton>|
-92211|Biraz keyifsiz görünüyorsun... İyi misin?<br>Festivalde eğlenmedin mi?<br><waitbutton>|
+92211|Biraz keyifsiz görünüyorsun... İyi misin?<br><waitbutton>|
 92212|Ah... Anlıyorum...<br><br><waitbutton>|
 92213|Ağabeyinin vahasına festivalden bir gün önce<br>Kaos saldırmıştı. Bu, sende bir sürü duyguyu<br>tetikliyor olmalı...<waitbutton>|
 92214|Acın için çok üzgünüm. Seni her zaman<br>dinlemeye hazırım; anlamak için de<br>elimden geleni yapacağım.<waitbutton>|
@@ -7874,7 +7874,7 @@
 92239|Ve Kaos yok olursa, görünüşe göre<br>tüm canavarlar eski<br>hâllerine dönecek.<waitbutton>|
 92240|Endişeli görünüyorsun, <playername>.<br>Ne oldu?<br><waitbutton>|
 92241|Ah, canavarların nasıl ortaya<br>çıktığını<br>merak ediyorsun...<br><waitbutton>[0x5, 0x1]|
-92242|Doğrusunu söylemek<br>gerekirse, bunun hakkında<br>yalnızca birkaç kırıntı<br>biliyorum.<br><waitbutton>[0x5, 0x1]|
+92242|Doğrusunu söylemek gerekirse, bunun<br>hakkında yalnızca ufak tefek şeyler<br>biliyorum.<waitbutton>[0x5, 0x1]|
 92243|Hatırlıyor musun, sana bir zamanlar tüm<br>çölün<br>göz alabildiğine yemyeşil olduğunu<br>anlatmıştım?<waitbutton>|
 92244|O zamanlar hiç canavar<br>yoktu.<waitbutton>[0x5, 0x1]|
 92245|Şimdi karşılaştığımız canavarlar... Şey,<br>aslında hayvanlardı. Ama Kaos tarafından<br>bozulup çarpıtıldılar.<waitbutton>[0x5, 0x1]|
@@ -7956,7 +7956,7 @@
 93064|<playername>!<br>Yaşasın! İçecekler harız!<br><waitbutton><hr>...Şey.<br>Hazır, demek istedim!<waitbutton>|
 93066|[0x9, 0x756, 0x100]Kendi borumu öttürmek gibi olmasın ama,<br>neredeyse kusursuz.<waitbutton><hr>Düt!<waitbutton><br><br><hr>Eh, <playername>, teslimat işini sana bırakıyorum.<waitbutton><hr>Umarım Lagoralılar bu lezzetli içeceğin<br>zarif ihtişamını takdir eder.<waitbutton>|
 93067|Şey, merhaba?<br><waitbutton><br><hr>Sen... o vahadaki kişi değil<br>misin?<br>Burada ne işin var?<br><waitbutton>|
-93068|Dur, ne? Buralara kadar sırf bir içecek<br>teslim etmek için mi geldin?<waitbutton><hr>Vay canına, ben de su çalıyordum...<br>Şimdi kendimi kötü hissediyorum ama<br>bir yandan da minnettarım.<waitbutton><hr>Özür dilerim. Ve teşekkür ederim.<waitbutton>|
+93068|Dur, ne? Buralara kadar sırf bir içecek<br>teslim etmek için mi geldin?<waitbutton><hr>Vay canına, ben de su çalıyordum...<br>Kendimi kötü hissediyorum ama bir yandan<br>da minnettarım. Özür dilerim. Teşekkürler.<waitbutton>|
 93069|O zaman sana yerleşime giden<br>yolu göstermem en iyisi.<waitbutton>|
 93070|Yerleşime giden patika canavarlar ve ağlarla<br>öyle bir dolmuş ki geçmek neredeyse imkânsız.<waitbutton><hr>O yüzden beni takip et. Başka bir yol biliyorum.<waitbutton>|
 93071|Hey, neden başka yere gidiyorsun?<br><waitbutton><br><hr>Haydi. Yerleşime dönelim ve şu müthiş<br>içeceği herkese ulaştıralım, olur mu?<waitbutton>|
@@ -7987,7 +7987,7 @@
 93098|Elbette en nadide mallarımdan birine<br>ilgi duyarsın.<waitbutton><br><hr>Şöyle yapalım. Bana efsanevi mahsul olan<br><span class="color-2">Beş Ruhçuk Buğdayı</span> getirirsen...<br>o zaman belki konuşuruz.<waitbutton>|
 93099|Ah! Sen de kimsin?! Ne istiyorsun?!<br><waitbutton>|
 93100|Ugh... Şey... Kusura bakma. Biraz gerginim.<br>Öyle diyorlar.<waitbutton><hr>Şey, sen <playername>'sin, ha? Adını<br>daha önce duydum...<waitbutton><hr>Ben Isa. Tanıştığımıza memnun oldum.<br><br><waitbutton>|
-93101|Bir tüccarın bir Uçan<br>Sincayarasa tarafından<br>baskına uğradığını duydum.<br><br>Ben de yaratığı indirip<br>malları geri alırım diye<br>buraya geldim.<br><waitbutton><hr>Ama doğrusu bu iş beni biraz aşıyor...<br>Şey... eee... şu soylu görevimde bana<br>yardım eder misin?<br><waitbutton>|
+93101|Bir tüccarın bir Uçan Sincayarasa<br>tarafından baskına uğradığını duydum.<waitbutton><hr>Ben de yaratığı yenip malları geri<br>alabileceğimi düşünerek buraya geldim.<br>Ama doğrusu bu iş beni biraz aşıyor...<waitbutton><hr>Şey... en soylu görevimde bana yardım<br>eder misin?<waitbutton>|
 93103|Harika. Çok teşekkür ederim, dostum.<br><waitbutton>|
 93104|Cidden mi? Neden olmasın ki?<br><waitbutton><br><hr>*hıçkıra hıçkıra* Şey...<br>Ben... şurada...<br>durayım o zaman... *hıçk*<br><waitbutton>|
 93105|Rica ediyorum... benimle uğraşmayı bırak.<br>Pek nazikçe değil. Yardım talebim hâlâ geçerli.<waitbutton>|
@@ -8013,8 +8013,8 @@
 93126|Ama... işler umduğu gibi gitmedi.<br>Su sıkıntısı hâlâ devam ediyor.<waitbutton>|
 93127|Babamın planı tutmayınca, ben de<br>işleri düzeltmenin bana düştüğünü düşündüm...<waitbutton>|
 93128|Kadim el yazmalarına göre,<br>Unutulmuş Orman Lagora tarafından büyütülmüş.<waitbutton><hr>Fidanların vahalar yaratmasına benzer şekilde,<br>Lagora da çölde daha yaşanabilir bir ortam<br>oluşturmayı ummuş.<waitbutton>|
-93129|Ama kısa süre içinde bitkilerin hepsini<br>yaşatacak kadar su üretemediğini fark etmişler.<waitbutton>|
-93130|Ormanın kaynaklarının sınırlı olduğunu anlayınca,<br>Lagoralar yeni gelenlere kapıyı kapatıp<br>ormanı mühürlemiş.<br><waitbutton><hr>Mühür taşı da o dönemin bir kalıntısı.<br><waitbutton><hr>Sonunda orman Kaos tarafından tüketilmiş<br>ve Lagoralar burayı terk etmek zorunda kalmış.<br><waitbutton>|
+93129|Ormandaki bitkilerin tüm Lagoraları<br>yaşatacak kadar su sağlayamadığını<br>fark ettiler.<waitbutton>|
+93130|Ormanın kaynaklarının sınırlı olduğunu<br>anlayınca Lagoralar ormanı mühürledi.<br>Mühür taşı da o tarihin bir kalıntısı.<waitbutton><hr>Sonunda orman Kaos tarafından yutuldu.<br>Ardından Lagoralar burayı terk etti.<waitbutton>|
 93131|Ahh, hadi amaaa. Niye böyle<br>her şeye burnunu sokup lafımı kesiyorsun?<br><waitbutton>|
 93132|Şu Kaos'u beslemekle meşgul<br>olduğumu<br>görmüyor musun? Hadi dağıl.<br><waitbutton>|
 93133|Aslında biliyor musun?<br>Belki de TAM orada kalmalısın.<waitbutton><br><hr>Şu Kaos Yosunu denen tip bütün gün Kaos yedi.<br>Belli ki dövüşe can atıyor.<waitbutton>|
@@ -8026,14 +8026,14 @@
 93139|[0x17][0xb]Hatırladığın gibi, o gün rüzgârı kullanıp<br>[0x17]bana ağır bir darbe indirdi.[0xc][0x4, 0x1770]|
 93140|[0x17][0xb]Ben de mantıklı olanı yaptım. Bedenini<br>[0x17]ele geçirip gücümü onun içinde sakladım.[0xc][0x4, 0x1770]|
 93141|[0x17][0xb]Ben, sizin Kaos dediğiniz şeyim.<br>[0x17]İyilikten, neşeden ve mutluluktan<br>[0x17]nefret ederim. Hepsi boş uğraş.[0x17][0xc][0x4, 0x1770]|
-93142|[0x17][0xb]Gücüm geri döndüğünde, hepinizi<br>[0x17]son kırıntınıza kadar tüketip<br>[0x17]yok edeceğim.[0xc][0x4, 0x1770]|
+93142|[0x17][0xb]Gücüm geri döndüğünde hepinizi<br>[0x17]son kişinize kadar tüketip yok edeceğim.[0xc][0x4, 0x1770]|
 93143|[0x17][0xb]Ee? Bana zarar verebilir misin? Bana vurmak,<br>[0x17]sevgili ağabeyine vurmak demek.[0xc][0x4, 0x1770]|
 93144|[0x17][0xb]Hah! Zayıf.<br>[0x17]Buradan ayrılma vakti geldi.[0xc][0x4, 0x1770]|
 93145|[0x17][0xb]Onlarla vakit kaybedemeyiz...<br>[0x17]Bir sonraki planım çoktan başladı.[0xc][0x4, 0xbb8]|
 93146|[0x17][0xb]Hoşça kal. Yollarımızın yeniden<br>[0x17]kesişeceğinden eminim. Hem de yakında.[0xc][0x4, 0x1770]|
-93147|[0x17]Büyük Ağaç Çocuğu rüzgârın armağanını getirir.<br>[0x17]Onun gücüyle Kaos'u bu diyardan sürdün.<waitbutton><hr>[0x17]Ben bu toprakların Lumite'sinin<br>[0x17]koruyucusuyum.<waitbutton>|
+93147|[0x17]Büyük Ağaç Çocuğu rüzgârın<br>[0x17]armağanını getirir. Onun gücüyle<br>[0x17]Kaos'u bu diyardan sürdün.<waitbutton><hr>[0x17]Ben bu toprakların Lumite'sinin<br>[0x17]koruyucusuyum.<waitbutton>|
 93148|[0x17]Çok uzun zaman önce burası, Lagoralıların<br>[0x17]yarattığı güzel bir ormandı.<waitbutton><hr>[0x17]Bu orman sayesinde yaşamlarını<br>[0x17]sürdürebileceklerini umuyorlardı.<waitbutton><hr>[0x17]Bitkilerden gelen su boldu,<br>[0x17]ama herkese yetecek kadar değildi.<waitbutton><hr>[0x17]Lagoralılar çabalarının boşa gittiğini görünce<br>[0x17]korkuya kapıldılar.<waitbutton><hr>[0x17]Kaos, onların korkusundan ve bitmeyen<br>[0x17]hayatta kalma kaygısından doğdu.<waitbutton><hr>[0x17]Senin cesaretin sayesinde buranın havası<br>[0x17]arındı—Kaos artık yok.<waitbutton><hr>[0x17]Sen bu görkemli ama kederli ormanın<br>[0x17]kurtarıcısısın.<waitbutton><hr>[0x17]Kırmızı Lumite'nin seninle güvende olacağını biliyorum.<br>[0x17]Şimdi <span class="color-2">rüzgâr</span>ın gücünü kullan.<waitbutton>|
-93149|[0x17]Lumite elindeyken, vahan eski<br>[0x17]parlaklığına kavuşacak.<waitbutton><br><hr>[0x17]Ama asla unutma...<waitbutton><br><br><hr>[0x17]Lumite, ona dokunanın ruhunu yansıtır.<br>[0x17]Korku kalbini sararsa Lumite de<br>[0x17]karanlığa teslim olur.<waitbutton><hr>[0x17]Unutma: empati, onur ve cesaret sana yol gösterir.<br>[0x17]Ne pahasına olursa olsun ışığa tutun.<waitbutton>|
+93149|[0x17]Lumite elindeyken, vahan eski<br>[0x17]parlaklığına kavuşacak.<waitbutton><br><hr>[0x17]Ama asla unutma...<waitbutton><br><br><hr>[0x17]Lumite, ona dokunanın ruhunu yansıtır.<br>[0x17]Korku kalbini sararsa Lumite de<br>[0x17]karanlığa teslim olur.<waitbutton><hr>[0x17]Unutma: empati, onur ve cesaret<br>[0x17]sana yol gösterir. Ne pahasına olursa<br>[0x17]olsun ışığa tutun.<waitbutton>|
 93151|Eve hoş geldin, <playername>...<br><br><waitbutton>|
 93152|Kırmızı Lumite'yi geri getirme işini<br>harika yaptın.<waitbutton><br><hr>Ben... Ağabeyin... Kaos... Her şey çok korkunç.<br>Kim bilir ne hissediyorsun... Lütfen bil ki ben buradayım.<waitbutton>|
 93153|Şimdilik yolumuza devam etmeli ve<br>vahamıza yardım etmeliyiz.<waitbutton><hr>Kırmızı Lumite, beni duy.<br>Arındırıcı ışığınla vahamızı iyileştir!<waitbutton>|
@@ -8059,13 +8059,13 @@
 93174|Bir şeyler... ters gidiyor.<br>En iyisi Esna'ya bakmak.<waitbutton>|
 93175|[0x17][0xb]Görünüşe göre... çok geç kaldın...[0xc][0x4, 0xbb8]|
 93176|[0x17][0xb]Ve artık benim vaktim geldi.[0xc][0x4, 0xbb8]|
-93177|[0x17][0xb]Şimdi Lumitelerin gerçek yüzünü göreceğiz.<br>[0x17]Işık mı, karanlık mı—hangisi olacak?[0xc][0x4, 0x1770]|
+93177|[0x17][0xb]Şimdi her Lumite'nin<br>[0x17]gerçek özelliklerini göreceğiz.<br>[0x17]Işık mı, karanlık mı—hangisi olacak?[0xc][0x4, 0x1770]|
 93178|[0x17][0x9, 0x873, 0x100][0xb]Hehe hahahaaa![0xc][0x4, 0xbb8]|
-93179|[0x17][0xb]İşte bu! Gücüm sonunda yeniden<br>[0x17]tam hâline kavuşacak! Seyret![0xc][0x4, 0x1770]|
+93179|[0x17][0xb]İşte! Gücümün son ve en büyük<br>[0x17]gösterisi! Seyret![0xc][0x4, 0x1770]|
 93180|[0x17][0xb]Sabırla pek çok kişinin kalbine karanlık dokudum,<br>[0x17]hoşnutsuzluklarını büyüttüm ve şunu yarattım:<br>[0x17]Kara Lumite.[0xc][0x4, 0x1770]|
 93181|[0x17][0xb]Baştan beri ilerlememe engel oldun.<br>[0x17]Ama şimdi gücümü geri kazanmama<br>[0x17]yardım ediyorsun.[0xc][0x4, 0x1770]|
 93182|[0x17][0xb]Hayır... Ben... Ben...[0xc][0x4, 0xbb8]|
-93183|[0x17][0xb]Ağabeyinin bana açtığı yaranın<br>[0x17]iyileşmesini sabırsızlıkla bekliyorum.[0xc][0x4, 0x1770]|
+93183|[0x17][0xb]Ağabeyinin bana açtığı yaranın<br>[0x17]iyileşmesini dört gözle<br>[0x17]bekliyorum.[0xc][0x4, 0x1770]|
 93184|[0x17][0xb]Sonra Kara Lumite'yi etkinleştirip<br>[0x17]bu zavallı yerde kalan son ışığı da<br>[0x17]yutacağım.[0xc][0x4, 0x1770]|
 93185|[0x17][0x9, 0x873, 0x100][0xb]Evettttt.[0xc][0x4, 0xbb8]|
 93186|[0x17][0xb]<playername>, ben... çok özür dilerim...<br>[0x17]Bu benim suçum...[0xc][0x4, 0x1770]|
@@ -8077,7 +8077,7 @@
 93192|Evia'ya malzemeleri verdin.<br><waitbutton>|
 93193|[0x9, 0x7be, 0x100]Son konuştuğumuzdan beri çok olgunlaşmışsın,<br>beklediğim gibi. Hmm... Artık sana anlatabilirim.<waitbutton>|
 93194|Tesadüfe bak, elimde üç levha var.<br>Labirente gitmek istediğinde onları<br>kullan.<br><waitbutton>|
-93195|[0x9, 0x840, 0x100]Geçen gün elime ultra nadir<br><span class="color-2">Beş Ruhçuk Tohumu</span> geçti.<br>Ohhhh, evet.<br>Adından da anlaşılacağı gibi, yalnızca<br><waitbutton><hr>toprak <span class="color-2">beş</span> ruhçuk çekecek kadar bereketliyken<br>yetişir. Küçük bir cennet parçası.<br>Bilirsin, uğraşırsan vahanında da<br><waitbutton><hr>zamanla yetiştirebilirsin, bence.<waitbutton>|
+93195|[0x9, 0x840, 0x100]Geçen gün elime ultra nadir<br><span class="color-2">Beş Ruhçuk Tohumu</span> geçti.<br>Ohhhh, evet.<waitbutton><hr>Adından da anlaşılacağı gibi, bu tohumlar<br>yalnızca toprak beş ruhçuğu çekecek kadar<br>bereketliyken yetişir. Küçük bir cennet parçası.<waitbutton><hr>Bilirsin, uğraşırsan vahanında da<br>zamanla bir ürün yetiştirebilirsin.<br><waitbutton>|
 93196|Duyduğuma göre bir dostumun elinde<br><span class="color-2">Beş Ruhçuk Tohumu</span> varmış.<waitbutton><hr>O tohumlar çok değerli; sıcacık ekmek gibi<br>kapış kapış gider.<waitbutton><hr>Buradaysa her yer Kaos bitkisi...<br>İnsan kıskanıyor doğrusu. Ugh.<waitbutton>|
 93198|[0x17][0xb]Bu bedenle seninle yeniden karşılaşmamız<br>[0x17]kaderin işi olmalı.[0xc][0x4, 0x1770]|
 93199|[0x17][0xb]<playername>...[0xc][0x4, 0xbb8]|
@@ -8145,7 +8145,7 @@
 93270|Hmm, ikiz kılıçlarım yetişmiyor gibi.<br>Daha uzağa erişebilen bir silahın var mı?<waitbutton>|
 94000|Tuhaf bir güç yayılıyor...<waitbutton>|
 94001|[0x9, 0x84e, 0x100]Şef, işler karışıyor!<waitbutton><hr>Dün gece pınardan karanlık ve uğursuz<br>bir şey uçup çıktı.<br><waitbutton>|
-94002|Geçtiği yerde bir yarık bıraktı...<waitbutton><hr>Kaos öylesine yoğun biçimde akıyordu ki<br>yaklaşmak mümkün değildi.<waitbutton><hr>Ta ki üç Lumite parlayıp yarığı<br>mühürleyene kadar.<waitbutton>|
+94002|Geçtiği yerde bir yarık bıraktı...<waitbutton><hr>Kaos öylesine yoğun biçimde akıyordu ki<br>üç Lumite parlayıp yarığı mühürleyene kadar<br>yaklaşmak mümkün değildi.<waitbutton>|
 94003|Bunu al. Bu bir <span class="color-2">Moda Kartı</span>;<br>yıkılmış umutlarım ve sönmüş hayallerimle<br>dolu. Haha, şaka şaka!<waitbutton><hr>Ama duygularımla dolu olduğu doğru.<br>Ciddiyim. Gerçekten.<waitbutton>|
 94004|Oh. Anladım.<waitbutton><hr>Vay be. Bu senin için çok zor olmuş olmalı,<br>Şef.<br><waitbutton>|
 94005|Hmm, Hakikat Gözü görevi. Ne kadar mistik!<br>Ama... Hakikat Gözü tam olarak NEDİR ki?<waitbutton>|
@@ -8163,9 +8163,9 @@
 94017|O, korkunç savaşçılardan oluşan uzun<br>bir soyun<br>devamı ve bu yüzden modayı boş ve<br>gösterişçi görür...<waitbutton>|
 94018|Vahanda bir <span class="color-2">Moda Festivali</span><br>düzenlersen, içimizden bazıları gelip<br>keyfini çıkarabilir.<br><waitbutton><hr>Bize de dışarı çıkıp biraz<br>eğlenmek için güzel bir bahane<br>olur!<br><waitbutton>|
 94019|Baskı yok. Haha... ha. Yine de düzenlersen<br>çok sevinirim. Zilleri takıp şıkır şıkır<br>gelirim! Hem de lafın gelişi değil—<br>gerçekten takarım.<waitbutton>|
-94020|[0x17]Hakikat Gözü'nü arayıp<br>[0x17]Işık Tapınağı'na yönelen sen—<waitbutton>|
+94020|[0x17]Hakikati ve ışığı arayan sen—<waitbutton>|
 94021|[0x17]Ben bir kâhinim—her şeyin iç yüzünü görür,<br>[0x17]her sözü anlarım.<waitbutton><hr>[0x17]Hakikate ulaşmak için büyük tehlikeleri aştın.<br>[0x17]Şimdi Hakikat Gözü'nü kabul et.<waitbutton>|
-94022|[0x17]Işık Tapınağı'na girmek için üç <span class="color-2">kristal litografi</span><br>[0x17]gerekecek—biri <span class="color-4">turkuaz</span>,<br><waitbutton><hr>[0x17]biri <span class="color-2">sarı</span>, biri de <span class="color-5">macenta</span>.<br>[0x17]Bunları elde etmek için her bölgedeki<br>taş anıtları Hakikat Gözü'yle<br>[0x17]incelemelisin.<br><waitbutton><hr>[0x17]Gitmen gereken bölgeler hem zihnine hem de<br>[0x17]Hakikat Gözü'ne kazınmıştır.<waitbutton>|
+94022|[0x17]Işık Tapınağı'na girmek için üç<br>[0x17]kristal litografi gerekecek: biri turkuaz,<br>[0x17]biri sarı, biri de macenta.<waitbutton><hr>[0x17]Bunları elde etmek için her bölgedeki<br>[0x17]gizemli taş anıtlara Hakikat Gözü'nü<br>[0x17]dokundurmalısın.<waitbutton><hr>[0x17]Gitmen gereken bölgeler hem zihnine<br>[0x17]hem de Hakikat Gözü'ne kazınmıştır.<waitbutton>|
 94023|[0x17]Bunun ötesinde, Işık Tapınağı<br>[0x17]becerilerini sınayacaktır.<waitbutton><hr>[0x17]Işık Tapınağı'nın girişi, yalnızca<br>[0x17]<span class="color-2">yedi ruhçuğun</span> dans ettiği büyük bir vahanın<br>[0x17]şefi için açılır.<waitbutton>|
 94024|[0x17]Görünüşe göre vahan şimdiden bu yedi<br>[0x17]ruhçuğa ev sahipliği yapıyor. Şimdi sadece<br>[0x17]litografileri toplamalısın.<waitbutton>|
 94025|[0x17]<span class="color-2">Üç kristal litografi<br>[0x17]</span> ve <span class="color-2">yedi ruhçuk</span> ile,<br>[0x17]<span class="color-2">Sarmal Çukur</span>'daki Işık Tapınağı'na git.<br><waitbutton><hr>[0x17]Mabeddeki üç sunak Lumite'yi parlak ve<br>[0x17]gerçek hâliyle ışıldatacak.<waitbutton>|
@@ -8185,16 +8185,16 @@
 94040|Üç kristal litografiyi toplayınca Lumiteler<br>Işık Tapınağı'nda kutsama alabiliyor, değil<br>mi?<waitbutton>|
 94041|<playername>, o zaman kristal litografileri<br>aramalıyız!<br><waitbutton>|
 94042|Duvardaki yazı, Hakikat Gözü'nü bir<br>kanal olarak<br>kullanıp seninle konuşuyor.<waitbutton>|
-94043|[0x17]Mavi, yeşil ve kırmızı Lumiteler, pek çok<br>[0x17]kalbin saf ışığından oluşan kristallerdir.<waitbutton><hr>[0x17]Gerçek empati ve özveriyle hareket eden biri,<br>[0x17]kuraklık getiren Kaos'u uzaklaştırabilir.<waitbutton><hr>[0x17]Lumite, onu tutanın kalbini yansıtır.<br>[0x17]Ancak içindeki ışığın parlaklığı gölgelenebilir...<waitbutton><hr>[0x17]Bu yüzden Lumite'yi elde edenin kalbi<br>[0x17]sevgi, cesaret ve umutla dolu olmalıdır.<waitbutton>|
-94044|[0x17]Kaos, ölülerin dinmeyen susuzluğudur.<br>[0x17]Ne iyidir ne kötüdür; yalnızca vardır.<waitbutton><hr>[0x17]Kaos, gerçekleşmemiş kaderlerin ve<br>[0x17]unutulmuş düşlerin vücut bulmuş hâlidir.<br>[0x17]Bu özlemleri inkâr etmek, yaşamın kendisini<br>[0x17]inkâr etmektir.<waitbutton><hr>[0x17]Kötü niyet taşımasa da Kaos, yaşayanlar için<br>[0x17]hâlâ büyük bir tehdittir.<waitbutton><hr>[0x17]Belki bir gün bu acıyı kucaklayıp Kaos'u<br>[0x17]yatıştırabilecek biri gelir.<br>[0x17]Dünya iyileşir ve yeni bir çağ başlar.<waitbutton>|
-94045|[0x17]Bu dünyadaki her şeyin bir özü vardır.<br>[0x17]Su ruhları, fiziksel olarak tezahür edecek<br>[0x17]kadar güçlüdür.<waitbutton><hr>[0x17]Su olan yerde bir su ruhu da vardır.<br>[0x17]Bu, dünyanın lütfunun ve yaşam umudunun<br>[0x17]bir simgesidir.<waitbutton><hr>[0x17]Dünya tamamen suyla kaplansaydı su ruhlarına<br>[0x17]ne olacağı sık sık merak edilir...<waitbutton><hr>[0x17]Belki tüm su ruhları tek bir varlıkta birleşir.<br>[0x17]Ya da dünyayı özgürce dolaşırlar.<waitbutton><hr>[0x17]Dünya bol suyla kutsandığında, belki de<br>[0x17]su ruhları gezegenin kendisiyle birleşir.<waitbutton>|
-94046|[0x17]Kaos, hayalleri yarım kalmış ruhların son<br>[0x17]kalıntılarının tezahürüdür. Bu ruhlar<br>[0x17]amaçsızca dünyaya bağlı kalırlar.<waitbutton><hr>[0x17]Kaos kıskançtır. Kör kıskançlığıyla, mutlu<br>[0x17]ve tatmin olmuş yaşayanları yutmaya çalışır.<waitbutton>|
+94043|[0x17]Mavi, yeşil ve kırmızı Lumiteler,<br>[0x17]pek çok kişinin kalbinden doğan<br>[0x17]saf ışık kristalleridir.<waitbutton><hr>[0x17]Gerçek empati ve özveriyle<br>[0x17]hareket ederek kurak ve solmuş<br>[0x17]Kaos'u ortadan kaldırabilirsin.<waitbutton><hr>[0x17]Lumite, onu tutanın kalbini yansıtır.<br>[0x17]Ama içindeki ışığın parlaklığı<br>[0x17]gölgelenebilir...<waitbutton><hr>[0x17]Bu yüzden Lumite'yi elde edenin<br>[0x17]kalbi sevgi, cesaret ve umutla<br>[0x17]dolu olmalıdır.<waitbutton>|
+94044|[0x17]Kaos, ölülerin susuzluğudur.<br>[0x17]Ne iyi ne kötüdür; yalnızca<br>[0x17]vardır.<waitbutton><hr>[0x17]Kaos, gerçekleşmemiş kaderler ve<br>[0x17]unutulmuş düşlerdir. Bu çağrıları<br>[0x17]yok saymak, yaşamı inkâr etmektir.<waitbutton><hr>[0x17]Kötü niyet taşımasa da Kaos, yaşayanlar için<br>[0x17]hâlâ büyük bir tehdittir.<waitbutton><hr>[0x17]Belki doğru ruh geldiğinde Kaos<br>[0x17]yok olur. İyileşen dünya<br>[0x17]yeni bir çağ başlatır.<waitbutton>|
+94045|[0x17]Bu dünyadaki her şeyin bir özü vardır.<br>[0x17]Su ruhları, fiziksel olarak tezahür edecek<br>[0x17]kadar güçlüdür.<waitbutton><hr>[0x17]Su olan yerde bir su ruhu da vardır.<br>[0x17]Bu, dünyanın bereketinin ve<br>[0x17]yaşam umudunun simgesidir.<waitbutton><hr>[0x17]Dünya tamamen suyla kaplansaydı<br>[0x17]su ruhlarına ne olacağını<br>[0x17]sık sık merak ederiz...<waitbutton><hr>[0x17]Belki tüm su ruhları tek bir varlıkta<br>[0x17]birleşir. Ya da dünyayı özgürce<br>[0x17]dolaşırlar.<waitbutton><hr>[0x17]Dünya bol suyla kutsandığında belki<br>[0x17]su ruhları gezegenin kendisiyle<br>[0x17]birleşir.<waitbutton>|
+94046|[0x17]Kaos, düş görmeyen ruhların son<br>[0x17]kalıntılarının tezahürüdür. Bu ruhlar<br>[0x17]amaçsızca burada zincirli kalır.<waitbutton><hr>[0x17]Kaos derin bir kıskançlık duyar.<br>[0x17]Kör kıskançlığıyla, mutlu ve tatmin<br>[0x17]olmuş yaşayanları yutmaya çalışır.<waitbutton>|
 94047|[0x17]Bir zamanlar bu dünya yemyeşildi.<br>[0x17]Derken çatışmalar başladı ve Kaos<br>[0x17]dünyayı kurak bir çöle çevirdi.<waitbutton><hr>[0x17]Yaşam yavaşça topraktan çekildi; sayısız<br>[0x17]güzel canlı çarpılıp bükülerek<br>[0x17]acımasız canavarlara dönüştü.<waitbutton>|
-94048|[0x17]Devasa heykeller, yazılı kayıtlardan çok önce<br>[0x17]çöle saçılmış geçmişin kalıntılarıdır.<br>[0x17]Bazıları bunların antik bir uygarlığın son<br>izleri olduğunu söyler.<br><waitbutton><hr>[0x17]Bugün bile gizemlerini korurlar.<waitbutton>|
+94048|[0x17]Devasa heykeller, yazılı kayıtlardan<br>[0x17]çok önce çöle saçılmış geçmişin<br>[0x17]kalıntılarıdır.<waitbutton><hr>[0x17]Bazıları bunların antik bir uygarlığın<br>[0x17]son izleri olduğuna inanır.<br>[0x17]Bugün bile gizemlerini korurlar.<waitbutton>|
 94049|[0x17]Her canlı, binlerce güneşin ışığını ve<br>[0x17]enerjisini içinde taşır. Biz bu ışığa<br>[0x17]“ruh” deriz.<waitbutton><hr>[0x17]İnsan kendi içindeki ışığı görebildiğinde<br>[0x17]bilinci özgürleşir. Ama bunu gerçekten<br>[0x17]kavrayabilen pek azdır.<waitbutton>|
 94050|[0x17]Okyanus Nekropolü çorak bir arazidir.<br>[0x17]Her yana saçılmış kemikler, bir zamanlar<br>[0x17]orada yaşayan yaratıkların kalıntılarıdır.<waitbutton><hr>[0x17]Anlaşılan bu kara parçası bir zamanlar<br>[0x17]canlı bir okyanus tabanıydı...<waitbutton>|
 94051|[0x17]Fidanlar arasında, Büyük Ağaç'ın tohumunu<br>[0x17]taşıyan nadir seçilmişler vardır. Bu kişiler<br>[0x17]rüzgâr armağanına sahiptir.<waitbutton><hr>[0x17]Rüzgârın sürekli akışı en ağır kayayı bile<br>[0x17]kuma çevirebildiği gibi, bu Fidanlar da<br>[0x17]dünyayı değiştirebilir.<waitbutton>|
-94052|[0x17]Büyük Wakuto Kanyonu'nun kuzeyi en çetin<br>[0x17]koşullara sahiptir. Yine de bazıları<br>[0x17]günlerini orada geçirmeyi seçer.<waitbutton><hr>[0x17]Bu sakinler, gerçek aydınlanma arayışıyla<br>[0x17]kendilerini her gün zorlu antrenmanlara adar.<waitbutton>|
+94052|[0x17]Büyük Wakuto Kanyonu'nun kuzeyi en çetin<br>[0x17]koşullara sahiptir. Yine de bazıları<br>[0x17]günlerini orada geçirmeyi seçer.<waitbutton><hr>[0x17]Bu sakinler, gerçek aydınlanmaya ulaşmak<br>[0x17]için her gün zorlu antrenmanlar yapar.<br>[0x17]Bu arayışa kendilerini adamışlardır.<waitbutton>|
 94053|[0x17]Kalari Orman Denizi'ndeki ağaçlar, rüzgârın<br>[0x17]kumu göğe doğru savurup şekillendirmesiyle<br>[0x17]oluştu.<waitbutton><hr>[0x17]Bir zamanlar burada yalnızca kum olduğu<br>[0x17]söylenir. Yıllar boyunca rüzgâr bu çölü<br>[0x17]bir ormana dönüştürdü.<waitbutton>|
 94054|[0x17]Ruhlar saf ışıkla birleştiğinde bir evrim<br>[0x17]gerçekleşir. Bu ruhlar âlemimizi aşar ve<br>[0x17]İlahi Auralara dönüşür.<waitbutton><hr>[0x17]İlahi Aura olmak, varoluş amacına ulaşmak—<br>[0x17]dünyayla bir olmak demektir.<waitbutton>|
 94055|<playername>...<waitbutton><hr>Hissediyorum ki... buradan devam edersen<br>geri dönme seçeneğin olmayacak.<br>Bunu yapmak istediğine emin misin?<waitbutton>|
@@ -8204,7 +8204,7 @@
 94059|Buraya kadar.<waitbutton>|
 94060|Büyük Bilge Diyarı'na girmene izin<br>vereceğimi sanmıyorsundur.<waitbutton><hr>Beyaz Lumite'ye o pis küçük ellerini<br>sürmene izin veremem.<br><waitbutton>|
 94061|Ben dövüşmek için yaşarım. Nefret ve keder—<br>beni besleyen ve hep ileri süren budur.<br><waitbutton>|
-94062|Tüm dünya Kaos'la lekelenirse,<br>kurumuş ve amaçsız ruhlar<br>sonsuz bir savaş yaşar.<br>Sonsuza dek savaşmak, sonsuz gücü<br>bilmektir.<br>Güç, kudrettir. Benim aradığım hep<br>budur.<br><waitbutton><hr>Sen de aynısını yapmalısın.<br>Yakında Sheut, Kara Lumite'nin gücünü<br>kullanacak.<br><waitbutton><hr>Ve hayallerim gerçeğe dönüşecek. Sonsuz<br>savaşlar.<waitbutton>|
+94062|Tüm dünya Kaos'la lekelenirse,<br>kurumuş ve amaçsız ruhlar<br>sonsuz bir savaşa mahkûm olur.<waitbutton><hr>Sonsuza dek savaşmak, sonsuz<br>gücü bilmektir. Güç, kudrettir.<br>Aradığım hep budur. Sen de aynısını yapmalısın.<waitbutton><hr>Yakında Sheut, Kara Lumite'nin gücünü<br>kullanacak. Hayalim olan sonsuz savaş<br>gerçek olacak.<waitbutton>|
 94063|Şimdi... Silahlarını kuşan ve karşıma<br>çık.<br>Bu sefer o kadar kolay kaybetmem.<waitbutton>|
 94064|Seipha... Bu gerçekten senin arzun mu?<br>Kalbin hırsla zehirlendi. Kaderin<br>kesinlikle... bu değil.<waitbutton>|
 94065|Evet, abla.<waitbutton><hr>Seni ve değerli arkadaşlarını yenerek<br>daha güçlü olacağım. Ben gücü seçiyorum.<br><waitbutton>|
@@ -8221,13 +8221,13 @@
 94076|Sonunda, sonunda Beyaz Lumite'yi<br>tamamladık. Oh be.<br><waitbutton>|
 94077|Sen... sence bunu gerçekten başarabilir miyim?<waitbutton><hr>Peki ya Beyaz Lumite bana yanıt vermezse...<br><waitbutton>|
 94078|Ha? ...Parlıyor mu?<br><waitbutton>|
-94079|[0x17][0xb]Bunlar... kuvarsın anıları mı?[0xc][0x4, 0x1770]|
+94079|[0x17][0xb]Bunlar... kayda geçmiş anılar mı?[0xc][0x4, 0x1770]|
 94082|[0x17][0xb]<playername>...<br>[0x17]Yapabileceğim hiçbir şey yok<br>mu?[0xc][0x4, 0x1770]|
 94083|[0x17][0xb]Bunu hiç hatırlamıyorum. Acaba<br>[0x17]Beyaz Lumite bize bunu mu gösteriyor?[0xc][0x4, 0x1770]|
 94084|[0x17][0xb]Bu da...[0xc][0x4, 0xbb8]|
 94085|Beyaz Lumite bize pek çok şey öğretti.<br><br><waitbutton>|
 94086|Hüzünlü geçmişimiz... İşte tam da bu yüzden<br>herkesin barış ve refah içinde yaşayacağı<br>bir gelecek istiyorum.<waitbutton>|
-94087|Kendimi artık daha iyi anlıyorum. Kendi<br>gerçeğimle, inançla yaşayabilirim.<br>Artık korkmuyorum.<waitbutton>|
+94087|Kendimi artık daha iyi anlıyorum. Kendi<br>gerçeğime sadık kalarak kararlılıkla<br>yaşayabilirim. Artık korkmuyorum.<waitbutton>|
 94088|Şimdi sakin ve emin hissediyorum,<br><playername>.<br><waitbutton>|
 94089|Beni duy, Beyaz Lumite!<br>Benim—hayır, bizim dileklerimize karşılık ver!<br><waitbutton>|
 94090|İşte bu, <playername>. Vahadaki Kaos'u<br>arındırdık!<br><waitbutton>|
@@ -8240,7 +8240,7 @@
 94099|Kaos'un bize ne yaptığını anladığını mı<br>sanıyorsun, [0x15]delikanlı[0x0][0x0][0x16]genç kız[0x0][0x0]?<br><waitbutton> <hr>Kaos'un içimizdeki soğuk dokunuşunun<br>ne kadar derine işlediğini?<waitbutton>|
 94100|Kaos'u kaç kez bastırıp yok edersen et,<br>onu asla tamamen yenemezsin.<br>Dünya sonsuza dek umutsuzlukla dolu.<waitbutton>|
 94101|Kaos'un ele geçirdiği kalpler, başkalarının<br>neşesi ve huzuru karşısında kıskançlıkla taşar.<waitbutton><hr>Özellikle de senin vahanda gelişip serpilen<br>o tür mutluluğa, [0x15]delikanlı[0x0][0x0][0x16]genç kız[0x0][0x0].<br><waitbutton>|
-94102|Bu yüzden başkalarını da Kaos'a teslim edip<br>onların sıcaklığını sömürmeliyiz.<waitbutton><br><hr>Neşe tamamen yok olduğunda artık<br>kıskançlık da hissetmeyiz.<waitbutton><hr>Ne güzel bir gelecek, hem de bizim olacak!<br>Kuralsız bir dünya; küçük, gelip geçici<br>duygulardan arınmış!<waitbutton>|
+94102|Bu yüzden başkalarını da Kaos'a katarak<br>onların içlerindeki sıcaklığı sömürmeliyiz.<waitbutton><br><hr>Neşe tamamen yok olduğunda artık<br>kıskançlık da hissetmeyiz.<waitbutton><hr>Ne güzel bir gelecek, hem de bizim olacak!<br>Kuralsız bir dünya; küçük, gelip geçici<br>duygulardan arınmış!<waitbutton>|
 94103|Bizi geçip patrona ulaşamazsın,<br>[0x15]delikanlı[0x0][0x0][0x16]genç kız[0x0][0x0].<waitbutton><hr>Seipha'yı indirdiğini biliyoruz. Onu ezmek<br>büyük bir hataydı. Şimdi bizimle uğraşacaksın!<waitbutton>|
 94104|Aynen öyle. Hazırlanın bakalım!<br><br><waitbutton>|
 94105|Ee, [0x15]delikanlı[0x0][0x0][0x16]genç kız[0x0][0x0], artık buradan ayrılma<br>vaktimiz geldi.<waitbutton><hr>Bir zamanlar yenilmez Saluru'yu yendin.<br>Benim için sakın bir damla bile gözyaşı dökme.<br>Çık git buradan.<waitbutton>|
@@ -8252,9 +8252,9 @@
 94111|Azminin son kırıntısını, parmaklarımın<br>arasından kum taneleri gibi dökülene dek<br>ezeceğim.<waitbutton>|
 94112|[0x17][0xb]Hmph. Bu zayıf bedende en büyük<br>[0x17]gücümle savaşamam.[0xc][0x4, 0x1770]|
 94113|[0x17][0xb]Bana gerçek formumu göstermekten<br>[0x17]başka seçenek bırakmadın.[0xc][0x4, 0xbb8]|
-94114|[0x17][0xb]Karşımda sinin, zavallı yaratıklar.<br>[0x17]Sonunuz yaklaştı![0xc][0x4, 0xbb8]|
+94114|[0x17][0xb]Karşımda titreyin, zavallı yaratıklar.<br>[0x17]Sonunuz yaklaştı![0xc][0x4, 0xbb8]|
 94115|[0x17][0xb]Sen... Kara Lumite'nin bana verdiği güce bile<br>[0x17]direnebiliyor musun?![0xc][0x4, 0x1770]|
-94116|[0x17][0xb]Ve şimdi. Kara Lumite'nin son<br>gücüne<br>[0x17]başvuracağım.[0xc][0x4, 0xbb8]|
+94116|[0x17][0xb]Ve şimdi Kara Lumite'nin son gücünü<br>[0x17]kullanacağım.[0xc][0x4, 0xbb8]|
 94117|[0x17][0xb]Bu beden yok edilip bu ruh söndürülse bile,<br>[0x17]bu kurumuş ruh sonsuza dek varlığını<br>[0x17]sürdürecek.[0xc][0x4, 0x1770]|
 94118|[0x17][0xb]Bu dünyada, umuda bir lanet<br>olarak<br>[0x17]tekrar tekrar doğacağım.[0xc][0x4, 0x1770]|
 94119|[0x17][0xb]Ama bu bile henüz yetmez...[0xc][0x4, 0xbb8]|
@@ -8268,7 +8268,7 @@
 94127|[0x17][0xb]Seni tanıyıp buralara kadar birlikte<br>gelince...<br>[0x17]nihayet ne yapmam gerektiğini<br>[0x17]anladım.[0xc][0x4, 0x1770]|
 94128|[0x17][0xb]Teşekkür ederim, <playername>.[0xc][0x4, 0xbb8]|
 94129|[0x17][0xb]Beni iyileştirmek için<br>kendini<br>[0x17]feda mı edeceksin?[0xc][0x4, 0xbb8]|
-94130|[0x17][0xb]Kendini... geriye yalnızca sis kalana dek<br>[0x17]eritmek...[0xc][0x4, 0xbb8]|
+94130|[0x17][0xb]Kendini, geriye yalnızca sis<br>kalana dek eritmek...[0xc][0x4, 0xbb8]|
 94131|[0x17][0xb]Yoldaşının özverisi,<br>[0x17]Kaos'un kendisini bile<br>iyileştirdi...[0xc][0x4, 0x1770]|
 94132|[0x17][0xb]<playername>... İnanılmaz dostlar edindin ve<br>[0x17]gördüğüm en güzel vahayı<br>[0x17]yarattın.[0xc][0x4, 0x1770]|
 94133|[0x17][0xb]Teşekkür ederim, <playername>.[0xc][0x4, 0xbb8]|
@@ -8291,7 +8291,7 @@
 94153|[0x17][0xb]Açgözlülükleri ve kinleri<br>büyüdükçe,<br>[0x17]başkalarından nefret etmeye<br>başladılar...[0xc][0x4, 0x1770]|
 94154|[0x17][0xb]Serkahlar kâr için toprağa el koydular,<br>[0x17]ihtiyacı olanları geri çevirdiler.[0x17][0xc][0x4, 0x1770]|
 94155|[0x17][0xb]Kovulan yaratıklar<br>[0x17]kinle doldu.[0xc][0x4, 0xbb8]|
-94156|[0x17][0xb]Nefret, öfke ve keder... Kaos işte bu<br>[0x17]duygulardan, insanların bencilliğinden doğdu.[0xc][0x4, 0x1770]|
+94156|[0x17][0xb]Nefret, öfke ve keder...<br>[0x17]Kaos'u doğuran, bencillikle<br>[0x17]hareket edenlerin bu duygularıydı.[0xc][0x4, 0x1770]|
 94157|[0x17][0xb]Lagoralılar, kendilerinden farklı olan herkesi<br>[0x17]geri çevirdiler, ormana girişi yasakladılar.[0xc][0x4, 0x1770]|
 94158|[0x17][0xb]Evi olmayanlar... Ne kadar yalnız ve korkmuş<br>[0x17]hissetmiş olmalılar...[0xc][0x4, 0xbb8]|
 94159|[0x17][0xb]Ama o zaman... Bu, Kaos'un sürekli geri<br>[0x17]döneceği anlamına mı geliyor? İnsan oldukça<br>[0x17]huzursuzluk da var...[0xc][0x4, 0x1770]|
@@ -8332,7 +8332,7 @@
 94198|Umudun rüzgârını taşıyan Büyük Ağaç Çocuğu,<br>büyük işler başaracaksın.<waitbutton>|
 94199|Beyaz Lumite'nin gücünü açığa çıkardığında<br>yol apaçık olacak.<br><waitbutton>|
 94200|Kaos'un en karanlık tezahürü bile<br>Beyaz Lumite'nin ışığına<br>bürünecek.<waitbutton>|
-94201|Tüm gücüne erişmek için iradeni<br>çelikleştirmelisin. Mutlak adanmışlık ve<br>güçlü bir irade gerekir.<waitbutton><hr>Önündeki yolu iyi düşün. Kalbinde hangi yolun<br>senin olduğuna yalnızca sen karar verebilirsin.<waitbutton>|
+94201|Tüm gücünü açığa çıkarmak için iradeni<br>çelik gibi sağlamlaştırmalısın. Bunun için<br>mutlak adanmışlık ve güçlü bir irade gerekir.<waitbutton><hr>Önündeki yolu iyice düşün.<br>Hangi yoldan gideceğine kalbinde<br>yalnızca sen karar verebilirsin.<waitbutton>|
 94204|<playername>.<br><br><waitbutton>|
 94205|[0x17]Bu diyara tohum olup uçtuğundan beri<br>[0x17]seni izliyorum.<waitbutton><hr>[0x17]İşte karşındayım. Önünde gördüğün bu sütun benim.<br>[0x17]Ben Büyük Bilge Thoth'um.<waitbutton>|
 94206|Eee, selam!<waitbutton><hr>Rahatsız ediyorum ama bir dakikan var mı?<br><waitbutton>|
@@ -8341,19 +8341,19 @@
 94211|<playername>...<waitbutton>|
 94212|Ne yapacağız...<br><waitbutton>|
 94213|Bulutların arasından sızan bu güneş ışığı<br>Kaos'a karşı sadece kısa bir soluklanma.<waitbutton>|
-94214|Lumite'nin içinde barınan Büyük Ağaç<br>Çocuklarının gücü tükendiğinde...<br><waitbutton><hr>Kaos bu kez vahayı bütünüyle saracak.<br><waitbutton>|
+94214|Büyük Ağaç Çocuklarının gücü<br>tükendiğinde, Kaos bu kez vahayı<br>kesinlikle yutacak...<waitbutton>|
 94215|[0x17]Genç Büyük Ağaç Çocuğu ve genç<br>[0x17]su ruhu, umutsuzluğa kapılmayın.<waitbutton>|
 94216|Bu ses...<br><waitbutton>|
-94217|[0x17]Ben Büyük Bilge Thoth olarak bilinirim.<br>[0x17]Bu üç ruhla birlikte dünyayı koruyordum.<br>[0x17]<waitbutton>|
+94217|[0x17]Ben Büyük Bilge Thoth olarak bilinirim.<br>[0x17]Bu üç ruhla birlikte dünyayı korudum.<br>[0x17]<waitbutton>|
 94218|Büyük Bilge... Hepimizi<br>korumak... mı?<waitbutton>|
-94219|[0x17]Kara Lumite'ye karşı savaşmanın hâlâ<br>bir yolu var.<waitbutton><br><hr>[0x17]Beyaz Lumite onun zıddıdır.<br>[0x17]Kutsal bir ışık saçar. Onunla<br>[0x17]Kara Lumite etkisiz hâle gelir.<waitbutton>|
+94219|[0x17]Kara Lumite’ye karşı savaşmanın hâlâ<br>[0x17]bir yolu var.<waitbutton><br><hr>[0x17]Beyaz Lumite onun zıddıdır.<br>[0x17]Kutsal bir ışık saçar. Onunla<br>[0x17]Kara Lumite etkisiz hâle gelir.<waitbutton>|
 94220|Eğer... söylediklerin doğruysa... o zaman<br>Beyaz Lumite ile vahayı tamamen koruyabiliriz?<br>Peki onu nasıl elde edeceğiz?<waitbutton>|
-94221|[0x17]Beyaz Lumite'yi üretmek için<br>[0x17]Kırmızı, Mavi ve Yeşil Lumite'yi<br>[0x17]yeniden parlatmalıyız.<waitbutton>|
+94221|[0x17]Beyaz Lumite üretmek için<br>[0x17]Kırmızı, Mavi ve Yeşil Lumite'yi<br>[0x17]yeniden ışıldatmalıyız.<waitbutton>|
 94222|[0x17]Büyük Ağaç Çocuğu ve genç su ruhu,<br>[0x17]Hakikat Gözü'nü aramalısınız.<waitbutton><hr>[0x17]O sizi Işık Tapınağı'na götürecek; Lumiteler<br>[0x17]orada yeniden canlandırılabilir.<waitbutton><hr>[0x17]Tüm umudumu size bağlıyorum, gençler.<br>[0x17]Geleceğin kaderi sizin ellerinizde.<br>[0x17]Uzak diyarda sizi bekleyeceğim.<waitbutton><hr>[0x17]Gelin. Başınızı göğe kaldırın; gönlünüz hafif,<br>[0x17]adımlarınız emin olsun, sevgili Büyük Ağaç<br>[0x17]Çocuğu ve genç su ruhu.<waitbutton>|
 94223|<playername>. O ses...<br>Sen de duydun, değil mi?<waitbutton>|
 94224|<span class="color-2">Hakikat Gözü</span>'nü bulup <span class="color-2">Işık Tapınağı</span>'na ulaşmalı<br>ve Lumiteleri yeniden parlatmalıyız.<waitbutton><hr>Şimdi yapmamız gereken bu.<waitbutton>|
 94225|<playername>, Hakikat Gözü'nü bulmalıyız.<waitbutton><hr>Vahamızı korumalıyız—bir zamanlar güzel olan<br>bu toprakların son sığınağını...<waitbutton>|
-94226|Gözoidlerden <span class="color-2">Yıldız Kumu</span> ve Mücevher Yengeçlerinden<br><span class="color-2">Yedi Renkli Cam</span> elde et. İkisi de Büyük Wakuto<br>Kanyonu'nda bulunur.<waitbutton><hr>Bunları <span class="color-2">Göksel Çelik</span> ile sentezle; efsanenin eşsiz<br>kılıcı Hakikat Kılıcı'nı yarat!<waitbutton>|
+94226|Gözoidlerden <span class="color-2">Yıldız Kumu</span>, Mücevher<br>Yengeçlerinden de <span class="color-2">Yedi Renkli Cam</span> elde et.<br>İkisi de Büyük Wakuto Kanyonu’nda bulunur.<waitbutton><hr>Bunları <span class="color-2">Göksel Çelik</span> ile sentezlersen,<br>efsanevi ve eşsiz Hakikat Kılıcı ortaya çıkar!<waitbutton>|
 94227|Hakikat Gözü'nü elde ettin!<br><br><waitbutton><hr>Sadece bakarak anlamak zor ama bunca zamandır<br>kalbinin içindeymiş. Ne kadar güzel, değil mi,<br><playername>?<waitbutton>|
 94228|Hey! Işık Tapınağı'na gitmeden önce<br>sana Lumite'yi vermem gerekiyor.<br><waitbutton><hr><playername>, yanıma gelsene!<br><br><waitbutton>|
 94229|[0x17]Yapman gereken şey kalbine kazınmıştır.<br>[0x17]Son adım, onun yolunu takip etmektir.<br><waitbutton>|
@@ -8366,12 +8366,12 @@
 94236|Bu kadar yaramazlık yeter,<br>[0x15]delikanlı[0x0][0x0][0x16]genç kız[0x0][0x0]!<br><waitbutton>|
 94237|Seni en son... Nekropol'de mi<br>görmüştüm? Ama sonunda—işte<br>buradayız.<waitbutton>|
 94238|Geçen gün sana sıradan bir Serkah olduğumu<br>söylemiştim ama gerçek kimliğim...<waitbutton><hr>Kaos'un kaynar suyunda demlenmiş bir<br>Kaos Serkah'ı!<waitbutton><hr>Okyanus Nekropolü'ndeki depremi ve<br>kargaşayı planlayan bendim!<br>MUAHAHA! Şu suratının hâline bak!<waitbutton>|
-94239|Ha? Neden böyle bir şey yaptığımı mı<br>merak ediyorsun? Senin gibi mutlu<br>"normal" biri anlayamaz.<waitbutton><hr>Kalp acısıyla çıldırdım. Mutluluğa ve<br>bir yere ait olmaya açken Kaos<br>bana seslendi.<waitbutton><hr>Hayat çok adaletsiz...<br><br><waitbutton><hr>O yüzden Sheut'la birlikte çalışıp<br>çöldeki her canlının mutluluğunu<br>yerle bir etmeye karar verdim!<waitbutton>|
+94239|Ha? Neden böyle bir şey yaptığımı mı<br>merak ediyorsun? Senin gibi mutlu,<br>“normal” biri bunu anlayamaz.<waitbutton><hr>İçimdeki acı yüzünden aklımı yitirdim.<br>Mutluluğa ve bir yere ait olmaya duyduğum<br>özlemle kıvranırken Kaos bana seslendi.<waitbutton><hr>Hayat çok adaletsiz...<br><br><waitbutton><hr>İşte bu yüzden Sheut’la birlikte çalışıp<br>çöldeki her canlının mutluluğunu<br>yok etmeye karar verdim!<waitbutton>|
 94240|Yoluma çıkmana izin vermeyeceğim.<br>Lumite'yi arındırmana da<br>izin vermeyeceğim!<waitbutton>|
 94241|Uuunnngh... Göründüğünden<br>daha güçlüsün,<br>[0x15]delikanlı[0x0][0x16]genç kız[0x0][0x0]...<br><waitbutton>|
 94242|Heh... Ama diğerlerini yenmek istiyorsan<br>bundan fazlası gerekecek.<br>Kaos üçlüsünün en zayıfı benim.<waitbutton>|
 94243|Ooo. Belki bunu söylememeliydim.<br><br><waitbutton>|
-94244|...Hiç tepki vermeyecek misin?<br>Şaka yaptım yahu! Mizah anlayışın da<br>pek kıtmış.<waitbutton>|
+94244|...Hiç sormayacak mısın?<br>İnsanların imalarını anlamakta pek<br>iyi değilsin, değil mi?<waitbutton>|
 94245|Neyse. Bugünlük bu kadar yeter!<br>Peşimden gelmeye kalkarsan ötekiler seni<br>ezip geçer.<waitbutton>|
 94246|Güçlenince geri döneceğim, o<br>yüzden<br>hazır olsan iyi edersin!<br><waitbutton>|
 94247|*inler* Yine sen mi? Dur tahmin edeyim—yoluma<br>çıkmaya mı geldin?<waitbutton><hr>Ben de senden önce gelip sunağı sen kullanmadan<br>yok ederim sanmıştım.<waitbutton>|
@@ -8380,7 +8380,7 @@
 94250|O yüzden akıllı ol da evine dön.<br>Gitmeyecek misin? Peki.<waitbutton>|
 94251|O hâlde ben, Aronbesh,<br>sana haddini bildireceğim!<waitbutton>|
 94252|*inler*<br>Vay... Bu kadar güçlü olduğunu<br>sanmazdım.<waitbutton>|
-94253|Demek sizi hafife alarak<br>yenemeyeceğim...<waitbutton>|
+94253|Demek aklım oyunda değilken<br>seni yenemeyeceğim...<waitbutton>|
 94254|Neyse. Bununla uğraşacak vaktim yok.<br><br><waitbutton>|
 94255|Burada ben çuvalladım belki ama<br>ötekiler sizi halleder.<waitbutton>|
 94256|Şimdi gidiyorum ama yoluma bir daha<br>çıkarsan, yaptığın son şey olur.<br><waitbutton>|
@@ -8428,14 +8428,14 @@
 94298|Belki de onu arayışım nihayet<br>sona erecek.<waitbutton>|
 94299|Ve biliyorum, suç bende... Kaygım<br>etrafımdakilere de bulaştı; onlar da<br>gerildi, huzursuz oldu.<waitbutton>|
 94300|Sheut'un söylediklerinden o kadar korktum ki<br>bu duygular yüzünden Kara Lumite oluştu...<waitbutton>|
-94301|Bana defalarca Lumite'nin onu tutanın<br>kalbini yansıttığı söylendi. Bunun ne<br>demek olduğunu şimdi anlıyorum...<waitbutton><hr>Büyük Ağaç Çocukları, vahamızı korumak<br>için sönmekte olan ışıklarının son<br>zerresini de verdi.<waitbutton><hr>Ama böyle giderse vahamızı<br>kaybetmemiz kaçınılmaz...<waitbutton>|
+94301|Bana defalarca Lumite’yi tutanın<br>kalbini yansıttığı söylendi. Bunun ne<br>demek olduğunu ancak şimdi anladım...<waitbutton><hr>Büyük Ağaç Çocukları sönmekte olan<br>ışıklarının son zerresini verdi. Ama<br>vahamızın düşmesi artık kaçınılmaz gibi...<waitbutton>|
 94302|Seipha... Hayır...<br><waitbutton><hr>Bunca zamandır seni, sonunda böyle<br>bir hâlde bulmak için aramadım...<waitbutton>|
-94303|Off, bırak artık abla. Anlamayacağını<br>biliyordum.<waitbutton><hr>Ama seni gördüğüme sevindim.<br><br><waitbutton><hr>Ne de olsa kendi ablamı alt etmek,<br>gücümü göstermenin harika bir yolu!<waitbutton>|
-94304|Seni durdurmak için seninle savaşmaktan<br>başka çarem yok.<waitbutton><hr>Kardeşim olsan da dünyanın huzurunu<br>korumalıyım... Demek sonunda iş buraya<br>vardı.<waitbutton>|
+94303|Off, bırak artık abla. Anlamayacağını<br>biliyordum.<waitbutton><hr>Ama seni gördüğüme sevindim.<br><br><waitbutton><hr>Ne de olsa ablamın canını almak,<br>gücümü göstermenin harika bir yolu!<waitbutton>|
+94304|Seni durdurmak için seninle savaşmaktan<br>başka çarem yok. Ablam mı, dünyanın<br>huzuru mu? Sonunda bu noktaya geldik.<waitbutton>|
 94305|Evet. Dövüş benimle, abla.<br>Yenilginin acısını tat.<br>Gücün benim olacak.<waitbutton>|
 94306|Hadi ama... Sakın bana...<br><br><waitbutton>|
 94307|BENİ NASIL HATIRLAMIYORSUN?!<br><br><waitbutton>|
-94308|Kulaklarını aç! Ben Saluru'yum!<br>Tek ve eşsiz Saluru!<br><waitbutton>|
+94308|Saluru mu? Kaos’un Ajanı mı?<br><br><waitbutton>|
 94309|<playername>... Ne kadar güzel, sakin bir gece,<br>değil mi?<waitbutton>|
 94310|Beyaz Lumite'yle Kaos'u kovmayı başardığımıza<br>çok sevindim.<waitbutton>|
 94311|Ama Sheut şu anda bile Kara Lumite'yle<br>güç toplamaya devam ediyor...<waitbutton>|
@@ -8450,12 +8450,12 @@
 94320|Moralim bozulduğunda bile sen hep<br>ileriye baktın, beni de yanında sürükledin...<br><waitbutton><hr>Gerçek bir vaha şefine dönüşmeni<br>adım adım izledim.<waitbutton>|
 94321|Ama... Kaos'a duyduğum nefret beni kendi içime<br>hapsetti. Beni bütünüyle tüketti.<waitbutton>|
 94322|Lumite'nin gücünü keşfeder keşfetmez<br>aklımda tek bir şey vardı: onu kullanıp<br>Kaos'u sonsuza dek kovmak.<waitbutton>|
-94323|Kaos'u yalnızca saf kötülükten<br>ibaret sanıyordum... ama yanılmışım.<waitbutton>|
+94323|Kaos’u sıradan bir kötü karakterden<br>ibaret sanıyordum... ama yanılmışım.<waitbutton>|
 94324|Kaos, ölülerin öfkesinin, acısının ve<br>gerçekleşmemiş dileklerinin vücut bulmuş<br>hâli.<waitbutton><hr>Artık atmayan kalplerinin bile dinmeyen<br>susuzluğu... Kaos bu, değil mi?<waitbutton>|
-94325|Kaos insanların kalbinden doğdu...<br>Yaşamdan ayrı düşünülemeyen, dinmeyen<br>arzularından.<waitbutton>|
+94325|Kaos insanların kalbinden doğdu...<br>Açgözlülükten ayrı düşünülemeyen<br>arzularından.<waitbutton>|
 94326|Artık Kaos'tan ne nefret ediyorum ne de<br>korkuyorum...<br><br><waitbutton>[0x5, 0x1]|
 94327|Her şeyi yoluna koyacağız. Vaha için...<br>ve Kaos için. Hayır... Çöl ve burada<br>yaşayan herkes için.<waitbutton>[0x5, 0x1]|
-94328|Ben de yalnızca benim yapabileceğim<br>bir şey bulmak istiyorum.<br><waitbutton>|
+94328|Yalnızca benim yapabileceğim<br>bir şey yapmak istiyorum.<br><waitbutton>|
 94329|Bakış açımı değiştirebildiysem bunu<br>sana borçluyum, <playername>.<br><waitbutton>|
 94330|Hey, <playername>... Ben...<br><br><waitbutton>|
 94331|Yok... Boş ver.<br><br><waitbutton>|
@@ -8512,4 +8512,4 @@
 99048|[0xa, 0x18]Jeff Miller<br><br>[0xa, 0x18]Marco Gruden<br>[0xa, 0x18]Stefan Dickhardt<br><br>[0xa, 0x18]Localsoft, S.L.<br><br><br><br>|
 99049|<span class="color-14">GENEL YAPIMCI</span><br>[0xa, 0x18]Shinya Takahashi<br><br><br><br>|
 99050|<span class="color-2"><span class="color-14">YÖNETİCİ YAPIMCI</span><br></span>[0xa, 0x18]Tatsumi Kimishima<br><br><br><br>|
-99051|Nintendo ve GREZZO,<br>telif hakkı amacıyla bu yazılımın<br>yazarlarıdır.<br>©2017 Nintendo / GREZZO|
+99051|Telif hakkı kapsamında bu yazılımın eser sahipleri Nintendo ve GREZZO’dur.<br>©2017 Nintendo / GREZZO|
