@@ -86,8 +86,8 @@ mı? (Devam edince bu ara kayıt silinir.)"
 78,MID_ゲームレベル_ヘルプ,Choisissez un niveau de difficulté.,Wähle einen Schwierigkeitsgrad.,Seleziona un livello di difficoltà.,Elige un nivel de dificultad.,Select a difficulty level.,Bir zorluk seviyesi seç.
 79,MID_モード選択_ヘルプ,Choisissez un mode de jeu.,Wähle einen Spielmodus.,Seleziona una modalità di gioco.,Elige un modo de juego.,Select a game mode.,Bir oyun modu seç.
 80,MID_エクストラ,Extras,Extras,Extra,Extras,Extras,Ekstra
-81,MID_エクストラ_表示名_マーク男,Linfan (M),Linfan (m),Linfan,Linfan (M),Morgan (M),Morgan (M)
-82,MID_エクストラ_表示名_マーク女,Linfan (F),Linfan (w),Linfan,Linfan (F),Morgan (F),Morgan (F)
+81,MID_エクストラ_表示名_マーク男,Linfan (M),Linfan (m),Linfan,Linfan (M),Morgan (M),Morgan (E)
+82,MID_エクストラ_表示名_マーク女,Linfan (F),Linfan (w),Linfan,Linfan (F),Morgan (F),Morgan (K)
 83,MID_エクストラ_ムービー回想,Vidéos,Medien,Video,Vídeos,Theatre,Video Galerisi
 84,MID_エクストラ_ユニットビューアー,Galerie,Einheiten-Galerie,Galleria unità,Galería,Unit Gallery,Birim Galerisi
 85,MID_エクストラ_支援会話,Conversations,Unterstützungen,Sostegno,Conversar,Support Log,Destek Günlüğü
@@ -460,11 +460,11 @@ konvoydaki fazlalıkları kullan."
 322,MID_CONFIG_角度変化,Inclinaison carte,Kartenneigung,Inclin. mappa,Inclinar mapa,Map Tilt,Harita Eğimi
 323,MID_H_CONFIG_角度変化_オフ,Désactiver l'inclinaison de l'angle de la caméra.,Neigung des Kamerawinkels deaktivieren.,Disattiva l'inclinazione automatica della visuale.,Fijar el ángulo de la cámara.,Do not allow the camera angle to tilt.,Kamera açısının eğilmesine izin verme.
 324,MID_H_CONFIG_角度変化_オン,Permettre l'inclinaison de l'angle de la caméra.,Neigung des Kamerawinkels aktivieren.,Attiva l'inclinazione automatica della visuale.,Permitir que el ángulo de cámara varíe.,Allow the camera angle to tilt.,Kamera açısının eğilmesine izin ver.
-325,MID_CONFIG_音量BGM,Volume musique,Musiklautstärke,Volume musica,Vol. música,Music Volume,Müzik
+325,MID_CONFIG_音量BGM,Volume musique,Musiklautstärke,Volume musica,Vol. música,Music Volume,Müzik Sesi
 326,MID_H_CONFIG_音量BGM,Ajuster le volume de la musique.,Musiklautstärke einstellen.,Regola il volume della musica.,Regular el volumen de la música.,Adjust the volume of music.,Müziğin ses seviyesini ayarla.
-327,MID_CONFIG_音量SE,Volume effets,SFX-Lautstärke,Volume effetti,Vol. sonidos,SFX Volume,Efekt
+327,MID_CONFIG_音量SE,Volume effets,SFX-Lautstärke,Volume effetti,Vol. sonidos,SFX Volume,Efekt Sesi
 328,MID_H_CONFIG_音量SE,Ajuster le volume des effets sonores.,Soundeffekt-Lautstärke einstellen.,Regola il volume degli effetti sonori.,Regular el volumen de los efectos de sonido.,Adjust the volume of non-system sound effects.,Sistem dışı efektlerin sesini ayarla.
-329,MID_CONFIG_音量SysSE,Volume système,Systemsounds,Volume sistema,Vol. sistema,System Volume,Sistem
+329,MID_CONFIG_音量SysSE,Volume système,Systemsounds,Volume sistema,Vol. sistema,System Volume,Sistem Sesi
 330,MID_H_CONFIG_音量SysSE,Ajuster le volume des effets sonores système.,Lautstärke von Systemsounds einstellen.,Regola il volume degli effetti sonori di sistema.,Regular el volumen de los sonidos del sistema.,Adjust the volume of system sound effects.,Sistem ses efektlerinin düzeyini ayarla.
 331,MID_CONFIG_音量ボイス,Volume voix,Sprachlautstärke,Volume voce,Vol. voces,Voice Volume,Ses Seviyesi
 332,MID_H_CONFIG_音量ボイス,Ajuster le volume des voix.,Sprachlautstärke einstellen.,Regola il volume delle voci.,Regular el volumen de las voces.,Adjust the volume of voices.,Seslerin seviyesini ayarla.

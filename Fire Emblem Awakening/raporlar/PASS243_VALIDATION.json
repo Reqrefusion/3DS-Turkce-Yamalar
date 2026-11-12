@@ -1,0 +1,145 @@
+{
+  "release": "FEA Turkish Pass243",
+  "package_type": "QUALITY_UPDATE_AND_FULL_PATCH",
+  "region_target": "PAL/EUR",
+  "target_language_slot": "U (English)",
+  "source_of_truth": "ceviri/project_normalized_with_manifest/csv",
+  "csv_files": 854,
+  "records": 15817,
+  "tr_nonblank_records": 14931,
+  "tr_blank_records": 886,
+  "blank_tr_empty_u": 886,
+  "blank_tr_nonempty_u": 0,
+  "text_corrections_total": 185,
+  "text_corrections_pass242": {
+    "files": 92,
+    "changes": 99,
+    "ve_calque_fixes": 73,
+    "bir_kac_fix": 1
+  },
+  "text_corrections_pass242_round2": {
+    "files": 13,
+    "changes": 14
+  },
+  "text_corrections_pass243": {
+    "files": 52,
+    "changes": 72,
+    "missing_content": 19,
+    "mistranslation_or_nuance": 4,
+    "ui_label": 5,
+    "english_residue": 2,
+    "length_or_line_break": 42
+  },
+  "csv_integrity": "files=854 data_rows=15817 bad=0",
+  "structural_validation": "files=854 records=15817 tr_filled=14931 empty_tr_empty_u=886 empty_tr_nonempty_u=0 errors=0",
+  "code_scan": {
+    "remaining_non_G": 0,
+    "G_rows": 124,
+    "sbp_empty": 0,
+    "bad_color": 0,
+    "unknown": {}
+  },
+  "cross_language_scan": {
+    "tr_vs_u_mismatch": 0,
+    "tr_matches_no_source": 0,
+    "all_sources_agree_tr_mismatch": 36,
+    "source_disagree_rows": 2431,
+    "g_only_rows": 124,
+    "e_comma_rows": 0,
+    "same_as_u_raw": 1502,
+    "same_visible_english_prose": 5,
+    "short_tr_lt_55pct_pass242": 16,
+    "real_missing_translation_pass242": 0
+  },
+  "pass243_audit": {
+    "rows_compared": 14931,
+    "patriot_exact_key_matches": 14793,
+    "patriot_missing": 138,
+    "patriot_japanese_only": 741,
+    "manual_review": {
+      "short_or_long_rows": 59,
+      "omission_candidates": 45,
+      "low_overlap_long_rows": 28,
+      "same_as_u_prose": 10,
+      "number_candidates": 28,
+      "divergent_samples": 40
+    },
+    "remaining_short_both_after_fixes": 18,
+    "remaining_short_both_verdict": "all compact/natural, no further omissions",
+    "english_residue_fixed": 2,
+    "english_residue_remaining_prose": 0,
+    "interjections_reviewed_not_changed": {
+      "heh": 512,
+      "hee": 179,
+      "hah": 178,
+      "mmm": 59,
+      "nngh": 87,
+      "gah": 7,
+      "ugh": 18,
+      "tsk": 20,
+      "argh": 8,
+      "eek": 1,
+      "oof": 1,
+      "huh": 2
+    },
+    "proper_names_or_terms_not_changed": [
+      "Lord", "General", "Ambrosia", "Argent", "Astral",
+      "Bonjour", "mes amis", "Moi", "Fire Emblem", "Shadow Dragon"
+    ]
+  },
+  "line_width": {
+    "F": {"n": 14020, "median": 35, "p90": 84, "p95": 90, "p99": 119, "max": 165},
+    "G": {"n": 13989, "median": 35, "p90": 83, "p95": 88, "p99": 115, "max": 189},
+    "I": {"n": 14096, "median": 32, "p90": 80, "p95": 87, "p99": 114, "max": 203},
+    "S": {"n": 14157, "median": 32, "p90": 81, "p95": 86, "p99": 116, "max": 155},
+    "U": {"n": 14931, "median": 31, "p90": 79, "p95": 84, "p99": 111, "max": 159},
+    "TR": {"n": 14931, "median": 33, "p90": 76, "p95": 83, "p99": 108, "max": 164}
+  },
+  "manifest": {
+    "turkish_file_count": 854,
+    "turkish_row_count": 14931
+  },
+  "font_files": 6,
+  "font_turkish_glyph_check": "PASS: Ç Ğ İ Ö Ş Ü ç ğ ı ö ş ü in all 6 fonts (real .bfnt.lz)",
+  "inject": {
+    "changed_strings": 26,
+    "changed_files": 19,
+    "fallback_u_rows": 886,
+    "pass243_total_changes": 72,
+    "pass243_total_files": 52
+  },
+  "output_verification": "files=854 records=15817 tr_filled=14931 tr_exact=14931 fallback_u=886 count_mismatch=0 key_mismatch=0 value_mismatch=0 patch_files=860 RESULT=PASS",
+  "patch_location": {
+    "path": "000400000009F100/romfs",
+    "files": 860,
+    "bin_files": 854,
+    "font_files": 6,
+    "font_source": "varliklar/fontlar",
+    "verify": "PASS: 854 files / 15817 records (U)",
+    "csv_exact_match": true
+  },
+  "build_artifacts_stored": false,
+  "build_artifacts": "Optional m/Luma ZIPs are written to a temporary folder; use --out to keep them.",
+  "deterministic_zip_output": true,
+  "length_audit": {
+    "font": "System.bfnt.lz",
+    "dialogue_rows_checked": 10153,
+    "vertical_overflow": 0,
+    "hard_horizontal_overflow_before": 42,
+    "hard_horizontal_overflow_after": 0,
+    "max_page_lines_after": 3,
+    "method": "page-aware pixel width using real BFNT glyph widths; official Latin-script languages as reference"
+  },
+  "known_limitations": [
+    "06_REFERENCE_INPUTS/m.zip is absent; patch was produced from the single-language U romfs layout.",
+    "F/G/I/S binary language trees are absent; cross-language validation is CSV-column based.",
+    "Patriots is a separate translation, not a gold standard. 741 rows remained Japanese and 138 rows are in files absent from Patriots; those were checked against U/F/G/I/S.",
+    "39 rows have empty U/TR but filled Italian (sometimes F/G/S); left as unused PCF2/PCF3 variants.",
+    "494 dialogue lines remain under 360 px and were marked borderline; a device/Citra test is recommended.",
+    "Pixel widths are estimated from System.bfnt.lz glyph advances; actual box margins may differ slightly.",
+    "Patch was not tested on real hardware or Citra; validation is structural and pixel-based."
+  ],
+  "tracked_patch_binaries_updated": 839,
+  "binary_edit_method": "Generated patch synced to 000400000009F100/romfs; no manual binary editing.",
+  "committed": false
+}

@@ -28,6 +28,7 @@ from pathlib import Path, PurePosixPath
 from typing import Dict, Iterable, Iterator, List, Optional, Tuple
 
 LANGS = ("F", "G", "I", "S", "U")
+PATCH_LANGS = ("E", "F", "G", "I", "S", "U")
 LANG_NAMES = {
     "F": "French",
     "G": "German",
@@ -373,8 +374,9 @@ class SourceBase:
 
 
 class ZipSource(SourceBase):
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, langs: Tuple[str, ...] = LANGS):
         self.path = path
+        self.langs = tuple(langs)
         self.zf = zipfile.ZipFile(path, "r")
         self.root_prefix = self._detect_root()
 
@@ -385,12 +387,13 @@ class ZipSource(SourceBase):
             pp = PurePosixPath(n)
             parts = pp.parts
             for idx, part in enumerate(parts[:-1]):
-                if part in LANGS:
+                if part in self.langs:
                     root = "/".join(parts[:idx])
                     candidates[root].add(part)
-        valid = [root for root, langs in candidates.items() if set(LANGS).issubset(langs)]
+        valid = [root for root, langs in candidates.items() if set(self.langs).issubset(langs)]
         if not valid:
-            raise ToolError("ZIP içinde F/G/I/S/U dil klasörleri bulunamadı.")
+            wanted = "/".join(self.langs)
+            raise ToolError(f"ZIP içinde şu dil klasörleri bulunamadı: {wanted}")
         # Prefer the deepest/specific root, then shortest textual representation.
         valid.sort(key=lambda x: (-len(PurePosixPath(x).parts), len(x)))
         return valid[0]
@@ -400,7 +403,7 @@ class ZipSource(SourceBase):
 
     def list_files(self) -> List[str]:
         sets = []
-        for lang in LANGS:
+        for lang in self.langs:
             prefix = self._name(lang, "")
             if prefix and not prefix.endswith("/"):
                 prefix += "/"
@@ -415,7 +418,7 @@ class ZipSource(SourceBase):
         common = set.intersection(*sets)
         union = set.union(*sets)
         if common != union:
-            missing = {lang: len(union - sets[i]) for i, lang in enumerate(LANGS)}
+            missing = {lang: len(union - sets[i]) for i, lang in enumerate(self.langs)}
             raise ToolError(f"Dil klasörlerinde dosya listeleri aynı değil: {missing}")
         return sorted(common)
 
@@ -427,14 +430,14 @@ class ZipSource(SourceBase):
 
 
 class DirSource(SourceBase):
-    def __init__(self, path: Path):
+    def __init__(self, path: Path, langs: Tuple[str, ...] = LANGS):
         self.input_path = path
+        self.langs = tuple(langs)
         self.base = self._detect_base(path)
         self.root_prefix = ""
 
-    @staticmethod
-    def _has_langs(p: Path) -> bool:
-        return all((p / l).is_dir() for l in LANGS)
+    def _has_langs(self, p: Path) -> bool:
+        return all((p / l).is_dir() for l in self.langs)
 
     def _detect_base(self, path: Path) -> Path:
         if self._has_langs(path):
@@ -443,18 +446,19 @@ class DirSource(SourceBase):
         valid = [p for p in children if self._has_langs(p)]
         if len(valid) == 1:
             return valid[0]
-        raise ToolError("Klasör içinde F/G/I/S/U dil klasörleri bulunamadı.")
+        wanted = "/".join(self.langs)
+        raise ToolError(f"Klasör içinde şu dil klasörleri bulunamadı: {wanted}")
 
     def list_files(self) -> List[str]:
         sets = []
-        for lang in LANGS:
+        for lang in self.langs:
             root = self.base / lang
             s = {p.relative_to(root).as_posix() for p in root.rglob("*.bin.lz") if p.is_file()}
             sets.append(s)
         common = set.intersection(*sets)
         union = set.union(*sets)
         if common != union:
-            missing = {lang: len(union - sets[i]) for i, lang in enumerate(LANGS)}
+            missing = {lang: len(union - sets[i]) for i, lang in enumerate(self.langs)}
             raise ToolError(f"Dil klasörlerinde dosya listeleri aynı değil: {missing}")
         return sorted(common)
 
@@ -465,12 +469,22 @@ class DirSource(SourceBase):
         pass
 
 
-def open_source(path: Path) -> SourceBase:
+def open_source(path: Path, langs: Tuple[str, ...] = LANGS) -> SourceBase:
     if path.is_file() and path.suffix.lower() == ".zip":
-        return ZipSource(path)
+        return ZipSource(path, langs)
     if path.is_dir():
-        return DirSource(path)
+        return DirSource(path, langs)
     raise ToolError("Kaynak ZIP veya klasör bulunamadı.")
+
+
+def parse_langs(value: str) -> Tuple[str, ...]:
+    langs = tuple(dict.fromkeys(x.strip().upper() for x in value.split(",") if x.strip()))
+    if not langs:
+        raise ToolError("Dil listesi boş olamaz. Örnek: U veya F,G,I,S,U")
+    invalid = [x for x in langs if x not in LANGS]
+    if invalid:
+        raise ToolError(f"Geçersiz dil(lar): {', '.join(invalid)}. Seçenekler: {', '.join(LANGS)}")
+    return langs
 
 
 def parse_lz_message(blob: bytes) -> MessageArchive:
@@ -495,9 +509,12 @@ def csv_rel_for_game_file(rel: str) -> str:
 
 
 class TurkishPatchSource:
-    """Read a Turkish patch that contains only the U language tree."""
-    def __init__(self, path: Path):
+    """Read a Turkish patch tree from a chosen language slot (default: U)."""
+    def __init__(self, path: Path, lang: str = "U"):
+        if lang not in PATCH_LANGS:
+            raise ToolError(f"Geçersiz yama dil slotu: {lang} (desteklenen: {', '.join(PATCH_LANGS)})")
         self.path = path
+        self.lang = lang
         self.zf: Optional[zipfile.ZipFile] = None
         self.base: Optional[Path] = None
         self.names: Dict[str, str] = {}
@@ -518,28 +535,29 @@ class TurkishPatchSource:
                 continue
             parts = PurePosixPath(n).parts
             for idx, part in enumerate(parts[:-1]):
-                if part == "U":
+                if part == self.lang:
                     root = "/".join(parts[:idx + 1])
                     rel = "/".join(parts[idx + 1:])
                     candidates[root][rel] = n
         if not candidates:
-            raise ToolError("Türkçe yama ZIP'inde U klasörü bulunamadı.")
+            raise ToolError(f"Türkçe yama ZIP'inde {self.lang} klasörü bulunamadı.")
         root, mapping = max(candidates.items(), key=lambda kv: len(kv[1]))
         self.names = mapping
 
     def _index_dir(self) -> None:
         path = self.path
+        lang = self.lang
         possible: List[Path] = []
-        if path.name == "U" and path.is_dir():
+        if path.name == lang and path.is_dir():
             possible.append(path)
-        if (path / "U").is_dir():
-            possible.append(path / "U")
+        if (path / lang).is_dir():
+            possible.append(path / lang)
         if path.is_dir():
             for child in path.iterdir():
-                if child.is_dir() and (child / "U").is_dir():
-                    possible.append(child / "U")
+                if child.is_dir() and (child / lang).is_dir():
+                    possible.append(child / lang)
         if not possible:
-            raise ToolError("Türkçe yama klasöründe U klasörü bulunamadı.")
+            raise ToolError(f"Türkçe yama klasöründe {lang} klasörü bulunamadı.")
         self.base = max(possible, key=lambda x: sum(1 for _ in x.rglob("*.bin.lz")))
         self.names = {p.relative_to(self.base).as_posix(): str(p) for p in self.base.rglob("*.bin.lz") if p.is_file()}
 
@@ -584,7 +602,7 @@ def command_extract(args: argparse.Namespace) -> int:
     manifest_path = out_dir / "manifest.json"
 
     source = open_source(src_path)
-    tr_patch = TurkishPatchSource(Path(args.tr_patch)) if args.tr_patch else None
+    tr_patch = TurkishPatchSource(Path(args.tr_patch), lang=args.patch_lang) if args.tr_patch else None
     try:
         files = source.list_files()
         rows = 0
@@ -655,6 +673,7 @@ def command_extract(args: argparse.Namespace) -> int:
             "row_count": rows,
             "csv_root": "csv",
             "turkish_patch": Path(args.tr_patch).name if args.tr_patch else None,
+            "turkish_patch_lang": args.patch_lang if args.tr_patch else None,
             "turkish_file_count": tr_files if tr_patch is not None else 0,
             "turkish_row_count": tr_rows if tr_patch is not None else 0,
             "files": file_meta,
@@ -824,7 +843,7 @@ def inject_zip(
     blank_is_empty: bool,
     verbose: bool,
 ) -> Tuple[int, int]:
-    source = ZipSource(source_path)
+    source = ZipSource(source_path, (target,))
     files = source.list_files()
     target_names = {source._name(target, rel): rel for rel in files}
     changed_files = 0
@@ -859,7 +878,7 @@ def inject_dir(
     blank_is_empty: bool,
     verbose: bool,
 ) -> Tuple[int, int]:
-    source = DirSource(source_path)
+    source = DirSource(source_path, (target,))
     files = source.list_files()
     if out_path.exists():
         if out_path.resolve() == source_path.resolve():
@@ -926,22 +945,24 @@ def command_inject(args: argparse.Namespace) -> int:
 # ------------------------------ Verify --------------------------------
 
 def command_verify(args: argparse.Namespace) -> int:
-    src = open_source(Path(args.source))
+    langs = parse_langs(args.langs)
+    src = open_source(Path(args.source), langs)
     try:
         files = src.list_files()
         total_records = 0
+        base_lang = "U" if "U" in langs else langs[0]
         for no, rel in enumerate(files, 1):
-            parsed = {lang: parse_lz_message(src.read(lang, rel)) for lang in LANGS}
+            parsed = {lang: parse_lz_message(src.read(lang, rel)) for lang in langs}
             counts = {x.count for x in parsed.values()}
             if len(counts) != 1:
-                raise ToolError(f"{rel}: kayıt sayıları uyuşmuyor.")
-            base_keys = parsed["U"].key_raw
-            if any(parsed[l].key_raw != base_keys for l in LANGS):
-                raise ToolError(f"{rel}: anahtarlar diller arasında uyuşmuyor.")
-            total_records += parsed["U"].count
+                raise ToolError(f"{rel}: kayıt sayıları uyuşmuyor ({', '.join(langs)}).")
+            base_keys = parsed[base_lang].key_raw
+            if any(parsed[l].key_raw != base_keys for l in langs):
+                raise ToolError(f"{rel}: anahtarlar diller arasında uyuşmuyor ({', '.join(langs)}).")
+            total_records += parsed[base_lang].count
             if args.verbose and (no % 50 == 0 or no == len(files)):
                 print(f"[verify] {no}/{len(files)}")
-        print(f"Doğrulama başarılı: {len(files)} dosya / {total_records} kayıt.")
+        print(f"Doğrulama başarılı: {len(files)} dosya / {total_records} kayıt ({', '.join(langs)}).")
         return 0
     finally:
         src.close()
@@ -957,12 +978,13 @@ def make_parser() -> argparse.ArgumentParser:
     e = sub.add_parser("extract", help="F/G/I/S/U metinlerini dosya başına ayrı CSV'lere çıkar")
     e.add_argument("source", help="m.zip veya F/G/I/S/U içeren klasör")
     e.add_argument("output", help="Proje çıktı klasörü")
-    e.add_argument("--tr-patch", help="Eski Türkçe yama ZIP/klasörü; U metinlerini TR sütunlarına aktarır")
+    e.add_argument("--tr-patch", help="Eski Türkçe yama ZIP/klasörü; seçilen dil ağacındaki metinleri TR sütunlarına aktarır")
+    e.add_argument("--patch-lang", default="U", choices=PATCH_LANGS, help="Yama içindeki dil klasörü (varsayılan U; Patriots için E)")
     e.add_argument("-v", "--verbose", action="store_true", help="İlerlemeyi göster")
     e.set_defaults(func=command_extract)
 
     i = sub.add_parser("inject", help="Projedeki ayrı CSV'leri seçilen dil slotuna enjekte et")
-    i.add_argument("source", help="Orijinal m.zip veya F/G/I/S/U içeren klasör")
+    i.add_argument("source", help="Orijinal m.zip veya hedef dil klasörünü içeren klasör (tek dilli kaynak desteklenir)")
     i.add_argument("translations", help="extract ile oluşan proje klasörü (veya eski translations.csv)")
     i.add_argument("--target", default="U", help="Yazılacak oyun dil slotu: F/G/I/S/U (varsayılan U)")
     i.add_argument("--column", default="TR", help="Enjekte edilecek CSV sütunu (varsayılan TR)")
@@ -973,7 +995,8 @@ def make_parser() -> argparse.ArgumentParser:
     i.set_defaults(func=command_inject)
 
     v = sub.add_parser("verify", help="Kaynak dil dosyalarını ve eşleşmeleri doğrula")
-    v.add_argument("source", help="m.zip veya F/G/I/S/U içeren klasör")
+    v.add_argument("source", help="m.zip veya dil klasör(ler)ini içeren klasör")
+    v.add_argument("--langs", default="F,G,I,S,U", help="Doğrulanacak diller, virgülle (varsayılan F,G,I,S,U; tek dil için U)")
     v.add_argument("-v", "--verbose", action="store_true", help="İlerlemeyi göster")
     v.set_defaults(func=command_verify)
 
